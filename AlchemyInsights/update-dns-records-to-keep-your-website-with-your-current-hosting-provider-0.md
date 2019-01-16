@@ -1,0 +1,49 @@
+---
+title: Aggiornare i record DNS per mantenere il proprio sito Web con l'attuale provider di hosting
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.date: 5/2/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
+ms.openlocfilehash: a79302259e294ea5bf3b1d29393a412edb27a388
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28296220"
+---
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Aggiornare i record DNS per mantenere il proprio sito Web con l'attuale provider di hosting
+
+1. Nell'elenco dei domini della pagina [Domini](https://portal.office.com/adminportal/home#/Domains) selezionare il dominio usato per il sito Web, quindi selezionare **Impostazioni DNS** nel riquadro di gestione. 
+    
+2. Selezionare **+ Nuovo record personalizzato** e immettere quanto segue: 
+    
+  - Per **Tipo di DNS** immettere: **A (Indirizzo)**
+    
+  - Per **Nome host o alias** digitare **@**
+    
+  - Per **Indirizzo IP** digitare l'indirizzo IP presso cui il sito Web è attualmente ospitato, ad esempio 172.16.140.1. 
+    
+    Deve essere un indirizzo IP  *statico*  , non  *dinamico*  , per il sito Web. Contattare il provider in cui è ospitato il sito Web per verificare che sia possibile ottenere un indirizzo IP statico per il sito Web pubblico. 
+    
+3. Selezionare **Salva**. 
+    
+È anche possibile creare un record CNAME per aiutare i clienti a trovare il sito Web.
+  
+1. Selezionare **+ Nuovo record personalizzato** e immettere quanto segue: 
+    
+  - Per **Tipo di DNS** immettere: **CNAME (Alias)**
+    
+  - Per **Nome host o alias** digitare **www**
+    
+  - Per **Indirizzo di puntamento** digitare il nome di dominio completo (FQDN) del sito Web, ad esempio contoso.com). 
+    
+2. Selezionare **Salva**. 
+    
+
