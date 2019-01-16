@@ -1,0 +1,43 @@
+---
+title: Modifica UPN
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.date: 2/25/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
+ms.openlocfilehash: b8c64b3c006ffd59ad5b72478f235bb55601491c
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28296821"
+---
+# <a name="change-a-users-email-address"></a><span data-ttu-id="8b423-102">Cambiare l'indirizzo di posta elettronica di un utente</span><span class="sxs-lookup"><span data-stu-id="8b423-102">Change a user's email address</span></span>
+
+<span data-ttu-id="8b423-p101">Modifica di una persona indirizzo di posta elettronica è facile! Procedere come segue:</span><span class="sxs-lookup"><span data-stu-id="8b423-p101">Changing someone's email address is easy! Just follow these steps:</span></span>
+  
+1. <span data-ttu-id="8b423-105">Nell'Interfaccia di amministrazione di Office 365 passare alla pagina [Utenti](https://go.microsoft.com/fwlink/p/?linkid=834822) o scegliere **Utenti** \> **Utenti attivi**.</span><span class="sxs-lookup"><span data-stu-id="8b423-105">In the Office 365 admin center, go to the [Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active Users**.</span></span>
+    
+2. <span data-ttu-id="8b423-106">Selezionare l'utente.</span><span class="sxs-lookup"><span data-stu-id="8b423-106">Select the user.</span></span>
+    
+3. <span data-ttu-id="8b423-107">A destra, nella riga **Nome utente/Alias di posta elettronica**, scegliere **Modifica**.</span><span class="sxs-lookup"><span data-stu-id="8b423-107">On the right, in the **Username / Email Aliases** row, choose **Edit**.</span></span>
+    
+4. <span data-ttu-id="8b423-108">Nella casella **Alias** , digitare un nuovo messaggio di posta elettronica, quindi scegliere **Aggiungi**.</span><span class="sxs-lookup"><span data-stu-id="8b423-108">In the **Alias** box, type a new email,then choose **Add**.</span></span>
+    
+    <span data-ttu-id="8b423-p102">**Importante**: se viene visualizzato il messaggio di errore " **non viene trovato un parametro che genera una corrispondenza per nome del parametro ' EmailAddresses**" significa che richieda più tempo per Office 365 completare l'installazione del tenant o il dominio personalizzato se una aggiunte recentemente . Il processo di installazione può richiedere fino a 4 ore. Attendere un po' di tempo in modo che il processo di installazione è ora di fine e quindi riprovare. Se il problema persiste, contattare il supporto e che eseguono una sincronizzazione completa automaticamente.</span><span class="sxs-lookup"><span data-stu-id="8b423-p102">**IMPORTANT**: If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the setup process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.</span></span>
+    
+    <span data-ttu-id="8b423-113">Se viene visualizzato il messaggio di errore " **cercato che non è stato modificato l'utente. Esaminare le informazioni utente e riprovare**"indica che non si è un amministratore globale di Office 365 e non si dispone delle autorizzazioni per modificare il nome dell'utente.</span><span class="sxs-lookup"><span data-stu-id="8b423-113">If you get the error message " **We're sorry, the user couldn't be edited. Review the user information and try again**" it means you aren't an Office 365 global admin and you don't have permissions to change the user's name.</span></span>
+    
+5. <span data-ttu-id="8b423-p103">Scegliere **Imposta come principale** per l'indirizzo di posta elettronica che si desidera impostare come indirizzo di posta elettronica principale di questa persona. Se la sottoscrizione è stato acquistato da GoDaddy, è necessario accedere relativa console di gestione per impostare l'indirizzo di posta elettronica principale.</span><span class="sxs-lookup"><span data-stu-id="8b423-p103">Choose **Set as Primary** for the email address that you want to set as the primary email address for that person. If you purchased your subscription from GoDaddy, you must sign in to their management console to set the primary email address.</span></span> 
+    
+6. <span data-ttu-id="8b423-116">Scegliere **Salva**, quindi **Chiudi**, e termine!</span><span class="sxs-lookup"><span data-stu-id="8b423-116">Choose **Save**, then **Close**, and you're done!</span></span>
+    
+<span data-ttu-id="8b423-p104">Non è stato facile? Per ulteriori informazioni e istruzioni con schermate, estrazione in questo articolo: [modificare un nome utente e posta elettronica in Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)</span><span class="sxs-lookup"><span data-stu-id="8b423-p104">Wasn't that easy? For more details and steps with screenshots, check out this article: [Change a user name and email address in Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)</span></span>
+  
+
