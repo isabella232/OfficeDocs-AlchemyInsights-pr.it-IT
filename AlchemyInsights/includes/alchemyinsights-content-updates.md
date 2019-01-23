@@ -1,9 +1,17 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383333"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
 
 
-## <a name="week-of-january-07-2019"></a>Settimana del 07 gennaio 2019
+## <a name="week-of-january-07-2019"></a>Settimana del 7 gennaio 2019
 
 
 | Data di pubblicazione |Titolo dell'argomento | Modifica |
@@ -624,3 +632,14 @@
 | 1/11/2019 | [Eliminazione di utenti](/AlchemyInsights/deleting-users) | modificato |
 | 1/11/2019 | [Implementare Single Sign-On semplice](/AlchemyInsights/deploy-seamless-single-sign-on) | modificato |
 | 1/11/2019 | [Disabilitare l'accesso in Yammer](/AlchemyInsights/disable-access-to-yammer) | modificato |
+
+
+## <a name="week-of-january-14-2019"></a>Settimana del 14 gennaio 2019
+
+
+| Data di pubblicazione |Titolo dell'argomento | Modifica |
+|------|------------|--------|
+| 14/1/2019 | Alchemy segnaposto | rimuovere |
+| 14/1/2019 | Aggiungere alchemy dominio | rimuovere |
+| 14/1/2019 | [Home page sui concetti Alchemy](/AlchemyInsights/index) | modificato |
+| 17/1/2019 | [stesso come nome del file è consigliabile [regola #-descrizione]](/AlchemyInsights/1-alchemy-insight-template) | aggiunta |
