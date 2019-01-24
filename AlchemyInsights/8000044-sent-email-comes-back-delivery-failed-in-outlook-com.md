@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
 ms.openlocfilehash: dce066e42fff9e0174097803cbfb6032819d86a9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28295948"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476004"
 ---
-# <a name="sent-email-comes-back-delivery-failed"></a><span data-ttu-id="ab23d-102">Posta elettronica inviata vengono restituiti "recapito non riuscito"</span><span class="sxs-lookup"><span data-stu-id="ab23d-102">Sent email comes back "delivery failed"</span></span>
+# <a name="sent-email-comes-back-delivery-failed"></a><span data-ttu-id="7e664-102">Posta elettronica inviata vengono restituiti "recapito non riuscito"</span><span class="sxs-lookup"><span data-stu-id="7e664-102">Sent email comes back "delivery failed"</span></span>
 
-<span data-ttu-id="ab23d-p101">Gli errori di recapito o messaggi di posta elettronica tornare come non recapitabile, possono verificarsi per diversi motivi. Per ulteriori informazioni sui messaggi di errore più comuni, con le soluzioni suggerite, vedere [posta elettronica inviati in Outlook.com vengono restituiti "recapito non riuscito"](https://go.microsoft.com/fwlink/p/?linkid=2001403&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="ab23d-p101">Delivery failures, or email messages that come back as undeliverable, can happen for a number of reasons. To learn more about the most common error messages, along with suggested solutions, see [Sent email in Outlook.com comes back "delivery failed"](https://go.microsoft.com/fwlink/p/?linkid=2001403&amp;clcid=0x409).</span></span>
+<span data-ttu-id="7e664-p101">Gli errori di recapito o messaggi di posta elettronica tornare come non recapitabile, possono verificarsi per diversi motivi. Per ulteriori informazioni sui messaggi di errore più comuni, con le soluzioni suggerite, vedere [posta elettronica inviati in Outlook.com vengono restituiti "recapito non riuscito"](https://go.microsoft.com/fwlink/p/?linkid=2001403&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="7e664-p101">Delivery failures, or email messages that come back as undeliverable, can happen for a number of reasons. To learn more about the most common error messages, along with suggested solutions, see [Sent email in Outlook.com comes back "delivery failed"](https://go.microsoft.com/fwlink/p/?linkid=2001403&amp;clcid=0x409).</span></span>
   
 
