@@ -1,5 +1,5 @@
 ---
-title: Estendere la versione di valutazione di Office 365 per aziende
+title: Estendere il periodo di valutazione per Office 365 per le aziende
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: c325ca115037831d220d9dd5a7b092ab74aee593
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28295752"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29475560"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Estendere la versione di valutazione di Office 365 per aziende
+# <a name="extend-your-trial-for-office-365-for-business"></a>Estendere il periodo di valutazione per Office 365 per le aziende
 
 Se la sottoscrizione di prova è compreso in 15 giorni di scadenza e la versione di valutazione non è stato esteso prima, è possibile estendere la versione di prova per un altro periodo di 30 giorni. È possibile eseguire solo questo sola volta.
   

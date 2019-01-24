@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
 ms.openlocfilehash: 9950fb8af79c7689133a226df29c123feefb0254
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28295925"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29475635"
 ---
 È necessario che viene **mantenuta** da una **conservazione** non sarà possibile identificare il contenuto? È necessario **sapere** dove si trova la conservazione per la **cassetta postale** ? Esenzioni ( *funzionalità conservazione* ) possono essere applicate utilizzando uno dei metodi seguenti in Office 365: 
   
 - Conservazione in caso di dispute 
     
-- esenzione di eDiscovery
+- Esenzione di eDiscovery
     
 - Blocco sul posto
     

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
 ms.openlocfilehash: 92c9660fda35489bfe94538800cff7060557c9a6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296147"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29475657"
 ---
 # <a name="enable-external-sharing"></a>Abilita condivisione esterna
 
@@ -33,7 +33,7 @@ ms.locfileid: "28296147"
     
   - "Consenti entrambi gli utenti esterni che accettano la condivisione di inviti e per i collegamenti guest anonimi"
     
-- **Singole raccolte siti**
+- Raccolte siti individuali
     
   - Raccolte - raccolta siti selezionare in questione, siti e quindi fare clic su condivisione, nella barra multifunzione -\> verificare che siano selezionate entrambe le opzioni di condivisione.
     

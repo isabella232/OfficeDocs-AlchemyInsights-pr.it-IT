@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296927"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476281"
 ---
- **Opzioni di pagamento**
+ Opzioni di pagamento.
   
 Carta di credito, conto bancario (addebito) e fatture (retribuzione dal controllo o trasferire fondi elettronico)
   
@@ -32,12 +32,12 @@ Se la sottoscrizione dei costi in una determinata quantità di money (questo imp
   
 Se i pagamenti tramite fatturazione per la sottoscrizione, verrà visualizzato un messaggio che informa che è possibile visualizzare estratto. Questo messaggio di posta elettronica non contiene una copia di estratto. Tuttavia, è possibile scegliere di [ricevere una copia di estratto nel messaggio di posta elettronica](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). L'istruzione fatturazione include informazioni dettagliate sulle opzioni per rendere un pagamento. Se si immette un numero di ordine di acquisto quando si acquista una sottoscrizione, viene visualizzato il numero sull'estratto. Per informazioni sull'accesso fatturazione istruzioni, vedere [visualizzare il pagamento o fatturazione](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **Modificare le modalità di pagamento**
+ Modifica modalità di pagamento.
   
 Se si desidera modificare le modalità di pagamento per una sottoscrizione corrente, seguire le istruzioni riportate [di seguito](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
- **Informazioni aggiuntive**
+ **Altre informazioni**
   
-[Pagamento per Office 365 per la sottoscrizione di Business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[Pagare l'abbonamento a Office 365 per le aziende](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 
