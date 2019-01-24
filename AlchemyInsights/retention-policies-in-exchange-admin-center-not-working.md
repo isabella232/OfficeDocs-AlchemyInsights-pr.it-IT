@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
 ms.openlocfilehash: 0ceb1737040f0304bfe8b611241ce1deef487652
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28295844"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476153"
 ---
  **Problema:** Appena creato o i criteri di conservazione aggiornati nell'interfaccia di amministrazione di Exchange non si applicano alle cassette postali o gli elementi non vengono spostati la cassetta postale di archiviazione o eliminati. 
   
@@ -30,7 +30,7 @@ ms.locfileid: "28295844"
 
 - Ciò può inoltre verificarsi se **RetentionHold** è stato **abilitato** per la cassetta postale. Se la cassetta postale sia stata inserita in un RetentionHold, il criterio di conservazione della cassetta postale non verrà elaborato periodo di tempo. Per ulteriori informazioni relative sui, vedere Impostazione RetentionHold: [Mantenimento delle cassette postali](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
-    **Soluzione:**
+    **Soluzione**
     
   - Verificare lo stato dell'impostazione RetentionHold nella cassetta postale specifica [EXO](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)PowerShell:
     

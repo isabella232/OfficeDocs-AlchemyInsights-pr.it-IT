@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
 ms.openlocfilehash: a56f32b54e6cb32fa044d26d08868bac8c368de5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296050"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476371"
 ---
 Si sono verificati problemi con **Prevenzione della perdita di dati (DLP)** non funziona per il contenuto che include un **Numero di carta di credito** quando si utilizza un tipo di informazioni riservate DLP in Office 365? In tal caso, verificare che il contenuto sono contenute le informazioni necessarie per attivare l'il criterio DLP quando viene valutata. Ad esempio, per un **criterio di carta di credito** configurato con un livello di probabilità di 85%, le operazioni seguenti vengono valutati le proprietà e devono essere rilevati della regola da attivare: 
   
@@ -32,11 +32,11 @@ Si sono verificati problemi con **Prevenzione della perdita di dati (DLP)** non 
     
   - Viene trovata una parola chiave da Keyword_cc_verification.
     
-  - Viene trovata una parola chiave da Keyword_cc_name
+  - Viene trovata una parola chiave da Keyword_cc_name.
     
   - La funzione Func_expiration_date rileva una data nel formato corretto.
     
-  - Passa il valore di checksum
+  - Il checksum ha esito positivo.
     
     Nell'esempio seguente, ad esempio attiverà per un criterio di numero di carta di credito DLP:
     

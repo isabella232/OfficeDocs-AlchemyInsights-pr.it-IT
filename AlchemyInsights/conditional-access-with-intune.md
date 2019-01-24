@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: 59f1aefaeec3d655b2388b00e7d58a8c2338504b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28295863"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476226"
 ---
 # <a name="conditional-access-with-intune"></a>Accesso condizionale con Intune
 
@@ -25,7 +25,7 @@ Utilizzo di **Access condizionale** con Intune richiede 3 passaggi:
     
 - Verificare i **Criteri di conformità** e **Criteri di accesso condizionale** destinate ai gruppi di utenti desiderati. Ciò può richiedere la creazione di gruppi di utenti specifici in Azure Active Directory. 
     
-Per ulteriori informazioni:
+Altre informazioni
   
 - [Procedure consigliate di accesso condizionale](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
     

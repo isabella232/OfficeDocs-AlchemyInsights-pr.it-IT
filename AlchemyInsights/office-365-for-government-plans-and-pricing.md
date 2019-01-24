@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
 ms.openlocfilehash: 82bcf1d9530f81831d583b086e72fba484ac006d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296809"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29476238"
 ---
 Piani di Office 365 governo degli Stati Uniti sono stati progettati per le esigenze di organizzazioni governative statunitensi. Forniscono tutte le caratteristiche e funzionalità dei servizi di Office 365 in una community cloud pubblici segmentate che consente alle organizzazioni di soddisfare gli standard di sicurezza e conformità negli Stati Uniti.
   
