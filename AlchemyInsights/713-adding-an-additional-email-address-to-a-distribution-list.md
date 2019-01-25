@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
 ms.openlocfilehash: 528b574eb45295b71738bcafac8da13ad3f5f7b9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296490"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498198"
 ---
 # <a name="add-an-email-address-for-a-distribution-group"></a>Aggiungere un indirizzo di posta elettronica per un gruppo di distribuzione
 
 Per aggiungere gli indirizzi di posta elettronica per un gruppo di distribuzione esistente, eseguire la procedura seguente:
   
-1. Nell' [interfaccia di amministrazione di Exchange](https://outlook.office365.com/ecp/), accedere a **destinatari** \> **gruppi**.
+1. Nell'interfaccia di amministrazione di Exchange passare a [Destinatari](https://outlook.office365.com/ecp/) **** \>.
     
 2. Selezionare il gruppo di distribuzione che si desidera modificare e quindi fare clic su **Modifica**.
     
