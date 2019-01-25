@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
 ms.openlocfilehash: 6eae9146d33f5fc307085dbf931d57bdbb28b82e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28297006"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29475510"
 ---
 Si sono verificati problemi con **Prevenzione della perdita di dati (DLP)** non funziona per il contenuto che include un **Numero di conto bancario US** quando si utilizza un tipo di informazioni riservate DLP in Office 365? In tal caso, verificare che il contenuto contiene le informazioni necessarie per quali il criterio DLP è cercando quando viene valutata. 
   
@@ -28,7 +28,7 @@ Ad esempio, per un criterio di **Numero di conto bancario US** configurato con u
     
 - **[Definizione:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)** Un criterio DLP è 75% la certezza che è stato rilevato questo tipo di informazioni riservate se all'interno di prossimità di 300 caratteri: 
     
-  - L'espressione regolare Regex_usa_bank_account_number individua contenuto corrispondente al formato
+  - L'espressione regolare Regex_usa_bank_account_number restituisce contenuti che corrispondono al modello.
     
   - Viene trovata una parola chiave da Keyword_usa_Bank_Account.
     

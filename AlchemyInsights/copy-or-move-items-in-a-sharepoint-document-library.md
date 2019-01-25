@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28295743"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29475501"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Copiare o spostare gli elementi nella raccolta documenti di SharePoint
 
@@ -37,6 +37,6 @@ ms.locfileid: "28295743"
 3. Fare clic su **Copia** o **spostamento di seguito**.
     
 > [!NOTE]
->  È possibile copiare un massimo di 500 MB di file e cartelle in una sola volta. > Quando si copiano documenti a cui hanno cronologia versioni dell'elenco, viene copiata solo la versione più recente. Quando si spostano documenti, verrà spostata anche la cronologia. 
+>  È possibile copiare un massimo di 500 MB di file e cartelle in una sola volta. gt _ quando si copiano documenti a cui hanno cronologia solo la versione più recente viene copiato. Quando si spostano documenti, verrà spostata anche la cronologia. 
   
 

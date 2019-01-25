@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
 ms.openlocfilehash: 6e4f8fbc8382d4f71f1163f97b6dab24fe762742
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296788"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29475698"
 ---
 # <a name="view-my-bill"></a>Visualizzare pagamento
 
-1. Nell'interfaccia di amministrazione, passare alla pagina [distinte](https://go.microsoft.com/fwlink/p/?linkid=848039) oppure scegliere **fatturazione** \> **distinte**.
+1. Nell'interfaccia di amministrazione passare alla pagina [Fatture](https://go.microsoft.com/fwlink/p/?linkid=848039) oppure scegliere **Fatturazione** \> **Fatture**.
     
 2. Scegliere il mese e la data della fattura desiderata e quindi scegliere **Visualizza**.
     
