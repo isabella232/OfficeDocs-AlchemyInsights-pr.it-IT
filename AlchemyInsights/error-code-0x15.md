@@ -10,21 +10,21 @@ localization_priority: Priority
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
 description: Se si è ricevuto un errore durante l'attivazione di Office 2013 in distribuzioni Remote Desktop Services (RDS), è possibile attivare ADAL modificando il Registro di sistema.
 ms.openlocfilehash: 89f9270169e13fd7706f7826c624ef8ae4d47b3f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296365"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499386"
 ---
 Se si è ricevuto un errore durante l'attivazione di Office 2013 in distribuzioni Remote Desktop Services (RDS), è possibile attivare ADAL modificando il Registro di sistema. 
   
 |**Chiave del Registro di sistema**|**Tipo**|**Valore**|
 |:-----|:-----|:-----|
-|HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
+|HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |^1  <br/> |
    
 Per ulteriori informazioni, vedere [Abilitare moderno Authentication for Office 2013 su dispositivi Windows.](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)
   
 > [!NOTE]
->  ADAL è abilitata per impostazione predefinita in Office 365 ProPlus e Office 2016. > Remote Desktop Services (RDS) è stato denominato in precedenza Servizi Terminal. 
+>  ADAL è abilitata per impostazione predefinita in Office 365 ProPlus e Office 2016. gt _ remote Desktop Services (RDS) è stato denominato in precedenza Servizi Terminal. 
   
 
