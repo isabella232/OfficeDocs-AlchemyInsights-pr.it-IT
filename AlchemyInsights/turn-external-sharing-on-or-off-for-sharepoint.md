@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
 ms.openlocfilehash: 1c98fcf991bc1e8648d23178b169bc6aba67784a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296273"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29475892"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Attivare esterno condivisione attivato o disattivato per SharePoint
 
@@ -25,7 +25,7 @@ ms.locfileid: "28296273"
 2. Attivare o disattivare le l'impostazione oppure selezionare un'opzione di condivisione se è attivato.
     
 > [!NOTE]
-> Disattivazione di condivisione per SharePoint disattiva lo per OneDrive. Per consentire esterno in un sito di condivisione, l'impostazione del livello di organizzazione deve trovarsi su. > Per consentire esterno condivisione per OneDrive o qualsiasi singoli siti di SharePoint, è necessario attivarlo a livello di organizzazione per SharePoint. È possibile quindi disattivarlo per le raccolte siti specifiche. Per gestire le impostazioni di condivisione esterne per nei siti di comunicazione e i siti che appartengono a gruppi di Office 365, è necessario utilizzare la nuova interfaccia di amministrazione di SharePoint (anteprima) o PowerShell. Per ulteriori informazioni sulla gestione delle impostazioni di condivisione esterne, vedere [attivare esterno condivisione attivato o disattivato](https://go.microsoft.com/fwlink/?linkid=866426). 
+> Disattivazione di condivisione per SharePoint disattiva lo per OneDrive. Per consentire esterno in un sito di condivisione, l'impostazione del livello di organizzazione deve trovarsi su. gt _ consentire esterno condivisione per OneDrive o qualsiasi singoli siti di SharePoint, è necessario attivarlo a livello di organizzazione per SharePoint. È possibile quindi disattivarlo per le raccolte siti specifiche. Per gestire le impostazioni di condivisione esterne per nei siti di comunicazione e i siti che appartengono a gruppi di Office 365, è necessario utilizzare la nuova interfaccia di amministrazione di SharePoint (anteprima) o PowerShell. Per ulteriori informazioni sulla gestione delle impostazioni di condivisione esterne, vedere [attivare esterno condivisione attivato o disattivato](https://go.microsoft.com/fwlink/?linkid=866426). 
   
 [Ulteriori informazioni sulle funzionalità di condivisione esterno di SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
   
