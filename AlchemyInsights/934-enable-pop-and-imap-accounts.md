@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2e07bd5a-5aad-41a9-aaba-6b2bedaf92f9
 ms.openlocfilehash: 03d575fbcb248007c8d8931f38652fc74051f0d1
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296765"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29475859"
 ---
-# <a name="pop-and-imap4-settings"></a><span data-ttu-id="7d1bc-102">Impostazioni POP e IMAP4</span><span class="sxs-lookup"><span data-stu-id="7d1bc-102">POP and IMAP4 settings</span></span>
+# <a name="pop-and-imap4-settings"></a><span data-ttu-id="9bdcc-102">Impostazioni POP e IMAP4</span><span class="sxs-lookup"><span data-stu-id="9bdcc-102">POP and IMAP4 settings</span></span>
 
-<span data-ttu-id="7d1bc-103">Per trovare le impostazioni del server POP3 e IMAP4 per la propria cassetta postale, vedere [impostazioni per Outlook di posta elettronica POP e IMAP](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span><span class="sxs-lookup"><span data-stu-id="7d1bc-103">To find the POP3 and IMAP4 server settings for your own mailbox, see [POP and IMAP email settings for Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span></span>
+<span data-ttu-id="9bdcc-103">Per trovare le impostazioni del server POP3 e IMAP4 per la propria cassetta postale, vedere [impostazioni per Outlook di posta elettronica POP e IMAP](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span><span class="sxs-lookup"><span data-stu-id="9bdcc-103">To find the POP3 and IMAP4 server settings for your own mailbox, see [POP and IMAP email settings for Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span></span>
   
-<span data-ttu-id="7d1bc-p101">Gli amministratori possono attivare e configurare POP3 e IMAP4 in organizzazioni di Exchange locale. Per ulteriori informazioni, vedere [abilitare e configurare POP3 sui server Exchange](https://technet.microsoft.com/library/bb124934.aspx) e [abilitare e configurare IMAP4 sui server Exchange](https://technet.microsoft.com/library/bb124489.aspx).</span><span class="sxs-lookup"><span data-stu-id="7d1bc-p101">Administrators can enable and configure POP3 and IMAP4 in on-premises Exchange organizations. For more information, see [Enable and configure POP3 on Exchange servers](https://technet.microsoft.com/library/bb124934.aspx) and [Enable and configure IMAP4 on Exchange servers](https://technet.microsoft.com/library/bb124489.aspx).</span></span>
+<span data-ttu-id="9bdcc-p101">Gli amministratori possono attivare e configurare POP3 e IMAP4 in organizzazioni di Exchange locale. Per ulteriori informazioni, vedere [abilitare e configurare POP3 sui server Exchange](https://technet.microsoft.com/library/bb124934.aspx) e [abilitare e configurare IMAP4 sui server Exchange](https://technet.microsoft.com/library/bb124489.aspx).</span><span class="sxs-lookup"><span data-stu-id="9bdcc-p101">Administrators can enable and configure POP3 and IMAP4 in on-premises Exchange organizations. For more information, see [Enable and configure POP3 on Exchange servers](https://technet.microsoft.com/library/bb124934.aspx) and [Enable and configure IMAP4 on Exchange servers](https://technet.microsoft.com/library/bb124489.aspx).</span></span>
   
 
