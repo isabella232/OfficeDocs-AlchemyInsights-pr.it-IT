@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
 ms.openlocfilehash: 901a171cf96bc031299fef2fdffea9e10021ba13
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296506"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29475391"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="ee0a7-102">Imposta le password alcuna data di scadenza</span><span class="sxs-lookup"><span data-stu-id="ee0a7-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="c658f-102">Imposta le password alcuna data di scadenza</span><span class="sxs-lookup"><span data-stu-id="c658f-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="ee0a7-p101">Per impostare tutte le password alcuna data di scadenza, andare a [protezione &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Fare clic su **Edit** accanto a **Criteri Password**e attivare il dispositivo di scorrimento **in**.</span><span class="sxs-lookup"><span data-stu-id="ee0a7-p101">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="c658f-p101">Per impostare tutte le password alcuna data di scadenza, andare a [protezione &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Fare clic su **Edit** accanto a **Criteri Password**e attivare il dispositivo di scorrimento **in**.</span><span class="sxs-lookup"><span data-stu-id="c658f-p101">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="ee0a7-105">Per ulteriori informazioni, vedere: [impostare i criteri di scadenza password per l'organizzazione.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="ee0a7-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
+<span data-ttu-id="c658f-105">Per ulteriori informazioni, vedere: [impostare i criteri di scadenza password per l'organizzazione.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="c658f-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
   
-[<span data-ttu-id="ee0a7-106">Impostare la password alcuna data di scadenza per utenti specifici</span><span class="sxs-lookup"><span data-stu-id="ee0a7-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[<span data-ttu-id="c658f-106">Impostare la password alcuna data di scadenza per utenti specifici</span><span class="sxs-lookup"><span data-stu-id="c658f-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
   
 

@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
 ms.openlocfilehash: 6107918d42cfc7e3c348c06706bee506107855bd
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296692"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29475410"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="d79c1-102">Come acquistare Office 365 per i profitti Non</span><span class="sxs-lookup"><span data-stu-id="d79c1-102">How to purchase Office 365 for Non-profits</span></span>
+# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="b01c6-102">Come acquistare Office 365 per i profitti Non</span><span class="sxs-lookup"><span data-stu-id="b01c6-102">How to purchase Office 365 for Non-profits</span></span>
 
-<span data-ttu-id="d79c1-p101">L'idoneità come organizzazione non profit completo Microsoft è sottoposto a revisione. È possibile ottenere ricevere una notifica sulla determinazione dell'idoneità prima della scadenza del periodo di valutazione. È possibile tenere traccia dello stato dell'applicazione [di seguito](http://eligibilityweb.azurewebsites.net/).</span><span class="sxs-lookup"><span data-stu-id="d79c1-p101">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review. You can expect to receive a notification on the determination of your eligibility before your trial expires. You can track the status of your application [here](http://eligibilityweb.azurewebsites.net/).</span></span>
+<span data-ttu-id="b01c6-p101">L'idoneità come organizzazione non profit completo Microsoft è sottoposto a revisione. È possibile ottenere ricevere una notifica sulla determinazione dell'idoneità prima della scadenza del periodo di valutazione. È possibile tenere traccia dello stato dell'applicazione [di seguito](http://eligibilityweb.azurewebsites.net/).</span><span class="sxs-lookup"><span data-stu-id="b01c6-p101">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review. You can expect to receive a notification on the determination of your eligibility before your trial expires. You can track the status of your application [here](http://eligibilityweb.azurewebsites.net/).</span></span>
   
 

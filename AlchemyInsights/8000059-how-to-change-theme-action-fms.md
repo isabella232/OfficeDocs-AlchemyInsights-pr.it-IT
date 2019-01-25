@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
 ms.openlocfilehash: d8be6f4c2f4d25e4b6323a90403b4a22cb2600b9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296479"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29475428"
 ---
-# <a name="how-to-change-your-theme"></a><span data-ttu-id="5adff-102">Come modificare il tema</span><span class="sxs-lookup"><span data-stu-id="5adff-102">How to change your theme</span></span>
+# <a name="how-to-change-your-theme"></a><span data-ttu-id="1d1b1-102">Come modificare il tema</span><span class="sxs-lookup"><span data-stu-id="1d1b1-102">How to change your theme</span></span>
 
-<span data-ttu-id="5adff-p101">Per modificare il tema Outlook.com o Outlook sul web, passare a **Impostazioni**![impostazioni](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) e scegliere un tema in **tema**. Per visualizzare tutti i temi disponibili, selezionare **Visualizza tutto** in **tema**.</span><span class="sxs-lookup"><span data-stu-id="5adff-p101">To change your theme in Outlook.com or Outlook on the web, go to **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) and choose a theme under **Theme**. To see all available themes, select **View all** under **Theme**.</span></span> 
+<span data-ttu-id="1d1b1-p101">Per modificare il tema Outlook.com o Outlook sul web, passare a **Impostazioni**![impostazioni](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) e scegliere un tema in **tema**. Per visualizzare tutti i temi disponibili, selezionare **Visualizza tutto** in **tema**.</span><span class="sxs-lookup"><span data-stu-id="1d1b1-p101">To change your theme in Outlook.com or Outlook on the web, go to **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) and choose a theme under **Theme**. To see all available themes, select **View all** under **Theme**.</span></span> 
   
 
