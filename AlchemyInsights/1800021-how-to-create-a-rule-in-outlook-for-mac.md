@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
 ms.openlocfilehash: f843ad8683eb763bd3a75daccb8fdb18985688d1
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296154"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499458"
 ---
 # <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Come creare una regola di Outlook per Mac
 
 1. Per creare una cartella per conservare i messaggi di posta elettronica inviati dalla regola, selezionare la cassetta postale principale, nella scheda **Organizza** , fare clic su **Nuova cartella**, digitare il nome della cartella e premere INVIO.
     
-    Se si 
+    Se... 
     
 2. Nell'elenco dei messaggi, fare clic su un messaggio di posta elettronica per cui si desidera o creare una regola.
     
