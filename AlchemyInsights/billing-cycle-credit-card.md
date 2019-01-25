@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.openlocfilehash: 4a331294bffb04ab54684ad256d172d45e27cf22
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28296676"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498234"
 ---
-# <a name="billing-cycle-credit-card"></a><span data-ttu-id="943c9-102">Carta di credito ciclo di fatturazione</span><span class="sxs-lookup"><span data-stu-id="943c9-102">Billing cycle credit card</span></span>
+# <a name="billing-cycle-credit-card"></a><span data-ttu-id="f53b7-102">Carta di credito ciclo di fatturazione</span><span class="sxs-lookup"><span data-stu-id="f53b7-102">Billing cycle credit card</span></span>
 
-<span data-ttu-id="943c9-p101">Quando si acquistare una sottoscrizione di business di Office 365 direttamente da Microsoft, puoi pagare con una carta di credito. In alcuni paesi o aree geografiche, è anche possibile prestare con un conto bancario.</span><span class="sxs-lookup"><span data-stu-id="943c9-p101">When you buy an Office 365 for business subscription directly from Microsoft, you can pay with a credit or debit card. In some countries or regions, you can also pay with a bank account.</span></span>
+<span data-ttu-id="f53b7-p101">Quando si acquistare una sottoscrizione di business di Office 365 direttamente da Microsoft, puoi pagare con una carta di credito. In alcuni paesi o aree geografiche, è anche possibile prestare con un conto bancario.</span><span class="sxs-lookup"><span data-stu-id="f53b7-p101">When you buy an Office 365 for business subscription directly from Microsoft, you can pay with a credit or debit card. In some countries or regions, you can also pay with a bank account.</span></span>
   
-<span data-ttu-id="943c9-105">Se si sceglie di utilizzare carta di credito come metodo di pagamento, è possibile informazioni su come gestire e risolvere i problemi da [aggiungere, aggiornare, o rimuovere una carta di credito bancario in Office 365 per aziende](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI).</span><span class="sxs-lookup"><span data-stu-id="943c9-105">If you choose to use a credit card as your payment method, you can learn how to manage and troubleshoot from [Add, update, or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI).</span></span>
+<span data-ttu-id="f53b7-105">Se si sceglie di utilizzare carta di credito come metodo di pagamento, è possibile informazioni su come gestire e risolvere i problemi da [aggiungere, aggiornare, o rimuovere una carta di credito bancario in Office 365 per aziende](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI).</span><span class="sxs-lookup"><span data-stu-id="f53b7-105">If you choose to use a credit card as your payment method, you can learn how to manage and troubleshoot from [Add, update, or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI).</span></span>
   
-<span data-ttu-id="943c9-106">Include la risoluzione dei problemi quando viene rifiutata la carta di credito e la modifica della carta di credito in modo che la scheda viene accettata.</span><span class="sxs-lookup"><span data-stu-id="943c9-106">This includes resolving issues when your credit card is declined and changing credit card information so that the card is accepted.</span></span>
+<span data-ttu-id="f53b7-106">Include la risoluzione dei problemi quando viene rifiutata la carta di credito e la modifica della carta di credito in modo che la scheda viene accettata.</span><span class="sxs-lookup"><span data-stu-id="f53b7-106">This includes resolving issues when your credit card is declined and changing credit card information so that the card is accepted.</span></span>
   
 
