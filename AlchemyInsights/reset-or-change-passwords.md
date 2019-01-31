@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: f8822c17e90476f22832ce823b24930f1e71ce21
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f11117350a2e6a5bfa7587788ea9f7f08446b264
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29475474"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660423"
 ---
 # <a name="reset-or-change-passwords"></a>Reimpostare o cambiare le password
 
@@ -24,6 +24,6 @@ Un utente può modificare la propria password da [account personale, sicurezza &
   
 Se l'utente ha dimenticato la propria password, un amministratore può reimpostare la password al [utenti \> utenti attivi](https://portal.office.com/adminportal/home#/users), selezionare gli utenti e fare clic su **Reimposta password**. 
   
-[Fare clic qui per ulteriori informazioni](https://support.office.com/en-us/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), o per consentire agli utenti di reimpostare le proprie password dimenticata.
+[Fare clic qui per ulteriori informazioni](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), o per consentire agli utenti di reimpostare le proprie password dimenticata.
   
 

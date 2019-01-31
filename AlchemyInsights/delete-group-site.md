@@ -3,31 +3,30 @@ title: Elimina gruppo sito
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0541ae0fadd4bad34476fa80bd501bdde739c23
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476402"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660675"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Eliminare un sito di SharePoint che appartiene a un gruppo di Office 365
 
-Quando gli utenti creano un nuovo sito del team dalla home page di SharePoint (o si crea un nuovo sito del team dal nuovo SharePoint admin center preview) viene creato automaticamente un gruppo di Office 365 corrispondente. Office 365 team connesso al gruppo di siti vengono creati anche quando si crea un team o un gruppo di Office 365 in Microsoft Teams. Per eliminare un sito di SharePoint che appartiene a un gruppo di Office 365, è necessario eliminare il gruppo di Office 365. 
+Gli amministratori di SharePoint e gli amministratori globali ora possono eliminare i siti che appartengono a un gruppo di Office 365. Eliminazione di questi siti verranno eliminati al gruppo e tutte le relative risorse, tra cui la cassetta postale di Outlook e del calendario e i canali di team.
   
-1. Passare alla [pagina gruppi dell'interfaccia di amministrazione di Office 365](https://portal.office.com/adminportal/home#/groups).
-    
-2. Selezionare la casella di controllo accanto al gruppo.
-    
-3. Scegliere **Elimina**.
-    
-Nota: Quando si elimina un gruppo, può esistere un ritardo prima che venga rimosso il sito di SharePoint.
+Importante:
+- È possibile ripristinare siti eliminati 93 giorni. Per ulteriori informazioni, vedere visualizzare e il ripristino dei siti eliminati. Si noti che i gruppi eliminati devono essere ripristinati entro 30 giorni. 
+- Se il sito fa parte di un criterio di conservazione, potrebbe non essere in grado di eliminarla fino a quando non viene rimosso il sito dal [protezione &amp; conformità Admin Center](https://protection.office.com/?rfr=AdminCenter#/retention). Per ulteriori informazioni, vedere [Panoramica di criteri di conservazione](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+  
+[Visualizzazione e il ripristino dei siti nell'interfaccia di amministrazione di SharePoint nuova eliminati](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selezionare **siti eliminati**. Selezionare il sito di cui è stato eliminato e fare clic su ripristino o Elimina (in cui verrà eliminati definitivamente il sito). Per eliminare un sito attivo, selezionare **Attiva** siti, selezionare il sito e scegliere **Elimina**. Per ulteriori informazioni, vedere [Manage siti nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
 

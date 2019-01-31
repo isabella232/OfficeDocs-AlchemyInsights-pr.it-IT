@@ -2,44 +2,28 @@
 title: Risoluzione dei problemi di attivazione
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Avviare l'articolo con un'introduzione molto breve (1 frase). Imposto familiarità del lettore - perché si tratta di seguito. Cosa è necessario fare?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498270"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646963"
 ---
-Avviare l'articolo con un'introduzione molto breve (1 frase). Imposto familiarità del lettore - perché si tratta di seguito. Cosa è necessario fare? 
-  
-1. È possibile ottenere retta a un elenco rapido dei passaggi per eseguire l'attività.
-    
-    Se è necessario descrivere il concetto o sarà più possibile passaggi prerequisiti, aggiungere un breve riepilogo sotto il passaggio di cui hanno bisogno e [collegamento](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) al concetto o passaggi. 
-    
-2. Mantenere procedure breve - passaggi preferibilmente 5 o meno, non più di 8.
-    
-3. Utilizzare **lo stile dell'interfaccia utente** per gli elementi dell'interfaccia utente o per il testo devono immettere persone. 
-    
-4. Utilizzare i verbi scegliere selezionano, o immettere come azioni e formattare il menu come **Menu** \> **comando**.
-    
-5. Facoltativamente, aggiungere una schermata di contesto (se è difficile individuare l'interfaccia utente o è necessario per completare l'attività).
-    
-    Larghezza massima: 520 pixel. Utilizzo di un tema standard, non visualizzare le informazioni personali e ritagliare in modo da visualizzare solo che cos'è pertinente. 
-    
-    ![Segnaposto - larghezza massima delle immagini ClipArt articolo SOC è 520 pixel](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Se si desidera aggiungere un video o cattura di schermata, utilizzare una griglia due colonne e verificare i passaggi descritti in sinistra e il video o cattura di schermata del diritto - vedere [passaggi ed esempio griglia video](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Destinazione non più di 500 parole per un articolo.
-  
-# <a name="example-article"></a>Articolo di esempio
+# <a name="activation-troubleshooting"></a>Risoluzione dei problemi di attivazione
 
-[Modificare la mia foto](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+Nel **Pannello di controllo** \> **programmi e funzionalità**, ricerca di Office. È consigliabile vedere Microsoft Office 365 ProPlus o Microsoft Office 365 Business. Se viene visualizzata più versioni di Office elencati, disinstallare la versione che non si utilizzano. 
   
-
+Se non è possibile disinstallare correttamente con il pannello di controllo, utilizzare l' [Assistente di ripristino e supporto](https://aka.ms/SARA-OfficeUninstall-Alchemy) per disinstallare la versione che non si utilizzano. 
+  
+Se Office non è ancora senza licenza, tornare al **Pannello di controllo** \> **programmi e funzionalità**. Destro l'installazione di Office rimanente, selezionare **Modifica** (o modifica) e quindi fare **Ripristino in linea**. Ripristino online potrebbe richiedere qualche minuto. Quindi, riavviare Office e accedere utilizzando il proprio lavoro o scuola account, se richiesto.
+  
+Se Office non è ancora senza licenza, scaricare ed eseguire la [risoluzione dei problemi di attivazione](https://aka.ms/SARA-OfficeActivation-Alchemy) del computer interessato per risolvere i problemi di attivazione. 
+  
+Per ulteriori informazioni, vedere: [prodotto senza licenza e gli errori di attivazione di Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

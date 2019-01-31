@@ -11,15 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: fca1117f28eb152c57d0e8ec84a8f090ff18c328
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 660c27d8385483a120a17a30d6282dca6e2e8721
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29475512"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659813"
 ---
 # <a name="migrate-email-from-g-suite-to-office-365"></a>Eseguire la migrazione di posta elettronica dalla famiglia di prodotti G a Office 365
 
-Per eseguire la migrazione di posta elettronica dalla famiglia di prodotti G a Office 365, eseguire la procedura seguente: [Suite G eseguire la migrazione delle cassette postali a Office 365](https://support.office.com/en-us/article/migrate-g-suite-mailboxes-to-office-365-665dc56c-581c-4e35-8028-6bc1e8497016).
+Per eseguire la migrazione di posta elettronica dalla famiglia di prodotti G a Office 365, eseguire la procedura seguente: [Suite G eseguire la migrazione delle cassette postali a Office 365](https://support.office.com/article/migrate-g-suite-mailboxes-to-office-365-665dc56c-581c-4e35-8028-6bc1e8497016).
   
 
