@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 5be8a8f9f67939c7e2671855da259818269d9299
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c95f07b9fb7251442577c014e4005dbe3f92ceb4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476333"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661755"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Risolvere i problemi di Apri con Esplora
 
@@ -31,6 +31,6 @@ Correggere i problemi comuni relativi all'apertura di una raccolta documenti in 
 > [!NOTE]
 > Apertura di una raccolta in Esplora File è utile se si desidera copiare o spostare più file e cartelle una volta, ma se si desidera utilizzare regolarmente nella raccolta, è consigliabile la sincronizzazione. Per risolvere i problemi aprire Esplora File, vedere [Open nell'elenco cartelle](https://go.microsoft.com/fwlink/?linkid=871665). Per informazioni sull'impostazione di sincronizzazione, vedere [i file di sincronizzazione di SharePoint con il nuovo client di sincronizzazione OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Vedere l'articolo [come utilizzare il comando "Apri con Esplora" per la risoluzione dei problemi di SharePoint Online](https://support.office.com/en-us/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) per ulteriori informazioni. 
+Vedere l'articolo [come utilizzare il comando "Apri con Esplora" per la risoluzione dei problemi di SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) per ulteriori informazioni. 
   
 
