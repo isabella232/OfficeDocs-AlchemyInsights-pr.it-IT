@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: ea9b108ae40126fa60679d84cd5969e2ecb629d9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1de3b2f04162388939809048259552277c4074fc
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29475561"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657422"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Risoluzione dei problemi arresto anomalo di Outlook
 
-Se si verificano problemi di arresto anomalo del desktop di Outlook, iniziare eseguendo i passaggi 3 seguente, che sono elencati nel dettaglio in questo articolo: [come risolvere i problemi che causano il blocco di Outlook o un bloccano se utilizzato con Office 365.](https://support.microsoft.com/en-us/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Se si verificano problemi di arresto anomalo del desktop di Outlook, iniziare eseguendo i passaggi 3 seguente, che sono elencati nel dettaglio in questo articolo: [come risolvere i problemi che causano il blocco di Outlook o un bloccano se utilizzato con Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
   
 Passaggio 1: Esaminare possibili problemi con i componenti aggiuntivi.
   
@@ -28,6 +28,6 @@ Passaggio 2: Outlook ripristino ed eseguire lo [strumento Assistente di ripristi
   
 Passaggio 3: Creare un nuovo profilo di Outlook oppure è possibile eseguire lo [strumento di profili di Outlook](https://aka.ms/SaRA-OutlookSetupProfile) nel computer interessato. 
   
-Se si è verificato il problema dopo un aggiornamento e i passaggi precedenti non funzionano, potrebbe essere necessario ripristinare una build precedente. Vedere [come ripristinare una versione precedente di Office 2013 o Office 2016 Click-to-Run](https://support.microsoft.com/EN-US/help/2770432).
+Se si è verificato il problema dopo un aggiornamento e i passaggi precedenti non funzionano, potrebbe essere necessario ripristinare una build precedente. Vedere [come ripristinare una versione precedente di Office 2013 o Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
   
 
