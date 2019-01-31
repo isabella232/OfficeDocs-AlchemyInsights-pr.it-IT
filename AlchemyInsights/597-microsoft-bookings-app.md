@@ -11,15 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: eae7f2f26ccfa8dc96ea4d09f587ae21ad1df766
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e97e6f875927a7524e91bad712beb25e00a3bebb
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29475539"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657723"
 ---
-# <a name="microsoft-bookings-app"></a><span data-ttu-id="ce0ea-102">Microsoft prenotazioni delle app</span><span class="sxs-lookup"><span data-stu-id="ce0ea-102">Microsoft Bookings app</span></span>
+# <a name="microsoft-bookings-app"></a><span data-ttu-id="e030b-102">Microsoft prenotazioni delle app</span><span class="sxs-lookup"><span data-stu-id="e030b-102">Microsoft Bookings app</span></span>
 
-<span data-ttu-id="ce0ea-103">Per risolvere i problemi di nuove app di prenotazioni, vedere [gli articoli di prenotazioni](https://support.office.com/en-us/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span><span class="sxs-lookup"><span data-stu-id="ce0ea-103">For troubleshooting issues in the new Bookings app, see [Bookings articles](https://support.office.com/en-us/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>
+<span data-ttu-id="e030b-103">Per risolvere i problemi di nuove app di prenotazioni, vedere [gli articoli di prenotazioni](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span><span class="sxs-lookup"><span data-stu-id="e030b-103">For troubleshooting issues in the new Bookings app, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>
   
 

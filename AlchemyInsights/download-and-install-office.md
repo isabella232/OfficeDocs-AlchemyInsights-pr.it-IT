@@ -11,15 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 131927d05ae721a8f8ed1a2dae8965e25a596199
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e9cdb3ac5eef5ff53b4898f4c09762f86cddf04f
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476473"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659559"
 ---
-# <a name="download-and-install-office"></a><span data-ttu-id="a7a35-102">Scarica e installa Office</span><span class="sxs-lookup"><span data-stu-id="a7a35-102">Download and install Office</span></span>
+# <a name="download-and-install-office"></a><span data-ttu-id="513df-102">Scarica e installa Office</span><span class="sxs-lookup"><span data-stu-id="513df-102">Download and install Office</span></span>
 
-<span data-ttu-id="a7a35-p101">La sottoscrizione **Business Essentials** non include le applicazioni di Office. Per ottenere Office, è necessario eseguire l'aggiornamento a sottoscrizione **Business** o **Business Premium** . Estrarre le sottoscrizioni disponibile con Office qui: [Piani aziendali di Office 365](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2)</span><span class="sxs-lookup"><span data-stu-id="a7a35-p101">Your **Business Essentials** subscription does not include the Office apps. In order to get Office, you will need to upgrade to the **Business** or **Business Premium** subscription. Check out the available subscriptions with Office here: [Office 365 Business Plans](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2)</span></span>
+<span data-ttu-id="513df-p101">La sottoscrizione **Business Essentials** non include le applicazioni di Office. Per ottenere Office, è necessario eseguire l'aggiornamento a sottoscrizione **Business** o **Business Premium** . Estrarre le sottoscrizioni disponibile con Office qui: [Piani aziendali di Office 365](https://products.office.com/compare-all-microsoft-office-products?tab=2)</span><span class="sxs-lookup"><span data-stu-id="513df-p101">Your **Business Essentials** subscription does not include the Office apps. In order to get Office, you will need to upgrade to the **Business** or **Business Premium** subscription. Check out the available subscriptions with Office here: [Office 365 Business Plans](https://products.office.com/compare-all-microsoft-office-products?tab=2)</span></span>
   
 
