@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476269"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770657"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>Sui delegati in Outlook e Outlook sul web
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Risoluzione dei problemi di delega in Outlook e Outlook sul web
 
-Per ulteriori informazioni, vedere gli argomenti riportati di seguito:
-  
-- **Outlook**: [concessione dell'autorizzazione alla gestione della posta elettronica e calendario](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Outlook sul web**: [delega per il calendario di Outlook sul web per le aziende](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Risoluzione dei problemi con lo strumento Luisa:**
 
+1. Scaricare e installare strumento Luisa da qui
+1. Selezionare Outlook, quindi "Si verificano problemi con calendario personale"
+1. Ad esempio Sì per computer interessato
+1. Aggiungere l'indirizzo di posta elettronica dell'utente interessato
+1. Selezionare "Quando si verificano problemi con le autorizzazioni delegato"
+1. Al prompt successivo, se si è la persona a cui assegnare autorizzazioni, immettere l'indirizzo di posta elettronica del delegato. Se è stato ricevuto le autorizzazioni e si è il delegato, immettere l'indirizzo di posta elettronica della persona che fornito le autorizzazioni.
+1. Nel menu successivo, selezionare l'opzione adatto al proprio scenario. 
+1. Nel menu successivo, selezionare il livello di autorizzazione.
+1. In questa fase strumento Luisa esegue controlli automatici e offre una soluzione possibili o in alternativa fornirà un registro di diagnostica che può essere utilizzato per la risoluzione del problema.
+1. È possibile trovare i log nella cartella risultati Luisa al C:\Users\Username\AppData\Local\SaraResults
