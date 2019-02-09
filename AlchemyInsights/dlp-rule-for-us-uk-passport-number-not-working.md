@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 5722f7b6c9a2f905fed2ef4164787e020260edf7
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: ec7f11676982b56a46c83bf276c2212ce765ba6f
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656427"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786702"
 ---
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problemi con DLP - Stati Uniti / numeri di passaporto Regno Unito
+
 Si sono verificati problemi con **Prevenzione della perdita di dati (DLP)** non funziona per contenuto contenente un **US / numero di passaporto Regno Unito** quando si utilizza un tipo di informazioni riservate DLP in Office 365? In tal caso, verificare che il contenuto contiene le informazioni necessarie per quali il criterio DLP è cercando quando viene valutata. 
   
 Ad esempio, per un **US / numero di passaporto Regno Unito** criterio configurato con un livello di probabilità pari al 75%, i seguenti vengono valutati le proprietà e devono essere rilevati della regola da attivare 
