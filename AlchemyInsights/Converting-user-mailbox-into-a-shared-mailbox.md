@@ -6,15 +6,15 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
-ms.openlocfilehash: 22ad1b3fb818b40bcd77974031735f931e986968
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4da54121763fd33aa111f3bb3c26963cd271dc51
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29475652"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906736"
 ---
 È possibile convertire una cassetta postale utente a una cassetta postale condivisa solo se l'utente dispone di una licenza di Exchange. Una volta convertita la cassetta postale, continuerà possa essere visualizzata nell'elenco utenti attivi in quanto tale elenco include le cassette postali condivise. Tuttavia, la cassetta postale convertita verrà inoltre visualizzati nell'elenco cassetta postale condivisa. 
   
