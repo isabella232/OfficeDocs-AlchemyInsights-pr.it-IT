@@ -7,37 +7,37 @@ ms.date: 6/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: ed9a5e6a1d86902fd13d63ebd4d05b1dab430ecc
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b126a921828a87ce3705f8cf6cf1779c3b8ec13e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29475660"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29901192"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a><span data-ttu-id="5849c-102">Correggere i problemi di ricerca mediante la ricostruzione del catalogo di ricerca immediata</span><span class="sxs-lookup"><span data-stu-id="5849c-102">Fix search issues by rebuilding your Instant Search catalog</span></span>
+# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a><span data-ttu-id="bf5eb-102">Correggere i problemi di ricerca mediante la ricostruzione del catalogo di ricerca immediata</span><span class="sxs-lookup"><span data-stu-id="bf5eb-102">Fix search issues by rebuilding your Instant Search catalog</span></span>
 
-1. <span data-ttu-id="5849c-103">Chiudere Outlook e aprire il **Pannello di controllo**.</span><span class="sxs-lookup"><span data-stu-id="5849c-103">Close Outlook and open **Control Panel**.</span></span>
+1. <span data-ttu-id="bf5eb-103">Chiudere Outlook e aprire il **Pannello di controllo**.</span><span class="sxs-lookup"><span data-stu-id="bf5eb-103">Close Outlook and open **Control Panel**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="5849c-104">A seconda della versione di Office in uso, potrebbe essere necessario fare clic sul pulsante **Start** e nel menu **Start** , fare clic **Pannello di controllo**.</span><span class="sxs-lookup"><span data-stu-id="5849c-104">Depending on the version of Office you're using, you might need to click the **Start** button, and on the **Start** menu, right-click **Control Panel**.</span></span> 
+    > <span data-ttu-id="bf5eb-104">A seconda della versione di Office in uso, potrebbe essere necessario fare clic sul pulsante **Start** e nel menu **Start** , fare clic **Pannello di controllo**.</span><span class="sxs-lookup"><span data-stu-id="bf5eb-104">Depending on the version of Office you're using, you might need to click the **Start** button, and on the **Start** menu, right-click **Control Panel**.</span></span> 
   
-2. <span data-ttu-id="5849c-105">Eseguire una di queste operazioni:</span><span class="sxs-lookup"><span data-stu-id="5849c-105">Do one of the following:</span></span>
+2. <span data-ttu-id="bf5eb-105">Eseguire una di queste operazioni:</span><span class="sxs-lookup"><span data-stu-id="bf5eb-105">Do one of the following:</span></span>
     
-  - <span data-ttu-id="5849c-106">Scegliere **Opzioni di indicizzazione**.</span><span class="sxs-lookup"><span data-stu-id="5849c-106">Choose **Indexing Options**.</span></span>
+  - <span data-ttu-id="bf5eb-106">Scegliere **Opzioni di indicizzazione**.</span><span class="sxs-lookup"><span data-stu-id="bf5eb-106">Choose **Indexing Options**.</span></span>
     
-  - <span data-ttu-id="5849c-107">Nella casella **Cerca** digitare *servizio di indicizzazione* e quindi scegliere **Opzioni di indicizzazione**.</span><span class="sxs-lookup"><span data-stu-id="5849c-107">In the **Search** box, type  *Indexing*  , and then choose **Indexing Options**.</span></span>
+  - <span data-ttu-id="bf5eb-107">Nella casella **Cerca** digitare *servizio di indicizzazione* e quindi scegliere **Opzioni di indicizzazione**.</span><span class="sxs-lookup"><span data-stu-id="bf5eb-107">In the **Search** box, type  *Indexing*  , and then choose **Indexing Options**.</span></span>
     
-3. <span data-ttu-id="5849c-108">Nella finestra di dialogo **Percorsi indicizzati** , sotto **Modifica percorsi selezionati**, selezionare la casella di controllo per il percorso che si desidera modificare e quindi fare clic su **OK**.</span><span class="sxs-lookup"><span data-stu-id="5849c-108">In the **Indexed Locations** dialog box, under **Change selected locations**, select the check box for the location you want to modify, and then click **OK**.</span></span>
+3. <span data-ttu-id="bf5eb-108">Nella finestra di dialogo **Percorsi indicizzati** , sotto **Modifica percorsi selezionati**, selezionare la casella di controllo per il percorso che si desidera modificare e quindi fare clic su **OK**.</span><span class="sxs-lookup"><span data-stu-id="bf5eb-108">In the **Indexed Locations** dialog box, under **Change selected locations**, select the check box for the location you want to modify, and then click **OK**.</span></span>
     
-4. <span data-ttu-id="5849c-109">Nella scheda **Impostazioni dell'indice** , in **risoluzione dei problemi**della finestra di dialogo **Opzioni avanzate** fare clic su **ricostruire**.</span><span class="sxs-lookup"><span data-stu-id="5849c-109">In the **Advanced Options** dialog box, on the **Index Settings** tab, under **Troubleshooting**, click **Rebuild**.</span></span>
+4. <span data-ttu-id="bf5eb-109">Nella scheda **Impostazioni dell'indice** , in **risoluzione dei problemi**della finestra di dialogo **Opzioni avanzate** fare clic su **ricostruire**.</span><span class="sxs-lookup"><span data-stu-id="bf5eb-109">In the **Advanced Options** dialog box, on the **Index Settings** tab, under **Troubleshooting**, click **Rebuild**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="5849c-p101">Una **Ricostruzione dell'indice** di dialogo di avviso che viene visualizzata la "indice può richiedere molto tempo per il completamento." Fare clic su **OK** per avviare la ricostruzione dell'indice.</span><span class="sxs-lookup"><span data-stu-id="5849c-p101">A **Rebuild Index** dialog box opens warning that the "index might take a long time to complete." Choose **OK** to start rebuilding the index.</span></span> 
+    > <span data-ttu-id="bf5eb-p101">Una **Ricostruzione dell'indice** di dialogo di avviso che viene visualizzata la "indice può richiedere molto tempo per il completamento." Fare clic su **OK** per avviare la ricostruzione dell'indice.</span><span class="sxs-lookup"><span data-stu-id="bf5eb-p101">A **Rebuild Index** dialog box opens warning that the "index might take a long time to complete." Choose **OK** to start rebuilding the index.</span></span> 
   
-<span data-ttu-id="5849c-112">Per ulteriori informazioni, vedere problemi noti [alcun risultato di ricerca per gli account POP/IMAP](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span><span class="sxs-lookup"><span data-stu-id="5849c-112">For more information, see the known issue [No search results for POP/IMAP accounts](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span></span>
+<span data-ttu-id="bf5eb-112">Per ulteriori informazioni, vedere problemi noti [alcun risultato di ricerca per gli account POP/IMAP](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span><span class="sxs-lookup"><span data-stu-id="bf5eb-112">For more information, see the known issue [No search results for POP/IMAP accounts](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span></span>
   
 
