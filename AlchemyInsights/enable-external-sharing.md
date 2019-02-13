@@ -6,14 +6,14 @@ ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 92c9660fda35489bfe94538800cff7060557c9a6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e7b1b58f0b5bf73d50721cf2715b366280867431
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29475657"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940540"
 ---
 # <a name="enable-external-sharing"></a>Abilita condivisione esterna
 
@@ -33,7 +33,7 @@ ms.locfileid: "29475657"
     
   - "Consenti entrambi gli utenti esterni che accettano la condivisione di inviti e per i collegamenti guest anonimi"
     
-- Raccolte siti individuali
+- **Singole raccolte siti**
     
   - Raccolte - raccolta siti selezionare in questione, siti e quindi fare clic su condivisione, nella barra multifunzione -\> verificare che siano selezionate entrambe le opzioni di condivisione.
     
