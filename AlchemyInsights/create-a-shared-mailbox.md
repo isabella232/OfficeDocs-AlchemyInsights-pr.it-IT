@@ -7,19 +7,19 @@ ms.date: 2/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
-ms.openlocfilehash: 44c07b78c7cf52ab10b11cb3b94ae2eae76ad887
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96c69b3e6bf64a0db9517059864c4a8c0718335c
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476373"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29917824"
 ---
-# <a name="create-a-shared-mailbox"></a><span data-ttu-id="18c07-102">Creare una cassetta postale condivisa</span><span class="sxs-lookup"><span data-stu-id="18c07-102">Create a shared mailbox</span></span>
+# <a name="create-a-shared-mailbox"></a><span data-ttu-id="dbe07-102">Creare una cassetta postale condivisa</span><span class="sxs-lookup"><span data-stu-id="dbe07-102">Create a shared mailbox</span></span>
 
-<span data-ttu-id="18c07-103">Una cassetta postale condivisa consente più di una persona a inviare e ricevere posta elettronica per un alias, ad esempio **sales@contoso.com**, senza assegnazione licenza diversa.</span><span class="sxs-lookup"><span data-stu-id="18c07-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
+<span data-ttu-id="dbe07-103">Una cassetta postale condivisa consente più di una persona a inviare e ricevere posta elettronica per un alias, ad esempio **sales@contoso.com**, senza assegnazione licenza diversa.</span><span class="sxs-lookup"><span data-stu-id="dbe07-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
   
-<span data-ttu-id="18c07-104">Per ulteriori informazioni, vedere [creare una cassetta postale condivisa](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) .</span><span class="sxs-lookup"><span data-stu-id="18c07-104">See [Create a shared mailbox](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) for more information.</span></span> 
+<span data-ttu-id="dbe07-104">Per ulteriori informazioni, vedere [creare una cassetta postale condivisa](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) .</span><span class="sxs-lookup"><span data-stu-id="dbe07-104">See [Create a shared mailbox](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) for more information.</span></span> 
   
 

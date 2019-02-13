@@ -7,25 +7,25 @@ ms.date: 4/25/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: e3d146005252fc5a774745daee7aae923b4d712a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddebeae9dc8d621189314e393a233bddcec0e002
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29476399"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29919228"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a><span data-ttu-id="00b36-102">Trovare i file persi o mancanti in OneDrive o SharePoint</span><span class="sxs-lookup"><span data-stu-id="00b36-102">Find lost or missing files in OneDrive or SharePoint</span></span>
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a><span data-ttu-id="35397-102">Trovare i file persi o mancanti in OneDrive o SharePoint</span><span class="sxs-lookup"><span data-stu-id="35397-102">Find lost or missing files in OneDrive or SharePoint</span></span>
 
-- <span data-ttu-id="00b36-p101">Controllare il Cestino sia possibile esplorare l'OneDrive o il sito di SharePoint sul web e fare clic su Cestino nel riquadro sinistro. (Se non viene visualizzata Recycle bin nel riquadro sinistro fare clic sull'icona impostazioni e quindi selezionare **contenuto del sito**. **Recycle Bin** is all'estrema destra della barra nella parte superiore.)</span><span class="sxs-lookup"><span data-stu-id="00b36-p101">Check the recycle bin by browsing to your OneDrive or the SharePoint site on the web and clicking Recycle bin in the left pane. (If you don't see Recycle bin in the left pane, click the Settings icon, and then select **Site contents**. **Recycle Bin** is on the far right of the command bar at the top.)</span></span> 
+- <span data-ttu-id="35397-p101">Controllare il Cestino sia possibile esplorare l'OneDrive o il sito di SharePoint sul web e fare clic su Cestino nel riquadro sinistro. (Se non viene visualizzata Recycle bin nel riquadro sinistro fare clic sull'icona impostazioni e quindi selezionare **contenuto del sito**. **Recycle Bin** is all'estrema destra della barra nella parte superiore.)</span><span class="sxs-lookup"><span data-stu-id="35397-p101">Check the recycle bin by browsing to your OneDrive or the SharePoint site on the web and clicking Recycle bin in the left pane. (If you don't see Recycle bin in the left pane, click the Settings icon, and then select **Site contents**. **Recycle Bin** is on the far right of the command bar at the top.)</span></span> 
     
-- <span data-ttu-id="00b36-106">Se si sono in corso di sincronizzazione i file nel computer in uso, controllare il Cestino nel computer in uso.</span><span class="sxs-lookup"><span data-stu-id="00b36-106">If you're syncing the files on your computer, check the Recycle bin on your computer.</span></span> 
+- <span data-ttu-id="35397-106">Se si sono in corso di sincronizzazione i file nel computer in uso, controllare il Cestino nel computer in uso.</span><span class="sxs-lookup"><span data-stu-id="35397-106">If you're syncing the files on your computer, check the Recycle bin on your computer.</span></span> 
     
-- <span data-ttu-id="00b36-p102">Se non viene visualizzata l'elemento si sta cercando, è stato eliminato recentemente, un amministratore della raccolta siti potrebbe essere in grado di ripristinare dal Cestino raccolta siti. Se si è l'amministratore della raccolta siti, vedere [Ripristina posta eliminata dal Cestino raccolta siti](https://go.microsoft.com/fwlink/?linkid=866439).</span><span class="sxs-lookup"><span data-stu-id="00b36-p102">If you don't see the item you're looking for, and it was deleted recently, a site collection administrator might be able to restore it from the site collection recycle bin. If you're the site collection administrator, see [Restore deleted items from the site collection recycle bin](https://go.microsoft.com/fwlink/?linkid=866439).</span></span>
+- <span data-ttu-id="35397-p102">Se non viene visualizzata l'elemento si sta cercando, è stato eliminato recentemente, un amministratore della raccolta siti potrebbe essere in grado di ripristinare dal Cestino raccolta siti. Se si è l'amministratore della raccolta siti, vedere [Ripristina posta eliminata dal Cestino raccolta siti](https://go.microsoft.com/fwlink/?linkid=866439).</span><span class="sxs-lookup"><span data-stu-id="35397-p102">If you don't see the item you're looking for, and it was deleted recently, a site collection administrator might be able to restore it from the site collection recycle bin. If you're the site collection administrator, see [Restore deleted items from the site collection recycle bin](https://go.microsoft.com/fwlink/?linkid=866439).</span></span>
     
-[<span data-ttu-id="00b36-109">Ulteriori informazioni sul ripristino dei file e cartelle eliminati in OneDrive</span><span class="sxs-lookup"><span data-stu-id="00b36-109">More help restoring deleted files and folders in OneDrive</span></span>](https://go.microsoft.com/fwlink/?linkid=872872)
+[<span data-ttu-id="35397-109">Ulteriori informazioni sul ripristino dei file e cartelle eliminati in OneDrive</span><span class="sxs-lookup"><span data-stu-id="35397-109">More help restoring deleted files and folders in OneDrive</span></span>](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

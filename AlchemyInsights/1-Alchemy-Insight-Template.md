@@ -7,36 +7,36 @@ ms.date: 4/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
-ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
+ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29697134"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29939299"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a><span data-ttu-id="ac654-102">Obbligatorio Alchemy intestazione s1, s2 non funzionano.</span><span class="sxs-lookup"><span data-stu-id="ac654-102">Required Alchemy Header H1, H2's dont work.</span></span>
-<span data-ttu-id="ac654-103">Procedure consigliate e linee guida per la creazione e modifica Alchemy:</span><span class="sxs-lookup"><span data-stu-id="ac654-103">Best Practices and guidelines for Alchemy authoring:</span></span>
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a><span data-ttu-id="c8cd0-102">Obbligatorio Alchemy intestazione s1, s2 non funzionano.</span><span class="sxs-lookup"><span data-stu-id="c8cd0-102">Required Alchemy Header H1, H2's dont work.</span></span>
+<span data-ttu-id="c8cd0-103">Procedure consigliate e linee guida per la creazione e modifica Alchemy:</span><span class="sxs-lookup"><span data-stu-id="c8cd0-103">Best Practices and guidelines for Alchemy authoring:</span></span>
 
-1. <span data-ttu-id="ac654-p101">**Non nidificare Alchemy Insights nelle cartelle**- questa operazione si interrompe la struttura url. Vengono cercati nella correzione seguente.</span><span class="sxs-lookup"><span data-stu-id="ac654-p101">**Do not nest Alchemy Insights in folders**- this will break the url structure. We're looking into fixing this.</span></span>
-1. <span data-ttu-id="ac654-106">File nella cartella **AlchemyInsights** devono avere ID della regola e nome della regola dal [portale per i Partner Alchemy](https://alchemyportal.azurewebsites.net) il nome di file.</span><span class="sxs-lookup"><span data-stu-id="ac654-106">Files in the **AlchemyInsights** folder should have Rule ID and Rule Name from the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net) in the filename.</span></span>
-    1. <span data-ttu-id="ac654-p102">ad esempio ***976-How-to-enable-litigation-hold***</span><span class="sxs-lookup"><span data-stu-id="ac654-p102">ex. ***976-How-to-enable-litigation-hold***</span></span>
-1. <span data-ttu-id="ac654-p103">Utilizzare i metadati nella parte superiore del file del modello. Niente è obbligatorio.</span><span class="sxs-lookup"><span data-stu-id="ac654-p103">Use the metadata at the top of this file as your template. Nothing else is required.</span></span>
-1. <span data-ttu-id="ac654-111">Nel [portale dei Partner Alchemy](https://alchemyportal.azurewebsites.net), passare alla sezione **Customer delle conoscenze Title:** e l'utilizzo che un avviare punti per il titolo di s1 per la comprensione.</span><span class="sxs-lookup"><span data-stu-id="ac654-111">In the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net), navigate down to the section **Customer Insight Title:** and use that as a starting point for your H1 title for the insight.</span></span> 
+1. <span data-ttu-id="c8cd0-p101">**Non nidificare Alchemy Insights nelle cartelle**- questa operazione si interrompe la struttura url. Vengono cercati nella correzione seguente.</span><span class="sxs-lookup"><span data-stu-id="c8cd0-p101">**Do not nest Alchemy Insights in folders**- this will break the url structure. We're looking into fixing this.</span></span>
+1. <span data-ttu-id="c8cd0-106">File nella cartella **AlchemyInsights** devono avere ID della regola e nome della regola dal [portale per i Partner Alchemy](https://alchemyportal.azurewebsites.net) il nome di file.</span><span class="sxs-lookup"><span data-stu-id="c8cd0-106">Files in the **AlchemyInsights** folder should have Rule ID and Rule Name from the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net) in the filename.</span></span>
+    1. <span data-ttu-id="c8cd0-p102">ad esempio ***976-How-to-enable-litigation-hold***</span><span class="sxs-lookup"><span data-stu-id="c8cd0-p102">ex. ***976-How-to-enable-litigation-hold***</span></span>
+1. <span data-ttu-id="c8cd0-p103">Utilizzare i metadati nella parte superiore del file del modello. Niente è obbligatorio.</span><span class="sxs-lookup"><span data-stu-id="c8cd0-p103">Use the metadata at the top of this file as your template. Nothing else is required.</span></span>
+1. <span data-ttu-id="c8cd0-111">Nel [portale dei Partner Alchemy](https://alchemyportal.azurewebsites.net), passare alla sezione **Customer delle conoscenze Title:** e l'utilizzo che un avviare punti per il titolo di s1 per la comprensione.</span><span class="sxs-lookup"><span data-stu-id="c8cd0-111">In the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net), navigate down to the section **Customer Insight Title:** and use that as a starting point for your H1 title for the insight.</span></span> 
     > [!NOTE]
-    > <span data-ttu-id="ac654-p104">Alchemy informativa deve essere un singolo H1 nella parte superiore o interromperanno nell'ambiente di produzione. Non eseguire il rendering H2s così utilizza **il formato grassetto** o altre convenzioni per segnalare la presenza di sezioni separate.</span><span class="sxs-lookup"><span data-stu-id="ac654-p104">Alchemy Insights MUST have only a single H1 at the top or they will break in production. H2s dont render either so use **bold** or other conventions to signify separate sections.</span></span>
-1. <span data-ttu-id="ac654-114">Successivamente, completare il corpo del testo utilizzando il materiale bozza nella sezione Osservazioni dei clienti della pagina Alchemy regola</span><span class="sxs-lookup"><span data-stu-id="ac654-114">Next, fill in the body text using the draft material in the Customer Insights section of the Alchemy Rule page</span></span>
-    1. <span data-ttu-id="ac654-115">Gli elenchi puntati non siano danneggiati</span><span class="sxs-lookup"><span data-stu-id="ac654-115">Bulleted lists are fine</span></span>
-    1. <span data-ttu-id="ac654-116">Elenchi numerati troppo</span><span class="sxs-lookup"><span data-stu-id="ac654-116">Numbered lists too</span></span>
-    1. <span data-ttu-id="ac654-117">Sono a-ok **grassetto** e *corsivo*</span><span class="sxs-lookup"><span data-stu-id="ac654-117">**Bold** and *italic* are a-ok</span></span>
-    1. <span data-ttu-id="ac654-118">Collegamenti devono essere sempre uno **"collegamenti Web" / esterno** OR **approfondita collegamenti agli elementi dell'interfaccia utente**, i collegamenti non interni.</span><span class="sxs-lookup"><span data-stu-id="ac654-118">Links should always be either **"links to web"/external** OR **deep-links to UI elements**, not internal links.</span></span>
+    > <span data-ttu-id="c8cd0-p104">Alchemy informativa deve essere un singolo H1 nella parte superiore o interromperanno nell'ambiente di produzione. Non eseguire il rendering H2s così utilizza **il formato grassetto** o altre convenzioni per segnalare la presenza di sezioni separate.</span><span class="sxs-lookup"><span data-stu-id="c8cd0-p104">Alchemy Insights MUST have only a single H1 at the top or they will break in production. H2s dont render either so use **bold** or other conventions to signify separate sections.</span></span>
+1. <span data-ttu-id="c8cd0-114">Successivamente, completare il corpo del testo utilizzando il materiale bozza nella sezione Osservazioni dei clienti della pagina Alchemy regola</span><span class="sxs-lookup"><span data-stu-id="c8cd0-114">Next, fill in the body text using the draft material in the Customer Insights section of the Alchemy Rule page</span></span>
+    1. <span data-ttu-id="c8cd0-115">Gli elenchi puntati non siano danneggiati</span><span class="sxs-lookup"><span data-stu-id="c8cd0-115">Bulleted lists are fine</span></span>
+    1. <span data-ttu-id="c8cd0-116">Elenchi numerati troppo</span><span class="sxs-lookup"><span data-stu-id="c8cd0-116">Numbered lists too</span></span>
+    1. <span data-ttu-id="c8cd0-117">Sono a-ok **grassetto** e *corsivo*</span><span class="sxs-lookup"><span data-stu-id="c8cd0-117">**Bold** and *italic* are a-ok</span></span>
+    1. <span data-ttu-id="c8cd0-118">Collegamenti devono essere sempre uno **"collegamenti Web" / esterno** OR **approfondita collegamenti agli elementi dell'interfaccia utente**, i collegamenti non interni.</span><span class="sxs-lookup"><span data-stu-id="c8cd0-118">Links should always be either **"links to web"/external** OR **deep-links to UI elements**, not internal links.</span></span>
 
-<span data-ttu-id="ac654-p105">Si tratta veramente già un po' troppo lungo. Procedura consigliata è di circa 400 caratteri--</span><span class="sxs-lookup"><span data-stu-id="ac654-p105">And this is really already a bit too long. Best practice is about 400 characters ---------------------------------</span></span>
+<span data-ttu-id="c8cd0-p105">Si tratta veramente già un po' troppo lungo. Procedura consigliata è di circa 400 caratteri--</span><span class="sxs-lookup"><span data-stu-id="c8cd0-p105">And this is really already a bit too long. Best practice is about 400 characters ---------------------------------</span></span>
 
-<span data-ttu-id="ac654-p106">Dopo che il contenuto è pronto, estrarlo al ramo live. Accedere al [portale dei Partner Alchemy](https://alchemyportal.azurewebsites.net) , quindi immettere il nome del file nel campo url. Verificare che informa che delle conoscenze rivisto e pubblicato "Sì" e quindi fare clic su regola di aggiornamento. **(Si avrà un aspetto spiegazione nella nuova versione del portale - rilascio presto disponibili.)** 
- ![campo url](media/for-content-team.PNG)</span><span class="sxs-lookup"><span data-stu-id="ac654-p106">Once your content is ready, pull it to the live branch. Then, go to the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net) and enter the filename into the url field. Make sure Insight reviewed and published says "yes" and then click Update Rule. **(This will look prettier in the new version of the portal - releasing soon.)**
+<span data-ttu-id="c8cd0-p106">Dopo che il contenuto è pronto, estrarlo al ramo live. Accedere al [portale dei Partner Alchemy](https://alchemyportal.azurewebsites.net) , quindi immettere il nome del file nel campo url. Verificare che informa che delle conoscenze rivisto e pubblicato "Sì" e quindi fare clic su regola di aggiornamento. **(Si avrà un aspetto spiegazione nella nuova versione del portale - rilascio presto disponibili.)** 
+ ![campo url](media/for-content-team.PNG)</span><span class="sxs-lookup"><span data-stu-id="c8cd0-p106">Once your content is ready, pull it to the live branch. Then, go to the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net) and enter the filename into the url field. Make sure Insight reviewed and published says "yes" and then click Update Rule. **(This will look prettier in the new version of the portal - releasing soon.)**
 ![url field](media/for-content-team.PNG)</span></span>
 
