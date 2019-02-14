@@ -1,28 +1,28 @@
 ---
 title: Correggere i problemi di caricamento dei file per OneDrive
 ms.author: matteva
-author: matteva
+author: pebaum
 ms.date: 5/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: 1ee352e55290a1b05a2f1b03d42fccd895be4993
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 018efff5a881f4825659f4d236fd7f87ef84def5
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917905"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29968313"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a><span data-ttu-id="3ec3a-102">Correggere i problemi di caricamento dei file per OneDrive</span><span class="sxs-lookup"><span data-stu-id="3ec3a-102">Fix problems uploading files to OneDrive</span></span>
+# <a name="fix-problems-uploading-files-to-onedrive"></a><span data-ttu-id="52b15-102">Correggere i problemi di caricamento dei file per OneDrive</span><span class="sxs-lookup"><span data-stu-id="52b15-102">Fix problems uploading files to OneDrive</span></span>
 
-<span data-ttu-id="3ec3a-103">Se non si carica un file, provare questo:</span><span class="sxs-lookup"><span data-stu-id="3ec3a-103">Try this if a file won't upload:</span></span>
+<span data-ttu-id="52b15-103">Se non si carica un file, provare questo:</span><span class="sxs-lookup"><span data-stu-id="52b15-103">Try this if a file won't upload:</span></span>
   
-- <span data-ttu-id="3ec3a-p101">Rinominare il file e riprovare. Alcuni caratteri nei nomi di file e i nomi di file non sono consentiti.</span><span class="sxs-lookup"><span data-stu-id="3ec3a-p101">Rename the file and try again. Some file names and characters in file names aren't allowed.</span></span> 
+- <span data-ttu-id="52b15-p101">Rinominare il file e riprovare. Alcuni caratteri nei nomi di file e i nomi di file non sono consentiti.</span><span class="sxs-lookup"><span data-stu-id="52b15-p101">Rename the file and try again. Some file names and characters in file names aren't allowed.</span></span> 
     
-- <span data-ttu-id="3ec3a-106">Se si è in corso di sincronizzazione del file, viene recuperato dalla cartella di OneDrive (ad esempio, spostarlo sul desktop), e quando la OneDrive viene visualizzato lo stato della sincronizzazione come "Aggiornato" spostarlo di nuovo.</span><span class="sxs-lookup"><span data-stu-id="3ec3a-106">If you're syncing the file, move it out of your OneDrive folder (for example, move it to your Desktop), and when your OneDrive sync status appears as "Up to date," move it back.</span></span> 
+- <span data-ttu-id="52b15-106">Se si è in corso di sincronizzazione del file, viene recuperato dalla cartella di OneDrive (ad esempio, spostarlo sul desktop), e quando la OneDrive viene visualizzato lo stato della sincronizzazione come "Aggiornato" spostarlo di nuovo.</span><span class="sxs-lookup"><span data-stu-id="52b15-106">If you're syncing the file, move it out of your OneDrive folder (for example, move it to your Desktop), and when your OneDrive sync status appears as "Up to date," move it back.</span></span> 
     
-[<span data-ttu-id="3ec3a-107">Ulteriori suggerimenti sulla risoluzione dei problemi</span><span class="sxs-lookup"><span data-stu-id="3ec3a-107">More troubleshooting tips</span></span>](https://go.microsoft.com/fwlink/?linkid=873155)
+[<span data-ttu-id="52b15-107">Ulteriori suggerimenti sulla risoluzione dei problemi</span><span class="sxs-lookup"><span data-stu-id="52b15-107">More troubleshooting tips</span></span>](https://go.microsoft.com/fwlink/?linkid=873155)
   
 
