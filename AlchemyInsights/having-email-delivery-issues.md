@@ -1,5 +1,5 @@
 ---
-title: Verificano problemi di recapito di posta elettronica?
+title: Problemi di recapito della posta elettronica
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 2f96c6ee5d2f58265057641694c0536a42a5faa3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 89e9507141a28422de16455d95b052df77c6545a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905044"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209993"
 ---
-# <a name="having-email-delivery-issues"></a>Verificano problemi di recapito di posta elettronica?
+# <a name="having-email-delivery-issues"></a>Problemi di recapito della posta elettronica
 
-È stato rilevato che gli utenti non possono ricevere messaggi di posta elettronica inviati ai domini di seguito:
+È stato rilevato che gli utenti non possono ricevere messaggi di posta elettronica inviati ai domini seguenti:
   
 {HealthCheckString}
   
-I record MX o NS delle impostazioni di dominio (DNS) non sono configurati correttamente per il recapito di posta elettronica al servizio Office 365. È possibile fare riferimento ai [record DNS di aggiornamento in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) per istruzioni dettagliate. 
+I record NS o MX delle impostazioni del dominio (DNS) non sono configurati correttamente per il recapito della posta elettronica al servizio Office 365. Per istruzioni dettagliate, è possibile fare riferimento all' [aggiornamento dei record DNS in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) . 
   
-Per risolvere il problema, visitare la pagina [domini](https://admin.microsoft.com/adminportal/home#/Domains) in Office 365 Admin Center e sarà possibile avere informazioni con esso. 
+Per risolvere il caso, andare alla pagina [Domains](https://admin.microsoft.com/adminportal/home#/Domains) nell'interfaccia di amministrazione di Microsoft 365 e vi aiuteremo con esso. 
   
-Per altre soluzioni comuni, [controllare le domande frequenti su domini](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) . 
+[Consultare le domande frequenti sui domini](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) per altre soluzioni comuni. 
   
 

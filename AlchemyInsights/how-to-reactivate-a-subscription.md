@@ -1,5 +1,5 @@
 ---
-title: Come riattivare una sottoscrizione
+title: Come riattivare un abbonamento
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c04ac62ab623a8a512b80257ec642167382f21aa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c04ed7dd2383edb8c82dba7d2547591ba2cff325
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900220"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208157"
 ---
-# <a name="how-to-reactivate-a-subscription"></a>Come riattivare una sottoscrizione
+# <a name="how-to-reactivate-a-subscription"></a>Come riattivare un abbonamento
 
-Se la sottoscrizione scaduti, è stata annullata o disattivata da Microsoft, è possibile riattivare nell'interfaccia di amministrazione di Office 365.
+Se l'abbonamento è scaduto, è stato annullato o disabilitato da Microsoft, è possibile riattivarlo nell'interfaccia di amministrazione di Microsoft 365.
   
 1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione** \> **Abbonamenti**.
     
-2. Scegliere la sottoscrizione che si desidera riattivare.
+2. Scegliere l'abbonamento che si desidera riattivare.
     
-3. Fare clic sul pulsante **riattivare** sul lato destro. 
+3. Scegliere il **** pulsante Riattiva sulla destra. 
     
-4. Verrà richiesto di aggiornare i dettagli di pagamento. Quando tutte le informazioni siano corrette, scegliere **Invia**.
+4. Verrà chiesto di aggiornare i dettagli del pagamento. Quando tutte le informazioni sono corrette, scegliere **Submit**.
     
-5. Nella parte inferiore dello schermo, verrà visualizzato un messaggio di conferma. Scegliere **Chiudi** per tornare alla pagina **degli abbonamenti** di. 
+5. Verrà visualizzata una conferma nella parte inferiore dello schermo. Fare clic su **Chiudi** per tornare **** alla pagina abbonamenti. 
     
-6. Se la sottoscrizione non attivi dopo pochi minuti, aggiornare la pagina.
+6. Se la sottoscrizione non risulta attiva dopo qualche minuto, aggiornare la pagina.
     
-Per ulteriori informazioni, vedere: [rinnovare Office 365 per aziende](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
+Per ulteriori informazioni, vedere: [renew Office 365 for business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
   
 

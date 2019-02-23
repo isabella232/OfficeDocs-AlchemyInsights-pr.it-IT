@@ -1,5 +1,5 @@
 ---
-title: Posta in arrivo attivo Configure 912 per tutti gli utenti dell'organizzazione
+title: 912 configurare la posta in arrivo evidenziata per tutti gli utenti dell'organizzazione
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: fa4198a8ca09acd3138eb1543682da2b86a5b8c4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 88dc9e01a50100f94afe659556ecc93fe8cec5b6
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913276"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209021"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Attiva dedicata posta in arrivo attivato o disattivato per tutti gli utenti
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Attivazione o disattivazione della posta in arrivo attivata per tutti gli utenti
 
-Per ulteriori informazioni, vedere [Configurare dedicata posta in arrivo per tutti gli utenti nell'organizzazione](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
+Per istruzioni, vedere [configurare la posta in arrivo evidenziata per tutti gli utenti dell'organizzazione](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
   
- **Nota**: questa procedura è necessario Exchange Online PowerShell. Se si desidera farlo nell'interfaccia di amministrazione di Office 365? [Votare qui!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+ **Nota**: questa procedura richiede Exchange Online PowerShell. Si desidera eseguire questa operazione nell'interfaccia di amministrazione di Microsoft 365? [Votare qui!](https://go.microsoft.com/fwlink/p/?linkid=862489)
   
 

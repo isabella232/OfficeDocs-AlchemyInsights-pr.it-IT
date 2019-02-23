@@ -1,5 +1,5 @@
 ---
-title: Come assegnare licenze di Office per gli utenti Mac
+title: Come assegnare licenze di Office agli utenti Mac
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,25 +10,25 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
-ms.openlocfilehash: f27198496cbcbef502e33f6c4c3125077bd3f23e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ec58c6fb06047ee25b867127838e14fbc626e87f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29909459"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207797"
 ---
-# <a name="how-to-assign-office-licenses-to-mac-users"></a>Come assegnare licenze di Office per gli utenti Mac
+# <a name="how-to-assign-office-licenses-to-mac-users"></a>Come assegnare licenze di Office agli utenti Mac
 
-- Nell'interfaccia di amministrazione di Office 365, Vai alla pagina di [utenti attivi](https://go.microsoft.com/fwlink/p/?linkid=834822) o scegliere **utenti** \> **utenti attivi**.
+- nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina [utenti attivi](https://go.microsoft.com/fwlink/p/?linkid=834822) o scegliere **** \> utenti **attivi**.
     
 - Selezionare la casella accanto al nome dell'utente a cui si vuole assegnare una licenza.
     
 - A destra, nella riga **Licenze di prodotto**, scegliere **Modifica**.
     
-- Nel riquadro s **licenza del prodotto**, passare l'interruttore alla posizione **nella** corrispondente alla licenza che si desidera assegnare all'utente. 
+- Nel riquadro **licenza del prodotto**, impostare l'interruttore **sulla posizione attivata** per la licenza che si desidera assegnare all'utente. 
     
 - Nella parte inferiore del riquadro **Licenze di prodotto** scegliere **Salva** \> **Chiudi** \> **Chiudi**.
     
-Per ulteriori informazioni: [assegnare licenze agli utenti di Office 365 per aziende](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+Per ulteriori informazioni: [assegnare licenze agli utenti in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
 

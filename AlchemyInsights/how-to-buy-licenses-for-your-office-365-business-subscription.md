@@ -1,5 +1,5 @@
 ---
-title: Come acquistare le licenze per la sottoscrizione di business di Office 365
+title: Informazioni su come acquistare le licenze per l'abbonamento a Office 365 business
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
-ms.openlocfilehash: 4abb2f5b1644b651c8a137feb01aace69257d2bb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1d9c0009e743e2cb514124ba5b9c3292580d9a88
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920020"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207977"
 ---
-# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Come acquistare le licenze per la sottoscrizione di business di Office 365
+# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Informazioni su come acquistare le licenze per l'abbonamento a Office 365 business
 
-Durante l'assegnazione delle licenze di Office 365 per gli utenti, può essere che necessario acquistare altre licenze. A tale scopo:
+Quando si assegnano le licenze di Office 365 agli utenti, è possibile che si disponga della necessità di acquistare altre licenze. Per eseguire questa operazione:
   
-- Nell'interfaccia di amministrazione di Office 365 passare alla pagina [Abbonamenti]( https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione** \> **Abbonamenti**.
+- nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina [abbonamenti]( https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere abbonamenti di **fatturazione** \> ****.
     
 - Nella pagina **Abbonamenti** selezionare l'abbonamento a cui si vogliono aggiungere licenze, quindi scegliere **Aggiungi/rimuovi licenze**.
     
 - Nella casella **Totale licenze** immettere il numero totale di licenze necessarie per l'abbonamento e quindi scegliere **Invia** \> **Chiudi**. Se, ad esempio, si hanno 100 licenze e occorre aggiungerne altre 5, immettere 105.
     
-Per ulteriori informazioni: [acquistare le licenze per Office 365 per la sottoscrizione di business](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+Per ulteriori informazioni: [acquistare le licenze per l'abbonamento a Office 365 for business](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
   
 

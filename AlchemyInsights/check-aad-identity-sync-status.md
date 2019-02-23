@@ -1,5 +1,5 @@
 ---
-title: Verificare lo stato della sincronizzazione delle identità AAD
+title: Controllare lo stato di sincronizzazione dell'identità AAD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: c4b0dfdf1b5cc52bd08dc6f7273efb67f6bec117
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b2788e98cf7c94d8dd4c1543145f30a442072f1e
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913408"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209705"
 ---
-# <a name="check-aad-identity-sync-status"></a>Verificare lo stato della sincronizzazione delle identità AAD
+# <a name="check-aad-identity-sync-status"></a>Controllare lo stato di sincronizzazione dell'identità AAD
 
-Controllo dello stato di sincronizzazione è facile: 
+Controllare lo stato della sincronizzazione è semplice: 
   
-- Accedere all'interfaccia di amministrazione di Office 365 e fare clic su * * stato DirSync * * nella home page. 
+- Accedere all'interfaccia di amministrazione di Microsoft 365 e scegliere * * stato DirSync * * nella Home page. 
     
-- In alternativa, è possibile accedere ai utenti \> utenti attivi e nella pagina utenti attivi, fare clic su più \> la sincronizzazione delle Directory.
+- In alternativa, è possibile accedere agli utenti \> attivi degli utenti, quindi nella pagina utenti attivi scegliere altre \> sincronizzazione della directory.
     
-- Nel riquadro di sincronizzazione della Directory, scegliere Vai a gestione DirSync. 
+- Nel riquadro di sincronizzazione della directory scegliere Vai a gestione DirSync. 
     
-Se si verifica un problema con la sincronizzazione della directory, in questa pagina sono riportati gli errori. Per ulteriori informazioni su errori che possono verificarsi, vedere [gli errori di sincronizzazione directory di identità in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+Se si verifica un problema con la sincronizzazione della directory, gli errori sono elencati in questa pagina. Per ulteriori informazioni sui diversi errori che potrebbero verificarsi, vedere [identificare gli errori di sincronizzazione della directory in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
   
 

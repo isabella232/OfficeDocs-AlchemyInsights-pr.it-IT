@@ -1,5 +1,5 @@
 ---
-title: Modifica del comportamento delle Invia come cassetta postale condivisa
+title: Modifica del comportamento di invio delle cassette postali condivise
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 467897569b5c1da3dfbc83e00167ed02f0e8eaf8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cb2dd4baf1035b1625b9f598930fc914de3fa266
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919804"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208229"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a>Modifica del comportamento delle Invia come cassetta postale condivisa
+# <a name="changing-shared-mailbox-send-as-behavior"></a>Modifica del comportamento di invio delle cassette postali condivise
 
 Per impostazione predefinita, i messaggi inviati dalla cassetta postale condivisa non vengono salvati nella relativa cartella Posta inviata, bensì nella cartella Posta inviata della persona che ha inviato il messaggio.
   
-Se si desidera che a tutti i membri per visualizzare il messaggio di posta elettronica inviati, nell'interfaccia di amministrazione di Office 365, modificare i dettagli di cassetta postale condivisa e quindi selezionare **elementi inviati** \> **Modifica**.
+se si desidera che tutti i membri visualizzino il messaggio di posta elettronica inviato, nell'interfaccia di amministrazione di Microsoft 365 modificare i dettagli della cassetta postale condivisa e scegliere \> **modifica** **elementi inviati** .
   
 Per ulteriori informazioni, vedere [creare una cassetta postale condivisa](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).
   

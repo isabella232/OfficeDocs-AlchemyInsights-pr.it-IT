@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 8984d8dfdd8f1ff540b418dfbfe382cffac978e5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d29764266f44aee5f8f8e2c93ad67b2a33c6f417
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933844"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209741"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>Fornire agli utenti l'accesso a SharePoint e OneDrive
 
 > [!NOTE]
-> Se un sito di SharePoint o OneDrive non è disponibile per tutti gli utenti che disponeva in precedenza, potrebbe esserci un problema temporaneo del servizio. [Il dashboard di integrità del servizio di controllo](https://portal.office.com/adminportal/home#/servicehealth)
+> Se un sito di OneDrive o di SharePoint non è disponibile per più utenti che in precedenza avevano accesso, potrebbe verificarsi un problema di servizio temporaneo. [Controllare il dashboard dell'integrità del servizio](https://portal.office.com/adminportal/home#/servicehealth)
   
-Se si desidera che gli utenti nell'organizzazione siano in grado di accedere e utilizzare OneDrive e SharePoint, è necessario aggiungere gli account per tali e assicurarsi che dispongono di una licenza che concede l'accesso a SharePoint e OneDrive. Per aggiungere utenti, è nell'interfaccia di amministrazione di Office 365.
+Se si desidera che gli utenti dell'organizzazione siano in grado di accedere e utilizzare SharePoint e OneDrive, è necessario aggiungere account per loro e assicurarsi che dispongano di una licenza che conferisca loro l'accesso a SharePoint e OneDrive. Il modo più semplice per aggiungere gli utenti è nell'interfaccia di amministrazione di Microsoft 365.
   
-1. Passare alla [pagina attiva utenti nell'interfaccia di amministrazione di Office 365](https://portal.office.com/adminportal/home#/users)e quindi fare clic su **Aggiungi utente**.
+1. Passare alla [pagina utenti attivi nell'interfaccia di amministrazione di Microsoft 365](https://portal.office.com/adminportal/home#/users)e quindi fare clic su **Aggiungi utente**.
     
-2. Immettere le informazioni per l'utente e assicurarsi che in **licenze per i prodotti**, viene assegnata una licenza e **SharePoint Online** sia selezionata. 
+2. Inserire le informazioni per l'utente e verificare che in **licenze di prodotto**sia stata assegnata una licenza e che sia selezionato **SharePoint Online** . 
     
-Si noti che se si consente la condivisione all'interno dell'organizzazione esterna, gli utenti possono condividere il contenuto di SharePoint e OneDrive con utenti esterni all'organizzazione. Non è necessario fornire queste licenze agli utenti esterni. Inoltre non è necessario aggiungere gli account per, a meno che la condivisione è impostata su "Solo esistenti gli utenti esterni." In tal caso, se gli utenti non inclusi nell'elenco dell'organizzazione, è necessario aggiungerli come utenti guest nell'interfaccia di amministrazione di Azure Active Directory.
+Si noti che se si consente la condivisione esterna nell'organizzazione, gli utenti possono condividere i contenuti di SharePoint e OneDrive con utenti esterni all'organizzazione. Non è necessario assegnare le licenze agli utenti esterni. Non è inoltre necessario aggiungere account per loro, a meno che la condivisione non sia impostata su "solo utenti esterni esistenti". In tal caso, se le persone non sono presenti nella directory dell'organizzazione, è necessario aggiungerle come utenti guest nell'interfaccia di amministrazione di Azure AD.
   
 

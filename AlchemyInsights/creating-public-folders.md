@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2f8699c8-1eb6-4f5e-8c06-08e960092b1a
-ms.openlocfilehash: 5cbc69c723b311f4e1c5b8fb2831c878641a065d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ec33ae6f35f22666185ae3e45c2222329e8f9207
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914152"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208121"
 ---
 # <a name="creating-public-folders"></a>Creazione di cartelle pubbliche
 
-Prima che gli utenti possono utilizzare le cartelle pubbliche in Office 365, è necessario creare almeno una cassetta postale di cartelle pubbliche. Per creare:
+Prima che gli utenti possano utilizzare le cartelle pubbliche in Office 365, sarà necessario creare almeno una cassetta postale di cartelle pubbliche. Per creare:
   
-1. Nell'interfaccia di amministrazione di Office 365 andare a **Admin Center** \> **Exchange**.
+1. nell'interfaccia di amministrazione di Microsoft 365 accedere a interfaccia di **amministrazione** \> di **Exchange**.
     
-2. Accedere a **cartelle pubbliche** \> **cassette postali delle cartelle pubbliche**e quindi fare clic su **Aggiungi**.
+2. Passare alle **** \> **cassette postali**delle cartelle pubbliche e quindi fare clic su **Aggiungi**.
     
 3. Nella pagina **Cassetta postale delle cartelle pubbliche**, specificare un nome per la cassetta postale delle cartelle pubbliche.
     
 4. Fare clic su **Salva**.
     
-Dopo aver creata una cassetta postale, è possibile iniziare a creare cartelle singole o chiedere agli utenti di [avviare la creazione e utilizzo delle cartelle pubbliche in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97). In qualità di amministratore, è inoltre possibile [creare le cartelle pubbliche per l'organizzazione](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx).
+Dopo aver creato una cassetta postale, è possibile iniziare a creare singole cartelle o dire agli utenti di [avviare la creazione e l'utilizzo di cartelle pubbliche in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97). In qualità di amministratore, è anche possibile [creare cartelle pubbliche per l'organizzazione](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx).
   
-Le cartelle pubbliche non sono accessibili nei dispositivi mobili.
+Le cartelle pubbliche non sono accessibili sui dispositivi mobili.
   
 
