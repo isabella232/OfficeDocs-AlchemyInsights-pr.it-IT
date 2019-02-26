@@ -1,5 +1,5 @@
 ---
-title: 8000033 come rispondere a o inoltra i messaggi la versione beta Outlook.com
+title: 8000033 come rispondere o inoltrare i messaggi nella versione beta di Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 16e5bfdc-3363-4e1b-9436-789ce67ad22e
-ms.openlocfilehash: 7187e877bc1d62fb5b837fde3c0f1220a27a41b3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 331a7c16b1b0f6a22a8dfbfa56c87bbb7ba83326
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941152"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244441"
 ---
-# <a name="how-to-reply-to-or-forward-messages"></a>Come rispondere o inoltrare i messaggi
+# <a name="how-to-reply-to-or-forward-messages"></a>Come rispondere o inoltrare messaggi
 
-La versione beta Outlook.com, i pulsanti di **risposta**, **Rispondi a tutti**e **Inoltra** si trovano le icone. 
+Nella versione beta di Outlook.com, i pulsanti per **risposta**, **Rispondi a tutti**e **Inoltra** sono icone. 
   
-Nell'angolo superiore destro del riquadro dei messaggi, selezionare ![Rispondi](media/08ad5200-369a-4a2f-bef5-ebdcbef5545f.png), ![Rispondi a tutti](media/be5f41a1-dbea-471f-ba5d-7be4256922d2.png), oppure ![Inoltra](media/29fd06ec-1642-40d1-8faa-ec437ef156fc.png) Reply, Rispondi a tutti o inoltra. 
+Nell'angolo in alto a destra del riquadro del messaggio, selezionare la freccia curva a sinistra, la freccia curva a sinistra o la freccia rivolta verso destra per rispondere, rispondere a tutto o inoltrare. 
   
-Ulteriori informazioni su come [creare, di risposta o messaggi di posta elettronica di inoltrare in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873141).
+Ulteriori informazioni su come [creare, rispondere o inoltrare messaggi di posta elettronica in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873141).
   
 

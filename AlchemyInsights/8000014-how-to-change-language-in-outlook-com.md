@@ -1,5 +1,5 @@
 ---
-title: 8000014 come cambiare lingua in Outlook.com
+title: 8000014 come modificare la lingua in Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 6cd1dbbf2e924ababff57711e8ffcf7fa9e08be5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b512dc4c4a730b89381f9c0e93101d5bbf866ff
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929726"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244585"
 ---
-# <a name="change-your-language"></a>Modificare la lingua dell'utente
+# <a name="change-your-language"></a>Modificare la lingua
 
-1. Nell'angolo superiore destro, selezionare **Impostazioni**![impostazioni](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Opzioni**.
+1. Nell'angolo in alto a destra, selezionare **** \> **Opzioni**impostazioni.
     
-2. In **Opzioni**, selezionare **Generale** \> **area e al fuso orario**.
+2. In **Opzioni**selezionare area **generale** \> **e fuso orario**.
     
-3. In **impostazioni fusi orari e area**, selezionare la lingua dell'utente.
+3. In **Impostazioni area e aree temporali**scegliere la lingua.
     
 4. Selezionare **Salva**.
     
-Per ulteriori informazioni, vedere [modificare il fuso orario e le impostazioni della lingua in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Per ulteriori informazioni, vedere [Change The Time zone and Language Settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
   
 

@@ -1,5 +1,5 @@
 ---
-title: 8000046 posta elettronica stampa e calendari in Outlook.com
+title: 8000046 stampa messaggi di posta elettronica e calendari in Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 40063c6e-2c45-420d-ae63-9eb274b64f5e
-ms.openlocfilehash: 74d0708cb4f6b2d3785cf9fd4225c534ae7e9d52
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3bd27184cff5341363d3d11e194d64881df44fdd
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936040"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244549"
 ---
-# <a name="print-email-and-calendars-in-outlookcom"></a>Stampa di posta elettronica e calendari in Outlook.com
+# <a name="print-email-and-calendars-in-outlookcom"></a>Stampa di messaggi di posta elettronica e calendari in Outlook.com
 
-Per stampare i messaggi di posta elettronica:
+Per stampare messaggi di posta elettronica:
   
 1. Selezionare il messaggio che si desidera stampare.
     
-2. Nella parte superiore della pagina, selezionare ![ulteriori azioni](media/64993e8a-4a62-43b1-aa05-90f5ad4cba54.png) \> **Stampa**. 
+2. Nella parte superiore della pagina, seleziona "..." \> **Stampa**. 
     
-Per stampare il calendario, è necessario utilizzare Outlook.com classica. Stampa del calendario non è attualmente disponibile nella versione beta Outlook.com.
+Per stampare il calendario, è necessario utilizzare Outlook.com classico. La stampa del calendario non è attualmente disponibile in Outlook.com beta.
   
-1. Nella parte superiore della pagina, verificare che l'interruttore beta Outlook.com è impostato su off.
+1. Nella parte superiore della pagina, verificare che l'opzione toggle Outlook.com beta sia impostata su disattivata.
     
-2. Nella parte inferiore della pagina, seleziona  ![Calendario](media/9e1a821a-c32e-4851-a866-342a39ffdca0.png).
+2. Nella parte inferiore della pagina, selezionare l'icona del calendario.
     
 3. Scegliere la visualizzazione **giorno**, **settimana lavorativa**, **settimana**o **mese** nella parte superiore della pagina. 
     
-4. Nella parte superiore della pagina, selezionare **Stampa**. 
+4. Nella parte superiore della pagina, selezionare **stampa**. 
     
-Ulteriori informazioni sulla [posta elettronica stampa e calendari in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).
+Ulteriori informazioni su come [stampare la posta elettronica e i calendari in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).
   
 
