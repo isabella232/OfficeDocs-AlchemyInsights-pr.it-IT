@@ -1,5 +1,5 @@
 ---
-title: 8000012 Elimina un contatto in Outlook.com
+title: 8000012 eliminare un contatto in Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: 7b66cfc49df40b326506a089fc29d58e35fb1f5e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 88906b68e22bc21549e92c074ebb053be9b8660b
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929128"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244477"
 ---
-# <a name="delete-a-contact"></a><span data-ttu-id="43ed6-102">Eliminare un contatto</span><span class="sxs-lookup"><span data-stu-id="43ed6-102">Delete a contact</span></span>
+# <a name="delete-a-contact"></a><span data-ttu-id="3d9b7-102">Eliminare un contatto</span><span class="sxs-lookup"><span data-stu-id="3d9b7-102">Delete a contact</span></span>
 
-1. <span data-ttu-id="43ed6-p101">Nella parte superiore della pagina, selezionare il servizio di avvio di app ![pulsante l'avvio di App. ](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) e selezionare **persone**.</span><span class="sxs-lookup"><span data-stu-id="43ed6-p101">At the top of the page, select the app launcher ![The App Launcher button.](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) and then select **People**.</span></span> 
+1. <span data-ttu-id="3d9b7-103">Nella parte superiore della pagina selezionare l'icona di avvio delle app e quindi selezionare **persone**.</span><span class="sxs-lookup"><span data-stu-id="3d9b7-103">At the top of the page, select the app launcher  and then select **People**.</span></span> 
     
-2. <span data-ttu-id="43ed6-105">Selezionare il contatto che si desidera eliminare e scegliere **Elimina**![eliminare](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span><span class="sxs-lookup"><span data-stu-id="43ed6-105">Select the contact you want to delete and select **Delete**![Delete](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span></span>
+2. <span data-ttu-id="3d9b7-104">Selezionare il contatto che si desidera eliminare e selezionare **Elimina**.</span><span class="sxs-lookup"><span data-stu-id="3d9b7-104">Select the contact you want to delete and select **Delete**.</span></span>
     
-    <span data-ttu-id="43ed6-p102">Se non è possibile selezionare **Elimina**, il contatto potrebbe essere da Skype o un account connesso social network. Per eliminare il contatto, passare al Skype o l'account di cui si trova il contatto.</span><span class="sxs-lookup"><span data-stu-id="43ed6-p102">If you can't select **Delete**, the contact might be from Skype or a connected social network account. To delete the contact, go to Skype or the account where the contact is located.</span></span>
+    <span data-ttu-id="3d9b7-p101">Se non è possibile selezionare **Elimina**, il contatto potrebbe provenire da Skype o da un account di social network connesso. Per eliminare il contatto, passare a Skype o all'account in cui si trova il contatto.</span><span class="sxs-lookup"><span data-stu-id="3d9b7-p101">If you can't select **Delete**, the contact might be from Skype or a connected social network account. To delete the contact, go to Skype or the account where the contact is located.</span></span>
     
-3. <span data-ttu-id="43ed6-108">Selezionare **Elimina** per confermare.</span><span class="sxs-lookup"><span data-stu-id="43ed6-108">Select **Delete** to confirm.</span></span> 
+3. <span data-ttu-id="3d9b7-107">Selezionare **Elimina** per confermare.</span><span class="sxs-lookup"><span data-stu-id="3d9b7-107">Select **Delete** to confirm.</span></span> 
     
 
