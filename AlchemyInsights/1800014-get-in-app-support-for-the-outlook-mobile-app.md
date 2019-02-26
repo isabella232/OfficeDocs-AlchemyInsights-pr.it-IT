@@ -1,5 +1,5 @@
 ---
-title: 1800014 ottenere supporto all'interno dell'applicazione per Outlook mobile app
+title: 1800014 ottenere il supporto in-app per l'app per dispositivi mobili di Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: b14d26200be299ace27372a59242091d7b115c0d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 083007614106997edc42644549fe7a46e37b4f48
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933988"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244405"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Ottenere supporto all'interno dell'applicazione per Outlook mobile app
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Ottenere il supporto in-app per l'app per dispositivi mobili di Outlook
 
-1. Nell'applicazione mobile di Outlook, aprire il **Menu**![pulsante Menu The](media/265b9089-9630-42dd-a244-d9a412d8fe47.png).
+1. Nell'app Outlook Mobile, aprire il **menu**.
     
-2. Selezionare il punto interrogativo![pulsante della Guida](media/3b8cbf5a-6ced-4d79-b53c-fa82045c3e25.png) per aprire la **Help &amp; commenti e suggerimenti** dello schermo. 
+2. Selezionare il punto interrogativo per aprire la schermata di **feedback della Guida &amp; ** . 
     
-3. Toccare **Contattare il supporto tecnico** e viene illustrato il problema. 
+3. Toccare **supporto tecnico contatti** e spiegare il problema. 
     
-4. Scegliere **Invia** e si riceverà una notifica all'interno dell'applicazione quando un agente di supporto per l'utente verrà contattato. 
+4. Toccare **Invia** e si riceverà una notifica in-app quando un agente di supporto si contatta. 
     
-Per istruzioni dettagliate, vedere [Guida di app per Outlook per iOS e Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).
-  
-
+Per istruzioni dettagliate, vedere [Get in-app help for Outlook for iOS and Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).

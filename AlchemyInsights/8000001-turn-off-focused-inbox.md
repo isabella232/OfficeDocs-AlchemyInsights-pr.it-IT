@@ -1,5 +1,5 @@
 ---
-title: Disattiva 8000001 dedicata posta in arrivo
+title: 8000001 Disattiva posta in arrivo evidenziata
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: a4a4399d1fbf9cf2696c912c6ff51c36390dbb60
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9d4b55c9a7c955031568b384a1fa89f5478f091b
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906484"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243901"
 ---
-# <a name="turn-off-focused-inbox"></a>Disattivare la posta in arrivo sono disponibili
+# <a name="turn-off-focused-inbox"></a>Disattiva posta in arrivo evidenziata
 
-1. Selezionare **Impostazioni**![impostazioni](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **dedicata posta in arrivo**.
+1. Selezionare **Impostazioni** \> in **posta in arrivo**evidenziata.  
     
-2. In **alla ricezione di posta elettronica**, selezionare **non ordinare i messaggi**.
+2. In **quando viene ricevuto un messaggio di posta elettronica**, selezionare **non ordinare i messaggi**.
     
 3. Selezionare **OK**.
     
-Per ulteriori informazioni, vedere [Dedicata posta in arrivo di Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).
+Per ulteriori informazioni, vedere [posta in arrivo evidenziata per Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).
   
 
