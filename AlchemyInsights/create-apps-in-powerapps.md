@@ -1,30 +1,30 @@
 ---
-title: Creare App in PowerApps
+title: Creare app in PowerApps
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
-ms.openlocfilehash: 67af08e2e18ca7469bd1c220f062e87919e409a8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928012"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404967"
 ---
-# <a name="create-apps-with-powerapps"></a>Creare App con PowerApps
+# <a name="create-apps-with-powerapps"></a>Creare app con PowerApps
 
-PowerApps è una piattaforma di sviluppo per le applicazioni aziendali. È costituito da tre componenti principali: 
+PowerApps è una piattaforma di sviluppo per le app aziendali. Ha tre componenti principali: 
   
-- Inizio con l'esperienza utente, alla creazione di un'interfaccia altamente personalizzata con la potenza di un'area vuota e la connessione a propria scelta delle origini 200 dati [tela App](https://go.microsoft.com/fwlink/?linkid=874495) . È possibile compilare App area di disegno per server web, mobile e tablet applicazioni. 
+- Le [app Canvas](https://go.microsoft.com/fwlink/?linkid=874495) iniziano con l'esperienza degli utenti, elaborando un'interfaccia altamente personalizzata con la potenza di una tela vuota e collegandolo alla scelta di origini dati di 200. È possibile creare app Canvas per le applicazioni Web, per dispositivi mobili e tablet. 
     
-- [Applicazioni basate su modelli](https://go.microsoft.com/fwlink/?linkid=874496) iniziare con il modello di dati - creazione di dalla forma dei dati business principali e i processi nel servizio dati comune a modello moduli, visualizzazioni e altri componenti. Applicazioni basate su modelli di generare automaticamente un'ottima interfaccia utente risponde tra dispositivi. 
+- Le [app basate su modelli](https://go.microsoft.com/fwlink/?linkid=874496) iniziano con il modello di dati, creando una forma di dati e processi aziendali di base nel servizio dati comune per modellare moduli, visualizzazioni e altri componenti. Le app basate su modelli generano automaticamente una grande interfaccia utente che risponde tra i dispositivi. 
     
-- [Servizio dati comune](https://go.microsoft.com/fwlink/?linkid=874497) è la piattaforma di dati che è dotato di PowerApps e consente di archiviare e del modello di dati business. È la piattaforma in cui vengono create applicazioni Dynamics 365. Se si è un cliente Dynamics, i dati sono già nel servizio dati comune. 
+- [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) è la piattaforma di dati fornita con PowerApps e consente di archiviare e modellare dati business. È la piattaforma in cui vengono create le applicazioni Dynamics 365. Se si è clienti dinamici, i dati sono già presenti nel servizio dati comune. 
     
-[Ulteriori informazioni su PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
+[Altre informazioni su PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
   
 

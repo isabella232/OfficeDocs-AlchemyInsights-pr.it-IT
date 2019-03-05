@@ -7,27 +7,27 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
-ms.openlocfilehash: 600eda051f47a57dcc6da4c4b48f95f5b8021f12
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d80072c3cdbeb97d7b73520267c64ca8447bee4b
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904540"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404787"
 ---
 # <a name="add-a-user-to-office-365"></a>Aggiungere un utente a Office 365
 
 Seguire questa procedura per aggiungere un utente a Office 365:
   
-1. Accedere a [Utenti attivi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (o nella barra di navigazione sinistra scegliere **utenti** \> **utenti attivi**).
+1. Passare a [utenti attivi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (o, sulla barra di navigazione sinistra **** \> , scegliere utenti **attivi**).
     
 2. Fare clic su **Aggiungi utente**.
     
 3. Inserire le informazioni relative all'utente. Al termine, scegliere **Aggiungi**. 
     
-[Per ulteriori informazioni...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+[Ulteriori informazioni...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
   
 

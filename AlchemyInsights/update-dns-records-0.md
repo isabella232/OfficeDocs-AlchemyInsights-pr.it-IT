@@ -6,20 +6,20 @@ ms.date: 1/12/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: e6b58e70ecc302c94718d35bc8d840d2963cf69e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3deb5f1ac8ec663c43848beb9d0a815198206e19
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940828"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405075"
 ---
 # <a name="update-dns-records"></a>Aggiornare i record DNS
 
-Configurazione di record DNS è importante ottenere la sottoscrizione a Office 365 lavorare con il nome di dominio personalizzato. Utilizzare i collegamenti riportati di seguito per aggiungere o aggiornare i record DNS.
+La configurazione dei record DNS è importante per ottenere la sottoscrizione di Office 365 che utilizza il nome di dominio personalizzato. Utilizzare i collegamenti riportati di seguito per aggiungere o aggiornare i record DNS.
   
 - [Aggiornamento dei record DNS in Office 365](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
     

@@ -7,6 +7,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ROBOTS: NOINDEX, NOFOLLOW
 search.appverid:
 - MET150
 - MOE150
@@ -15,25 +16,25 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 4927bbbcc940ee5236b6228b403363526201e2a9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
+ms.sourcegitcommit: c2070de81172fe627f489adf391f3c4bed222c4d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942088"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379429"
 ---
 # <a name="enable-multi-factor-authentication"></a>Abilitare l'autenticazione a più fattori
 
-1. Passare a **utenti** \> **utenti attivi**
+1. Passare a **** \> utenti **attivi**
     
-2. Fare clic su **altro** \> **autenticazione multifattore Azure il programma di installazione**. 
+2. Fare clic su **altre** \> impostazioni per l' **autenticazione a più fattori di Azure**. 
     
-3. Individuare l'utente o gli utenti che si desidera abilitare per MFA. Per visualizzare tutti gli utenti, potrebbe essere necessario modificare la visualizzazione dello stato di autenticazione a più fattori nella parte superiore.
+3. Individuare l'utente o gli utenti che si desidera abilitare per l'AMF. Per visualizzare tutti gli utenti, potrebbe essere necessario modificare la visualizzazione dello stato dell'autenticazione a più fattori nella parte superiore.
     
-4. Selezionare la casella di controllo accanto a utenti che si desidera abilitare.
+4. Selezionare la casella di controllo accanto agli utenti che si desidera abilitare.
     
-5.  Nel riquadro di informazioni utente appropriata in **Azioni rapide** si sarà vedere abilitare e gestire le impostazioni utente. Scegliere **Abilita**. 
+5.  Nel riquadro delle informazioni utente destro, in **passaggi rapidi** , vengono visualizzate le impostazioni di abilitazione e gestione degli utenti. Scegliere **Enable**. 
     
-6. Nella finestra di dialogo che viene visualizzata, **fare clic su Abilita autenticazione a più fattori**. 
+6. Nella finestra di dialogo visualizzata, **fare clic su Abilita autenticazione a più fattori**. 
     
 
