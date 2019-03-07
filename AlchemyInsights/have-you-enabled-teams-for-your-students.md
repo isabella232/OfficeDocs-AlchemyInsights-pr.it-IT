@@ -1,5 +1,5 @@
 ---
-title: Team sono attivati per gli studenti?
+title: Sono stati abilitati i team per gli studenti?
 ms.author: heidip
 author: microsoftheidi
 ms.date: 1/9/2019
@@ -9,16 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3899a788-feaa-4ea4-a40b-09542f4cc148
-ms.openlocfilehash: 457bf53f2817b1e0a68b0647c84cb6b66ef0a43a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 73ff9c5cb09cd4209912ef459e8c7df2560c2d27
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927760"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468559"
 ---
-# <a name="have-you-enabled-teams-for-your-students"></a><span data-ttu-id="7915a-102">Team sono attivati per gli studenti?</span><span class="sxs-lookup"><span data-stu-id="7915a-102">Have you enabled Teams for your students?</span></span>
+# <a name="have-you-enabled-teams-for-your-students"></a><span data-ttu-id="dfa5a-102">Sono stati abilitati i team per gli studenti?</span><span class="sxs-lookup"><span data-stu-id="dfa5a-102">Have you enabled Teams for your students?</span></span>
 
 
-<span data-ttu-id="7915a-p101">Sono in grado di accedere a team docenti e personale, ma non gli studenti? I team deve essere attivata in modo esplicito per gli studenti, nonché per docenti e personale. A tale scopo, vedere la figura 2 del passaggio 5 nell'articolo trovato [qui](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="7915a-p101">Are faculty and staff able to access Teams, but your students can't? Teams needs to be explicitly enabled for your students, as well as for faculty and staff. To do this, please see Figure 2 of Step 5 in the article found [here](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span></span>
+<span data-ttu-id="dfa5a-103">I docenti e i membri del personale sono in grado di accedere ai team, ma gli studenti non possono?</span><span class="sxs-lookup"><span data-stu-id="dfa5a-103">Are faculty and staff able to access Teams, but your students can't?</span></span> <span data-ttu-id="dfa5a-104">I team devono essere abilitati in modo esplicito per gli studenti, oltre che per i docenti e gli addetti.</span><span class="sxs-lookup"><span data-stu-id="dfa5a-104">Teams needs to be explicitly enabled for your students, as well as for faculty and staff.</span></span> <span data-ttu-id="dfa5a-105">A tale scopo, vedere [Enable Microsoft teams for your School](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="dfa5a-105">To do this, please see [Enable Microsoft Teams for your school](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span></span>
   
 
