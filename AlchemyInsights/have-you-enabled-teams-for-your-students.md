@@ -1,5 +1,5 @@
 ---
-title: Team sono attivati per gli studenti?
+title: Sono stati abilitati i team per gli studenti?
 ms.author: heidip
 author: microsoftheidi
 ms.date: 1/9/2019
@@ -9,16 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3899a788-feaa-4ea4-a40b-09542f4cc148
-ms.openlocfilehash: 457bf53f2817b1e0a68b0647c84cb6b66ef0a43a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 73ff9c5cb09cd4209912ef459e8c7df2560c2d27
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927760"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468559"
 ---
-# <a name="have-you-enabled-teams-for-your-students"></a>Team sono attivati per gli studenti?
+# <a name="have-you-enabled-teams-for-your-students"></a>Sono stati abilitati i team per gli studenti?
 
 
-Sono in grado di accedere a team docenti e personale, ma non gli studenti? I team deve essere attivata in modo esplicito per gli studenti, nonché per docenti e personale. A tale scopo, vedere la figura 2 del passaggio 5 nell'articolo trovato [qui](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).
+I docenti e i membri del personale sono in grado di accedere ai team, ma gli studenti non possono? I team devono essere abilitati in modo esplicito per gli studenti, oltre che per i docenti e gli addetti. A tale scopo, vedere [Enable Microsoft teams for your School](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Consentire ai team di Microsoft
+title: Abilitare Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: e00c589059b2f02ce9d6a77ca2a2ffb9d90771dc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 98a7a07a85506f8f94b5a55ebf0e797443a0260a
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917212"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468919"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>Abilitare e utilizzare i team di Microsoft
+# <a name="enable-and-use-microsoft-teams"></a>Abilitazione e utilizzo di Microsoft Teams
 
-È possibile utilizzare questi articoli per abilitare e utilizzare Microsoft Teams:
-  
-- [Come ottenere l'accesso ai Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
-    
-- [Impostazioni di amministrazione per Microsoft Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)
-    
+
+Se non si ha accesso a Microsoft teams, vedere [come ottenere l'accesso a Microsoft teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
+
+Se si dispone già di Microsoft teams e si ha la necessità di sapere come configurarlo e gestirlo, vedere [impostazioni di amministratore per Microsoft teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)
 
