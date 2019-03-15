@@ -1,5 +1,5 @@
 ---
-title: 'stesso come nome del file è consigliabile [regola #-descrizione]'
+title: 'uguale al nome del file è la migliore [RULE #-Description]'
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -11,31 +11,31 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939299"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634508"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Obbligatorio Alchemy intestazione s1, s2 non funzionano.
-Procedure consigliate e linee guida per la creazione e modifica Alchemy:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Obbligatorio intestazione di alchimia H1, H2's non funziona.
+Procedure consigliate e linee guida per la creazione di alchimia:
 
-1. **Non nidificare Alchemy Insights nelle cartelle**- questa operazione si interrompe la struttura url. Vengono cercati nella correzione seguente.
-1. File nella cartella **AlchemyInsights** devono avere ID della regola e nome della regola dal [portale per i Partner Alchemy](https://alchemyportal.azurewebsites.net) il nome di file.
-    1. ad esempio ***976-How-to-enable-litigation-hold***
-1. Utilizzare i metadati nella parte superiore del file del modello. Niente è obbligatorio.
-1. Nel [portale dei Partner Alchemy](https://alchemyportal.azurewebsites.net), passare alla sezione **Customer delle conoscenze Title:** e l'utilizzo che un avviare punti per il titolo di s1 per la comprensione. 
+1. **Non annidare Insights alchimia nelle cartelle**-questo si romperà la struttura URL. Stiamo cercando di risolvere la cosa.
+1. I file nella cartella **AlchemyInsights** devono disporre dell'ID regola e del nome della regola dal [portale del partner](https://alchemyportal.azurewebsites.net) di alchimia nel nome del file.
+    1. ex. ***976-How-to-Enable-controversia legale-conservazione***
+1. Utilizzare i metadati nella parte superiore del file come modello. Non è necessario nient'altro.
+1. Nel [portale del partner Alchemy](https://alchemyportal.azurewebsites.net), passare alla sezione **Customer Insight title:** e utilizzarlo come punto di partenza per il titolo H1 per Insight. 
     > [!NOTE]
-    > Alchemy informativa deve essere un singolo H1 nella parte superiore o interromperanno nell'ambiente di produzione. Non eseguire il rendering H2s così utilizza **il formato grassetto** o altre convenzioni per segnalare la presenza di sezioni separate.
-1. Successivamente, completare il corpo del testo utilizzando il materiale bozza nella sezione Osservazioni dei clienti della pagina Alchemy regola
-    1. Gli elenchi puntati non siano danneggiati
+    > L'alchimia Insights deve avere solo un singolo H1 nella parte superiore o si romperà in produzione. Non è possibile eseguire il rendering di H2s in modo da utilizzare convenzioni **audaci** o altre per indicare sezioni separate.
+1. Successivamente, inserire il testo del corpo usando il materiale bozza nella sezione Customer Insights della pagina della regola di alchimia
+    1. Gli elenchi puntati sono ottimali
     1. Elenchi numerati troppo
-    1. Sono a-ok **grassetto** e *corsivo*
-    1. Collegamenti devono essere sempre uno **"collegamenti Web" / esterno** OR **approfondita collegamenti agli elementi dell'interfaccia utente**, i collegamenti non interni.
+    1. **Grassetto** e *corsivo* sono a-OK
+    1. I collegamenti devono essere sempre **"collegamenti al Web"/External** o **collegamenti profondi a elementi dell'interfaccia utente**, non collegamenti interni.
 
-Si tratta veramente già un po' troppo lungo. Procedura consigliata è di circa 400 caratteri--
+E questo è già un po' troppo lungo. La procedura consigliata è di circa 400 caratteri---------------------------------
 
-Dopo che il contenuto è pronto, estrarlo al ramo live. Accedere al [portale dei Partner Alchemy](https://alchemyportal.azurewebsites.net) , quindi immettere il nome del file nel campo url. Verificare che informa che delle conoscenze rivisto e pubblicato "Sì" e quindi fare clic su regola di aggiornamento. **(Si avrà un aspetto spiegazione nella nuova versione del portale - rilascio presto disponibili.)** 
- ![campo url](media/for-content-team.PNG)
+Una volta che il contenuto è pronto, tirarlo sul ramo Live. Passare quindi al portale del [partner](https://alchemyportal.azurewebsites.net) di alchimia e immettere il nome del file nel campo URL. Assicurarsi che Insight revisionato e pubblicato dica "Sì" e quindi fare clic su Aggiorna regola. **(Questo aspetto sarà più bello nella nuova versione del portale-rilasciando al più presto).** 
+ ![campo URL](media/for-content-team.PNG)
 
