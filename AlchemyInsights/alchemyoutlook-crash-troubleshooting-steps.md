@@ -1,5 +1,5 @@
 ---
-title: Alchemy - risoluzione dei problemi arresto anomalo di Outlook
+title: Procedure per la risoluzione dei problemi relativi a Alchemy-Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -9,25 +9,25 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 5e54975a9783490c406a15e6572f3858c7123bb7
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: 096e98335f99a28a9d7dba215ccc5334caf9f137
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968421"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758362"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Risoluzione dei problemi arresto anomalo di Outlook
+# <a name="outlook-crash-troubleshooting-steps"></a>Passaggi per la risoluzione dei problemi di Outlook crash
 
-Se si verificano problemi di arresto anomalo del desktop di Outlook, iniziare eseguendo i passaggi 3 seguente, che sono elencati nel dettaglio in questo articolo: [come risolvere i problemi che causano il blocco di Outlook o un bloccano se utilizzato con Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Se si verificano problemi di crash del desktop di Outlook, iniziare seguendo i 3 passaggi riportati di seguito, elencati in dettaglio in questo articolo: informazioni [su come risolvere i problemi che causano l'arresto anomalo di Outlook o il blocco se utilizzato con Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
   
-Passaggio 1: Esaminare possibili problemi con i componenti aggiuntivi.
+Passaggio 1: analisi dei possibili problemi con i componenti aggiuntivi.
   
-Passaggio 2: Outlook ripristino ed eseguire lo [strumento Assistente di ripristino e supporto per risolvere gli errori di avvio di Outlook](https://aka.ms/SaRA-OutlookWontStart) nel computer interessato. 
+Passaggio 2: ripristinare Outlook ed eseguire lo [strumento Assistente supporto e ripristino per la risoluzione dei problemi relativi agli errori di avvio di Outlook](https://aka.ms/SaRA-OutlookWontStart) nel computer in questione. 
   
-Passaggio 3: Creare un nuovo profilo di Outlook oppure è possibile eseguire lo [strumento di profili di Outlook](https://aka.ms/SaRA-OutlookSetupProfile) nel computer interessato. 
+Passaggio 3: creare un nuovo profilo di Outlook oppure è possibile eseguire lo [strumento profilo di Outlook](https://aka.ms/SaRA-OutlookSetupProfile) nel computer in questione. 
   
-Se si è verificato il problema dopo un aggiornamento e i passaggi precedenti non funzionano, potrebbe essere necessario ripristinare una build precedente. Vedere [come ripristinare una versione precedente di Office 2013 o Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
+Se il problema si è verificato dopo un aggiornamento e i passaggi precedenti non funzionano, potrebbe essere necessario ripristinare una compilazione precedente. Vedere [come ripristinare una versione precedente di office 2013 o office 2016](https://support.microsoft.com/help/2770432)a portata di clic.
   
 
