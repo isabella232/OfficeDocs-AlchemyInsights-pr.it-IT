@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: 462aa49181340f8ca29cffedb1a4fedf3a545865
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6c452e629723b3c24a006dfd9fad72bbc248287d
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899824"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758110"
 ---
-# <a name="install-skype-for-business"></a><span data-ttu-id="b142f-102">Installare Skype for Business</span><span class="sxs-lookup"><span data-stu-id="b142f-102">Install Skype for Business</span></span>
+# <a name="install-skype-for-business"></a><span data-ttu-id="3e425-102">Installare Skype for Business</span><span class="sxs-lookup"><span data-stu-id="3e425-102">Install Skype for Business</span></span>
 
-<span data-ttu-id="b142f-103">È possibile installare Skype per le aziende seguendo i passaggi descritti in questo articolo: [Installare Skype per le aziende](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span><span class="sxs-lookup"><span data-stu-id="b142f-103">You can install Skype for Business by following the steps in this article: [Install Skype for Business](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span></span>
+<span data-ttu-id="3e425-103">È possibile installare Skype for business seguendo i passaggi descritti in questo articolo: [Install Skype for business](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span><span class="sxs-lookup"><span data-stu-id="3e425-103">You can install Skype for Business by following the steps in this article: [Install Skype for Business](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span></span>
   
 

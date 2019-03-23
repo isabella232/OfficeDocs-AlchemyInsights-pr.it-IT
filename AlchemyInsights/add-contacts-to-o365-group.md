@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 6fce5b405f746f900faedaeac333c7041f16f449
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 26c843cedce90a87a74fc3d364ee62fb7daec0ab
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208373"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762212"
 ---
-# <a name="add-contacts-to-an-office-365-group"></a><span data-ttu-id="62823-102">Aggiungere contatti a un gruppo di Office 365</span><span class="sxs-lookup"><span data-stu-id="62823-102">Add contacts to an Office 365 Group</span></span>
+# <a name="add-contacts-to-an-office-365-group"></a><span data-ttu-id="2180a-102">Aggiungere contatti a un gruppo di Office 365</span><span class="sxs-lookup"><span data-stu-id="2180a-102">Add contacts to an Office 365 Group</span></span>
 
-<span data-ttu-id="62823-103">I proprietari del gruppo possono aggiungere utenti esterni e contatti di posta elettronica in Outlook attenendosi alle istruzioni seguenti: [aggiungere e rimuovere membri del gruppo in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="62823-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
+<span data-ttu-id="2180a-103">I proprietari del gruppo possono aggiungere utenti esterni e contatti di posta elettronica in Outlook attenendosi alle istruzioni seguenti: [aggiungere e rimuovere membri del gruppo in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="2180a-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
   
-<span data-ttu-id="62823-104">È inoltre possibile aggiungere o rimuovere membri del gruppo nel portale di amministrazione: [aggiungere o rimuovere membri dai gruppi di Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span><span class="sxs-lookup"><span data-stu-id="62823-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Office 365 groups using the Microsoft 365 admin center](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span></span>
+<span data-ttu-id="2180a-104">È inoltre possibile aggiungere o rimuovere membri del gruppo nel portale di amministrazione: [aggiungere o rimuovere membri dai gruppi di Office 365 utilizzando l'interfaccia di amministrazione di Microsoft 365](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span><span class="sxs-lookup"><span data-stu-id="2180a-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Office 365 groups using the Microsoft 365 admin center](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span></span>
   
 

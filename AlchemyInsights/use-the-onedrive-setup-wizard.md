@@ -1,5 +1,5 @@
 ---
-title: Utilizzare l'installazione guidata OneDrive
+title: Utilizzare l'installazione guidata di OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8b711af6-3d0e-4334-ae67-8b3cb76293de
-ms.openlocfilehash: 5222ce6c8d8708059cb9ecfd3685f6a7f88f7e53
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cdf966f1eedf5240c6fa46b71e95a0554b76951f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939784"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756418"
 ---
-# <a name="set-up-onedrive"></a><span data-ttu-id="ae38f-102">Impostare OneDrive</span><span class="sxs-lookup"><span data-stu-id="ae38f-102">Set up OneDrive</span></span>
+# <a name="set-up-onedrive"></a><span data-ttu-id="5ac56-102">Configurare OneDrive</span><span class="sxs-lookup"><span data-stu-id="5ac56-102">Set up OneDrive</span></span>
 
-<span data-ttu-id="ae38f-103">Per impostare le OneDrive rapidamente per l'organizzazione, [utilizzare l'installazione guidata OneDrive](https://portal.office.com/onboarding/odfbquickstartguide).</span><span class="sxs-lookup"><span data-stu-id="ae38f-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
+<span data-ttu-id="5ac56-103">Per configurare rapidamente OneDrive per l'organizzazione, [utilizzare l'installazione guidata di OneDrive](https://portal.office.com/onboarding/odfbquickstartguide).</span><span class="sxs-lookup"><span data-stu-id="5ac56-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
   
 

@@ -1,28 +1,33 @@
 ---
-title: Ricevere un errore di TenantAccessBlockedException quando si accede a posta elettronica?
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: 127 ottenere un errore di TenantAccessBlockedException durante l'accesso alla posta elettronica?
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: e473a74523c927fca2ab3087d382543890766981
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912028"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754258"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="d8f6f-102">Ricevere un errore di TenantAccessBlockedException quando si accede a posta elettronica?</span><span class="sxs-lookup"><span data-stu-id="d8f6f-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="b3364-102">Viene visualizzato un errore di TenantAccessBlockedException quando si accede alla posta elettronica?</span><span class="sxs-lookup"><span data-stu-id="b3364-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="d8f6f-p101">Sono disponibili alcuni motivi diversi sui motivi per cui si verifichi un errore indicante che viene bloccato l'accesso al tenant di. Per risolvere il problema, è possibile eseguire le operazioni seguenti:</span><span class="sxs-lookup"><span data-stu-id="d8f6f-p101">There are a few different reasons why you may get an error saying that access to your tenant is blocked. To fix the problem, you can try the following steps:</span></span>
+<span data-ttu-id="b3364-103">È possibile che venga visualizzato un errore diverso.</span><span class="sxs-lookup"><span data-stu-id="b3364-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="b3364-104">Ad esempio:</span><span class="sxs-lookup"><span data-stu-id="b3364-104">For example:</span></span>
   
-- <span data-ttu-id="d8f6f-105">Verificare che sia valida nella pagina [degli abbonamenti](https://admin.microsoft.com/adminportal/home#/subscriptions) della sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="d8f6f-105">Check that your subscription is valid on the [Subscriptions](https://admin.microsoft.com/adminportal/home#/subscriptions) page.</span></span> 
+- <span data-ttu-id="b3364-105">verificare che la sottoscrizione sia valida nella pagina \*\*\*\* \> **sottoscrizioni** di fatturazione nell'interfaccia di amministrazione di Microsoft [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)365 (.</span><span class="sxs-lookup"><span data-stu-id="b3364-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
     
-- <span data-ttu-id="d8f6f-106">Controllare la pagina [di fatturazione](https://admin.microsoft.com/adminportal/home#/billoverview) per qualsiasi precedenti quote con il proprio account.</span><span class="sxs-lookup"><span data-stu-id="d8f6f-106">Check the [Billing](https://admin.microsoft.com/adminportal/home#/billoverview) page for any past dues on your account.</span></span> 
+- <span data-ttu-id="b3364-106">controllare se sono presenti notifiche precedenti nella pagina \*\*\*\* \> **fatture** di fatturazione nell'interfaccia di amministrazione di Microsoft [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)365 (.</span><span class="sxs-lookup"><span data-stu-id="b3364-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span></span>
     
-- <span data-ttu-id="d8f6f-p102">Se l'account è nell'ordine indicato, ma è stata modificata di recente, potrebbe richiedere alcuni minuti affinché le modifiche di propagare a tutti i server. Scegliere un'altra risposta in pochi minuti e se il problema persiste, contattare Microsoft.</span><span class="sxs-lookup"><span data-stu-id="d8f6f-p102">If your account is in order now, but has been changed recently, it might take some time for the changes to propagate to all servers. Give it another try in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="b3364-107">Se la fatturazione e le sottoscrizioni per l'account sono state aggiornate di recente, potrebbe essere necessario che le modifiche vengano propagate.</span><span class="sxs-lookup"><span data-stu-id="b3364-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="b3364-108">Provare di nuovo in pochi minuti e, se il problema persiste, contattaci.</span><span class="sxs-lookup"><span data-stu-id="b3364-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
     
 

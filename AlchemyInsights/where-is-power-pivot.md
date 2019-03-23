@@ -1,5 +1,5 @@
 ---
-title: Dove si trova PowerPivot?
+title: Dove è Power Pivot?
 ms.author: chrsm
 author: chrsm
 manager: jecon
@@ -9,35 +9,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 53156353d82bf5e36164f9af58ae48aaf002aa7e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1ff407cea0a992ca4236218cfdf93ec315e723a9
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912892"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761277"
 ---
-# <a name="where-is-power-pivot"></a><span data-ttu-id="2eeba-102">Dove si trova PowerPivot?</span><span class="sxs-lookup"><span data-stu-id="2eeba-102">Where is Power Pivot?</span></span>
+# <a name="where-is-power-pivot"></a><span data-ttu-id="0a40b-102">Dove è Power Pivot?</span><span class="sxs-lookup"><span data-stu-id="0a40b-102">Where is Power Pivot?</span></span>
 
-<span data-ttu-id="2eeba-103">Esistono tre motivi per cui non è visualizzata Power Pivot:</span><span class="sxs-lookup"><span data-stu-id="2eeba-103">There are three reasons why you don't see Power Pivot:</span></span>
+<span data-ttu-id="0a40b-103">Esistono tre motivi per cui non si vede Power Pivot:</span><span class="sxs-lookup"><span data-stu-id="0a40b-103">There are three reasons why you don't see Power Pivot:</span></span>
   
- <span data-ttu-id="2eeba-104">**La versione di Excel non includerlo**</span><span class="sxs-lookup"><span data-stu-id="2eeba-104">**Your version of Excel doesn't include it**</span></span>
+ <span data-ttu-id="0a40b-104">**La versione di Excel non è inclusa**</span><span class="sxs-lookup"><span data-stu-id="0a40b-104">**Your version of Excel doesn't include it**</span></span>
   
-<span data-ttu-id="2eeba-p101">Non tutte le versioni di Excel includono PowerPivot. È necessario eseguire l'aggiornamento a una versione di Office che include PowerPivot. [Controllare l'elenco delle versioni supportate.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)</span><span class="sxs-lookup"><span data-stu-id="2eeba-p101">Not all versions of Excel include Power Pivot. You will need to upgrade to a version of Office that includes Power Pivot. [Check the list of supported versions.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)</span></span>
+<span data-ttu-id="0a40b-105">Non tutte le versioni di Excel includono Power pivot.</span><span class="sxs-lookup"><span data-stu-id="0a40b-105">Not all versions of Excel include Power Pivot.</span></span> <span data-ttu-id="0a40b-106">Sarà necessario eseguire l'aggiornamento a una versione di Office che include Power pivot.</span><span class="sxs-lookup"><span data-stu-id="0a40b-106">You will need to upgrade to a version of Office that includes Power Pivot.</span></span> [<span data-ttu-id="0a40b-107">Controllare l'elenco delle versioni supportate.</span><span class="sxs-lookup"><span data-stu-id="0a40b-107">Check the list of supported versions.</span></span>](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
- <span data-ttu-id="2eeba-108">**Non sono abilitate PowerPivot**</span><span class="sxs-lookup"><span data-stu-id="2eeba-108">**You haven't enabled Power Pivot**</span></span>
+ <span data-ttu-id="0a40b-108">**Non è stato abilitato Power Pivot**</span><span class="sxs-lookup"><span data-stu-id="0a40b-108">**You haven't enabled Power Pivot**</span></span>
   
-<span data-ttu-id="2eeba-109">Se utilizza una versione di Excel che supporta Power Pivot, verificare che il componente aggiuntivo è abilitato:</span><span class="sxs-lookup"><span data-stu-id="2eeba-109">If you are working in a version of Excel that supports Power Pivot, check to see that the Add-in is enabled:</span></span>
+<span data-ttu-id="0a40b-109">Se si utilizza una versione di Excel che supporta Power Pivot, verificare che il componente aggiuntivo sia abilitato:</span><span class="sxs-lookup"><span data-stu-id="0a40b-109">If you are working in a version of Excel that supports Power Pivot, check to see that the Add-in is enabled:</span></span>
   
-1. <span data-ttu-id="2eeba-110">Scegliere **File** \> **Opzioni** \> **Componenti aggiuntivi**.</span><span class="sxs-lookup"><span data-stu-id="2eeba-110">Choose **File** \> **Options** \> **Add-Ins**.</span></span>
+1. <span data-ttu-id="0a40b-110">Scegliere i componenti aggiuntivi per le **Opzioni** \> **di** **file** \> .</span><span class="sxs-lookup"><span data-stu-id="0a40b-110">Choose **File** \> **Options** \> **Add-Ins**.</span></span>
     
-2. <span data-ttu-id="2eeba-111">Nella casella di riepilogo a discesa **Gestisci** selezionare **componenti aggiuntivi COM** e fare clic su **Vai**.</span><span class="sxs-lookup"><span data-stu-id="2eeba-111">In the **Manage** drop down box, choose **COM Add-ins** and click **Go**.</span></span>
+2. <span data-ttu-id="0a40b-111">Nella casella \*\*\*\* a discesa Gestisci selezionare **componenti aggiuntivi com** e fare clic su **Vai**.</span><span class="sxs-lookup"><span data-stu-id="0a40b-111">In the **Manage** drop down box, choose **COM Add-ins** and click **Go**.</span></span>
     
-3. <span data-ttu-id="2eeba-112">Nella finestra di dialogo **componenti aggiuntivi Com** , selezionare la casella di controllo accanto a **Microsoft di PowerPivot per Excel**e quindi fare clic su **OK**.</span><span class="sxs-lookup"><span data-stu-id="2eeba-112">In the **Com Add-ins** dialog box, select the checkbox next to **Microsoft Power Pivot for Excel**, and then click **OK**.</span></span> 
+3. <span data-ttu-id="0a40b-112">Nella finestra di dialogo **componenti aggiuntivi COM** selezionare la casella di controllo accanto a **Microsoft Power Pivot per Excel**e quindi fare clic su **OK**.</span><span class="sxs-lookup"><span data-stu-id="0a40b-112">In the **Com Add-ins** dialog box, select the checkbox next to **Microsoft Power Pivot for Excel**, and then click **OK**.</span></span> 
     
- <span data-ttu-id="2eeba-113">**Si dispone di più sottoscrizioni o gli account**</span><span class="sxs-lookup"><span data-stu-id="2eeba-113">**You have multiple subscriptions or accounts**</span></span>
+ <span data-ttu-id="0a40b-113">**Si dispone di più abbonamenti o account**</span><span class="sxs-lookup"><span data-stu-id="0a40b-113">**You have multiple subscriptions or accounts**</span></span>
   
-<span data-ttu-id="2eeba-p102">Potrebbe essere assegnate a diversi account utente diverse sottoscrizioni a Office 365. Verificare di che aver effettuato l'accesso a un account con una versione di Excel che supporta Power Pivot. Verificare l'elenco di [versioni supportate](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)e seguire le istruzioni per [passare da diversi account di Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span><span class="sxs-lookup"><span data-stu-id="2eeba-p102">You might have different Office 365 subscriptions assigned to different user accounts. Make sure you're signed in to an account with a version of Excel that supports Power Pivot. Check the list of [supported versions](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), and follow the instructions to [switch between different Office accounts](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span></span>
+<span data-ttu-id="0a40b-114">È possibile che si disponga di sottoscrizioni di Office 365 diverse assegnate a diversi account utente.</span><span class="sxs-lookup"><span data-stu-id="0a40b-114">You might have different Office 365 subscriptions assigned to different user accounts.</span></span> <span data-ttu-id="0a40b-115">Assicurarsi di aver eseguito l'accesso a un account con una versione di Excel che supporta Power pivot.</span><span class="sxs-lookup"><span data-stu-id="0a40b-115">Make sure you're signed in to an account with a version of Excel that supports Power Pivot.</span></span> <span data-ttu-id="0a40b-116">Controllare l'elenco delle [versioni supportate](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)e seguire le istruzioni per passare da un [account di Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)a un altro.</span><span class="sxs-lookup"><span data-stu-id="0a40b-116">Check the list of [supported versions](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), and follow the instructions to [switch between different Office accounts](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span></span>
   
 
