@@ -1,5 +1,5 @@
 ---
-title: Invio di posta elettronica come cassetta postale condivisa
+title: Invio di messaggi di posta elettronica come cassetta postale condivisa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: f0d0e9e857589ff91d163dcc4877633d18abdaab
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b8c6a5ba5ab28912ef09a4b17468a917534a54f0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919696"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752314"
 ---
-# <a name="sending-email-as-the-shared-mailbox"></a>Invio di posta elettronica come cassetta postale condivisa
+# <a name="sending-email-as-the-shared-mailbox"></a>Invio di messaggi di posta elettronica come cassetta postale condivisa
 
-Dopo aver creato una cassetta postale condivisa, gli utenti che sono membri della cassetta postale sono in grado di inviare posta elettronica come l'identità della cassetta postale condivisa (ad esempio *info@contoso.com* ). Per ulteriori informazioni, vedere: 
+Dopo aver creato una cassetta postale condivisa, gli utenti che sono membri della cassetta postale sono in grado di inviare messaggi di posta elettronica come identità della cassetta postale condivisa (ad esempio, *info@contoso.com* ). Per le istruzioni, vedere: 
   
 [Aprire e usare cassette postali condivise in Outlook 2016 e Outlook 2013](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
-[Aggiungere una cassetta postale condivisa a Outlook sul web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+[Aggiungere una cassetta postale condivisa a Outlook sul Web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
   
 

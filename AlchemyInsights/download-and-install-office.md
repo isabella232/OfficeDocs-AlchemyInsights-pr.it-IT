@@ -1,5 +1,5 @@
 ---
-title: Scarica e installa Office
+title: Scaricare e installare Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 95d6ff680dff8c6b045fd00e3d1212a0cf18b893
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7bdc84bf69eba228aaf536befe4b5ce5d150f3b2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916960"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754186"
 ---
-# <a name="download-and-install-office"></a>Scarica e installa Office
+# <a name="download-and-install-office"></a>Scaricare e installare Office
 
-La sottoscrizione **Business Essentials** non include le applicazioni di Office. Per ottenere Office, è necessario eseguire l'aggiornamento a sottoscrizione **Business** o **Business Premium** . Estrarre le sottoscrizioni disponibile con Office qui: [Piani aziendali di Office 365](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+La sottoscrizione di **Business Essentials** non include le app di Office. Per ottenere Office, è necessario eseguire l'aggiornamento all'abbonamento Premium **Business** o **Business** . Consultare gli abbonamenti disponibili con Office qui: [office 365 business plans](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

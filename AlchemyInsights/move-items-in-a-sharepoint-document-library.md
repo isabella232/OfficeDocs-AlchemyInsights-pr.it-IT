@@ -1,5 +1,5 @@
 ---
-title: Spostare gli elementi nella raccolta documenti di SharePoint
+title: Spostare gli elementi in una raccolta documenti di SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: fc166470e0f40c9dea5f21bf2d89912459fc8142
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d3b7b8504d4ffcdccfe39645ee462e4e2e36b660
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900256"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759982"
 ---
-# <a name="move-items-in-a-sharepoint-document-library"></a>Spostare gli elementi nella raccolta documenti di SharePoint
+# <a name="move-items-in-a-sharepoint-document-library"></a>Spostare gli elementi in una raccolta documenti di SharePoint
 
-È possibile spostare gli elementi in diverse posizioni all'interno di una raccolta documenti. Se è stato [configurato l'opzione versione personalizzati](https://go.microsoft.com/fwlink/?linkid=622980), è anche possibile spostare gli elementi tra i siti. Quando si spostano documenti, verrà spostata anche la cronologia.
+È possibile spostare gli elementi in posizioni diverse all'interno di una raccolta documenti. Se è stata [configurata l'opzione di rilascio di destinazione](https://go.microsoft.com/fwlink/?linkid=622980), è possibile spostare anche gli elementi tra i siti. Quando si spostano i documenti, viene spostata anche la cronologia.
   
-1. In un web browser passare al file, cartelle o collegamenti che si desidera spostare e quindi fare clic su **Sposta per**.
+1. In un Web browser, passare ai file, alle cartelle o ai collegamenti che si desidera spostare, quindi fare clic su **Sposta su**.
     
     > [!NOTE]
-    > **Spostare** non è disponibile se si utilizza l'esperienza classica di SharePoint Online. 
+    > La modalità di **spostamento** non è disponibile se si utilizza l'esperienza classica di SharePoint Online. 
   
-2. Nella casella **Seleziona destinazione**di selezionare il percorso in cui si desidera spostare gli elementi. Se si sta spostando in un altro sito o sito secondario e non viene visualizzato che poiché elencato, fare clic su **Sfoglia siti** per visualizzare un elenco completo dei siti che è possibile spostarsi su. 
+2. In **Scegli una destinazione**selezionare il percorso in cui si desidera spostare gli elementi. Se si passa a un sito o a un sito secondario diverso e non lo si vede elencato, fare clic su **Sfoglia siti** per visualizzare l'elenco completo dei siti a cui è possibile spostarsi. 
     
-    Per creare una nuova cartella per spostare i file, selezionare un percorso nella gerarchia delle cartelle, fare clic su **nuova cartella**, immettere un nome per la cartella e scegliere il segno di spunta per salvare il nome.
+    Per creare una nuova cartella in cui spostare i file, selezionare un percorso nella gerarchia delle cartelle, fare clic su **nuova cartella**, immettere un nome per la cartella e fare clic sul segno di spunta per salvare il nome.
     
 3. Fare clic su **Sposta qui**.
     

@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 66462dff344d0b6ad5ae6eabf78bede2e3335356
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 32e3c4016f3c2ef5d6477e3593c4717802bd62b5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940144"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752962"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Caricare file o una cartella in una raccolta documenti di SharePoint
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Caricare una cartella o un file in una raccolta documenti di SharePoint
 
-Per caricare una cartella, è necessario utilizzare Microsoft Edge, Google Chrome o Mozilla FireFox. È possibile caricare le cartelle di esperienza raccolta classica o tramite Internet Explorer 10 o 11.
+Per caricare una cartella, è necessario utilizzare Microsoft Edge, Google Chrome o Mozilla FireFox. Non è possibile caricare le cartelle nell'esperienza classica della libreria o con Internet Explorer 10 o 11.
   
-1. Aprire la raccolta documenti in cui si desidera caricare file o una cartella.
+1. Aprire la raccolta documenti in cui si desidera caricare una cartella o file.
     
-2. Aprire Esplora File per il computer e specificare la cartella o file da caricare.
+2. Aprire Esplora file nel computer e passare alla cartella o ai file che si desidera caricare.
     
-3. Trascinare i file della raccolta documenti. Se non viene visualizzata è caricato gli elementi inclusi nella documentazione, aggiornare la pagina. 
+3. Trascinare la cartella o i file nella raccolta documenti. Se non vengono visualizzati gli elementi caricati nella raccolta, aggiornare la pagina. 
     
-Se non si desidera caricare trascinando elementi tra windows, è possibile utilizzare il pulsante **Carica** per selezionare la cartella o file da caricare nella raccolta documenti. 
+Se non si desidera eseguire il caricamento trascinando gli elementi tra Windows, è anche possibile utilizzare il pulsante **carica** nella raccolta documenti per selezionare la cartella o i file che si desidera caricare. 
   
 

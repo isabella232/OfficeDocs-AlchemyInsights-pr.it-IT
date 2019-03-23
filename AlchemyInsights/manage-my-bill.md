@@ -1,5 +1,5 @@
 ---
-title: Gestire pagamento
+title: Gestisci la mia fattura
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f844501a-e575-48b8-9c1b-9f800c7b89f8
-ms.openlocfilehash: 39b7f2a566ce3f6b759c4a23cb1f602be909205e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: eff17074de4c198ec475573081a01f4288dd3ecb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906037"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759838"
 ---
-# <a name="manage-my-bill-and-payments"></a>Gestisci distinta e pagamenti
+# <a name="manage-my-bill-and-payments"></a>Gestione delle fatture e dei pagamenti
 
-Come amministratori, si ha accesso a tutte le opzioni di fatturazione e pagamenti nell'interfaccia di amministrazione.
+In qualità di amministratore, è possibile accedere a tutte le opzioni di fatturazione e pagamenti nell'interfaccia di amministrazione.
   
-- Visualizzare il pagamento o fatturazione.
+- Visualizzare la fattura o la fattura.
     
 - Aggiungere, aggiornare o rimuovere l'opzione di pagamento.
     
-- Passare a un altro di Office 365.
+- Passare a un altro ufficio 365.
     
-- Rinnovo dell'abbonamento.
+- Rinnovare l'abbonamento.
     
-- Acquisto di un'altra sottoscrizione.
+- Acquistare un altro abbonamento.
     
-- Estendere la versione di prova.
+- Estendere la versione di valutazione.
     
-- Annullare la sottoscrizione.
+- Annullare l'abbonamento.
     
 

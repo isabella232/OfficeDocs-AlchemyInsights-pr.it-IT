@@ -1,5 +1,5 @@
 ---
-title: Copiare gli elementi nella raccolta documenti di SharePoint
+title: Copiare gli elementi in una raccolta documenti di SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,32 +9,32 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 2bea9fea9ddaca686a5c4fb1cf629cb1a0ebea63
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d162d60ad55711d7165f32630faa1c6cd1b4b756
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917921"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760810"
 ---
-# <a name="copy-items-in-a-sharepoint-document-library"></a>Copiare gli elementi nella raccolta documenti di SharePoint
+# <a name="copy-items-in-a-sharepoint-document-library"></a>Copiare gli elementi in una raccolta documenti di SharePoint
 
-1. In un web browser passare al file, cartelle o collegamenti che si desidera copiare e quindi fare clic su **Copia su**.
+1. In un Web browser, passare ai file, alle cartelle o ai collegamenti che si desidera copiare, quindi fare clic su **copia su**.
     
     > [!NOTE]
-    > **Copiare** non è disponibile se si utilizza l'esperienza classica di SharePoint Online. 
+    > **Copia in** non è disponibile se si utilizza l'esperienza classica di SharePoint Online. 
   
-2. Nella casella **Seleziona destinazione**di selezionare il percorso in cui si desidera copiare gli elementi. Se si sta copia di un altro sito o sito secondario e non viene visualizzato che poiché elencato, fare clic su **Sfoglia siti** per visualizzare un elenco completo dei siti che è possibile copiare. 
+2. In **Scegli una destinazione**selezionare il percorso in cui si desidera copiare gli elementi. Se si copia in un sito o in un sito secondario diverso e non lo si vede elencato, fare clic su **Sfoglia siti** per visualizzare l'elenco completo dei siti a cui è possibile eseguire la copia. 
     
     > [!NOTE]
-    > Se non viene visualizzata altri siti quando si copiano elementi elencati, copia tra i siti non è stata configurata. Per abilitarla, passare alla pagina Impostazioni del centro di amministrazione di SharePoint e fare clic su **OK**. 
+    > Se non vengono visualizzati altri siti elencati quando si copiano gli elementi, la copia tra i siti non è stata configurata. Per abilitarlo, passare alla pagina impostazioni dell'interfaccia di amministrazione di SharePoint e fare clic su **OK**. 
   
-    Per creare una nuova cartella per copiare i file per selezionare un percorso nella gerarchia delle cartelle, fare clic su **nuova cartella**, immettere un nome per la cartella e scegliere il segno di spunta per salvare il nome.
+    Per creare una nuova cartella in cui copiare i file, selezionare un percorso nella gerarchia delle cartelle, fare clic su **nuova cartella**, immettere un nome per la cartella e fare clic sul segno di spunta per salvare il nome.
     
-3. Fare clic su **Copia**.
+3. Fare clic su **copia qui**.
     
 > [!NOTE]
->  È possibile copiare un massimo di 500 MB di file e cartelle in una sola volta. gt _ quando si utilizza **copia di** documenti con cronologia delle versioni, solo la versione più recente viene copiato. 
+>  È possibile copiare fino a 500 MB di file e cartelle contemporaneamente. > quando si utilizza la **copia** con i documenti con cronologia delle versioni, viene copiata solo la versione più recente. 
   
 

@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: 52ca89c1b5f4e26baec48d832216edb6d6d2742f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932368"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761205"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>Gestire l'archiviazione di SharePoint o OneDrive
 
  **SharePoint Online**
   
-Per la maggior parte delle organizzazioni, archivio SharePoint viene gestita automaticamente in modo che non è necessario impostare i limiti per ogni raccolta siti. Per controllare la quantità archivio SharePoint sono:
+Per la maggior parte delle organizzazioni, lo spazio di archiviazione di SharePoint viene gestito automaticamente in modo che non sia necessario impostare limiti per ogni raccolta siti. Per controllare la quantità di spazio di archiviazione di SharePoint di cui si dispone:
   
-- Nell'interfaccia di amministrazione SharePoint classica, nell'angolo in alto a destra della pagina raccolte siti, cercare l'archiviazione disponibile e totale.
+- Nell'interfaccia di amministrazione di SharePoint classica, nell'angolo in alto a destra della pagina raccolte siti, cercare lo spazio di archiviazione disponibile e totale.
     
-Per informazioni sul modo in cui viene calcolato il limite, vedere [Limiti di SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113). Per acquistare spazio di archiviazione, vedere [spazio di archiviazione di modifica per la sottoscrizione](https://go.microsoft.com/fwlink/?linkid=866428).
+Per informazioni sulla modalità di calcolo del limite, vedere [limiti di SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113). Per acquistare ulteriore spazio di archiviazione, vedere [Change storage space for your Subscription](https://go.microsoft.com/fwlink/?linkid=866428).
   
  **OneDrive**
   
-Per modificare l'archivio predefinito per gli utenti di OneDrive nuovi ed esistenti:
+Per modificare lo spazio di archiviazione predefinito per gli utenti di OneDrive nuovi ed esistenti:
   
-- Passare alla [pagina archiviazione dell'interfaccia di amministrazione di OneDrive](https://admin.onedrive.com/?v=StorageSettings)e immettere un nuovo importo GB.
+- Passare alla [pagina di archiviazione dell'interfaccia di amministrazione di OneDrive](https://admin.onedrive.com/?v=StorageSettings)e immettere un nuovo importo in GB.
     
-Per controllare la quantità di storage si sta utilizzando il proprio OneDrive, vedere [Manage il OneDrive per l'archiviazione Business](https://go.microsoft.com/fwlink/?linkid=866429). Per informazioni sull'archiviazione è dotato di ciascun piano, vedere [Descrizione OneDrive for Business servizio](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Per controllare la quantità di spazio di archiviazione in uso nel proprio OneDrive, vedere [Manage your OneDrive for Business Storage](https://go.microsoft.com/fwlink/?linkid=866429). Per informazioni sullo spazio di archiviazione fornito con ogni piano, vedere [Descrizione del servizio OneDrive for business](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Cestino secondario
+title: Cestino
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 20c5ae457544a5bbf00134e9ae17097eb5a94c55
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a306d8764351a8769b4dba95b912f90433b2c2dc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940717"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762140"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>Ripristino di elementi in SharePoint Online
+# <a name="restore-items-in-sharepoint-online"></a>Ripristinare gli elementi in SharePoint Online
 
-Quando si eliminano gli elementi in SharePoint Online, è mantenuti per un totale di 93 giorni. Rimanere nel Cestino del sito per tutto il tempo, a meno che non vuoto o eliminare gli elementi da esso. In tal caso, gli elementi andare per il Cestino, dove rimanere per il resto di 93 giorni. Al termine del tempo, gli elementi vengono eliminati definitivamente. Per ripristinare gli elementi eliminati dal sito Cestino secondario:
+Quando si eliminano gli elementi in SharePoint Online, vengono conservati per un totale di 93 giorni. Rimangono nel cestino del sito per tutto il tempo, a meno che non si svuoti o elimini gli elementi da esso. In tal caso, gli elementi passano al cestino della raccolta siti, in cui restano per il resto dei 93 giorni. Alla fine dell'intervallo di tempo, gli elementi vengono eliminati definitivamente. Per ripristinare gli elementi eliminati dal cestino del sito:
   
-1. Passare al sito e fare clic su **Cestino** nel riquadro a sinistra. 
+1. Andare al sito e fare clic su **Cestino** nel riquadro sinistro. 
     
-    Se non viene visualizzata **Cestino** nel riquadro sinistro, fare clic sull'icona impostazioni in alto a destra e quindi fare clic su **contenuto del sito**. Recycle Bin is all'estrema destra della barra nella parte superiore.
+    Se nel riquadro sinistro non è visualizzato il **Cestino** , fare clic sull'icona delle impostazioni in alto a destra e quindi su **contenuto del sito**. Il cestino è all'estrema destra della barra dei comandi nella parte superiore.
     
-2. Nella pagina **Cestino** selezionare gli elementi da ripristinare essi e scegliendo l'icona del segno di spunta visualizzata. 
+2. Nella pagina **Cestino** selezionare gli elementi che si desidera ripristinare facendo riferimento a essi e facendo clic sull'icona del segno di spunta che viene visualizzata. 
     
 3. Fare clic su **Ripristina**.
     
-[Ripristino di elementi eliminati dal Cestino raccolta siti](https://go.microsoft.com/fwlink/?linkid=866439)
+[Ripristinare gli elementi eliminati dal cestino della raccolta siti](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

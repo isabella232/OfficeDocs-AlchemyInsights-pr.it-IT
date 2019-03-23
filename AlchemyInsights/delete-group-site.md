@@ -1,5 +1,5 @@
 ---
-title: Elimina gruppo sito
+title: Eliminare il sito del gruppo
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -10,23 +10,23 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: f5ea115c0860ea698efe196ddca28755843e259b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f72c1d59dba7d742945ea5db0842f696825eb660
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911560"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762608"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Eliminare un sito di SharePoint che appartiene a un gruppo di Office 365
 
-Gli amministratori di SharePoint e gli amministratori globali ora possono eliminare i siti che appartengono a un gruppo di Office 365. Eliminazione di questi siti verranno eliminati al gruppo e tutte le relative risorse, tra cui la cassetta postale di Outlook e del calendario e i canali di team.
+Gli amministratori globali e gli amministratori di SharePoint ora possono eliminare i siti appartenenti a un gruppo di Office 365. L'eliminazione di tali siti eliminerà il gruppo e tutte le relative risorse, tra cui la cassetta postale di Outlook e il calendario e tutti i canali dei team.
   
 Importante:
-- È possibile ripristinare siti eliminati 93 giorni. Per ulteriori informazioni, vedere visualizzare e il ripristino dei siti eliminati. Si noti che i gruppi eliminati devono essere ripristinati entro 30 giorni. 
-- Se il sito fa parte di un criterio di conservazione, potrebbe non essere in grado di eliminarla fino a quando non viene rimosso il sito dal [protezione &amp; conformità Admin Center](https://protection.office.com/?rfr=AdminCenter#/retention). Per ulteriori informazioni, vedere [Panoramica di criteri di conservazione](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+- È possibile recuperare i siti eliminati per 93 giorni. Per altre informazioni, vedere View and Restore Deleted sites. Si noti che i gruppi eliminati devono essere ripristinati entro 30 giorni. 
+- Se il sito fa parte di un criterio di conservazione, potrebbe non essere possibile eliminarlo finché il sito non viene rimosso dall'interfaccia [di &amp; amministrazione](https://protection.office.com/?rfr=AdminCenter#/retention)per la conformità di sicurezza. Per altre informazioni, vedere [Overview of](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) reTention Policies. 
   
-[Visualizzazione e il ripristino dei siti nell'interfaccia di amministrazione di SharePoint nuova eliminati](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selezionare **siti eliminati**. Selezionare il sito di cui è stato eliminato e fare clic su ripristino o Elimina (in cui verrà eliminati definitivamente il sito). Per eliminare un sito attivo, selezionare **Attiva** siti, selezionare il sito e scegliere **Elimina**. Per ulteriori informazioni, vedere [Manage siti nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Per [visualizzare e ripristinare i siti eliminati nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selezionare **siti eliminati**. Selezionare il sito che è stato eliminato e scegliere Ripristina o Elimina (che eliminerà definitivamente il sito). Per eliminare un sito attivo, selezionare siti **attivi** , selezionare il sito e selezionare **Elimina**. Per altre informazioni, vedere [gestire i siti nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
 

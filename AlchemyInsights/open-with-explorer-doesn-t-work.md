@@ -1,5 +1,5 @@
 ---
-title: Apri con Esplora non funziona
+title: Apertura con Esplora risorse non funziona
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: f788c3c626cdeb19970edb59563c59eea60e2992
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 73d33e50449345c312abdd39afcc36e0c95fd1c4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906808"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764912"
 ---
-# <a name="open-with-explorer-isnt-working"></a>Apri con Esplora non funziona
+# <a name="open-with-explorer-isnt-working"></a>Apertura con Esplora risorse non funzionante
 
-Se non funziona **Apri con Esplora risorse** o in **visualizzazione in Esplora File** verificare che il servizio Web client è impostato su **in esecuzione** eseguendo la procedura seguente. Ad esempio, può richiedere molto tempo per aprire una raccolta SharePoint o OneDrive quando il servizio non è in esecuzione. 
+Se l' **apertura con Esplora risorse** o la **visualizzazione in Esplora file** non funziona, verificare che il servizio WebClient sia impostato su **in esecuzione** attenendosi alla procedura riportata di seguito. Ad esempio, potrebbe richiedere molto tempo per aprire una raccolta di SharePoint o OneDrive quando il servizio non è in esecuzione. 
   
-1. Nella casella di ricerca di Windows, tipo eseguita, selezionare l'app desktop Esegui, digitare Services. msc e quindi selezionare **INVIO**.
+1. Nella casella di ricerca di Windows, digitare Run, selezionare l'app desktop Run, digitare Services. msc, quindi selezionare **invio**.
     
-2. Scorrere verso il basso per il servizio Web client e controllare la colonna **stato** . Se lo stato del servizio WebClient non è **in esecuzione**, fare doppio clic sul servizio, fare clic su **Start**e quindi fare clic su **OK**. Abilitare il servizio, se necessario, tramite la selezione nella casella **tipo avvio** **manuale** o **automatico** . 
+2. Scorrere verso il basso fino al servizio webClient e controllare la colonna **stato** . Se lo stato del servizio webClient non è **in esecuzione**, fare doppio clic sul servizio, fare clic sul pulsante **Start**e quindi fare clic su **OK**. Abilitare il servizio, se necessario, selezionando **manuale** o **automatico** nella casella **tipo di avvio** . 
     
 > [!NOTE]
-> Per risolvere i problemi aprire Esplora File, vedere [Open nell'elenco cartelle](https://go.microsoft.com/fwlink/?linkid=871665). Esplorazione di sincronizzazione come un'alternativa migliore: [file di sincronizzazione di SharePoint con il nuovo client di sincronizzazione OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Per risolvere i problemi relativi all'apertura in Esplora file, vedere [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Esplorare la sincronizzazione come alternativa migliore: [sincronizzare i file di SharePoint con il nuovo client di sincronizzazione di OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

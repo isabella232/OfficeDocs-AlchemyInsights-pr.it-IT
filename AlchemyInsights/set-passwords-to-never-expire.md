@@ -1,5 +1,5 @@
 ---
-title: Imposta le password alcuna data di scadenza
+title: Impostare le password in modo che non scada mai
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
-ms.openlocfilehash: b29a049e3fd0c99e2640e6f434f02566bae6d44b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0a44dd8fad248086046f995b7e4f223249d1644c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932728"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765524"
 ---
-# <a name="set-passwords-to-never-expire"></a>Imposta le password alcuna data di scadenza
+# <a name="set-passwords-to-never-expire"></a>Impostare le password in modo che non scada mai
 
-Impostare le password non hanno alcuna scadenza da [protezione &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Fare clic su "Modifica" accanto a criteri Password e attivare il dispositivo di scorrimento a "in".
+Impostare le password in modo che non scada mai dalla [privacy della sicurezza &amp; ](https://portal.office.com/adminportal/home#/settings/security). Fare clic su "modifica" accanto a criteri password e quindi impostare il dispositivo di scorrimento su "on".
   
-Per ulteriori informazioni, vedere: [impostare i criteri di scadenza password per l'organizzazione](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).
+Per informazioni più dettagliate, vedere: [impostare i criteri di scadenza delle password per l'organizzazione](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).
   
 

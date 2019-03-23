@@ -1,5 +1,5 @@
 ---
-title: Copiare o spostare gli elementi nella raccolta documenti di SharePoint
+title: Copiare o spostare elementi in una raccolta documenti di SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,34 +9,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 7a9a4d454f82788598059feb8c5b3f1234a3ef6c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f7cc1369bd179bf410871054b2d4184a55a2b342
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29897952"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762500"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Copiare o spostare gli elementi nella raccolta documenti di SharePoint
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Copiare o spostare elementi in una raccolta documenti di SharePoint
 
-È possibile copiare e spostare i file, cartelle e collegamenti a diverse posizioni all'interno di una raccolta documenti. È inoltre possibile copiare gli elementi tra i siti. Se è stato [configurato l'opzione versione personalizzati](https://go.microsoft.com/fwlink/?linkid=622980), è possibile spostare gli elementi tra i siti, troppo.
+È possibile copiare e spostare file, cartelle e collegamenti a posizioni diverse all'interno di una raccolta documenti. È anche possibile copiare elementi tra i siti. Se è stata [configurata l'opzione di rilascio di destinazione](https://go.microsoft.com/fwlink/?linkid=622980), è possibile spostare anche gli elementi tra i siti.
   
-1. In un browser passare al file, cartelle o collegamenti che si desidera spostare e quindi fare clic su **copiare** o **spostare**.
+1. In un browser passare ai file, alle cartelle o ai collegamenti che si desidera spostare e quindi fare clic su **copia su** o **Sposta su**.
     
     > [!NOTE]
-    > **Copiare** e **spostare** non sono disponibili se si utilizza l'esperienza classica di SharePoint Online. 
+    > La **copia** e lo **spostamento** non sono disponibili se si utilizza l'esperienza classica di SharePoint Online. 
   
-2. Nella casella **Seleziona destinazione**di selezionare il percorso in cui si desidera copiare o spostare gli elementi o fare clic su **Sfoglia siti** per visualizzare un elenco completo dei siti. 
+2. In **Scegli una destinazione**selezionare il percorso in cui si desidera copiare o spostare gli elementi oppure fare clic su **Sfoglia siti** per visualizzare l'elenco completo dei siti. 
     
     > [!NOTE]
-    > Se non viene visualizzata altri siti quando si copiano elementi elencati, copia tra i siti non è stata configurata. Per abilitarla, passare alla pagina Impostazioni del centro di amministrazione di SharePoint e fare clic su **OK**. 
+    > Se non vengono visualizzati altri siti elencati quando si copiano gli elementi, la copia tra i siti non è stata configurata. Per abilitarlo, passare alla pagina impostazioni dell'interfaccia di amministrazione di SharePoint e fare clic su **OK**. 
   
-    Per creare una nuova cartella, selezionare un percorso nella gerarchia delle cartelle, fare clic su **nuova cartella**, immettere un nome per la cartella e scegliere il segno di spunta per salvare il nome.
+    Per creare una nuova cartella, selezionare un percorso nella gerarchia delle cartelle, fare clic su **nuova cartella**, immettere un nome per la cartella e fare clic sul segno di spunta per salvare il nome.
     
-3. Fare clic su **Copia** o **spostamento di seguito**.
+3. Fare clic su **copia qui** o su **Sposta qui**.
     
 > [!NOTE]
->  È possibile copiare un massimo di 500 MB di file e cartelle in una sola volta. gt _ quando si copiano documenti a cui hanno cronologia solo la versione più recente viene copiato. Quando si spostano documenti, verrà spostata anche la cronologia. 
+>  È possibile copiare fino a 500 MB di file e cartelle contemporaneamente. > quando si copiano i documenti con cronologia delle versioni, viene copiata solo la versione più recente. Quando si spostano i documenti, viene spostata anche la cronologia. 
   
 

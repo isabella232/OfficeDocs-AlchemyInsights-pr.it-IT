@@ -1,5 +1,5 @@
 ---
-title: Aggiunta di postazioni per una sottoscrizione prepagata
+title: Aggiungere i seggi a una sottoscrizione prepagata
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: d03ca96b0f9b0f49ee742e08c8a57683c805a0e8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 07161bf45fb99539e4c6d0b946a538f198db3553
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29903237"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763508"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Aggiunta di postazioni per una sottoscrizione prepagata
+# <a name="add-seats-to-a-prepaid-subscription"></a>Aggiungere i seggi a una sottoscrizione prepagata
 
 1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione** \> **Abbonamenti**.
     
-2. Scegliere la sottoscrizione prepagata che si desidera aggiungere gli utenti.
+2. Scegliere l'abbonamento prepagato che si desidera aggiungere agli utenti.
     
-3. Scegliere dal menu **azioni ulteriori** **Rinnova o aggiunta di licenza con token**.
+3. Nel menu **altre azioni** scegliere **rinnova o Aggiungi licenza con token**.
     
-4. Selezionare l'opzione **"nuove e inutilizzati product key"** . (Se la sottoscrizione è stata creata con un codice "product key" acquistate presso un rivenditore, potrebbe essere l'opzione per aggiungere utenti con altri metodi di pagamento.) 
+4. Selezionare l'opzione **codice Product Key nuovo e inutilizzato** . Se la sottoscrizione è stata creata con un codice Product Key acquistato in un percorso di vendita al dettaglio, potrebbe essere possibile aggiungere utenti con altri metodi di pagamento. 
     
 5. Scegliere **Avanti**.
     
-6. Immettere il codice product key e quindi scegliere **Avanti**.
+6. Immettere il codice "Product Key" e quindi fare clic su **Avanti**.
     
-7. Scegliere l'opzione per aggiungere più utenti, scegliere **Avanti**, quindi selezionare **Vendi**.
+7. Scegliere l'opzione per aggiungere altri utenti, scegliere **Avanti**, quindi fare **** clic su Riscatta.
     
 

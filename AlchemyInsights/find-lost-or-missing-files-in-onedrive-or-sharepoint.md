@@ -1,5 +1,5 @@
 ---
-title: Trovare i file persi o mancanti in OneDrive o SharePoint
+title: Trovare file persi o mancanti in OneDrive o SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 7327d570ab76c8dc0581c004b8701b1f4270d425
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: 3da4aab8de8ac36d87a51f101d6da304e1b383f5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968169"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757606"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Trovare i file persi o mancanti in OneDrive o SharePoint
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Trovare file persi o mancanti in OneDrive o SharePoint
 
-- Controllare il Cestino sia possibile esplorare l'OneDrive o il sito di SharePoint sul web e fare clic su Cestino nel riquadro sinistro. (Se non viene visualizzata Recycle bin nel riquadro sinistro fare clic sull'icona impostazioni e quindi selezionare **contenuto del sito**. **Recycle Bin** is all'estrema destra della barra nella parte superiore.) 
+- Controllare il cestino esplorando il OneDrive o il sito di SharePoint sul Web e facendo clic su Cestino nel riquadro sinistro. Se nel riquadro sinistro non è visualizzato il Cestino, fare clic sull'icona delle impostazioni e quindi selezionare contenuto del **sito**. Il **Cestino** è all'estrema destra della barra dei comandi nella parte superiore. 
     
-- Se si sono in corso di sincronizzazione i file nel computer in uso, controllare il Cestino nel computer in uso. 
+- Se si sincronizzano i file nel computer, controllare il cestino nel computer. 
     
-- Se non viene visualizzata l'elemento si sta cercando, è stato eliminato recentemente, un amministratore della raccolta siti potrebbe essere in grado di ripristinare dal Cestino raccolta siti. Se si è l'amministratore della raccolta siti, vedere [Ripristina posta eliminata dal Cestino raccolta siti](https://go.microsoft.com/fwlink/?linkid=866439).
+- Se l'elemento che si sta cercando non è visualizzato ed è stato eliminato di recente, un amministratore della raccolta siti potrebbe essere in grado di ripristinarlo dal cestino della raccolta siti. Se si è l'amministratore della raccolta siti, vedere [ripristinare gli elementi eliminati dal cestino della raccolta siti](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[Ulteriori informazioni sul ripristino dei file e cartelle eliminati in OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[Ulteriori informazioni su come ripristinare i file e le cartelle eliminati in OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Più siti Web pubblici di SharePoint Online è utilizzato
+title: I siti Web pubblici di SharePoint Online vengono sospesi
 ms.author: clake
 author: spowriter
 manager: scotv
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 44bbef0b4df8d504c6a1039691f9a3207a5a387d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1c63fd905448d48bb8823ebcfcb4900c4aab86ff
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913418"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761313"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Più siti Web pubblici di SharePoint Online è utilizzato
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>I siti Web pubblici di SharePoint Online vengono sospesi
 
-Se è stato creato un sito Web pubblico SharePoint Online, è possibile continuare a utilizzare fino a 31 marzo 2018. Se si desidera continuare ad avere un sito Web pubblico, è necessario crearne uno nuovo con un nuovo provider. Verrà eliminato il contenuto del sito Web pubblico SharePoint Online, in modo che si desidera copiare qualsiasi contenuto che si desidera mantenere.
+Se è stato creato un sito Web pubblico di SharePoint Online, è possibile continuare a utilizzarlo fino al 31 marzo 2018. Se si desidera continuare a utilizzare un sito Web pubblico, è necessario crearne uno nuovo con un nuovo provider. Il contenuto del sito Web pubblico di SharePoint Online verrà eliminato, quindi è necessario copiare qualsiasi contenuto che si desidera conservare.
   
-Un'intestazione sarà ora visualizzato come notifica che verrà rimosso il sito nella parte superiore del sito Web pubblico SharePoint Online. Non è possibile disattivare questa intestazione. Per informazioni sul salvataggio e la copia del contenuto di un sito Web di partner, vedere [informazioni dettagliate sul processo di cessazione funzionalità](https://go.microsoft.com/fwlink/?linkid=866980). 
+Un banner ora viene visualizzato nella parte superiore del sito Web pubblico di SharePoint Online come notifica che il sito verrà rimosso. Non è possibile disattivare questo banner. Per informazioni sul salvataggio e la copia di contenuto in un sito Web di un partner, vedere [informazioni dettagliate sul processo di sospensione delle funzionalità](https://go.microsoft.com/fwlink/?linkid=866980). 
   
 

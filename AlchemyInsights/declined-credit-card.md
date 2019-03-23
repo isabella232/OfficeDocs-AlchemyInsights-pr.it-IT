@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 1f43e05b38c4a3240c959ddcda055e17182224c4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ce624516e0fc34245f23a066276ce0e1d2dd99fb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906088"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756202"
 ---
 # <a name="declined-credit-card"></a>Carta di credito rifiutata
 
-Se i pagamenti tramite carta di credito e viene rifiutata la carta di credito, si riceverà un messaggio di posta elettronica consentono di sapere che è stato possibile elaborare il pagamento. Verificare che vengano visualizzati i [dettagli di carta di credito](https://go.microsoft.com/fwlink/p/?linkid=842054) - numero di carta, data di scadenza, nome sulla carta di credito e indirizzo, city, state e CAP - esattamente come carta di credito e carta di credito. È possibile aggiornare le informazioni di carta di credito e inviare immediatamente il pagamento utilizzando il pulsante **Paga ora** nella pagina [degli abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di. Per ulteriori informazioni, vedere "se della carta di credito è scaduto e il pagamento ha superato due?" nella [Paga per Office 365 per la sottoscrizione di business](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
+Se si paga con carta di credito e questa viene rifiutata, si riceverà un messaggio di posta elettronica che informa che non è stato possibile elaborare il pagamento. Verificare che i dettagli della [carta di credito](https://go.microsoft.com/fwlink/p/?linkid=842054) : il numero di carta, la data di scadenza, il nome sulla carta di credito e l'indirizzo, tra cui la città, lo stato e il codice postale, vengano visualizzati esattamente come nella carta di credito e nell'estratto conto della carta di credito. È possibile aggiornare le informazioni sulla carta di credito e inviare immediatamente il pagamento utilizzando il pulsante **paga ora** nella [](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina abbonamenti. Per ulteriori informazioni, vedere "che cosa succede se la carta di credito è scaduta e il pagamento è scaduto?" in [pay per l'abbonamento a Office 365 for business](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
   
 Se si continua a ricevere il messaggio di rifiuto, contattare la propria banca. È possibile che la carta di credito non sia attiva. Se ad esempio di recente si è ricevuta per posta la carta con una data di scadenza aggiornata, è possibile che sia necessario attivarla. Rivolgersi alla banca anche per sapere se la carta di credito non è approvata per transazioni online, internazionali o ricorrenti.  
   
-Per ulteriori informazioni, vedere [risoluzione dei problemi carta di credito e gli account di gruppo](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Per ulteriori informazioni [, vedere Risoluzione dei problemi relativi alle carte di credito e ai conti correnti bancari](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 

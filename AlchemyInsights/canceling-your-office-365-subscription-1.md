@@ -1,5 +1,5 @@
 ---
-title: Annullare la sottoscrizione di Office 365?
+title: Annullamento dell'abbonamento a Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 51529345c1181930536aed1f10bcda7941f5c226
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cdb0b8949e08f97679da4c598247a28f295d05af
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923728"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758578"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Annullare la sottoscrizione di Office 365?
+# <a name="canceling-your-office-365-subscription"></a>Annullamento dell'abbonamento a Office 365?
 
-Cercato visualizzare andare, ma Ecco le opzioni per annullare la sottoscrizione:
+Ci dispiace vederti andare, ma ecco le opzioni per annullare l'abbonamento:
   
-- **Basato su dati dell'organizzazione, si ritiene che tutte le sottoscrizioni corrente sono le sottoscrizioni di versione di valutazione. Non è necessario annullare in modo esplicito una sottoscrizione di prova in quanto le sottoscrizioni di versione di valutazione non richiedono alcun pagamenti e non è obbligatorio al termine della riproduzione di prova.**
+- **In base ai dati dell'organizzazione, riteniamo che tutti gli abbonamenti correnti siano abbonamenti di valutazione. Non è necessario annullare esplicitamente una sottoscrizione di valutazione perché gli abbonamenti di valutazione non richiedono pagamenti e non vi sono obblighi dopo la fine del processo.**
     
-- Per ulteriori informazioni sull'annullamento di una sottoscrizione o per istruzioni dettagliate, vedere l'articolo: [annullare Office 365 per aziende](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- Per ulteriori informazioni sull'annullamento di un abbonamento o per istruzioni dettagliate, vedere questo articolo: [Annulla Office 365 for business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 

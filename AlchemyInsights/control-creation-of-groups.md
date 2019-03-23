@@ -1,5 +1,5 @@
 ---
-title: Creazione di controlli dei gruppi
+title: Controllare la creazione di gruppi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 29ccda0d9f24928adef47c7e5362ce94d7998070
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 134361cc92b86ab13a5cd3443b6fabe2df3b83bb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933556"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753322"
 ---
-# <a name="control-creation-of-o365-groups"></a>Creazione di controlli dei gruppi di Office 365
+# <a name="control-creation-of-o365-groups"></a>Controllare la creazione dei gruppi di O365
 
-Per impostazione predefinita, tutti gli utenti all'interno della società sono in grado di creare gruppi di Office 365. Se necessario, è possibile modificare questa impostazione e assegnare il diritto di creazione di gruppi di Office 365 a un insieme di utenti all'interno della società. Si noti che questo avrà un impatto sulla creazione dei gruppi da qualsiasi servizio O365 (ad esempio Outlook, team, pianificazione e così via).
+Per impostazione predefinita, tutti gli utenti all'interno dell'azienda sono in grado di creare gruppi di O365. Se necessario, è possibile modificare questa impostazione e assegnare il diritto di creazione dei gruppi di O365 a un gruppo di persone all'interno dell'azienda. Si noti che questa operazione avrà un impatto sulla creazione di gruppi da qualsiasi servizio di O365 (ad esempio Outlook, teams, Planner e così via).
   
-Istruzioni: [Gestisci utenti autorizzati a creare gruppi di Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Istruzioni: [gestire gli utenti autorizzati a creare gruppi di Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

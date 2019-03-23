@@ -1,5 +1,5 @@
 ---
-title: Errore durante l'invio di posta elettronica bloccato da SpamHaus
+title: Errore durante l'invio di messaggi di posta elettronica bloccati da SpamHaus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 249f16d057b0539d71dc514ac35df28ab78fa061
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7d6ad2667613ae948a4abcefafe8d91cf89d2418
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912352"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761637"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Errore durante l'invio di posta elettronica: Client host bloccato utilizzando Spamhaus
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Errore durante l'invio di posta elettronica: host client bloccato tramite Spamhaus
 
-L'indirizzo IP che ha inviato il messaggio è in un elenco di blocco e di proprietà di [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Motivi per cui viene bloccato da Spamhaus includono gli account compromessi, esposto a possibili violazioni macchine la condivisione di un indirizzo IP pubblico e criteri di Provider di servizi Internet (ISP). Correzioni possibili sono:
+L'indirizzo IP che ha inviato il messaggio si trova in un elenco di blocco di proprietà di [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Per motivi di blocco da parte di Spamhaus sono inclusi gli account compromessi, le macchine compromesse che condividono un indirizzo IP pubblico e i criteri provider di servizi Internet (ISP). Le possibili correzioni sono:
   
-- Per i messaggi in ingresso bloccati a cui è possibile controllare il server di posta elettronica di origine di Office 365, è necessario determinare la causa e rimuovere il blocco dal sito Web Spamhaus.
+- Per i messaggi in ingresso bloccati in Office 365 in cui è possibile controllare il server di posta elettronica di origine, è necessario determinare la causa e rimuovere il blocco dal sito Web Spamhaus.
     
-- Per i messaggi in ingresso bloccati a cui appartiene l'indirizzo IP di origine a un utente di Office 365, è necessario rimuovere il blocco dal sito Web Spamhaus il proprietario dell'indirizzo. Se l'indirizzo IP nel criterio di blocco di elenco (PBL), il proprietario può si assegna un indirizzo IP statico diverso o rimuovere l'indirizzo dal PBL.
+- Per i messaggi in ingresso bloccati in Office 365 in cui l'indirizzo IP di origine appartiene a un altro utente, il proprietario dell'indirizzo deve rimuovere il blocco dal sito Web Spamhaus. Se l'indirizzo IP è presente nell'elenco dei criteri di blocco (PBL), il proprietario può assegnare un indirizzo IP statico diverso o rimuovere l'indirizzo dall'PBL.
     
-- Per i messaggi in uscita bloccati dal dominio Office 365, è possibile ricevere questo errore se i messaggi vengono instradati attraverso un servizio di terze parti 3. È possibile utilizzare uno strumento di ricerca WHOIS per trovare il proprietario di indirizzi IP bloccato.
+- Per i messaggi in uscita bloccati dal dominio di Office 365, è possibile che venga visualizzato questo errore se i messaggi vengono instradati tramite un servizio di terze parti. È possibile utilizzare uno strumento di ricerca WHOIS per trovare il proprietario dell'indirizzo IP bloccato.
     
 

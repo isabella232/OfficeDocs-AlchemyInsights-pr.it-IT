@@ -1,5 +1,5 @@
 ---
-title: Elimina raccolta siti
+title: Eliminare la raccolta siti
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 5b41278be56dccc714ba23f38c206a580cd80800
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 04edde4c22c9ab465cbcff4cb08d8f5965943fad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940108"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757534"
 ---
 # <a name="delete-a-sharepoint-site-collection"></a>Eliminare una raccolta siti di SharePoint
 
-1. Nell'interfaccia di amministrazione SharePoint classica, nella pagina raccolte siti, selezionare la casella di controllo accanto a raccolta siti.
+1. Nell'interfaccia di amministrazione di SharePoint classica, nella pagina raccolte siti, selezionare la casella di controllo accanto alla raccolta siti.
     
-2. Nella scheda raccolte siti, selezionare **Elimina**.
+2. Nella scheda raccolte siti selezionare **Elimina**.
     
 

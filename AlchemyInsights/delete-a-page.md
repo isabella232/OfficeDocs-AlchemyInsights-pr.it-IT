@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c0fde770-ba1d-4aeb-8c9a-83b646fc80ce
-ms.openlocfilehash: 443bc10ce0e8d9d6aa78a043357e0f5ed1a6f065
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a29d55b634cae68d859010c1099baab4c516c203
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900295"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754582"
 ---
 # <a name="delete-a-sharepoint-page"></a>Eliminare una pagina di SharePoint
 
-1. Passare al sito della pagina.
+1. Passare al sito in cui si trova la pagina.
     
-2. Sul lato sinistro, fare clic su **Contenuto del sito**. 
+2. Sul lato sinistro, fare clic su **contenuto del sito**. 
     
-3. Sul lato sinistro della pagina contenuto del sito, fare clic su **pagine**. 
+3. Sul lato sinistro della pagina contenuto del sito fare clic su **pagine**. 
     
-4. Selezionare la pagina e quindi fare clic **sui puntini di sospensione (...)** a destra della pagina. 
+4. Selezionare la pagina e quindi fare clic sui puntini di controllo **(...)** a destra della pagina. 
     
-5. Fare clic su * * eliminare * *. 
+5. Fare clic su * * Delete * *. 
     
 

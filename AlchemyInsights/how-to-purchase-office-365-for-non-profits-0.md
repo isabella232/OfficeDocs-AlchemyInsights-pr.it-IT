@@ -1,5 +1,5 @@
 ---
-title: Come acquistare Office 365 per i profitti Non
+title: Come acquistare Office 365 per gli utenti non profit
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: efbc83b4ec129b421ee40d4b644895ddfd9ce5d4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d09630ae4960cba3eda457a670696ddd7f7fa2bc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899669"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757066"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a>Come acquistare Office 365 per ricchi
+# <a name="how-to-purchase-office-365-for-nonprofits"></a>Informazioni su come acquistare Office 365 per organizzazioni non profit
 
-Viene esaminato la richiesta e determinare che l'organizzazione non è idonea come un'organizzazione non profit completo di Microsoft.
+La richiesta è stata riesaminata e l'organizzazione non è idonea come organizzazione no profit Microsoft qualificata.
   
-Per acquistare Microsoft Office 365, vedere [offerte disponibili](https://portal.office.com/AdminPortal/Home).
+Per acquistare Office 365 commercialmente, vedere [offerte disponibili](https://portal.office.com/AdminPortal/Home).
   
 

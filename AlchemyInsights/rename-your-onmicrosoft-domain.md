@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 56d0c2579b10c5e81296fc84b92f15c76afd6f6b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2b4a48dd7bc813484f3377b9fccc86d6690191d6
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930460"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762428"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>Rinominare il dominio onmicrosoft.com
 
- **Non è possibile rinominare il dominio onmicrosoft dopo l'abbonamento.** Ad esempio, se si è scelto il dominio iniziale era *fourthcoffee.onmicrosoft.com* , è possibile modificare in modo da essere *fabrikam.onmicrosoft.com* . Per utilizzare un dominio onmicrosoft.com diversi, è necessario avviare una nuova sottoscrizione a Office 365. 
+ **Dopo l'iscrizione, non è possibile rinominare il dominio onmicrosoft**. Ad esempio, se il dominio iniziale scelto era *fourthcoffee.onmicrosoft.com* , non è possibile modificarlo in modo che sia *Fabrikam.onmicrosoft.com* . Per usare un dominio onmicrosoft.com diverso, si dovrà iniziare un nuovo abbonamento a Office 365. 
   
-Se si desidera utilizzare un dominio personalizzato come *contoso.com* , è possibile [aggiungere uno che si è proprietari](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) o [acquistarlo da Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
+Se si desidera utilizzare un dominio personalizzato come *contoso.com* , è possibile [aggiungerne uno che si è proprietari](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) o [acquistarne uno da Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
   
 

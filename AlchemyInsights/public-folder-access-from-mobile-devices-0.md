@@ -1,5 +1,5 @@
 ---
-title: Accesso alle cartelle pubbliche da dispositivi mobili
+title: Accesso alle cartelle pubbliche dai dispositivi mobili
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5943ac36-e093-4813-95c9-f9d9b35f2b32
-ms.openlocfilehash: 52e23cc5b5b58d4e0d6007ceff5d00df3a5e8895
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6b9bc9b7d49105d88050a14ea8af2e7cbe5fea7d
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901804"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765956"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a>Accesso alle cartelle pubbliche da dispositivi mobili
+# <a name="public-folder-access-from-mobile-devices"></a>Accesso alle cartelle pubbliche dai dispositivi mobili
 
 Le cartelle pubbliche non sono accessibili da dispositivi mobili.
   
-Se si desidera disporre di funzionalità simili alle cartelle pubbliche e diritti di accesso da dispositivi mobili, vedere [informazioni sui gruppi di Office 365](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) per una migliore alternativa. 
+Se si desidera disporre di funzionalità simili alle cartelle pubbliche e accedervi dai dispositivi mobili, vedere informazioni [sui gruppi di Office 365](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) per una migliore alternativa. 
   
 

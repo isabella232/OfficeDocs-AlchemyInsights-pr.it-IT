@@ -1,5 +1,5 @@
 ---
-title: Soluzioni per errori 30016-4
+title: Soluzioni per l'errore 30016-4
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -10,28 +10,28 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: 66493be82377ad9848e722abbe867a2c5cfdc9b0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 841e181243932bacb18bdb49508468db1da3c715
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942304"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760162"
 ---
-# <a name="solutions-for-error-30016-4"></a>Soluzioni per errori 30016-4
+# <a name="solutions-for-error-30016-4"></a>Soluzioni per l'errore 30016-4
 
 
-Quando si tenta di disinstallare Office 365 ProPlus da un computer e viene visualizzato un messaggio di errore, **è stato un problema 30016-4**, significa che l'unità **% temp %** sia mappato a un'unità diversa da **%ProgramFiles%\Microsoft**.
+Quando si tenta di disinstallare Office 365 ProPlus da un computer e si riceve il messaggio di errore, **qualcosa è andato storto 30016-4**, significa che l'unità **% Temp%** è mappata a un'unità diversa da **% ProgramFiles%**.
   
-Per risolvere questo problema, scaricare e installare l' [Assistente di ripristino e supporto](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+Per correggere, scaricare e installare l' [Assistente di supporto e ripristino](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Quando si apre, selezionare la versione che si desidera disinstallare e selezionare **Avanti** **prodotti disinstallazione di Office** . 
+1. Quando viene aperto, da **Disinstalla prodotti Office** selezionare la versione che si desidera disinstallare e selezionare **Avanti**. 
     
-2. Continuare intermediazione schermate e riavviare il computer quando richiesto.
+2. Continuare a passare attraverso schermate e riavviare il computer quando richiesto.
     
-    Dopo aver riavviato, supporto e il ripristino dell'Assistente nuovamente apre automaticamente per completare il processo di disinstallazione.
+    Dopo aver riavviato, l'Assistente di supporto e ripristino viene riaperto automaticamente per completare il processo di disinstallazione.
     
-3. Eseguire altre istruzioni e [reinstallare Office](https://portal.office.com/OLS/MySoftware.aspx) o chiudere l'Assistente di Office. 
+3. Seguire le istruzioni rimanenti e [reinstallare Office](https://portal.office.com/OLS/MySoftware.aspx) o chiudere l'assistente. 
     
 

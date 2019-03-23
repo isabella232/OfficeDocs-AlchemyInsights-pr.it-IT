@@ -1,5 +1,5 @@
 ---
-title: Condividere i file di OneDrive con utenti esterni
+title: Condivisione di file di OneDrive con utenti esterni
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -9,36 +9,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917860"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754438"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Condivisione di file in OneDrive con persone esterne all'organizzazione
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Condivisione di file in OneDrive con utenti esterni all'organizzazione
 
-1. Utilizzare il servizio di avvio di app per accedere a OneDrive nel web browser. 
+1. Utilizzare l'icona di avvio delle app per accedere a OneDrive nel Web browser. 
     
-2. Selezionare il file o una cartella che si desidera condividere e quindi selezionare **Condividi**. 
+2. Selezionare il file o la cartella che si desidera condividere e quindi fare clic su **Condividi**. 
     
-3. Se il tipo di collegamento è impostato su "utenti \<organizzazione\>," fare clic sulla freccia in giù e selezionare una delle operazioni seguenti: 
+3. Se il tipo di collegamento è impostato su "persone \<nell'organizzazione\>", fare clic sulla freccia in giù e selezionare una delle opzioni seguenti: 
     
-  - **Tutti gli utenti** consente di accedere a tutti coloro che riceve il collegamento, se ricevere direttamente da è o inoltrato da un utente. Ciò potrebbe includere persone esterne all'organizzazione. 
+  - **Chiunque** dà accesso a tutti coloro che ricevono questo collegamento, sia che lo ricevano direttamente da voi o inoltrati da un altro utente. Ciò può includere persone esterne all'organizzazione. 
     
-  - **Utenti specifici** garantisce l'accesso solo agli utenti viene specificata, anche se altri utenti disponga già dell'accesso. Se gli utenti inoltrare l'invito alla condivisione, solo le persone che dispongono già dell'accesso all'elemento sarà in grado di utilizzare il collegamento. 
+  - Le **persone specifiche** consentono l'accesso solo alle persone specificate, anche se altre persone possono già avere accesso. Se la gente inoltra l'invito alla condivisione, solo gli utenti che hanno già accesso all'elemento saranno in grado di utilizzare il collegamento. 
     
     > [!NOTE]
-    > Se una di queste opzioni non è disponibile, oppure se si desidera che un tipo di collegamento diversi per impostazione predefinita, è possibile modificare le impostazioni a livello di organizzazione al centro di amministrazione di OneDrive e facendo clic su **condivisione** nel riquadro sinistro. [Ulteriori informazioni](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Se una di queste opzioni non è disponibile o se si desidera che un tipo di collegamento diverso venga visualizzato per impostazione predefinita, è possibile modificare le impostazioni a livello di organizzazione accedendo all'interfaccia di amministrazione di OneDrive e facendo clic su **condivisione** nel riquadro sinistro. [Altre informazioni](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Per impostazione predefinita, **Consenti modifica** è attivata. Se si desidera che gli utenti di visualizzare solo i file, deselezionare la casella di controllo. 
+4. Per impostazione predefinita, **Consenti modifica** è attivata. Se si desidera che gli utenti visualizzano solo i file, deselezionare la casella di controllo. 
     
-5. Immettere i nomi di persone che si desidera condividere con e un messaggio, se si desidera.
+5. Se lo si desidera, immettere i nomi delle persone con cui si desidera condividerlo e un messaggio.
     
 6. Quando si è pronti per inviare il collegamento, fare clic su **Invia**. 
     
-[Ulteriori informazioni](https://go.microsoft.com/fwlink/?linkid=871861)
+[Altre informazioni](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

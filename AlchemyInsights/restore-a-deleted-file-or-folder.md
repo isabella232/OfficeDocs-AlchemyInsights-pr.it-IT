@@ -1,5 +1,5 @@
 ---
-title: Ripristinare un file eliminato o una cartella
+title: Ripristinare un file o una cartella eliminata
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 33ca4e4b31729a1a11cee3d1359cd75286cb1b6a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 93dc59ce44dab51281f0480fe0f401ca22e1f519
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937192"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754904"
 ---
-# <a name="restore-a-deleted-file-or-folder"></a>Ripristinare un file eliminato o una cartella
+# <a name="restore-a-deleted-file-or-folder"></a>Ripristinare un file o una cartella eliminata
 
 1. Passare al sito di SharePoint o OneDrive.
     
-2. Nel riquadro sinistro fare clic su **Cestino** . Se non viene visualizzata Cestino secondario fare clic sull'icona impostazioni e quindi fare clic su **contenuto del sito**. Recycle Bin is all'estrema destra della barra nella parte superiore.
+2. Fare clic su **Cestino** nel riquadro sinistro. Se non si Visualizza Cestino, fare clic sull'icona impostazioni e quindi su contenuto del **sito**. Il cestino è all'estrema destra della barra dei comandi nella parte superiore.
     
-3. Fare clic su a sinistra di elementi che si desidera ripristinare.
+3. Fare clic a sinistra degli elementi che si desidera ripristinare.
     
 4. Fare clic su **Ripristina**.
     
-Gli elementi eliminati vengono mantenuti per 93 giorni. Se non viene visualizzata l'elemento che si sta cercando, che potrebbe essere sono stato eliminato da questo Cestino e spostata nel Cestino raccolta siti. Per controllare, fare clic sul collegamento **Second-stage recycle bin** nella parte inferiore del Cestino secondario. 
+Gli elementi eliminati vengono conservati per 93 giorni. Se l'elemento che si sta cercando non è visualizzato, potrebbe essere stato eliminato da questo cestino e spostato nel cestino della raccolta siti. Per verificare, fare clic sul collegamento del **Cestino secondario** nella parte inferiore del cestino. 
   
-Se si è in grado di individuare l'elemento è possibile cercare il Registro di controllo se è abilitata la registrazione. [Nel Registro di controllo di ricerca in Office 365 Security &amp; centro conformità](https://support.office.com/article/0d4d0f35-390b-4518-800e-0c7ec95e946c.aspx)
+Se non si è ancora in grado di individuare l'elemento, è possibile eseguire una ricerca nel registro di controllo se la registrazione è abilitata. [Eseguire una ricerca nel log di controllo nel Centro sicurezza e conformità di Office 365](https://support.office.com/article/0d4d0f35-390b-4518-800e-0c7ec95e946c.aspx)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Estendere la versione di valutazione di Office 365 per aziende
+title: Estendere la versione di valutazione per Office 365 per le aziende
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 051f302d1180154179675bcd75c4098b76124faa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 82644b45852a77739aa926a272338fc2662677fe
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937840"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754330"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Estendere la versione di valutazione di Office 365 per aziende
+# <a name="extend-your-trial-for-office-365-for-business"></a>Estendere la versione di valutazione per Office 365 per le aziende
 
-Se la sottoscrizione di prova è compreso in 15 giorni di scadenza e la versione di valutazione non è stato esteso prima, è possibile estendere la versione di prova per un altro periodo di 30 giorni. È possibile eseguire solo questo sola volta.
+Se l'abbonamento di valutazione è compreso entro 15 giorni dalla scadenza e il processo non è stato esteso prima, è possibile estendere la versione di valutazione per un altro periodo di 30 giorni. È possibile farlo una sola volta.
   
 1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione** \> **Abbonamenti**.
     
-2. Scegliere la sottoscrizione di prova che si desidera estendere.
+2. Scegliere la sottoscrizione di valutazione che si desidera estendere.
     
-3. Selezionare **Estendi valutazione** e completare i passaggi nella procedura guidata. 
+3. Scegliere **extend Trial** e completare i passaggi della procedura guidata. 
     
-4. È necessario fornire le informazioni di carta di credito per estendere la versione di prova. Non si è Carica carta di credito per l'estensione di prova.
+4. È necessario fornire informazioni sulla carta di credito per estendere la versione di valutazione. La carta di credito non verrà addebitata per l'estensione di prova.
     
-Per ulteriori informazioni sull'estensione prove o per istruzioni dettagliate, vedere [Extend la versione di valutazione di Office 365 per aziende](https://support.office.com/article/75533195-f1f6-4c2c-8ceb-0b5597790d7b).
+Per ulteriori informazioni sull'estensione di prove o su istruzioni dettagliate, vedere [estendere la versione di valutazione per Office 365 for business](https://support.office.com/article/75533195-f1f6-4c2c-8ceb-0b5597790d7b).
   
 

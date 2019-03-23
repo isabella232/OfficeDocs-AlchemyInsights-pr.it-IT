@@ -1,5 +1,5 @@
 ---
-title: Accesso negato per il mapping di un'unità di SharePoint
+title: Accesso negato quando si esegue il mapping di un'unità a SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: d6896e9c2b2b4b428459b4c0f3aee0658b02322e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2eb86e0c2e4741ea42c1476c4b76f5d2d318126f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927796"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757930"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Risolvere i problemi con le raccolte di SharePoint mappate a unità di rete
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Risolvere i problemi relativi alle raccolte di SharePoint mappate alle unità di rete
 
-Quando si passa a un'unità di rete, è possibile visualizzare uno dei seguenti messaggi:
+Quando si accede a un'unità di rete mappata, è possibile che venga visualizzato uno dei seguenti messaggi:
   
-- **\\Percorso non è accessibile. Potrebbe non disporre dell'autorizzazione per utilizzare questa risorsa di rete. Contattare l'amministratore del server per scoprire se si dispone delle autorizzazioni di accesso.**
+- **\\Path non è accessibile. Potrebbe non essere necessario disporre dell'autorizzazione per l'utilizzo di questa risorsa di rete. Contattare l'amministratore del server per verificare se si dispone delle autorizzazioni di accesso.**
     
-- **Accesso negato. Prima di aprire i file in questa posizione, è necessario innanzitutto aggiungere il sito web all'elenco dei siti attendibili, visitare il sito web e selezionare l'opzione per l'accesso automatico.**
+- **Accesso negato. Prima di aprire i file in questo percorso, è necessario innanzitutto aggiungere il sito Web all'elenco dei siti attendibili, passare al sito Web e selezionare l'opzione per l'accesso automatico.**
     
-[Richiedi assistenza risoluzione dei problemi di unità di rete connesse](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Ottenere la risoluzione dei problemi relativi alle unità di rete mappate](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
   
-Mapping di una raccolta come unità di rete è supportato solo in Internet Explorer e temporanei. In realtà, [sincronizzare i file di SharePoint con il nuovo client di sincronizzazione OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) che include [i file di richiesta](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Accedere a tutti i file di OneDrive senza utilizzare lo spazio di archiviazione locale.
+La mappatura di una raccolta come unità di rete è temporanea e supportata solo in Internet Explorer. Al contrario, [sincronizzare i file di SharePoint con il nuovo client di sincronizzazione di OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) che include [file su richiesta](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Accedere a tutti i file in OneDrive senza utilizzare lo spazio di archiviazione locale.
   
 

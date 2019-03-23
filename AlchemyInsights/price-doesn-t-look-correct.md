@@ -1,5 +1,5 @@
 ---
-title: Prezzo non viene visualizzata corretto?
+title: Price non sembra corretto?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: e4e9b39718a09f8ad9baa50a4ff4ac1ed43147f0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1bb010cac9727561554bf955f76ca0c3d3f15da1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905080"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752256"
 ---
-# <a name="price-doesnt-look-correct"></a>Prezzo non viene visualizzata corretto?
+# <a name="price-doesnt-look-correct"></a>Price non sembra corretto?
 
-Se il prezzo nella tua fattura non sembrano corretto, può trattarsi a causa di una modifica prezzo rinnovo. Se non si ritiene che è stato chiarito il problema, utilizzare l'opzione "possiamo chiamare l'utente" per parlare con un responsabile del supporto tecnico.
+Se il prezzo della fattura non è corretto, potrebbe essere dovuto a una modifica del prezzo al momento del rinnovo. Se non si ritiene che questo spieghi il problema, utilizzare l'opzione "Let us Call You" per contattare un tecnico di supporto.
   
 

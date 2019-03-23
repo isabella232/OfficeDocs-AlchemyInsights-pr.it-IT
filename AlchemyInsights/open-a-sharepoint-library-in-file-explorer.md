@@ -1,5 +1,5 @@
 ---
-title: Aprire una raccolta di SharePoint in Esplora File
+title: Aprire una raccolta di SharePoint in Esplora file
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: aa64c5a62e0d58703676e7bcfb0f956b994ff447
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6e1c6870440cab3a74f697cd71ab463b2b4aad0b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924880"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759406"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>Aprire una raccolta di SharePoint in Esplora File
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>Aprire una raccolta di SharePoint in Esplora file
 
-1. Selezionare la raccolta in Internet Explorer 10 o 11 di Internet Explorer. 
+1. Passare alla raccolta in Internet Explorer 10 o Internet Explorer 11. 
     
-2. Fare clic sull'icona Visualizza in alto a destra e quindi fare clic su **Visualizza in Esplora File**.
+2. Fare clic sull'icona Visualizza nell'angolo in alto a destra, quindi fare clic su **Visualizza in Esplora file**.
     
 > [!NOTE]
-> Apertura di una raccolta in Esplora File è utile se si desidera copiare o spostare più file e cartelle una volta, ma se si desidera utilizzare regolarmente nella raccolta, è consigliabile la sincronizzazione. Per risolvere i problemi aprire Esplora File, vedere [Open nell'elenco cartelle](https://go.microsoft.com/fwlink/?linkid=871665). Per informazioni sull'impostazione di sincronizzazione, vedere [i file di sincronizzazione di SharePoint con il nuovo client di sincronizzazione OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> L'apertura di una raccolta in Esplora file è utile se è necessario copiare o spostare più file e cartelle una sola volta, ma se si desidera lavorare regolarmente nella raccolta, è consigliabile sincronizzarla. Per risolvere i problemi relativi all'apertura in Esplora file, vedere [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Per informazioni su come configurare la sincronizzazione, vedere [sincronizzare i file di SharePoint con il nuovo client di sincronizzazione di OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Office 365 per piani pubblici e i prezzi
+title: Office 365 per piani governativi e prezzi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: b5cd1e39fb7c0576614568950cad423df600a941
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c7fffc223bbb89d5ab4d6a1e290b9b6f7df3bd91
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911452"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764840"
 ---
-Piani di Office 365 governo degli Stati Uniti sono stati progettati per le esigenze di organizzazioni governative statunitensi. Forniscono tutte le caratteristiche e funzionalità dei servizi di Office 365 in una community cloud pubblici segmentate che consente alle organizzazioni di soddisfare gli standard di sicurezza e conformità negli Stati Uniti.
+I piani governativi degli Stati Uniti di Office 365 sono stati creati per soddisfare le esigenze specifiche delle organizzazioni governative degli Stati Uniti. Offrono tutte le caratteristiche e le funzionalità dei servizi di Office 365 in una community di cloud governativi segmentata che consente alle organizzazioni di soddisfare gli standard di sicurezza e conformità degli Stati Uniti.
   
 - [Esaminare i piani governativi](https://products.office.com/government/compare-office-365-government-plans)
     

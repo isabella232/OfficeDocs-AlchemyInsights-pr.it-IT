@@ -1,39 +1,37 @@
 ---
-title: Password di App
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 password delle app
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938236"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762536"
 ---
-# <a name="app-passwords"></a>Password di App
+# <a name="app-passwords"></a>Password delle app
 
-Una password di app è un codice che assegna un dispositivo o applicazione l'autorizzazione per accedere all'account di Office 365. Se l'amministratore ha attivato l'autenticazione a più fattori per l'organizzazione e si sta utilizzando app che si connettono al proprio account di Office 365, è necessario generare una password di app in modo che le applicazioni possono connettersi a Office 365. Ad esempio, se si utilizza Outlook 2016 o versioni precedenti con Office 365, è necessario creare una password di app.
+La password dell'app è un codice che fornisce un'autorizzazione app o dispositivo per accedere all'account aziendale o dell'Istituto di istruzione di Office 365. Se l'account richiede l'autenticazione a più fattori (AMF) e l'app si connette all'account, è necessario generare una password dell'app in modo che l'app possa connettersi a Office 365. Ad esempio, Outlook 2016 e versioni precedenti di Outlook richiedono una password dell'app.
   
-1. Controllare se l'amministratore di Office 365 è attivata l'autenticazione a più fattori per l'account. Se non lo sono state, quando si tenta di eseguire la procedura seguente non vengono visualizzate le opzioni disponibili in Office 365.
+ **Nota**: prima di provare a eseguire la procedura seguente, verificare con l'amministratore di Office 365 che l'AMF sia necessaria per il proprio account. Se non lo è, le opzioni descritte nei passaggi non saranno disponibili per l'utente.
+  
+1. Accedere a Office 365 con l'account aziendale o dell'Istituto di istruzione e la password.
     
-2. Accedere a Office 365 con l'account di lavoro o della scuola con la propria password come normalmente. Dopo aver scelto **l'accesso**, verrà visualizzata una pagina con il nome utente e alcune opzioni 
+2. Scegliere **Configura ora**.
     
-3. Scegliere **Configura ora**. 
+3. Selezionare il metodo di autenticazione e seguire le istruzioni visualizzate.
     
-4. Selezionare il metodo di autenticazione e quindi seguire le istruzioni nella pagina.
+4. Dopo aver verificato il metodo di contatto alternativo, scegliere **Avanti**.
     
-5. Dopo aver verificato la modalità di contatto alternativa, scegliere **Avanti**. 
-    
-6. Si otterrà una password di app che è possibile utilizzare con Outlook, Apple Mail e così via. Scegliere l'icona di copia per copiare negli Appunti la password. Non è necessario memorizzare la password. 
-    
-7. Quando si aggiunge l'account di posta elettronica di Office 365 a Outlook (o un'altra applicazione) e viene richiesta la password, oltre la password di app nella casella Password, anziché digitare la password dell'account. 
+5. Si otterrà una password per l'app che è possibile utilizzare con Outlook, Apple Mail e altre app che lo richiedono. Scegliere **copia** per copiare la password in modo che sia possibile incollarla altrove (non è necessario memorizzarla). 
     
 

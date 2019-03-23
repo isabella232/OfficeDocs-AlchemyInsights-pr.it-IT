@@ -1,5 +1,5 @@
 ---
-title: Annullare la sottoscrizione di Office 365?
+title: Annullamento dell'abbonamento a Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: b538d7de1b8dae14b55b799dd02055c311c31207
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7464784fb11b872c395c206a510577c2a4c33835
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902308"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758614"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Annullare la sottoscrizione di Office 365?
+# <a name="canceling-your-office-365-subscription"></a>Annullamento dell'abbonamento a Office 365?
 
-Cercato visualizzare andare!
+Ci dispiace vederti andare!
   
-In base alle dati dell'organizzazione, si ritiene che tutte le sottoscrizioni corrente dispongono più di 25 licenze assegnate. È possibile rimuovere utenti fino a quando non sono presenti meno di 25, quindi passare alla pagina [degli abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di oppure passare alla **fatturazione** \> **sottoscrizioni**e quindi fare clic su **altre azioni** \> **Annulla sottoscrizione**.
+In base ai dati dell'organizzazione, riteniamo che tutti gli abbonamenti correnti dispongano di più di 25 licenze assegnate. È possibile rimuovere gli utenti fino a quando non sono presenti meno di 25, [](https://go.microsoft.com/fwlink/p/?linkid=842054) quindi passare alla pagina abbonamenti oppure passare a abbonamenti **fatturazione** \> **** e quindi scegliere **altre azioni** \> **Annulla sottoscrizione**.
   
-In alternativa, è possibile utilizzare l'opzione "possiamo chiamare l'utente" per parlare con un responsabile del supporto tecnico.
+In alternativa, utilizzare l'opzione "Let us Call" per comunicare con un tecnico del supporto.
   
-Per ulteriori informazioni sull'annullamento di una sottoscrizione o per istruzioni dettagliate, vedere l'articolo: [annullare Office 365 per aziende](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+Per ulteriori informazioni sull'annullamento di un abbonamento o per istruzioni dettagliate, vedere questo articolo: [Annulla Office 365 for business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 

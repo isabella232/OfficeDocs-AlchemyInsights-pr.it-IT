@@ -1,5 +1,5 @@
 ---
-title: Come acquistare piani di formazione di Office 365
+title: Informazioni su come acquistare piani di formazione per Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: a16c41eda0d289c9d574a1e754aa16dbf3dc2031
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0d4435141a02a71561579045bd37ab2f707cf898
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902272"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756850"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Come acquistare piani di formazione di Office 365
+# <a name="how-to-purchase-office-365-education-plans"></a>Informazioni su come acquistare piani di formazione per Office 365
 
-Approvati per la formazione di Office 365. Per acquistare:
+Sono stati approvati per Office 365 Education. Per acquistare:
   
-1. Nell'interfaccia di amministrazione, passare alla pagina [Servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) o scegliere **fatturazione** \> **Servizi di acquisto**.
+1. Nell'interfaccia di amministrazione, andare alla pagina [acquisto servizi](https://go.microsoft.com/fwlink/p/?linkid=868433) oppure scegliere servizi di **** \> **acquisto**fatturazione.
     
-2. Selezionare nell'elenco in **Piani di formazione**.
+2. Scegliere dall'elenco in **piani di formazione**.
     
-3. Passare il puntatore sulla sottoscrizione che si desidera acquistare, quindi scegliere **Acquistare ora**.
+3. Posizionare il puntatore del mouse sull'abbonamento che si vuole acquistare e quindi scegliere **Acquista ora**.
     
 

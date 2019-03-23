@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
-ms.openlocfilehash: 7206286052cc341533a330e5bf46989ae02e3026
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 36336948162a81dbd4221395473208b5687a490f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922864"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765416"
 ---
 # <a name="delete-items-in-sharepoint"></a>Eliminare gli elementi in SharePoint
 
-[Eliminare un elenco](https://go.microsoft.com/fwlink/?linkid=869393)
+[Eliminazione di un elenco](https://go.microsoft.com/fwlink/?linkid=869393)
   
 [Eliminare una raccolta documenti](https://go.microsoft.com/fwlink/?linkid=869392)
   
@@ -30,6 +30,6 @@ ms.locfileid: "29922864"
   
 [Eliminare una colonna in una pagina](https://go.microsoft.com/fwlink/?linkid=869394)
   
-[Eliminare una colonna in un elenco o raccolta](https://go.microsoft.com/fwlink/?linkid=869396)
+[Eliminare una colonna in un elenco o in una raccolta](https://go.microsoft.com/fwlink/?linkid=869396)
   
 
