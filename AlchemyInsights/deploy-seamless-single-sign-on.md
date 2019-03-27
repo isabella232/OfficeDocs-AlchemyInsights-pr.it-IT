@@ -1,5 +1,5 @@
 ---
-title: Implementare Single Sign-On semplice
+title: Distribuire l'accesso Single Sign-on senza problemi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
-ms.openlocfilehash: c62f2bba56fa897919be3b04de789e1353a810ce
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 90ce8d2de04620150c4e4f4f253e1690a4f2da36
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937240"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766244"
 ---
-# <a name="enable-seamless-sso"></a><span data-ttu-id="85925-102">Abilitare SSO semplice</span><span class="sxs-lookup"><span data-stu-id="85925-102">Enable Seamless SSO</span></span>
+# <a name="enable-seamless-sso"></a><span data-ttu-id="38be6-102">Abilitazione di SSO trasparente</span><span class="sxs-lookup"><span data-stu-id="38be6-102">Enable Seamless SSO</span></span>
 
-<span data-ttu-id="85925-103">Azure Active Directory (Azure Active Directory) agevole Single Sign-On (SSO semplice) accede automaticamente agli utenti quando sono i propri desktop aziendale connessi alla rete aziendale.</span><span class="sxs-lookup"><span data-stu-id="85925-103">Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) automatically signs in users when they are on their corporate desktops that are connected to your corporate network.</span></span>
+<span data-ttu-id="38be6-103">Azure Active Directory (Azure AD) seamless Single Sign-on (SSO senza soluzione di continuità) consente di firmare automaticamente gli utenti quando si trovano nei propri desktop aziendali connessi alla rete aziendale.</span><span class="sxs-lookup"><span data-stu-id="38be6-103">Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) automatically signs in users when they are on their corporate desktops that are connected to your corporate network.</span></span>
   
-[<span data-ttu-id="85925-104">Seguire i passaggi descritti in questo articolo per abilitare SSO semplice</span><span class="sxs-lookup"><span data-stu-id="85925-104">Follow the steps in this article to enable Seamless SSO</span></span>](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[<span data-ttu-id="38be6-104">Seguire la procedura descritta in questo articolo per abilitare il servizio SSO trasparente</span><span class="sxs-lookup"><span data-stu-id="38be6-104">Follow the steps in this article to enable Seamless SSO</span></span>](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 

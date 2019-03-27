@@ -1,5 +1,5 @@
 ---
-title: Carta di credito ciclo di fatturazione
+title: Carta di credito del ciclo di fatturazione
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: 11492c6c9430dc4c67a1492fc22a4a98e5d38767
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 11760e2f34bb6c9766b8f35be18ec9857e7c0ad9
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938748"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766784"
 ---
-# <a name="billing-cycle-credit-card"></a><span data-ttu-id="696be-102">Carta di credito ciclo di fatturazione</span><span class="sxs-lookup"><span data-stu-id="696be-102">Billing cycle credit card</span></span>
+# <a name="billing-cycle-credit-card"></a><span data-ttu-id="c4ffb-102">Carta di credito del ciclo di fatturazione</span><span class="sxs-lookup"><span data-stu-id="c4ffb-102">Billing cycle credit card</span></span>
 
-<span data-ttu-id="696be-p101">Quando si acquistare una sottoscrizione di business di Office 365 direttamente da Microsoft, puoi pagare con una carta di credito. In alcuni paesi o aree geografiche, è anche possibile prestare con un conto bancario.</span><span class="sxs-lookup"><span data-stu-id="696be-p101">When you buy an Office 365 for business subscription directly from Microsoft, you can pay with a credit or debit card. In some countries or regions, you can also pay with a bank account.</span></span>
+<span data-ttu-id="c4ffb-103">Quando si acquista un abbonamento a Office 365 for business direttamente da Microsoft, è possibile pagare con una carta di credito o di debito.</span><span class="sxs-lookup"><span data-stu-id="c4ffb-103">When you buy an Office 365 for business subscription directly from Microsoft, you can pay with a credit or debit card.</span></span> <span data-ttu-id="c4ffb-104">In alcuni paesi o aree geografiche, è anche possibile pagare con un conto corrente bancario.</span><span class="sxs-lookup"><span data-stu-id="c4ffb-104">In some countries or regions, you can also pay with a bank account.</span></span>
   
-<span data-ttu-id="696be-105">Se si sceglie di utilizzare carta di credito come metodo di pagamento, è possibile informazioni su come gestire e risolvere i problemi da [aggiungere, aggiornare, o rimuovere una carta di credito bancario in Office 365 per aziende](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI).</span><span class="sxs-lookup"><span data-stu-id="696be-105">If you choose to use a credit card as your payment method, you can learn how to manage and troubleshoot from [Add, update, or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI).</span></span>
+<span data-ttu-id="c4ffb-105">Se si sceglie di usare una carta di credito come metodo di pagamento, è possibile ottenere informazioni su come gestire e risolvere i problemi relativi all' [aggiunta, all'aggiornamento o alla rimozione di una carta di credito o di un conto corrente bancario in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI).</span><span class="sxs-lookup"><span data-stu-id="c4ffb-105">If you choose to use a credit card as your payment method, you can learn how to manage and troubleshoot from [Add, update, or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724?wt.mc_id=billing_cycle_AI).</span></span>
   
-<span data-ttu-id="696be-106">Include la risoluzione dei problemi quando viene rifiutata la carta di credito e la modifica della carta di credito in modo che la scheda viene accettata.</span><span class="sxs-lookup"><span data-stu-id="696be-106">This includes resolving issues when your credit card is declined and changing credit card information so that the card is accepted.</span></span>
+<span data-ttu-id="c4ffb-106">Questo include la risoluzione dei problemi quando la carta di credito viene rifiutata e la modifica delle informazioni sulla carta di credito in modo che la scheda venga accettata.</span><span class="sxs-lookup"><span data-stu-id="c4ffb-106">This includes resolving issues when your credit card is declined and changing credit card information so that the card is accepted.</span></span>
   
 
