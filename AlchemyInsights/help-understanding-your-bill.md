@@ -1,5 +1,5 @@
 ---
-title: Guida di comprendere il pagamento
+title: Informazioni sulla fattura
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 0408477b17e7eda5691a580769ec79e20d9498a4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 301aedd5ba64561eda33a6bd2f2e89253d63a854
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922783"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766568"
 ---
-# <a name="help-understanding-your-bill"></a>Guida di comprendere il pagamento
+# <a name="help-understanding-your-bill"></a>Informazioni sulla fattura
 
-L'importo fatturato riflette il prezzo della licenza moltiplicato per il numero di licenze acquistate e le tasse tasse.
+L'importo fatturato riflette il prezzo della licenza moltiplicato per il numero di licenze acquistate e per eventuali imposte/tasse obbligatorie.
   
-Se l'importo fatturato è diverso quella prevista alcuni motivi che possibili cause sono:
+Se l'importo fatturato è diverso da quello previsto, è possibile che si verifichino alcuni motivi:
   
-- Le licenze aggiunto o rimosso dalla sottoscrizione. Le licenze vengono modificata intermedia, questo viene impostato sulla fattura seguente. È possibile riscontrare un credito e la fatturazione nuovamente il periodo di assistenza precedente a prendere in considerazione la modifica.
+- Le licenze sono state aggiunte o rimosse dall'abbonamento. Quando si modificano le licenze a medio termine, questa viene applicata alla fattura seguente. Potrebbe essere visualizzato un accredito e una nuova fattura per il periodo di servizio precedente per rendere conto di questa modifica.
     
-- È stata annullata la sottoscrizione. Si riceverà una fattura dopo l'annullamento con qualsiasi bilanciare meno crediti in sospeso.
+- La sottoscrizione è stata annullata. Si riceverà una fattura dopo l'annullamento con qualsiasi saldo inevaso meno crediti.
     
-- La sottoscrizione rinnovato per un nuovo termine e il prezzo della licenza modificato.
+- La sottoscrizione è stata rinnovata per un nuovo termine e il prezzo della licenza è stato modificato.
     
-Per ulteriori informazioni sulla fattura, vedere: [comprendere la fatturazione](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)
+Per ulteriori informazioni sulla fattura, vedere: [understand your fattura](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)
   
 

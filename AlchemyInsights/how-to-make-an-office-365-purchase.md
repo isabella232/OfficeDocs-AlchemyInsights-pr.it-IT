@@ -1,5 +1,5 @@
 ---
-title: Come rendere un acquisto di Office 365
+title: Come fare un acquisto di Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a1d2a7ac79f5d7f4ef691b3ba7e110945a106fdf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3242e2db85d20364b1678a1ec9c1ed9a93156bd5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905764"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766280"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a>Come rendere un acquisto di Office 365
+# <a name="how-to-make-an-office-365-purchase"></a>Come fare un acquisto di Office 365
 
-Gli acquisti in Office 365 possono essere apportati nell'interfaccia di amministrazione. Passare alla pagina [degli abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di oppure scegliere **fatturazione** \> **sottoscrizioni**.
+Gli acquisti in Office 365 possono essere effettuati nell'interfaccia di amministrazione. Passare alla pagina [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere abbonamenti di **fatturazione** \> ****.
   
-- Per acquistare una sottoscrizione di accedere alla pagina [Servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) di Office 365 o scegliere **fatturazione** \> **Servizi di acquisto**.
+- per acquistare un abbonamento a Office 365 passare alla [pagina servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) oppure scegliere servizi di **acquisto** **fatturazione** \> .
     
-- Acquistare ulteriori licenze passare alla pagina [degli abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di oppure scegliere **fatturazione** \> **sottoscrizioni**. Nella pagina **degli abbonamenti** di scegliere la sottoscrizione che si desidera aggiungere le licenze per e quindi fare clic su **Aggiungi/Rimuovi licenze**.
+- Per acquistare altre licenze, andare alla [](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina abbonamenti o scegliere **** \> **abbonamenti**di fatturazione. Nella pagina **abbonamenti** selezionare l'abbonamento a cui si desidera aggiungere licenze, quindi scegliere **Aggiungi/Rimuovi licenze**.
     
-- Per passare a un piano di diverso:
+- Per passare a un piano diverso:
     
-  - Scegliere * * passare piani * * per visualizzare l'elenco dei nuovi piani disponibili. 
+  - Scegliere * * Cambia piano * * per visualizzare l'elenco dei nuovi piani disponibili. 
     
-  - Scegliere un piano per visualizzare il costo totale di nuovo al mese. Assicurarsi di leggere le informazioni sulla chiave e quindi scegliere **Avanti** per estrarre. 
+  - Scegliere un piano per vedere il nuovo costo mensile totale. Assicurarsi di leggere le informazioni sulla chiave, quindi scegliere **Avanti** per il check-out. 
     
  **Risorse aggiuntive**
   
 - [Assegnare licenze agli utenti in Office 365 per le aziende](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [Annullare Office 365 per aziende](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Annullare Office 365 per le aziende](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 

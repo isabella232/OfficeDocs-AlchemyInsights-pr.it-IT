@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 244cf804ea0f270bf56ba3247beb91463ffb66b4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922900"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767432"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Come aggiungere o ridurre le licenze
 
-Di seguito viene illustrato come rimuovere o acquistare altre licenze.
+Ecco come rimuovere o acquistare altre licenze.
   
 1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione** \> **Abbonamenti**.
     
-2. A sinistra, scegliere la sottoscrizione da cui si desidera aggiunta/rimozione di licenze
+2. A sinistra, scegliere l'abbonamento da cui si desidera aggiungere/rimuovere licenze
     
 3. Scegliere **Aggiungi/rimuovi licenze**.
     
 4. Immettere il numero totale di utenti necessari.
     
-    Ad esempio, se si dispongono di 25 licenze e si desidera rimuovere 5, immettere 20 in questo campo.
+    Ad esempio, se al momento si dispone di 25 licenze e si desidera rimuovere 5, immettere 20 in questo campo.
     
-5. Scegliere **Submit**.
+5. Choose **Submit**.
     
 > [!NOTE]
-> Qualsiasi nuova addebito (licenza aumento) o una nota (licenza diminuzione) verrà visualizzato nella prossima fattura. 
+> Qualsiasi nuova carica (aumento di licenza) o credito (diminuzione della licenza) verrà visualizzata sulla fattura successiva. 
   
  **Risorse**
   

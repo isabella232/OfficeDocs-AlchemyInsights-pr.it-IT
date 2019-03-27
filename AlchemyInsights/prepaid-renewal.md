@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 909e5e5ed28db9c40dba4499876af506cf004b7d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2ebf127b0c66b34e2a9cc492542c48e2f854c3c9
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902164"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767072"
 ---
 # <a name="prepaid-renewal"></a>Rinnovo prepagato
 
 1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione** \> **Abbonamenti**.
     
-2. Scegliere la sottoscrizione prepagata che si desidera estendere e quindi scegliere **Extend**.
+2. Scegliere l'abbonamento prepagato che si desidera estendere e quindi fare clic su **Estendi**.
     
-3. Scegliere l'opzione per il **codice Product key**. (Se si tratta di un codice "product key" acquistate presso un rivenditore, potrebbe essere la possibilità di estendere con altri metodi di pagamento.)
+3. Scegliere l'opzione per il **codice Product Key**. Se si tratta di un codice Product Key acquistato in un punto vendita, potrebbe essere possibile estendere l'opzione con altri metodi di pagamento.
     
-4. Immettere il codice product key.
+4. Immettere il codice "Product Key".
     
-5. Verificare che le informazioni siano corrette e quindi scegliere **Avanti**.
+5. Verificare che le informazioni siano corrette, quindi fare clic su **Avanti**.
     
-6. Scegliere il pulsante di opzione per estendere la data di fine delle licenze esistente e quindi scegliere **Avanti**.
+6. Scegliere il pulsante di opzione per estendere la data di fine delle licenze esistenti e quindi fare clic su **Avanti**.
     
 

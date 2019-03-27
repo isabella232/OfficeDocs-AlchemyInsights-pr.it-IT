@@ -1,5 +1,5 @@
 ---
-title: Rinnovo di sottoscrizione
+title: Rinnovo della sottoscrizione
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 661d0d0497683fee61d39d98d8f30fdd1be9b5c4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 22831d13132fc004bd8f38218e4e598f1ab5679c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927400"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767576"
 ---
-# <a name="subscription-recurring-billing"></a>Fatturazione ricorrente sottoscrizione
+# <a name="subscription-recurring-billing"></a>Fatturazione ricorrente della sottoscrizione
 
-Se si desidera conoscere quando la sottoscrizione mensile o annua per la fatturazione (se è attivata **fatturazione ricorrente** ) o scadenza (se **fatturazione ricorrente** è disattivata): 
+Se si desidera sapere quando verrà addebitato un abbonamento mensile o annuale (se la **fatturazione ricorrente** è attivata) o scade (se la **fatturazione ricorrente** è disattivata): 
   
 1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione** \> **Abbonamenti**.
     
-2. Scegliere la sottoscrizione che si desidera ricevere ulteriori informazioni.
+2. Scegliere l'abbonamento per cui si desidera sapere di più.
     
-3. Sul lato destro della scheda sottoscrizione è informazioni di stato della sottoscrizione, l'impostazione di **fatturazione ricorrente** e la data di fatturazione o di scadenza successiva. 
+3. Nella parte destra della scheda di sottoscrizione sono contenute informazioni sullo stato della sottoscrizione, sull'impostazione di **fatturazione ricorrente** e sulla successiva data di fatturazione o scadenza. 
     
-4. Per continuare a utilizzare il servizio dopo tale data, si passa **in**attivazione/disattivazione **delle impostazioni di fatturazione ricorrente** . Lo stato verrà visualizzata la data di fatturazione successiva per la sottoscrizione.
+4. Per continuare a utilizzare il servizio oltre questa data, cambiare le **impostazioni di fatturazione ricorrenti** **su**attivato. Lo stato mostrerà la data di fatturazione successiva per la sottoscrizione.
     
-5. Per arrestare servizio in data, passare **fatturazione ricorrente** attiva o disattiva per **disattivare**. Lo stato verrà visualizzata la data di che scadenza della sottoscrizione.
+5. Per interrompere il servizio in questa data, impostare l'interruttore **fatturazione ricorrente** su **disattivato**. Lo stato mostrerà la data di scadenza della sottoscrizione.
     
 

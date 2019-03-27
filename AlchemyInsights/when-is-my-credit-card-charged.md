@@ -1,5 +1,5 @@
 ---
-title: Quando addebitata della carta di credito?
+title: Quando viene addebitata la carta di credito?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 0cf6f678f7310d2b82aeee025298229b8d7e67e4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: adad4b8d16185db033a5405b2b09dc8f72fb221b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942340"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766712"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Quando addebitata della carta di credito?
+# <a name="when-is-my-credit-card-charged"></a>Quando viene addebitata la carta di credito?
 
-Con un acquisto iniziale può richiedere fino a due giorni per le spese per l'esecuzione.
+Con un acquisto iniziale, è possibile richiedere fino a due giorni per l'esecuzione della carica.
   
-Costi ricorrenti verificano all'interno di un giorno di una fattura che si sta creando.
+Gli oneri ricorrenti si verificano entro un giorno dalla creazione della fattura.
   
-Se l'addebito non riesce, il sistema continuerà a tentare di risolvere il giusto compromesso su prossime settimane. È possibile effettuare aggiornamenti per le informazioni di pagamento in qualsiasi momento per assicurarsi che al successivo tentativo addebito ha esito positivo. Per ulteriori informazioni, vedere [aggiungere, aggiornare o rimuovere una carta di credito bancario in Office 365 per aziende](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Se la carica non ha avuto esito positivo, il sistema continuerà a tentare di risolvere il saldo nelle prossime settimane. È possibile aggiornare le informazioni sui pagamenti in qualsiasi momento per assicurarsi che il successivo tentativo di ricarica abbia esito positivo. Per ulteriori informazioni, vedere [aggiungere, aggiornare o rimuovere una carta di credito o un conto corrente bancario in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 

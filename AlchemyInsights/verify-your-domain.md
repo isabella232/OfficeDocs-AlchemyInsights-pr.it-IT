@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 7332650d1763e2bbd13be48f406fb04b8849a6c1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d215f3af0cf4b46b12c8cb51a9572adb00f354e4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911236"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766352"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
- **Il record non è probabilmente aggiornato in Internet.**
+ **Il record probabilmente non è stato aggiornato su Internet.**
   
-In genere richiede solo pochi minuti per noi siano in grado di visualizzare il nuovo record, ma in alcuni casi può richiedere fino a quando alcune ore. 
+In genere, è necessario solo qualche minuto perché sia possibile visualizzare il nuovo record, ma a volte può richiedere fino a poche ore. 
   
-- Se si è il tempo di attesa che tempo già, fare doppio clic sul che è stato copiato e incollato il valore esatto nel record di verifica TXT nell'host DNS. Un problema comune non è incluso il "MS =" fa parte del record. È necessario che anche!
+- Se si è già aspettato tanto, verificare di aver copiato e incollato il valore esatto nel record di verifica TXT nell'host DNS. Un problema comune non include la parte "MS =" del record. Ci serve anche questo!
     
-- In alcuni host DNS, è necessario eseguire un passaggio aggiuntivo per salvare il file area (cui è archiviato il record DNS) in modo che vengano aggiornati in Internet. Verificare che il salvataggio delle modifiche in modo che Office 365 possono vedersi e verificare il record.
+- Presso alcuni host DNS è necessario eseguire un ulteriore passaggio per salvare il file di zona (in cui è archiviato il record DNS) in modo che venga aggiornato su Internet. Verificare di avere salvato le modifiche affinché Office 365 possa visualizzare e verificare il record.
     
 

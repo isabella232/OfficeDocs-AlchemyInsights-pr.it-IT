@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 44c7209f651427017aac6c146cccb698c0a71d67
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9a5b157bb70e6c1ff445a2b51d0dca8f30890f4c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918940"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766136"
 ---
 # <a name="configure-sharepoint-audit-settings"></a>Configurare le impostazioni di controllo di SharePoint
 
-Gli amministratori raccolta siti di SharePoint possono tenere traccia delle azioni degli utenti nel contenuto configurando le impostazioni di controllo.
+Gli amministratori delle raccolte siti di SharePoint possono controllare le azioni degli utenti sul contenuto configurando le impostazioni di controllo.
   
 1. Aprire il sito di SharePoint.
     
-2. Fare clic sull'icona impostazioni e quindi fare clic su **Impostazioni sito**. Se non viene visualizzata "Impostazioni di sito", fare clic su **informazioni sul sito**e quindi fare clic su **Visualizza tutte le impostazioni di sito**.
+2. Fare clic sull'icona impostazioni e quindi su **Impostazioni sito**. Se non si Visualizza "Impostazioni sito", fare clic su **informazioni sito**e quindi su **Visualizza tutte le impostazioni di sito**.
     
-3. Nella sezione **Amministrazione raccolta siti**, selezionare **le impostazioni di controllo di raccolta siti**. (Se non è visualizzata, fare clic su **Vai alle impostazioni del sito principale** innanzitutto.) 
+3. In **Amministrazione raccolta siti**selezionare **impostazioni di controllo raccolta siti**. Se non lo si vede, fare clic su **Vai a Impostazioni sito di primo livello** . 
     
-Per informazioni sulle operazioni che sono incluso nel report Registro di controllo di SharePoint e le modalità di visualizzazione li, vedere [configurare impostazioni di controllo per una raccolta siti](https://go.microsoft.com/fwlink/?linkid=404050).
+Per informazioni sugli elementi inclusi nei report del registro di controllo di SharePoint e su come visualizzarli, vedere [Configure audit Settings for a site collection](https://go.microsoft.com/fwlink/?linkid=404050).
   
 
