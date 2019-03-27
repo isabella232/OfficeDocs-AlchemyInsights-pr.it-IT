@@ -1,5 +1,5 @@
 ---
-title: Inviare richieste di supporto Dynamics 365
+title: Inviare richieste di supporto di Dynamics 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
-ms.openlocfilehash: bff8a8867cc73a54afcec43580868712b427e9c8
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: cfdfcb588f16f1871fa405b264be22a0bb1e074c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404715"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767144"
 ---
-# <a name="submit-dynamics-365-support-requests"></a>Inviare richieste di supporto Dynamics 365
+# <a name="submit-dynamics-365-support-requests"></a>Inviare richieste di supporto di Dynamics 365
 
-Se si è un cliente di **Customer Engagement di Microsoft Dynamics** , inviare il proprio ticket tramite la nuova interfaccia di [amministrazione di Power Platform](https://admin.powerplatform.microsoft.com/?ref=officemodern).
+I clienti di **Microsoft Dynamics for Customer Engagement** possono invia i ticket tramite la nuova [interfaccia di amministrazione della piattaforma Power](https://admin.powerplatform.microsoft.com/?ref=officemodern).
   
-Il nuovo portale fornisce un percorso più diretto al supporto assistito ottimizzato per l'impegno dei clienti Dynamics e per altri prodotti della piattaforma Power.
+Il nuovo portale offre un percorso più diretto al servizio di supporto assistito, ottimizzato per Dynamics for Customer Engagement e altri prodotti della piattaforma Power.
   
 
