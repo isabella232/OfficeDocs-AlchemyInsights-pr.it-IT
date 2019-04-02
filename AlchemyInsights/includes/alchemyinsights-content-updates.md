@@ -21,37 +21,37 @@
 | 3/4/2019 | [1575-PowerApps e Microsoft Flow Plan Extension](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | rinominato |
 | 3/4/2019 | [Abilitare l'autenticazione a più fattori](/AlchemyInsights/enable-multifactor-authentication) | modificato |
 | 3/4/2019 | [8000054 limite di archiviazione di Outlook.com superato](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | aggiunto |
-| 3/4/2019 | [423 org sicurezza-EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | modificato |
-| 3/4/2019 | [8000029 gestire la posta indesiderata o il phishing in Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | modificato |
+| 3/4/2019 | [423 Sicurezza dell'organizzazione - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | modificato |
+| 3/4/2019 | [8000029 Gestire la posta indesiderata e gli attacchi di phishing in Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | modificato |
 | 3/4/2019 | [Rimuovi dominio](/AlchemyInsights/remove-domain) | modificato |
 | 3/4/2019 | [Aggiungere utenti a Office 365](/AlchemyInsights/add-users-to-office-365) | modificato |
 | 3/4/2019 | [Si ricevono troppi messaggi di posta indesiderata o phishing nella cassetta postale?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | modificato |
-| 3/4/2019 | [Modificare i server dei nomi](/AlchemyInsights/change-nameservers) | modificato |
+| 3/4/2019 | [Cambiare i server dei nomi](/AlchemyInsights/change-nameservers) | modificato |
 | 3/4/2019 | [Creare app in PowerApps](/AlchemyInsights/create-apps-in-powerapps) | modificato |
 | 3/4/2019 | [Migrazioni di completa a Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | modificato |
 | 3/4/2019 | [Problemi di recapito della posta elettronica](/AlchemyInsights/having-email-delivery-issues-0) | modificato |
 | 3/4/2019 | [Problemi di recapito della posta elettronica](/AlchemyInsights/having-email-delivery-issues) | modificato |
 | 3/4/2019 | [Come si aggiunge una carta di credito?](/AlchemyInsights/how-do-i-add-a-credit-card) | modificato |
-| 3/4/2019 | [Come si aggiornano le informazioni sulla carta di credito?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | modificato |
+| 3/4/2019 | [Come si aggiornano le informazioni della carta di credito?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | modificato |
 | 3/4/2019 | [Come installare Office](/AlchemyInsights/how-to-install-office) | modificato |
 | 3/4/2019 | [Eseguire la migrazione della posta elettronica da IMAP](/AlchemyInsights/migrate-email-from-imap) | modificato |
 | 3/4/2019 | [Opzioni di pagamento](/AlchemyInsights/payment-options) | modificato |
 | 3/4/2019 | [Passaggi consigliati da eseguire se un account è compromesso](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | modificato |
-| 3/4/2019 | [Mittente bloccato per l'invio di troppa posta indesiderata](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | modificato |
-| 3/4/2019 | [Inviare richieste di supporto Dynamics 365](/AlchemyInsights/submit-dynamics-365-support-requests) | modificato |
+| 3/4/2019 | [Il mittente è stato bloccato perché ha inviato troppi messaggi di posta indesiderata](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | modificato |
+| 3/4/2019 | [Inviare richieste di supporto di Dynamics 365](/AlchemyInsights/submit-dynamics-365-support-requests) | modificato |
 | 3/4/2019 | [Il dominio è già in uso](/AlchemyInsights/the-domain-is-already-in-use) | modificato |
-| 3/4/2019 | [Problemi durante il completamento di un acquisto nel portale di Office 365](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | modificato |
+| 3/4/2019 | [Non si riesce a completare un acquisto nel portale di Office 365](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | modificato |
 | 3/4/2019 | [Aggiornare i record DNS](/AlchemyInsights/update-dns-records-0) | modificato |
 | 3/4/2019 | [Aggiornare i record DNS](/AlchemyInsights/update-dns-records) | modificato |
-| 3/4/2019 | [Aggiornare i dettagli dei pagamenti](/AlchemyInsights/update-payment-details) | modificato |
-| 3/4/2019 | [Verificare il dominio](/AlchemyInsights/verify-domain) | modificato |
+| 3/4/2019 | [Aggiornare i dettagli di pagamento](/AlchemyInsights/update-payment-details) | modificato |
+| 3/4/2019 | [Verificare un dominio](/AlchemyInsights/verify-domain) | modificato |
 | 3/4/2019 | [Impostazione dell'inoltro a più indirizzi di posta elettronica](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | modificato |
 | 3/4/2019 | [Risolvere l'errore "non è un dominio accettato"](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | modificato |
-| 06/03/2019 | [1581 aprire e utilizzare una cassetta postale condivisa in Outlook sul Web](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | modificato |
+| 06/03/2019 | [1581 Aprire e usare cassette postali condivise in Outlook sul web per le aziende](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | modificato |
 | 06/03/2019 | [Turni di Teams](/AlchemyInsights/1686-teams-shifts) | aggiunto |
-| 06/03/2019 | [1703 necessità di informazioni sui team e sui telefoni Polycom](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | aggiunto |
+| 06/03/2019 | [1703 Necessarie informazioni su Teams e su telefoni Polycom](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | aggiunto |
 | 06/03/2019 | [Installation and Reference del modulo PS Teams](/AlchemyInsights/1787-teams-ps-module-install-ref) | aggiunto |
-| 06/03/2019 | [615 tipi di condivisione e come configurarli.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | modificato |
+| 06/03/2019 | [615 Tipi di condivisione e informazioni su come configurarli.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | modificato |
 | 06/03/2019 | [Teams freemium](/AlchemyInsights/997-teams-freemium) | aggiunto |
 | 06/03/2019 | [I messaggi legittimi vengono contrassegnati come posta indesiderata?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | modificato |
 | 06/03/2019 | [Abilitare Microsoft Teams](/AlchemyInsights/enable-microsoft-teams) | modificato |
@@ -196,7 +196,7 @@
 | 3/22/2019 | [8000013 cambiare tipo di carattere in Outlook.com](/AlchemyInsights/change-font-in-outlook-com) | rinominato |
 | 3/22/2019 | [Modificare la frequenza di pagamento](/AlchemyInsights/change-how-often-you-pay) | modificato |
 | 3/22/2019 | [8000010 cambiare l'indirizzo di posta elettronica in Outlook.com](/AlchemyInsights/change-my-email-address-in-outlook-com) | rinominato |
-| 3/22/2019 | [Modificare i server dei nomi](/AlchemyInsights/change-nameservers) | modificato |
+| 3/22/2019 | [Cambiare i server dei nomi](/AlchemyInsights/change-nameservers) | modificato |
 | 3/22/2019 | [Modificare la quota di archiviazione di OneDrive for business](/AlchemyInsights/change-onedrive-for-business-storage-quota) | modificato |
 | 3/22/2019 | [Cambiare la modalità di pagamento](/AlchemyInsights/change-payment-method) | modificato |
 | 3/22/2019 | [Modificare le autorizzazioni per un elenco o una raccolta di SharePoint](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | modificato |
@@ -210,7 +210,7 @@
 | 3/22/2019 | [8000002 cambiare la password in Outlook.com](/AlchemyInsights/change-your-password-in-outlook-com) | rinominato |
 | 3/22/2019 | [8000036 cambiare il nome del profilo in Outlook.com](/AlchemyInsights/change-your-profile-name-in-outlook-com) | rinominato |
 | 3/22/2019 | [Modifiche apPortate all'accesso degli utenti esterni](/AlchemyInsights/changes-to-external-user-access) | modificato |
-| 3/22/2019 | [8000026 modifiche a Outlook.com](/AlchemyInsights/changes-to-outlook-com) | rinominato |
+| 3/22/2019 | [8000026 Modifiche a Outlook.com](/AlchemyInsights/changes-to-outlook-com) | rinominato |
 | 3/22/2019 | [Modifica delle autorizzazioni per le cartelle pubbliche](/AlchemyInsights/changing-public-folder-permissions) | modificato |
 | 3/22/2019 | [Modifica del comportamento di invio delle cassette postali condivise](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | modificato |
 | 3/22/2019 | [Controllare lo stato di sincronizzazione dell'identità AAD](/AlchemyInsights/check-aad-identity-sync-status) | modificato |
@@ -243,7 +243,7 @@
 | 3/22/2019 | [CTRL + H Visualizza Find, not replace in Excel 2016](/AlchemyInsights/ctrl-plus-h-shows-find-not-replace-in-excel-2016) | modificato |
 | 3/22/2019 | [8000029 Deal with phishing in Outlook.com](/AlchemyInsights/deal-with-phishing-in-outlook-com) | rinominato |
 | 3/22/2019 | [8000029 gestire la posta indesiderata in Outlook.com](/AlchemyInsights/deal-with-spam-in-outlook-com) | rinominato |
-| 3/22/2019 | [8000029 gestire la posta indesiderata o il phishing in Outlook.com](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | rinominato |
+| 3/22/2019 | [8000029 Gestire la posta indesiderata e gli attacchi di phishing in Outlook.com](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | rinominato |
 | 3/22/2019 | [Carta di credito rifiutata](/AlchemyInsights/declined-credit-card) | modificato |
 | 3/22/2019 | [8000012 eliminare un contatto in Outlook.com](/AlchemyInsights/delete-a-contact-in-outlook-com) | rinominato |
 | 3/22/2019 | [8000016 eliminare una cartella in Outlook.com](/AlchemyInsights/delete-a-folder-in-outlook-com) | rinominato |
@@ -302,7 +302,7 @@
 | 3/22/2019 | [Come si aggiunge una carta di credito?](/AlchemyInsights/how-do-i-add-a-credit-card) | modificato |
 | 3/22/2019 | [Come si passa dai pagamenti con carta di credito alla fattura?](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | modificato |
 | 3/22/2019 | [Come si rimuovono le informazioni sulla carta di credito?](/AlchemyInsights/how-do-i-remove-my-credit-card-information) | modificato |
-| 3/22/2019 | [Come si aggiornano le informazioni sulla carta di credito?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | modificato |
+| 3/22/2019 | [Come si aggiornano le informazioni della carta di credito?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | modificato |
 | 3/22/2019 | [8000056 come accedere a Outlook.com durante il viaggio](/AlchemyInsights/how-to-access-outlook-com-while-traveling) | rinominato |
 | 3/22/2019 | [Come aggiungere o ridurre le licenze](/AlchemyInsights/how-to-add-or-reduce-licenses) | modificato |
 | 3/22/2019 | [Come assegnare una licenza a un utente](/AlchemyInsights/how-to-assign-a-license-to-a-user) | modificato |
@@ -384,7 +384,7 @@
 | 3/22/2019 | [Spostare gli elementi in una raccolta documenti di SharePoint](/AlchemyInsights/move-items-in-a-sharepoint-document-library) | modificato |
 | 3/22/2019 | [8000062 spostamento di una cartella in Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | rinominato |
 | 3/22/2019 | [Tentativi multipli di caricare gli strumenti di pagamento online](/AlchemyInsights/multiple-attempts-to-charge-online-payment-instruments) | modificato |
-| 3/22/2019 | [1703 necessità di informazioni sui team e sui telefoni Polycom](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | rinominato |
+| 3/22/2019 | [1703 Necessarie informazioni su Teams e su telefoni Polycom](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | rinominato |
 | 3/22/2019 | [122 è necessario creare una firma in Outlook sul Web?](/AlchemyInsights/need-to-create-a-signature-in-outlook-on-the-web) | rinominato |
 | 3/22/2019 | [8000037 non ricevere messaggi di posta elettronica in Outlook.com](/AlchemyInsights/not-receiving-email-in-outlook-com) | rinominato |
 | 3/22/2019 | [Piani e prezzi di Office 365 per le aziende](/AlchemyInsights/office-365-for-business-plans-and-pricing) | modificato |
@@ -396,11 +396,11 @@
 | 3/22/2019 | [Uno dei certificati del servizio federativo locale è in scadenza](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | modificato |
 | 3/22/2019 | [Archiviazione OneDrive](/AlchemyInsights/onedrive-storage) | modificato |
 | 3/22/2019 | [Aprire una raccolta di SharePoint in Esplora file](/AlchemyInsights/open-a-sharepoint-library-in-file-explorer) | modificato |
-| 3/22/2019 | [1581 aprire e utilizzare una cassetta postale condivisa in Outlook sul Web](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | rinominato |
+| 3/22/2019 | [1581 Aprire e usare cassette postali condivise in Outlook sul web per le aziende](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | rinominato |
 | 3/22/2019 | [Apri con il pulsante Esplora è disabilitato](/AlchemyInsights/open-with-explorer-button-is-disabled) | modificato |
 | 3/22/2019 | [Apri con il pulsante di esplorazione mancante](/AlchemyInsights/open-with-explorer-button-missing) | modificato |
 | 3/22/2019 | [Apertura con Esplora risorse non funziona](/AlchemyInsights/open-with-explorer-doesn-t-work) | modificato |
-| 3/22/2019 | [423 org sicurezza-EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | rinominato |
+| 3/22/2019 | [423 Sicurezza dell'organizzazione - EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | rinominato |
 | 3/22/2019 | [424 org sicurezza-posta inDesiderata falsa positiva](/AlchemyInsights/org-securityspam-false-positive) | rinominato |
 | 3/22/2019 | [8000073 account Outlook.com Hacked-francese](/AlchemyInsights/outlook-com-account-hacked-french) | rinominato |
 | 3/22/2019 | [8000039 account Outlook.com violato](/AlchemyInsights/outlook-com-account-hacked) | rinominato |
@@ -472,62 +472,16 @@
 | 3/22/2019 | [1488-eseguire-eDiscovery-and-content-Searches](/AlchemyInsights/perform-ediscovery-and-content-searches) | rinominato |
 
 
-## <a name="week-of-february-18-2019"></a>Settimana del 18 febbraio 2019
+## <a name="week-of-march-25-2019"></a>Settimana del 25 marzo 2019
 
 
 | Data di pubblicazione |Titolo dell'argomento | Modifica |
 |------|------------|--------|
-| 2/19/2019 | [È stato rilevato un errore ' parametro non trovato '?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | modificato |
-| 2/19/2019 | [Spostare la posta elettronica in Office 365](/AlchemyInsights/move-email-to-office-365) | modificato |
-| 2/19/2019 | [Ripristinare una cassetta postale eliminata](/AlchemyInsights/restore-deleted-mailbox) | modificato |
-| 2/21/2019 | [Come installare Mac Office dal portale](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | rinominato |
-| 2/22/2019 | [1048 servizio 5.7.750 non disponibile. Client bloccato dall'invio di domini non registrati](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | modificato |
-| 2/22/2019 | [125 ottenere un errore di licenza non valido in Outlook sul Web?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | modificato |
-| 2/22/2019 | [126 ottenere una cassetta postale non può essere trovato errore in OWA?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | modificato |
-| 2/22/2019 | [127 ottenere un errore di TenantAccessBlockedException durante l'accesso alla posta elettronica?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificato |
-| 2/22/2019 | [128 ottenere un errore di TenantAccessBlockedException durante l'accesso alla posta elettronica?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificato |
-| 2/22/2019 | [711 creazione di una lista di distribuzione o di un gruppo](/AlchemyInsights/711-creating-a-distribution-list-or-group) | modificato |
-| 2/22/2019 | [912 configurare la posta in arrivo evidenziata per tutti gli utenti dell'organizzazione](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | modificato |
-| 2/22/2019 | [Rimuovi dominio](/AlchemyInsights/remove-domain) | modificato |
-| 2/22/2019 | [Aggiungere un gruppo a un sito di SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | modificato |
-| 2/22/2019 | [Aggiungere un altro alias di posta elettronica](/AlchemyInsights/add-another-email-alias) | modificato |
-| 2/22/2019 | [Aggiungere contatti a un gruppo di O365](/AlchemyInsights/add-contacts-to-o365-group) | modificato |
-| 2/22/2019 | [Cambia UPN](/AlchemyInsights/change-upn) | modificato |
-| 2/22/2019 | [Modifica delle autorizzazioni per le cartelle pubbliche](/AlchemyInsights/changing-public-folder-permissions) | modificato |
-| 2/22/2019 | [Modifica del comportamento di invio delle cassette postali condivise](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | modificato |
-| 2/22/2019 | [Controllare lo stato di sincronizzazione dell'identità AAD](/AlchemyInsights/check-aad-identity-sync-status) | modificato |
-| 2/22/2019 | [Confronto tra i piani di Office 365](/AlchemyInsights/compare-office-365-plans) | modificato |
-| 2/22/2019 | [Creare un sito classico](/AlchemyInsights/create-a-classic-site) | modificato |
-| 2/22/2019 | [Creare un sito in SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | modificato |
-| 2/22/2019 | [Creazione di cartelle pubbliche](/AlchemyInsights/creating-public-folders) | modificato |
-| 2/22/2019 | [Eliminare un sito di SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | modificato |
-| 2/22/2019 | [Fornire agli utenti l'accesso a SharePoint e OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | modificato |
-| 2/22/2019 | [È stato rilevato un errore ' parametro non trovato '?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | modificato |
-| 2/22/2019 | [Problemi di recapito della posta elettronica](/AlchemyInsights/having-email-delivery-issues-0) | modificato |
-| 2/22/2019 | [Problemi di recapito della posta elettronica](/AlchemyInsights/having-email-delivery-issues) | modificato |
-| 2/22/2019 | [Problemi per ottenere Outlook per la connessione?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | modificato |
-| 2/22/2019 | [Problemi per ottenere Outlook per la connessione?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | modificato |
-| 2/22/2019 | [Come assegnare licenze di Office agli utenti Mac](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | modificato |
-| 2/22/2019 | [Informazioni su come acquistare le licenze per l'abbonamento a Office 365 business](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | modificato |
-| 2/22/2019 | [Come incrementare lo spazio di archiviazione in OneDrive for business](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | modificato |
-| 2/22/2019 | [Come riattivare un abbonamento](/AlchemyInsights/how-to-reactivate-a-subscription) | modificato |
-| 2/22/2019 | [Aumentare le dimensioni delle cassette postali per SKU Enterprise](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | modificato |
-| 2/22/2019 | [Aumentare le dimensioni delle cassette postali per SKU SMB](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | modificato |
-| 2/22/2019 | [Aumentare le dimensioni delle cassette postali](/AlchemyInsights/increase-mailbox-size) | modificato |
-| 2/22/2019 | [Problema con Skype for business?](/AlchemyInsights/issue-with-skype-for-business) | modificato |
-| 2/22/2019 | [Gestire gli account utente sincronizzati](/AlchemyInsights/manage-synchronized-user-accounts) | modificato |
-| 2/22/2019 | [Monitorare l'utilizzo e l'attività di OneDrive e SharePoint](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | modificato |
-| 2/22/2019 | [Riattivare un abbonamento](/AlchemyInsights/reactivate-a-subscription) | modificato |
-| 2/22/2019 | [Ripristinare un OneDrive eliminato](/AlchemyInsights/restore-a-deleted-onedrive) | modificato |
-| 2/22/2019 | [Ripristinare un gruppo di Office 365 utilizzando l'interfaccia di amministrazione di Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | modificato |
-| 2/22/2019 | [Configurazione della sottoscrizione di O365 Business Essentials](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | modificato |
-| 2/22/2019 | [La condivisione con utenti esterni non funziona](/AlchemyInsights/sharing-with-external-users-isn-t-working) | modificato |
-| 2/22/2019 | [Si tenta di trovare una versione di valutazione?](/AlchemyInsights/trying-to-find-a-trial) | modificato |
-| 2/22/2019 | [Attivazione o disattivazione della condivisione esterna per SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | modificato |
-| 2/22/2019 | [Attivazione o disattivazione della condivisione esterna per SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | modificato |
-| 2/22/2019 | [Autorizzazioni utenti](/AlchemyInsights/user-permissions) | modificato |
-| 2/22/2019 | [Quando viene generato l'estratto conto?](/AlchemyInsights/when-is-the-billing-statement-generated) | modificato |
-| 2/22/2019 | [Come verificare il dominio con Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | modificato |
+| 3/25/2019 | [Outlook.com cambiare lingua](/AlchemyInsights/outlook-com-change-language) | modificato |
+| 3/27/2019 | [Eliminare un sito di SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | modificato |
+| 3/28/2019 | Limitare la modalità classica di SharePoint Online | aggiunto |
+| 3/28/2019 | [Non è possibile aggiungere il flusso di lavoro predefinito 2010 approvazione](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | modificato |
+| 3/28/2019 | [Limitare la modalità classica di SharePoint Online](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | rinominato |
 
 
 ## <a name="week-of-february-25-2019"></a>Settimana del 25 febbraio 2019
@@ -546,7 +500,7 @@
 | 2/25/2019 | [8000015 ricezione di messaggi di posta elettronica da mittenti bloccati in Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | modificato |
 | 2/25/2019 | [8000029 Deal with phishing in Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | modificato |
 | 2/25/2019 | [8000029 gestire la posta indesiderata in Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | modificato |
-| 2/25/2019 | [8000029 gestire la posta indesiderata o il phishing in Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | modificato |
+| 2/25/2019 | [8000029 Gestire la posta indesiderata e gli attacchi di phishing in Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | modificato |
 | 2/25/2019 | [8000033 come rispondere o inoltrare i messaggi nella versione beta di Outlook.com](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | modificato |
 | 2/25/2019 | [8000034 leggere le ricevute in Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | modificato |
 | 2/25/2019 | [8000036 cambiare il nome della posta elettronica in Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | modificato |
