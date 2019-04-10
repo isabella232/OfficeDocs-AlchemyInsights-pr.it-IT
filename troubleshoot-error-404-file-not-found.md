@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 2b0f6d84c53b812fe0552fc05473eebdfcc8d71a
-ms.sourcegitcommit: 56c52c73e752414d66785f175c3a0e2925ad41c1
+ms.openlocfilehash: 467feb3cb436a2e0135162657876e5c45d8d56bd
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044044"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747243"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Risoluzione dei problemi relativi all'errore 404, file non trovato
 
@@ -23,7 +23,7 @@ Per risolvere l'errore 404 per un sito che è stato rinominato, spostato o elimi
 Per i siti classici presenti nell'interfaccia di amministrazione classica, vedere [ripristinare una raccolta siti eliminata](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
 
 
-Per i siti moderni (comunicazioni, gruppi o altri siti) presenti nella nuova anteprima dell'interfaccia di amministrazione, vedere [View and Restore Deleted sites in the New SharePoint Admin Center](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
+Per i siti moderni (comunicazioni, gruppi o altri siti) presenti nella nuova interfaccia di amministrazione di SharePoint, vedere [View and Restore Deleted sites in the New SharePoint Admin Center](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
 
 Per risolvere l'errore 404 per un file o un altro elemento che è stato rinominato, spostato o eliminato:
 

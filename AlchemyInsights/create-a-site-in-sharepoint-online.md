@@ -1,6 +1,6 @@
 ---
 title: Creare un sito in SharePoint Online
-ms.author: clake
+ms.author: stevhord
 author: spowriter
 manager: scotv
 ms.date: 5/21/2018
@@ -11,29 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 925384f501da14aa19acc9e147123dbeb19a67fa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: c6fca2bf2dd2c204d5a2101029524932e6482555
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764588"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747746"
 ---
 # <a name="create-a-site"></a>Creare un sito
 
-È possibile creare diversi tipi di siti in SharePoint Online. Per creare uno dei nuovi tipi di sito, vedere questi argomenti.
-  
-- [Creare un sito del team con un gruppo di Office 365](https://go.microsoft.com/fwlink/?linkid=866292)
+È possibile creare diversi tipi di siti in SharePoint Online. Per informazioni su come eseguire questa operazione nella nuova interfaccia di amministrazione di SharePoint, vedere [creare un sito](https://go.microsoft.com/fwlink/?linkid=866295). Per informazioni su come consentire agli utenti di creare siti personali, vedere [Manage Site Creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+ 
+Per informazioni sui nuovi tipi di sito, vedere gruppi di siti del [Team connessi](https://go.microsoft.com/fwlink/?linkid=866292) o [siti di comunicazione](https://go.microsoft.com/fwlink/?linkid=866294).
     
-- [Creare un sito di comunicazione in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866294)
-    
-È inoltre possibile creare questi siti dalla nuova anteprima dell'interfaccia di amministrazione di SharePoint.
-  
-Per creare un sito classico, eseguire una delle operazioni seguenti:
-  
-- Passare alla [pagina siti nell'interfaccia di amministrazione di Microsoft 365](https://portal.office.com/adminportal/home#/SitesList)e quindi selezionare **Aggiungi un sito**.
-    
-- Nell'interfaccia di amministrazione di SharePoint classica, nella pagina raccolte siti, selezionare **nuova** \> **raccolta siti privati**.
-    
-Per ulteriori informazioni, vedere [creare una raccolta siti](https://go.microsoft.com/fwlink/?linkid=866295). Per informazioni su come consentire agli utenti di creare siti personali, vedere [Manage Site Creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
-  
+
 

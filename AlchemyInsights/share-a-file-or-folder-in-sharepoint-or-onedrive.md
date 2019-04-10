@@ -1,5 +1,5 @@
 ---
-title: Condividere un file o una cartella in SharePoint o OneDrive
+title: Condivisione di un file o di una cartella in SharePoint o OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 5/24/2018
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941764"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747854"
 ---
-# <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Condividere un file o una cartella in SharePoint o OneDrive
+# <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Condivisione di un file o di una cartella in SharePoint o OneDrive
 
-1. Aprire un browser e passare a file o la cartella che si desidera condividere, selezionarlo e quindi selezionare **Condividi**. 
+1. Aprire un browser e passare al file o alla cartella che si desidera condividere, selezionarlo e quindi fare clic su **Condividi**. 
     
-2. (Facoltativo) Se il tipo di collegamento non è quello desiderato, fare clic sulla freccia in giù per selezionare un tipo diverso:
+2. Optional Se il tipo di collegamento non è quello desiderato, fare clic sulla freccia in giù per selezionare un tipo diverso:
     
-  - **Tutti gli utenti** consente di accedere a tutti coloro che riceve il collegamento, se ricevere direttamente da è o inoltrato da un utente. Ciò potrebbe includere persone esterne all'organizzazione. 
+  - **Chiunque** dà accesso a tutti coloro che ricevono questo collegamento, sia che lo ricevano direttamente da voi o inoltrati da un altro utente. Ciò può includere persone esterne all'organizzazione. 
     
-  - **Utenti \<Your Organization\> ** fornisce tutti gli utenti di accesso di organizzazione per il collegamento se ricevono direttamente dall'utente o inoltrati da un utente. 
+  - **Gli utenti dell'organizzazione\> forniscono all'organizzazione l'accesso al collegamento, indipendentemente dal fatto che vengano ricevuti direttamente dall'utente o inoltrati da un altro utente. \<** 
     
-  - **Utenti specifici** garantisce l'accesso solo agli utenti viene specificata, anche se altri utenti disponga già dell'accesso. Se gli utenti inoltrare l'invito alla condivisione, solo le persone che dispongono già dell'accesso all'elemento sarà in grado di utilizzare il collegamento. 
+  - Le **persone specifiche** consentono l'accesso solo alle persone specificate, anche se altre persone possono già avere accesso. Se la gente inoltra l'invito alla condivisione, solo gli utenti che hanno già accesso all'elemento saranno in grado di utilizzare il collegamento. 
     
     > [!NOTE]
-    > Se una di queste opzioni non è disponibile, oppure se si desidera che un tipo di collegamento diversi per impostazione predefinita, è possibile modificare le impostazioni a livello di organizzazione verranno classica interfaccia di amministrazione di SharePoint e facendo clic su **condivisione** nel riquadro sinistro. [Ulteriori informazioni](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Se una di queste opzioni non è disponibile o se si desidera che un tipo di collegamento diverso venga visualizzato per impostazione predefinita, è possibile modificare le impostazioni a livello di organizzazione accedendo alla nuova interfaccia di amministrazione di SharePoint e facendo clic su **condivisione** nel riquadro sinistro. [Altre informazioni](https://go.microsoft.com/fwlink/?linkid=866426)
   
-3. Per impostazione predefinita, **Consenti modifica** è attivata. Se si desidera che gli utenti di visualizzare solo i file, deselezionare la casella di controllo. 
+3. Per impostazione predefinita, **Consenti modifica** è attivata. Se si desidera consentire agli utenti di visualizzare solo i file, deselezionare la casella di controllo. 
     
-4. Immettere i nomi di persone che si desidera condividere con e un messaggio, se si desidera.
+4. Se lo si desidera, immettere i nomi delle persone con cui si desidera condividerlo e un messaggio.
     
 5. Fare clic su **Invia**. 
     

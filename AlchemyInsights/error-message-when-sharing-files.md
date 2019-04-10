@@ -1,5 +1,5 @@
 ---
-title: Messaggio di errore durante la condivisione di file
+title: Messaggio di errore durante la condivisione dei file
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/18/2018
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: da7d2ccfa2f5e74c76c530893fd4457e21a32280
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0ca85a43f21935708f8a9c689306ed3560627dea
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941260"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747386"
 ---
-# <a name="error-messages-when-sharing"></a>Messaggi di errore quando si condivide
+# <a name="error-messages-when-sharing"></a>Messaggi di errore durante la condivisione
 
-Se si riceve un messaggio di errore quando si tenta di condividere con un utente esterno, condivisione esterna probabilmente non è abilitata o di condivisione è impostata su non consentire il livello di condivisione l'utente ha tentato.
+Se si riceve un messaggio di errore durante il tentativo di condivisione con un utente esterno, è probabile che la condivisione esterna non sia abilitata o che la condivisione sia impostata in modo da non consentire il livello di condivisione che l'utente sta tentando.
   
-Nella * classica * amministrazione SharePoint Allinea al centro, fare clic su **condivisione** nel riquadro sinistro. Scegliere il livello di condivisione si desidera consentire. Verificare che condivisione esterna viene attivata per il sito. 
+Nella nuova interfaccia di amministrazione di SharePoint fare clic su **condivisione** nel riquadro sinistro. Scegliere il livello di condivisione che si desidera consentire. Verificare che la condivisione esterna sia attivata per il sito. 
   
-Se l'utente tenta di eseguire l'accesso riceve un messaggio di errore, provare le operazioni seguenti:
+Se l'utente che cerca di accedere riceve un messaggio di errore, provare a eseguire le operazioni seguenti:
   
-- Verificare che l'utente ha accettato l'invito alla condivisione che è stato inviato.
+- Verificare che l'utente abbia accettato l'invito di condivisione inviato.
     
-- Verificare che l'utente accetta l'invito con l'indirizzo di posta elettronica che è stato inviato a.
+- Verificare che l'utente accetti l'invito con l'indirizzo di posta elettronica a cui è stato inviato.
     
 

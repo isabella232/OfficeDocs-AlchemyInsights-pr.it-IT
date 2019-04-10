@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: af9b6c50430814a356a08e661a0bc4e237f4616e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 9dfd0a4c72a279970bc883aee1e999e2bf63cc61
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758470"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747278"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Attivazione o disattivazione della condivisione esterna per un sito di SharePoint
 
-Per una raccolta siti classica:
+Per un sito:
   
-1. Nel riquadro sinistro dell'interfaccia di amministrazione di SharePoint classico fare clic su **raccolte siti**.
+1. Nel riquadro sinistro della nuova interfaccia di amministrazione di SharePoint fare clic su **siti**.
     
 2. Selezionare il sito o i siti e sulla barra multifunzione fare clic su **condivisione**.
     
-Per impostazione predefinita, i nuovi siti creati dagli utenti (entrambi i siti del team che appartengono a gruppi e siti di comunicazione di Office 365) hanno la stessa impostazione di condivisione dell'impostazione a livello di organizzazione, a meno che l'impostazione a livello di organizzazione non consenta la condivisione dei file tramite collegamenti che non richiedere l'accesso. In questo caso, i siti consentono la condivisione con utenti esterni nuovi ed esistenti che effettuano l'accesso. Per modificare l'impostazione per siti specifici, utilizzare la nuova interfaccia di amministrazione di SharePoint (anteprima).
+Per impostazione predefinita, i nuovi siti creati dagli utenti (entrambi i siti del team che appartengono a gruppi e siti di comunicazione di Office 365) hanno la stessa impostazione di condivisione dell'impostazione a livello di organizzazione, a meno che l'impostazione a livello di organizzazione non consenta la condivisione dei file tramite collegamenti che non richiedere l'accesso. In questo caso, i siti consentono la condivisione con utenti esterni nuovi ed esistenti che effettuano l'accesso. Per modificare l'impostazione per siti specifici, utilizzare la nuova interfaccia di amministrazione di SharePoint.
   
 > [!NOTE]
 > L'impostazione di condivisione esterna per qualsiasi sito può essere più restrittiva rispetto all'impostazione a livello dell'organizzazione, ma non più permissiva rispetto all'impostazione a livello dell'organizzazione. 

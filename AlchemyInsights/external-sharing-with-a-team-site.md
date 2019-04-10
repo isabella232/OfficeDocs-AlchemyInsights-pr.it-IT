@@ -1,5 +1,5 @@
 ---
-title: External condivisione con un sito del Team
+title: Condivisione esterna con un sito del team
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/3/2019
@@ -8,27 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 8753cb5595607a7ea63e1861affcd16d61e7827e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cc5f917522f31349c48c8232496dc862d6769539
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936291"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747494"
 ---
-# <a name="external-sharing-with-a-team-site"></a>External condivisione con un sito del Team
+# <a name="external-sharing-with-a-team-site"></a>Condivisione esterna con un sito del team
 
-Per abilitare Condivisione delle informazioni per i siti del Team degli utenti esterni, eseguire la procedura seguente: 
+Per abilitare la condivisione degli utenti esterni per i siti del team, eseguire la procedura seguente: 
   
-1. Apri il **Moderno Admin Center** - se si sta effettuando l'interfaccia di amministrazione classica verrà visualizzato un pulsante di **provare a che ora** o **l'anteprima** in alto a destra. Verrà visualizzata l'interfaccia di amministrazione moderno. 
+1. Nella nuova interfaccia di amministrazione di SharePoint, fare clic su **siti attivi**.
   
-2. Selezionare **siti attivi**. 
+2. Selezionare un sito con un modello di **sito del team** . 
   
-3. Selezionare un sito con un modello di **Sito del Team** . 
+3. Selezionare il pulsante di **condivisione** dal menu in alto. 
   
-4. Selezionare il pulsante **condivisione** dal menu principale. 
+ **Nota**: per impostazione predefinita, quando viene creato un sito del team moderno, l'opzione di condivisione esterna viene impostata su utenti esterni nuovi ed esistenti. 
   
- **Nota**: per impostazione predefinita, quando viene creato un sito del Team moderno, External condivisione opzione sarà impostata New e gli utenti esterni esistenti. 
-  
- **Nota:** Se si dispone di più di un sito selezionato, sul pulsante **condivisione** apparirà disabilitato. Selezionare un solo sito. 
+ **Nota:** Se si dispone di più di un sito selezionato, il pulsante di **condivisione** verrà visualizzato disabilitato. Selezionare un solo sito. 
   
 
