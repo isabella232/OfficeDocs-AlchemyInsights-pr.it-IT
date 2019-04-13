@@ -11,27 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 500
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 5e87d3c7094b137ece751aed71cfd6b15777bfb8
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762536"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31857848"
 ---
 # <a name="app-passwords"></a>Password delle app
 
 La password dell'app è un codice che fornisce un'autorizzazione app o dispositivo per accedere all'account aziendale o dell'Istituto di istruzione di Office 365. Se l'account richiede l'autenticazione a più fattori (AMF) e l'app si connette all'account, è necessario generare una password dell'app in modo che l'app possa connettersi a Office 365. Ad esempio, Outlook 2016 e versioni precedenti di Outlook richiedono una password dell'app.
-  
- **Nota**: prima di provare a eseguire la procedura seguente, verificare con l'amministratore di Office 365 che l'AMF sia necessaria per il proprio account. Se non lo è, le opzioni descritte nei passaggi non saranno disponibili per l'utente.
-  
-1. Accedere a Office 365 con l'account aziendale o dell'Istituto di istruzione e la password.
-    
-2. Scegliere **Configura ora**.
-    
-3. Selezionare il metodo di autenticazione e seguire le istruzioni visualizzate.
-    
-4. Dopo aver verificato il metodo di contatto alternativo, scegliere **Avanti**.
-    
-5. Si otterrà una password per l'app che è possibile utilizzare con Outlook, Apple Mail e altre app che lo richiedono. Scegliere **copia** per copiare la password in modo che sia possibile incollarla altrove (non è necessario memorizzarla). 
-    
 
+ **Nota**: prima di provare a eseguire la procedura seguente, verificare con l'amministratore di Office 365 che l'AMF sia necessaria per il proprio account. Se non lo è, le opzioni descritte nei passaggi non saranno disponibili per l'utente.
+
+1. Accedere a Office 365 con l'account aziendale o dell'Istituto di istruzione e la password.
+
+2. Scegliere **Configura ora**.
+
+3. Selezionare il metodo di autenticazione e seguire le istruzioni visualizzate.
+
+4. Dopo aver verificato il metodo di contatto alternativo, scegliere **Avanti**.
+
+5. Si otterrà una password per l'app che è possibile utilizzare con Outlook, Apple Mail e altre app che lo richiedono. Scegliere **copia** per copiare la password in modo che sia possibile incollarla altrove (non è necessario memorizzarla).

@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1051
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: 1ced5ea839e65f8a46895848b9d74b56a1852dd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 79984ff02fcc6fe29e983793dbb5593874f0bd5c
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30778501"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858028"
 ---
 # <a name="47500-access-denied-please-try-again-later"></a>4.7.500 accesso negato, provare di nuovo in un secondo momento
 
 Questo errore si verifica quando il volume del traffico di posta elettronica proveniente dall'indirizzo IP di origine supera il limite in base alla reputazione (o alla mancanza di reputazione) dell'indirizzo IP di origine.
-  
-Il blocco della posta elettronica dall'indirizzo IP di origine scadrà entro un'ora. Se l'indirizzo IP di origine è un server di posta elettronica locale che appartiene all'utente, verificare la configurazione del connettore del flusso di posta. Se il comportamento continua per più di un'ora, contattare il supporto tecnico per richiedere un'eccezione per l'indirizzo IP di origine.
-  
 
+Il blocco della posta elettronica dall'indirizzo IP di origine scadrà entro un'ora. Se l'indirizzo IP di origine è un server di posta elettronica locale che appartiene all'utente, verificare la configurazione del connettore del flusso di posta. Se il comportamento continua per più di un'ora, contattare il supporto tecnico per richiedere un'eccezione per l'indirizzo IP di origine.
