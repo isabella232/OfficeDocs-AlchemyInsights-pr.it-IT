@@ -1,5 +1,5 @@
 ---
-title: Identificazione delle esenzioni effettuata per le cassette postali
+title: Identificazione delle esenzioni effettuate nelle cassette postali
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,28 +10,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
 ms.openlocfilehash: b993f28d9321805003f04a7eb168f81a7acd3030
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929308"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32413835"
 ---
-È necessario che viene **mantenuta** da una **conservazione** non sarà possibile identificare il contenuto? È necessario **sapere** dove si trova la conservazione per la **cassetta postale** ? Esenzioni ( *funzionalità conservazione* ) possono essere applicate utilizzando uno dei metodi seguenti in Office 365: 
+Si dispone di contenuto che viene **conservato** da un' **esenzione** che non è possibile identificare? È necessario **scoprire** dove si trova il blocco sulla **cassetta postale** ? Le esenzioni ( *funzionalità di conservazione* ) possono essere applicate da uno dei metodi seguenti in Office 365: 
   
 - Conservazione in caso di dispute 
     
-- esenzione di eDiscovery
+- eDiscovery Hold
     
 - Blocco sul posto
     
-- Criterio di conservazione di Office 365 
+- Criteri di conservazione di Office 365 
     
-  - Criteri di conservazione posizione specifica
+  - Criteri di conservazione delle posizioni specifiche
     
-  - Criteri di conservazione a livello di organizzazione
+  - Criteri di conservazione a livello dell'organizzazione
     
 - Etichette di Office 365
     
-Per identificare il tipo di conservazione viene applicato alla cassetta postale dell'utente, vedere [come identificare il tipo di archiviazione inserito in una cassetta postale di Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Per identificare il tipo di blocco applicato alla cassetta postale di un utente, vedere [come identificare il tipo di blocco posizionato su una cassetta postale di Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
   
 
