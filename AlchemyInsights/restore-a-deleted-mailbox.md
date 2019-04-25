@@ -10,24 +10,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
 ms.openlocfilehash: 9d6a232821884644db08160f18e1dfae2349c349
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911524"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422347"
 ---
-# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="3e3d4-102">Ripristinare una cassetta postale eliminata</span><span class="sxs-lookup"><span data-stu-id="3e3d4-102">Restore a deleted mailbox</span></span>
+# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="6849d-102">Ripristinare una cassetta postale eliminata</span><span class="sxs-lookup"><span data-stu-id="6849d-102">Restore a deleted mailbox</span></span>
 
-<span data-ttu-id="3e3d4-p101">Quando un utente perde le licenze di Exchange Online, delle relative cassette postali viene mantenuta per 30 giorni. Durante il periodo di 30 giorni, è possibile ripristinare la cassetta postale assegnando nuovamente la licenza per l'utente. Tuttavia, ciò è possibile solo per 30 giorni.</span><span class="sxs-lookup"><span data-stu-id="3e3d4-p101">When a user loses their Exchange Online license, their mailbox is retained for 30 days. During that 30-day period, the mailbox can be recovered by re-assigning the license to the user. However, this is only possible for 30 days.</span></span>
+<span data-ttu-id="6849d-103">Quando un utente perde la propria licenza di Exchange Online, la cassetta postale viene conservata per 30 giorni.</span><span class="sxs-lookup"><span data-stu-id="6849d-103">When a user loses their Exchange Online license, their mailbox is retained for 30 days.</span></span> <span data-ttu-id="6849d-104">Durante questo periodo di 30 giorni, la cassetta postale può essere recuperata riassegnando la licenza all'utente.</span><span class="sxs-lookup"><span data-stu-id="6849d-104">During that 30-day period, the mailbox can be recovered by re-assigning the license to the user.</span></span> <span data-ttu-id="6849d-105">Tuttavia, questo è possibile solo per 30 giorni.</span><span class="sxs-lookup"><span data-stu-id="6849d-105">However, this is only possible for 30 days.</span></span>
   
-<span data-ttu-id="3e3d4-106">Nel portale di amministrazione:</span><span class="sxs-lookup"><span data-stu-id="3e3d4-106">In the Admin Portal:</span></span>
+<span data-ttu-id="6849d-106">Nel portale di amministrazione:</span><span class="sxs-lookup"><span data-stu-id="6849d-106">In the Admin Portal:</span></span>
   
-- <span data-ttu-id="3e3d4-p102">Accedere a **utenti** \> **utenti attivi**. Selezionare l'utente in questione.</span><span class="sxs-lookup"><span data-stu-id="3e3d4-p102">Go to **Users** \> **Active users**. Select the user in question.</span></span>
+- <span data-ttu-id="6849d-107">Passare a **Utenti** \> **Utenti attivi**.</span><span class="sxs-lookup"><span data-stu-id="6849d-107">Go to **Users** \> **Active users**.</span></span> <span data-ttu-id="6849d-108">Selezionare l'utente in questione.</span><span class="sxs-lookup"><span data-stu-id="6849d-108">Select the user in question.</span></span>
     
-- <span data-ttu-id="3e3d4-109">Selezionare \* \* Modifica \* \* per modificare le licenze.</span><span class="sxs-lookup"><span data-stu-id="3e3d4-109">Select \*\* Edit \*\* to modify product licenses.</span></span> 
+- <span data-ttu-id="6849d-109">Selezionare \* \* modifica \* \* per modificare le licenze di prodotto.</span><span class="sxs-lookup"><span data-stu-id="6849d-109">Select \*\* Edit \*\* to modify product licenses.</span></span> 
     
-- <span data-ttu-id="3e3d4-110">Assegnare la licenza di Exchange Online all'utente e quindi selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="3e3d4-110">Assign the Exchange Online license to the user, and then select **Save**.</span></span>
+- <span data-ttu-id="6849d-110">Assegnare la licenza di Exchange Online all'utente, quindi selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="6849d-110">Assign the Exchange Online license to the user, and then select **Save**.</span></span>
     
-<span data-ttu-id="3e3d4-p103">Cassette postali condivise sono recuperabili anche entro 30 giorni. È possibile trovare le cassette postali condivise in **utenti** \> **gli utenti eliminati**. Cassette postali condivise non richiedono una licenza di Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="3e3d4-p103">Shared mailboxes are also recoverable within 30 days. You can find shared mailboxes under **Users** \> **Deleted users**. Shared mailboxes do not require an Exchange Online license.</span></span>
+<span data-ttu-id="6849d-111">Le cassette postali condivise sono recuperabili anche entro 30 giorni.</span><span class="sxs-lookup"><span data-stu-id="6849d-111">Shared mailboxes are also recoverable within 30 days.</span></span> <span data-ttu-id="6849d-112">È possibile trovare le cassette postali condivise in **utenti** \> **eliminati**gli utenti.</span><span class="sxs-lookup"><span data-stu-id="6849d-112">You can find shared mailboxes under **Users** \> **Deleted users**.</span></span> <span data-ttu-id="6849d-113">Le cassette postali condivise non richiedono una licenza di Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="6849d-113">Shared mailboxes do not require an Exchange Online license.</span></span>
   
 
