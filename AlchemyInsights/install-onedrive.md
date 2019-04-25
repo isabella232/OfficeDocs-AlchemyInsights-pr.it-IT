@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
 ms.openlocfilehash: ef4ddd1498fc499a169d9790e175913e144e3c2a
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968241"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410270"
 ---
-# <a name="install-onedrive"></a><span data-ttu-id="9f1ac-102">Installare OneDrive</span><span class="sxs-lookup"><span data-stu-id="9f1ac-102">Install OneDrive</span></span>
+# <a name="install-onedrive"></a><span data-ttu-id="ef819-102">Installare OneDrive</span><span class="sxs-lookup"><span data-stu-id="ef819-102">Install OneDrive</span></span>
 
-<span data-ttu-id="9f1ac-p101">Il client di sincronizzazione OneDrive è preinstallato Windows 10. Per installare OneDrive per Windows 7 o Mac o per ottenere l'app per dispositivi mobili di cellulare o Tablet PC, passare a [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="9f1ac-p101">The OneDrive sync client is preinstalled with Windows 10. To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
+<span data-ttu-id="ef819-103">Il client di sincronizzazione di OneDrive è preinstallato con Windows 10.</span><span class="sxs-lookup"><span data-stu-id="ef819-103">The OneDrive sync client is preinstalled with Windows 10.</span></span> <span data-ttu-id="ef819-104">Per installare OneDrive per Windows 7 o Mac oppure per ottenere l'app per dispositivi mobili per il telefono o tablet, andare [http://onedrive.com/download](http://onedrive.com/download)a.</span><span class="sxs-lookup"><span data-stu-id="ef819-104">To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
   
 

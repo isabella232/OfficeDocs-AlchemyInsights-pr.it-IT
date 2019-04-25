@@ -1,5 +1,5 @@
 ---
-title: Impostare OneDrive
+title: Configurare OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 6/8/2018
@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
 ms.openlocfilehash: 08523ecbf18fa7b846b714896e9268e09c125cc4
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968349"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421527"
 ---
-# <a name="set-up-onedrive"></a><span data-ttu-id="69721-102">Impostare OneDrive</span><span class="sxs-lookup"><span data-stu-id="69721-102">Set up OneDrive</span></span>
+# <a name="set-up-onedrive"></a><span data-ttu-id="26b56-102">Configurare OneDrive</span><span class="sxs-lookup"><span data-stu-id="26b56-102">Set up OneDrive</span></span>
 
-<span data-ttu-id="69721-103">È possibile [sincronizzare il OneDrive per i file di Business](https://go.microsoft.com/fwlink/?linkid=533375) o [sincronizzare i file di SharePoint](https://go.microsoft.com/fwlink/?linkid=871666) con il client di sincronizzazione OneDrive.</span><span class="sxs-lookup"><span data-stu-id="69721-103">You can [sync your OneDrive for Business files](https://go.microsoft.com/fwlink/?linkid=533375) or [sync SharePoint files](https://go.microsoft.com/fwlink/?linkid=871666) with the OneDrive sync client.</span></span> 
+<span data-ttu-id="26b56-103">È possibile [sincronizzare i file di OneDrive for business](https://go.microsoft.com/fwlink/?linkid=533375) o [sincronizzare i file di SharePoint](https://go.microsoft.com/fwlink/?linkid=871666) con il client di sincronizzazione di OneDrive.</span><span class="sxs-lookup"><span data-stu-id="26b56-103">You can [sync your OneDrive for Business files](https://go.microsoft.com/fwlink/?linkid=533375) or [sync SharePoint files](https://go.microsoft.com/fwlink/?linkid=871666) with the OneDrive sync client.</span></span> 
   
 

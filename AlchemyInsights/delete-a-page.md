@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c0fde770-ba1d-4aeb-8c9a-83b646fc80ce
 ms.openlocfilehash: a29d55b634cae68d859010c1099baab4c516c203
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754582"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405664"
 ---
-# <a name="delete-a-sharepoint-page"></a><span data-ttu-id="88278-102">Eliminare una pagina di SharePoint</span><span class="sxs-lookup"><span data-stu-id="88278-102">Delete a SharePoint page</span></span>
+# <a name="delete-a-sharepoint-page"></a><span data-ttu-id="11187-102">Eliminare una pagina di SharePoint</span><span class="sxs-lookup"><span data-stu-id="11187-102">Delete a SharePoint page</span></span>
 
-1. <span data-ttu-id="88278-103">Passare al sito in cui si trova la pagina.</span><span class="sxs-lookup"><span data-stu-id="88278-103">Go to the site where the page is.</span></span>
+1. <span data-ttu-id="11187-103">Passare al sito in cui si trova la pagina.</span><span class="sxs-lookup"><span data-stu-id="11187-103">Go to the site where the page is.</span></span>
     
-2. <span data-ttu-id="88278-104">Sul lato sinistro, fare clic su **contenuto del sito**.</span><span class="sxs-lookup"><span data-stu-id="88278-104">On the left side, click **Site Contents**.</span></span> 
+2. <span data-ttu-id="11187-104">Sul lato sinistro, fare clic su **contenuto del sito**.</span><span class="sxs-lookup"><span data-stu-id="11187-104">On the left side, click **Site Contents**.</span></span> 
     
-3. <span data-ttu-id="88278-105">Sul lato sinistro della pagina contenuto del sito fare clic su **pagine**.</span><span class="sxs-lookup"><span data-stu-id="88278-105">On the left side of the Site Contents page, click **Pages**.</span></span> 
+3. <span data-ttu-id="11187-105">Sul lato sinistro della pagina contenuto del sito fare clic su **pagine**.</span><span class="sxs-lookup"><span data-stu-id="11187-105">On the left side of the Site Contents page, click **Pages**.</span></span> 
     
-4. <span data-ttu-id="88278-106">Selezionare la pagina e quindi fare clic sui puntini di controllo **(...)** a destra della pagina.</span><span class="sxs-lookup"><span data-stu-id="88278-106">Select the page, and then click the **ellipses (...)** to the right of the page.</span></span> 
+4. <span data-ttu-id="11187-106">Selezionare la pagina e quindi fare clic sui puntini di controllo **(...)** a destra della pagina.</span><span class="sxs-lookup"><span data-stu-id="11187-106">Select the page, and then click the **ellipses (...)** to the right of the page.</span></span> 
     
-5. <span data-ttu-id="88278-107">Fare clic su \* \* Delete \* \*.</span><span class="sxs-lookup"><span data-stu-id="88278-107">Click \*\* Delete \*\*.</span></span> 
+5. <span data-ttu-id="11187-107">Fare clic su \* \* Delete \* \*.</span><span class="sxs-lookup"><span data-stu-id="11187-107">Click \*\* Delete \*\*.</span></span> 
     
 
