@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
 ms.openlocfilehash: 0a44dd8fad248086046f995b7e4f223249d1644c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30765524"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421604"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="fde2b-102">Impostare le password in modo che non scada mai</span><span class="sxs-lookup"><span data-stu-id="fde2b-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="f7aee-102">Impostare le password in modo che non scada mai</span><span class="sxs-lookup"><span data-stu-id="f7aee-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="fde2b-103">Impostare le password in modo che non scada mai dalla [privacy della sicurezza &amp; ](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="fde2b-103">Set passwords to never expire from [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="fde2b-104">Fare clic su "modifica" accanto a criteri password e quindi impostare il dispositivo di scorrimento su "on".</span><span class="sxs-lookup"><span data-stu-id="fde2b-104">Click "Edit" next to Password Policy, and turn the slider to "on".</span></span>
+<span data-ttu-id="f7aee-103">Impostare le password in modo che non scada mai dalla [privacy della sicurezza &amp; ](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="f7aee-103">Set passwords to never expire from [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="f7aee-104">Fare clic su "modifica" accanto a criteri password e quindi impostare il dispositivo di scorrimento su "on".</span><span class="sxs-lookup"><span data-stu-id="f7aee-104">Click "Edit" next to Password Policy, and turn the slider to "on".</span></span>
   
-<span data-ttu-id="fde2b-105">Per informazioni più dettagliate, vedere: [impostare i criteri di scadenza delle password per l'organizzazione](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span><span class="sxs-lookup"><span data-stu-id="fde2b-105">For more detailed information see: [Set the password expiration policy for your organization](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span></span>
+<span data-ttu-id="f7aee-105">Per informazioni più dettagliate, vedere: [impostare i criteri di scadenza delle password per l'organizzazione](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span><span class="sxs-lookup"><span data-stu-id="f7aee-105">For more detailed information see: [Set the password expiration policy for your organization](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span></span>
   
 
