@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
 ms.openlocfilehash: 39bd4634d31b8ff33081c10e566e05f7e1561404
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759910"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32403643"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a><span data-ttu-id="e7255-102">Come abilitare Microsoft to-do</span><span class="sxs-lookup"><span data-stu-id="e7255-102">How to enable Microsoft To-Do</span></span>
+# <a name="how-to-enable-microsoft-to-do"></a><span data-ttu-id="54de4-102">Come abilitare Microsoft to-do</span><span class="sxs-lookup"><span data-stu-id="54de4-102">How to enable Microsoft To-Do</span></span>
 
-<span data-ttu-id="e7255-103">Per poter utilizzare Microsoft to-do, un amministratore deve abilitare l'applicazione nell'account di ogni utente.</span><span class="sxs-lookup"><span data-stu-id="e7255-103">In order to use Microsoft To-Do, an admin must enable the app on each user's account.</span></span> <span data-ttu-id="e7255-104">Passare alla [pagina componenti &amp; aggiuntivi servizi](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) della pagina impostazioni di amministrazione di Office 365 per abilitare le attività da eseguire per ogni utente.</span><span class="sxs-lookup"><span data-stu-id="e7255-104">Go to the [Services &amp; Add-ins page](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) of the Office 365 admin settings page to enable To-Do for each user.</span></span> 
+<span data-ttu-id="54de4-103">Per poter utilizzare Microsoft to-do, un amministratore deve abilitare l'applicazione nell'account di ogni utente.</span><span class="sxs-lookup"><span data-stu-id="54de4-103">In order to use Microsoft To-Do, an admin must enable the app on each user's account.</span></span> <span data-ttu-id="54de4-104">Passare alla [pagina componenti &amp; aggiuntivi servizi](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) della pagina impostazioni di amministrazione di Office 365 per abilitare le attività da eseguire per ogni utente.</span><span class="sxs-lookup"><span data-stu-id="54de4-104">Go to the [Services &amp; Add-ins page](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) of the Office 365 admin settings page to enable To-Do for each user.</span></span> 
   
-<span data-ttu-id="e7255-105">Microsoft to-do utilizza le funzionalità di Exchange Online per sincronizzare e archiviare gli elementi da fare degli utenti.</span><span class="sxs-lookup"><span data-stu-id="e7255-105">Microsoft To-Do uses features in Exchange Online to sync and store users' to-do items.</span></span> <span data-ttu-id="e7255-106">Per poter utilizzare Microsoft to-do, un utente deve disporre di una cassetta postale di Exchange Online valida.</span><span class="sxs-lookup"><span data-stu-id="e7255-106">In order to use Microsoft To-Do, a user needs a valid Exchange Online mailbox.</span></span>
+<span data-ttu-id="54de4-105">Microsoft to-do utilizza le funzionalità di Exchange Online per sincronizzare e archiviare gli elementi da fare degli utenti.</span><span class="sxs-lookup"><span data-stu-id="54de4-105">Microsoft To-Do uses features in Exchange Online to sync and store users' to-do items.</span></span> <span data-ttu-id="54de4-106">Per poter utilizzare Microsoft to-do, un utente deve disporre di una cassetta postale di Exchange Online valida.</span><span class="sxs-lookup"><span data-stu-id="54de4-106">In order to use Microsoft To-Do, a user needs a valid Exchange Online mailbox.</span></span>
   
-<span data-ttu-id="e7255-107">Per ulteriori informazioni, vedere [Microsoft to-do Preview Administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span><span class="sxs-lookup"><span data-stu-id="e7255-107">For additional information, see [Microsoft To-Do Preview administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span></span>
+<span data-ttu-id="54de4-107">Per ulteriori informazioni, vedere [Microsoft to-do Preview Administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span><span class="sxs-lookup"><span data-stu-id="54de4-107">For additional information, see [Microsoft To-Do Preview administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span></span>
   
- <span data-ttu-id="e7255-108">**Nota**: se si riceve un errore 501 quando si tenta di eseguire [http://todo.microsoft.com](http://todo.microsoft.com)l'accesso [https://to-do.microsoft.com](https://to-do.microsoft.com), provare.</span><span class="sxs-lookup"><span data-stu-id="e7255-108">**Note**: If you receive a 501 error when trying to log into [http://todo.microsoft.com](http://todo.microsoft.com), try [https://to-do.microsoft.com](https://to-do.microsoft.com).</span></span>
+ <span data-ttu-id="54de4-108">**Nota**: se si riceve un errore 501 quando si tenta di eseguire [http://todo.microsoft.com](http://todo.microsoft.com)l'accesso [https://to-do.microsoft.com](https://to-do.microsoft.com), provare.</span><span class="sxs-lookup"><span data-stu-id="54de4-108">**Note**: If you receive a 501 error when trying to log into [http://todo.microsoft.com](http://todo.microsoft.com), try [https://to-do.microsoft.com](https://to-do.microsoft.com).</span></span>
   
 

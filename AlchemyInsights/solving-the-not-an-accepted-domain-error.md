@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
 ms.openlocfilehash: c202527610f349bef1129b1307f7cb10c13f2165
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404499"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374220"
 ---
-# <a name="got-a-parameter-cannot-be-found-error"></a><span data-ttu-id="dbfd4-102">È stato rilevato un errore ' parametro non trovato '?</span><span class="sxs-lookup"><span data-stu-id="dbfd4-102">Got a 'Parameter cannot be found' error?</span></span>
+# <a name="got-a-parameter-cannot-be-found-error"></a><span data-ttu-id="3f140-102">È stato rilevato un errore ' parametro non trovato '?</span><span class="sxs-lookup"><span data-stu-id="3f140-102">Got a 'Parameter cannot be found' error?</span></span>
 
-<span data-ttu-id="dbfd4-103">Se viene visualizzato il messaggio di errore **"non è possibile trovare un parametro che corrisponda al nome del parametro" EmailAddresses "**, significa che è necessario un po' di tempo per Office 365 per completare la configurazione del tenant o del dominio personalizzato, se ne è stato aggiunto di recente uno.</span><span class="sxs-lookup"><span data-stu-id="dbfd4-103">If you get the error message **"A parameter cannot be found that matches parameter name 'EmailAddresses"**, it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one.</span></span> 
+<span data-ttu-id="3f140-103">Se viene visualizzato il messaggio di errore **"non è possibile trovare un parametro che corrisponda al nome del parametro" EmailAddresses "**, significa che è necessario un po' di tempo per Office 365 per completare la configurazione del tenant o del dominio personalizzato, se ne è stato aggiunto di recente uno.</span><span class="sxs-lookup"><span data-stu-id="3f140-103">If you get the error message **"A parameter cannot be found that matches parameter name 'EmailAddresses"**, it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one.</span></span> 
   
-<span data-ttu-id="dbfd4-p101">Il processo di installazione può richiedere fino a 4 ore per il completamento. Attendere un po' di tempo, quindi il processo di configurazione deve terminare e quindi riprovare.</span><span class="sxs-lookup"><span data-stu-id="dbfd4-p101">The setup process can take up to 4 hours to complete. Wait a while so the set up process has time to finish, and then try again.</span></span>
+<span data-ttu-id="3f140-104">Per completare la configurazione possono essere necessarie fino a 4 ore.</span><span class="sxs-lookup"><span data-stu-id="3f140-104">The setup process can take up to 4 hours to complete.</span></span> <span data-ttu-id="3f140-105">Attendere il tempo necessario per il completamento della procedura e quindi riprovare.</span><span class="sxs-lookup"><span data-stu-id="3f140-105">Wait a while so the set up process has time to finish, and then try again.</span></span>
   
 
