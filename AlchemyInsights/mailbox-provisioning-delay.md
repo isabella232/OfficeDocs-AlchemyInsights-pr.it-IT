@@ -1,5 +1,5 @@
 ---
-title: Ritardo di provisioning delle cassette postali
+title: Ritardo per il provisioning delle cassette postali
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
 ms.openlocfilehash: 1dd202626bbf7c7fd9169867f38f3cf7a96a660d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937048"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409442"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Creazione della cassetta postale dell'utente
+# <a name="your-users-mailbox-is-being-created"></a>La cassetta postale dell'utente è in fase di creazione
 
-È possibile richiedere un'ora prima che una nuova cassetta postale è pronta per l'utilizzo.
+L'utilizzo di una nuova cassetta postale può richiedere fino a un'ora.
   
-Cassetta postale dell'utente è stato "preparazione" per più di un'ora, è possibile provare a eliminare e ricreare l'utente o utilizzare l'opzione "possiamo chiamare l'utente" per parlare con un responsabile del supporto tecnico.
+Se la cassetta postale di un utente è stata "prepararsi" per più di un'ora, è possibile provare a eliminare e quindi ricreare l'utente oppure utilizzare l'opzione "Let us Call" per comunicare con un tecnico di supporto.
   
 

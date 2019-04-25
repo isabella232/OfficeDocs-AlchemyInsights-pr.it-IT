@@ -1,5 +1,5 @@
 ---
-title: Creare una cassetta postale condivisa
+title: Creazione di una cassetta postale condivisa
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
 ms.openlocfilehash: 96c69b3e6bf64a0db9517059864c4a8c0718335c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917824"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407258"
 ---
-# <a name="create-a-shared-mailbox"></a>Creare una cassetta postale condivisa
+# <a name="create-a-shared-mailbox"></a>Creazione di una cassetta postale condivisa
 
-Una cassetta postale condivisa consente più di una persona a inviare e ricevere posta elettronica per un alias, ad esempio **sales@contoso.com**, senza assegnazione licenza diversa.
+Una cassetta postale condivisa consente a più di una persona di inviare e ricevere messaggi di posta elettronica per un alias, come **sales@contoso.com**, senza assegnare un'altra licenza.
   
 Per ulteriori informazioni, vedere [creare una cassetta postale condivisa](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) . 
   

@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
 ms.openlocfilehash: b526a87740c44d2b247c202a92d9c35f85383500
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923342"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407582"
 ---
 # <a name="create-a-communication-site"></a>Creare un sito di comunicazione
 
-Per creare un sito di comunicazione, eseguire le operazioni seguenti: 
+Per creare un sito di comunicazione, eseguire i passaggi seguenti: 
   
-1. Nell'angolo superiore sinistro della pagina, fare clic sul servizio di avvio di app e selezionare le sezioni di SharePoint. Se non viene visualizzata la porzione di SharePoint, fare clic su **siti** o **tutte le app** se SharePoint non è visibile. 
+1. Nell'angolo in alto a sinistra della pagina, fare clic sull'icona di avvio delle app e selezionare il riquadro di SharePoint. Se non si Visualizza il riquadro di SharePoint, fare clic su **siti** o su **tutte le app** se SharePoint non è visibile. 
     
-2. Nella parte superiore della pagina di SharePoint, fare clic su **Crea sito** e scegliere **Sito di comunicazione**. Seguire le istruzioni della procedura guidata Creazione del sito. 
+2. Nella parte superiore della pagina di SharePoint fare clic su **Crea sito** e scegliere **sito di comunicazione**. Attenersi alla procedura descritta nella procedura guidata per la creazione del sito. 
     
- **Nota**: se non viene visualizzata l'opzione per **creare siti**, potrebbe venire disabilitata creazione siti in modalità self-service in Office 365. Contattare l'utente di amministrazione di Office 365 all'interno dell'organizzazione per creare un sito del team. Se si è un amministratore tenant, vedere [gestire creazione siti in SharePoint Online per abilitare la creazione siti in modalità self-service per l'organizzazione.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Nota**: se non si vede l'opzione per **creare sito**, la creazione di siti in modalità self-service potrebbe essere disattivata in Office 365. Contattare la persona che amministra Office 365 nell'organizzazione per creare un sito del team. Se si è un amministratore tenant, vedere [gestire la creazione di siti in SharePoint Online per abilitare la creazione di siti in modalità self-service per l'organizzazione.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Nota:** Se si sta tentando di creare un sito di comunicazione e l'URL è Guida accodato con numeri casuali, è probabile un sito con tale stesso URL esiste già nell'ambiente SharePoint o è stato eliminato ed è ancora presente in siti eliminati (Cestino). Utilizzare [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) per valutare il Cestino e [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) per rimuovere il sito dal Cestino. 
+ **Nota:** Se si sta tentando di creare un sito di comunicazione e l'URL viene accodato a numeri casuali, è probabile che un sito con lo stesso URL esista già nell'ambiente di SharePoint o sia stato eliminato e che esista ancora nei siti eliminati (Cestino). Consente [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) di valutare il cestino e [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) di rimuovere il sito dal Cestino. 
   
 
