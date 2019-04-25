@@ -9,28 +9,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
 ms.openlocfilehash: 02f824897b0163a7577e93451d6642464966594d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904684"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417694"
 ---
 # <a name="network-migration"></a>Migrazione di rete
 
-Il tenant di Office 365 è probabilmente associato a più reti di Yammer in un 1 tenant: configurazione di reti molti. Avviare il 16 ottobre 2018 Yammer non supporta più più reti Yammer associate a un tenant di Office 365. È possibile eseguire una migrazione di rete da ottenere una configurazione ottimale 1:1.
+È possibile che il tenant di O365 sia associato a più reti di Yammer in un 1 tenant: molte configurazioni della rete. A partire dal 16 ottobre 2018, Yammer non supporterà più reti Yammer associate a un tenant di Office 365. È possibile eseguire una migrazione di rete per accedere a una configurazione 1:1 preferita.
   
-- Per visualizzare un elenco delle reti associato tenant, eseguire l'accesso a Yammer come un amministratore globale di Office 365 e passare **L'amministratore di rete**, quindi **La migrazione di rete**. Scegliere **Avanti**.
+- Per visualizzare un elenco delle reti associate al tenant, eseguire l'accesso a Yammer come amministratore globale di Office 365 e passare all'amministratore di **rete**, quindi eseguire la **migrazione di rete**. Scegliere **Avanti**.
     
-- Se viene visualizzata più reti elencate nel passaggio 2 di 3, è necessario più reti Yammer associate il tenant di Office 365.
+- Se vengono visualizzate più reti elencate nel passaggio 2 di 3, si dispone di più reti Yammer associate al tenant di O365.
     
-- Per correggere la configurazione di una configurazione 1:1, continuare a utilizzare lo strumento di migrazione di rete.
+- Per correggere la configurazione in una configurazione 1:1, continuare a utilizzare lo strumento di migrazione della rete.
     
-- Per ulteriori informazioni sulla migrazione di rete, vedere [la migrazione di rete: consolidare più reti Yammer](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+- Per ulteriori informazioni sulla migrazione di rete [, vedere Migrazione di rete: consolidare più reti Yammer](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
     
-Nota:
+Tenere presente quanto segue:
   
-- **Solo attivo esegue la migrazione di una migrazione di rete e gli utenti in sospeso.** Insieme di utenti attivi, informazioni degli utenti, ad esempio nome e il profilo immagine, anche la migrazione. Qualsiasi contenuto di rete, inclusi i gruppi, non viene migrata. 
+- **Una migrazione di rete esegue la migrazione solo degli utenti attivi e in sospeso.** Insieme agli utenti attivi, vengono migrate anche le informazioni degli utenti, ad esempio il nome e l'immagine del profilo. Non viene eseguita la migrazione di qualsiasi contenuto di rete, inclusi i gruppi. 
     
-- **La migrazione di rete non possono essere invertita.** Non sarà in grado di accedere alla rete della filiale e il relativo contenuto dopo la migrazione. Prima di una migrazione, pertanto si desidera pianificare con attenzione. 
+- **La migrazione di rete non può essere annullata.** Non sarà possibile accedere alla rete sussidiaria e al relativo contenuto dopo la migrazione. Pertanto, prima di prendere in considerazione una migrazione, è necessario pianificare attentamente. 
     
 

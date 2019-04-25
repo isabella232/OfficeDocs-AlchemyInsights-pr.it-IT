@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
 ms.openlocfilehash: 3cdf5909595b5b1fac9aeb00865546c1dcff5f09
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937480"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372168"
 ---
-# <a name="user-profile-and-photo-synchronization"></a>Sincronizzazione di foto e i profili utente
+# <a name="user-profile-and-photo-synchronization"></a>Sincronizzazione dei profili utente e delle foto
 
- **Sincronizzazione dei profili foto** - degli utenti è possono notare che le foto dei profili non viene sincronizzato a SharePoint. In alternativa, potrebbero avere tentato di aggiornare le foto dei profili e la foto viene ancora visualizzato come foto precedente. Per garantire che la foto dei profili viene illustrato come previsto, l'utente sarà necessario avviare la sincronizzazione di foto. 
+ **Sincronizzazione foto profilo** : gli utenti possono notare che la foto del profilo non è in grado di eseguire la sincronizzazione con SharePoint. In alternativa, possono aver tentato di aggiornare la foto del profilo e la foto viene visualizzata ancora come vecchia foto. Per assicurarsi che la foto del profilo venga visualizzata come previsto, l'utente dovrà avviare una sincronizzazione delle foto. 
   
-Per ulteriori informazioni sul processo di sincronizzazione di foto, vedere [informazioni sulla sincronizzazione dei profili immagine in Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
+Per ulteriori informazioni sul processo di sincronizzazione delle foto, vedere [informazioni sulla sincronizzazione delle immagini dei profili in Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
   
-- **Sincronizzazione dei profili** - il tempo necessario per eseguire una sincronizzazione dei profili dipende dal numero di modifiche (lavoro) è il processo di importazione Active Directory per processo. Se si apportano numerose modifiche, il processo timer è una quantità elevata di operazioni da eseguire e richiede più tempo per le modifiche apportate in applicazione profili utente. Se il processo timer è un piccolo volume di operazioni da eseguire, le modifiche avranno effetto nella molto più rapidamente dell'applicazione profilo utente. 
+- **Sincronizzazione dei profili** : il tempo necessario per completare una sincronizzazione dei profili dipende dal numero di modifiche (lavoro) che il processo di importazione degli annunci deve elaborare. Se sono presenti molte modifiche, il processo timer ha molto lavoro da fare e richiederà più tempo affinché le modifiche vengano riflesse nell'applicazione profilo utente. Se il processo timer ha un volume minimo di lavoro da eseguire, le modifiche verranno riflesse nell'applicazione profilo utente molto più velocemente. 
   
-Per ulteriori informazioni sul processo di sincronizzazione dei profili, vedere [informazioni sulla sincronizzazione dei profili utente in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
+Per ulteriori informazioni sul processo di sincronizzazione del profilo, vedere [informazioni sulla sincronizzazione dei profili utente in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Update Profile in Office approfondire** - Delve è possibile gestire il proprio profilo di Office 365. Per ulteriori informazioni, vedere [visualizzare e aggiornare il profilo di Office approfondire](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- L' **aggiornamento del profilo in Office approfondire** gli utenti può gestire il profilo di Office 365. Per ulteriori informazioni, vedere [View and Update your profile in Office approfondire](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

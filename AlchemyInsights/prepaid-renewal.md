@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
 ms.openlocfilehash: 2ebf127b0c66b34e2a9cc492542c48e2f854c3c9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767072"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371880"
 ---
 # <a name="prepaid-renewal"></a>Rinnovo prepagato
 
-1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione** \> **Abbonamenti**.
+1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054)** o scegliere Fatturazione** \> **Abbonamenti**.
     
 2. Scegliere l'abbonamento prepagato che si desidera estendere e quindi fare clic su **Estendi**.
     

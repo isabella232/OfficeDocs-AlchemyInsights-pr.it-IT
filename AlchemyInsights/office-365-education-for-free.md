@@ -1,5 +1,5 @@
 ---
-title: Liberare formazione per Office 365
+title: Office 365 Education gratuitamente
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
 ms.openlocfilehash: 276ae2ea1f610a996a6a2fba3bdaba630823cc08
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928156"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389999"
 ---
-# <a name="office-365-education-for-free"></a>Liberare formazione per Office 365
+# <a name="office-365-education-for-free"></a>Office 365 Education gratuitamente
 
-[Liberare formazione per Office 365](https://products.office.com/student/office-in-education?ms.officeurl=students)
+[Office 365 Education gratuitamente](https://products.office.com/student/office-in-education?ms.officeurl=students)
   
-Non è una versione di prova! Studenti e insegnanti sono quindi idonei per Office 365 Education, che include Word, Excel, PowerPoint, OneNote e ora Microsoft Teams, nonché strumenti aggiuntivi in classe.
+Non si tratta di un processo. Gli studenti e gli insegnanti sono idonei per Office 365 Education, che include Word, Excel, PowerPoint, OneNote e ora Microsoft teams, oltre a strumenti aggiuntivi per le aule.
   
 

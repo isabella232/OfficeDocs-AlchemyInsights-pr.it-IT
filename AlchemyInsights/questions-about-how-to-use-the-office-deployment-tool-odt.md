@@ -1,5 +1,5 @@
 ---
-title: Domande sull'utilizzo di Office Deployment Tool (ODT)
+title: Domande su come utilizzare lo strumento di distribuzione di Office (ODT)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
 ms.openlocfilehash: e91d40f872dd401ee210ac05eb39d64b6fb88027
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925348"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371772"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Domande sull'utilizzo di Office Deployment Tool (ODT)
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Domande su come utilizzare lo strumento di distribuzione di Office (ODT)
 
 Scaricare lo Strumento di distribuzione di Office dall'[Area download Microsoft](http://go.microsoft.com/fwlink/p/?LinkID=626065).
   
 Dopo il download del file, eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setup.exe) e un file di configurazione di esempio (configuration.xml).
   
- **Per escludere o rimuovere prodotti Office 365 ProPlus dal computer client:**
+ **Per escludere o rimuovere i prodotti di Office 365 ProPlus dai computer client:**
   
 Durante l'installazione di Office 365 ProPlus, è possibile escludere prodotti specifici. A questo scopo, seguire la procedura per l'installazione di Office con ODT, ma includere l'elemento ExcludeApp nel file di configurazione. Ad esempio, il file di configurazione installa tutti i prodotti Office 365 ProPlus ad eccezione di Publisher:
   

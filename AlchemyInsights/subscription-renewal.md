@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
 ms.openlocfilehash: 22831d13132fc004bd8f38218e4e598f1ab5679c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767576"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370078"
 ---
 # <a name="subscription-recurring-billing"></a>Fatturazione ricorrente della sottoscrizione
 
 Se si desidera sapere quando verrà addebitato un abbonamento mensile o annuale (se la **fatturazione ricorrente** è attivata) o scade (se la **fatturazione ricorrente** è disattivata): 
   
-1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione** \> **Abbonamenti**.
+1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054)** o scegliere Fatturazione** \> **Abbonamenti**.
     
 2. Scegliere l'abbonamento per cui si desidera sapere di più.
     
