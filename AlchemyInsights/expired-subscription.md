@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
 ms.openlocfilehash: 3a2f33686c2d9fd6803c0a5fc208a2e6bd80cd4b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757498"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402101"
 ---
 # <a name="expired-subscription"></a>Sottoscrizione scaduta
 
@@ -24,7 +24,7 @@ Sembra che si disponga di una o più sottoscrizioni scadute. Se si desidera cont
   
  **Riattivare**
   
-1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione** \> **Abbonamenti**.
+1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054)** o scegliere Fatturazione** \> **Abbonamenti**.
     
 2. Scegliere la sottoscrizione da riattivare.
     
