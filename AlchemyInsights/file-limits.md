@@ -1,5 +1,5 @@
 ---
-title: Limiti dei file
+title: Limiti relativi ai file
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
 ms.openlocfilehash: 3735499b4548f91455f787a60492267d68f2b47d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926824"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401903"
 ---
-# <a name="file-upload-limits-in-sharepoint-online"></a>Limiti per il caricamento dei file in SharePoint Online
+# <a name="file-upload-limits-in-sharepoint-online"></a>Limiti relativi al caricamento dei file in SharePoint Online
 
-- Una raccolta può avere fino a 30 milioni di file e cartelle.
+- Una raccolta può avere fino a 30 milioni file e cartelle.
     
-- La lunghezza totale dell'URL, incluso il nome di file non può superare 400 caratteri.
+- La lunghezza totale dell'URL, incluso il nome del file, non può superare 400 caratteri.
     
-- Ogni necessario file essere inferiore a 15 GB. File allegati agli elementi di elenco possono essere fino a 250 MB.
+- Ogni file poltiglia deve essere inferiore a 15 GB. I file allegati alle voci di elenco possono essere di dimensioni fino a 250 MB.
     
-- Per ottenere prestazioni ottimali la sincronizzazione con il nuovo client di sincronizzazione OneDrive, è consigliabile archiviare i file non più di 100.000 in una raccolta. 
+- Per la sincronizzazione delle prestazioni ottimali con il nuovo client di sincronizzazione di OneDrive, è consigliabile archiviare non più di 100.000 file in una raccolta. 
     
-[Caratteri non possono essere utilizzati nei nomi di file](https://go.microsoft.com/fwlink/?linkid=866430)
+[Caratteri che non possono essere utilizzati nei nomi di file](https://go.microsoft.com/fwlink/?linkid=866430)
   
-[Tipi di file che non è possibile aggiungere a un elenco o raccolta](https://go.microsoft.com/fwlink/?linkid=273757)
+[Tipi di file che non possono essere aggiunti a un elenco o a una raccolta](https://go.microsoft.com/fwlink/?linkid=273757)
   
-[Ulteriori informazioni sui limiti di SharePoint Online](https://go.microsoft.com/fwlink/?linkid=271273)
+[Altre informazioni sui limiti di SharePoint Online](https://go.microsoft.com/fwlink/?linkid=271273)
   
 

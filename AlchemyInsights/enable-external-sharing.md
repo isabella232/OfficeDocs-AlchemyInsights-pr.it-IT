@@ -1,5 +1,5 @@
 ---
-title: Abilita condivisione esterna
+title: Abilitare la condivisione esterna
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/4/2018
@@ -9,34 +9,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
 ms.openlocfilehash: e7b1b58f0b5bf73d50721cf2715b366280867431
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940540"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404053"
 ---
-# <a name="enable-external-sharing"></a>Abilita condivisione esterna
+# <a name="enable-external-sharing"></a>Abilitare la condivisione esterna
 
- **Come verificare che la condivisione è abilitato:**
+ **Come garantire che la condivisione sia abilitata:**
   
 - **Condivisione globale**
     
-  - Portale -\> esterno condivisione -\> consentono di panoramica della condivisione - siti, gli utenti esterni di accedere ai siti: via
+  - Portale-\> condivisione esterna-\> Panoramica della condivisione-siti, consentire agli utenti esterni di accedere ai siti: on
     
-  - Portale -\> esterno condivisione -\> siti - casella di controllo "Comunicare le attività esterna accedere ai siti"
+  - Portale-\> condivisione esterna-\> siti-"Consenti agli utenti esterni di accedere ai siti"
     
-- **Condivisione amministrativa - interfaccia di amministrazione di SharePoint**
+- **Condivisione amministrativa-interfaccia di amministrazione di SharePoint**
     
-- Condivisione esterna - verificare che siano selezionata una delle due opzioni:
+- Condivisione esterna-verificare che sia selezionata una delle due opzioni seguenti:
     
-  - "Consentire agli utenti esterni che accettare condivisione inviti e accedere come utenti autenticati"
+  - "Consenti agli utenti esterni che accettano gli inviti di condivisione e accedi come utenti autenticati"
     
-  - "Consenti entrambi gli utenti esterni che accettano la condivisione di inviti e per i collegamenti guest anonimi"
+  - "Consenti agli utenti esterni che accettano gli inviti di condivisione e i collegamenti guest anonimi"
     
 - **Singole raccolte siti**
     
-  - Raccolte - raccolta siti selezionare in questione, siti e quindi fare clic su condivisione, nella barra multifunzione -\> verificare che siano selezionate entrambe le opzioni di condivisione.
+  - Raccolte siti-selezionare raccolta siti in questione e quindi fare clic su condivisione-dalla barra multifunzione-\> assicurarsi che le opzioni di condivisione siano selezionate.
     
-Per ulteriori informazioni su come attivare la condivisione esterna, vedere [attivare esterno condivisione attivato o disattivato per SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Per ulteriori informazioni su come abilitare la condivisione esterna, vedere [attivazione o disattivazione della condivisione esterna per SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

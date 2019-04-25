@@ -1,5 +1,5 @@
 ---
-title: Correggere i problemi di caricamento dei file per OneDrive
+title: Risolvere i problemi di caricamento dei file in OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 5/18/2018
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
 ms.openlocfilehash: 018efff5a881f4825659f4d236fd7f87ef84def5
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968313"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401224"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>Correggere i problemi di caricamento dei file per OneDrive
+# <a name="fix-problems-uploading-files-to-onedrive"></a>Risolvere i problemi di caricamento dei file in OneDrive
 
-Se non si carica un file, provare questo:
+Provare a eseguire questa operazione se non si carica un file:
   
-- Rinominare il file e riprovare. Alcuni caratteri nei nomi di file e i nomi di file non sono consentiti. 
+- Rinominare il file e riprovare. Alcuni nomi di file e caratteri nei nomi di file non sono consentiti. 
     
-- Se si è in corso di sincronizzazione del file, viene recuperato dalla cartella di OneDrive (ad esempio, spostarlo sul desktop), e quando la OneDrive viene visualizzato lo stato della sincronizzazione come "Aggiornato" spostarlo di nuovo. 
+- Se si sta sincronizzando il file, spostarlo dalla cartella OneDrive, ad esempio spostarlo sul desktop, e quando lo stato di sincronizzazione di OneDrive viene visualizzato come "aggiornato", spostarlo di nuovo. 
     
-[Ulteriori suggerimenti sulla risoluzione dei problemi](https://go.microsoft.com/fwlink/?linkid=873155)
+[Ulteriori suggerimenti per la risoluzione dei problemi](https://go.microsoft.com/fwlink/?linkid=873155)
   
 
