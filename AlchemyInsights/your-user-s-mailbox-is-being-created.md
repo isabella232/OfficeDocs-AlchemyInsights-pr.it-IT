@@ -1,5 +1,5 @@
 ---
-title: Creazione della cassetta postale dell'utente
+title: La cassetta postale dell'utente è in fase di creazione
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 3/27/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.openlocfilehash: 45684b414ee634c1e879a61c260dcdeff27a03be
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918508"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420668"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Creazione delle cassette postali degli utenti
+# <a name="your-users-mailbox-is-being-created"></a>La cassetta postale degli utenti è in fase di creazione
 
-Può richiedere fino a 24 ore prima di una nuova cassetta postale è pronta per l'utilizzo.
+È possibile richiedere fino a 24 ore prima che una nuova cassetta postale sia pronta per l'uso.
   
-Se la cassetta postale utente è stato "preparazione di" per più di un'ora, provare a rimuovere la licenza di Exchange da parte dell'utente e aggiungerla nuovamente il o utilizzare l'opzione "possiamo chiamare l'utente" per parlare con un responsabile del supporto tecnico.
+Se la cassetta postale dell'utente è stata "prepararsi" per più di un'ora, provare a rimuovere la licenza di Exchange dall'utente e aggiungerla nuovamente, oppure utilizzare l'opzione "Let us Call You" per comunicare con un tecnico del supporto.
   
 

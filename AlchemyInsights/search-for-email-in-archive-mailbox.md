@@ -1,5 +1,5 @@
 ---
-title: Ricerca per la posta elettronica nella cassetta postale di archiviazione
+title: Ricerca di messaggi di posta elettronica nella cassetta postale di archiviazione
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
 ms.openlocfilehash: 5ea256a03def0cf07503efc77885dc3ff7a67b66
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915438"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422063"
 ---
-Quando una cassetta postale di archiviazione è abilitata, è possibile utilizzare **eDiscovery ricerca e l'esportazione** per individuare il contenuto nella cassetta postale principale sia di archivio. Per informazioni sull'utilizzo di **eDiscovery Search esportare** per tale contenuto, seguire i passaggi indicati [di seguito](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Quando una cassetta postale di archiviazione è abilitata, è possibile utilizzare **eDiscovery Search and Export** per individuare il contenuto sia nella cassetta postale principale che in quella di archiviazione. Per informazioni sull'utilizzo di **eDiscovery Search Export** per trovare il contenuto, seguire la procedura descritta di [seguito](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   
-È inoltre possibile mantenere il contenuto mediante l'aggiunta della cassetta postale di un criterio di conservazione. Il contenuto verrà inserito nella cassetta postale il primario e Archive di un'esenzione. Per ulteriori informazioni sulla creazione di criteri di conservazione per mantenere emailsee i passaggi indicati [di seguito](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
+È inoltre possibile conservare il contenuto aggiungendo la cassetta postale a un criterio di conservazione. In questo modo il contenuto verrà posizionato sia nella cassetta postale principale che in quella di archiviazione. Per ulteriori informazioni sulla creazione di criteri di conservazione per mantenere i messaggi di posta elettronica nella procedura descritta di [seguito](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
   
 

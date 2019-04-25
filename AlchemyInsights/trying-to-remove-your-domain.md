@@ -1,5 +1,5 @@
 ---
-title: Tenta di rimuovere il dominio?
+title: Si tenta di rimuovere il dominio?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.openlocfilehash: 0dcb3505c38b550fac2d22ce027f16179922012a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905903"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390539"
 ---
-# <a name="trying-to-remove-your-domain"></a>Tenta di rimuovere il dominio?
+# <a name="trying-to-remove-your-domain"></a>Si tenta di rimuovere il dominio?
 
-Per rimuovere il dominio da Office 365, seguire i passaggi descritti in questo articolo: [eliminazione di un dominio da Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+Per rimuovere il dominio da Office 365, seguire la procedura descritta in questo articolo: [rimuovere un dominio da office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
   
-È necessario aggiornare utenti o gruppi assegnati a tale nome di dominio prima di rimuovere il dominio.
+Sarà necessario aggiornare gli utenti o i gruppi assegnati al nome di dominio prima di rimuovere il dominio.
   
-Per altre soluzioni comuni, [controllare le domande frequenti su domini](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) . 
+[Consultare le domande frequenti sui domini](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) per altre soluzioni comuni. 
   
 

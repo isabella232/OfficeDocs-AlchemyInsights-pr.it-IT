@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935605"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405628"
 ---
 # <a name="delete-a-sharepoint-site"></a>Eliminare un sito di SharePoint
 **Eliminare siti dalla nuova interfaccia di amministrazione di SharePoint** Utilizzando la nuova interfaccia di amministrazione di SharePoint, è possibile eliminare sia i siti classici che quelli moderni. Selezionare **siti attivi**, selezionare il sito, quindi selezionare **Elimina**. Per [visualizzare e ripristinare i siti eliminati nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selezionare **siti eliminati**. Per altre informazioni, vedere [eliminare un sito nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
