@@ -1,5 +1,5 @@
 ---
-title: Soluzioni per problemi durante l'installazione di Office
+title: Soluzioni per i problemi durante l'installazione di Office
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -10,31 +10,31 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
 ms.openlocfilehash: 7a7148a1c2d0e812ab92a5132b8b4034031f8fc8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942376"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370133"
 ---
-# <a name="solutions-for-issues-while-installing-office"></a><span data-ttu-id="8341c-102">Soluzioni per problemi durante l'installazione di Office</span><span class="sxs-lookup"><span data-stu-id="8341c-102">Solutions for issues while installing Office</span></span>
+# <a name="solutions-for-issues-while-installing-office"></a><span data-ttu-id="483c0-102">Soluzioni per i problemi durante l'installazione di Office</span><span class="sxs-lookup"><span data-stu-id="483c0-102">Solutions for issues while installing Office</span></span>
 
 
-<span data-ttu-id="8341c-103">Provare a eseguire una di queste soluzioni per correggere l'errore di Office:</span><span class="sxs-lookup"><span data-stu-id="8341c-103">Try one of these solutions to fix your Office error:</span></span>
+<span data-ttu-id="483c0-103">Provare a eseguire una delle soluzioni seguenti per correggere l'errore di Office:</span><span class="sxs-lookup"><span data-stu-id="483c0-103">Try one of these solutions to fix your Office error:</span></span>
   
-- <span data-ttu-id="8341c-104">Riavviare il computer e ritentare [l'installazione di Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="8341c-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+- <span data-ttu-id="483c0-104">Riavviare il computer e provare a [installare Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="483c0-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
     
-- <span data-ttu-id="8341c-105">Scaricare e installare l' [Assistente di ripristino e di supporto](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="8341c-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="483c0-105">Scaricare e installare l' [Assistente di supporto e ripristino](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="483c0-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
     
-1. <span data-ttu-id="8341c-106">Quando si apre, selezionare la versione che si desidera disinstallare e selezionare **Avanti** **prodotti disinstallazione di Office** .</span><span class="sxs-lookup"><span data-stu-id="8341c-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="483c0-106">Quando viene aperto, da **Disinstalla prodotti Office** selezionare la versione che si desidera disinstallare e selezionare **Avanti**.</span><span class="sxs-lookup"><span data-stu-id="483c0-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="8341c-107">Continuare intermediazione schermate e riavviare il computer quando richiesto.</span><span class="sxs-lookup"><span data-stu-id="8341c-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="483c0-107">Continuare a passare attraverso schermate e riavviare il computer quando richiesto.</span><span class="sxs-lookup"><span data-stu-id="483c0-107">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="8341c-108">Dopo aver riavviato, supporto e il ripristino dell'Assistente nuovamente apre automaticamente per completare il processo di disinstallazione.</span><span class="sxs-lookup"><span data-stu-id="8341c-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="483c0-108">Dopo aver riavviato, l'Assistente di supporto e ripristino viene riaperto automaticamente per completare il processo di disinstallazione.</span><span class="sxs-lookup"><span data-stu-id="483c0-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="8341c-109">Eseguire altre istruzioni e [reinstallare Office](https://portal.office.com/OLS/MySoftware.aspx) o chiudere l'Assistente di Office.</span><span class="sxs-lookup"><span data-stu-id="8341c-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
+3. <span data-ttu-id="483c0-109">Seguire le istruzioni rimanenti e [reinstallare Office](https://portal.office.com/OLS/MySoftware.aspx) o chiudere l'assistente.</span><span class="sxs-lookup"><span data-stu-id="483c0-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
     
-- <span data-ttu-id="8341c-110">[Utilizzare il programma di installazione non in linea di Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) per installare Office</span><span class="sxs-lookup"><span data-stu-id="8341c-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span> 
+- <span data-ttu-id="483c0-110">[Utilizzare il programma di installazione di Office offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) per installare Office</span><span class="sxs-lookup"><span data-stu-id="483c0-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span> 
     
-<span data-ttu-id="8341c-111">Per ulteriori informazioni sugli errori di installazione, vedere [i messaggi di errore durante l'installazione di Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).</span><span class="sxs-lookup"><span data-stu-id="8341c-111">For more information about installation errors, see [Error messages when installing Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).</span></span>
+<span data-ttu-id="483c0-111">Per ulteriori informazioni sugli errori di installazione, vedere [messaggi di errore durante l'installazione di Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).</span><span class="sxs-lookup"><span data-stu-id="483c0-111">For more information about installation errors, see [Error messages when installing Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).</span></span>
   
 
