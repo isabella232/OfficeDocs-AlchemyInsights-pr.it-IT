@@ -1,5 +1,5 @@
 ---
-title: Informazioni sul ripetuta la richiesta della password in Outlook per Mac?
+title: Si verificano ripetute richieste di password in Outlook per Mac?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
 ms.openlocfilehash: 5459a2d29fd5847f5841142d77d84805c3d12b01
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928336"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402335"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Informazioni sul ripetuta la richiesta della password in Outlook per Mac?
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Si verificano ripetute richieste di password in Outlook per Mac?
 
-È possibile assicurare Outlook più specializzati per la Guida Mac direttamente dall'applicazione.
+È possibile fornire assistenza per la Guida di Outlook per Mac più specializzata direttamente dall'applicazione.
   
-Vai a Mac dell'utente interessato, aprire Outlook e fare clic su **Guida in linea** \> **Contattare il supporto tecnico**.
+Accedere al Mac dell'utente danneggiato, aprire Outlook e fare clic su **** \> **supporto contatti**.
   
-Per ulteriori informazioni sull'utilizzo di Outlook per supporto clienti all'interno dell'applicazione, vedere l'articolo: [nuovo contatto supporta funzionalità 2016 Outlook per Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Per ulteriori informazioni sull'utilizzo del supporto clienti di Outlook per Mac in-app, vedere questo articolo: [nuova funzionalità di supporto per i contatti in Outlook 2016 per Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 

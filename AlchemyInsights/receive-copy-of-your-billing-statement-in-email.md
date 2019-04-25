@@ -1,5 +1,5 @@
 ---
-title: Ricevere copia di estratto nel messaggio di posta elettronica
+title: Ricevere una copia dell'estratto conto tramite posta elettronica
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
 ms.openlocfilehash: fa366278bf6d41f08eea1a77817c902a945c5a3b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918004"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388246"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>Ricevere copia di estratto nel messaggio di posta elettronica
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Ricevere una copia dell'estratto conto tramite posta elettronica
 È possibile scegliere di ricevere una copia dell'estratto conto come allegato di posta elettronica. In questo caso, tenere presente che:
   
 - Verrà inviato un messaggio all'indirizzo di posta elettronica principale e alternativo di tutti gli utenti indicati come destinatari della notifica.
     
-- Vengono visualizzati messaggi di posta elettronica separati due: uno che indicano che l'effetto è pronto, le istruzioni per accedere al centro di amministrazione per visualizzarlo e un secondo di posta elettronica che contiene l'istruzione fatturazione come allegato.
+- Verranno ricevuti due messaggi di posta elettronica distinti: uno che consente di sapere che la bolletta è pronta, con le istruzioni per accedere all'interfaccia di amministrazione per visualizzarlo e un secondo messaggio di posta elettronica che contiene l'estratto conto come allegato.
     
-Per ricevere estratto nel messaggio di posta elettronica:
+Per ricevere l'estratto conto tramite posta elettronica:
   
-1. Nell'interfaccia di amministrazione, passare alla pagina [notifiche di fatturazione](https://go.microsoft.com/fwlink/p/?linkid=853212) o scegliere **fatturazione** \> **fatturazione delle notifiche**.
+1. Nell'interfaccia di amministrazione, andare alla pagina [notifiche di fatturazione](https://go.microsoft.com/fwlink/p/?linkid=853212) oppure scegliere **** \> **notifiche**di fatturazione fatturazione.
     
-    Se si utilizza Office 365 Germania, accedere a questa pagina [notifiche di fatturazione](https://go.microsoft.com/fwlink/p/?linkid=853213) . 
+    Se si usa Office 365 Germany, andare alla pagina [notifiche di fatturazione](https://go.microsoft.com/fwlink/p/?linkid=853213) . 
     
-2. In **si desidera ricevere l'istruzione fatturazione come allegato di posta elettronica?**, passare l'interruttore a **su**. È possibile interrompere la ricezione di messaggi di posta elettronica istruzione fatturazione in qualsiasi momento passando attiva o disattiva per **disattivare**.
+2. Nella sezione che chiede se **ricevere l'estratto conto come allegato di posta elettronica** impostare l'interruttore su **Attivato**. È possibile interrompere la ricezione di messaggi di posta elettronica con l'estratto conto in qualsiasi momento impostando l'opzione su **Disattivato**.
     
 
