@@ -1,5 +1,5 @@
 ---
-title: Modifica delle autorizzazioni delle cartelle pubbliche
+title: Modifica delle autorizzazioni per le cartelle pubbliche
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
 ms.openlocfilehash: 16371b974c9f714a8d19432a4f8efa30bf3541e7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928300"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393760"
 ---
-# <a name="changing-public-folder-permissions"></a>Modifica delle autorizzazioni delle cartelle pubbliche
+# <a name="changing-public-folder-permissions"></a>Modifica delle autorizzazioni per le cartelle pubbliche
 
-Autorizzazioni delle cartelle pubbliche possono essere modificate da utenti e amministratori di Outlook. Gli amministratori possono inoltre controllare le autorizzazioni da Exchange Admin Center (EAC), eseguire le operazioni seguenti:
+Le autorizzazioni per le cartelle pubbliche possono essere modificate da utenti e amministratori in Outlook. Gli amministratori possono anche controllare le autorizzazioni dall'interfaccia di amministrazione di Exchange (EAC), eseguendo le operazioni seguenti:
   
-1. Nel portale Office 365 utilizzando il menu di spostamento a sinistra, passare alla **Admin Center** \> **Exchange**.
+1. Nel portale O365, utilizzando il menu di spostamento a sinistra, passare a interfaccia di **Amministrazione** \> di **Exchange**.
     
-2. Accedere a **cartelle pubbliche**.
+2. Passare a **cartelle pubbliche**.
     
-3. A questo punto, è possibile modificare le autorizzazioni per le singole cartelle pubbliche mediante l'assegnazione di gruppi di sicurezza per le autorizzazioni. Per un utente finale modificare le autorizzazioni della cartella pubblica, l'utente deve disporre dei diritti di proprietario per la cartella.
+3. Da qui, è possibile modificare le autorizzazioni per le singole cartelle pubbliche assegnando i gruppi di sicurezza alle autorizzazioni. Affinché un utente finale modifichi le autorizzazioni per le cartelle pubbliche, l'utente deve disporre dei diritti di proprietario per la cartella.
     
 

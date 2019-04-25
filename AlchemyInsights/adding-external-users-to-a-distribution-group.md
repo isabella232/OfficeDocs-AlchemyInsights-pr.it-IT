@@ -1,5 +1,5 @@
 ---
-title: Aggiunta di utenti esterni a un gruppo di distribuzione?
+title: Aggiunta di utenti esterni a un gruppo di distribuzione
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -9,38 +9,38 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
 ms.openlocfilehash: ce67797a1838630ab3a42e1eeeefc401a0e3f753
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906880"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398462"
 ---
-# <a name="adding-external-users-to-a-distribution-group"></a>Aggiunta di utenti esterni a un gruppo di distribuzione?
+# <a name="adding-external-users-to-a-distribution-group"></a>Aggiunta di utenti esterni a un gruppo di distribuzione
 
-Aggiunta di un contatto esterno a un gruppo di distribuzione (DG) è un processo di passaggio 2:
+L'aggiunta di un contatto esterno a un gruppo di distribuzione (DG) è un processo in due passaggi:
   
-1. Creazione di un contatto di posta elettronica per l'utente esterno:
+1. Creare un contatto di posta per l'utente esterno:
     
-1. Fare clic [qui](https://admin.microsoft.com/adminportal/home#/Contact) per passare alla pagina di modifica contatto nel portale di amministrazione. 
+1. Fare clic [qui](https://admin.microsoft.com/adminportal/home#/Contact) per passare alla pagina di modifica dei contatti nel portale di amministrazione. 
     
-2. Fare clic su **aggiungere un contatto**.
+2. Fare clic su **Aggiungi contatto**.
     
-3. Digitare le informazioni relative al contatto e fare clic su **Salva**.
+3. Digitare le informazioni per il contatto e fare clic su **Salva**.
     
-2. Aggiungere il contatto di posta elettronica per le DG:
+2. Aggiungere il contatto di posta elettronica alla DG:
     
 1. Fare clic [qui](https://admin.microsoft.com/adminportal/home#/groups) per passare alla pagina gruppi. 
     
-2. Trovare DG che si desidera aggiungere l'utente esterno, fare clic sul collegamento per aprire la finestra di dialogo Modifica.
+2. Individuare la DG alla quale si desidera aggiungere l'utente esterno e fare clic su di essa per aprire la finestra di dialogo Modifica.
     
-3. Fare clic sul pulsante **Modifica** nell'elenco **membri** . 
+3. Fare clic sul pulsante **modifica** nell'elenco dei **membri** . 
     
-4. Fare clic su **aggiungere membri**.
+4. Fare clic su **Aggiungi membri**.
     
-5. Selezionare il contatto di posta elettronica è stato creato nel passaggio precedente e fare clic su **Salva**.
+5. Selezionare il contatto di posta creato nel passaggio precedente e fare clic su **Salva**.
     
-Se anche dopo la procedura seguente agli utenti esterni non è possibile inviare messaggi di posta elettronica per il DG o non si ricevono messaggi di posta elettronica da esso, può essere la DG è contrassegnato per consentire solo i messaggi di posta elettronica da utenti interni. È possibile verificare la configurazione e risolvere il problema seguendo le indicazioni fornite [in questo caso](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
+Se anche dopo aver seguito questi passaggi gli utenti esterni non possono inviare messaggi di posta elettronica alla DG o non ricevono messaggi di posta elettronica, può essere che la DG sia contrassegnata solo per consentire l'invio di messaggi di posta elettronica da parte di utenti interni. È possibile controllare questa configurazione e correggerla seguendo le istruzioni [](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx) riportate di seguito.
   
- **Nota:** In queste istruzioni non si applicano se tipo del gruppo "Gruppo di Office 365" anziché "Gruppo di distribuzione". In tal caso, è possibile aggiungere l'utente esterno direttamente al gruppo di Outlook o Outlook sul Web. Descrizione dettagliata nei guest gruppi di Office 365 e le istruzioni per l'aggiunta di guest esterni sono disponibili in [questo articolo](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+ **Nota:** Queste istruzioni non si applicano se il tipo del gruppo è "Office 365 Group" invece di "gruppo di distribuzione". In caso contrario, è possibile aggiungere l'utente esterno direttamente al gruppo da Outlook o Outlook sul Web. Spiegazioni dettagliate sui gruppi di O365 gli ospiti e le istruzioni per l'aggiunta di ospiti esterni sono disponibili in [questo articolo](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   
 

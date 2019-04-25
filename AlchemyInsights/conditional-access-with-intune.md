@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: 2e778bf4fbdb766700fb24b3405b4ddce89253f7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935943"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393545"
 ---
 # <a name="conditional-access-with-intune"></a>Accesso condizionale con Intune
 
-Utilizzo di **Access condizionale** con Intune richiede 3 passaggi: 
+Se si utilizza **l'accesso condizionale** con Intune, è necessario eseguire tre passaggi: 
   
-- Creare un **Criterio di accesso condizionale** che definisce le risorse sono protetti e quali condizioni devono essere soddisfatti per accedere a tali risorse. Ad esempio, un dispositivo deve essere conforme prima di accedere alla posta elettronica aziendale. 
+- Creare un **criterio di accesso condizionale** che definisce le risorse protette e quali condizioni devono essere soddisfatte per accedere a tali risorse. Ad esempio, un dispositivo deve essere conforme prima di accedere alla posta elettronica aziendale. 
     
-- Creare un **Criterio di conformità** per definire le impostazioni che devono essere soddisfatti prima che il dispositivo è considerato conforme. Ad esempio, un dispositivo deve disporre un pin di almeno 6 cifre prima che sia considerato compatibile. 
+- Creare un **criterio di conformità** per definire le impostazioni che devono essere soddisfatte prima che il dispositivo venga considerato conforme. Ad esempio, un dispositivo deve disporre di un pin di almeno 6 cifre prima di essere considerato conforme. 
     
-- Verificare i **Criteri di conformità** e **Criteri di accesso condizionale** destinate ai gruppi di utenti desiderati. Ciò può richiedere la creazione di gruppi di utenti specifici in Azure Active Directory. 
+- Garantire che i criteri di **conformità** e i **criteri di accesso condizionale** siano destinati ai gruppi di utenti desiderati. Questo potrebbe richiedere la creazione di gruppi specifici di utenti in Azure Active Directory. 
     
-Per ulteriori informazioni:
+Per ulteriori informazioni, vedere:
   
-- [Procedure consigliate di accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Procedure consigliate per l'accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Introduzione a Access condizionale](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Guida introduttiva all'accesso condizionale](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
 ms.openlocfilehash: cd5bac5efe3a16d32f9b695c8cb452a1eaa3a796
-ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2019
-ms.locfileid: "31872388"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399110"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP potrebbe essere necessario un tipo personalizzato
 
@@ -27,7 +27,7 @@ Ad esempio, è possibile che l'organizzazione debba identificare e proteggere gl
   
 Se un tipo di informazioni riservate incorporato soddisfa le proprie esigenze con solo alcuni ritocchi, è possibile [personalizzare un tipo di informazioni riservate incorporato](https://docs.microsoft.com/en-us/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Ad esempio, è possibile aggiungere o rimuovere parole chiave oppure aggiungere o rimuovere elementi di prova di supporto quali una data o un indirizzo.
   
- **Creare un tipo di informazioni sensibili personalizzato**
+ **Creare una tipologia personalizzata di informazioni sensibili**
   
 Tuttavia, se è necessario identificare e proteggere completamente un tipo diverso di informazioni riservate, è possibile [creare un tipo di informazioni riservate personalizzato](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type) nell'interfaccia utente del Centro sicurezza & Compliance. 
   

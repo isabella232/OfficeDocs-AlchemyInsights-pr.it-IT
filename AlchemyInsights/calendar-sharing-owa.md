@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: 616
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
 ms.openlocfilehash: 57fd34d76ec2955e7a79fe4e1cedd9935f99cbff
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772236"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396294"
 ---
 # <a name="calendar-sharing"></a>Condivisione del calendario
 
-- Se non è possibile visualizzare le informazioni sulla disponibilità del calendario in altri calendari o se altre persone non riescono a visualizzare le informazioni sulla disponibilità nel calendario, utilizzare l' [Assistente per il supporto e il ripristino di Microsoft per Office 365](https://diagnostics.office.com/).
+- Se le informazioni sulla disponibilità del calendario non vengono visualizzate in altri calendari o se altre persone non riescono a visualizzare le informazioni sulla disponibilità nel proprio calendario, usare l'[Assistente supporto e ripristino per Office 365 di Microsoft](https://diagnostics.office.com/).
     
-- [Condivisione di un calendario di Outlook con altre persone](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [Condividere un calendario di Outlook con altri utenti](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
     
 - [Condivisione del calendario in Outlook sul Web per le aziende](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
     
