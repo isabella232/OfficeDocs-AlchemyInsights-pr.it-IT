@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
 ms.openlocfilehash: 6990714d75fe6ed5dcf5f00625c10b7a7c39fb45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942160"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407904"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>Creare un sito hub di SharePoint
 
-1. Nella nuova interfaccia di amministrazione di SharePoint, **siti**, fare clic su **siti attivi**. 
+1. Nella nuova interfaccia di amministrazione di SharePoint, in **siti**, fare clic su **siti attivi**. 
     
-2. Selezionare il sito che si desidera da un sito hub, fare clic su **sito Hub**e quindi fare clic su **Registra come sito hub**. 
+2. Selezionare il sito in cui si desidera essere un sito hub, fare clic su **sito hub**e quindi fare clic su **registra come sito hub**. 
     
-3. Immettere un nome visualizzato per il sito hub e specificare i singoli utenti o gruppi di sicurezza che si desidera consentire per associare l'hub di siti.
+3. Immettere un nome visualizzato per il sito hub e specificare i singoli utenti o gruppi di sicurezza che si desidera consentire di associare i siti all'hub.
     
     > [!NOTE]
-    >  È consigliabile selezionare un sito di comunicazione o un sito del team che utilizza il nuovo modello. Se si utilizza un sito del team classica, la struttura di spostamento hub verrà visualizzati solo nelle pagine moderne e impostazioni sito hub verranno visualizzata solo nelle pagine moderne. gt _ siti che sono già associati a un altro hub non può essere registrato come sito hub. 
+    >  È consigliabile selezionare un sito di comunicazione o un sito del team che utilizza il nuovo modello. Se si utilizza un sito del team classico, la struttura di spostamento hub verrà visualizzata solo nelle pagine moderne e le impostazioni del sito hub verranno visualizzate solo nelle pagine moderne. i siti di > già associati a un altro hub non possono essere registrati come sito hub. 
   
-[Per ulteriori informazioni sui siti hub](https://go.microsoft.com/fwlink/?linkid=869149)
+[Altre informazioni sui siti hub](https://go.microsoft.com/fwlink/?linkid=869149)
   
 

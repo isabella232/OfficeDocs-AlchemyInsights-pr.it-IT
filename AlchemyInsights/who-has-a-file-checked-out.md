@@ -1,5 +1,5 @@
 ---
-title: Utente che ha un file estratto?
+title: Chi ha un file Estratto?
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/10/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
 ms.openlocfilehash: 994d71ca6f140008336d7edb8387f6e044c22d2d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940396"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422719"
 ---
-# <a name="who-has-a-file-checked-out"></a>Utente che ha un file estratto?
+# <a name="who-has-a-file-checked-out"></a>Chi ha un file Estratto?
 
-Per verificare chi dispone di un file estratto per l'utente è possibile eseguire su una delle operazioni seguenti:
+Per vedere chi ha un file estratto, è possibile eseguire una delle operazioni seguenti:
   
-1. Posizionare il puntatore sugli **Estratta** per visualizzare una descrizione comando che indica che ha il file estratto. 
+1. Passare il puntatore del mouse su **Estratto** per visualizzare una descrizione comando che indica chi ha il file estratto. 
     
-2. Aggiungere il * * estratto da * * colonna per la visualizzazione predefinita della raccolta. In questo modo, tutti gli utenti possono vedere facilmente che dispone di un documento estratto per l'utente. 
+2. Aggiungere la colonna * * checked out by * * alla visualizzazione predefinita della raccolta. In questo modo, tutti possono vedere facilmente chi ha un documento estratto. 
     
-Per informazioni su come aggiungere una colonna estratto da SharePoint, vedere [creare una colonna di un elenco o raccolta](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Per informazioni su come aggiungere una colonna Estratto per in SharePoint, vedere [creare una colonna in un elenco o in una raccolta](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
-Vedere più domande frequenti relative al controllo in o check-out, vedere [domande frequenti relative a check-out, di archiviazione](https://go.microsoft.com/fwlink/?linkid=2018786).
+Vedere le domande più frequenti relative all'archiviazione o al check-out, vedere [le principali domande relative al check-out, al check-in](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 
