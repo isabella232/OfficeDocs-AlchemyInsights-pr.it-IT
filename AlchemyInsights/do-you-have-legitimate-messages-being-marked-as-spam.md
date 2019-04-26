@@ -1,5 +1,5 @@
 ---
-title: I messaggi legittimi vengono contrassegnati come posta indesiderata?
+title: Sono presenti messaggi legittimi contrassegnati come posta indesiderata?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
 ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469063"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399145"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>I messaggi legittimi vengono contrassegnati come posta indesiderata?
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Sono presenti messaggi legittimi contrassegnati come posta indesiderata?
 
 
-Provare la diagnostica precedente o provare questa [Guida dettagliata per la risoluzione dei problemi relativi ai messaggi contrassegnati come posta](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)indesiderata.
+Vedere la diagnostica precedente oppure la [guida dettagliata alla soluzione del problema dei messaggi corretti contrassegnati come posta indesiderata](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
-Il modo migliore per segnalare questi tipi di problemi è:
+Il modo migliore per segnalare questi tipi di problemi è il seguente:
   
-1. [Abilitare il componente aggiuntivo](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) per la creazione di report per l'utente. 
+1. [Attivare il componente aggiuntivo di segnalazione](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) per l’utente. 
     
-2. Fare [in modo che l'utente riferisca il messaggio come non](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US)indesiderato.
+2. Chiedere agli utenti di [segnalare il messaggio come attendibile](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
     
-Se si desidera aprire un ticket di supporto, allegare le intestazioni di posta elettronica complete almeno da **un intero messaggio originale** . 
+Per aprire un ticket di supporto, allegare l’intestazione del messaggio di posta elettronica completa di almeno **uno dei messaggi originali** seguenti. 
   
 
