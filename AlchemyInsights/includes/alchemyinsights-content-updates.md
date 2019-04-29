@@ -523,16 +523,16 @@
 
 | Data di pubblicazione |Titolo dell'argomento | Modifica |
 |------|------------|--------|
-| 4/15/2019 | [Alchimia-diagnosticare e risolvere i problemi di connettività di Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | modificato |
-| 4/15/2019 | [Alchemy: ricreare il profilo di Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | modificato |
-| 4/15/2019 | [DLP potrebbe essere necessario un tipo personalizzato](/AlchemyInsights/dlp-might-need-custom-type) | aggiunto |
-| 4/15/2019 | [DLP non funziona come previsto](/AlchemyInsights/dlp-not-working-as-expected) | modificato |
-| 4/15/2019 | [Suggerimenti per i criteri DLP non funzionanti](/AlchemyInsights/dlp-policy-tips-not-working) | modificato |
-| 4/15/2019 | [Errore Outlook.com 550](/AlchemyInsights/outlook-com-error-550) | aggiunto |
-| 4/15/2019 | [Outlook.com Over quota](/AlchemyInsights/outlook-com-over-quota) | aggiunto |
-| 4/15/2019 | [Outlook.com rimuovere Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | aggiunto |
-| 4/15/2019 | [Outlook.com rimuovere Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | aggiunto |
-| 4/15/2019 | [182 eseguire SaRA per diagnosticare la &amp; risoluzione dei problemi di autenticazione di Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | modificato |
+| 15/04/2019 | [Alchimia-diagnosticare e risolvere i problemi di connettività di Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | modificato |
+| 15/04/2019 | [Alchemy: ricreare il profilo di Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | modificato |
+| 15/04/2019 | [DLP potrebbe essere necessario un tipo personalizzato](/AlchemyInsights/dlp-might-need-custom-type) | aggiunto |
+| 15/04/2019 | [DLP non funziona come previsto](/AlchemyInsights/dlp-not-working-as-expected) | modificato |
+| 15/04/2019 | [Suggerimenti per i criteri DLP non funzionanti](/AlchemyInsights/dlp-policy-tips-not-working) | modificato |
+| 15/04/2019 | [Errore Outlook.com 550](/AlchemyInsights/outlook-com-error-550) | aggiunto |
+| 15/04/2019 | [Outlook.com Over quota](/AlchemyInsights/outlook-com-over-quota) | aggiunto |
+| 15/04/2019 | [Outlook.com rimuovere Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | aggiunto |
+| 15/04/2019 | [Outlook.com rimuovere Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | aggiunto |
+| 15/04/2019 | [182 eseguire SaRA per diagnosticare la &amp; risoluzione dei problemi di autenticazione di Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | modificato |
 | 4/16/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | modificato |
 | 4/16/2019 | [Outlook.com rimuovere Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | modificato |
 | 4/16/2019 | [8000088 salvare la posta elettronica in Outlook.com](/AlchemyInsights/outlook-com-save-emails) | modificato |
@@ -557,6 +557,6 @@
 | 4/16/2019 | [Identificare l'inoltro di posta elettronica esterno nelle cassette postali nei registri di controllo](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | modificato |
 | 4/16/2019 | [Identificare la regola di posta in arrivo nei registri di controllo](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | modificato |
 | 4/16/2019 | [Report del registro di controllo di SharePoint classico](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | modificato |
-| 4/17/2019 | [Risolvere i problemi di recapito della posta elettronica per le cartelle pubbliche abilitate](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | aggiunto |
-| 4/17/2019 | [Turni di Teams](/AlchemyInsights/teams-shifts) | modificato |
+| 17/04/2019 | [Risolvere i problemi di recapito della posta elettronica per le cartelle pubbliche abilitate](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | aggiunto |
+| 17/04/2019 | [Turni di Teams](/AlchemyInsights/teams-shifts) | modificato |
 | 4/18/2019 | [8000011 recuperare il messaggio di posta elettronica eliminato in Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | modificato |
