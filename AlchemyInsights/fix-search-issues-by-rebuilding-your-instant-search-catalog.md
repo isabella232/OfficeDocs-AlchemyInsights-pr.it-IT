@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401188"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867942"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Risolvere i problemi di ricerca ricostruendo il catalogo di ricerca istantanea
+# <a name="troubleshoot-search-issues"></a>Risoluzione dei problemi di ricerca
 
-1. Chiudere Outlook e aprire il **Pannello di controllo**.
-    
-    > [!NOTE]
-    > A seconda della versione di Office in uso, potrebbe essere necessario fare clic sul pulsante **Start** e scegliere **Pannello di controllo**dal menu **Start** . 
-  
-2. Eseguire una delle operazioni seguenti:
-    
-  - Scegliere le **Opzioni**di indicizzazione.
-    
-  - Nella casella di **ricerca** digitare indicizzazione e quindi scegliere Opzioni di indicizzazione. ** ****
-    
-3. Nella finestra di dialogo **percorsi indicizzati** , in **modifica posizioni selezionate**Selezionare la casella di controllo per il percorso che si desidera modificare e quindi fare clic su **OK**.
-    
-4. Nella finestra di dialogo **Opzioni avanzate** , nella scheda **Impostazioni indice** , in **risoluzione dei problemi**, fare clic su Ricostruisci. ****
-    
-    > [!NOTE]
-    > Verrà visualizzata una finestra di dialogo riCostruisci **Indice** che indica che l'indice potrebbe richiedere molto tempo per il completamento. Scegliere **OK** per avviare la ricostruzione dell'indice. 
-  
-Per ulteriori informazioni, vedere il problema noto [Nessun risultato della ricerca per gli account POP/IMAP](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Se si verificano problemi con la ricerca, vedere i collegamenti riportati di seguito per informazioni sulla risoluzione di problemi.
 
+Questi sono i problemi più comuni e sono un buon punto di partenza:
+- [La ricerca di Outlook non restituisce alcun risultato](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [La ricerca di Outlook restituisce risultati incompleti](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Ricerca di Outlook non è in grado di trovare messaggi meno recenti](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Le possibili soluzioni per problemi meno comuni sono disponibili qui:
+- [Solo Outlook 2016: la scheda ricerca è disattivata](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Cassetta postale condivisa: problemi con i risultati di ricerca](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Errore: le prestazioni di ricerca verranno influenzate a causa di un problema con la configurazione di Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Le cartelle di ricerca mostrano gli elementi di PersonMetadata imprevisti senza oggetto](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
