@@ -1,0 +1,21 @@
+---
+title: Modificare un file di sola lettura
+ms.author: kirks
+author: Techwriter40
+ms.date: 9/10/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
+ms.openlocfilehash: 5fcf591c5312daf7b817b17056078506f1d4a77b
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34718961"
+---
+# <a name="edit-a-read-only-file"></a>Modificare un file di sola lettura
+
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Quando si aprono file, è possibile che si aprano come di sola lettura. In alcuni casi, si tratta di una sicurezza aggiuntiva, ad esempio quando si aprono file da Internet e altre volte, può essere dovuto a un'impostazione che può essere modificata. Nell'articolo &ldquo; <a href="https://support.office.com/en-us/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15"><span style="color: blue;">perché il file è stato aperto in sola lettura</span></a> &rdquo; , vengono illustrati alcuni scenari in cui un file si apre in sola lettura e alcuni passaggi da eseguire per modificarlo.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Ecco&rsquo;come aprire i file di Office per la modifica.</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Invece di fare clic sul titolo del documento, fare clic su <strong>Apri menu</strong> (i tre puntini), quindi fare clic su <strong>modifica</strong>.</span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Note:</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">&rsquo;Se invece i documenti sono aperti per la modifica in Office Online quando si fa clic sul titolo, è possibile configurare la raccolta in modo che (purché si disponga delle autorizzazioni necessarie per modificare le impostazioni della raccolta):</span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Se si dispone di raccolte <strong style="box-sizing: border-box;">con checkout</strong>, colonne/metadati <strong style="box-sizing: border-box;">necessari </strong>&nbsp;o quando la bozza di sicurezza degli <strong style="box-sizing: border-box;">elementi</strong> è&nbsp;impostata su<strong style="box-sizing: border-box;">solo gli utenti che possono modificare</strong> o&nbsp;<strong style="box-sizing: border-box;">solo gli utenti autorizzati ad approvare gli elementi</strong> nella versione Impostazioni di una raccolta documenti di SharePoint, questi elementi verranno sincronizzati come di <strong style="mso-bidi-font-weight: normal;">sola lettura.</strong></span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Un documento di Office viene aperto in visualizzazione protetta anche se si Abilita l'impostazione dei criteri "Apri documenti di Office in lettura/scrittura durante l'esplorazione". Per ulteriori informazioni, fare riferimento a questo <a href="https://support.microsoft.com/en-us/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the"> <span style="color: blue;">articolo.</span></a></span></li> </ul>
+
