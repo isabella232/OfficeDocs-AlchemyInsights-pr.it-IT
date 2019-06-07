@@ -7,24 +7,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: c2960093bb1cfb649c26528c9f671e6d720ff237
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 5319c2f1edc3e61074301f039736d2aa96bda47b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736057"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758770"
 ---
 # <a name="search-in-sharepoint-online"></a>Ricerca in SharePoint Online
 
 Il contenuto deve essere sottoposto a ricerca per indicizzazione e aggiunto all'indice di ricerca per consentire agli utenti di trovare ciò che stanno cercando in SharePoint Online. Il contenuto viene sottoposto a ricerca per indicizzazione in base a una pianificazione di ricerca per indicizzazione predefinita (la pianificazione della ricerca per indicizzazione Il crawler recupera il contenuto modificato dall'ultima ricerca per indicizzazione e aggiorna l'indice. Per assicurarsi che il contenuto venga sottoposto a ricerca per indicizzazione e che l'indice venga aggiornato, eseguire la procedura seguente.
 
-Verificare che il contenuto possa essere trovato facendo in modo che il contenuto del sito sia ricercabile. Per altre informazioni, vedere [abilitare il contenuto di un sito per la ricerca](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable).
+Verificare che il contenuto possa essere trovato facendo in modo che il contenuto del sito sia ricercabile. Per altre informazioni, vedere [abilitare il contenuto di un sito per la ricerca](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
 Quando si modifica una proprietà gestita o quando si modifica il mapping delle proprietà sottoposte a ricerca per indicizzazione o gestite, è necessario sottoporre di nuovo il sito a ricerca per indicizzazione per riflettere le modifiche nell'indice di ricerca. 
 
 Poiché le modifiche vengono apportate nello schema di ricerca e non nel sito effettivo, il crawler non reindicizzerà automaticamente il sito. 
 
-Per altre informazioni, vedere [ricerca per indicizzazione e reindicizzazione manuale di un sito, di una raccolta o di un elenco](https://docs.microsoft.com/en-us/sharepoint/crawl-site-conten).
+Per altre informazioni, vedere [ricerca per indicizzazione e reindicizzazione manuale di un sito, di una raccolta o di un elenco](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
  Attendere almeno 24 ore dopo aver richiesto manualmente una ricerca per indicizzazione e una reindicizzazione completa per verificare se si è verificato un problema. 
 
