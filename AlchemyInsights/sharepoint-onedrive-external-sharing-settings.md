@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 2258ab81f9f4d0d659dcfb410c2ffef0cd9b81a4
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: f467ac76f91b1a43787cadff6b225a24400a2249
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735112"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34759505"
 ---
 # <a name="external-sharing-settings-for-sharepoint--onedrive"></a>Impostazioni di condivisione esterna per SharePoint & OneDrive
 
@@ -37,4 +37,4 @@ Controllare le impostazioni di condivisione esterna per un sito specifico.
 - Selezionare siti attivi per visualizzare i siti disponibili.
 - Selezionare il sito in questione e selezionare il pulsante **condivisione** dal menu per verificare le impostazioni del sito.
 
-Per altre informazioni, vedere [Panoramica della condivisione esterna](https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview).
+Per altre informazioni, vedere [Panoramica della condivisione esterna](https://docs.microsoft.com/sharepoint/external-sharing-overview).

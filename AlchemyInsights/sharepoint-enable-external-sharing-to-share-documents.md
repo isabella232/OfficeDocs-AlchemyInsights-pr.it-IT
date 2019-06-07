@@ -8,18 +8,41 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 14b005e353b162b7c49c350ec434798009269219
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34716861"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760749"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Abilitare la condivisione esterna in SharePoint Online
 
-Se l'organizzazione esegue lavori che coinvolgono la condivisione di documenti o la collaborazione direttamente con fornitori, client o clienti, è possibile utilizzare le <a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview"><span style="color: blue;">funzionalità di condivisione esterna di SharePoint Online</span></a> per condividere i contenuti con utenti esterni all'utente organizzazione.
+Se l'organizzazione esegue lavori che coinvolgono la condivisione di documenti o la collaborazione direttamente con fornitori, client o clienti, è possibile utilizzare le [funzionalità di condivisione esterna di SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) per condividere i contenuti con utenti esterni all'utente organizzazione.
 
-Per ulteriori informazioni sulla condivisione esterna, visitare i collegamenti riportati di seguito.</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user"><span style="color: blue;">Che cos'è un utente esterno?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document"><span style="color: blue;">Cosa succede quando si condivide un sito o un documento?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off"><span style="color: blue;">Attivare o disattivare la condivisione esterna per SharePoint Online</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site"><span style="color: blue;">Attivare o disattivare la condivisione esterna per un sito</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet"><span style="color: blue;">Utilizzo di SharePoint Online come soluzione Extranet business-to-business (B2B)</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c"><span style="color: blue;">Condivisione di file o cartelle di SharePoint</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">Interrompere la condivisione di file o cartelle di OneDrive o di SharePoint oppure modificare le autorizzazioni</span></a></span></li> <li><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center">Eliminare un utente esterno</a></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong style="mso-bidi-font-weight: normal;"><u><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;">
+Per ulteriori informazioni sulla condivisione esterna, visitare i collegamenti riportati di seguito.
 
-Si riceve un errore con un utente esterno? &nbsp;Controllare i collegamenti riportati di seguito. </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0"><span style="color: blue;">Messaggio di errore quando un utente esterno accetta un invito di SharePoint Online utilizzando un altro account</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f"><span style="color: blue;">Accesso negato a una cartella condivisa</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message"><span style="color: blue;">Errori di condivisione OSE in SharePoint e OneDrive</span></a></span></li> </ul>
+[Che cos'è un utente esterno?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+
+[Cosa succede quando si condivide un sito o un documento?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+
+[Attivazione o disattivazione della condivisione esterna per SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+
+[Attivare o disattivare la condivisione esterna per un sito](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[Utilizzo di SharePoint Online come soluzione Extranet business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[Condivisione di file o cartelle di SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Interrompere la condivisione di file o cartelle di OneDrive o di SharePoint oppure modificare le autorizzazioni](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[Eliminare un utente esterno](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+Si riceve un errore con un utente esterno? &nbsp;Controllare i collegamenti riportati di seguito.
+
+- [Messaggio di errore quando un utente esterno accetta un invito di SharePoint Online utilizzando un altro account](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+
+- [Accesso negato a una cartella condivisa](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+
+- [Errori di condivisione OSE in SharePoint e OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

@@ -2,7 +2,7 @@
 title: Identificare l'inoltro di posta elettronica esterno nelle cassette postali nei registri di controllo
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1369
 ms.assetid: ''
-ms.openlocfilehash: 7fb2c161c558a7eb961f86ca2b86e33750d902fd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 518e4dd485ee7c54ce83e65794152e32f4c3a836
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417216"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752006"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificare quando l'inoltro di posta elettronica esterno è configurato per le cassette postali
 
-Quando un utente configura l'inoltro di posta elettronica esterno su una cassetta postale, l'attività viene controllata come parte del cmdlet **Set-Mailbox** . È possibile visualizzare l'attività utilizzando la ricerca del registro di controllo nel centro sicurezza & Compliance.
+Quando un utente configura l'inoltro di posta elettronica esterno su una cassetta postale, l'attività viene controllata come parte del cmdlet **Set-Mailbox** . È possibile visualizzare l'attività utilizzando la ricerca del registro di controllo nel centro sicurezza & conformità.
 
-1. Accedere al [centro conformità _AMP_ sicurezza di Office 365](https://protection.office.com/)
+1. Accedere al [Centro sicurezza & conformità di Office 365](https://protection.office.com/)
 
 2. Fare clic su **ricerca e analisi** e selezionare **Ricerca log di controllo**.
 

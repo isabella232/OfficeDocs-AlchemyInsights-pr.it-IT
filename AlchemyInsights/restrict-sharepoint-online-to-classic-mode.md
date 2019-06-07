@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422179"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761763"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Limitare la modalità classica di SharePoint Online
 
-Alcune organizzazioni richiedono ancora l'esperienza in modalità classica. Anche se non si prevede di rimuovere la modalità classica a livello granulare, a partire dal 1 ° aprile 2019, non sarà più possibile limitare un'intera organizzazione (tenant) alla modalità classica per gli elenchi e le raccolte.
+Alcune organizzazioni richiedono ancora l'esperienza in modalità classica. Anche se non vi sono piani per rimuovere la modalità classica a un livello granulare, non è più possibile limitare un'intera organizzazione (tenant) alla modalità classica per gli elenchi e le raccolte.
 
 L'amministratore avrà le seguenti opzioni per gestire singoli elenchi e raccolte in modalità classica utilizzando switch di opt-out granulare che vengono forniti ai livelli seguenti:
 
@@ -28,6 +28,6 @@ L'amministratore avrà le seguenti opzioni per gestire singoli elenchi e raccolt
 
 Inoltre, gli elenchi che utilizzano determinate caratteristiche e personalizzazioni non supportate dalla versione moderna continueranno a essere automaticamente passati alla modalità classica.
 
-Dopo il 1 ° aprile, gli elenchi e le raccolte che si trovano in modalità classica a seguito dell'opt-out del tenant verranno gestiti automaticamente a livello di sito e di elenco.
+A partire dal 1 ° aprile 2019, il processo di disabilitazione del livello tenant opt-out dell'elenco e delle raccolte moderne inizierà e continuerà fino al 31 maggio 2019.  Gli elenchi e le raccolte che si trovano in modalità classica a seguito dell'opt-out del tenant verranno automaticamente spostati in versione moderna.
 
-Se si richiede la modalità classica, vedere altre informazioni qui e l'istruzione PnP PowerShell qui che descrive le opzioni e gli strumenti che è possibile utilizzare oggi per prepararsi per la rimozione dell'opt-out a livello di tenant il 1 ° aprile.
+Se si richiede la modalità classica, vedere [qui](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) altre informazioni e istruzioni di [](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) PowerShell PNP che descrivono le opzioni e gli strumenti che è possibile utilizzare oggi per utilizzare l'esperienza in modalità classica.
