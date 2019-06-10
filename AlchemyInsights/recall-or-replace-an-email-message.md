@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096542"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770813"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Richiamare o sostituire un messaggio di posta elettronica
 
@@ -34,9 +34,9 @@ ms.locfileid: "34096542"
 
 Per ulteriori informazioni, tra cui la verifica del richiamo, vedere [Recall or Replace an email message you sent](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Cercare ed eliminare i messaggi di posta elettronica nell'organizzazione*** Per cercare ed eliminare i messaggi di posta elettronica nell'organizzazione, è più semplice se si è un amministratore globale. Se non si è un amministratore globale, è necessario aggiungere l'account al gruppo di ruoli di eDiscovery Manager o al ruolo di gestione della ricerca di conformità. Per eliminare i messaggi, è necessario aggiungere il gruppo di ruoli Gestione organizzazione o il ruolo di gestione ricerca e Purge. Le autorizzazioni per questi ruoli sono assegnate al [Centro sicurezza & Compliance](https://protection.office.com/).
+***Cercare ed eliminare i messaggi di posta elettronica nell'organizzazione*** Per cercare ed eliminare i messaggi di posta elettronica nell'organizzazione, è più semplice se si è un amministratore globale. Se non si è un amministratore globale, è necessario aggiungere l'account al gruppo di ruoli di eDiscovery Manager o al ruolo di gestione della ricerca di conformità. Per eliminare i messaggi, è necessario aggiungere il gruppo di ruoli Gestione organizzazione o il ruolo di gestione ricerca e Purge. Le autorizzazioni per questi ruoli vengono assegnate al [Centro sicurezza & Compliance](https://protection.office.com/).
 
-1. [Creare una ricerca di contenuto](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) per trovare il messaggio da eliminare.
-2. [Connettersi a PowerShell per Centro sicurezza _AMP_ Compliance](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Creare una ricerca di contenuto](https://docs.microsoft.com/office365/securitycompliance/content-search) per trovare il messaggio da eliminare.
+2. [Connettersi a PowerShell per Centro sicurezza & Compliance](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Se si utilizza l'autenticazione Master, vedere [Connect to Office 365 Security _AMP_ Compliance Center PowerShell using multi-factor authentication](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Se si utilizza l'autenticazione Master, vedere [Connect to Office 365 Security & Compliance Center PowerShell using multi-factor authentication](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: a8bfe01e6ab2a0204f9d5a6399a82cac4a4419a0
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717246"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769503"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Si verificano problemi con un servizio cloud?
 
@@ -23,5 +23,5 @@ Se si verificano problemi con un servizio cloud, è possibile verificare l' [int
 
 **Criterio di notifica**
 
-Quando si verifica un incidente di servizio, Microsoft riconosce che per i clienti sono essenziali comunicazioni tempestive, mirate e precise. Microsoft notifica agli amministratori di Office 365 l'aggiornamento del dashboard di [integrità del servizio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) specifico del tenant sul portale di amministrazione di Office 365. Gli aggiornamenti degli incidenti di servizio sono forniti su una cadenza oraria o, se è necessaria una cadenza diversa, verranno indicati nel messaggio di comunicazione SHD. Per altre informazioni, vedere [How to Check Office 365 Service Health](https://docs.microsoft.com/en-us/office365/enterprise/view-service-health).
+Quando si verifica un incidente di servizio, Microsoft riconosce che per i clienti sono essenziali comunicazioni tempestive, mirate e precise. Microsoft notifica agli amministratori di Office 365 l'aggiornamento del dashboard di [integrità del servizio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) specifico del tenant sul portale di amministrazione di Office 365. Gli aggiornamenti degli incidenti di servizio sono forniti su una cadenza oraria o, se è necessaria una cadenza diversa, verranno indicati nel messaggio di comunicazione SHD. Per altre informazioni, vedere [How to Check Office 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

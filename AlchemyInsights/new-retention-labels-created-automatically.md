@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418131"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771204"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Nuove etichette di conservazione create automaticamente
 
-È possibile visualizzare [tre nuove etichette di conservazione](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) create automaticamente nell'organizzazione in **etichette di conservazione** nell'interfaccia di amministrazione di sicurezza o conformità. I nomi delle etichette sono:
+È possibile visualizzare [tre nuove etichette di conservazione](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) create automaticamente nell'organizzazione in **etichette di conservazione** nell'interfaccia di amministrazione di sicurezza o conformità. I nomi delle etichette sono:
 
 - Procedura operativa
 - Business general
@@ -30,4 +30,4 @@ Si verificherà la prima volta che si sceglie il **piano di file** se non sono s
 
 1. Selezionare le etichette di conservazione che si desidera rimuovere > **eliminare l'etichetta** > **Sì** per eliminare l'etichetta.
 
-Con gestione piano file, è possibile gestire le etichette e i criteri di conservazione nell'organizzazione-per ulteriori informazioni, vedere [Overview of the file Plan Manager](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager).
+Con gestione piano file, è possibile gestire le etichette e i criteri di conservazione nell'organizzazione-per ulteriori informazioni, vedere [Overview of the file Plan Manager](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
