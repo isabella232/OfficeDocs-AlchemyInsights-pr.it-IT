@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
-ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
+ms.openlocfilehash: 06cb5d8377f423682419316916a87dabc47051f8
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33867942"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769405"
 ---
-# <a name="troubleshoot-search-issues"></a><span data-ttu-id="5164c-102">Risoluzione dei problemi di ricerca</span><span class="sxs-lookup"><span data-stu-id="5164c-102">Troubleshoot search issues</span></span>
+# <a name="troubleshoot-search-issues"></a><span data-ttu-id="6746a-102">Risoluzione dei problemi di ricerca</span><span class="sxs-lookup"><span data-stu-id="6746a-102">Troubleshoot search issues</span></span>
 
-<span data-ttu-id="5164c-103">Se si verificano problemi con la ricerca, vedere i collegamenti riportati di seguito per informazioni sulla risoluzione di problemi.</span><span class="sxs-lookup"><span data-stu-id="5164c-103">If you're having problems with search, please see the links below for help troubleshooting.</span></span>
+<span data-ttu-id="6746a-103">Se si verificano problemi con la ricerca, vedere i collegamenti riportati di seguito per informazioni sulla risoluzione di problemi.</span><span class="sxs-lookup"><span data-stu-id="6746a-103">If you're having problems with search, please see the links below for help troubleshooting.</span></span>
 
-<span data-ttu-id="5164c-104">Questi sono i problemi più comuni e sono un buon punto di partenza:</span><span class="sxs-lookup"><span data-stu-id="5164c-104">These are the most common issues, and are a good place to start:</span></span>
-- [<span data-ttu-id="5164c-105">La ricerca di Outlook non restituisce alcun risultato</span><span class="sxs-lookup"><span data-stu-id="5164c-105">Outlook search returns no results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [<span data-ttu-id="5164c-106">La ricerca di Outlook restituisce risultati incompleti</span><span class="sxs-lookup"><span data-stu-id="5164c-106">Outlook search returns incomplete results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [<span data-ttu-id="5164c-107">Ricerca di Outlook non è in grado di trovare messaggi meno recenti</span><span class="sxs-lookup"><span data-stu-id="5164c-107">Outlook search can't find older emails</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+<span data-ttu-id="6746a-104">Questi sono i problemi più comuni e sono un buon punto di partenza:</span><span class="sxs-lookup"><span data-stu-id="6746a-104">These are the most common issues, and are a good place to start:</span></span>
+- [<span data-ttu-id="6746a-105">La ricerca di Outlook non restituisce alcun risultato</span><span class="sxs-lookup"><span data-stu-id="6746a-105">Outlook search returns no results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [<span data-ttu-id="6746a-106">La ricerca di Outlook restituisce risultati incompleti</span><span class="sxs-lookup"><span data-stu-id="6746a-106">Outlook search returns incomplete results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [<span data-ttu-id="6746a-107">Ricerca di Outlook non è in grado di trovare messaggi meno recenti</span><span class="sxs-lookup"><span data-stu-id="6746a-107">Outlook search can't find older emails</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
-<span data-ttu-id="5164c-108">Le possibili soluzioni per problemi meno comuni sono disponibili qui:</span><span class="sxs-lookup"><span data-stu-id="5164c-108">Possible solutions for less common problems can be found here:</span></span>
-- [<span data-ttu-id="5164c-109">Solo Outlook 2016: la scheda ricerca è disattivata</span><span class="sxs-lookup"><span data-stu-id="5164c-109">Outlook 2016 only: Search tab is grayed out</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [<span data-ttu-id="5164c-110">Cassetta postale condivisa: problemi con i risultati di ricerca</span><span class="sxs-lookup"><span data-stu-id="5164c-110">Shared Mailbox: Problems with search results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [<span data-ttu-id="5164c-111">Errore: le prestazioni di ricerca verranno influenzate a causa di un problema con la configurazione di Outlook</span><span class="sxs-lookup"><span data-stu-id="5164c-111">Error: Search performance will be impacted because of a problem with how Outlook is configured</span></span>](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [<span data-ttu-id="5164c-112">Le cartelle di ricerca mostrano gli elementi di PersonMetadata imprevisti senza oggetto</span><span class="sxs-lookup"><span data-stu-id="5164c-112">Search folders show unexpected PersonMetadata items with no subject</span></span>](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+<span data-ttu-id="6746a-108">Le possibili soluzioni per problemi meno comuni sono disponibili qui:</span><span class="sxs-lookup"><span data-stu-id="6746a-108">Possible solutions for less common problems can be found here:</span></span>
+- [<span data-ttu-id="6746a-109">Solo Outlook 2016: la scheda ricerca è disattivata</span><span class="sxs-lookup"><span data-stu-id="6746a-109">Outlook 2016 only: Search tab is grayed out</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [<span data-ttu-id="6746a-110">Cassetta postale condivisa: problemi con i risultati di ricerca</span><span class="sxs-lookup"><span data-stu-id="6746a-110">Shared Mailbox: Problems with search results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [<span data-ttu-id="6746a-111">Errore: le prestazioni di ricerca verranno influenzate a causa di un problema con la configurazione di Outlook</span><span class="sxs-lookup"><span data-stu-id="6746a-111">Error: Search performance will be impacted because of a problem with how Outlook is configured</span></span>](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [<span data-ttu-id="6746a-112">Le cartelle di ricerca mostrano gli elementi di PersonMetadata imprevisti senza oggetto</span><span class="sxs-lookup"><span data-stu-id="6746a-112">Search folders show unexpected PersonMetadata items with no subject</span></span>](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
