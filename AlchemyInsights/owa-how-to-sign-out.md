@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643470"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273608"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="4d762-102">Come disconnettersi da Outlook sul Web</span><span class="sxs-lookup"><span data-stu-id="4d762-102">How to sign out of Outlook on the web</span></span>
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="16e5a-102">Come disconnettersi da Outlook sul Web</span><span class="sxs-lookup"><span data-stu-id="16e5a-102">How to sign out of Outlook on the web</span></span>
 
-1. <span data-ttu-id="4d762-103">Seleziona il tuo nome o immagine nell'angolo in alto a destra.</span><span class="sxs-lookup"><span data-stu-id="4d762-103">Select your name or picture at the top right corner.</span></span>
-    
-    <span data-ttu-id="4d762-104">Se la foto non è visualizzata nella parte superiore dello schermo, controlla se è attivata la visualizzazione del blocco di Active Directory.</span><span class="sxs-lookup"><span data-stu-id="4d762-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="4d762-105">A volte ciò impedisce la visualizzazione dell'immagine.</span><span class="sxs-lookup"><span data-stu-id="4d762-105">Sometimes this prevents the picture from showing.</span></span>
-    
-2. <span data-ttu-id="4d762-106">Selezionare **Disconnetti**.</span><span class="sxs-lookup"><span data-stu-id="4d762-106">Select **Sign out**.</span></span> 
-    
-    <span data-ttu-id="4d762-107">Per interrompere l'accesso automatico all'account aziendale o dell'Istituto di istruzione, deselezionare la casella di controllo Mantieni l'accesso nella pagina **in** cui è stata immessa la password.</span><span class="sxs-lookup"><span data-stu-id="4d762-107">To stop automatically signing in to your work or school account, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span> 
-    
-<span data-ttu-id="4d762-108">Per ulteriori informazioni, vedere [come accedere o uscire da Outlook sul Web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="4d762-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
+<span data-ttu-id="16e5a-103">Per disconnettersi da Outlook sul Web, seleziona il tuo nome o immagine nell'angolo in alto a destra e \*\*\*\* seleziona Disconnetti.</span><span class="sxs-lookup"><span data-stu-id="16e5a-103">To sign out of Outlook on the web, select your name or picture at the top right corner and select **Sign out**.</span></span>
+
+<span data-ttu-id="16e5a-104">Per interrompere l'accesso automatico all'account aziendale o dell'Istituto di istruzione:</span><span class="sxs-lookup"><span data-stu-id="16e5a-104">To stop automatically signing in to your work or school account:</span></span>
+
+1. <span data-ttu-id="16e5a-105">Seleziona il tuo nome o immagine e \*\*\*\* seleziona Disconnetti.</span><span class="sxs-lookup"><span data-stu-id="16e5a-105">Select your name or picture and select **Sign out**.</span></span>
+1. <span data-ttu-id="16e5a-106">Andare a [Outlook.Office.com](https://outlook.office.com/) e selezionare **Usa un altro account**.</span><span class="sxs-lookup"><span data-stu-id="16e5a-106">Go to [Outlook.office.com](https://outlook.office.com/) and select **Use another account**.</span></span>
+1. <span data-ttu-id="16e5a-107">Accedere con l'indirizzo di posta elettronica che si desidera utilizzare.</span><span class="sxs-lookup"><span data-stu-id="16e5a-107">Sign in with the email address you want to use.</span></span>
+
+<span data-ttu-id="16e5a-108">Per ulteriori informazioni, vedere [come accedere o uscire da Outlook sul Web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="16e5a-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
