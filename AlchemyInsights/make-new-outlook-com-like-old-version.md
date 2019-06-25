@@ -1,35 +1,33 @@
 ---
-title: 8000035 How to make the New Outlook.com look like the Old One
+title: Come rendere il nuovo Outlook.com simile a quello precedente
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409406"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117617"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Come rendere il nuovo Outlook.com simile alla versione precedente
 
-Di seguito sono riportate alcune impostazioni e visualizzazioni che possono essere modificate per rendere il nuovo Outlook.com simile alla versione precedente.
+Di seguito sono riportate alcune impostazioni che è possibile modificare per rendere il nuovo Outlook.com simile alla versione precedente:
 
-1. Selezionare l'icona a ingranaggio nella parte superiore della pagina per aprire le impostazioni.
-2. Selezionare il **tema**preferito.
-3. Modificare la **visualizzazione della conversazione** con **i messaggi più recenti in primo piano**.
-4. Modificare il **riquadro di lettura** in modo che venga **nascosto**.
-5. Disattiva **posta** in arrivo **** evidenziata su disattivata.
-6. Cambiare l' **immagine del mittente** su disattivata. **** 
-7. Consente di cambiare **i messaggi di gruppo in base alla data** . **** 
-8. **Disattiva**l' **anteprima degli allegati** . 
-9. Cambiare il testo dell'anteprima **del** **messaggio** su attivato.
+1. Passare a [Impostazioni layout](https://outlook.live.com/mail/options/mail/layout).
+1. In **posta in arrivo**evidenziata, selezionare **non ordinare i messaggi**.
+1. In **organizzazione del messaggio**, selezionare **messaggi più recenti in primo piano**.
+1. In **immagine mittente**selezionare **non visualizzare le immagini del mittente**.
+1. In **riquadro di lettura**selezionare **Nascondi riquadro di lettura**.
+1. In **Testo anteprima messaggio**selezionare **Mostra testo anteprima**.
+1. In **anteprime in linea**, selezionare **non visualizzare gli allegati nell'elenco dei messaggi**.
 
-Nota: queste sono solo alcune impostazioni consigliate in grado di fornire il layout più vicino possibile alla versione classica di Outlook.com. Dipenderà comunque dalle impostazioni desiderate.
-
-Per modificare le impostazioni della posta elettronica in modo che la posta in arrivo appaia e si comporta come si desidera, vedere [personalizzare la nuova esperienza di posta elettronica in Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
+Per modificare le impostazioni della posta elettronica in modo che la posta in arrivo venga visualizzata e si comporta come si desidera, vedere [modificare l'aspetto della cassetta postale in Outlook.com e il nuovo Outlook sul Web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
