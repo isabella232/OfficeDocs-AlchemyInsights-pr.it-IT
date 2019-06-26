@@ -1,5 +1,5 @@
 ---
-title: File aperto di sola lettura
+title: File bloccati per la modifica
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757095"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222672"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Perché potrebbe non essere possibile modificare i file?
 
@@ -24,9 +24,9 @@ Note: raccolte con checkout, colonne/metadati necessari o quando la bozza di sic
 
 Per le raccolte di OneDrive, OneDrive mostrerà un'icona di blocco accanto allo stato di sincronizzazione e l'utente non sarà in grado di sincronizzare la raccolta fino a quando le impostazioni citate non sono state rimosse.
 
-Per ulteriori informazioni sui file bloccati per Word/Excel, fare riferimento agli articoli riportati di seguito.
+Per ulteriori informazioni sui file bloccati per Word o Excel, fare riferimento agli articoli riportati di seguito.
 
-[Il file di Excel è bloccato per la modifica da un altro utente](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Il file di Excel è bloccato per la modifica da un altro utente](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-[Il file di Word è bloccato per la modifica da un altro utente](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Il file di Word è bloccato per la modifica da un altro utente](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 
