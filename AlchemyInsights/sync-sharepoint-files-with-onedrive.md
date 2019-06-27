@@ -1,5 +1,5 @@
 ---
-title: Sincronizzare i file di SharePoint con il nuovo client di sincronizzazione di OneDrive
+title: Risolvere i problemi con "Apri con Esplora risorse" in SharePoint Online
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 74b79efeb7e46d03dc55f46252d152cd13e66c84
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fcaca189741bd68878b1dcfab879e6e0f64e6794
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757821"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223644"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Sincronizzare i file di SharePoint con il nuovo client di sincronizzazione di OneDrive
+# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Risolvere i problemi con "Apri con Esplora risorse" in SharePoint Online
 
-Il comando Apri con Esplora risorse apre un'istanza locale di Windows Explorer che mostra la struttura delle cartelle sul server che ospita il sito di SharePoint. Detto questo, è consigliabile [sincronizzare i file di SharePoint con il nuovo client di sincronizzazione di OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>, che fornisce [File su richiesta](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e) perché permette l'accesso locale ai file e offre prestazioni migliori.
+Il comando Apri con Esplora risorse apre un'istanza locale di Esplora risorse che mostra la struttura delle cartelle nel server che ospita il sito di SharePoint. Detto questo, è consigliabile [sincronizzare i file di SharePoint con il nuovo client di sincronizzazione di OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>, che fornisce [File su richiesta](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e) perché permette l'accesso locale ai file e offre prestazioni migliori.
 
 
 Se si è scelto di usare la visualizzazione Esplora risorse invece di usare il nuovo client di sincronizzazione, assicurarsi di seguire i passaggi e le procedure consigliate descritti negli articoli seguenti.
