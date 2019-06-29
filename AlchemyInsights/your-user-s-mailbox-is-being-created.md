@@ -8,17 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
-ms.openlocfilehash: 45684b414ee634c1e879a61c260dcdeff27a03be
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "359"
+- "3500004"
+ms.openlocfilehash: 4cb2821675676e39ab36cd84fe3eacc5d7709dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420668"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364866"
 ---
-# <a name="your-users-mailbox-is-being-created"></a><span data-ttu-id="dc3b5-102">La cassetta postale degli utenti è in fase di creazione</span><span class="sxs-lookup"><span data-stu-id="dc3b5-102">Your users mailbox is being created</span></span>
+# <a name="your-users-mailbox-is-being-created"></a><span data-ttu-id="16d1c-102">La cassetta postale degli utenti è in fase di creazione</span><span class="sxs-lookup"><span data-stu-id="16d1c-102">Your users mailbox is being created</span></span>
 
-<span data-ttu-id="dc3b5-103">È possibile richiedere fino a 24 ore prima che una nuova cassetta postale sia pronta per l'uso.</span><span class="sxs-lookup"><span data-stu-id="dc3b5-103">It can take up to 24 hours before a new mailbox is ready to use.</span></span>
+<span data-ttu-id="16d1c-103">È possibile richiedere fino a 24 ore prima che una nuova cassetta postale sia pronta per l'uso.</span><span class="sxs-lookup"><span data-stu-id="16d1c-103">It can take up to 24 hours before a new mailbox is ready to use.</span></span>
   
-<span data-ttu-id="dc3b5-104">Se la cassetta postale dell'utente è stata "prepararsi" per più di un'ora, provare a rimuovere la licenza di Exchange dall'utente e aggiungerla nuovamente, oppure utilizzare l'opzione "Let us Call You" per comunicare con un tecnico del supporto.</span><span class="sxs-lookup"><span data-stu-id="dc3b5-104">If the user's mailbox has been "Preparing" for more than an hour, try removing the Exchange license from the user and re-adding it back, or use the "Let us call you" option to talk to a support engineer.</span></span>
-  
-
+<span data-ttu-id="16d1c-104">Se la cassetta postale dell'utente è stata "prepararsi" per più di un'ora, provare a rimuovere la licenza di Exchange dall'utente e aggiungerla nuovamente, oppure utilizzare l'opzione "Let us Call You" per comunicare con un tecnico del supporto.</span><span class="sxs-lookup"><span data-stu-id="16d1c-104">If the user's mailbox has been "Preparing" for more than an hour, try removing the Exchange license from the user and re-adding it back, or use the "Let us call you" option to talk to a support engineer.</span></span>

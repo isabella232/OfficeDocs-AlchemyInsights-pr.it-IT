@@ -7,30 +7,31 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "716"
+- "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 02f824897b0163a7577e93451d6642464966594d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 08f7c7f2a36a77e460ad1bc2ce78e40072133e6e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417694"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379141"
 ---
-# <a name="network-migration"></a><span data-ttu-id="3469d-102">Migrazione di rete</span><span class="sxs-lookup"><span data-stu-id="3469d-102">Network Migration</span></span>
+# <a name="network-migration"></a><span data-ttu-id="54b99-102">Migrazione di rete</span><span class="sxs-lookup"><span data-stu-id="54b99-102">Network Migration</span></span>
 
-<span data-ttu-id="3469d-103">È possibile che il tenant di O365 sia associato a più reti di Yammer in un 1 tenant: molte configurazioni della rete.</span><span class="sxs-lookup"><span data-stu-id="3469d-103">Your O365 tenant is possibly associated with multiple Yammer networks in a 1 tenant : Many networks configuration.</span></span> <span data-ttu-id="3469d-104">A partire dal 16 ottobre 2018, Yammer non supporterà più reti Yammer associate a un tenant di Office 365.</span><span class="sxs-lookup"><span data-stu-id="3469d-104">Starting October 16, 2018, Yammer will no longer support multiple Yammer networks associated with one Office 365 tenant.</span></span> <span data-ttu-id="3469d-105">È possibile eseguire una migrazione di rete per accedere a una configurazione 1:1 preferita.</span><span class="sxs-lookup"><span data-stu-id="3469d-105">You can perform a Network Migration to get to a preferred 1:1 configuration.</span></span>
+<span data-ttu-id="54b99-103">È possibile che il tenant di O365 sia associato a più reti di Yammer in un 1 tenant: molte configurazioni della rete.</span><span class="sxs-lookup"><span data-stu-id="54b99-103">Your O365 tenant is possibly associated with multiple Yammer networks in a 1 tenant : Many networks configuration.</span></span> <span data-ttu-id="54b99-104">A partire dal 16 ottobre 2018, Yammer non supporterà più reti Yammer associate a un tenant di Office 365.</span><span class="sxs-lookup"><span data-stu-id="54b99-104">Starting October 16, 2018, Yammer will no longer support multiple Yammer networks associated with one Office 365 tenant.</span></span> <span data-ttu-id="54b99-105">È possibile eseguire una migrazione di rete per accedere a una configurazione 1:1 preferita.</span><span class="sxs-lookup"><span data-stu-id="54b99-105">You can perform a Network Migration to get to a preferred 1:1 configuration.</span></span>
   
-- <span data-ttu-id="3469d-106">Per visualizzare un elenco delle reti associate al tenant, eseguire l'accesso a Yammer come amministratore globale di Office 365 e passare all'amministratore di **rete**, quindi eseguire la **migrazione di rete**.</span><span class="sxs-lookup"><span data-stu-id="3469d-106">To view a list of the networks associated with your tenant, log in to Yammer as an Office 365 Global Administrator and browse to **Network Admin**, then **Network Migration**.</span></span> <span data-ttu-id="3469d-107">Scegliere **Avanti**.</span><span class="sxs-lookup"><span data-stu-id="3469d-107">Choose **Next**.</span></span>
-    
-- <span data-ttu-id="3469d-108">Se vengono visualizzate più reti elencate nel passaggio 2 di 3, si dispone di più reti Yammer associate al tenant di O365.</span><span class="sxs-lookup"><span data-stu-id="3469d-108">If you see multiple networks listed on Step 2 of 3, then you have multiple Yammer networks associated with your O365 tenant.</span></span>
-    
-- <span data-ttu-id="3469d-109">Per correggere la configurazione in una configurazione 1:1, continuare a utilizzare lo strumento di migrazione della rete.</span><span class="sxs-lookup"><span data-stu-id="3469d-109">To correct your configuration to a 1:1 configuration, continue using the Network Migration tool.</span></span>
-    
-- <span data-ttu-id="3469d-110">Per ulteriori informazioni sulla migrazione di rete [, vedere Migrazione di rete: consolidare più reti Yammer](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)</span><span class="sxs-lookup"><span data-stu-id="3469d-110">For more information on Network Migration please see [Network migration: Consolidate multiple Yammer networks](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)</span></span>
-    
-<span data-ttu-id="3469d-111">Tenere presente quanto segue:</span><span class="sxs-lookup"><span data-stu-id="3469d-111">Please Note:</span></span>
-  
-- <span data-ttu-id="3469d-112">**Una migrazione di rete esegue la migrazione solo degli utenti attivi e in sospeso.**</span><span class="sxs-lookup"><span data-stu-id="3469d-112">**A network migration migrates only the active and pending users.**</span></span> <span data-ttu-id="3469d-113">Insieme agli utenti attivi, vengono migrate anche le informazioni degli utenti, ad esempio il nome e l'immagine del profilo.</span><span class="sxs-lookup"><span data-stu-id="3469d-113">Along with the active users, the users' information, such as name and profile picture, is also migrated.</span></span> <span data-ttu-id="3469d-114">Non viene eseguita la migrazione di qualsiasi contenuto di rete, inclusi i gruppi.</span><span class="sxs-lookup"><span data-stu-id="3469d-114">Any network content, including groups, is not migrated.</span></span> 
-    
-- <span data-ttu-id="3469d-115">**La migrazione di rete non può essere annullata.**</span><span class="sxs-lookup"><span data-stu-id="3469d-115">**Network migration can't be reversed.**</span></span> <span data-ttu-id="3469d-116">Non sarà possibile accedere alla rete sussidiaria e al relativo contenuto dopo la migrazione.</span><span class="sxs-lookup"><span data-stu-id="3469d-116">You will not be able to access your subsidiary network and its content after migration.</span></span> <span data-ttu-id="3469d-117">Pertanto, prima di prendere in considerazione una migrazione, è necessario pianificare attentamente.</span><span class="sxs-lookup"><span data-stu-id="3469d-117">So before you consider a migration, you want to plan carefully.</span></span> 
-    
+- <span data-ttu-id="54b99-106">Per visualizzare un elenco delle reti associate al tenant, eseguire l'accesso a Yammer come amministratore globale di Office 365 e passare all'amministratore di **rete**, quindi eseguire la **migrazione di rete**.</span><span class="sxs-lookup"><span data-stu-id="54b99-106">To view a list of the networks associated with your tenant, log in to Yammer as an Office 365 Global Administrator and browse to **Network Admin**, then **Network Migration**.</span></span> <span data-ttu-id="54b99-107">Scegliere **Avanti**.</span><span class="sxs-lookup"><span data-stu-id="54b99-107">Choose **Next**.</span></span>
 
+- <span data-ttu-id="54b99-108">Se vengono visualizzate più reti elencate nel passaggio 2 di 3, si dispone di più reti Yammer associate al tenant di O365.</span><span class="sxs-lookup"><span data-stu-id="54b99-108">If you see multiple networks listed on Step 2 of 3, then you have multiple Yammer networks associated with your O365 tenant.</span></span>
+
+- <span data-ttu-id="54b99-109">Per correggere la configurazione in una configurazione 1:1, continuare a utilizzare lo strumento di migrazione della rete.</span><span class="sxs-lookup"><span data-stu-id="54b99-109">To correct your configuration to a 1:1 configuration, continue using the Network Migration tool.</span></span>
+
+- <span data-ttu-id="54b99-110">Per ulteriori informazioni sulla migrazione di rete [, vedere Migrazione di rete: consolidare più reti Yammer](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)</span><span class="sxs-lookup"><span data-stu-id="54b99-110">For more information on Network Migration please see [Network migration: Consolidate multiple Yammer networks](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)</span></span>
+
+<span data-ttu-id="54b99-111">Tenere presente quanto segue:</span><span class="sxs-lookup"><span data-stu-id="54b99-111">Please Note:</span></span>
+  
+- <span data-ttu-id="54b99-112">**Una migrazione di rete esegue la migrazione solo degli utenti attivi e in sospeso.**</span><span class="sxs-lookup"><span data-stu-id="54b99-112">**A network migration migrates only the active and pending users.**</span></span> <span data-ttu-id="54b99-113">Insieme agli utenti attivi, vengono migrate anche le informazioni degli utenti, ad esempio il nome e l'immagine del profilo.</span><span class="sxs-lookup"><span data-stu-id="54b99-113">Along with the active users, the users' information, such as name and profile picture, is also migrated.</span></span> <span data-ttu-id="54b99-114">Non viene eseguita la migrazione di qualsiasi contenuto di rete, inclusi i gruppi.</span><span class="sxs-lookup"><span data-stu-id="54b99-114">Any network content, including groups, is not migrated.</span></span>
+
+- <span data-ttu-id="54b99-115">**La migrazione di rete non può essere annullata.**</span><span class="sxs-lookup"><span data-stu-id="54b99-115">**Network migration can't be reversed.**</span></span> <span data-ttu-id="54b99-116">Non sarà possibile accedere alla rete sussidiaria e al relativo contenuto dopo la migrazione.</span><span class="sxs-lookup"><span data-stu-id="54b99-116">You will not be able to access your subsidiary network and its content after migration.</span></span> <span data-ttu-id="54b99-117">Pertanto, prima di prendere in considerazione una migrazione, è necessario pianificare attentamente.</span><span class="sxs-lookup"><span data-stu-id="54b99-117">So before you consider a migration, you want to plan carefully.</span></span>
