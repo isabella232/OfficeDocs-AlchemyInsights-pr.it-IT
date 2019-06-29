@@ -6,23 +6,25 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000258
+ms.custom:
+- "1850"
+- "9000258"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 24109e65c691811facc7c49983d0e8400a6c02e1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 979047010dee0bb5908fe9f2c9f5897f82ba0c67
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419183"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375685"
 ---
-# <a name="organizing-your-outlookcom-mailbox"></a><span data-ttu-id="8b032-102">Organizzazione della cassetta postale di Outlook.com</span><span class="sxs-lookup"><span data-stu-id="8b032-102">Organizing your Outlook.com mailbox</span></span>
+# <a name="organizing-your-outlookcom-mailbox"></a><span data-ttu-id="6a61a-102">Organizzazione della cassetta postale di Outlook.com</span><span class="sxs-lookup"><span data-stu-id="6a61a-102">Organizing your Outlook.com mailbox</span></span>
 
-<span data-ttu-id="8b032-103">Un elenco di contatti è una raccolta di indirizzi di posta elettronica ed è utile per l'invio di posta elettronica a un gruppo di persone.</span><span class="sxs-lookup"><span data-stu-id="8b032-103">A contact list is a collection of email addresses, and is useful for sending email to a group of people.</span></span> <span data-ttu-id="8b032-104">Per creare un elenco di contatti:</span><span class="sxs-lookup"><span data-stu-id="8b032-104">To create a contact list:</span></span>
+<span data-ttu-id="6a61a-103">Un elenco di contatti è una raccolta di indirizzi di posta elettronica ed è utile per l'invio di posta elettronica a un gruppo di persone.</span><span class="sxs-lookup"><span data-stu-id="6a61a-103">A contact list is a collection of email addresses, and is useful for sending email to a group of people.</span></span> <span data-ttu-id="6a61a-104">Per creare un elenco di contatti:</span><span class="sxs-lookup"><span data-stu-id="6a61a-104">To create a contact list:</span></span>
 
-1. <span data-ttu-id="8b032-105">Vai a [persone](https://outlook.live.com/people/).</span><span class="sxs-lookup"><span data-stu-id="8b032-105">Go to [People](https://outlook.live.com/people/).</span></span>
-1. <span data-ttu-id="8b032-106">Nella parte superiore della pagina, selezionare la freccia accanto a **nuovo contatto** e quindi selezionare **nuovo elenco contatti**.</span><span class="sxs-lookup"><span data-stu-id="8b032-106">At the top of the page, select the arrow next to **New contact** and then select **New contact list**.</span></span>
-1. <span data-ttu-id="8b032-107">Immettere un nome per l'elenco e quindi aggiungere i nomi o gli indirizzi di posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="8b032-107">Enter a name for the list, and then add names or email addresses.</span></span>
-1. <span data-ttu-id="8b032-108">Selezionare **Crea**.</span><span class="sxs-lookup"><span data-stu-id="8b032-108">Select **Create**.</span></span>
+1. <span data-ttu-id="6a61a-105">Vai a [persone](https://outlook.live.com/people/).</span><span class="sxs-lookup"><span data-stu-id="6a61a-105">Go to [People](https://outlook.live.com/people/).</span></span>
+1. <span data-ttu-id="6a61a-106">Nella parte superiore della pagina, selezionare la freccia accanto a **nuovo contatto** e quindi selezionare **nuovo elenco contatti**.</span><span class="sxs-lookup"><span data-stu-id="6a61a-106">At the top of the page, select the arrow next to **New contact** and then select **New contact list**.</span></span>
+1. <span data-ttu-id="6a61a-107">Immettere un nome per l'elenco e quindi aggiungere i nomi o gli indirizzi di posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="6a61a-107">Enter a name for the list, and then add names or email addresses.</span></span>
+1. <span data-ttu-id="6a61a-108">Selezionare **Crea**.</span><span class="sxs-lookup"><span data-stu-id="6a61a-108">Select **Create**.</span></span>
 
-<span data-ttu-id="8b032-109">Ulteriori informazioni su come [creare, visualizzare e modificare i contatti e gli elenchi di contatti in Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span><span class="sxs-lookup"><span data-stu-id="8b032-109">Learn more about how to [create, view, and edit contacts and contact lists in Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span></span>
+<span data-ttu-id="6a61a-109">Ulteriori informazioni su come [creare, visualizzare e modificare i contatti e gli elenchi di contatti in Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span><span class="sxs-lookup"><span data-stu-id="6a61a-109">Learn more about how to [create, view, and edit contacts and contact lists in Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span></span>
