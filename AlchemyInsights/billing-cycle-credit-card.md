@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "485"
+- "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: 11760e2f34bb6c9766b8f35be18ec9857e7c0ad9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7627299a85e07148bddbbf8183a306d612de67c7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396646"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359625"
 ---
 # <a name="billing-cycle-credit-card"></a>Carta di credito del ciclo di fatturazione
 
@@ -26,4 +28,3 @@ Se si sceglie di usare una carta di credito come metodo di pagamento, è possibi
   
 Questo include la risoluzione dei problemi quando la carta di credito viene rifiutata e la modifica delle informazioni sulla carta di credito in modo che la scheda venga accettata.
   
-

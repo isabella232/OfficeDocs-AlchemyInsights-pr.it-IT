@@ -7,26 +7,27 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 764
+ms.custom:
+- "764"
+- "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 47450615212ef3ca10a44455ef4dc7ffd1678e9a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9aec8ef80f0ac8929d421c9a04142c7b7b8f6e71
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398642"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358401"
 ---
 # <a name="setup-email-accounts"></a>Configurare gli account di posta elettronica
 
 1. In Outlook, selezionare **file** \> **Aggiungi account**.
-    
-2. Immettere l'indirizzo di posta elettronica e quindi fare clic su **Connetti**.
-    
-3. Immettere la password e quindi fare clic su **OK**.
-    
-4. È possibile ripetere questi passaggi per aggiungere più account.
-    
-    > [!NOTE]
-    > Alcuni account di posta elettronica, ad esempio Gmail, Yahoo e iCloud, richiedono di configurare l'autenticazione a due fattori per poter utilizzare Outlook per inviare e ricevere posta elettronica. Per ulteriori informazioni, vedere [aggiungere un account di posta elettronica a Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx). 
-  
 
+2. Immettere l'indirizzo di posta elettronica e quindi fare clic su **Connetti**.
+
+3. Immettere la password e quindi fare clic su **OK**.
+
+4. È possibile ripetere questi passaggi per aggiungere più account.
+
+    > [!NOTE]
+    > Alcuni account di posta elettronica, ad esempio Gmail, Yahoo e iCloud, richiedono di configurare l'autenticazione a due fattori per poter utilizzare Outlook per inviare e ricevere posta elettronica. Per ulteriori informazioni, vedere [aggiungere un account di posta elettronica a Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx).
+  

@@ -9,25 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "277"
+- "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: f35f40a8e9016f4975e93b0e3f0bb8c465db9386
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 69c3732f226556152bb2bcf51840a61235dd1e80
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394354"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363017"
 ---
 # <a name="change-payment-method"></a>Cambiare la modalità di pagamento
 
 È possibile verificare il metodo di pagamento configurato accedendo agli abbonamenti di **fatturazione** \> ****. Scegliere l'abbonamento da verificare. Il metodo di pagamento configurato per la sottoscrizione viene visualizzato in **modalità di pagamento**. Per aggiornare i dettagli del metodo di pagamento esistente, scegliere **Aggiorna dettagli pagamento**.
   
 1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054)** o scegliere Fatturazione** \> **Abbonamenti**.
-    
-2. Scegliere l'abbonamento per il quale si desidera modificare il metodo di pagamento, quindi scegliere **Cambia metodo di pagamento**..
-    
+
+2. Scegliere l'abbonamento per il quale si desidera modificare il metodo di pagamento, quindi scegliere **Cambia metodo di pagamento**.
+
 3. Seguire la procedura su schermo per completare la modifica.
-    
+
 Per istruzioni dettagliate, vedere: [modificare il metodo di pagamento per Office 365 for business](https://support.office.com/article/8652f539-3123-4a8f-b9bd-6aa2f0e0372d)
   
-

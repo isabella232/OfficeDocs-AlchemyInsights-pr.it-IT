@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883165"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358905"
 ---
 # <a name="activate-visio"></a>Attivazione di Visio
 
@@ -27,8 +27,8 @@ Prima che un utente possa installare e attivare la desktop Visio desktop app inc
 
 Per attivare Visio:
 
-1. [Installare Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) se non è già installato.
-2. Al termine dell'installazione, aprire Visio. In molti casi l'app viene attivata automaticamente ed è possibile iniziare a usare Visio subito. Se viene richiesto di eseguire l'accesso, assicurarsi di eseguire l'accesso con lo stesso account aziendale o dell'Istituto di istruzione a cui è stata assegnata una licenza di Visio. 
+1. Installare Visio dal [portale dell'account personale](https://portal.office.com/account#installs) se non è già installato. Per ulteriori informazioni, vedere [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Al termine dell'installazione, aprire l'app Visio. È probabile che Visio si attivi automaticamente ed è possibile iniziare a usarlo immediatamente. In caso contrario, potrebbe essere richiesto di eseguire l'accesso. Assicurarsi di eseguire l'accesso con lo stesso account aziendale o dell'Istituto di istruzione a cui è stata assegnata una licenza di Visio. Seguire le istruzioni visualizzate per continuare con l'attivazione. 
 
 Per i problemi di attivazione, eseguire lo strumento di [risoluzione dei problemi di attivazione](https://aka.ms/SARA-OfficeActivation-Alchemy) nel computer in questione.
 

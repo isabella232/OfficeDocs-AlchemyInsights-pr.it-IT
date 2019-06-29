@@ -9,23 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "2"
+- "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: a241e8482db69044a928ff99aa2ce8e96f6b4718
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d6f53873a58f5d0a09ae9042eb54a254a65e0fe6
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398380"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357825"
 ---
 # <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Quali sono i ruoli di amministratore e come vengono assegnati?
 
 Sembra che vi siano alcune domande sui ruoli di amministratore. Questi articoli devono rispondere a tutte le domande.
   
 - [Informazioni sui ruoli di amministratore di Office 365](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
-    
+
 - [Assegnare i ruoli di amministratore](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
-    
+
 Non ha risposto alla domanda? Non c'è problema! Utilizzare l'opzione "Let us Call You" per comunicare con un tecnico del supporto.
   
-

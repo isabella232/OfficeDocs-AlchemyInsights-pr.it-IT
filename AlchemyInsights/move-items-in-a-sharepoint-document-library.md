@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "453"
+- "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: d3b7b8504d4ffcdccfe39645ee462e4e2e36b660
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: af0421ff0734829e2b9f9455ecc98960db4b7ae2
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418221"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379357"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Spostare gli elementi in una raccolta documenti di SharePoint
 
 È possibile spostare gli elementi in posizioni diverse all'interno di una raccolta documenti. Se è stata [configurata l'opzione di rilascio di destinazione](https://go.microsoft.com/fwlink/?linkid=622980), è possibile spostare anche gli elementi tra i siti. Quando si spostano i documenti, viene spostata anche la cronologia.
   
 1. In un Web browser, passare ai file, alle cartelle o ai collegamenti che si desidera spostare, quindi fare clic su **Sposta su**.
-    
-    > [!NOTE]
-    > La modalità di **spostamento** non è disponibile se si utilizza l'esperienza classica di SharePoint Online. 
-  
-2. In **Scegli una destinazione**selezionare il percorso in cui si desidera spostare gli elementi. Se si passa a un sito o a un sito secondario diverso e non lo si vede elencato, fare clic su **Sfoglia siti** per visualizzare l'elenco completo dei siti a cui è possibile spostarsi. 
-    
-    Per creare una nuova cartella in cui spostare i file, selezionare un percorso nella gerarchia delle cartelle, fare clic su **nuova cartella**, immettere un nome per la cartella e fare clic sul segno di spunta per salvare il nome.
-    
-3. Fare clic su **Sposta qui**.
-    
 
+    > [!NOTE]
+    > La modalità di **spostamento** non è disponibile se si utilizza l'esperienza classica di SharePoint Online.
+  
+2. In **Scegli una destinazione**selezionare il percorso in cui si desidera spostare gli elementi. Se si passa a un sito o a un sito secondario diverso e non lo si vede elencato, fare clic su **Sfoglia siti** per visualizzare l'elenco completo dei siti a cui è possibile spostarsi.
+
+    Per creare una nuova cartella in cui spostare i file, selezionare un percorso nella gerarchia delle cartelle, fare clic su **nuova cartella**, immettere un nome per la cartella e fare clic sul segno di spunta per salvare il nome.
+
+3. Fare clic su **Sposta qui**.
