@@ -3,23 +3,25 @@ title: Outlook.com non è in grado di ricevere codici di verifica
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 6/5/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000060
+ms.custom:
+- "1005"
+- "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0528d95d00eeed816fee15c6b1e8c791a7e76a2d
-ms.sourcegitcommit: 70551369a9799b25f042f20a4de88a8d33666037
+ms.openlocfilehash: 9ade368e32f89493d922b9a7285726f9d249d53b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33299379"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376693"
 ---
-# <a name="if-you-cant-get-verification-codes"></a><span data-ttu-id="62d5b-102">Se non è possibile ottenere i codici di verifica</span><span class="sxs-lookup"><span data-stu-id="62d5b-102">If you can't get verification codes</span></span>
+# <a name="cant-get-verification-codes"></a><span data-ttu-id="8f0ef-102">Non è possibile ottenere codici di verifica</span><span class="sxs-lookup"><span data-stu-id="8f0ef-102">Can't get verification codes</span></span>
 
-<span data-ttu-id="62d5b-103">Se non è possibile accedere alla posta elettronica alternativa o al numero di telefono, passare alla [base di sicurezza](https://account.microsoft.com/security), selezionare non **sono**presenti e quindi seguire le istruzioni riportate di seguito per sostituire le informazioni di sicurezza.</span><span class="sxs-lookup"><span data-stu-id="62d5b-103">If you can't access your alternate email or phone number, go to your [Security basics](https://account.microsoft.com/security), select **I don't have any of these**, and then follow the instructions to replace your security info.</span></span>
+<span data-ttu-id="8f0ef-103">Se non riesci ad accedere al tuo numero di telefono o di posta elettronica alternativo, vai alla pagina di base per la [sicurezza](https://account.microsoft.com/security) **degli** account Microsoft, seleziona non sono presenti nella pagina di accesso e segui le istruzioni per sostituire le tue info di sicurezza.</span><span class="sxs-lookup"><span data-stu-id="8f0ef-103">If you can't access your alternate email or phone number, go to your Microsoft account [Security basics](https://account.microsoft.com/security) page, select **I don't have any of these** on the sign-in page, and follow the instructions to replace your security info.</span></span>
 
-<span data-ttu-id="62d5b-104">Si noti che l' [app Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) non richiede una connessione Internet per fornire un codice di verifica.</span><span class="sxs-lookup"><span data-stu-id="62d5b-104">Note that the [Microsoft Authenticator app](https://go.microsoft.com/fwlink/?linkid=2016117) does not require an internet connection to provide you with a verification code.</span></span>
+<span data-ttu-id="8f0ef-104">*Nota:* L' [app Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) non richiede una connessione Internet per fornire un codice di verifica.</span><span class="sxs-lookup"><span data-stu-id="8f0ef-104">*Note:* The [Microsoft Authenticator app](https://go.microsoft.com/fwlink/?linkid=2016117) does not require an internet connection to provide you with a verification code.</span></span>
 
-<span data-ttu-id="62d5b-105">Per ulteriori informazioni, vedere [Security Info & Security Codes](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="62d5b-105">Read more about [Security info & security codes](https://support.microsoft.com/help/12428/).</span></span>
+<span data-ttu-id="8f0ef-105">Per ulteriori informazioni, leggere i [codici di verifica e info sulla sicurezza degli account Microsoft](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="8f0ef-105">To learn more, read [Microsoft account security info and verification codes](https://support.microsoft.com/help/12428/).</span></span>
