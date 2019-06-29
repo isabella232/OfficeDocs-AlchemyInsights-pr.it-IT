@@ -8,17 +8,21 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1386"
+- "2303"
+- "5200004"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: a4c6029c632178136396a91ba9754752dc8f7180
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cc0218dd34844cc1fdeb55a6f84975311826c372
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407618"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364557"
 ---
 # <a name="create-a-sharepoint-site"></a>Creare un sito di SharePoint
 
-Vedere [gestire i siti nella nuova](https://docs.microsoft.com/sharepoint/manage-site-creation ) interfaccia di amministrazione di SharePoint per le opzioni di creazione del sito. Selezionare questa impostazione per creare un [sito del team](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (che creerà un gruppo di Office 365) o un [sito di comunicazione](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Per creare un [sito classico](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)o un nuovo sito del team che non includa un gruppo di Office 365, fare clic su **altre opzioni**. 
+Vedere [gestire i siti nella nuova](https://docs.microsoft.com/sharepoint/manage-site-creation ) interfaccia di amministrazione di SharePoint per le opzioni di creazione del sito. Selezionare questa impostazione per creare un [sito del team](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (che creerà un gruppo di Office 365) o un [sito di comunicazione](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Per creare un [sito classico](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)o un nuovo sito del team che non includa un gruppo di Office 365, fare clic su **altre opzioni**.
   
 Consigli
 - *Non è possibile creare un sito con lo stesso URL di un sito esistente. Se si è eliminato un sito e si desidera riutilizzare l'URL, è possibile che il sito eliminato esista ancora in **siti eliminati**. Per gestire i siti eliminati, vedere [eliminare un sito](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Per rimuovere completamente un sito con PowerShell, vedere l'esempio relativo al cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .*

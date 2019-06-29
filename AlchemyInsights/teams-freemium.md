@@ -7,14 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 997
-ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "997"
+- "6500005"
+ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
+ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771418"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354009"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Mi piacerebbe iscrivermi a squadre gratuite, ma non posso.
 
@@ -23,5 +25,3 @@ ms.locfileid: "34771418"
 - Le istituzioni accademiche non sono idonee per questa offerta gratuita. Gli insegnanti e gli studenti, però, possono ottenere una versione gratuita di Office 365, che include una versione completa di Microsoft teams. Vedere [Office 365 Licensing for Microsoft teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).
 
 - Le istituzioni governative degli Stati Uniti non sono idonee per questa offerta gratuita. Per ulteriori informazioni sui piani di Office 365 per le organizzazioni governative (inclusa una versione di valutazione gratuita), leggere [office 365 Licensing for Microsoft teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).
-
-

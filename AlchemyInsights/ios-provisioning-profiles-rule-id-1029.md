@@ -7,13 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "322"
+- "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 590dd3d603cfe6581b7dac752ea82df1eab2a141
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a13f24e9f9a984eb6c45a84e6f46176413f08f5c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409834"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381553"
 ---
 # <a name="ios-provisioning-profiles"></a>Profili di provisioning iOS
 
@@ -21,4 +24,3 @@ Apple iOS line-of-business utilizza il concetto di profilo di provisioning utili
   
 L'articolo seguente descrive come creare associare un nuovo profilo di provisioning con un'app LOB di iOS distribuita tramite Intune: [utilizzare i profili di provisioning delle app iOS per impedire la scadenza delle](https://docs.microsoft.com/intune/app-provisioning-profile-ios) app
   
-

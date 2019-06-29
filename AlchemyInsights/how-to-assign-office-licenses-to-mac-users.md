@@ -10,25 +10,27 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
-ms.openlocfilehash: ec58c6fb06047ee25b867127838e14fbc626e87f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "651"
+- "2000017"
+ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399955"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385382"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Come assegnare licenze di Office agli utenti Mac
 
-- nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina [utenti attivi](https://go.microsoft.com/fwlink/p/?linkid=834822) o scegliere **** \> utenti **attivi**.
-    
+- Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina [utenti attivi](https://go.microsoft.com/fwlink/p/?linkid=834822) o scegliere **** \> utenti **attivi**.
+
 - Selezionare la casella accanto al nome dell'utente a cui si vuole assegnare una licenza.
-    
+
 - A destra, nella riga **Licenze di prodotto**, scegliere **Modifica**.
-    
-- Nel riquadro **licenza del prodotto**, impostare l'interruttore **sulla posizione attivata** per la licenza che si desidera assegnare all'utente. 
-    
+
+- Nel riquadro **licenza del prodotto**, impostare l'interruttore **sulla posizione attivata** per la licenza che si desidera assegnare all'utente.
+
 - Nella parte inferiore del riquadro **Licenze di prodotto** scegliere **Salva** \> **Chiudi** \> **Chiudi**.
-    
+
 Per ulteriori informazioni: [assegnare licenze agli utenti in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
-

@@ -9,18 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 286
+ms.custom:
+- "286"
+- "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 4f5829ac1ecc7d01575df360929d1a775e626e2a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 84794755f7756838393f11d617fcc8a5e3748e9f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398930"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388465"
 ---
 # <a name="search-the-audit-log"></a>Eseguire ricerche nel log di controllo
 
-Per eseguire una ricerca nel registro di controllo di Office 365, attenersi alla [seguente procedura](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log). 
+Per eseguire una ricerca nel registro di controllo di Office 365, attenersi alla [seguente procedura](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
 **Exchange**
 
@@ -34,7 +36,7 @@ Per eseguire una ricerca nel registro di controllo di Office 365, attenersi alla
 
 - Non è necessaria alcuna configurazione aggiuntiva per abilitare il controllo per SharePoint e OneDrive.
 
-- SharePoint e OneDrive supportano il controllo dei tipi di attività seguenti: 
+- SharePoint e OneDrive supportano il controllo dei tipi di attività seguenti:
 
     - Attività di file, cartelle e pagine
     - Attività di condivisione e accesso alle richieste
