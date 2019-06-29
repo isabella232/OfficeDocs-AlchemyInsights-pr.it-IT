@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392542"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372553"
 ---
 # <a name="replying-in-outlookcom"></a>Risposta in Outlook.com
 
 Per rispondere a un messaggio alla volta:
 
-1. Nell'elenco dei messaggi scegliere il messaggio che si desidera inoltrare.
+1. Nell'elenco dei messaggi scegliere il messaggio a cui si desidera rispondere.
 2. Nella parte superiore destra del riquadro del messaggio, selezionare la freccia di **risposta** o **Rispondi a tutte le** frecce.
 3. Digitare il messaggio e quindi selezionare **Invia**.
 
 Per rispondere automaticamente a tutti i messaggi:
 
-1. Aprire le [impostazioni delle risposte automatiche](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. Vai a **Impostazioni** > **Visualizza tutte le impostazioni** > **posta elettronica** > di Outlook**risposte automatiche** per aprire le impostazioni di [risposte automatiche](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. Selezionare l'interruttore attiva/disattiva **risposte automatiche** .
 3. Selezionando la casella di controllo **Invia risposte solo durante un periodo di tempo** , è possibile eseguire le operazioni seguenti:
     - Inviare risposte solo quando si sceglie. Se non si imposta un periodo di tempo, la risposta automatica rimarrà attiva fino a quando non viene disattivata.
