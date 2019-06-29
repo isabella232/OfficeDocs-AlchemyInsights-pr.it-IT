@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883131"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357573"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Passaggi per la risoluzione dei problemi di Outlook crash
 
@@ -25,10 +27,9 @@ Se si verificano problemi di crash del desktop di Outlook, iniziare seguendo i 3
   
 Passaggio 1: analisi dei possibili problemi con i componenti aggiuntivi.
   
-Passaggio 2: ripristinare Outlook ed eseguire lo [strumento Assistente supporto e ripristino per la risoluzione dei problemi relativi agli errori di avvio di Outlook](https://aka.ms/SaRA-OutlookWontStart) nel computer in questione. 
+Passaggio 2: ripristinare Outlook ed eseguire lo [strumento Assistente supporto e ripristino per la risoluzione dei problemi relativi agli errori di avvio di Outlook](https://aka.ms/SaRA-OutlookWontStart) nel computer in questione.
   
-Passaggio 3: creare un nuovo profilo di Outlook oppure è possibile eseguire lo [strumento profilo di Outlook](https://aka.ms/SaRA-OutlookSetupProfile) nel computer in questione. 
+Passaggio 3: creare un nuovo profilo di Outlook oppure è possibile eseguire lo [strumento profilo di Outlook](https://aka.ms/SaRA-OutlookSetupProfile) nel computer in questione.
   
 Se il problema si è verificato dopo un aggiornamento e i passaggi precedenti non funzionano, potrebbe essere necessario ripristinare una compilazione precedente. Vedere [come ripristinare una versione precedente di office 2013 o office 2016](https://support.microsoft.com/help/2770432)a portata di clic.
   
-

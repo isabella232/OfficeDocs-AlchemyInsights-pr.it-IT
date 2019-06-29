@@ -6,26 +6,30 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000304
+ms.custom:
+- "1921"
+- "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 62dda911dac38220df7a413f9cf3e042c643a2bf
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4b3626cb02284e3527cc85142621febd5380a888
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417899"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377413"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Aggiunta di flag e promemoria in Outlook.com
 
-Per impostare o modificare un promemoria per un evento di compleanno:
+Per impostare o modificare un promemoria per un evento:
 
 1. Passare a [Calendario](https://outlook.live.com/calendar/).
-1. Nel riquadro sinistro, in **calendari**, verificare che sia selezionata l'opzione calendario **compleanni** .
-1. Seleziona il compleanno di cui vuoi essere ricordato e seleziona le frecce nell'angolo in alto a destra per espanderlo.
+1. Selezionare l'evento che si desidera venga ricordato, quindi selezionare le frecce nell'angolo in alto a destra per espanderla.
 1. Accanto a **Ricordami**, scegli un tempo di promemoria.Outlook.com salva automaticamente le modifiche apportate.
 
 Per ricordarsi di seguire un messaggio, è possibile aggiungere un contrassegno di follow-up:
 
+1. Vai a [posta elettronica](https://outlook.live.com/mail/)
 1. Nell'elenco dei messaggi, posizionare il puntatore del mouse sul messaggio per visualizzare l'opzione contrassegno.
-1. Selezionare l'icona del contrassegno per contrassegnare il messaggio. Per visualizzare tutti i messaggi contrassegnati, seleziona il segno di spunta nell'angolo in basso a sinistra della pagina.
+1. Selezionare l'icona del contrassegno per contrassegnare il messaggio. Per visualizzare tutti i messaggi contrassegnati, seleziona il segno di spunta nell'angolo in basso a sinistra della pagina per accedere alle attività.
+ 
+Per ulteriori informazioni, leggere [il contrassegno o il pin di un messaggio in Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a).

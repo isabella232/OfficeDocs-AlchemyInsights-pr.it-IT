@@ -3,23 +3,25 @@ title: Outlook.com non è in grado di ricevere codici di verifica
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 6/5/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000060
+ms.custom:
+- "1005"
+- "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0528d95d00eeed816fee15c6b1e8c791a7e76a2d
-ms.sourcegitcommit: 70551369a9799b25f042f20a4de88a8d33666037
+ms.openlocfilehash: 9ade368e32f89493d922b9a7285726f9d249d53b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33299379"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376693"
 ---
-# <a name="if-you-cant-get-verification-codes"></a>Se non è possibile ottenere i codici di verifica
+# <a name="cant-get-verification-codes"></a>Non è possibile ottenere codici di verifica
 
-Se non è possibile accedere alla posta elettronica alternativa o al numero di telefono, passare alla [base di sicurezza](https://account.microsoft.com/security), selezionare non **sono**presenti e quindi seguire le istruzioni riportate di seguito per sostituire le informazioni di sicurezza.
+Se non riesci ad accedere al tuo numero di telefono o di posta elettronica alternativo, vai alla pagina di base per la [sicurezza](https://account.microsoft.com/security) **degli** account Microsoft, seleziona non sono presenti nella pagina di accesso e segui le istruzioni per sostituire le tue info di sicurezza.
 
-Si noti che l' [app Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) non richiede una connessione Internet per fornire un codice di verifica.
+*Nota:* L' [app Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) non richiede una connessione Internet per fornire un codice di verifica.
 
-Per ulteriori informazioni, vedere [Security Info & Security Codes](https://support.microsoft.com/help/12428/).
+Per ulteriori informazioni, leggere i [codici di verifica e info sulla sicurezza degli account Microsoft](https://support.microsoft.com/help/12428/).
