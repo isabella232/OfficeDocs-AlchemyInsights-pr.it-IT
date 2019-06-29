@@ -8,22 +8,24 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417962"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375793"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a><span data-ttu-id="38263-102">Come risolvere "sembra che non si disponga dell'autorizzazione"</span><span class="sxs-lookup"><span data-stu-id="38263-102">How to fix "It looks like we don't have permission"</span></span>
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a><span data-ttu-id="1d33d-102">Come risolvere "sembra che non si disponga dell'autorizzazione"</span><span class="sxs-lookup"><span data-stu-id="1d33d-102">How to fix "It looks like we don't have permission"</span></span>
 
-<span data-ttu-id="38263-103">Se viene visualizzato il messaggio di errore "sembra che non si disponga delle autorizzazioni per ottenere la posta elettronica per...." eseguire le operazioni seguenti:</span><span class="sxs-lookup"><span data-stu-id="38263-103">If you see the error message "It looks like we don't have permission to get email for ...." please do the following:</span></span>
+<span data-ttu-id="1d33d-103">Se viene visualizzato il messaggio di errore "sembra che non si disponga delle autorizzazioni per ottenere la posta elettronica per...." eseguire le operazioni seguenti:</span><span class="sxs-lookup"><span data-stu-id="1d33d-103">If you see the error message "It looks like we don't have permission to get email for ...." please do the following:</span></span>
 
-1. <span data-ttu-id="38263-104">Aprire le [impostazioni dell'account connesso](https://outlook.live.com/mail/options/mail/accounts) e rimuovere o eliminare l'account connesso elencato nell'errore.</span><span class="sxs-lookup"><span data-stu-id="38263-104">Open your [Connected Account settings](https://outlook.live.com/mail/options/mail/accounts) and remove or delete the connected account listed in the error.</span></span> 
-2. <span data-ttu-id="38263-105">Aggiungere di nuovo l'account connesso.</span><span class="sxs-lookup"><span data-stu-id="38263-105">Add the connected account again.</span></span>
-3. <span data-ttu-id="38263-106">Tornare [alla cassetta postale](https://outlook.live.com/mail/inbox).</span><span class="sxs-lookup"><span data-stu-id="38263-106">Go [back to your mailbox](https://outlook.live.com/mail/inbox).</span></span>
+1. <span data-ttu-id="1d33d-104">Aprire le [impostazioni dell'account connesso](https://outlook.live.com/mail/options/mail/accounts) e rimuovere o eliminare l'account connesso elencato nell'errore.</span><span class="sxs-lookup"><span data-stu-id="1d33d-104">Open your [Connected Account settings](https://outlook.live.com/mail/options/mail/accounts) and remove or delete the connected account listed in the error.</span></span>
+2. <span data-ttu-id="1d33d-105">Aggiungere di nuovo l'account connesso.</span><span class="sxs-lookup"><span data-stu-id="1d33d-105">Add the connected account again.</span></span>
+3. <span data-ttu-id="1d33d-106">Tornare [alla cassetta postale](https://outlook.live.com/mail/inbox).</span><span class="sxs-lookup"><span data-stu-id="1d33d-106">Go [back to your mailbox](https://outlook.live.com/mail/inbox).</span></span>
 
-<span data-ttu-id="38263-107">Potrebbe essere necessario un po' di tempo per risincronizzare tutti i messaggi di posta elettronica dall'account connesso.</span><span class="sxs-lookup"><span data-stu-id="38263-107">It may take some time for all emails to re-sync from your connected account.</span></span>
+<span data-ttu-id="1d33d-107">Potrebbe essere necessario un po' di tempo per risincronizzare tutti i messaggi di posta elettronica dall'account connesso.</span><span class="sxs-lookup"><span data-stu-id="1d33d-107">It may take some time for all emails to re-sync from your connected account.</span></span>
 
-<span data-ttu-id="38263-108">Per ulteriori informazioni, vedere [rimozione](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8) e [aggiunta](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) degli account connessi.</span><span class="sxs-lookup"><span data-stu-id="38263-108">Learn more about [removing](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8) and [adding](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) connected accounts.</span></span>
+<span data-ttu-id="1d33d-108">Per ulteriori informazioni, vedere [rimozione](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8) e [aggiunta](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) degli account connessi.</span><span class="sxs-lookup"><span data-stu-id="1d33d-108">Learn more about [removing](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8) and [adding](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) connected accounts.</span></span>
