@@ -1,27 +1,29 @@
 ---
-title: Outlook.com phishing
+title: Gestione del phishing in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/3/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000289
+ms.custom:
+- "1895"
+- "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5543ff98408b394ad77bbe462b80207f12b30702
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0551eb86016b572796a789e6e82fd4c46274bea7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393653"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373561"
 ---
-# <a name="how-to-deal-with-phishing-email-in-outlookcom"></a>Come gestire la posta elettronica di phishing in Outlook.com
+# <a name="how-to-deal-with-a-phishing-email"></a>Come gestire un messaggio di posta elettronica di phishing
 
-Una truffa di phishing è un messaggio di posta elettronica che sembra legittimo, ma è un tentativo di ottenere le informazioni personali o rubare i vostri soldi. I truffatori possono anche utilizzare una tecnica denominata spoofing per visualizzarla come se l'utente ha ricevuto un messaggio di posta elettronica da solo.
+Una truffa di phishing è un messaggio di posta elettronica che sembra legittimo, ma è in realtà un tentativo di rubare le informazioni personali o denaro. I truffatori possono anche utilizzare una tecnica denominata spoofing per visualizzarla come se l'utente ha ricevuto un messaggio di posta elettronica da solo.
 
-Se si riceve un messaggio di posta elettronica che assomiglia a un imbroglio di phishing, è possibile segnalarlo selezionandoli e **** > selezionando il**rapporto**di**phishing** > indesiderato.
+Se si riceve un messaggio di posta elettronica che assomiglia a un imbroglio di phishing, è possibile segnalarlo selezionandoli e quindi scegliendo**phishing**di **posta** > indesiderata.
 
-Quando si contrassegna un messaggio come phishing, viene segnalato solo il mittente.Non blocca il mittente dall'invio di messaggi in futuro. Per bloccare il mittente, è necessario aggiungere il mittente all'elenco dei mittenti bloccati. Per ulteriori informazioni, vedere [Block Senders o Unblock Senders in Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e).
+*Nota:* Quando si contrassegna un messaggio come phishing, viene segnalato solo il mittente.Non blocca il mittente dall'invio di messaggi in futuro. Per bloccare il mittente, è necessario aggiungere il mittente all'elenco dei mittenti bloccati. Per ulteriori informazioni, vedere [Block Senders o Unblock Senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
 
-Ulteriori informazioni su come [gestire abusi, tentativi di phishing o spoofing in Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3) e [sicurezza avanzata di Outlook.com per i sottoscrittori di Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).
+Informazioni su come [gestire abusi, tentativi di phishing o spoofing in Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3) e [sicurezza Outlook.com avanzata per i sottoscrittori di Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).

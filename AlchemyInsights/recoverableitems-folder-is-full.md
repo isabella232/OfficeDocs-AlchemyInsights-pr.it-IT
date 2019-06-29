@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1336
+ms.custom:
+- "1336"
+- "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: cfcc69c1b3a59c73037d9a493af4ece86b7b7208
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 05e7b47a2200c3b0500e7d786166966ea301179a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762084"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370391"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>La cartella elementi ripristinabili è piena
 
@@ -31,7 +33,7 @@ Quando la cartella elementi ripristinabili raggiunge il limite di archiviazione,
 
 - Per le cassette postali in cui è abilitata la registrazione di controllo delle cassette postali, non è possibile salvare le voci del registro di controllo della cassetta postale nella cartella elementi ripristinabili.
 
-Per le cassette postali che non sono in attesa, gli `Search-Mailbox -SearchDumpsterOnly -DeleteContent` amministratori possono utilizzare il comando in PowerShell di Exchange Online per eliminare gli elementi nella cartella elementi ripristinabili. Per ulteriori informazioni, vedere i seguenti argomenti: 
+Per le cassette postali che non sono in attesa, gli `Search-Mailbox -SearchDumpsterOnly -DeleteContent` amministratori possono utilizzare il comando in PowerShell di Exchange Online per eliminare gli elementi nella cartella elementi ripristinabili. Per ulteriori informazioni, vedere i seguenti argomenti:
 
 - [Cercare ed eliminare i messaggi](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
 

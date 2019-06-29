@@ -1,26 +1,26 @@
 ---
-title: 8000049 lo stato di Outlook.com viene visualizzato sempre come disponibile
+title: Lo stato di Outlook.com viene visualizzato sempre come disponibile
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000049
+ms.custom:
+- "817"
+- "1767"
+- "1768"
+- "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 4f19d74c0181e987691c7da0b3408f0511e3c164
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5ade09e56eeb283d61bcb7b4b49fa65103b5e26e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373639"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371869"
 ---
-# <a name="my-outlookcom-status-always-shows-as-available"></a>Lo stato di Outlook.com viene visualizzato sempre come disponibile
+# <a name="my-status-always-shows-as-available"></a>Il mio stato viene visualizzato sempre come disponibile
 
-Lo stato dell'account viene visualizzato accanto all'immagine dell'account e consente ai contatti di Outlook.com e Skype di sapere se sei disponibile per chattare o fare una chiamata Skype. è possibile modificare lo stato di un account in Outlook.com o Skype, ma ogni volta che si accede a Outlook.com, lo stato dell'account verrà reimpostato su available.
-  
-È possibile impedire che lo stato venga modificato utilizzando la versione beta di Outlook.com oppure non eseguendo l'accesso a Outlook.com. Si noti che la chiusura del browser non è identica alla disattivazione e non ha alcun effetto sullo stato. Per rimanere connesso al momento della chiusura del browser, seleziona la casella **Mantieni la firma in** al prompt di accesso. 
-  
-
+Ogni volta che si accede a Outlook.com, lo stato dell'account verrà reimpostato su available. È possibile impedire la modifica dello stato non eseguendo l'accesso a Outlook.com. Per rimanere connesso quando si chiude il browser, selezionare la casella Mantieni l'accesso **nella** pagina di accesso di Outlook.com.
