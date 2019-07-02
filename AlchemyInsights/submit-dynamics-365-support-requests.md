@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "274"
+- "6200001"
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
-ms.openlocfilehash: cfdfcb588f16f1871fa405b264be22a0bb1e074c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 62dfe61ebfc7cfcd78d21f8521024d1af7db6ea8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32374112"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354225"
 ---
 # <a name="submit-dynamics-365-support-requests"></a>Inviare richieste di supporto di Dynamics 365
 
@@ -24,4 +26,3 @@ I clienti di **Microsoft Dynamics for Customer Engagement** possono invia i tick
   
 Il nuovo portale offre un percorso più diretto al servizio di supporto assistito, ottimizzato per Dynamics for Customer Engagement e altri prodotti della piattaforma Power.
   
-
