@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: e9cd0cffaae247ee2442713434c9d8bb256dba19
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7620537310b48b34124d815d112c9544d91f5283
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377773"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614138"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Aggiungere gli altri account di posta elettronica a Outlook.com
 
@@ -32,6 +32,6 @@ Per aggiungere un account connesso:
 
 È possibile inviare messaggi di posta elettronica da qualsiasi account connesso al proprio account Outlook.com. Quando si compone un messaggio di posta elettronica, selezionare **da** e scegliere l'indirizzo di posta elettronica che si desidera utilizzare oppure [aggiornare l'indirizzo predefinito](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Per ulteriori informazioni, vedere [aggiungere gli altri account di posta elettronica a Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Per ulteriori informazioni, vedere [aggiungere gli altri account di posta elettronica a Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Se si desidera creare un nuovo indirizzo di posta elettronica che utilizza lo stesso account Outlook.com, leggere [aggiungere o rimuovere un alias di posta elettronica](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).
+Se si desidera creare un nuovo indirizzo di posta elettronica che utilizza lo stesso account Outlook.com, leggere [aggiungere o rimuovere un alias di posta elettronica](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
