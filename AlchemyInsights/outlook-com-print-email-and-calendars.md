@@ -14,23 +14,23 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: 81da5338117b49a21c95de2beae8319c55c83c4a
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
+ms.openlocfilehash: 8792fc04f54090394d65766f8250a3deba41961a
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34957385"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35704240"
 ---
-# <a name="print-email-and-calendars"></a><span data-ttu-id="df3c1-102">Stampa di messaggi di posta elettronica e calendari</span><span class="sxs-lookup"><span data-stu-id="df3c1-102">Print email and calendars</span></span>
+# <a name="print-email-and-calendars"></a><span data-ttu-id="fe383-102">Stampa di messaggi di posta elettronica e calendari</span><span class="sxs-lookup"><span data-stu-id="fe383-102">Print email and calendars</span></span>
 
-<span data-ttu-id="df3c1-103">Per stampare un messaggio di posta elettronica:</span><span class="sxs-lookup"><span data-stu-id="df3c1-103">To print an email message:</span></span>
+<span data-ttu-id="fe383-103">Per stampare un messaggio di posta elettronica:</span><span class="sxs-lookup"><span data-stu-id="fe383-103">To print an email message:</span></span>
   
-1. <span data-ttu-id="df3c1-104">Selezionare il messaggio che si desidera stampare.</span><span class="sxs-lookup"><span data-stu-id="df3c1-104">Select the message you want to print.</span></span>
-1. <span data-ttu-id="df3c1-105">Nell'angolo in alto a destra del messaggio, selezionare i tre puntini e quindi fare clic su **stampa**.</span><span class="sxs-lookup"><span data-stu-id="df3c1-105">At the top right corner of the message, select the three dots and then select **Print**.</span></span>
+1. <span data-ttu-id="fe383-104">Selezionare il messaggio che si desidera stampare.</span><span class="sxs-lookup"><span data-stu-id="fe383-104">Select the message you want to print.</span></span>
+1. <span data-ttu-id="fe383-105">Nell'angolo in alto a destra del messaggio, selezionare i tre puntini e quindi fare clic su **stampa**.</span><span class="sxs-lookup"><span data-stu-id="fe383-105">At the top right corner of the message, select the three dots and then select **Print**.</span></span>
 
-<span data-ttu-id="df3c1-106">Per stampare il calendario:</span><span class="sxs-lookup"><span data-stu-id="df3c1-106">To print your calendar:</span></span>
+<span data-ttu-id="fe383-106">Per stampare il calendario:</span><span class="sxs-lookup"><span data-stu-id="fe383-106">To print your calendar:</span></span>
 
-1. <span data-ttu-id="df3c1-107">Nell'angolo in alto a destra della pagina, selezionare **stampa**.</span><span class="sxs-lookup"><span data-stu-id="df3c1-107">At the top right corner of the page, select **Print**.</span></span>
-1. <span data-ttu-id="df3c1-108">Scegliere la visualizzazione e l'intervallo di tempo e selezionare **stampa**.</span><span class="sxs-lookup"><span data-stu-id="df3c1-108">Choose the view and time range, and select **Print**.</span></span>
+1. <span data-ttu-id="fe383-107">Nell'angolo in alto a destra della pagina, selezionare **stampa**.</span><span class="sxs-lookup"><span data-stu-id="fe383-107">At the top right corner of the page, select **Print**.</span></span>
+1. <span data-ttu-id="fe383-108">Scegliere la visualizzazione e l'intervallo di tempo e selezionare **stampa**.</span><span class="sxs-lookup"><span data-stu-id="fe383-108">Choose the view and time range, and select **Print**.</span></span>
 
-<span data-ttu-id="df3c1-109">Ulteriori informazioni su come [stampare la posta elettronica e i calendari in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="df3c1-109">Learn more about how to [print email and calendars in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span></span>
+<span data-ttu-id="fe383-109">Ulteriori informazioni su come [stampare la posta elettronica e i calendari in Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="fe383-109">Learn more about how to [print email and calendars in Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
