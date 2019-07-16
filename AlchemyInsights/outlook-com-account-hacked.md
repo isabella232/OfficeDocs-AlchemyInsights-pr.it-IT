@@ -12,16 +12,16 @@ ms.custom:
 - "773"
 - "8000039"
 ms.assetid: e1930bba-edf7-47cb-b81e-f60d8a2535a8
-ms.openlocfilehash: f5759e8baa9b94f3d6a0a5ed5a0e4ada65d63607
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 66f744106f496d3bbc73649b712a50cf5c7ce7a0
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377881"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35704744"
 ---
 # <a name="outlookcom-account-hacked"></a>Account Outlook.com violato
 
-Se l'account è stato compromesso, seguire le istruzioni riportate nel [mio account Outlook.com è stato violato](https://go.microsoft.com/fwlink/p/?linkid=874366) per recuperare l'account.
+Se l'account è stato compromesso, seguire le istruzioni riportate nel [mio account Outlook.com è stato violato](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) per recuperare l'account.
   
-Per ulteriori informazioni sulla [sicurezza avanzata di Outlook.com per i sottoscrittori di Office 365](https://go.microsoft.com/fwlink/p/?linkid=874368).
+Per ulteriori informazioni sulla [sicurezza avanzata di Outlook.com per i sottoscrittori di Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
   

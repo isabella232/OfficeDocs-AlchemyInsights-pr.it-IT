@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: c1338e5de55edc1f656a643718ccf8de87d4abf1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4b007c66a20bd923f41f9767aead82f613097358
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360993"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701327"
 ---
 # <a name="see-your-own-email-address"></a>Visualizzare l'indirizzo di posta elettronica personale
 
@@ -28,4 +28,4 @@ Se si è connessi a un altro account di posta elettronica al proprio account Out
 1. Selezionare i tre punti nella parte inferiore della finestra di composizione e selezionare **Mostra da** per visualizzare la riga da.
 2. Sopra la riga a, selezionare **da** e scegliere l'indirizzo di posta elettronica che si desidera utilizzare.
 
-Per ulteriori informazioni, vedere [invio di messaggi di posta elettronica da un indirizzo diverso in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e).
+Per ulteriori informazioni, vedere [invio di messaggi di posta elettronica da un indirizzo diverso in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

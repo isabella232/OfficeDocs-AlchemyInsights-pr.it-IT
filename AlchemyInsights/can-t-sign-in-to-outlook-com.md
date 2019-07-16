@@ -14,20 +14,20 @@ ms.custom:
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: 014ef3a8c62694ef707f12dfeec0f6b8c87c9603
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3a75ccdd2adb67355ea90e44637bad40a11e65e4
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360563"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35704096"
 ---
 # <a name="i-cant-sign-in-or-forgot-my-password"></a>Non è possibile accedere o non si è dimenticato la password
 
-Se si verificano problemi di accesso a un altro account, l'account potrebbe essere temporaneamente bloccato perché si è verificato un po' di attività di accesso inusuale. Se l'account è bloccato, vedere [sbloccare l'account Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001800&amp;clcid=0x409).
+Se si verificano problemi di accesso a un altro account, l'account potrebbe essere temporaneamente bloccato perché si è verificato un po' di attività di accesso inusuale. Se l'account è bloccato, vedere [sbloccare l'account Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
   
 Se si è dimenticato la password, è possibile [reimpostare la password](https://go.microsoft.com/fwlink/p/?linkid=841909).
   
-Se si sospetta che l'account di Outlook.com sia stato violato, vedere [il mio account Outlook.com è stato violato](https://go.microsoft.com/fwlink/p/?linkid=874366).
+Se si sospetta che l'account di Outlook.com sia stato violato, vedere [il mio account Outlook.com è stato violato](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
   
 Per ulteriori informazioni, vedere [quando non è possibile accedere al proprio account Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842227).
   

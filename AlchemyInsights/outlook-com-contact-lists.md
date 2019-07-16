@@ -11,12 +11,12 @@ ms.custom:
 - "9000258"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 979047010dee0bb5908fe9f2c9f5897f82ba0c67
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 59b4845833a8d4a50772d54852f500e2b8c8e2f6
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375685"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697015"
 ---
 # <a name="organizing-your-outlookcom-mailbox"></a>Organizzazione della cassetta postale di Outlook.com
 
@@ -27,4 +27,4 @@ Un elenco di contatti è una raccolta di indirizzi di posta elettronica ed è ut
 1. Immettere un nome per l'elenco e quindi aggiungere i nomi o gli indirizzi di posta elettronica.
 1. Selezionare **Crea**.
 
-Ulteriori informazioni su come [creare, visualizzare e modificare i contatti e gli elenchi di contatti in Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
+Ulteriori informazioni su come [creare, visualizzare e modificare i contatti e gli elenchi di contatti in Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01?wt.mc_id=Office_Outlook_com_Alchemy).
