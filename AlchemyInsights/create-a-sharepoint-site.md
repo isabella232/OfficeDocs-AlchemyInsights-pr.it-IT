@@ -13,18 +13,27 @@ ms.custom:
 - "2303"
 - "5200004"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: cc0218dd34844cc1fdeb55a6f84975311826c372
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 022f572aadae3b4d9f6665f9f8be871d79b51817
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364557"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35802970"
 ---
 # <a name="create-a-sharepoint-site"></a>Creare un sito di SharePoint
 
-Vedere [gestire i siti nella nuova](https://docs.microsoft.com/sharepoint/manage-site-creation ) interfaccia di amministrazione di SharePoint per le opzioni di creazione del sito. Selezionare questa impostazione per creare un [sito del team](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (che creerà un gruppo di Office 365) o un [sito di comunicazione](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Per creare un [sito classico](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)o un nuovo sito del team che non includa un gruppo di Office 365, fare clic su **altre opzioni**.
+Per informazioni sulla creazione di siti di SharePoint, è possibile visualizzare i seguenti elementi:
+- [Gestire i siti nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation): informazioni sulle opzioni di creazione del sito, tra cui la modalità di creazione di un sito classico o di un sito di team che non include un gruppo di Office 365.
+- [Creare un sito del team in SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): informazioni su come creare un sito del team.
+- [Creare un sito di comunicazione in SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): informazioni su come creare un sito di comunicazione.
+- [Gestire i siti nella nuova](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)interfaccia di amministrazione di SharePoint: informazioni su come creare un sito classico o un sito del team che non includa un gruppo di Office 365.
+
+
   
-Consigli
-- *Non è possibile creare un sito con lo stesso URL di un sito esistente. Se si è eliminato un sito e si desidera riutilizzare l'URL, è possibile che il sito eliminato esista ancora in **siti eliminati**. Per gestire i siti eliminati, vedere [eliminare un sito](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Per rimuovere completamente un sito con PowerShell, vedere l'esempio relativo al cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .*
-- *Alcuni utenti potrebbero non essere in grado di creare un sito. Vedere [gestire la creazione di siti in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*
-- *È possibile che il sito venga visualizzato bloccato durante la **creazione** di un periodo di tempo superiore a quello previsto. Se sono passate più di 24 ore da quando hai visto questo problema, registra un ticket di supporto. In molti casi, stiamo già lavorando a una soluzione. Per completare una soluzione, è possibile fornirci almeno 24 ore.*
+> [! Consigli
+> - Non è possibile creare un sito con lo stesso URL di un sito esistente. Se si è eliminato un sito e si desidera riutilizzare l'URL, è possibile che il sito eliminato esista ancora in **siti eliminati**. Per gestire i siti eliminati, vedere [eliminare un sito](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Per rimuovere completamente un sito con PowerShell, vedere l'esempio relativo al cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
+> - Alcuni utenti potrebbero non essere in grado di creare un sito. Vedere [gestire la creazione di siti in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+> - È possibile che il sito venga visualizzato bloccato durante la **creazione** di un periodo di tempo superiore a quello previsto. Se sono passate più di 24 ore da quando hai visto questo problema, registra un ticket di supporto. In molti casi, stiamo già lavorando a una soluzione. Per completare una soluzione, è possibile fornirci almeno 24 ore.
+> - Se è necessario creare un nuovo sito del team che non includa un gruppo di Office 365, 
+
+

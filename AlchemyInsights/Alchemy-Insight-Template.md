@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
-ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
+ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35786417"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800049"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Obbligatorio intestazione di alchimia H1, H2's non funziona.
 Procedure consigliate e linee guida per la creazione di alchimia:
@@ -38,5 +38,3 @@ Procedure consigliate e linee guida per la creazione di alchimia:
 E questo è già un po' troppo lungo. La procedura consigliata è di circa 400 caratteri---------------------------------
 
 Una volta che il contenuto è pronto, tirarlo sul ramo Live. Passare quindi al portale del [partner](https://alchemyportal.azurewebsites.net) di alchimia e immettere il nome del file nel campo URL. 
-
-
