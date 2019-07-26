@@ -1,5 +1,5 @@
 ---
-title: Come condividere blocchi appunti in OneNote online o OneNote 2016
+title: Come condividere blocchi appunti in OneNote per il Web o OneNote 2016
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 6c7c64b4dba2c915cd73978461752c6ce01a6a45
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 539cbd46e5dadf02f23bdbdecbb6e50fbec7aa45
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354981"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35904135"
 ---
-# <a name="share-notebooks-in-onenote-online-or-onenote-2016"></a>Condivisione di blocchi appunti in OneNote online o OneNote 2016
+# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Condivisione di blocchi appunti in OneNote per il Web o OneNote 2016
 
-In OneNote online, è possibile condividere le note invitando gli altri a visualizzare e apportare modifiche al blocco appunti oppure creando un collegamento a una pagina di note che è possibile incollare in un messaggio di posta elettronica, in un Blog o in una pagina Web. Per ulteriori informazioni, vedere [utilizzare OneNote online per condividere note con altre persone](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
+In OneNote per il Web, è possibile condividere le note invitando gli altri a visualizzare e modificare il blocco appunti oppure creando un collegamento a una pagina di note che è possibile incollare in un messaggio di posta elettronica, in un Blog o in una pagina Web. Per ulteriori informazioni, vedere [utilizzo di OneNote per il Web per condividere note con altre persone](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
 
 In OneNote 2016, verificare che il blocco appunti di OneNote 2016 sia in OneDrive, in modo che altri utenti possano ottenerlo. Per condividere, è possibile invitare persone in mail o ottenere un collegamento di condivisione. Per ulteriori informazioni, vedere [condividere un OneNote 2016 per il blocco appunti di Windows con altre persone](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)
