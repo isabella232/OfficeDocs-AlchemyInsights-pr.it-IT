@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 62f49038cf541c2185ed6a60c6cb58fe2889342d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e437015d476c1417fa37e1b1c250e2205e9ce4d9
+ms.sourcegitcommit: b825ced7b66d452b0f3874a57e033e690ec41c93
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353181"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35925289"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Aggiornare i record DNS per mantenere il proprio sito Web con l'attuale provider di hosting
 
-1. Nell'elenco dei domini della pagina [Domini](https://portal.office.com/adminportal/home#/Domains) selezionare il dominio usato per il sito Web, quindi selezionare **Impostazioni DNS** nel riquadro di gestione.
+1. Nell'elenco [](https://portal.office.com/adminportal/home#/Domains) dei domini della pagina Domains selezionare il dominio che si sta utilizzando per il sito Web.
 
 2. Selezionare **+ Nuovo record personalizzato** e immettere quanto segue:
 
