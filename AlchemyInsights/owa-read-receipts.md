@@ -11,21 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "8000034"
 - "2470"
-ms.openlocfilehash: 82591667d21902b43049f61c977017a9d4bec4b7
-ms.sourcegitcommit: c4e5c2c8062e1e0423c9c712fa222990da731f00
+ms.openlocfilehash: 0d9fb6b33bddf6256bde9f6a34feee477b74f87b
+ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35060400"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36170639"
 ---
-# <a name="read-receipts"></a><span data-ttu-id="888c3-102">Ricevute di lettura</span><span class="sxs-lookup"><span data-stu-id="888c3-102">Read receipts</span></span>
+# <a name="read-receipts"></a><span data-ttu-id="105a6-102">Ricevute di lettura</span><span class="sxs-lookup"><span data-stu-id="105a6-102">Read receipts</span></span>
 
-<span data-ttu-id="888c3-103">Per richiedere una conferma di lettura o una conferma di recapito per il messaggio:</span><span class="sxs-lookup"><span data-stu-id="888c3-103">To request a read receipt or a delivery receipt for your message:</span></span>
+<span data-ttu-id="105a6-103">Per richiedere una conferma di lettura o una conferma di recapito per il messaggio:</span><span class="sxs-lookup"><span data-stu-id="105a6-103">To request a read receipt or a delivery receipt for your message:</span></span>
 
-1. <span data-ttu-id="888c3-104">Selezionare i tre punti nella parte superiore del riquadro di composizione del messaggio.</span><span class="sxs-lookup"><span data-stu-id="888c3-104">Select the three dots at the top of the message compose pane.</span></span>
-1. <span data-ttu-id="888c3-105">Selezionare **Mostra Opzioni messaggio**.</span><span class="sxs-lookup"><span data-stu-id="888c3-105">Select **Show message options**.</span></span>
-1. <span data-ttu-id="888c3-106">Selezionare **Richiedi una conferma di lettura** o **Richiedi una conferma**di recapito o entrambe.</span><span class="sxs-lookup"><span data-stu-id="888c3-106">Select **Request a read receipt** or **Request a delivery receipt**, or both.</span></span>
+1. <span data-ttu-id="105a6-104">Selezionare i tre punti</span><span class="sxs-lookup"><span data-stu-id="105a6-104">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ <span data-ttu-id="105a6-105">nella parte superiore del riquadro di composizione del messaggio.</span><span class="sxs-lookup"><span data-stu-id="105a6-105">at the top of the message compose pane.</span></span>
+1. <span data-ttu-id="105a6-106">Selezionare **Mostra Opzioni messaggio**.</span><span class="sxs-lookup"><span data-stu-id="105a6-106">Select **Show message options**.</span></span>
+1. <span data-ttu-id="105a6-107">Selezionare **Richiedi una conferma di lettura** o **Richiedi una conferma**di recapito o entrambe.</span><span class="sxs-lookup"><span data-stu-id="105a6-107">Select **Request a read receipt** or **Request a delivery receipt**, or both.</span></span>
 
-<span data-ttu-id="888c3-107">Per scegliere la modalità di risposta di Outlook alle richieste di conferma di lettura, andare a **Impostazioni** > **Visualizza tutte le impostazioni** > di Outlook**gestione dei messaggi**.</span><span class="sxs-lookup"><span data-stu-id="888c3-107">To choose how Outlook responds to read receipt requests, go to **Settings** > **View all Outlook settings** > **Message handling**.</span></span>
+<span data-ttu-id="105a6-108">Per scegliere la modalità di risposta di Outlook alle richieste di conferma di lettura, passare a</span><span class="sxs-lookup"><span data-stu-id="105a6-108">To choose how Outlook responds to read receipt requests, go to</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="105a6-109">**Impostazioni** > **Visualizza tutte le impostazioni** > di Outlook**gestione dei messaggi**.</span><span class="sxs-lookup"><span data-stu-id="105a6-109">**Settings** > **View all Outlook settings** > **Message handling**.</span></span>
 
-<span data-ttu-id="888c3-108">Per ulteriori informazioni, vedere [leggere ricevute in Outlook sul Web](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span><span class="sxs-lookup"><span data-stu-id="888c3-108">For more information, see [Read receipts in Outlook on the web](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span></span>
+<span data-ttu-id="105a6-110">Per ulteriori informazioni, vedere [leggere ricevute in Outlook sul Web](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span><span class="sxs-lookup"><span data-stu-id="105a6-110">For more information, see [Read receipts in Outlook on the web](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span></span>

@@ -13,19 +13,20 @@ ms.custom:
 - "8000020"
 - "2003"
 ms.assetid: ''
-ms.openlocfilehash: cda5f38436e00def8573c2d921f4f7f0945d47c7
-ms.sourcegitcommit: 3ddd01d693d306d47509da7a2fd44737b3059dd0
+ms.openlocfilehash: 5d6451bf6200c625f61a0a24178bfd80c9d32860
+ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34422987"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171450"
 ---
-# <a name="export-contacts"></a><span data-ttu-id="76fb8-102">Esportare i contatti</span><span class="sxs-lookup"><span data-stu-id="76fb8-102">Export contacts</span></span>
+# <a name="export-contacts"></a><span data-ttu-id="6224e-102">Esportare i contatti</span><span class="sxs-lookup"><span data-stu-id="6224e-102">Export contacts</span></span>
 
-1. <span data-ttu-id="76fb8-103">Nella parte inferiore della pagina, selezionare l'icona persone per passare alla pagina utenti.</span><span class="sxs-lookup"><span data-stu-id="76fb8-103">At the bottom of the page, select the people icon to go to the People page.</span></span>
-2. <span data-ttu-id="76fb8-104">Sulla barra degli strumenti, selezionare **Gestisci** > **Esporta contatti**.</span><span class="sxs-lookup"><span data-stu-id="76fb8-104">On the toolbar, select **Manage** > **Export contacts**.</span></span> 
-3. <span data-ttu-id="76fb8-105">Scegliere di esportare tutti i contatti o solo i contatti da una cartella specifica, quindi selezionare **Esporta**.</span><span class="sxs-lookup"><span data-stu-id="76fb8-105">Choose to export all contacts or only contacts from a specific folder, and then select **Export**.</span></span>
-4. <span data-ttu-id="76fb8-106">Nella parte inferiore della pagina, fare clic su **Salva** per salvare "Contacts. csv" nella cartella di download predefinita.</span><span class="sxs-lookup"><span data-stu-id="76fb8-106">At the bottom of the page, select **Save** to save "contacts.csv" in your default Downloads folder.</span></span> <span data-ttu-id="76fb8-107">In alternativa, seleziona la freccia accanto a **Salva** e seleziona **Salva con nome**.</span><span class="sxs-lookup"><span data-stu-id="76fb8-107">Or, select the arrow next to **Save** and select **Save as**.</span></span>
+1. <span data-ttu-id="6224e-103">Nella parte inferiore della pagina, seleziona il</span><span class="sxs-lookup"><span data-stu-id="6224e-103">At the bottom of the page, select the</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' />
+ <span data-ttu-id="6224e-104">**Persone**.</span><span class="sxs-lookup"><span data-stu-id="6224e-104">**People**.</span></span>
+2. <span data-ttu-id="6224e-105">Sulla barra degli strumenti, selezionare **Gestisci** > **Esporta contatti**.</span><span class="sxs-lookup"><span data-stu-id="6224e-105">On the toolbar, select **Manage** > **Export contacts**.</span></span> 
+3. <span data-ttu-id="6224e-106">Scegliere di esportare tutti i contatti o solo i contatti da una cartella specifica, quindi selezionare **Esporta**.</span><span class="sxs-lookup"><span data-stu-id="6224e-106">Choose to export all contacts or only contacts from a specific folder, and then select **Export**.</span></span>
+4. <span data-ttu-id="6224e-107">Nella parte inferiore della pagina, fare clic su **Salva** per salvare "Contacts. csv" nella cartella di download predefinita.</span><span class="sxs-lookup"><span data-stu-id="6224e-107">At the bottom of the page, select **Save** to save "contacts.csv" in your default Downloads folder.</span></span> <span data-ttu-id="6224e-108">In alternativa, seleziona la freccia accanto a **Salva** e seleziona **Salva con nome**.</span><span class="sxs-lookup"><span data-stu-id="6224e-108">Or, select the arrow next to **Save** and select **Save as**.</span></span>
 
-<span data-ttu-id="76fb8-108">Per ulteriori informazioni, vedere [esportare contatti da Outlook](https://support.office.com/article/10f09abd-643c-4495-bb80-543714eca73f#ID0EAACAAA=Outlook_on_the_web).</span><span class="sxs-lookup"><span data-stu-id="76fb8-108">To learn more, see [Export contacts from Outlook](https://support.office.com/article/10f09abd-643c-4495-bb80-543714eca73f#ID0EAACAAA=Outlook_on_the_web).</span></span>
+<span data-ttu-id="6224e-109">Per ulteriori informazioni, vedere [esportare contatti da Outlook](https://support.office.com/article/10f09abd-643c-4495-bb80-543714eca73f#ID0EAACAAA=Outlook_on_the_web).</span><span class="sxs-lookup"><span data-stu-id="6224e-109">To learn more, see [Export contacts from Outlook](https://support.office.com/article/10f09abd-643c-4495-bb80-543714eca73f#ID0EAACAAA=Outlook_on_the_web).</span></span>
 
