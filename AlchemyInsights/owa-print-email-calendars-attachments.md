@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 294e1dd9925054c0fb33aee7df238782d2527d84
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
+ms.openlocfilehash: 3f5ce5dbd9307aae9fc497f501d1da9194c45ff9
+ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "35001054"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171305"
 ---
 # <a name="print-email-calendars-and-attachments"></a>Stampa di messaggi di posta elettronica, calendari e allegati
 
@@ -25,13 +25,14 @@ Per stampare un messaggio di posta elettronica:
 
 Per stampare il calendario:
 
-1. Nell'angolo in alto a destra della pagina, selezionare **stampa**.
+1. Nell'angolo in alto a destra della pagina, seleziona <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
+ **Stampa**.
 1. Scegliere la visualizzazione e l'intervallo di tempo e selezionare **stampa**.
 
 Per stampare un allegato:
 
 1. Aprire il messaggio che contiene l'allegato che si desidera stampare.
-2. Spostare il cursore sopra l'allegato e selezionare l'icona **Scarica** .
+2. Spostare il cursore sopra l'allegato e selezionare l'icona **download** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAOCAYAAAD9lDaoAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFicPlKww8AAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAhElEQVQokc2Ouw0EIQxE51Yb0AwdUAAlEEFITXRACUikdEBOBwS4AS46xLIfbXgjOfDoecYgoj6P1rqv3oYX+kuo1voIlFKwxxjRWoO19gQ458AYw6aUGsYKAIAxBh8i6rOZcwbnHABG+nh8rZv3kfRTCAFSysPBCbrS7r1HSukWEELgC33WT/YcDQpnAAAAAElFTkSuQmCC' />.
 3. Dopo il download del file, aprirlo con il programma appropriato e scegliere l'opzione per la stampa. Ad esempio, aprire un file con estensione doc in Word e quindi stampa.
 
 Per ulteriori informazioni, vedere [stampa di messaggi di posta elettronica, allegati e calendari in Outlook sul Web](https://support.office.com/article/2cf529d1-3b8f-4de2-b254-b7f870e58a2b).
