@@ -9,16 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 6a8a9853ce6ad98d68588e3eb6fefbcfc8d8972e
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
+ms.openlocfilehash: 1bf11beb97a8d6bced225b20f363aa9a2b24a367
+ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "35001089"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "36204028"
 ---
 # <a name="create-an-email-signature"></a>Creare una firma di posta elettronica
 
-1. Vai a **Impostazioni** > **Visualizza tutte le impostazioni** > di Outlook compongono**e Rispondi**.
+1. Vai a <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **Impostazioni** > **visualizzare tutte le impostazioni** > **di Outlook comporre e rispondere**.
 1. In **firma di posta elettronica**, digitare la propria firma e utilizzare le opzioni di formattazione disponibili per modificarne l'aspetto.
 
 *Nota:* È possibile disporre di una sola firma per account.

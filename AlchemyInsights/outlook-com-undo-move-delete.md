@@ -12,17 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1752"
 - "9000193"
-ms.openlocfilehash: 37134a58dc11f9004c4303fade3c684627a793bb
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5058b261f72d0a5493260ff025d5a1c7464d0b78
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361065"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36166120"
 ---
 # <a name="action-confirmations"></a>Conferme d'azione
 
 Se si è spostato o eliminato accidentalmente un messaggio, è possibile annullare l'azione. La finestra di dialogo Annulla viene visualizzata nella parte inferiore dello schermo per circa 5 secondi. Fare clic su **Annulla** per annullare l'azione di spostamento o di eliminazione.
 
-Questa funzionalità può essere disattivata nelle conferme di [azione](https://outlook.live.com/mail/options/general/notifications) (**le impostazioni** > **visualizzano tutte le impostazioni** > di Outlook**notifiche****generali** > ).
+Questa funzionalità può essere disattivata nelle conferme di [azione](https://outlook.live.com/mail/options/general/notifications) (<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **Impostazioni** > **Visualizza tutte le impostazioni** > di Outlook**notifiche****generali** > .
 
-Nota: dopo che è stato inviato un messaggio, non è possibile annullare l'azione. Per ulteriori informazioni, vedere [desidero richiamare un messaggio in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
+Nota: dopo che è stato inviato un messaggio, non è possibile annullare l'azione. Per ulteriori informazioni, vedere [desidero richiamare un messaggio in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
