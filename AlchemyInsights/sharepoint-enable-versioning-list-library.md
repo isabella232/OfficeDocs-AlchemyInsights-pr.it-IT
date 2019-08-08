@@ -1,20 +1,24 @@
 ---
-title: Abilitare il controllo delle versioni in un elenco o in una raccolta
-ms.author: kirks
-author: Techwriter40
+title: Controllo delle versioni in SharePoint e OneDrive
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223608"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232662"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>Abilitare il controllo delle versioni per un elenco o una raccolta di SharePoint
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Controllo delle versioni in SharePoint e OneDrive 
 
 
 Quando il controllo delle versioni è abilitato nell'elenco o nella raccolta di SharePoint, è possibile archiviare, tenere presenti e ripristinare gli elementi in un elenco e nei file di una raccolta ogni volta che cambiano. Il controllo delle versioni, Unito ad altre impostazioni, ad esempio il checkout, consente di controllare il contenuto del sito e di fornire un valore reale se si ha la necessità di esaminare o ripristinare una versione precedente di un elemento o di un file.

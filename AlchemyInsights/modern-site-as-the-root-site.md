@@ -1,25 +1,31 @@
 ---
 title: Sito moderno come sito radice
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
 - "1874"
 - "9000265"
-ms.openlocfilehash: 8b45766e920fa5bd6eab8abc6ef808ae978808dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b30fc3258bb76c0ab4bf10af0ec9317417f7c663
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379645"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232719"
 ---
 # <a name="modern-site-as-root-site"></a>Sito moderno come sito radice
 
-In questo momento, in base all'anteprima dei commenti e suggerimenti, è stato deciso di posticipare la funzionalità per abilitare un sito di comunicazione come sito radice. Vi chiediamo scusa per eventuali disagi e comunicheremo una nuova pianificazione tramite il centro messaggi, una volta che è disponibile.
+È stata avviata l'implementazione di una nuova funzionalità che consente di scambiare il sito radice del sito classico con un sito moderno. Utilizzare [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) per scambiare il percorso di un sito con un altro sito durante l'archiviazione del sito originale. Disponibile sia per il sito del team (non connesso a un gruppo) sia per il sito di comunicazione. 
 
-Attualmente, i siti di comunicazione non possono essere abilitati come sito radice.
+>[!Important]
+> Non eliminare il sito radice classico per creare un sito di comunicazione moderno. Questo non è supportato da Microsoft. L'eliminazione del sito radice renderà tutti i siti di SharePoint dell'organizzazione inaccessibili a tutti gli utenti, fino a quando non si ripristina il sito o si crea un nuovo sito nello stesso URL. Questa funzionalità verrà comunicata tramite il centro messaggi. È consigliabile che la caratteristica venga attivata brevemente nel tenant.
 
-**Importante**: non eliminare il sito radice classico per creare un sito di comunicazione moderno. Questo non è supportato da Microsoft. L'eliminazione del sito radice renderà tutti i siti di SharePoint dell'organizzazione inaccessibili a tutti gli utenti, fino a quando non si ripristina il sito o si crea un nuovo sito nello stesso URL.
+## <a name="known-issues-with-swapping-sites"></a>Problemi noti relativi ai siti di swapping
+- Il sito di destinazione potrebbe restituire un errore "not found" (HTTP 404) per un breve periodo di tempo.
+- Il contenuto dovrà essere sottoposto a ricerca per indicizzazione per aggiornare l'indice di ricerca. Non è necessario eseguire un passaggio manuale in questa fase, verrà eseguita automaticamente.
+- È necessario correggere manualmente qualsiasi elemento dipendente dai collegamenti "statici", ad esempio i file di sincronizzazione e di OneNote.
+- Potrebbe essere necessario convalidare i siti di Project Server per assicurarsi che siano ancora associati correttamente. 
