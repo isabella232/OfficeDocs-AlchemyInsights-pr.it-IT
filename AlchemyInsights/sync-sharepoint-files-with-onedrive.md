@@ -1,9 +1,9 @@
 ---
 title: Risolvere i problemi con "Apri con Esplora risorse" in SharePoint Online
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803042"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270712"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Risolvere i problemi con "Apri con Esplora risorse" in SharePoint Online
 
@@ -31,9 +31,9 @@ Se si è scelto di usare la visualizzazione Esplora risorse invece di usare il n
 
 > [!Note]  
 > Il pulsante **Apri con Esplora risorse** non è presente nella nuova esperienza di libreria. Fare clic sull'elenco a discesa **Visualizzazione** in alto a destra (il nome di questo elenco cambia a seconda della visualizzazione corrente) e poi selezionare **Visualizza in Esplora risorse**.
-
+>
  >Apri con Esplora risorse di SharePoint usa i controlli ActiveX, quindi è supportato solo in Internet Explorer 10 o 11. Apri con Esplora risorse non funziona in Windows con Microsoft Edge, Google Chrome, Mozilla Firefox, né sulla piattaforma Mac. Per questo motivo, l'opzione di visualizzazione Esplora risorse potrebbe essere inattiva.
-
+>
 > - [Motivi per cui i pulsanti della barra multifunzione di SharePoint non sono disponibili o sono inattivi](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca).
   
 
