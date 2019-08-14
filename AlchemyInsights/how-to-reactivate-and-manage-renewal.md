@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383533"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389940"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Come riattivare e gestire la fatturazione ricorrente
 
 Ha l'aspetto di un abbonamento scaduto. Se si desidera riattivarlo, ecco come fare.
   
-1. Nell'interfaccia di amministrazione, andare alla pagina [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o andare a abbonamenti **fatturazione** \> ****.
+1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione.
 
 2. Scegliere la sottoscrizione **scaduta** o disattivata. ****
 
@@ -36,11 +36,10 @@ Ha l'aspetto di un abbonamento scaduto. Se si desidera riattivarlo, ecco come fa
 
 Per gestire la fatturazione mensile o annuale è possibile attivare o disattivare la **fatturazione ricorrente** .
   
-1. Nell'interfaccia di amministrazione, andare alla pagina [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o andare a abbonamenti **fatturazione** \> ****.
+1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione.
 
 2. Scegliere l'abbonamento per cui si desidera gestire la fatturazione ricorrente.
 
 3. Consente di attivare o disattivare l'attivazione o disattivazione **** della **fatturazione ricorrente** . ****
 
-Per ulteriori informazioni, vedere: [gestire la fatturazione ricorrente per l'abbonamento](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Per ulteriori informazioni, vedere attiva [fatturazione ricorrente disattivata o disattiva](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

@@ -14,23 +14,21 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f2603b0ae3d739de43c1ed6bcf7703fcd4c5379c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 208eb40788fcf27332245e4590ad204709b32371
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384227"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390192"
 ---
 # <a name="how-to-purchase-education-offer"></a>Come acquistare l'offerta per l'istruzione
 
 Sono stati approvati per Office 365 Education. Per acquistare:
   
-1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054)** o scegliere Fatturazione** \> **Abbonamenti**.
-    
-2. Scegliere la versione di valutazione per **studenti o docenti**.
-    
-3. Scegliere **Acquista ora** nella versione di valutazione che si desidera acquistare. 
-    
-Se si desidera acquistare un abbonamento diverso da quello che è in fase di valutazione, andare alla pagina [acquisto servizi](https://go.microsoft.com/fwlink/p/?linkid=868433) oppure scegliere **servizi di acquisto** **fatturazione** \> e scegliere dall'elenco in piani di **formazione**.
-  
+1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione.
 
+2. Scegliere la versione di valutazione per **studenti o docenti**.
+
+3. Scegliere **Acquista ora** nella versione di valutazione che si desidera acquistare. 
+
+Se si desidera acquistare un abbonamento diverso da quello che è in fase di valutazione, andare alla pagina [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) **fatturazione** \> e scegliere dall'elenco in **piani di formazione**.

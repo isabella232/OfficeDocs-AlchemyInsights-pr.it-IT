@@ -13,28 +13,30 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: a32b3df7df1975b69d3c618195ab3dab3a8da51c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ac8c629c98f6dbd716b0076f2e203a95263fe4f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388033"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389089"
 ---
 # <a name="expired-subscription"></a>Sottoscrizione scaduta
 
 Sembra che si disponga di una o più sottoscrizioni scadute. Se si desidera continuare a eseguire il servizio, è necessario riattivare l'abbonamento o effettuare un nuovo acquisto.
   
- **Riattivare**
+**Riattivare**
   
-1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054)** o scegliere Fatturazione** \> **Abbonamenti**.
+1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione.
 
 2. Scegliere la sottoscrizione da riattivare.
 
 3. A destra, scegliere **riattiva**.
 
- **Effettuare un nuovo acquisto**
+Si sta utilizzando la nuova interfaccia di amministrazione? Per i nuovi passaggi, vedere Riattivare [l'abbonamento](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+
+**Effettuare un nuovo acquisto**
   
-1. Nell'interfaccia di amministrazione, andare alla pagina [acquisto servizi](https://go.microsoft.com/fwlink/p/?linkid=868433) oppure scegliere servizi di **** \> **acquisto**fatturazione.
+1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) per la fatturazione.
 
 2. Scegliere un abbonamento che si desidera acquistare.
 

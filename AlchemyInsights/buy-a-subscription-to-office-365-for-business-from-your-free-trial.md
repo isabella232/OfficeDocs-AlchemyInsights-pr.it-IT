@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359355"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386876"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Acquistare un abbonamento a Office 365 dalla versione di valutazione gratuita
 
@@ -26,18 +26,16 @@ Dopo aver provato Office 365, si è pronti per l'acquisto. Per acquistare Office
   
  **È possibile acquistare lo stesso piano della versione di valutazione**
   
-1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054)** o scegliere Fatturazione** \> **Abbonamenti**.
+1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione.
 
 2. Scegliere **Acquista ora** per la sottoscrizione di valutazione desiderata e seguire i passaggi da eseguire per il check-out.
 
 in alternativa, **è possibile acquistare un abbonamento diverso**
   
-1. Accedere a Office 365 come amministratore globale con il proprio account aziendale o dell'istituto di istruzione. [Come eseguire l'accesso](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
+1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione.
 
-2. Scegliere **Office 365** nella pagina iniziale.
+2. Nella pagina **sottoscrizione** , selezionare **Aggiungi abbonamenti**.
 
-3. Nell'angolo superiore destro della pagina, sotto la barra di spostamento, scegliere **acquisto**.
+3. Individuare l'abbonamento che si desidera acquistare, selezionare **Acquista subito**e seguire i passaggi da eseguire.
 
-4. Nella pagina **acquisto abbonamenti** , il piano che si sta provando ha un banner **di prova** .
-
-5. Scegliere **Acquista ora** per la sottoscrizione di valutazione desiderata e seguire i passaggi da eseguire per il check-out.
+Si sta utilizzando la nuova interfaccia di amministrazione? Per i nuovi passaggi, vedere [acquistare un abbonamento a Office 365 for business dalla versione di valutazione gratuita](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

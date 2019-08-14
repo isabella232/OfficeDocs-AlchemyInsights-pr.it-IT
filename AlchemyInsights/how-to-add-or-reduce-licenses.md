@@ -13,18 +13,18 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: c30ac911efddfa2e5c5e034af0dd27e029ab706a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385657"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388820"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Come aggiungere o ridurre le licenze
 
 Ecco come rimuovere o acquistare altre licenze.
   
-1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054)** o scegliere Fatturazione** \> **Abbonamenti**.
+1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione.
 
 2. A sinistra, scegliere l'abbonamento da cui si desidera aggiungere/rimuovere licenze
 
@@ -38,13 +38,15 @@ Ecco come rimuovere o acquistare altre licenze.
 
 > [!NOTE]
 > Qualsiasi nuova carica (aumento di licenza) o credito (diminuzione della licenza) verrà visualizzata sulla fattura successiva.
-  
+
+Si sta utilizzando la nuova interfaccia di amministrazione? Per i nuovi passaggi, vedere [acquistare licenze per l'abbonamento a Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).
+
  **Risorse**
   
-- [Rimuovere licenze dall'abbonamento a Office 365 per le aziende](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
+- [Rimuovere licenze dall'abbonamento a Office 365 per le aziende](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [Acquistare licenze per l'abbonamento a Office 365 per le aziende](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+- [Acquistare licenze per l'abbonamento a Office 365 per le aziende](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
 
-- [Annullare l'abbonamento a Office 365 per le aziende](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Annullare l'abbonamento a Office 365 per le aziende](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [Acquistare un altro abbonamento a Office 365 per le aziende](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Acquistare un altro abbonamento a Office 365 per le aziende](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)
