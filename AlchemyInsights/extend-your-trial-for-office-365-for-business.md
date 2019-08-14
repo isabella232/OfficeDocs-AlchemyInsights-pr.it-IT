@@ -13,24 +13,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 2754d2c8a1d0e2ab5aaf751ca3bedfe41b11ba3a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387900"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389036"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Estendere la versione di valutazione per Office 365 per le aziende
 
 Se l'abbonamento di valutazione è compreso entro 15 giorni dalla scadenza e il processo non è stato esteso prima, è possibile estendere la versione di valutazione per un altro periodo di 30 giorni. È possibile farlo una sola volta.
   
-1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione** \> **Abbonamenti**.
+1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione.
 
 2. Scegliere la sottoscrizione di valutazione che si desidera estendere.
 
-3. Scegliere **extend Trial** e completare i passaggi della procedura guidata.
+3. Scegliere **extend Trial** e completare i passaggi rimanenti.
 
 4. È necessario fornire informazioni sulla carta di credito per estendere la versione di valutazione. La carta di credito non verrà addebitata per l'estensione di prova.
 
-Per ulteriori informazioni sull'estensione di prove o su istruzioni dettagliate, vedere [estendere la versione di valutazione per Office 365 for business](https://support.office.com/article/75533195-f1f6-4c2c-8ceb-0b5597790d7b).
-  
+Per ulteriori informazioni sull'estensione di prove o su istruzioni dettagliate, vedere [estendere la versione di valutazione per Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial).

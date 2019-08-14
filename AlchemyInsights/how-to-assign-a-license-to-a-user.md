@@ -13,18 +13,18 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385693"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386300"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Come assegnare una licenza a un utente
 
 Un utente ha bisogno di una licenza per avere accesso ai servizi. Di seguito sono riportati i passaggi per aggiungere, modificare o rimuovere una licenza da un utente.
   
-1. Nell'interfaccia di amministrazione passare alla pagina [utenti attivi](https://go.microsoft.com/fwlink/p/?linkid=834822) o scegliere **** \> utenti **attivi**.
+1. Nell'interfaccia di amministrazione, andare alla **** \> pagina utenti [attivi](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
 2. Selezionare la casella accanto al nome dell'utente a cui si desidera assegnare, modificare o rimuovere una licenza.
 
@@ -38,5 +38,4 @@ Un utente ha bisogno di una licenza per avere accesso ai servizi. Di seguito son
 
 5. Nella parte inferiore del riquadro **Licenze di prodotto** scegliere **Salva** \> **Chiudi** \> **Chiudi**.
 
-Per ulteriori informazioni, vedere [assegnare licenze agli utenti in office 365 for business](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)e [rimuovere le licenze dagli utenti in Office 365 for business](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).
-  
+Per ulteriori informazioni, vedere [assegnare licenze agli utenti in office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)e [rimuovere le licenze dagli utenti in Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

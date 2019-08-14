@@ -13,18 +13,18 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 91b2ddf5a121595ecec8790ae625849894b01875
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358545"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385616"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Aggiungere i seggi a una sottoscrizione prepagata
 
-1. Nell'interfaccia di amministrazione passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054)** o scegliere Fatturazione** \> **Abbonamenti**.
+1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione.
 
-2. Scegliere l'abbonamento prepagato che si desidera aggiungere agli utenti.
+2. Scegliere l'abbonamento prepagato a cui si desidera aggiungere gli utenti.
 
 3. Nel menu **altre azioni** scegliere **rinnova o Aggiungi licenza con token**.
 
@@ -35,3 +35,5 @@ ms.locfileid: "35358545"
 6. Immettere il codice "Product Key" e quindi fare clic su **Avanti**.
 
 7. Scegliere l'opzione per aggiungere altri utenti, scegliere **Avanti**, quindi fare **** clic su Riscatta.
+
+Si sta utilizzando la nuova interfaccia di amministrazione? Per i nuovi passaggi, vedere [aggiungere licenze o estendere una sottoscrizione a pagamento per l'utilizzo di un codice Product Key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).

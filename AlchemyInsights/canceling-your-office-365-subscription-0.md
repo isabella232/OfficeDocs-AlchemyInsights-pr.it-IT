@@ -13,18 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 5365cef480f22523e8410acf24f4845026f52a02
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 84538224f9f00f5807489449f3d5e75b99656313
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359769"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386948"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Annullamento dell'abbonamento a Office 365?
 
 Ci dispiace vederti andare!
   
-In base ai dati dell'organizzazione, riteniamo che tutti gli abbonamenti correnti abbiano meno di 25 seggi. Per annullare l'abbonamento online, andare alla pagina [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o andare a abbonamenti **fatturazione** \> ****, quindi scegliere **altre azioni** \> **Annulla sottoscrizione**.
+In base ai dati dell'organizzazione, riteniamo che tutti gli abbonamenti correnti abbiano meno di 25 seggi. Per annullare l'abbonamento online, andare alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione e quindi scegliere **altre azioni** \> **Annulla sottoscrizione**.
   
-Per ulteriori informazioni sull'annullamento di un abbonamento o per istruzioni dettagliate, vedere questo articolo: [Annulla Office 365 for business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
-  
+Per ulteriori informazioni sull'annullamento di un abbonamento o per istruzioni dettagliate, vedere questo articolo: [annullare l'abbonamento](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

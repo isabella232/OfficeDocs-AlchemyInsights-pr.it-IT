@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 9f448e8927f60c6045831805ee238a1762531fd6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 55243adda44931a78ca2a8af06565b8a48dd10b5
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365241"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387584"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Che cosa succede ai dati personali al termine dell'abbonamento a Office 365?
 
@@ -26,8 +26,6 @@ Quando termina l'abbonamento a Office 365, sia perché scade sia perché si deci
   
 Prima che la sottoscrizione raggiunga la data di scadenza, sono disponibili alcune opzioni per **gestire la fatturazione ricorrente per la sottoscrizione**.
   
-- Se la **fatturazione ricorrente** è già attiva, non è necessario eseguire alcuna azione. L'abbonamento verrà addebitato sulla sua data di **fatturazione ricorrente** , e il costo di un altro anno o mese, a seconda della frequenza di pagamento corrente. Se per qualsiasi motivo si è attivata la **fatturazione ricorrente** , è sempre possibile riattivare la [fatturazione ricorrente](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
+- Se la **fatturazione ricorrente** è già attiva, non è necessario eseguire alcuna azione. L'abbonamento verrà addebitato sulla sua data di **fatturazione ricorrente** , e il costo di un altro anno o mese, a seconda della frequenza di pagamento corrente. Se per qualsiasi motivo si è attivata la **fatturazione ricorrente** , è sempre possibile riattivare la [fatturazione ricorrente](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Se si è un cliente con contratti multilicenza aperti con un abbonamento a un anno prepagato, contattare il partner per acquistare un nuovo codice Product Key. Si riceveranno istruzioni tramite posta elettronica per attivare il codice nel [Centro servizi per contratti multilicenza](https://go.microsoft.com/fwlink/p/?LinkID=282016). Per informazioni su come trovare un nuovo partner o il partner con cui si è lavorato in passato, vedere [Trovare il partner o rivenditore di Office 365](https://support.office.com/article/b6c18a9b-2aed-4c84-9d75-af709160258c).
-
-- Se si dispone di Office 365 business, vedere [gestire la fatturazione ricorrente per l'abbonamento](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
+- Se si è un cliente con contratti multilicenza aperti con un abbonamento a un anno prepagato, contattare il partner per acquistare un nuovo codice Product Key. Si riceveranno istruzioni tramite posta elettronica per attivare il codice nel [Centro servizi per contratti multilicenza](https://go.microsoft.com/fwlink/p/?LinkID=282016). Per informazioni su come trovare un nuovo partner o il partner con cui si è lavorato in passato, vedere [Trovare il partner o rivenditore di Office 365](https://docs.microsoft.com/en-us/office365/admin/manage/find-your-partner-or-reseller).
