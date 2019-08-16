@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903708"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387761"
 ---
 # <a name="update-payment-details"></a>Aggiornare i dettagli di pagamento
 
-1. Nell'interfaccia di amministrazione passare alla pagina [Metodo di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806) o scegliere **Fatturazione** \> **Metodo di pagamento**.
+1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [Modalità di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > Se viene di nuovo visualizzata la home page di amministrazione prima del completamento dell'aggiornamento, provare a passare in modalità InPrivate o in incognito.
@@ -37,4 +37,4 @@ ms.locfileid: "35903708"
 
 5. Per rimuovere questo metodo di pagamento, scegliere **Elimina**.
 
-Per altre informazioni, vedere [Aggiungere, aggiornare o rimuovere una carta di credito o un conto corrente bancario in Office 365 per le aziende](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) e [Risoluzione dei problemi relativi alle carte di credito e ai conti correnti bancari](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Per altre informazioni, vedere [Aggiungere, aggiornare o rimuovere una carta di credito o un conto corrente bancario in Office 365 per le aziende](https://docs.microsoft.com/it-IT/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) e [Risoluzione dei problemi relativi alle carte di credito e ai conti correnti bancari](https://docs.microsoft.com/it-IT/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
