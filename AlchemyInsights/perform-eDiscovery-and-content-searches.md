@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371437"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444776"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Come eseguire le ricerche di contenuto e le ricerche di eDiscovery
 
-**Ricerca contenuto**
+Utilizzare lo strumento di ricerca contenuto nel centro sicurezza & conformità per trovare rapidamente la posta elettronica nelle cassette postali di Exchange, i documenti nei siti di SharePoint e l'account OneDrive e le conversazioni di messaggistica istantanea in Skype for business. È inoltre possibile utilizzare lo strumento ricerca contenuto per cercare messaggi di posta elettronica, documenti e conversazioni di messaggistica istantanea negli strumenti di collaborazione di Office 365, ad esempio i gruppi di Microsoft teams e Office 365.
+
+**Per eseguire una ricerca di contenuto**
 
 1. Accedere al [Centro sicurezza & conformità](https://protection.office.com) e accedere.
-2. Fare clic su **cerca & indagine > ricerca contenuto**.
+2. Fare clic su **cerca > contenuto**.
 3. Fare clic su **nuova ricerca** per creare una nuova ricerca.
 4. Immettere le condizioni di ricerca richieste, tra cui parole chiave e percorsi di contenuto.  
 5. Fare clic su **salva & Esegui** per assegnare un nome alla ricerca, avviarla e quindi visualizzare in anteprima i risultati.
 
-Per istruzioni dettagliate sulla creazione di ricerche ed esportazione dei risultati, vedere [questo articolo](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Per istruzioni dettagliate sulle ricerche di contenuto, sull'esportazione dei risultati e sulla creazione dei casi di eDiscovery per contenere i dati, vedere [Content search](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) and [eDiscovery Cases](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
 
-**ricerche eDiscovery**
-
-1. Accedere al [Centro sicurezza & conformità](https://protection.office.com) e accedere.
-2. Fare clic su **Search & investigation > eDiscovery**.
-3. Aprire un caso esistente oppure crearne uno nuovo.
-4. Nella Home page del case, fare clic sulla scheda **ricerche** .  
-5. Fare clic su **nuova ricerca** per creare una nuova ricerca.
-6. Immettere le condizioni di ricerca richieste, tra cui parole chiave e percorsi di contenuto.  
-7. Fare clic su **salva & Esegui** per assegnare un nome alla ricerca, avviarla e quindi visualizzare in anteprima i risultati.
-
-Per istruzioni dettagliate sulla creazione di ricerche associate a un caso di eDiscovery ed esportazione dei risultati, vedere [questo articolo](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Per ulteriori informazioni sulla ricerca di contenuto, vedere i [requisiti e i limiti](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) e [esaminare gli elementi parzialmente indicizzati e gli](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) altri risultati da tenere presenti.
