@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: c1e0ed2c541427705ac97936cdb7b350897a7f3b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: c3d1ce1f0da0710772456baeb63ba2cf1b834fcc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753467"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509870"
 ---
 # <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Consigliare soluzioni per i problemi di archiviazione di Dynamics 365
 
@@ -24,6 +24,6 @@ ms.locfileid: "35753467"
 
 * [Guida alla gestione delle licenze e dei prezzi di Dynamics 365](https://dynamics.microsoft.com/pricing/)
 
-* [Informazioni su come acquistare un altro spazio di archiviazione](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [Informazioni su come acquistare un altro spazio di archiviazione](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
 * [Come liberare lo spazio di archiviazione](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

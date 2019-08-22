@@ -13,12 +13,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3963f9627da61e6b49f00593094084af3c2db5ec
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389036"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526143"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Estendere la versione di valutazione per Office 365 per le aziende
 
@@ -32,4 +32,4 @@ Se l'abbonamento di valutazione è compreso entro 15 giorni dalla scadenza e il 
 
 4. È necessario fornire informazioni sulla carta di credito per estendere la versione di valutazione. La carta di credito non verrà addebitata per l'estensione di prova.
 
-Per ulteriori informazioni sull'estensione di prove o su istruzioni dettagliate, vedere [estendere la versione di valutazione per Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial).
+Per ulteriori informazioni sull'estensione di prove o su istruzioni dettagliate, vedere [estendere la versione di valutazione per Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

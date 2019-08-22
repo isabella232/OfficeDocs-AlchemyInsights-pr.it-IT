@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 960331625e01a4b6ec71cf09184cfdde8f9e4bde
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399074"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529441"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Caricare file in OneDrive o SharePoint
 
@@ -27,6 +27,6 @@ ms.locfileid: "32399074"
 3. Selezionare i file e trascinarli nel percorso in OneDrive o SharePoint. Nota: se si usa Microsoft Edge, Mozilla FireFox o Google Chrome, è anche possibile caricare una cartella e tutti i file in essa contenuti.
     
 > [!NOTE]
->  È possibile caricare file di dimensioni fino a 15 GB. > il percorso completo di un file (incluso il nome del file) non può avere più di 400 caratteri di lunghezza. > se è necessario caricare più di 100 file, [utilizzare il client di sincronizzazione di OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+>  È possibile caricare file di dimensioni fino a 15 GB. > il percorso completo di un file (incluso il nome del file) non può avere una lunghezza massima di 400 caratteri. > se è necessario caricare più di 100 file, [utilizzare il client di sincronizzazione di OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

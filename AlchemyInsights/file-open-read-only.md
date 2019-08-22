@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b7f27e38412fc2a1dea46027e926c660231ed8b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5c28d5f1c6951971aab329060e24b8458e848dd7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401363"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525675"
 ---
 # <a name="file-open-read-only"></a>File aperto di sola lettura
 
@@ -30,7 +30,7 @@ Alcuni programmi antivirus possono proteggersi da file potenzialmente non sicuri
   
  **Il contenuto è in visualizzazione protetta**
   
-I file provenienti da Internet e da altri percorsi potenzialmente non sicuri possono contenere virus, worm o altri tipi di malware che possono danneggiare il computer. Si tratta in genere anche degli allegati di posta elettronica o dei file scaricati. Per proteggere il computer, i file provenienti da questi percorsi potenzialmente non sicuri vengono aperti in visualizzazione protetta. Se si utilizza la visualizzazione protetta, è possibile leggere un file e visualizzarne il contenuto riducendo i rischi. Per ulteriori informazioni sulla visualizzazione protetta e su come modificare le impostazioni, vedere questo articolo: [che cos'è protectEd View?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+I file provenienti da Internet e da altri percorsi potenzialmente non sicuri possono contenere virus, worm o altri tipi di malware che possono danneggiare il computer. Si tratta in genere anche degli allegati di posta elettronica o dei file scaricati. Per proteggere il computer, i file provenienti da questi percorsi potenzialmente non sicuri vengono aperti in visualizzazione protetta. Se si utilizza la visualizzazione protetta, è possibile leggere un file e visualizzarne il contenuto riducendo i rischi. Per ulteriori informazioni sulla visualizzazione protetta e su come modificare le impostazioni, vedere questo articolo: [che cos'è protected View?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **OneDrive è completo?**
   
@@ -38,7 +38,7 @@ Se il file è archiviato su OneDrive e lo spazio di archiviazione di OneDrive è
   
  **Office è attivato?**
   
-Se Office non è attivato o se l'abbonamento è scaduto, è possibile che si trovi in modalità di sola lettura con funzionalità riDotte. Per informazioni su come attivare Office, vedere: [errori di attivazione e di prodotto senza licenza in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Se Office non è attivato o se l'abbonamento è scaduto, è possibile che si trovi in modalità di sola lettura con funzionalità ridotte. Per informazioni su come attivare Office, vedere: [errori di attivazione e di prodotto senza licenza in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Se tutto il resto ha esito negativo...**
   

@@ -9,15 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 17554fdefd4ac8a9248e3e375301edf25edebf05
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35115599"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513687"
 ---
-# <a name="delete-a-sharepoint-site"></a>Eliminare un sito di SharePoint
-**Eliminare siti dalla nuova interfaccia di amministrazione di SharePoint** Utilizzando la nuova interfaccia di amministrazione di SharePoint, è possibile eliminare sia i siti classici che quelli moderni. Selezionare **siti attivi**, selezionare il sito, quindi selezionare **Elimina**. Per [visualizzare e ripristinare i siti eliminati nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selezionare **siti eliminati**. Per altre informazioni, vedere [eliminare un sito nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Eliminare un sito dalla nuova interfaccia di amministrazione di SharePoint
+
+Utilizzando la nuova interfaccia di amministrazione di SharePoint, è possibile eliminare sia i siti classici che quelli moderni. Selezionare **siti attivi**, selezionare il sito, quindi selezionare **Elimina**. Per [visualizzare e ripristinare i siti eliminati nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selezionare **siti eliminati**. Per altre informazioni, vedere [eliminare un sito nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
 **Importante:** Se il sito fa parte di un criterio di conservazione, potrebbe non essere possibile eliminarlo finché il sito non viene rimosso dal criterio dell'interfaccia di [amministrazione della conformità di sicurezza &amp; ](https://protection.office.com/?rfr=AdminCenter#/homepage). Per altre informazioni, vedere [Overview of](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) Retention Policies. 
 

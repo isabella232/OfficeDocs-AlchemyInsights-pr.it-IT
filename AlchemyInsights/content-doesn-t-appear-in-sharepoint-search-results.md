@@ -11,12 +11,12 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363814"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517035"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Il contenuto non viene visualizzato nei risultati della ricerca di SharePoint
 
@@ -28,7 +28,7 @@ Seguire questi passaggi per la risoluzione dei problemi quando il contenuto prev
 
 3. Verificare che la pagina, il documento o il layout di pagina personalizzato sia pubblicato come **versione principale.** Seguire il passaggio 3 nella [ricerca non restituisce tutti i risultati in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Verificare che l'utente disponga **delle autorizzazioni** per visualizzare il contenuto. Seguire la procedura illustrata in [informazioni sui livelli di autorizzazione in SharePoint](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels).
+4. Verificare che l'utente disponga **delle autorizzazioni** per visualizzare il contenuto. Seguire la procedura illustrata in [informazioni sui livelli di autorizzazione in SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
 5. Se lo schema di ricerca è stato modificato aggiungendo una nuova proprietà gestita, modificando una proprietà gestita o rimuovendo una proprietà gestita, sarà necessario richiedere una ricerca per indicizzazione e reindicizzare. **** Reindicizzare il contenuto attenendosi alla procedura descritta in [eseguire manualmente la ricerca per indicizzazione e reindicizzazione di un sito, una raccolta o un elenco](https://docs.microsoft.com/sharepoint/crawl-site-content). Potrebbe essere necessario un po' di tempo, attendere 24 ore prima di controllare di nuovo i risultati.
 

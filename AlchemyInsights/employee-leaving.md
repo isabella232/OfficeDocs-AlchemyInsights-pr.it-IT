@@ -13,21 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386372"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527835"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Avere un dipendente che lascia e deve bloccare l'accesso ai dati e alla posta elettronica?
+# <a name="block-access-to-a-former-employee"></a>Bloccare l'accesso a un ex dipendente
+
+Lasciare un dipendente e dover bloccare l'accesso ai dati e alla posta elettronica di Office 365? Effettuare le seguenti operazioni.
   
 1. Nell'interfaccia di amministrazione, andare alla **** \> pagina utenti [attivi](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-2. Selezionare l'utente che si desidera bloccare.
+2. Selezionare il nome dell'utente che si desidera bloccare.
 
-3. Accanto a stato di accesso, scegliere **modifica**.
+3. Sotto il nome dell'utente, selezionare **blocca questo utente**.
 
-4. Scegliere **blocca l'accesso dell'utente al** \> **salvataggio**.
+4. Scegliere **blocca l'accesso dell'utente in** \> **Save Changes**.
 
-**Nota**: l'accesso per alcune app potrebbe non essere immediato. Eseguire altre operazioni in questo articolo: [rimuovere un ex dipendente da Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)
+**Nota**: l'accesso per alcune app potrebbe non essere immediato. Eseguire altre operazioni in questo articolo: [rimuovere un ex dipendente da Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

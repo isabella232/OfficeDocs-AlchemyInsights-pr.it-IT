@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 81041685cf383a231a9a9739d6daffd6039b4602
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1ef60017f1ea656296bc7b2aa3bc5365646f11f3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403751"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527612"
 ---
 # <a name="enable-mailbox-auditing"></a>Abilitare il controllo delle cassette postali
 
@@ -28,7 +28,7 @@ Set-Mailbox-Identity "Jane Dow"-AuditEnabled consente $true
   
  **Organizzazione**
   
-Get-Mailbox-ResultSize unLimited-Filter {RecipientTypeDetails-EQ "UserMailbox"} | Set-Mailbox-AuditEnabled consente $true
+Get-Mailbox-ResultSize Unlimited-Filter {RecipientTypeDetails-EQ "UserMailbox"} | Set-Mailbox-AuditEnabled consente $true
   
 [Altre informazioni](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
   

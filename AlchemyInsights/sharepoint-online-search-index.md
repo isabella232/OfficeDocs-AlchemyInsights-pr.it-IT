@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059256"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507635"
 ---
-# <a name="search-in-sharepoint-online"></a>Ricerca in SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Indicizzazione e indicizzazione del contenuto in SharePoint Online
 
 Il contenuto deve essere sottoposto a ricerca per indicizzazione e aggiunto all'indice di ricerca per consentire agli utenti di trovare ciò che stanno cercando in SharePoint Online. Il contenuto viene sottoposto a ricerca per indicizzazione in base a una pianificazione di ricerca per indicizzazione predefinita (la pianificazione della ricerca per indicizzazione Il crawler recupera il contenuto modificato dall'ultima ricerca per indicizzazione e aggiorna l'indice. Per assicurarsi che il contenuto venga sottoposto a ricerca per indicizzazione e che l'indice venga aggiornato
 
@@ -30,7 +30,8 @@ Il contenuto deve essere sottoposto a ricerca per indicizzazione e aggiunto all'
 
     Se sono passate più di 24 ore da quando è stata avviata la ricerca per indicizzazione e la reindicizzazione completa, accedere a un caso di supporto. In molti casi, stiamo già lavorando a una soluzione. Per completare una soluzione, è possibile fornirci almeno 24 ore.
 
->[! Importante!]: se un sito, un documento (raccolta) o un elenco è stato eliminato e ancora viene visualizzato nei risultati di ricerca, gli utenti devono ricevere un **file di errore 404 non trovato** durante il tentativo di accedervi. Questo problema dovrebbe essere registrato come caso di supporto per ulteriori indagini. 
+> [!IMPORTANT]
+> Se un sito, un documento (raccolta) o un elenco è stato eliminato e ancora viene visualizzato nei risultati della ricerca, gli utenti devono ricevere un **file di errore 404 non trovato** durante il tentativo di accedervi. Questo problema dovrebbe essere registrato come caso di supporto per ulteriori indagini. 
 
 
 

@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: ebbb69c987b331fb92e5149f972a4489288f8334
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222744"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524595"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Seguire o deselezionare un sito di SharePoint
 
 Esistono diversi modi per seguire un sito che vi interessa in SharePoint. In questo modo è possibile trovare il sito facilmente nell'elenco e consentire di visualizzare le attività dal sito. 
 
-Guardare il video per [seguire un sito di SharePoint](https://support.office.com/en-us/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
+Guardare il video per [seguire un sito di SharePoint](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
 
 Se non si è in grado di seguire o meno un sito e si ritiene che i risultati non siano quelli previsti, vedere se il problema è correlato a un singolo utente o a tutti gli utenti all'interno dell'organizzazione. Se il problema viene rilevato da tutti gli utenti, potrebbe verificarsi un problema di servizio temporaneo. 
 

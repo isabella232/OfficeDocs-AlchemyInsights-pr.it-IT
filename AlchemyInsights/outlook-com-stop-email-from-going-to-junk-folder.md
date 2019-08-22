@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35696945"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511923"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Impedire ai messaggi di passare alla cartella posta indesiderata
 
-Se si rileva che un messaggio di posta elettronica nella cartella posta indesiderata non è indesiderato:
+Se si scopre che un messaggio di posta elettronica nella cartella posta indesiderata in Outlook.com non è indesiderato:
 
 1. Aprire la [cartella posta](https://outlook.live.com/mail/junkemail)indesiderata.
 1. Selezionare il messaggio. (*Nota:* gli elementi presenti nella cartella posta indesiderata vengono eliminati dopo 30 giorni).
