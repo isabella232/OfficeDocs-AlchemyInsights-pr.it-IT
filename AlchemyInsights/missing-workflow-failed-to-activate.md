@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: ce088227a3206fa05b99331fdb022fbe4886203f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 44fd3c2d1e8b278b47c0fde6d48c7cbcbaa5c324
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418437"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543929"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>Impossibile attivare il flusso di lavoro mancante
 
@@ -29,9 +29,9 @@ Per risolvere il problema, attenersi alla seguente procedura:
   
 4. Nel modulo **Crea flusso di lavoro** riutilizzabile, immettere il nome * * *Repair2010* * *. Per il **tipo di piattaforma**, fare clic su flusso di lavoro di **SharePoint 2010**e quindi fare clic su **OK**. 
   
-1. Nella sezione **Salva** della barra multiFunzione del **flusso di lavoro** Selezionare **pubblica**. 
+1. Nella sezione **Salva** della barra multifunzione del **flusso di lavoro** Selezionare **pubblica**. 
   
-2. Nella sezione **Gestisci** della barra multiFunzione del **flusso di lavoro** Selezionare **pubblica globalmente**. Nella finestra di dialogo di conferma che viene visualizzata, selezionare **OK**. 
+2. Nella sezione **Gestisci** della barra multifunzione del **flusso di lavoro** Selezionare **pubblica globalmente**. Nella finestra di dialogo di conferma che viene visualizzata, selezionare **OK**. 
   
 3. In un Web browser individuare il sito Web radice della raccolta siti e quindi accedere alle **funzionalità di raccolta siti** **delle impostazioni** \> del sito. Passare quindi alla funzionalità **flussi di lavoro** : 
   

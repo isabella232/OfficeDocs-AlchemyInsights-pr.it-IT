@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769503"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544615"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Si verificano problemi con un servizio cloud?
 
-Se si verificano problemi con un servizio cloud, è possibile verificare l' [integrità del servizio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) per determinare se si tratta di un problema noto con una risoluzione in corso prima di chiamare il supporto o di passare la risoluzione dei problemi relativi al tempo. Il problema può essere molto temporaneo e già identificato da Microsoft, tuttavia può verificarsi un intervallo di tempo tra l'identificazione dei problemi e la registrazione nel dashboard di integrità dei servizi. Continuare a controllare il dashboard del servizio per ulteriori aggiornamenti.
+Se si verificano problemi con un servizio cloud, è possibile verificare l' [integrità del servizio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) nell'interfaccia di amministrazione di Microsoft 365 per determinare se si tratta di un problema noto con una risoluzione in corso prima di chiamare il supporto o passare la risoluzione dei problemi relativi al tempo. Il problema può essere molto temporaneo e già identificato da Microsoft, tuttavia può verificarsi un intervallo di tempo tra l'identificazione dei problemi e la registrazione nel dashboard di integrità dei servizi. Continuare a controllare il dashboard del servizio per ulteriori aggiornamenti.
 
 **Criterio di notifica**
 
