@@ -12,17 +12,17 @@ ms.custom:
 - "1262"
 - "2000021"
 ms.assetid: 05d36350-3b1e-4a5b-bbb1-0791ae727b8a
-ms.openlocfilehash: 46af6e2ff3aec93aae91f7625190f777fe909788
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 49ebcd433414a07becb035c36903d53a77f98872
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354297"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534387"
 ---
-# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a><span data-ttu-id="94032-102">Passaggi per risolvere l'errore di attivazione di Office 0xc004b100</span><span class="sxs-lookup"><span data-stu-id="94032-102">Steps to resolve Office activation error 0xc004b100</span></span>
+# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a><span data-ttu-id="06258-102">Passaggi per risolvere l'errore di attivazione di Office 0xc004b100</span><span class="sxs-lookup"><span data-stu-id="06258-102">Steps to resolve Office activation error 0xc004b100</span></span>
 
-<span data-ttu-id="94032-103">Provare queste soluzioni per correggere l'errore di attivazione di Office 0xc004b100:</span><span class="sxs-lookup"><span data-stu-id="94032-103">Try these solutions to fix the Office activation error 0xc004b100:</span></span>
+<span data-ttu-id="06258-103">Provare queste soluzioni per correggere l'errore di attivazione di Office 0xc004b100:</span><span class="sxs-lookup"><span data-stu-id="06258-103">Try these solutions to fix the Office activation error 0xc004b100:</span></span>
   
-1. <span data-ttu-id="94032-104">Eseguire una [riparazione online di Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="94032-104">Perform an [Online Repair of Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
+1. <span data-ttu-id="06258-104">Eseguire una [riparazione online di Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="06258-104">Perform an [Online Repair of Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
 
-2. <span data-ttu-id="94032-105">Scaricare e installare l' [Assistente di supporto e ripristino](https://aka.ms/SARA-OfficeActivation-Alchemy) ed eseguire lo strumento di **risoluzione dei problemi**per l'attivazione.</span><span class="sxs-lookup"><span data-stu-id="94032-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
+2. <span data-ttu-id="06258-105">Scaricare e installare l' [Assistente di supporto e ripristino](https://aka.ms/SARA-OfficeActivation-Alchemy) ed eseguire lo strumento di **risoluzione dei problemi**per l'attivazione.</span><span class="sxs-lookup"><span data-stu-id="06258-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>

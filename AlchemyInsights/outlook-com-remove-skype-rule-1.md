@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: 08ad9846feb52242459274f0ca75fa8facbd38e3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4ce51c6bc7af6cf1cd6d82feeff0d9be9159bdbd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372661"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535107"
 ---
-# <a name="skype-icon-missing"></a><span data-ttu-id="c2bc1-102">Icona Skype mancante</span><span class="sxs-lookup"><span data-stu-id="c2bc1-102">Skype icon missing</span></span>
+# <a name="skype-icon-missing"></a><span data-ttu-id="e6751-102">Icona Skype mancante</span><span class="sxs-lookup"><span data-stu-id="e6751-102">Skype icon missing</span></span>
 
-<span data-ttu-id="c2bc1-103">L'icona di Skype è stata temporaneamente rimossa da Outlook.com come parte di un aggiornamento della funzionalità e del ripristino delle caratteristiche di cui siamo entusiasti di essere in esecuzione. Apprezziamo la vostra pazienza mentre prepariamo un'esperienza nuova e migliorata.</span><span class="sxs-lookup"><span data-stu-id="c2bc1-103">We've temporarily removed the Skype icon from Outlook.com as part of a design refresh and feature update we are excited to be rolling out. We appreciate your patience while we prepare a new and improved experience for you.</span></span>
+<span data-ttu-id="e6751-103">L'icona di Skype è stata temporaneamente rimossa da Outlook.com come parte di un aggiornamento della funzionalità e del ripristino delle caratteristiche di cui siamo entusiasti di essere in esecuzione. Apprezziamo la vostra pazienza mentre prepariamo un'esperienza nuova e migliorata.</span><span class="sxs-lookup"><span data-stu-id="e6751-103">We've temporarily removed the Skype icon from Outlook.com as part of a design refresh and feature update we are excited to be rolling out. We appreciate your patience while we prepare a new and improved experience for you.</span></span>
 
-<span data-ttu-id="c2bc1-104">È comunque possibile usare Skype tramite il browser all' [Web.Skype.com](https://web.skype.com/).</span><span class="sxs-lookup"><span data-stu-id="c2bc1-104">You can still use Skype through your browser at [web.skype.com](https://web.skype.com/).</span></span>
+<span data-ttu-id="e6751-104">È comunque possibile usare Skype tramite il browser all' [Web.Skype.com](https://web.skype.com/).</span><span class="sxs-lookup"><span data-stu-id="e6751-104">You can still use Skype through your browser at [web.skype.com](https://web.skype.com/).</span></span>
