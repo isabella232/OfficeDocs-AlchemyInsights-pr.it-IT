@@ -3,7 +3,6 @@ title: Acquisizione dell'amministratore
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: 6c2a4054c48b15f651732165ef0732f5914e18ea
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f347b36de5a2c05fa7d6c54a3858e1b5b4b7c275
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34894849"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505079"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="2addb-102">Diventa amministratore</span><span class="sxs-lookup"><span data-stu-id="2addb-102">Become an Admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="01492-102">Diventa amministratore</span><span class="sxs-lookup"><span data-stu-id="01492-102">Become an admin</span></span>
 
-<span data-ttu-id="2addb-103">Per assumere il ruolo di amministratore per l'organizzazione, è necessario prendere il sopravvento.</span><span class="sxs-lookup"><span data-stu-id="2addb-103">To assume the admin role for this organization, you need take over.</span></span> <span data-ttu-id="2addb-104">Seguire le istruzioni riportate in questa guida per istruzioni dettagliate: informazioni [su come eseguire l'acquisizione di un amministratore IT con O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)</span><span class="sxs-lookup"><span data-stu-id="2addb-104">Follow the instructions in this guide for detailed instructions: [How to perform an IT Admin Takeover with O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)</span></span>
+<span data-ttu-id="01492-103">Per assumere il ruolo di amministratore per l'organizzazione, è necessario prendere il sopravvento.</span><span class="sxs-lookup"><span data-stu-id="01492-103">To assume the admin role for this organization, you need take over.</span></span> <span data-ttu-id="01492-104">Seguire le istruzioni riportate in questa guida per istruzioni dettagliate: informazioni [su come eseguire l'acquisizione di un amministratore IT con O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)</span><span class="sxs-lookup"><span data-stu-id="01492-104">Follow the instructions in this guide for detailed instructions: [How to perform an IT Admin Takeover with O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)</span></span>
