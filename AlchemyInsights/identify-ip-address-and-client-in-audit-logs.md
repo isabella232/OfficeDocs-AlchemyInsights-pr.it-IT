@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382957"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539033"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificare l'indirizzo IP e il client nei registri di controllo
 
-L'indirizzo IP corrispondente a un'attività di un utente o di un amministratore viene visualizzato nei registri di controllo. Vengono inoltre registrate le informazioni sul client. Di seguito vengono illustrati i passaggi per identificare tali informazioni
+L'indirizzo IP che corrisponde a un'attività di un utente o di un amministratore di Office 365 è visualizzato nei registri di controllo. Vengono inoltre registrate le informazioni sul client. Di seguito vengono illustrati i passaggi per identificare tali informazioni
 
-1. Accedere al [Centro sicurezza & conformità di Office 365](https://protection.office.com/)
+1. Accedere al [Centro sicurezza & conformità di Office 365](https://protection.office.com/).
 
-2. Fare clic su **ricerca e analisi** e selezionare **Ricerca log di controllo**.
+2. Passare alla pagina di**ricerca del registro di controllo** della **ricerca** > .
 
    Se si è interessati a un'attività specifica, selezionarla dall'elenco **attività** . In caso contrario, verranno restituite tutte le attività per l'utente selezionato (impostazione predefinita).
 

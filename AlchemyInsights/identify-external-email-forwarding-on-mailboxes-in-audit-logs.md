@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383101"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539105"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificare quando l'inoltro di posta elettronica esterno è configurato per le cassette postali
 
-Quando un utente configura l'inoltro di posta elettronica esterno su una cassetta postale, l'attività viene controllata come parte del cmdlet **Set-Mailbox** . È possibile visualizzare l'attività utilizzando la ricerca del registro di controllo nel centro sicurezza & conformità.
+Quando un utente di Office 365 configura l'inoltro di posta elettronica esterno su una cassetta postale, l'attività viene controllata come parte del cmdlet **Set-Mailbox** . È possibile visualizzare l'attività utilizzando la ricerca del registro di controllo nel centro sicurezza & conformità.
 
-1. Accedere al [Centro sicurezza & conformità di Office 365](https://protection.office.com/)
+1. Accedere al [Centro sicurezza & conformità di Office 365](https://protection.office.com/).
 
-2. Fare clic su **ricerca e analisi** e selezionare **Ricerca log di controllo**.
+2. Passare alla pagina di**ricerca del registro di controllo** della **ricerca** > .
 
 3. Selezionare l'intervallo di date nei campi data di **inizio** e **Data di fine** . Non è necessario specificare un nome utente. Verificare che il campo **attività** sia impostato per **visualizzare i risultati di tutte le attività**.
 
