@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: 4daff733a29dacfb55e1d8502d18d52355af8d46
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "35602147"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546888"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Come risolvere "sembra che non si disponga dell'autorizzazione"
 
-Se viene visualizzato il messaggio di errore "sembra che non si disponga delle autorizzazioni per ottenere la posta elettronica per...." eseguire le operazioni seguenti:
+Se viene visualizzato il messaggio di errore "sembra che non si disponga delle autorizzazioni per ottenere la posta elettronica per..." eseguire le operazioni seguenti:
 
 1. Aprire le [impostazioni dell'account connesso](https://outlook.live.com/mail/options/mail/accounts) e rimuovere o eliminare l'account connesso elencato nell'errore.
 2. Aggiungere di nuovo l'account connesso.

@@ -13,16 +13,16 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: cc352670c7604e83dc3a0742c2caea334182303c
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: b0610e1eb58a080e4acc334658286e8fdf3ecb50
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36049144"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535575"
 ---
 # <a name="receiving-email-from-blocked-senders"></a>Ricezione di messaggi di posta elettronica da mittenti bloccati
 
-Se la posta elettronica proveniente da un mittente bloccato è ancora presente nella posta in arrivo, il mittente potrebbe nascondere il proprio indirizzo di posta elettronica reale. Per controllare l'indirizzo di posta elettronica reale di un mittente:
+Se la posta elettronica proveniente da un mittente bloccato è ancora presente nella cartella posta in arrivo di Outlook.com, il mittente potrebbe nascondere il proprio indirizzo di posta elettronica. Per controllare l'indirizzo di posta elettronica reale di un mittente:
   
 1. Selezionare i tre punti <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
  nella parte superiore della finestra del messaggio e selezionare **Visualizza origine messaggio**.
