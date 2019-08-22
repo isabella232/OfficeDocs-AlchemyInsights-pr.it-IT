@@ -12,15 +12,15 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: b94fcc697bb7ac065cef57f3e3eb0b515c3094a0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7126b4de7f7d8861afdb22af2540d6910c1d014f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35352857"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494459"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="19931-103">Client 5.7.750 bloccato dall'invio da un dominio non registrato</span><span class="sxs-lookup"><span data-stu-id="19931-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="0c4dc-103">Client 5.7.750 bloccato dall'invio da un dominio non registrato</span><span class="sxs-lookup"><span data-stu-id="0c4dc-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
 
-<span data-ttu-id="19931-104">L'errore si verifica quando un volume elevato di messaggi viene inviato da domini che non sono provisioning in Office 365 (aggiunta come domini accettati e convalidati).</span><span class="sxs-lookup"><span data-stu-id="19931-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in Office 365 (added as accepted domains and validated).</span></span>
+<span data-ttu-id="0c4dc-104">L'errore si verifica quando un volume elevato di messaggi viene inviato da domini che non sono provisioning in Office 365 (aggiunta come domini accettati e convalidati).</span><span class="sxs-lookup"><span data-stu-id="0c4dc-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in Office 365 (added as accepted domains and validated).</span></span>
 
-<span data-ttu-id="19931-105">Per evitare questo errore, è possibile utilizzare un connettore del flusso di posta basato sui certificati in cui il dominio del certificato è un dominio di cui è stato effettuato il provisioning oppure eseguire il provisioning di tutti i domini di invio.</span><span class="sxs-lookup"><span data-stu-id="19931-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+<span data-ttu-id="0c4dc-105">Per evitare questo errore, è possibile utilizzare un connettore del flusso di posta basato sui certificati in cui il dominio del certificato è un dominio di cui è stato effettuato il provisioning oppure eseguire il provisioning di tutti i domini di invio.</span><span class="sxs-lookup"><span data-stu-id="0c4dc-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
