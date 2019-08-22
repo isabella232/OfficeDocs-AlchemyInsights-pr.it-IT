@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389714"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496115"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Richiamare o sostituire un messaggio di posta elettronica
+# <a name="recall-or-replace-an-outlook-email-message"></a>Richiamare o sostituire un messaggio di posta elettronica di Outlook
 
 - Come amministratore, è possibile **richiamare i messaggi per conto di utenti che utilizzano PowerShell**. Non è possibile richiamare messaggi dall'interfaccia di amministrazione.
 - È possibile **richiamare solo i messaggi inviati alle persone all'interno dell'organizzazione**. Se il messaggio è stato inviato a un indirizzo Gmail, ad esempio, non è possibile richiamarlo.

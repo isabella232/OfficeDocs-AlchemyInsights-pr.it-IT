@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385616"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495035"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Aggiungere i seggi a una sottoscrizione prepagata
 
-1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione.
+Le licenze di Office 365 prepagate vengono rilasciate come codice alfanumerico a 25 caratteri. Dopo aver acquistato le licenze necessarie, è possibile aggiungerle all'abbonamento. 
 
-2. Scegliere l'abbonamento prepagato a cui si desidera aggiungere gli utenti.
+1. Nell'interfaccia di amministrazione, accedere alla pagina dei[servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** > .
 
-3. Nel menu **altre azioni** scegliere **rinnova o Aggiungi licenza con token**.
+2. Individuare la sottoscrizione a cui si desidera aggiungere le licenze. Selezionare l'elenco a discesa **altre azioni** e quindi scegliere **rinnova o Aggiungi licenza con token**.
 
-4. Selezionare l'opzione **codice Product Key nuovo e inutilizzato** . Se la sottoscrizione è stata creata con un codice Product Key acquistato in un percorso di vendita al dettaglio, potrebbe essere possibile aggiungere utenti con altri metodi di pagamento.
+3. Nella pagina **rinnova o Aggiungi licenze utente** selezionare **utilizza un codice Product Key nuovo e inutilizzato**, quindi fare clic su **Avanti**.
 
-5. Scegliere **Avanti**.
+4. Immettere il codice "Product Key" e quindi fare clic su **Avanti**.
 
-6. Immettere il codice "Product Key" e quindi fare clic su **Avanti**.
+    > [!NOTE]
+    > Se si hanno più codici Product Key, è possibile selezionare **Aggiungi un altro codice Product Key** per immetterli.
 
-7. Scegliere l'opzione per aggiungere altri utenti, scegliere **Avanti**, quindi fare **** clic su Riscatta.
+5. Scegliere di aggiungere gli utenti alla sottoscrizione, quindi selezionare **Avanti**.
 
-Si sta utilizzando la nuova interfaccia di amministrazione? Per i nuovi passaggi, vedere [aggiungere licenze o estendere una sottoscrizione a pagamento per l'utilizzo di un codice Product Key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Esaminare i dettagli dell'ordine, quindi **** selezionare Riscatta.
+
+Per ulteriori informazioni, vedere [aggiungere licenze o estendere una sottoscrizione a pagamento per l'utilizzo di un codice Product Key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
