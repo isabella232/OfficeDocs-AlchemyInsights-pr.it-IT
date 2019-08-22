@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 7bba3d7fc4e432c7c266ce8aa87322fc784a8ac0
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754280"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520527"
 ---
 # <a name="check-in-several-files-at-once"></a>Archiviare più file contemporaneamente
 
-L'archiviazione e l'estrazione dei file è un ottimo metodo per monitorare e controllare il modo in cui il contenuto viene aggiornato. Se si desidera apportare modifiche a un file in un sito e si desidera verificare che nessun altro possa modificarlo, vedere il file. Quando il file è stato estratto, è possibile modificarlo online o offline e salvarlo più volte, se necessario.
+Il controllo dei file all'interno e all'esterno di una raccolta di SharePoint è un ottimo metodo per monitorare e controllare il modo in cui il contenuto viene aggiornato. Se si desidera apportare modifiche a un file in un sito e si desidera verificare che nessun altro possa modificarlo, vedere il file. Quando il file è stato estratto, è possibile modificarlo online o offline e salvarlo più volte, se necessario.
 
 Di seguito sono riportati alcuni collegamenti utili relativi a questa funzionalità.
 

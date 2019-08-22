@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385382"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522507"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Come assegnare licenze di Office agli utenti Mac
 
-- Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina [utenti attivi](https://go.microsoft.com/fwlink/p/?linkid=834822) o scegliere **** \> utenti **attivi**.
+1. Nell'interfaccia di amministrazione, andare alla **** \> pagina utenti [attivi](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-- Selezionare la casella accanto al nome dell'utente a cui si vuole assegnare una licenza.
+2. Selezionare il nome dell'utente a cui si desidera assegnare, modificare o rimuovere una licenza.
 
-- A destra, nella riga **Licenze di prodotto**, scegliere **Modifica**.
+3. Nella scheda **licenze e app** selezionare la licenza che si desidera assegnare all'utente.
 
-- Nel riquadro **licenza del prodotto**, impostare l'interruttore **sulla posizione attivata** per la licenza che si desidera assegnare all'utente.
+    Per impostazione predefinita, tutti i servizi associati alla licenza vengono automaticamente assegnati all'utente. Per limitare i servizi disponibili per l'utente, deselezionare la casella di controllo relativa ai servizi che non si desidera vengano conferiti dall'utente.
 
-- Nella parte inferiore del riquadro **Licenze di prodotto** scegliere **Salva** \> **Chiudi** \> **Chiudi**.
+4. Nella parte inferiore del riquadro fare clic su **Salva modifiche**.
 
 Per ulteriori informazioni: [assegnare licenze agli utenti in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   

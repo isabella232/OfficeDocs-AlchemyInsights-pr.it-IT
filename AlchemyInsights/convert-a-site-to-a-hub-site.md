@@ -11,12 +11,12 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: bdb4997d6e3b837725d766565c39201ff7c3b04d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364656"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516747"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>Creare un sito hub di SharePoint
 
@@ -27,7 +27,7 @@ ms.locfileid: "35364656"
 3. Immettere un nome visualizzato per il sito hub e specificare i singoli utenti o gruppi di sicurezza che si desidera consentire di associare i siti all'hub.
 
     > [!NOTE]
-    >  È consigliabile selezionare un sito di comunicazione o un sito del team che utilizza il nuovo modello. Se si utilizza un sito del team classico, la struttura di spostamento hub verrà visualizzata solo nelle pagine moderne e le impostazioni del sito hub verranno visualizzate solo nelle pagine moderne. > siti già associati a un altro hub non possono essere registrati come sito hub.
+    >  È consigliabile selezionare un sito di comunicazione o un sito del team che utilizza il nuovo modello. Se si utilizza un sito del team classico, la struttura di spostamento hub verrà visualizzata solo nelle pagine moderne e le impostazioni del sito hub verranno visualizzate solo nelle pagine moderne. I siti già associati a un altro hub non possono essere registrati come sito hub.
   
 [Altre informazioni sui siti hub](https://go.microsoft.com/fwlink/?linkid=869149)
   

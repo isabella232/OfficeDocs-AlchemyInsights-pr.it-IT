@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 8c0ab0086ca47ead5705d423f01824081d0e109e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755335"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523983"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Viene visualizzato un errore di TenantAccessBlockedException quando si accede alla posta elettronica?
 
 È possibile che venga visualizzato un errore diverso. Ad esempio:
 
-- Verificare che la sottoscrizione sia valida nella pagina **** \> **sottoscrizioni** di fatturazione nell'interfaccia di [amministrazione di Microsoft 365](https://portal.office.com/adminportal/home#/subscriptions).
+- Verificare che la sottoscrizione sia valida nella pagina prodotti di **fatturazione** \> [& Servizi](https://portal.office.com/adminportal/home#/subscriptions) dell'interfaccia di amministrazione di Microsoft 365.
 
-- Controllare se sono presenti notifiche precedenti nella pagina **** \> **fatture** di fatturazione nell'interfaccia di [amministrazione di Microsoft 365](https://portal.office.com/adminportal/home#/billoverview).
+- Controllare se sono presenti notifiche precedenti sulla **fatturazione** \> [& pagamenti](https://portal.office.com/adminportal/home#/billoverview) nell'interfaccia di amministrazione di Microsoft 365.
 
 - Se la fatturazione e le sottoscrizioni per l'account sono state aggiornate di recente, potrebbe essere necessario che le modifiche vengano propagate. Provare di nuovo in pochi minuti e, se il problema persiste, contattaci.
