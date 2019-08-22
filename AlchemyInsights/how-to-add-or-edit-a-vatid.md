@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386408"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522615"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="dc0bc-102">Come aggiungere o modificare un VatID</span><span class="sxs-lookup"><span data-stu-id="dc0bc-102">How to add or edit a VatID</span></span>
+# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="503ff-102">Come aggiungere o modificare un VatID</span><span class="sxs-lookup"><span data-stu-id="503ff-102">How to add or edit a VatID</span></span>
 
-- <span data-ttu-id="dc0bc-103">Nell'interfaccia di amministrazione, andare alla pagina \*\*\*\* \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione.</span><span class="sxs-lookup"><span data-stu-id="dc0bc-103">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1.  <span data-ttu-id="503ff-103">Nell'interfaccia di amministrazione di Microsoft 365, accedere alla pagina prodotti di **fatturazione** \> [& servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="503ff-103">In the Microsoft 365 admin center, go to the **Billing** \> [Products & servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-- <span data-ttu-id="dc0bc-104">Nella pagina **abbonamenti** selezionare l'abbonamento che si desidera modificare, quindi scegliere **altre azioni** \> **modifica numero partita IVA**.</span><span class="sxs-lookup"><span data-stu-id="dc0bc-104">On the **Subscriptions** page, choose the subscription you want to edit, then choose **More Actions** \> **Edit VAT number**.</span></span>
+2. <span data-ttu-id="503ff-104">Trovare la scheda di sottoscrizione per l'abbonamento che si desidera aggiornare.</span><span class="sxs-lookup"><span data-stu-id="503ff-104">Find the subscription card for the subscription you want to update.</span></span>
 
-- <span data-ttu-id="dc0bc-105">Nella parte inferiore del riquadro **modifica l'indirizzo di utilizzo del servizio** , immettere o modificare l'ID partita IVA nella casella **numero di partita IVA** e quindi fare clic su **Invia**.</span><span class="sxs-lookup"><span data-stu-id="dc0bc-105">At the bottom of the **Edit your service usage address** pane, enter or edit your VAT ID in the **Vat number** box, and then choose **Submit**.</span></span>
+3. <span data-ttu-id="503ff-105">Nella sezione **impostazioni & azioni** selezionare **modifica indirizzo di utilizzo del servizio**.</span><span class="sxs-lookup"><span data-stu-id="503ff-105">In the **Settings & Actions** section, select **Edit service usage address**.</span></span>
 
-    <span data-ttu-id="dc0bc-106">Al termine dell'operazione, l'IVA non verrà addebitata sulla fattura successiva.</span><span class="sxs-lookup"><span data-stu-id="dc0bc-106">When complete, VAT will not be charged on your next bill.</span></span>
+4. <span data-ttu-id="503ff-106">Nella pagina **modifica l'indirizzo di utilizzo del servizio** immettere l'ID IVA nella casella **numero di partita IVA** e quindi fare clic su **Salva**.</span><span class="sxs-lookup"><span data-stu-id="503ff-106">On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then select **Save**.</span></span>
 
-<span data-ttu-id="dc0bc-107">Per ulteriori informazioni, vedere [quali imposte vengono addebitate per Office 365?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span><span class="sxs-lookup"><span data-stu-id="dc0bc-107">For more information, see [What tax will I be charged for Office 365?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span></span>
+    <span data-ttu-id="503ff-107">Al termine dell'operazione, l'IVA non verrà addebitata sulla fattura successiva.</span><span class="sxs-lookup"><span data-stu-id="503ff-107">When complete, VAT will not be charged on your next bill.</span></span>
 
-<span data-ttu-id="dc0bc-108">Si sta utilizzando la nuova interfaccia di amministrazione?</span><span class="sxs-lookup"><span data-stu-id="dc0bc-108">Are you using the new admin center?</span></span> <span data-ttu-id="dc0bc-109">Per i nuovi passaggi, vedere [Add your VAT ID](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span><span class="sxs-lookup"><span data-stu-id="dc0bc-109">For new steps, see [Add your VAT ID](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span></span>
+<span data-ttu-id="503ff-108">Per ulteriori informazioni, vedere [quali imposte vengono addebitate per Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) oppure [aggiungere l'ID partita IVA](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span><span class="sxs-lookup"><span data-stu-id="503ff-108">For more information, see [What tax will I be charged for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) or [Add your VAT ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span></span>
