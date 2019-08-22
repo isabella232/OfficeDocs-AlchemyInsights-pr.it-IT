@@ -12,22 +12,22 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: e12979eab0a5d7aada04e42403241bbc54d1f105
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3a1cc0b5cfed4a149641a1295898c8f0b77797dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389293"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529635"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="e8271-102">Sono presenti messaggi legittimi contrassegnati come posta indesiderata?</span><span class="sxs-lookup"><span data-stu-id="e8271-102">Do you have legitimate messages being marked as spam?</span></span>
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="bb390-102">Sono presenti messaggi legittimi contrassegnati come posta indesiderata?</span><span class="sxs-lookup"><span data-stu-id="bb390-102">Do you have legitimate messages being marked as spam?</span></span>
 
-<span data-ttu-id="e8271-103">Vedere la diagnostica precedente oppure la [guida dettagliata alla soluzione del problema dei messaggi corretti contrassegnati come posta indesiderata](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span><span class="sxs-lookup"><span data-stu-id="e8271-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
+<span data-ttu-id="bb390-103">Vedere la diagnostica precedente oppure la [guida dettagliata alla soluzione del problema dei messaggi corretti contrassegnati come posta indesiderata](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span><span class="sxs-lookup"><span data-stu-id="bb390-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
   
-<span data-ttu-id="e8271-104">Il modo migliore per segnalare questi tipi di problemi è il seguente:</span><span class="sxs-lookup"><span data-stu-id="e8271-104">The best way to report these types of issues is to:</span></span>
+<span data-ttu-id="bb390-104">Il modo migliore per segnalare questi tipi di problemi è il seguente:</span><span class="sxs-lookup"><span data-stu-id="bb390-104">The best way to report these types of issues is to:</span></span>
   
-1. <span data-ttu-id="e8271-105">[Attivare il componente aggiuntivo di segnalazione](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) per l’utente.</span><span class="sxs-lookup"><span data-stu-id="e8271-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
+1. <span data-ttu-id="bb390-105">[Attivare il componente aggiuntivo di segnalazione](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) per l’utente.</span><span class="sxs-lookup"><span data-stu-id="bb390-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
 
-2. <span data-ttu-id="e8271-106">Chiedere agli utenti di [segnalare il messaggio come attendibile](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="e8271-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
+2. <span data-ttu-id="bb390-106">Chiedere agli utenti di [segnalare il messaggio come attendibile](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="bb390-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
 
-<span data-ttu-id="e8271-107">Per aprire un ticket di supporto, allegare l’intestazione del messaggio di posta elettronica completa di almeno **uno dei messaggi originali** seguenti.</span><span class="sxs-lookup"><span data-stu-id="e8271-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span>
+<span data-ttu-id="bb390-107">Per aprire un ticket di supporto, allegare l’intestazione del messaggio di posta elettronica completa di almeno **uno dei messaggi originali** seguenti.</span><span class="sxs-lookup"><span data-stu-id="bb390-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span>
   
