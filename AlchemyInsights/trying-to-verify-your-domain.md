@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420128"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533248"
 ---
 # <a name="trying-to-verify-your-domain"></a>Si vuole verificare il proprio dominio?
 
-È necessario aggiungere un record TXT presso il registrar per dimostrare di essere proprietari del dominio. Seguire la procedura guidata di aggiunta dominio facendo clic su **Impostazioni** \> **Dominio** e quindi su **Aggiungi dominio**. 
+È necessario aggiungere un record TXT presso il registrar per dimostrare di essere proprietari del dominio. Seguire la procedura guidata nuovo dominio nell'interfaccia di amministrazione di Microsoft 365 accedendo ai **domini**di **installazione** \> e quindi **aggiungere dominio**. 
   
 Seguire le istruzioni fornite nell'articolo seguente per aggiungere un record TXT per verificare il dominio. Selezionare il proprio registrar per visualizzare istruzioni specifiche per il dominio.
   

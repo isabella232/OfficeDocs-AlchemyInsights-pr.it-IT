@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403679"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527475"
 ---
 # <a name="enable-multi-factor-authentication"></a>Abilitare l'autenticazione a più fattori
 
-1. Passare a **** \> utenti **attivi**
+Per abilitare l'autenticazione a più fattori nell'interfaccia di amministrazione di Microsoft 365:
+
+1. Passare alla **** \> pagina utenti **attivi** .
     
-2. Fare clic su **altre** \> impostazioni per l' **autenticazione a più fattori di Azure**. 
+2. Nella parte superiore della pagina selezionare autenticazione a più **fattori**. 
     
-3. Individuare l'utente o gli utenti che si desidera abilitare per l'AMF. Per visualizzare tutti gli utenti, potrebbe essere necessario modificare la visualizzazione dello stato dell'autenticazione a più fattori nella parte superiore.
+3. Individuare l'utente o gli utenti che si desidera abilitare per l'autenticazione a più fattori. Per visualizzare tutti gli utenti, potrebbe essere necessario modificare il filtro di **stato dell'autenticazione** a più fattori nella parte superiore.
     
 4. Selezionare la casella di controllo accanto agli utenti che si desidera abilitare.
     
-5.  Nel riquadro delle informazioni utente destro, in **passaggi rapidi** , vengono visualizzate le impostazioni di abilitazione e gestione degli utenti. Scegliere **Abilita**. 
+5.  Nel riquadro Info utente destro, in **passaggi rapidi**, selezionare **Abilita**. 
     
-6. Nella finestra di dialogo visualizzata, **fare clic su Abilita autenticazione a più fattori**. 
+6. Nella finestra di dialogo che viene visualizzata, selezionare **Abilita autenticazione a più fattori**. 
     
 

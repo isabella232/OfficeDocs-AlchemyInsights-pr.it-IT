@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388187"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534171"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Passare a un piano diverso di Office 365 per le aziende
 
-[]Se si verificano dei cambiamenti all'interno dell'organizzazione o servono altre caratteristiche di Office 365, è possibile cambiare piano.
+Quando la tua azienda cambia o hai bisogno di altre funzionalità di Office 365, puoi eseguire l'aggiornamento a un nuovo piano.
   
-1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione.
+1. Nell'interfaccia di amministrazione, accedere alla pagina dei [servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** \> .
 
-2. Scegliere **Cambia piano** per visualizzare l'elenco dei nuovi piani disponibili.
+2. Selezionare l'abbonamento che si desidera aggiornare.
 
-3. Scegliere un piano per vedere il nuovo costo mensile totale. Assicurarsi di leggere le informazioni sulla chiave, quindi scegliere **Avanti** per il check-out.
+3. Nella pagina Dettagli sottoscrizione fare clic su **Aggiorna**.
 
-Il pulsante Cambia piano non è supportato in tutte le situazioni. In alcuni casi potrebbe essere necessario cambiare piano manualmente.
-  
-Se il pulsante **Cambia piano** non è disponibile, è possibile provare a [cambiare piano manualmente](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) oppure utilizzare l'opzione "Let us Call You" per comunicare con un tecnico di supporto.
-  
-Si sta utilizzando la nuova interfaccia di amministrazione? Per i nuovi passaggi, vedere [aggiornamento a un piano diverso](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+4. Individuare il piano a cui si desidera eseguire l'aggiornamento, quindi selezionare il pulsante **Aggiorna** .
+
+5. Immettere il numero di licenze necessarie, scegliere se pagare ogni mese o per l'intero anno, quindi selezionare Estrai. ****
+   
+Per ulteriori informazioni, vedere [eseguire l'aggiornamento a un piano diverso](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
