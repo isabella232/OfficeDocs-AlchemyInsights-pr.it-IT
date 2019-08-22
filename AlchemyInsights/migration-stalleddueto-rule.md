@@ -12,13 +12,13 @@ ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 8a2e336a2c55c7939a01333f527f3b0b2111b3bb
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 392fda3b5e0dc9e625816c5fa3f8dd760924bb7b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379789"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543965"
 ---
-# <a name="stalleddueto-errors-during-migration"></a><span data-ttu-id="af974-102">Errori di StalledDueTo durante la migrazione</span><span class="sxs-lookup"><span data-stu-id="af974-102">StalledDueTo errors during migration</span></span>
+# <a name="stalleddueto-errors-during-migration"></a><span data-ttu-id="df4a3-102">Errori di StalledDueTo durante la migrazione</span><span class="sxs-lookup"><span data-stu-id="df4a3-102">StalledDueTo errors during migration</span></span>
 
-<span data-ttu-id="af974-103">Potrebbe essere possibile visualizzare una serie di errori che iniziano con "StalledDueTo..." durante la migrazione a Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="af974-103">You might see a variety of errors that begin with "StalledDueTo…" during your migration to Exchange Online.</span></span> <span data-ttu-id="af974-104">Molti di questi errori sono perfettamente normali.</span><span class="sxs-lookup"><span data-stu-id="af974-104">Many of these errors are perfectly normal.</span></span> <span data-ttu-id="af974-105">Per ulteriori informazioni, vedere [limitazione delle risorse e definizione delle priorità nelle migrazioni di Exchange Online](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span><span class="sxs-lookup"><span data-stu-id="af974-105">For more information, see [Resource Based Throttling and Prioritization in Exchange Online Migrations](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span></span>
+<span data-ttu-id="df4a3-103">Potrebbe essere possibile visualizzare una serie di errori che iniziano con "StalledDueTo..." durante la migrazione a Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="df4a3-103">You might see a variety of errors that begin with "StalledDueTo…" during your migration to Exchange Online.</span></span> <span data-ttu-id="df4a3-104">Molti di questi errori sono perfettamente normali.</span><span class="sxs-lookup"><span data-stu-id="df4a3-104">Many of these errors are perfectly normal.</span></span> <span data-ttu-id="df4a3-105">Per ulteriori informazioni, vedere [limitazione delle risorse e definizione delle priorità nelle migrazioni di Exchange Online](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span><span class="sxs-lookup"><span data-stu-id="df4a3-105">For more information, see [Resource Based Throttling and Prioritization in Exchange Online Migrations](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span></span>
