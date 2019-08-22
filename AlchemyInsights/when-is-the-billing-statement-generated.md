@@ -13,15 +13,15 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 32a87bf8ea0a8254096a3a7e69a3fce8095f6a54
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 15ffb86313b4dbb6fb0ea839cccb079e8cf221eb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387551"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530872"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="37225-102">Quando viene generato l'istruzione di fatturazione</span><span class="sxs-lookup"><span data-stu-id="37225-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="b4e7f-102">Quando viene generato l'istruzione di fatturazione</span><span class="sxs-lookup"><span data-stu-id="b4e7f-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="37225-103">Ogni mese si riceverà un messaggio di posta elettronica che informa che la nuova dichiarazione di fatturazione è disponibile nell'interfaccia di amministrazione di Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="37225-103">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center.</span></span> <span data-ttu-id="37225-104">La fattura è composta da due pagine.</span><span class="sxs-lookup"><span data-stu-id="37225-104">Your invoice contains two pages.</span></span> <span data-ttu-id="37225-105">La pagina 1 contiene il riepilogo e informazioni generali su fattura, ordine, importo dovuto e modalità di pagamento, oltre a indicazioni su come contattare il supporto.</span><span class="sxs-lookup"><span data-stu-id="37225-105">Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.</span></span> <span data-ttu-id="37225-106">La pagina 2 contiene dettagli sull'attività di fatturazione per ogni abbonamento.</span><span class="sxs-lookup"><span data-stu-id="37225-106">Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="b4e7f-103">Ogni mese si riceverà un messaggio di posta elettronica che informa che la nuova dichiarazione di fatturazione è disponibile nell'interfaccia di amministrazione di Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="b4e7f-103">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center.</span></span> <span data-ttu-id="b4e7f-104">La fattura è composta da due pagine.</span><span class="sxs-lookup"><span data-stu-id="b4e7f-104">Your invoice contains two pages.</span></span> <span data-ttu-id="b4e7f-105">La pagina 1 contiene il riepilogo e informazioni generali su fattura, ordine, importo dovuto e modalità di pagamento, oltre a indicazioni su come contattare il supporto.</span><span class="sxs-lookup"><span data-stu-id="b4e7f-105">Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.</span></span> <span data-ttu-id="b4e7f-106">La pagina 2 contiene dettagli sull'attività di fatturazione per ogni abbonamento.</span><span class="sxs-lookup"><span data-stu-id="b4e7f-106">Page 2 contains details about the billing activity for each subscription.</span></span>
   
-<span data-ttu-id="37225-107">Per ulteriori informazioni sui concetti relativi alla fatturazione, vedere [understand your fattura](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/understand-your-invoice).</span><span class="sxs-lookup"><span data-stu-id="37225-107">To learn more about billing concepts, see [Understand your invoice](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/understand-your-invoice).</span></span>
+<span data-ttu-id="b4e7f-107">Per ulteriori informazioni sui concetti relativi alla fatturazione, vedere [understand your fattura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).</span><span class="sxs-lookup"><span data-stu-id="b4e7f-107">To learn more about billing concepts, see [Understand your invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).</span></span>
