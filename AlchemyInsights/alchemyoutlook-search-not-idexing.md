@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397938"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505835"
 ---
 # <a name="outlook-search-not-indexing"></a>Ricerca di Outlook non indicizzazione
 
 Siamo a conoscenza dei problemi di ricerca di Outlook relativi agli aggiornamenti di sicurezza recenti per Windows.
   
-Quando si esegue una ricerca in Outlook, è possibile che venga visualizzato questo errore: * * qualcosa è andato storto e la ricerca non è stata completata * * oppure **i risultati della ricerca potrebbero essere incompleti perché gli elementi vengono ancora indicizzati**. La correzione è stata emessa come aggiornamento di Windows facoltativo. Installare quello corrispondente alla versione di Windows in cui si sta vedendo questo problema: 
+Quando si esegue una ricerca in Outlook, è possibile che venga visualizzato uno di questi errori: **qualcosa è andato storto e la ricerca non**è stata completata oppure **i risultati della ricerca potrebbero essere incompleti perché gli elementi vengono ancora indicizzati**. La correzione è stata emessa come aggiornamento di Windows facoltativo. Installare quello corrispondente alla versione di Windows in cui si sta vedendo questo problema: 
   
 > [Windows 7-27 giugno 2017 Update](https://support.microsoft.com/kb/4022168.aspx)
     
