@@ -13,20 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e654137489609da2273d199b4eedb9227c7db011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355377"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549943"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Controllare le impostazioni di inoltro della posta elettronica per una cassetta postale
 
-È facile verificare le impostazioni di inoltro della posta elettronica in una cassetta postale. Basta seguire questa procedura.
+È facile verificare le impostazioni di inoltro della posta elettronica in una cassetta postale di Office 365. Basta seguire questa procedura.
   
-> Se si tratta di una cassetta postale utente, **** \> passare a utenti **attivi** e selezionare la cassetta postale dell'utente che si sta inoltrando. In impostazioni di posta elettronica scegliere **modifica** per l'inoltro della posta elettronica.
+> Se si tratta di una cassetta postale utente, **** \> passare a utenti **attivi** e selezionare la cassetta postale dell'utente che si sta inoltrando. Nella scheda **posta** , selezionare **Gestisci inoltro di posta elettronica**.
     
-> Se si tratta di una cassetta postale condivisa, passare a **gruppi** \> di **cassette postali condivise** e selezionare la cassetta postale condivisa che si sta inoltrando. Scegliere **modifica** per l'inoltro della posta elettronica.
+> Se si tratta di una cassetta postale condivisa, passare a **gruppi** \> di **cassette postali condivise** e selezionare la cassetta postale condivisa che si sta inoltrando. Modifica **modifica** per l'inoltro della posta elettronica.
 
 Per ulteriori informazioni, vedere [configurare l'inoltro della posta elettronica in Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
   
