@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356601"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553436"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Richiamare o sostituire un messaggio di posta elettronica
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Richiamare o sostituire un messaggio di posta elettronica in Office 365
 
 - È possibile **richiamare solo i messaggi inviati alle persone all'interno dell'organizzazione**. Se il messaggio è stato inviato a un indirizzo Gmail, ad esempio, non è possibile richiamarlo.
 - È possibile **richiamare solo i messaggi inviati da Outlook 2016 per il PC**. Se un utente invia un messaggio utilizzando Outlook per Mac o Outlook sul Web, non è possibile richiamarlo.
 - Se si è un amministratore, è possibile **richiamare i messaggi per conto degli utenti utilizzando PowerShell**. Non è possibile richiamare messaggi dall'interfaccia di amministrazione. Scorrere verso il basso fino a "cercare ed eliminare i messaggi di posta elettronica nell'organizzazione" per ulteriori informazioni.
 
-***Richiamare o sostituire un messaggio di posta elettronica inviato***
+**Richiamare o sostituire un messaggio di posta elettronica inviato**
 
 1. Nel riquadro delle cartelle nella parte sinistra della finestra di Outlook scegliere la cartella posta inviata.
 2. Aprire il messaggio che si desidera richiamare. È necessario fare doppio clic per aprire il messaggio. Se si seleziona il messaggio in modo che venga visualizzato nel riquadro di lettura, non sarà possibile richiamare il messaggio.

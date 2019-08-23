@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388460"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553580"
 ---
-# <a name="question-about-licenses"></a>Domanda sulle licenze
+# <a name="questions-about-your-office-365-license"></a>Domande sulla licenza di Office 365
 
 Se si desidera sapere quante licenze sono state acquistate o quante licenze vengono assegnate da un abbonamento:
   
-1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione.
+1. Nell'interfaccia di amministrazione, accedere alla pagina dei [servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** \> .
 
-2. Scegliere l'abbonamento di cui si desidera sapere di più.
+2. Sotto il nome dell'abbonamento di cui si vuole sapere di più, è possibile visualizzare il numero di licenze che si sta pagando e quante sono disponibili per essere assegnate.
 
-3. Sul lato sinistro della scheda di sottoscrizione sono rilasciate le informazioni sulle licenze:
-
-  - Il numero **acquistato** è il numero di licenze pagate.
-
-  - Il numero **assegnato** è il numero di licenze assegnate a un utente.
-
-4. Se si desidera aggiungere altre licenze o se si dispone di troppe, scegliere **Aggiungi/Rimuovi licenze** per regolare l'importo acquistato.
+Se si desidera aggiungere altre licenze o se si dispone di troppe, scegliere **Aggiungi/Rimuovi licenze** per regolare l'importo acquistato.
