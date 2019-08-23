@@ -14,18 +14,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372960"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555381"
 ---
 # <a name="enable-password-sync"></a>Abilitare la sincronizzazione delle password
 
-1.  Scegliere **stato dirsync** nella Home page dell'interfaccia di amministrazione di O365. 
+1.  Scegliere **stato dirsync** nella Home page dell'interfaccia di amministrazione di Microsoft 365. 
     
-     * In alternativa, è possibile accedere agli **** \> utenti * * utenti attivi **, quindi nella pagina utenti attivi scegliere **altre** \> **sincronizzazione della directory.** * 
+     *In alternativa, è **** \> possibile accedere agli utenti **attivi**degli utenti, quindi nella pagina utenti attivi scegliere **altre** \> **sincronizzazione della directory.*** 
     
 2. Nel riquadro di sincronizzazione della directory scegliere **Vai a gestione dirsync**. 
     
