@@ -13,25 +13,24 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389000"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522795"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Come si aggiornano le informazioni della carta di credito?
 
-1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina **Fatturazione** \> [Modalità di pagamento](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Scegliere l'abbonamento acquistato con la carta di credito o il conto corrente bancario da aggiornare e quindi scegliere **Aggiorna dettagli pagamento**.
+2. Nella pagina **Modalità di pagamento** selezionare la carta di credito o il conto corrente bancario da aggiornare.
 
-3. Fare clic sulla freccia dell'elenco a discesa in **Aggiungere o selezionare una modalità di pagamento**, scegliere la carta di credito o il conto corrente bancario da aggiornare, quindi scegliere **Modifica dettagli**.
+3. Per modificare le informazioni della carta di credito o del conto corrente bancario, selezionare **Modifica dettagli pagamento**.
 
-4. Aggiornare le informazioni sulla carta di credito o sul conto corrente bancario (nome riportato sulla carta di credito o sul conto corrente bancario, indirizzo di fatturazione, numero di telefono o data di scadenza), quindi scegliere **Invia**.
+> [!NOTE]
+> Se l'abbonamento è stato acquistato da un altro amministratore, non sarà possibile aggiornare le informazioni sulla carta di credito o sul conto corrente bancario. Se la carta di credito sta per scadere e l'altro amministratore non è in grado di aggiornarla, è possibile impedire l'interruzione del servizio aggiungendo una carta di credito diversa o un nuovo conto corrente bancario per l'abbonamento.
 
-5. Dovrebbe essere visualizzato un messaggio di conferma.
+4. Aggiornare le informazioni necessarie sulla carta di credito o sul conto corrente bancario (nome riportato sulla carta di credito o sul conto corrente bancario, indirizzo di fatturazione, numero di telefono o data di scadenza), quindi selezionare **Salva** > **Fine**.
 
-Per altre informazioni, vedere [Risoluzione dei problemi relativi alle carte di credito e ai conti correnti bancari](https://docs.microsoft.com/it-IT/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
-
-Informazioni sulla nuova interfaccia di amministrazione Per i nuovi passaggi, vedere [Aggiungere, aggiornare o rimuovere una carta di credito o un conto corrente bancario in Office 365 per le aziende](https://docs.microsoft.com/it-IT/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Per altre informazioni, vedere [Aggiungere, aggiornare o rimuovere una carta di credito o un conto corrente bancario in Office 365 per le aziende](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
