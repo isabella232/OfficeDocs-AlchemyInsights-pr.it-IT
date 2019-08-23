@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171358"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557505"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Modificare l'aspetto della cassetta postale
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Modificare l'aspetto della cassetta postale di Outlook
 
 È possibile modificare l'aspetto dell'elenco dei messaggi e del riquadro di lettura in modo che appaia e si comporta come desiderato. Scegliere se i messaggi devono essere visualizzati singolarmente o come conversazioni, se i nuovi messaggi devono essere visualizzati nella parte superiore o inferiore dell'elenco dei messaggi e altro ancora.
 
