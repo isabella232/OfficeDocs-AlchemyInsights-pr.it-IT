@@ -12,27 +12,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840519"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620727"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a><span data-ttu-id="6c4ba-102">Di sola lettura per il messaggio di manutenzione quando si tenta di utilizzare SharePoint o OneDrive</span><span class="sxs-lookup"><span data-stu-id="6c4ba-102">Read-Only for Maintenance message when attempting to use SharePoint or OneDrive</span></span>
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a><span data-ttu-id="3d7cf-102">Di sola lettura per il messaggio di manutenzione quando si tenta di utilizzare SharePoint o OneDrive</span><span class="sxs-lookup"><span data-stu-id="3d7cf-102">Read-Only for Maintenance message when attempting to use SharePoint or OneDrive</span></span>
 
-<span data-ttu-id="6c4ba-103">Gli utenti possono ricevere un messaggio **di sola lettura per la manutenzione** quando si tenta di utilizzare SharePoint o OneDrive.</span><span class="sxs-lookup"><span data-stu-id="6c4ba-103">Users may receive a **Read-Only for Maintenance** message when attempting to use SharePoint or OneDrive.</span></span>  <span data-ttu-id="6c4ba-104">In caso affermativo, controllare se è presente una manutenzione attiva sul tenant passando al [centro messaggi](https://portal.office.com/adminportal/home#/MessageCenter).</span><span class="sxs-lookup"><span data-stu-id="6c4ba-104">If so, check if there is active maintenance occurring on your tenant by navigating to the [Message center](https://portal.office.com/adminportal/home#/MessageCenter).</span></span> <span data-ttu-id="6c4ba-105">Assicurarsi inoltre di controllare il dashboard dell' [integrità del servizio](https://portal.office.com/adminportal/home#/servicehealth) per verificare la disponibilità di eventuali avvisi/incidenti che potrebbero verificarsi.</span><span class="sxs-lookup"><span data-stu-id="6c4ba-105">Also, make sure to check the [Service Health](https://portal.office.com/adminportal/home#/servicehealth) dashboard to check for any advisories/incidents that may be occurring.</span></span>
+<span data-ttu-id="3d7cf-103">Gli utenti possono ricevere un messaggio di **sola lettura per la manutenzione** quando si tenta di utilizzare SharePoint o OneDrive per uno degli scenari seguenti.</span><span class="sxs-lookup"><span data-stu-id="3d7cf-103">Users may receive a **Read-Only for Maintenance** message when attempting to use SharePoint or OneDrive for one of the following scenarios.</span></span> 
 
-<span data-ttu-id="6c4ba-106">Se né il centro messaggi o il dashboard di integrità del servizio hanno rilevato nulla sulla manutenzione corrente per il tenant, potrebbe trattarsi di un problema relativo alla memorizzazione nella cache del browser.</span><span class="sxs-lookup"><span data-stu-id="6c4ba-106">If neither the Message Center or Service Health dashboard have noted anything about current maintenance for your tenant, this may be a browser caching issue.</span></span>
+-   <span data-ttu-id="3d7cf-104">Attività di manutenzione pianificata o attiva.</span><span class="sxs-lookup"><span data-stu-id="3d7cf-104">A planned or active maintenance activity.</span></span>  <span data-ttu-id="3d7cf-105">Verificarne la navigazione verso il [centro messaggi](https://portal.office.com/adminportal/home#/messagecenter).</span><span class="sxs-lookup"><span data-stu-id="3d7cf-105">Check for them by navigating to the [Message Center](https://portal.office.com/adminportal/home#/messagecenter).</span></span>
+-   <span data-ttu-id="3d7cf-106">Incidente di servizio attivo ad alta priorità che potrebbe verificarsi.</span><span class="sxs-lookup"><span data-stu-id="3d7cf-106">A high-priority, active service incident that may be occurring.</span></span> <span data-ttu-id="3d7cf-107">Controllare se sono presenti avvisi o eventi indesiderati per l'esplorazione dell' [integrità del servizio](https://portal.office.com/adminportal/home#/servicehealth).</span><span class="sxs-lookup"><span data-stu-id="3d7cf-107">Check for any advisories/incidents by navigating to [Service Health](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
+-   <span data-ttu-id="3d7cf-108">Uno scenario di ripristino di correzione automatica secondario che potrebbe verificarsi a causa di eventuali eventi imprevisti nei server che potrebbero durare meno di 30 minuti.</span><span class="sxs-lookup"><span data-stu-id="3d7cf-108">A minor auto-healing recovery scenario that could be happening due to any unexpected events on the servers which might last for less than 30 min or so.</span></span> 
+    
+    <span data-ttu-id="3d7cf-109">Non sono disponibili messaggi di centro messaggi o di integrità dei servizi per questi rilevamenti di minore entità, ma è consigliabile tornare alla normalità molto presto.</span><span class="sxs-lookup"><span data-stu-id="3d7cf-109">There are no Message Center or Service Health posts for these minor recoveries but you should be back to normal very soon.</span></span>
 
-<span data-ttu-id="6c4ba-107">Provare a cancellare la cache del browser prima di passare al sito.</span><span class="sxs-lookup"><span data-stu-id="6c4ba-107">Please attempt to clear the browser cache before navigating to the site.</span></span>
+<span data-ttu-id="3d7cf-110">In pochissime occasioni è stato osservato che uno dei tre scenari sopra elencati è stato la causa e il servizio è stato ripristinato, ma la cache del browser degli utenti non è stata cancellata.</span><span class="sxs-lookup"><span data-stu-id="3d7cf-110">On very few occasions we observed that one of the three scenarios listed above have been the cause, and service has been restored, but the users browser cache hasn’t been cleared up.</span></span>
 
-1. <span data-ttu-id="6c4ba-108">Nel browser Microsoft Edge, selezionare **Impostazioni**, quindi selezionare **privacy e sicurezza**.</span><span class="sxs-lookup"><span data-stu-id="6c4ba-108">In your Microsoft Edge browser, select **Settings**, and then select **Privacy and Security**.</span></span>
-2. <span data-ttu-id="6c4ba-109">In **Pulisci esplorazione**, seleziona **Scegli cosa cancellare**.</span><span class="sxs-lookup"><span data-stu-id="6c4ba-109">Under **Clear browsing**, select **Choose what to clear**.</span></span>
-3. <span data-ttu-id="6c4ba-110">Selezionare **cookie e dati del sito Web salvati**e selezionare **Annulla**.</span><span class="sxs-lookup"><span data-stu-id="6c4ba-110">Select **Cookies and saved website data**, and select **Clear**.</span></span>
+<span data-ttu-id="3d7cf-111">Provare a cancellare la cache del browser prima di passare al sito.</span><span class="sxs-lookup"><span data-stu-id="3d7cf-111">Please attempt to clear the browser cache before navigating to the site.</span></span>
+
+1. <span data-ttu-id="3d7cf-112">Nel browser Microsoft Edge, selezionare **Impostazioni**, quindi selezionare **privacy e sicurezza**.</span><span class="sxs-lookup"><span data-stu-id="3d7cf-112">In your Microsoft Edge browser, select **Settings**, and then select **Privacy and Security**.</span></span>
+2. <span data-ttu-id="3d7cf-113">In **Pulisci esplorazione**, seleziona **Scegli cosa cancellare**.</span><span class="sxs-lookup"><span data-stu-id="3d7cf-113">Under **Clear browsing**, select **Choose what to clear**.</span></span>
+3. <span data-ttu-id="3d7cf-114">Selezionare **cookie e dati del sito Web salvati**e selezionare **Annulla**.</span><span class="sxs-lookup"><span data-stu-id="3d7cf-114">Select **Cookies and saved website data**, and select **Clear**.</span></span>
 
 >[!Note] 
-> <span data-ttu-id="6c4ba-111">Questa procedura può essere diversa quando si utilizzano altri browser come Mozilla Firefox o Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="6c4ba-111">These steps may differ when using other browsers such as Mozilla Firefox or Google Chrome.</span></span>
+> <span data-ttu-id="3d7cf-115">Questa procedura può essere diversa quando si utilizzano altri browser come Mozilla Firefox o Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="3d7cf-115">These steps may differ when using other browsers such as Mozilla Firefox or Google Chrome.</span></span>
 
 >[!Note] 
-> <span data-ttu-id="6c4ba-112">Un'altra opzione consiste nell'aprire il sito di SharePoint o OneDrive in una nuova finestra di InPrivate.</span><span class="sxs-lookup"><span data-stu-id="6c4ba-112">Another option would be to open your SharePoint site or OneDrive in a new InPrivate window.</span></span>
+> <span data-ttu-id="3d7cf-116">Un'altra opzione consiste nell'aprire il sito di SharePoint o OneDrive in una nuova finestra di InPrivate.</span><span class="sxs-lookup"><span data-stu-id="3d7cf-116">Another option would be to open your SharePoint site or OneDrive in a new InPrivate window.</span></span>
