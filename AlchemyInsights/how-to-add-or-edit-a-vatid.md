@@ -12,16 +12,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ff90ca14e4036b9a3b470e08cf749fd437ba6d78
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522615"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575002"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Come aggiungere o modificare un VatID
 
-1.  Nell'interfaccia di amministrazione di Microsoft 365, accedere alla pagina prodotti di **fatturazione** \> [& servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1.  Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina dei [servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** \> .
 
 2. Trovare la scheda di sottoscrizione per l'abbonamento che si desidera aggiornare.
 
@@ -31,4 +31,8 @@ ms.locfileid: "36522615"
 
     Al termine dell'operazione, l'IVA non verrà addebitata sulla fattura successiva.
 
-Per ulteriori informazioni, vedere [quali imposte vengono addebitate per Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) oppure [aggiungere l'ID partita IVA](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Si sta utilizzando l'interfaccia di amministrazione precedente? Per i passaggi precedenti o per ulteriori informazioni, vedere [quali imposte vengono addebitate per Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+
+**Risorse aggiuntive**
+
+[Aggiungere l'ID partita IVA](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385869"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574474"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Attivazione di un abbonamento a contratti multilicenza di Microsoft Office 365
 
@@ -32,4 +32,4 @@ ms.locfileid: "36385869"
 
 5. Accedere a Office 365 ([https://portal.office.com](https://portal.office.com)) utilizzando le credenziali di amministratore di Office 365 esistenti. Dopo aver effettuato l'accesso, si riceverà un altro messaggio di posta elettronica che conferma l'acquisto.
 
-6. Dopo aver effettuato l'accesso, è possibile accedere alla pagina **** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) per la fatturazione per verificare che le sottoscrizioni di Office 365 acquistate vengano attivate all'interno del tenant. È anche possibile scegliere la scheda **sottoscrizione** in VLSC per visualizzare i dettagli per verificare che l'abbonamento sia stato depositato.
+6. Dopo aver effettuato l'accesso, è possibile accedere alla pagina prodotti di **fatturazione** \> [& Servizi](https://go.microsoft.com/fwlink/p/?linkid=842054) per verificare che le sottoscrizioni di Office 365 acquistati siano attivate all'interno del tenant. È anche possibile scegliere la scheda **sottoscrizione** in VLSC per visualizzare i dettagli per verificare che l'abbonamento sia stato depositato.
