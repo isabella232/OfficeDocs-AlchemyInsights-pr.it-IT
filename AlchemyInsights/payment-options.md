@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388676"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555273"
 ---
-# <a name="payment-options"></a>Opzioni di pagamento
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Opzioni di pagamento per gli abbonamenti a Office 365 per le aziende
 
 **Opzioni di pagamento**
   
@@ -30,7 +30,7 @@ Carta di credito, conto corrente bancario e fattura (pagamento tramite assegno o
   
 Quando si sceglie il pagamento tramite carta di credito o conto corrente bancario, il giorno successivo alla data della fattura verrà automaticamente addebitato l'importo dell'abbonamento fino al termine dello stesso. È possibile [aggiornare le informazioni sulla carta di credito o sul conto corrente bancario](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) tutte le volte che si vuole. È anche possibile scegliere di [Ricevere una copia dell'estratto conto tramite posta elettronica](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
-Se la carta di credito è stata rifiutata o ha un saldo passato dovuto, è possibile scegliere l’opzione **Paga ora** nella pagina **Fatturazione** \> [Abbonamenti](https://portal.office.com/adminportal/home#/subscriptions).
+Se la carta di credito è stata rifiutata o ha un saldo scaduto, è possibile scegliere l'opzione **Liquidazione del saldo ** nella pagina **Fatturazione** \> [Prodotti e servizi](https://portal.office.com/adminportal/home#/subscriptions).
   
 **Pagamento tramite fattura (assegno o bonifico bancario)**
   
