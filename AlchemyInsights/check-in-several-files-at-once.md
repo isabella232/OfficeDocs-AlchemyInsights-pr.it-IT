@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 7e8c31c8a1047c669cd4a8f551d8f9c8bff0dd4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9b5d4de2a39e7af0a91c5de758f6f98c5fd8457a
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520347"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631722"
 ---
-# <a name="check-in-several-files-at-once"></a><span data-ttu-id="92601-102">Archiviare più file contemporaneamente</span><span class="sxs-lookup"><span data-stu-id="92601-102">Check in several files at once</span></span>
+# <a name="check-in-several-files-at-once"></a><span data-ttu-id="e63e1-102">Archiviare più file contemporaneamente</span><span class="sxs-lookup"><span data-stu-id="e63e1-102">Check in several files at once</span></span>
 
-<span data-ttu-id="92601-103">Per archiviare diversi file in diverse cartelle, selezionare **Mostra tutti gli elementi senza cartelle** in **cartelle** nella pagina **modifica visualizzazione** .</span><span class="sxs-lookup"><span data-stu-id="92601-103">To check in several files in several folders, select **Show all items without folders** under **Folders** on the **Edit View** page.</span></span> 
+<span data-ttu-id="e63e1-103">Per archiviare diversi file in diverse cartelle in una raccolta di SharePoint, selezionare **Mostra tutti gli elementi senza cartelle** in **cartelle** nella pagina **modifica visualizzazione** .</span><span class="sxs-lookup"><span data-stu-id="e63e1-103">To check in several files in several folders in a SharePoint library, select **Show all items without folders** under **Folders** on the **Edit View** page.</span></span> 
   
- <span data-ttu-id="92601-104">**Nota**: SharePoint Online e Office 365 attualmente non consentono più file quando si esegue il check-in con la modalità moderna.</span><span class="sxs-lookup"><span data-stu-id="92601-104">**Note**: SharePoint Online and Office 365 do not currently allow multiple files when checking in with modern mode.</span></span> 
+ <span data-ttu-id="e63e1-104">**Nota**: SharePoint Online e Office 365 attualmente non consentono più file quando si esegue il check-in con la modalità moderna.</span><span class="sxs-lookup"><span data-stu-id="e63e1-104">**Note**: SharePoint Online and Office 365 do not currently allow multiple files when checking in with modern mode.</span></span> 
   
-<span data-ttu-id="92601-105">Vedere le domande più frequenti sull'archiviazione e l'estrazione, vedere [le domande principali sull'estrazione, l'archiviazione e le versioni](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="92601-105">See more frequently asked questions about check-in/check-out, see [Top questions about check out, check in, and versions](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
+<span data-ttu-id="e63e1-105">Vedere le domande più frequenti sull'archiviazione e l'estrazione, vedere [le domande principali sull'estrazione, l'archiviazione e le versioni](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="e63e1-105">See more frequently asked questions about check-in/check-out, see [Top questions about check out, check in, and versions](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
   
 
