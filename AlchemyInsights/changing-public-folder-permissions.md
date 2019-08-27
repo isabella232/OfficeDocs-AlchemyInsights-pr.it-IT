@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: edcbab6f-09f6-44d7-9426-a2fcdda265db
-ms.openlocfilehash: 0573a98b82539865d9ed1b16e12896e2e7879961
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc08ef6df1afb98653bb682302433d532d64c6ea
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520599"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631667"
 ---
 # <a name="changing-public-folder-permissions"></a>Modifica delle autorizzazioni per le cartelle pubbliche
 
 Gli utenti possono modificare le autorizzazioni per le cartelle pubbliche in Outlook. Vedere [impostare o modificare le autorizzazioni per una cartella pubblica](https://support.office.com/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005). Gli amministratori possono anche modificare le autorizzazioni nell'interfaccia di amministrazione di Exchange:
   
-- Nell'interfaccia di amministrazione di Microsoft 365 accedere a interfaccia di **Amministrazione** \> di **Exchange**.
+1.  Nell'interfaccia di amministrazione di Microsoft 365 accedere a interfaccia di **Amministrazione** \> di **Exchange**.
     
-- Scegliere **cartelle pubbliche**.
+2. Selezionare **cartelle pubbliche**.
     
 Da qui, è possibile modificare le autorizzazioni per le singole cartelle pubbliche assegnando agli utenti di gruppi di sicurezza le autorizzazioni. Per modificare le autorizzazioni per una cartella pubblica, è necessario essere proprietari.
   
