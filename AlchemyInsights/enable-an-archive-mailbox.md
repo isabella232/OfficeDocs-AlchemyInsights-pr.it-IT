@@ -2,7 +2,6 @@
 title: Abilitazione di una cassetta postale di archiviazione
 ms.author: markjjo
 author: markjjo
-ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,33 +10,33 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 9007c4ee7484cb6fdf80e76c08720a5723bfa20a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527799"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665131"
 ---
-# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="1ce75-102">Abilitazione di una cassetta postale di archiviazione</span><span class="sxs-lookup"><span data-stu-id="1ce75-102">Enable an archive mailbox</span></span>
+# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="f2795-102">Abilitazione di una cassetta postale di archiviazione</span><span class="sxs-lookup"><span data-stu-id="f2795-102">Enable an archive mailbox</span></span>
 
-<span data-ttu-id="1ce75-103">Le cassette postali di archiviazione in Office 365 (denominate anche *archivi online* ) offrono agli utenti un'ulteriore archiviazione della posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="1ce75-103">Archive mailboxes in Office 365 (also called  *Online Archives*  ) provide users with additional email storage.</span></span> <span data-ttu-id="1ce75-104">Gli utenti possono spostare o copiare gli elementi nella propria cassetta postale di archiviazione e gli amministratori possono creare un criterio di archiviazione che sposta automaticamente gli elementi nelle cassette postali di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="1ce75-104">Users can move or copy items to their archive mailbox, and admins can create an archive policy that automatically moves items to archive mailboxes.</span></span>
+<span data-ttu-id="f2795-103">Le cassette postali di archiviazione in Office 365 (denominate anche *archivi online*) offrono agli utenti un'ulteriore archiviazione della posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="f2795-103">Archive mailboxes in Office 365 (also called  *Online Archives*) provide users with additional email storage.</span></span> <span data-ttu-id="f2795-104">Gli utenti possono spostare o copiare gli elementi nella propria cassetta postale di archiviazione e gli amministratori possono creare un criterio di archiviazione che sposta automaticamente gli elementi nelle cassette postali di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="f2795-104">Users can move or copy items to their archive mailbox, and admins can create an archive policy that automatically moves items to archive mailboxes.</span></span>
   
-<span data-ttu-id="1ce75-105">Ecco come creare una cassetta postale di archiviazione:</span><span class="sxs-lookup"><span data-stu-id="1ce75-105">Here's how to create an archive mailbox:</span></span>
+<span data-ttu-id="f2795-105">Ecco come creare una cassetta postale di archiviazione:</span><span class="sxs-lookup"><span data-stu-id="f2795-105">Here's how to create an archive mailbox:</span></span>
   
-1. <span data-ttu-id="1ce75-106">Passare a [https://protection.office.com](https://protection.office.com).</span><span class="sxs-lookup"><span data-stu-id="1ce75-106">Go to [https://protection.office.com](https://protection.office.com).</span></span>
+1. <span data-ttu-id="f2795-106">Passare a [https://protection.office.com](https://protection.office.com).</span><span class="sxs-lookup"><span data-stu-id="f2795-106">Go to [https://protection.office.com](https://protection.office.com).</span></span>
 
-2. <span data-ttu-id="1ce75-107">Accedere a Office 365 utilizzando l'account di amministratore.</span><span class="sxs-lookup"><span data-stu-id="1ce75-107">Sign in to Office 365 using your admin account.</span></span>
+2. <span data-ttu-id="f2795-107">Accedere a Office 365 utilizzando l'account di amministratore.</span><span class="sxs-lookup"><span data-stu-id="f2795-107">Sign in to Office 365 using your admin account.</span></span>
 
-3. <span data-ttu-id="1ce75-108">&amp; Nel riquadro sinistro del Centro sicurezza e conformità fare clic su **Archivio**sulla governance \*\*\*\* \> dei dati.</span><span class="sxs-lookup"><span data-stu-id="1ce75-108">In the left pane of the Security &amp; Compliance Center, click **Data governance** \> **Archive**.</span></span>
+3. <span data-ttu-id="f2795-108">Nel riquadro sinistro del centro &amp; sicurezza e conformità selezionare **Archivio**di **governance** \> dei dati.</span><span class="sxs-lookup"><span data-stu-id="f2795-108">In the left pane of the Security &amp; Compliance Center, select **Data governance** \> **Archive**.</span></span>
 
-4. <span data-ttu-id="1ce75-109">Selezionare l'utente di cui si desidera abilitare la cassetta postale di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="1ce75-109">Select the user whose archive mailbox you want to enable.</span></span>
+4. <span data-ttu-id="f2795-109">Selezionare l'utente di cui si desidera abilitare la cassetta postale di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="f2795-109">Select the user whose archive mailbox you want to enable.</span></span>
 
-5. <span data-ttu-id="1ce75-110">Nel riquadro dei dettagli a destra, fare clic su **Abilita** e quindi fare clic su **Sì** nel messaggio di avviso per abilitare la cassetta postale di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="1ce75-110">In the details pane on the right, click **Enable** and then click **Yes** in the warning message to enable the archive mailbox.</span></span>
+5. <span data-ttu-id="f2795-110">Nel riquadro dei dettagli a destra, selezionare **Abilita** e quindi fare clic su **Sì** nel messaggio di avviso per abilitare la cassetta postale di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="f2795-110">In the details pane on the right, select **Enable** and then select **Yes** in the warning message to enable the archive mailbox.</span></span>
 
-<span data-ttu-id="1ce75-111">È inoltre possibile abilitare in blocco le cassette postali di archiviazione selezionando più utenti (utilizzando i tasti **MAIUSC** o **CTRL** ) e quindi facendo clic su **Abilita** nel riquadro dei dettagli.</span><span class="sxs-lookup"><span data-stu-id="1ce75-111">You can also bulk-enable archive mailboxes by selecting multiple users (using the **Shift** or **Ctrl** keys) and then clicking **Enable** in the details pane.</span></span>
+<span data-ttu-id="f2795-111">È inoltre possibile abilitare in blocco le cassette postali di archiviazione selezionando più utenti (utilizzando i tasti **MAIUSC** o **CTRL** ) e quindi selezionando **Abilita** nel riquadro dei dettagli.</span><span class="sxs-lookup"><span data-stu-id="f2795-111">You can also bulk-enable archive mailboxes by selecting multiple users (using the **Shift** or **Ctrl** keys) and then selecting **Enable** in the details pane.</span></span>
   
-<span data-ttu-id="1ce75-112">Per ulteriori informazioni, vedere:</span><span class="sxs-lookup"><span data-stu-id="1ce75-112">For more information, see:</span></span>
+<span data-ttu-id="f2795-112">Per ulteriori informazioni, vedere:</span><span class="sxs-lookup"><span data-stu-id="f2795-112">For more information, see:</span></span>
   
-- [<span data-ttu-id="1ce75-113">Abilitare le cassette postali di archiviazione in Office 365</span><span class="sxs-lookup"><span data-stu-id="1ce75-113">Enable archive mailboxes in Office 365</span></span>](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [<span data-ttu-id="f2795-113">Abilitare le cassette postali di archiviazione in Office 365</span><span class="sxs-lookup"><span data-stu-id="f2795-113">Enable archive mailboxes in Office 365</span></span>](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
 
-- [<span data-ttu-id="1ce75-114">Configurare un criterio di archiviazione ed eliminazione in Office 365</span><span class="sxs-lookup"><span data-stu-id="1ce75-114">Set up an archive and deletion policy in Office 365</span></span>](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [<span data-ttu-id="f2795-114">Configurare un criterio di archiviazione ed eliminazione in Office 365</span><span class="sxs-lookup"><span data-stu-id="f2795-114">Set up an archive and deletion policy in Office 365</span></span>](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)

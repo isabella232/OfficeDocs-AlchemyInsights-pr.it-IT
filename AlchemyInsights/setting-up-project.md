@@ -2,7 +2,6 @@
 title: Configurazione del progetto
 ms.author: pebaum
 author: pebaum
-ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +11,17 @@ ms.custom:
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: Destinazione non più di 500 parole per un articolo.
-ms.openlocfilehash: 551ccbb34135b415fa90893ac3e6230762e718b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508859"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666196"
 ---
-# <a name="setting-up-project"></a><span data-ttu-id="4ba3a-103">Configurazione del progetto</span><span class="sxs-lookup"><span data-stu-id="4ba3a-103">Setting up Project</span></span>
+# <a name="setting-up-project"></a><span data-ttu-id="01ad9-103">Configurazione del progetto</span><span class="sxs-lookup"><span data-stu-id="01ad9-103">Setting up Project</span></span>
 
-<span data-ttu-id="4ba3a-104">Si ha bisogno di assistenza per la configurazione del progetto con l'abbonamento a Office 365.</span><span class="sxs-lookup"><span data-stu-id="4ba3a-104">Looks like you need help setting up Project with your Office 365 subscription.</span></span>
-<span data-ttu-id="4ba3a-105">Avviso per gli utenti Mac: il prodotto del progetto non è disponibile per MacOS in questo momento.</span><span class="sxs-lookup"><span data-stu-id="4ba3a-105">Notice for Mac users: The Project product is not available for MacOS at this time.</span></span> <span data-ttu-id="4ba3a-106">Se si dispone di un PC, è necessario essere in grado di installare il software utilizzando i passaggi riportati di seguito.</span><span class="sxs-lookup"><span data-stu-id="4ba3a-106">If you have a PC you should be able to install the software using the steps below.</span></span>
+ <span data-ttu-id="01ad9-104">Per configurare Microsoft Project, seguire la procedura descritta in [questo articolo](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).</span><span class="sxs-lookup"><span data-stu-id="01ad9-104">To set up Microsoft Project, follow the steps in [this article](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).</span></span>
+
+<span data-ttu-id="01ad9-105">**Avviso per gli utenti Mac:** Il prodotto del progetto non è disponibile per MacOS in questo momento.</span><span class="sxs-lookup"><span data-stu-id="01ad9-105">**Notice for Mac users:** The Project product is not available for MacOS at this time.</span></span> 
   
-<span data-ttu-id="4ba3a-107">È possibile seguire i passaggi descritti in [questo articolo](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)per ottenere la configurazione completata.</span><span class="sxs-lookup"><span data-stu-id="4ba3a-107">You can follow the steps in [this article](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)to get your setup completed.</span></span>
-  
-<span data-ttu-id="4ba3a-108">Se si verificano errori durante l'installazione, [installare Project tramite l'Assistente di supporto e ripristino](https://aka.ms/SaRA-ProjectSetupScenario)</span><span class="sxs-lookup"><span data-stu-id="4ba3a-108">If you are running into errors during setup, [Install Project using the Support and Recovery Assistant](https://aka.ms/SaRA-ProjectSetupScenario)</span></span>
+<span data-ttu-id="01ad9-106">Se si verificano errori durante l'installazione, [installare Project utilizzando l'Assistente di supporto e ripristino](https://aka.ms/SaRA-ProjectSetupScenario).</span><span class="sxs-lookup"><span data-stu-id="01ad9-106">If you are running into errors during setup, [install Project using the Support and Recovery Assistant](https://aka.ms/SaRA-ProjectSetupScenario).</span></span>
