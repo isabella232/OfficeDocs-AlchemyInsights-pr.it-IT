@@ -3,7 +3,6 @@ title: Abilitazione e log di controllo di ricerca
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527727"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665080"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Abilitazione e ricerca nel registro di controllo
+
+**Office 365**
 
 Per eseguire una ricerca nel registro di controllo di Office 365, attenersi alla [seguente procedura](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ Per eseguire una ricerca nel registro di controllo di Office 365, attenersi alla
 
 - Per impostazione predefinita, le attività di amministrazione di Exchange vengono controllate.
 
-- È in corso l'abilitazione del controllo delle cassette postali per impostazione predefinita in Office 365. Fino a quel momento, per abilitare il controllo per una singola cassetta postale o per tutte le cassette postali dell'organizzazione, vedere [questo articolo](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Il controllo delle cassette postali è abilitato per impostazione predefinita in Office 365. Per ulteriori informazioni, vedere [questo articolo](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Le cassette postali di gruppo e le cassette postali delle cartelle pubbliche di Office 365 non supportano la registrazione di controllo.
 
