@@ -2,7 +2,6 @@
 title: Impostazione dell'abbonamento a O365 Business Premium
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,14 +10,14 @@ ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
 ms.custom:
 - "31"
 - "1600002"
-ms.openlocfilehash: fd9b270cf59134cbfce4a559125715457eb0c716
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8fa6b04cef7a7c9df72c1b51462f80e489622f0b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549583"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666160"
 ---
-# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="65e94-102">Impostazione dell'abbonamento a O365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="65e94-102">Setting up your O365 Business Premium subscription</span></span>
+# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="37fcc-102">Impostazione dell'abbonamento a O365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="37fcc-102">Setting up your O365 Business Premium subscription</span></span>
 
-<span data-ttu-id="65e94-103">Ha bisogno di assistenza per la configurazione dell'abbonamento a Office 365.</span><span class="sxs-lookup"><span data-stu-id="65e94-103">Looks like you need help setting up your Office 365 subscription.</span></span> <span data-ttu-id="65e94-104">È possibile seguire i passaggi descritti in [questo articolo](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa?ui=en-US&amp;rs=en-US&amp;ad=US.aspx#ID0EAAAABAAA=Business_Premium) per ottenere la configurazione completata.</span><span class="sxs-lookup"><span data-stu-id="65e94-104">You can follow the steps in [this article](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa?ui=en-US&amp;rs=en-US&amp;ad=US.aspx#ID0EAAAABAAA=Business_Premium) to get your setup completed.</span></span>
+<span data-ttu-id="37fcc-103">Se si ha bisogno di assistenza per la configurazione dell'abbonamento a Office 365, seguire la procedura descritta in [questo articolo](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) per ottenere la configurazione completata.</span><span class="sxs-lookup"><span data-stu-id="37fcc-103">If you need help setting up your Office 365 subscription, follow the steps in [this article](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) to get your setup completed.</span></span>
   
