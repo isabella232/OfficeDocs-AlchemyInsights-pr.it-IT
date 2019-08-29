@@ -3,19 +3,18 @@ title: Problemi relativi allo spoofing, al phishing o alla rappresentazione?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 62eb0d8b43f3673bbf05dda8d533333aaaa37ce1
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765167"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661480"
 ---
 # <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problemi relativi allo spoofing, al phishing o alla rappresentazione?
 
@@ -33,6 +32,6 @@ Suggerimenti aggiuntivi:
 
 - Verificare che gli utenti non siano stati configurati Consenti voci di elenco che potrebbero consentire attacchi di phishing.
 
-- Valutare la possibilità di inviare messaggi di posta indesiderata e di phishing in quarantena anziché la cartella posta indesiderata.
+- Valutare la possibilità di inviare messaggi di posta indesiderata e di phishing con sicurezza elevata alla quarantena anziché alla cartella posta indesiderata.
 
-**[Questo messaggio è stato segnalato a Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)? Questo è il modo migliore per farci sapere in che modo i filtri stanno eseguendo.**
+**La [segnalazione dei messaggi a Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) è il modo migliore per farci sapere in che modo i filtri stanno eseguendo.**

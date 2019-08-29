@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576060"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665514"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Annullamento dell'abbonamento a Office 365?
 
@@ -28,4 +28,4 @@ Ci dispiace vederti andare, ma ecco le opzioni per annullare l'abbonamento:
 
 - Se si dispone di più di 25 licenze assegnate, è possibile rimuovere gli utenti fino a quando non si ha meno di 25 anni oppure utilizzare l'opzione "Let us Call" per comunicare con un tecnico di supporto.
 
-Si sta utilizzando l'interfaccia di amministrazione precedente? Per i passaggi precedenti o per ulteriori informazioni, vedere [annullare l'abbonamento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Per ulteriori informazioni, vedere [annullare l'abbonamento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

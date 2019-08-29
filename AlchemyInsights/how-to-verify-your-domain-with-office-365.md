@@ -2,7 +2,6 @@
 title: Come verificare il dominio con Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 1/14/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f849711544e5afdaedb16db55bb087db4175c44e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539537"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664072"
 ---
 # <a name="how-to-verify-your-domain-with-office-365"></a>Come verificare il dominio con Office 365
 
-Sarà necessario aggiungere un record TXT al registrar per verificare che si è proprietari del dominio. Per prima cosa, seguire la [procedura guidata Aggiungi dominio](https://portal.office.com/adminportal/home#/Domains) facendo clic sul **dominio** **delle impostazioni** \> e quindi **aggiungere dominio**.
+Per verificare il dominio, è necessario aggiungere un record TXT al registrar per verificare che si è proprietari del dominio. Per prima cosa, seguire la [procedura guidata Aggiungi dominio](https://portal.office.com/adminportal/home#/Domains) selezionando **Impostazioni** \> **Domaisn**e quindi **Aggiungi dominio**.
   
 Seguire le istruzioni riportate in [creare record DNS presso qualsiasi provider di hosting DNS per Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) per aggiungere un record TXT per verificare il dominio.
   

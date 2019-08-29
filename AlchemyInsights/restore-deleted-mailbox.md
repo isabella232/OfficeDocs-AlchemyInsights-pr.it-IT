@@ -2,7 +2,6 @@
 title: Ripristinare una cassetta postale eliminata
 ms.author: pebaum
 author: pebaum
-ms.date: 9/12/2017
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -16,24 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 44b23be5e75a0669821bbeb07b0f064eeef6d021
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551851"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666376"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Ripristinare una cassetta postale eliminata
 
-Quando l'utente perde la propria licenza di Exchange Online, la cassetta postale viene conservata per 30 giorni e può essere recuperata semplicemente riassegnando la licenza all'utente.
+Quando un utente perde una licenza di Exchange Online, la cassetta postale viene conservata per 30 giorni e può essere recuperata semplicemente riassegnando la licenza all'utente.
   
- *Questo funzionerà solo entro 30 giorni.*  Nel portale di amministrazione, passare a:
+ *Questo funzionerà solo entro 30 giorni.*  
   
-1. **Utenti** \> Utenti **attivi** . Selezionare l'utente in questione.
+1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla **** \> pagina utenti **attivi** . Selezionare l'utente in questione.
 
-2. Premere **modifica** per modificare le licenze di prodotto
+2. Nella scheda **licenze e app** , assegnare la licenza di Exchange Online e selezionare **Salva modifiche**.
 
-3. Assegnare la licenza di Exchange Online e premere **Salva**
-
-Se si sta tentando di ripristinare una cassetta postale condivisa, è possibile recuperarla anche per 30 giorni. È possibile trovarli in **** \> utenti **eliminati** per gli utenti; le cassette postali condivise non richiedono una licenza. Se si rende conto che è necessario ripristinare un utente eliminato, vedere [ripristinare un utente in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
+Se si sta tentando di ripristinare una cassetta postale condivisa, è possibile recuperarla anche per 30 giorni. È possibile trovarli in **** \> utenti **eliminati**per gli utenti; le cassette postali condivise non richiedono una licenza. Se si rende conto che è necessario ripristinare un utente eliminato, vedere [ripristinare un utente in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   

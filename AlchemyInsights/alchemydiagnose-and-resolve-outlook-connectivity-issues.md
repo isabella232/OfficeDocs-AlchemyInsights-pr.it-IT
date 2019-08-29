@@ -13,16 +13,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: 1072e12a74f708007cf9b89c989a9cc96510c2b9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c1ea5e6b457b0ea7ee4656ee6e4b4ff2f77e2cb9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505473"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664612"
 ---
 # <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Diagnosticare e risolvere i problemi di connettività di Outlook
 
-Per poter diagnosticare e risolvere i problemi di connettività di Outlook, è possibile eseguire lo [strumento di connettività di Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) nel computer in questione.
+Per diagnosticare e risolvere i problemi di connettività di Outlook, è possibile eseguire lo [strumento di connettività di Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) nel computer in questione.
   
 Questo strumento eseguirà controlli diagnostici e suggerirà possibili soluzioni per risolvere il problema di connettività di Outlook.
   

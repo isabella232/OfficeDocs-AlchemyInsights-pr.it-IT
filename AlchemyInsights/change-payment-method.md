@@ -3,7 +3,6 @@ title: Cambiare la modalità di pagamento
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: d4e4548ab943ffdbe1117f333c64f2c95a5985da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d89cb375475bfaff1f3a3a34ff7cefb9d9d42d5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519231"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665349"
 ---
 # <a name="change-payment-method"></a>Cambiare la modalità di pagamento
 
-È possibile verificare il metodo di pagamento configurato nell'interfaccia di amministrazione di Microsoft 365. Scegliere l'abbonamento da verificare. La modalità di pagamento configurata per l'abbonamento viene visualizzata in **fatturazione**. 
+È possibile verificare e modificare il metodo di pagamento configurato nell'interfaccia di amministrazione di Microsoft 365. Scegliere l'abbonamento da verificare. La modalità di pagamento configurata per l'abbonamento viene visualizzata in **fatturazione**. 
   
 1. Nell'interfaccia di amministrazione, accedere alla pagina dei [servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** \> .
 
@@ -30,4 +29,4 @@ ms.locfileid: "36519231"
 
 3. Seguire la procedura su schermo per completare la modifica.
 
-Per istruzioni dettagliate, vedere: [modificare il metodo di pagamento per Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Si sta utilizzando l'interfaccia di amministrazione precedente? Per i passaggi precedenti o per ulteriori informazioni, vedere [modificare il metodo di pagamento per Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
