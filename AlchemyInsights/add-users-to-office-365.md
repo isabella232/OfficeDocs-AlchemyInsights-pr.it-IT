@@ -12,22 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: fe5c4c7ca5fa5cce199c826f8488c564bf2cdef1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903077"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660688"
 ---
 # <a name="add-a-user-to-office-365"></a>Aggiungere un utente a Office 365
 
-Seguire questa procedura per aggiungere un utente a Office 365:
-  
-1. Passare a [Utenti attivi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (oppure scegliere **Utenti** \> **Utenti attivi** sulla barra di spostamento sinistra).
+1. Nell'interfaccia di amministrazione di Microsoft 365, passare a **Utenti** >  [Utenti attivi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
 
 2. Fare clic su **Aggiungi utente**.
 
-3. Inserire le informazioni relative all'utente. Al termine, scegliere **Aggiungi**.
+3. Inserire le informazioni relative all'utente. Al termine, scegliere **Completa l'aggiunta**.
 
-[Altre informazioni...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+È in uso l'interfaccia di amministrazione precedente? Per i passaggi precedenti, vedere [Aggiungere utenti singolarmente o in blocco a Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).
   
