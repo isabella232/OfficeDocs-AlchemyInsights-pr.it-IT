@@ -3,7 +3,6 @@ title: Il mittente è stato bloccato perché ha inviato troppi messaggi di posta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/3/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 369fad874a82e2f1938fffb9153e0b66de7aa5f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 05b961cec364bce694a8f39d9de245062bfdb859
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509293"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666340"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>L'account è stato bloccato perché ha inviato troppi messaggi di posta indesiderata
 
-L'account di invio potrebbe essere compromesso. Sarà necessario:
+Se un account di Office 365 è bloccato a causa dell'invio di troppi messaggi di posta indesiderata, è possibile che l'account di invio sia stato compromesso. Sarà necessario:
   
 1. [Determinare se l'account è compromesso](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). In questo caso, seguire i passaggi per [Rispondere a un account di posta elettronica compromesso in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
 
