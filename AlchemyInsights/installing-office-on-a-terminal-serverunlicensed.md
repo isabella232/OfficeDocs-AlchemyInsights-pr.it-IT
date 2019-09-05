@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498419"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735393"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installazione di Office in un server terminal
 
@@ -26,7 +26,7 @@ Per la distribuzione di Office 365 ProPlus in un server Windows utilizzando Serv
 
 - È necessario abilitare l' [attivazione di computer condivisi](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Se si desidera installare Office 365 ProPlus su RDS dal portale di Office 365, in ***cui vengono utilizzate le impostazioni di installazione predefinite***, attenersi alla seguente procedura:
+Se si desidera installare Office 365 ProPlus su RDS dall'interfaccia di amministrazione di Microsoft 365, in ***cui vengono utilizzate le impostazioni di installazione predefinite***, attenersi alla seguente procedura:
   
 1. Controllare il piano di Office 365. [Informazioni su come](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -34,7 +34,7 @@ Se si desidera installare Office 365 ProPlus su RDS dal portale di Office 365, i
 
 3. Se Office è già installato nel server RDS utilizzando altri piani di Office 365, disinstallarlo. Ad esempio, accedendo al pannello \> di controllo, disinstallare un programma. Disinstallazione tramite [Assistente di supporto e ripristino di Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) se si è in esecuzione in problemi.
 
-4. Nel server RDS accedere al portale di Office 365 con l'account di amministratore e [installare office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Nel server RDS accedere all'interfaccia di amministrazione di Microsoft 365 con l'account di amministratore e [installare Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
 5. Dopo l'installazione di Office, ***non aprire o accedere*** a tutte le applicazioni di Office.
 

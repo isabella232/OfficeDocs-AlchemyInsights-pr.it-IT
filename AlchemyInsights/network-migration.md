@@ -11,12 +11,12 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538470"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734709"
 ---
 # <a name="network-migration"></a>Migrazione di rete
 
@@ -28,7 +28,7 @@ ms.locfileid: "36538470"
 
 - Per correggere la configurazione in una configurazione 1:1, continuare a utilizzare lo strumento di migrazione della rete.
 
-- Per ulteriori informazioni sulla migrazione di rete [, vedere Migrazione di rete: consolidare più reti Yammer](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+- Per ulteriori informazioni sulla migrazione di rete [, vedere Migrazione di rete: consolidare più reti Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
 Tenere presente quanto segue:
   

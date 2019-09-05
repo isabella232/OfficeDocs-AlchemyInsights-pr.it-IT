@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: 641636add2069fc395df9af156d8c011493a634a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e84a5b04d6fc805deaa47cb10c91081f37411e5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660796"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737877"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>Aggiungere utenti esterni a un gruppo di distribuzione
 
@@ -28,7 +28,7 @@ L'aggiunta di un contatto esterno a un gruppo di distribuzione (DG) è un proces
     
 2. Aggiungere il contatto di posta elettronica alla DG:
     
-    1. Nell'interfaccia di amministrazione, andare alla **** > [](https://admin.microsoft.com/adminportal/home#/groups) pagina gruppi. 
+    1. Nell'interfaccia di amministrazione, andare alla[](https://admin.microsoft.com/adminportal/home#/groups)  > pagina **gruppi.** 
     
     2. Individuare la DG alla quale si desidera aggiungere l'utente esterno e selezionarla per aprire la finestra di dialogo Modifica.
     
@@ -38,7 +38,7 @@ L'aggiunta di un contatto esterno a un gruppo di distribuzione (DG) è un proces
     
     5. Selezionare il contatto di posta creato nel passaggio precedente e quindi fare clic su **Salva**.
     
-Se dopo aver seguito questi passaggi gli utenti esterni non possono inviare messaggi di posta elettronica alla DG o non ricevono messaggi di posta elettronica, potrebbe essere che la DG sia contrassegnata solo per consentire l'invio di messaggi di posta elettronica da parte di utenti interni. È possibile controllare questa configurazione e correggerla seguendo le istruzioni [](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)riportate di seguito.
+Se dopo aver seguito questi passaggi gli utenti esterni non possono inviare messaggi di posta elettronica alla DG o non ricevono messaggi di posta elettronica, potrebbe essere che la DG sia contrassegnata solo per consentire l'invio di messaggi di posta elettronica da parte di utenti interni. È possibile controllare questa configurazione e correggerla seguendo le istruzioni riportate [di seguito.](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online)
   
  **Nota:** Queste istruzioni non si applicano se il tipo del gruppo è "Office 365 Group" invece di "gruppo di distribuzione". In caso contrario, è possibile aggiungere l'utente esterno direttamente al gruppo da Outlook. Informazioni dettagliate sui gruppi di Office 365 i clienti e le istruzioni per l'aggiunta di ospiti esterni sono disponibili in [questo articolo](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   

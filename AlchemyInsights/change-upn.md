@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 51f0f7331d40ce4c87836725eb41d6d4beb26c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d7a7cdea8de8f6e12a9c98142c86dc80f7e1b172
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520851"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738597"
 ---
 # <a name="change-a-users-email-address"></a>Cambiare l'indirizzo di posta elettronica di un utente
 
 La modifica dell'indirizzo di posta elettronica di un utente è semplice. Seguire questa procedura:
   
-1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina [utenti](https://go.microsoft.com/fwlink/p/?linkid=834822) oppure scegliere **** \> utenti **attivi**.
+1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina [utenti](https://go.microsoft.com/fwlink/p/?linkid=834822) **oppure scegliere** \> utenti **attivi**.
     
 2. Selezionare l'utente.
     
@@ -32,12 +32,12 @@ La modifica dell'indirizzo di posta elettronica di un utente è semplice. Seguir
     
     **IMPORTANTE**: se viene visualizzato il messaggio di errore " **Impossibile trovare un parametro corrispondente al nome 'IndirizziPostaElettronica**", significa che Office 365 sta impiegando più tempo del previsto per completare la configurazione del tenant o del dominio personalizzato, se ne è stato aggiunto uno di recente. Per completare la configurazione possono essere necessarie fino a 4 ore. Attendere il tempo necessario per il completamento della procedura e quindi riprovare. Se il problema persiste, contattare il supporto, che provvederà a eseguire una sincronizzazione completa.
     
-    Se viene visualizzato il messaggio di errore " **Siamo spiacenti, l'utente non può essere modificato. Rivedere le informazioni sull'utente e**riprovare "significa che non si è un amministratore globale di Office 365 e che non si dispone delle autorizzazioni per modificare il nome dell'utente.
+    Se viene visualizzato il messaggio di errore " **Siamo spiacenti, l'utente non può essere modificato. Rivedere le informazioni sull'utente e riprovare**"significa che non si è un amministratore globale di Office 365 e che non si dispone delle autorizzazioni per modificare il nome dell'utente.
     
 5. Scegliere **Imposta come principale** per l'indirizzo di posta elettronica da impostare come indirizzo principale per la persona specificata. Se l'abbonamento è stato acquistato da GoDaddy, è necessario accedere alla propria console di gestione per impostare l'indirizzo di posta elettronica principale. 
     
 6. Fare clic su **Salva**, quindi **Chiudi**ed è tutto finito.
     
-Non è stato così facile? Per ulteriori informazioni e passaggi con schermate, vedere questo articolo: [modificare un nome utente e un indirizzo di posta elettronica in Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+Non è stato così facile? Per ulteriori informazioni e passaggi con schermate, vedere questo articolo: [modificare un nome utente e un indirizzo di posta elettronica in Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
 

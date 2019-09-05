@@ -11,16 +11,16 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497044"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734925"
 ---
 # <a name="managing-yammer-users"></a>Gestione degli utenti di Yammer
 
-1. Per informazioni sulla gestione degli utenti di Yammer da Office 365, vedere [gestire gli utenti di Yammer in tutto il loro ciclo di vita da office 365](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039). Sono inclusi i dettagli su:
+1. Per informazioni sulla gestione degli utenti di Yammer da Office 365, vedere [gestire gli utenti di Yammer in tutto il loro ciclo di vita da office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Sono inclusi i dettagli su:
 
   - Creazione di un utente
 
@@ -36,4 +36,4 @@ ms.locfileid: "36497044"
 
   - Esportazione dell'elenco di utenti
 
-3. Per informazioni sull'aggiunta, la rimozione e la gestione degli utenti esterni, vedere [aggiungere partecipanti alla messaggistica esterna alla rete Yammer](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c).
+3. Per informazioni sull'aggiunta, la rimozione e la gestione degli utenti esterni, vedere [aggiungere partecipanti alla messaggistica esterna alla rete Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).
