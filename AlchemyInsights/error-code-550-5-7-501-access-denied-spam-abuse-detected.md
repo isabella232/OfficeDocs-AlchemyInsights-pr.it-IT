@@ -11,17 +11,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 577104e0517820c6dd7faf7e4db6b55ac2e5398a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527172"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740145"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="d9b23-102">550 5.7.501 accesso negato, rilevato abuso di posta indesiderata</span><span class="sxs-lookup"><span data-stu-id="d9b23-102">550 5.7.501 Access denied, spam abuse detected</span></span>
+# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="de6f6-102">550 5.7.501 accesso negato, rilevato abuso di posta indesiderata</span><span class="sxs-lookup"><span data-stu-id="de6f6-102">550 5.7.501 Access denied, spam abuse detected</span></span>
 
-<span data-ttu-id="d9b23-103">Questo messaggio si verifica in genere quando gli utenti inviano messaggi di posta elettronica da indirizzi IP utilizzando il dominio iniziale *. onmicrosoft.com* assegnato ai nuovi tenant in Office 365.</span><span class="sxs-lookup"><span data-stu-id="d9b23-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="d9b23-104">Il modo più semplice per risolvere il problema è:</span><span class="sxs-lookup"><span data-stu-id="d9b23-104">The easiest way to resolve this problem is to:</span></span>
+<span data-ttu-id="de6f6-103">Questo messaggio si verifica in genere quando gli utenti inviano messaggi di posta elettronica da indirizzi IP utilizzando il dominio iniziale *. onmicrosoft.com* assegnato ai nuovi tenant in Office 365.</span><span class="sxs-lookup"><span data-stu-id="de6f6-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="de6f6-104">Il modo più semplice per risolvere il problema è:</span><span class="sxs-lookup"><span data-stu-id="de6f6-104">The easiest way to resolve this problem is to:</span></span>
 
-1. <span data-ttu-id="d9b23-105">[Aggiungere un dominio al tenant](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611.aspx).</span><span class="sxs-lookup"><span data-stu-id="d9b23-105">[Add a domain to your tenant](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611.aspx).</span></span>
+1. <span data-ttu-id="de6f6-105">[Aggiungere un dominio al tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span><span class="sxs-lookup"><span data-stu-id="de6f6-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
 
-2. <span data-ttu-id="d9b23-106">[Modificare l'indirizzo di posta elettronica principale degli utenti](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx) nel nuovo dominio personalizzato appena aggiunto.</span><span class="sxs-lookup"><span data-stu-id="d9b23-106">[Change your users' primary email address](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx) to the new custom domain you just added.</span></span>
+2. <span data-ttu-id="de6f6-106">[Modificare l'indirizzo di posta elettronica principale degli utenti](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) nel nuovo dominio personalizzato appena aggiunto.</span><span class="sxs-lookup"><span data-stu-id="de6f6-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>

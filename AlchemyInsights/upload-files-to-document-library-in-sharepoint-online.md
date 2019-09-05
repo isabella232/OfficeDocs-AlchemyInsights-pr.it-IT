@@ -1,6 +1,6 @@
 ---
 title: Caricare file in OneDrive o SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,25 +10,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: ddb29e04597e86ee4e54d700666548b5d2b30a81
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 1494e0009634942e8720859b39ccc5a0caf70aee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660832"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748529"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="36c80-102">Caricare file in OneDrive o SharePoint</span><span class="sxs-lookup"><span data-stu-id="36c80-102">Upload files to OneDrive or SharePoint</span></span>
+# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="bbca7-102">Caricare file in OneDrive o SharePoint</span><span class="sxs-lookup"><span data-stu-id="bbca7-102">Upload files to OneDrive or SharePoint</span></span>
 
-<span data-ttu-id="36c80-103">È possibile caricare file in una raccolta documenti in SharePoint Online semplicemente trascinandole dal computer e rilasciandoli nella raccolta documenti.</span><span class="sxs-lookup"><span data-stu-id="36c80-103">You can upload files to a document library in SharePoint Online by just dragging them from your computer and dropping them into the document library.</span></span> <span data-ttu-id="36c80-104">Con OneDrive, è possibile sincronizzare i file tra il computer e il cloud, in modo da poter accedere ai file da qualsiasi luogo.</span><span class="sxs-lookup"><span data-stu-id="36c80-104">With OneDrive, you can sync files between your computer and the cloud, so you can get to your files from anywhere.</span></span> <span data-ttu-id="36c80-105">È inoltre possibile utilizzare i file sincronizzati direttamente in Esplora file e accedere ai file anche quando si è in modalità non in linea.</span><span class="sxs-lookup"><span data-stu-id="36c80-105">You can also work with your synced files directly in File Explorer and access your files even when you're offline.</span></span> <span data-ttu-id="36c80-106">Per ulteriori informazioni sul caricamento e sulla sincronizzazione, visitare i collegamenti riportati di seguito.</span><span class="sxs-lookup"><span data-stu-id="36c80-106">For more information on uploading and sync, please visit the links below.</span></span>
+<span data-ttu-id="bbca7-103">È possibile caricare file in una raccolta documenti in SharePoint Online semplicemente trascinandole dal computer e rilasciandoli nella raccolta documenti.</span><span class="sxs-lookup"><span data-stu-id="bbca7-103">You can upload files to a document library in SharePoint Online by just dragging them from your computer and dropping them into the document library.</span></span> <span data-ttu-id="bbca7-104">Con OneDrive, è possibile sincronizzare i file tra il computer e il cloud, in modo da poter accedere ai file da qualsiasi luogo.</span><span class="sxs-lookup"><span data-stu-id="bbca7-104">With OneDrive, you can sync files between your computer and the cloud, so you can get to your files from anywhere.</span></span> <span data-ttu-id="bbca7-105">È inoltre possibile utilizzare i file sincronizzati direttamente in Esplora file e accedere ai file anche quando si è in modalità non in linea.</span><span class="sxs-lookup"><span data-stu-id="bbca7-105">You can also work with your synced files directly in File Explorer and access your files even when you're offline.</span></span> <span data-ttu-id="bbca7-106">Per ulteriori informazioni sul caricamento e sulla sincronizzazione, visitare i collegamenti riportati di seguito.</span><span class="sxs-lookup"><span data-stu-id="bbca7-106">For more information on uploading and sync, please visit the links below.</span></span>
 
-- [<span data-ttu-id="36c80-107">Caricare una cartella o un file in una raccolta</span><span class="sxs-lookup"><span data-stu-id="36c80-107">Upload a folder or files to a library</span></span>](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+- [<span data-ttu-id="bbca7-107">Caricare una cartella o un file in una raccolta</span><span class="sxs-lookup"><span data-stu-id="bbca7-107">Upload a folder or files to a library</span></span>](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
 
-- [<span data-ttu-id="36c80-108">Caricamento tramite sincronizzazione</span><span class="sxs-lookup"><span data-stu-id="36c80-108">Upload using sync</span></span>](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [<span data-ttu-id="bbca7-108">Caricamento tramite sincronizzazione</span><span class="sxs-lookup"><span data-stu-id="bbca7-108">Upload using sync</span></span>](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
 
-- [<span data-ttu-id="36c80-109">Limiti dei file (caratteri non validi, dimensioni del caricamento dei file, lunghezza del percorso e così via)</span><span class="sxs-lookup"><span data-stu-id="36c80-109">File limits (invalid characters, file upload size, path lengths, etc..)</span></span>](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [<span data-ttu-id="bbca7-109">Limiti dei file (caratteri non validi, dimensioni del caricamento dei file, lunghezza del percorso e così via)</span><span class="sxs-lookup"><span data-stu-id="bbca7-109">File limits (invalid characters, file upload size, path lengths, etc..)</span></span>](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- [<span data-ttu-id="36c80-110">Risolvere i problemi di sincronizzazione di OneDrive</span><span class="sxs-lookup"><span data-stu-id="36c80-110">Fix OneDrive Sync problems</span></span>](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [<span data-ttu-id="bbca7-110">Risolvere i problemi di sincronizzazione di OneDrive</span><span class="sxs-lookup"><span data-stu-id="bbca7-110">Fix OneDrive Sync problems</span></span>](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [<span data-ttu-id="36c80-111">Risolvere i problemi relativi al caricamento dei file nel sito Web OneDrive</span><span class="sxs-lookup"><span data-stu-id="36c80-111">Fix problems uploading files on the OneDrive website</span></span>](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
+- [<span data-ttu-id="bbca7-111">Risolvere i problemi relativi al caricamento dei file nel sito Web OneDrive</span><span class="sxs-lookup"><span data-stu-id="bbca7-111">Fix problems uploading files on the OneDrive website</span></span>](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
 
-- [<span data-ttu-id="36c80-112">Massimizzare la velocità di caricamento e download</span><span class="sxs-lookup"><span data-stu-id="36c80-112">Maximize upload and download speed</span></span>](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [<span data-ttu-id="bbca7-112">Massimizzare la velocità di caricamento e download</span><span class="sxs-lookup"><span data-stu-id="bbca7-112">Maximize upload and download speed</span></span>](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
