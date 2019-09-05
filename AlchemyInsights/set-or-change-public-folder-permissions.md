@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 3f891beeba8303b05d6730f608034e22b2bcdb92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1015c2203406e15d6b418c387b6632a182d6d2ff
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550159"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734673"
 ---
 # <a name="permissions-and-public-folders"></a>Autorizzazioni e cartelle pubbliche
 
@@ -24,7 +24,7 @@ ms.locfileid: "36550159"
   
 - Per le istruzioni di Outlook, [fare clic qui](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
     
-- Per l'interfaccia di amministrazione di Exchange, fare riferimento a [questo articolo](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) per istruzioni. È possibile fare clic [qui](https://support.office.com/article/ https://outlook.office365.com/ecp/.aspx) per accedere a EAC. 
+- Per l'interfaccia di amministrazione di Exchange, fare riferimento a [questo articolo](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) per istruzioni. 
     
 - Per PowerShell, fare riferimento a [questo articolo](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) per istruzioni sull'utilizzo del cmdlet sharepointsync Add-PublicFolderClientPermission. Se sono necessarie istruzioni per la connessione a Exchange PowerShell, fare clic [qui](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
     

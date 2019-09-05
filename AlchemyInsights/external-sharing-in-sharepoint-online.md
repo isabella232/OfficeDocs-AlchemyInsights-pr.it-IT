@@ -11,12 +11,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: 1369df853da594d679d5850fbd032111bdf277fe
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664936"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735969"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Condivisione esterna in SharePoint Online
 
@@ -29,7 +29,7 @@ Per ulteriori informazioni sulla condivisione esterna, visitare i collegamenti s
 - [Impostazioni di condivisione predefinite per tipo di sito](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
 - [Utilizzo di SharePoint Online come soluzione Extranet business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 - [Condivisione di file o cartelle di SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-- [Interrompere la condivisione di file o cartelle di OneDrive o di SharePoint oppure modificare le autorizzazioni](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&rs=en-US&ad=US)
+- [Interrompere la condivisione di file o cartelle di OneDrive o di SharePoint oppure modificare le autorizzazioni](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 - [Accesso guest in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
 - [Riferimento alle impostazioni di condivisione Guest Microsoft (Azure Active Directory, Microsoft 365 e SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
@@ -38,7 +38,7 @@ Si riceve un errore con un utente esterno?Controllare i collegamenti seguenti:
 - ["Accesso negato", "è necessario disporre dell'autorizzazione per accedere a questo sito" o "utente non trovato nella directory" errori in SharePoint Online e OneDrive for business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["I criteri dell'organizzazione non consentono di condividere con questi utenti" errore durante la condivisione di un elemento o di un sito in SharePoint Online o OneDrive for business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 - [Le opzioni di condivisione sono ingrigiate quando si condivide da SharePoint Online o OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Messaggio di errore quando un utente esterno accetta un invito di SharePoint Online utilizzando un altro account](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
+- [Messaggio di errore quando un utente esterno accetta un invito di SharePoint Online utilizzando un altro account](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 - [Errori di condivisione OSE in SharePoint e OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
