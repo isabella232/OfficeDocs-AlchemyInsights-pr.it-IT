@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: f322a0252f1198b110f5558cf1e3c6aa28ec1f78
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517683"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736905"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="1f53c-102">Diventa amministratore</span><span class="sxs-lookup"><span data-stu-id="1f53c-102">Become an Admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="bd0f3-102">Diventa amministratore</span><span class="sxs-lookup"><span data-stu-id="bd0f3-102">Become an Admin</span></span>
 
-<span data-ttu-id="1f53c-103">Per assumere il ruolo di amministratore per l'organizzazione, è necessario prendere in mano il tenant.</span><span class="sxs-lookup"><span data-stu-id="1f53c-103">To assume the admin role for this organization, you need to take over the tenant.</span></span>
+<span data-ttu-id="bd0f3-103">Per assumere il ruolo di amministratore per l'organizzazione, è necessario prendere in mano il tenant.</span><span class="sxs-lookup"><span data-stu-id="bd0f3-103">To assume the admin role for this organization, you need to take over the tenant.</span></span>
   
-<span data-ttu-id="1f53c-104">Seguire le istruzioni riportate in questa guida: [eseguire l'acquisizione di un amministratore in Office 365](https://support.office.com/article/b9707ec8-2247-4e25-9bad-f11ddbc686e4)</span><span class="sxs-lookup"><span data-stu-id="1f53c-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://support.office.com/article/b9707ec8-2247-4e25-9bad-f11ddbc686e4)</span></span>
+<span data-ttu-id="bd0f3-104">Seguire le istruzioni riportate in questa guida: [eseguire l'acquisizione di un amministratore in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="bd0f3-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>
