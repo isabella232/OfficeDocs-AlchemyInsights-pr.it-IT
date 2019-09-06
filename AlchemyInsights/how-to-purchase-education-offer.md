@@ -14,12 +14,12 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: 8a93e783c590559b850c53841a61e2afb57f9eba
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 24d8d17a761ee1c6dc7efdd12e266aaab45f1715
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663928"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739461"
 ---
 # <a name="how-to-purchase-education-offer"></a>Come acquistare l'offerta per l'istruzione
 
@@ -35,4 +35,4 @@ Sono stati approvati per Office 365 Education. Per acquistare:
 
 Se si desidera acquistare un abbonamento diverso da quello che è in fase di valutazione, andare alla pagina [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) **fatturazione** \> e scegliere dall'elenco in **piani di formazione**.
 
-Per ulteriori informazioni, vedere [acquistare lo stesso piano della versione di valutazione](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+Per ulteriori informazioni, vedere [acquistare lo stesso piano della versione di valutazione](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
