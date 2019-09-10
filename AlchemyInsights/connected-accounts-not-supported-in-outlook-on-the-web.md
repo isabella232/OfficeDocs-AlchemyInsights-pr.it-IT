@@ -11,12 +11,12 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504773"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821806"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>Gli account connessi non sono più supportati
 
@@ -26,7 +26,7 @@ Per continuare a visualizzare messaggi di posta elettronica da altri account: è
   
 [Attivazione o disattivazione dell'inoltro automatico in Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[Inoltro automatico dei messaggi di Gmail a un altro account](https://support.google.com/mail/answer/10957?hl=en)
+[Inoltro automatico dei messaggi di Gmail a un altro account](https://aka.ms/forward-gmail-messages)
   
-[Inoltro automatico della posta elettronica in Yahoo mail](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[Inoltro automatico della posta elettronica in Yahoo mail](https://aka.ms/yahoo-email-forwarding)
   
