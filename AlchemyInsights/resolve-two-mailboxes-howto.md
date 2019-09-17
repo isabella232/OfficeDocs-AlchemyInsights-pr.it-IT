@@ -12,15 +12,16 @@ ms.custom:
 - "1374"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1307e13bf76e0b2afc9038333533d708f5d12f7f
+ms.sourcegitcommit: 16f08d051afca3c6d0de32826324f91cf63ab5ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369849"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992073"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Un utente dispone di due cassette postali
 
-Gli ambienti ibridi che utilizzano Azure Active Directory Connect (AAD Connect) o DirSync possono accidentalmente causare l'utilizzo di due cassette postali da parte di un utente: una nell'organizzazione locale e una nel cloud.
+Gli ambienti ibridi che utilizzano Azure Active Directory Connect (AAD Connect) o DirSync possono accidentalmente causare l'utilizzo di due cassette postali da parte di un utente: una in locale e una nel cloud. È possibile creare una cassetta postale duplicata in entrambi i casi.
 
-Per risolvere il problema, vedere [informazioni sulle cassette postali in modo definitivo](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).
+Per risolvere il problema, vedere [come eseguire il ripristino quando una cassetta postale esiste sia in Exchange Online che in locale](https://docs.microsoft.com/en-us/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Per ulteriori informazioni su come evitare che ciò accada in futuro, vedere l' [utente dispone di una cassetta postale sia in locale che in Exchange Online. Aiuto!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+
