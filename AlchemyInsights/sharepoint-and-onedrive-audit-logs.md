@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504395"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068027"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>Registri di controllo di SharePoint e OneDrive
 
@@ -38,9 +38,12 @@ Non è necessaria alcuna configurazione aggiuntiva all'interno di SharePoint o O
 
 **Registri di controllo di SharePoint Classic**
 
-- [Visualizzazione e abilitazione dei log di controllo di SharePoint classico](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+È stata eseguita la migrazione del controllo legacy di SPO al log di controllo unificato (UAL). Questo significa in sostanza che tutti i report di controllo legacy di SPO saranno ora alimentati tramite UAL e i segnali di controllo legacy sono stati migrati a UAL.
 
-È necessario che il controllo sia abilitato per ogni raccolta siti. 
+Modifiche principali:
 
-**Nota**: è consigliabile utilizzare i moderni log di controllo unificato per opzioni di controllo migliori e avanzate rispetto ai classici registri di controllo.
+- Il taglio come funzionalità non è disponibile.
+- La sezione in cui si scelgono gli eventi specifici da controllare non è disponibile. Fare riferimento a [questo documento](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) per un elenco completo degli eventi controllati disponibili per impostazione predefinita.
+- L'opzione "location" in **report personalizzati** non è disponibile. 
+- Gli eventi "apertura o download di documenti" non sono disponibili. 
 
