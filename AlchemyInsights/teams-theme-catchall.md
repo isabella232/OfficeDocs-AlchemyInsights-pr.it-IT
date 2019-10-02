@@ -1,0 +1,38 @@
+---
+title: Teams Theme catchall
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "2605"
+- "9000701"
+ms.openlocfilehash: 5fa39c87550e6bacf60299c6420f5318ed99a73b
+ms.sourcegitcommit: 89b8d982f83ff8d269624e5745d3a186f1e3e6c1
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350861"
+---
+#   <a name="teams-common-issues-and-resolutions"></a>Problemi e risoluzioni comuni per i team
+
+Per una risposta più specifica su un problema di Microsoft teams, riformulare brevemente la domanda e includere gli eventuali errori visualizzati o funzionalità che si sta utilizzando.
+
+Di seguito sono riportate alcune risorse aggiuntive:
+
+- **Abilitare l'accesso Guest ai team:** Esaminare l' [elenco di controllo di accesso Guest teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist) e verificare che tutti i passaggi siano stati completati.
+- **Risoluzione dei problemi relativi all'accesso ai team:** Verificare innanzitutto che il [servizio Microsoft teams sia integro](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Controllare quindi i codici di errore comuni e verificare [perché si verificano problemi nell'accesso a Microsoft teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Potrebbe anche essere necessario esaminare i [modelli di identità e l'autenticazione in Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
+- **Ripristinare un team o un canale eliminato:** 
+    - Vedere [ripristino di un team eliminato in Microsoft teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/).
+    - I canali eliminati all'interno di un team possono essere ripristinati fino a 21 giorni dopo l'eliminazione del canale. 
+    - Per recuperare un canale eliminato, vedere [Archive or Restore a Team](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7).
+- **Ripristinare i file eliminati:** Vedere [recuperare i file eliminati nei team](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
+- **Risoluzione dei problemi relativi a un dial pad mancante:**  
+    1. Verificare che all'utente sia stata assegnata una licenza per i [Team](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+    2. Verificare che all'utente sia assegnato un piano per le [chiamate](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
+    3. Abilitare gli utenti per [VoIP aziendale](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+- **Problemi noti relativi ai team:** Leggere [i problemi noti per Microsoft teams](https://docs.microsoft.com/microsoftteams/known-issues).
