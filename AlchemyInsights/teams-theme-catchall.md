@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 5fa39c87550e6bacf60299c6420f5318ed99a73b
-ms.sourcegitcommit: 89b8d982f83ff8d269624e5745d3a186f1e3e6c1
+ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
+ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350861"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37373115"
 ---
-#   <a name="teams-common-issues-and-resolutions"></a>Problemi e risoluzioni comuni per i team
+# <a name="teams-common-issues-and-resolutions"></a>Problemi e risoluzioni comuni per i team
 
 Per una risposta più specifica su un problema di Microsoft teams, riformulare brevemente la domanda e includere gli eventuali errori visualizzati o funzionalità che si sta utilizzando.
 
@@ -32,7 +32,7 @@ Di seguito sono riportate alcune risorse aggiuntive:
     - Per recuperare un canale eliminato, vedere [Archive or Restore a Team](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7).
 - **Ripristinare i file eliminati:** Vedere [recuperare i file eliminati nei team](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
 - **Risoluzione dei problemi relativi a un dial pad mancante:**  
-    1. Verificare che all'utente sia stata assegnata una licenza per i [Team](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-    2. Verificare che all'utente sia assegnato un piano per le [chiamate](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-    3. Abilitare gli utenti per [VoIP aziendale](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+    - Verificare che all'utente sia stata assegnata una licenza per i [Team](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+    - Verificare che all'utente sia assegnato un piano per le [chiamate](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
+    - Abilitare gli utenti per [VoIP aziendale](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 - **Problemi noti relativi ai team:** Leggere [i problemi noti per Microsoft teams](https://docs.microsoft.com/microsoftteams/known-issues).
