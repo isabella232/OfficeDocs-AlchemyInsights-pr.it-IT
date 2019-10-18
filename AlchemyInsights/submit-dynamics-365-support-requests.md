@@ -18,9 +18,9 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36666052"
 ---
-# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="007d2-102">Inviare richieste di supporto di Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="007d2-102">Submit Dynamics 365 support requests</span></span>
+# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="da1e0-102">Inviare richieste di supporto di Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="da1e0-102">Submit Dynamics 365 support requests</span></span>
 
-<span data-ttu-id="007d2-103">I clienti di **Microsoft Dynamics for Customer Engagement** possono invia i ticket tramite la nuova [interfaccia di amministrazione della piattaforma Power](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span><span class="sxs-lookup"><span data-stu-id="007d2-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
+<span data-ttu-id="da1e0-103">I clienti di **Microsoft Dynamics for Customer Engagement** possono invia i ticket tramite la nuova [interfaccia di amministrazione della piattaforma Power](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span><span class="sxs-lookup"><span data-stu-id="da1e0-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
   
-<span data-ttu-id="007d2-104">Il nuovo portale offre un percorso più diretto al servizio di supporto assistito, ottimizzato per Dynamics for Customer Engagement e altri prodotti della piattaforma Power.</span><span class="sxs-lookup"><span data-stu-id="007d2-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
+<span data-ttu-id="da1e0-104">Il nuovo portale offre un percorso più diretto al servizio di supporto assistito, ottimizzato per Dynamics for Customer Engagement e altri prodotti della piattaforma Power.</span><span class="sxs-lookup"><span data-stu-id="da1e0-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
   

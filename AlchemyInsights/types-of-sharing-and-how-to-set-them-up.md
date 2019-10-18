@@ -21,14 +21,14 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36742413"
 ---
-# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="252de-102">Diversi tipi di calendari condivisi di Outlook e informazioni su come configurarli.</span><span class="sxs-lookup"><span data-stu-id="252de-102">Different types of shared calendars and how to set them up</span></span>
+# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="0fb46-102">Diversi tipi di calendari condivisi di Outlook e informazioni su come configurarli.</span><span class="sxs-lookup"><span data-stu-id="0fb46-102">Different types of shared calendars and how to set them up</span></span>
 
-- [<span data-ttu-id="252de-103">Creazione di una cassetta postale condivisa</span><span class="sxs-lookup"><span data-stu-id="252de-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
+- [<span data-ttu-id="0fb46-103">Creazione di una cassetta postale condivisa</span><span class="sxs-lookup"><span data-stu-id="0fb46-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
 
-- [<span data-ttu-id="252de-104">Cassette postali della sala e dell'attrezzatura</span><span class="sxs-lookup"><span data-stu-id="252de-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
+- [<span data-ttu-id="0fb46-104">Cassette postali della sala e dell'attrezzatura</span><span class="sxs-lookup"><span data-stu-id="0fb46-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
 
-- [<span data-ttu-id="252de-105">Creare un gruppo di calendari</span><span class="sxs-lookup"><span data-stu-id="252de-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
+- [<span data-ttu-id="0fb46-105">Creare un gruppo di calendari</span><span class="sxs-lookup"><span data-stu-id="0fb46-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 
-- [<span data-ttu-id="252de-106">Condividere un calendario di Outlook con altri utenti</span><span class="sxs-lookup"><span data-stu-id="252de-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="0fb46-106">Condividere un calendario di Outlook con altri utenti</span><span class="sxs-lookup"><span data-stu-id="0fb46-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-<span data-ttu-id="252de-107">Se le informazioni sulla disponibilità del calendario non vengono visualizzate in altri calendari o se altre persone non riescono a visualizzare le informazioni sulla disponibilità nel proprio calendario, usare l'[Assistente supporto e ripristino per Office 365 di Microsoft](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="252de-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="0fb46-107">Se le informazioni sulla disponibilità del calendario non vengono visualizzate in altri calendari o se altre persone non riescono a visualizzare le informazioni sulla disponibilità nel proprio calendario, usare l'[Assistente supporto e ripristino per Office 365 di Microsoft](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="0fb46-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
