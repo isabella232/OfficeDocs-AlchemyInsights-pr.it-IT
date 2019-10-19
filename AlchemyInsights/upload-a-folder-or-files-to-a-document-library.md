@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36532623"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="3c548-102">Caricare una cartella o un file in una raccolta documenti di SharePoint</span><span class="sxs-lookup"><span data-stu-id="3c548-102">Upload a folder or files to a SharePoint document library</span></span>
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="1d520-102">Caricare una cartella o un file in una raccolta documenti di SharePoint</span><span class="sxs-lookup"><span data-stu-id="1d520-102">Upload a folder or files to a SharePoint document library</span></span>
 
-<span data-ttu-id="3c548-103">Per caricare una cartella, è necessario utilizzare Microsoft Edge, Google Chrome o Mozilla FireFox.</span><span class="sxs-lookup"><span data-stu-id="3c548-103">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox.</span></span> <span data-ttu-id="3c548-104">Non è possibile caricare le cartelle nell'esperienza classica della libreria o con Internet Explorer 10 o 11.</span><span class="sxs-lookup"><span data-stu-id="3c548-104">You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
+<span data-ttu-id="1d520-103">Per caricare una cartella, è necessario utilizzare Microsoft Edge, Google Chrome o Mozilla FireFox.</span><span class="sxs-lookup"><span data-stu-id="1d520-103">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox.</span></span> <span data-ttu-id="1d520-104">Non è possibile caricare le cartelle nell'esperienza classica della libreria o con Internet Explorer 10 o 11.</span><span class="sxs-lookup"><span data-stu-id="1d520-104">You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
   
-1. <span data-ttu-id="3c548-105">Aprire la raccolta documenti in cui si desidera caricare una cartella o file.</span><span class="sxs-lookup"><span data-stu-id="3c548-105">Open the document library where you want to upload a folder or files.</span></span>
+1. <span data-ttu-id="1d520-105">Aprire la raccolta documenti in cui si desidera caricare una cartella o file.</span><span class="sxs-lookup"><span data-stu-id="1d520-105">Open the document library where you want to upload a folder or files.</span></span>
     
-2. <span data-ttu-id="3c548-106">Aprire Esplora file nel computer e passare alla cartella o ai file che si desidera caricare.</span><span class="sxs-lookup"><span data-stu-id="3c548-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
+2. <span data-ttu-id="1d520-106">Aprire Esplora file nel computer e passare alla cartella o ai file che si desidera caricare.</span><span class="sxs-lookup"><span data-stu-id="1d520-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
     
-3. <span data-ttu-id="3c548-107">Trascinare la cartella o i file nella raccolta documenti.</span><span class="sxs-lookup"><span data-stu-id="3c548-107">Drag the folder or files to the document library.</span></span> <span data-ttu-id="3c548-108">Se non vengono visualizzati gli elementi caricati nella raccolta, aggiornare la pagina.</span><span class="sxs-lookup"><span data-stu-id="3c548-108">If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
+3. <span data-ttu-id="1d520-107">Trascinare la cartella o i file nella raccolta documenti.</span><span class="sxs-lookup"><span data-stu-id="1d520-107">Drag the folder or files to the document library.</span></span> <span data-ttu-id="1d520-108">Se non vengono visualizzati gli elementi caricati nella raccolta, aggiornare la pagina.</span><span class="sxs-lookup"><span data-stu-id="1d520-108">If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
     
-<span data-ttu-id="3c548-109">Se non si desidera eseguire il caricamento trascinando gli elementi tra Windows, è anche possibile utilizzare il pulsante **carica** nella raccolta documenti per selezionare la cartella o i file che si desidera caricare.</span><span class="sxs-lookup"><span data-stu-id="3c548-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
+<span data-ttu-id="1d520-109">Se non si desidera eseguire il caricamento trascinando gli elementi tra Windows, è anche possibile utilizzare il pulsante **carica** nella raccolta documenti per selezionare la cartella o i file che si desidera caricare.</span><span class="sxs-lookup"><span data-stu-id="1d520-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
   
 

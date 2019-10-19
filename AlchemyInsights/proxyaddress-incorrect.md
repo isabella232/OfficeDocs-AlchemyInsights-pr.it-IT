@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
 ms.openlocfilehash: 1f908b6fca813ff6cbc4d05d08ee2eb9c49f3515
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554228"
 ---
-# <a name="proxyaddress-incorrect"></a><span data-ttu-id="2287c-102">ProxyAddress non corretto</span><span class="sxs-lookup"><span data-stu-id="2287c-102">ProxyAddress incorrect</span></span>
+# <a name="proxyaddress-incorrect"></a><span data-ttu-id="37038-102">ProxyAddress non corretto</span><span class="sxs-lookup"><span data-stu-id="37038-102">ProxyAddress incorrect</span></span>
 
-<span data-ttu-id="2287c-103">Quando un oggetto viene sincronizzato con Azure AD, i valori specificati nell'attributo proxyAddresses in Active Directory vengono confrontati con le regole di Azure AD e quindi l'attributo proxyAddresses viene popolato in Azure AD.</span><span class="sxs-lookup"><span data-stu-id="2287c-103">When an object is synchronized to Azure AD, the values that are specified in the proxyAddresses attribute in Active Directory are compared with Azure AD rules, and then the proxyAddresses attribute is populated in Azure AD.</span></span> <span data-ttu-id="2287c-104">Di conseguenza, i valori dell'attributo proxyAddresses per l'oggetto in Active Directory potrebbero non corrispondere ai valori dell'attributo proxyAddresses in Azure AD.</span><span class="sxs-lookup"><span data-stu-id="2287c-104">Therefore, the values of the proxyAddresses attribute for the object in Active Directory may not be the same as the values of the proxyAddresses attribute in Azure AD.</span></span>
+<span data-ttu-id="37038-103">Quando un oggetto viene sincronizzato con Azure AD, i valori specificati nell'attributo proxyAddresses in Active Directory vengono confrontati con le regole di Azure AD e quindi l'attributo proxyAddresses viene popolato in Azure AD.</span><span class="sxs-lookup"><span data-stu-id="37038-103">When an object is synchronized to Azure AD, the values that are specified in the proxyAddresses attribute in Active Directory are compared with Azure AD rules, and then the proxyAddresses attribute is populated in Azure AD.</span></span> <span data-ttu-id="37038-104">Di conseguenza, i valori dell'attributo proxyAddresses per l'oggetto in Active Directory potrebbero non corrispondere ai valori dell'attributo proxyAddresses in Azure AD.</span><span class="sxs-lookup"><span data-stu-id="37038-104">Therefore, the values of the proxyAddresses attribute for the object in Active Directory may not be the same as the values of the proxyAddresses attribute in Azure AD.</span></span>
   
-<span data-ttu-id="2287c-105">Per ulteriori informazioni su come viene popolato il proxyAddress, vedere [come viene popolato l'attributo proxyAddress in Azure ad](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).</span><span class="sxs-lookup"><span data-stu-id="2287c-105">To learn more about how the proxyaddress is populated, see [How the proxyAddress attribute is populated in Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).</span></span>
+<span data-ttu-id="37038-105">Per ulteriori informazioni su come viene popolato il proxyAddress, vedere [come viene popolato l'attributo proxyAddress in Azure ad](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).</span><span class="sxs-lookup"><span data-stu-id="37038-105">To learn more about how the proxyaddress is populated, see [How the proxyAddress attribute is populated in Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).</span></span>
   
 
