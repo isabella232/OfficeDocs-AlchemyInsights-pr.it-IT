@@ -13,10 +13,10 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661300"
 ---
 # <a name="office-365-alert-policies"></a>Criteri di avviso di Office 365
@@ -34,7 +34,7 @@ Per esaminare e agire su un avviso:
 2. Fare clic su **avvisi** > **Visualizza avvisi**.
 3. Fare clic su un avviso per visualizzare una pagina a comparsa con informazioni sull'avviso.
 
-È possibile eseguire un'azione su un avviso, ad esempio [la rimozione di una regola di posta in arrivo sospetta](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). In alternativa, è possibile chiudere l'avviso semplicemente **** facendo clic su Risolvi nella pagina riquadro a comparsa avvisi.
+È possibile eseguire un'azione su un avviso, ad esempio [la rimozione di una regola di posta in arrivo sospetta](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). In alternativa, è possibile chiudere l'avviso semplicemente facendo clic su **Risolvi** nella pagina riquadro a comparsa avvisi.
 
 Per ulteriori informazioni sulla configurazione e sulla gestione dei criteri di avviso, vedere [questo articolo](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
 
