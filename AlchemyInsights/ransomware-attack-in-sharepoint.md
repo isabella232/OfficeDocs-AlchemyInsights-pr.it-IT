@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4f8e77cbbf7385fefbd30ca0e5e59134fd2a2f4e
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553400"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745545"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Attacco ransomware in SharePoint o OneDrive
 
@@ -33,7 +33,7 @@ Interrompere o sospendere immediatamente la sincronizzazione di OneDrive (se pre
 Per ulteriori informazioni su come eseguire il ripristino, vedere:
 
 - [Ripristinare una raccolta OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [Ripristinare una raccolta documenti](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
+- [Ripristinare una raccolta documenti](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
 Per ulteriori informazioni su Advanced Threat Protection (ATP), vedere:
 - [ATP per SharePoint, OneDrive e teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
