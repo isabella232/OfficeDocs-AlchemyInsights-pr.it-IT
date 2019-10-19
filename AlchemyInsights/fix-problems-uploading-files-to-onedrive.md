@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
 ms.openlocfilehash: d06445cf609b70e83701699082c43203270a0962
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525164"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a><span data-ttu-id="c4a03-102">Risolvere i problemi di caricamento dei file in OneDrive</span><span class="sxs-lookup"><span data-stu-id="c4a03-102">Fix problems uploading files to OneDrive</span></span>
+# <a name="fix-problems-uploading-files-to-onedrive"></a><span data-ttu-id="1a8a3-102">Risolvere i problemi di caricamento dei file in OneDrive</span><span class="sxs-lookup"><span data-stu-id="1a8a3-102">Fix problems uploading files to OneDrive</span></span>
 
-<span data-ttu-id="c4a03-103">Provare a eseguire questa operazione se non si carica un file:</span><span class="sxs-lookup"><span data-stu-id="c4a03-103">Try this if a file won't upload:</span></span>
+<span data-ttu-id="1a8a3-103">Provare a eseguire questa operazione se non si carica un file:</span><span class="sxs-lookup"><span data-stu-id="1a8a3-103">Try this if a file won't upload:</span></span>
   
-- <span data-ttu-id="c4a03-104">Rinominare il file e riprovare.</span><span class="sxs-lookup"><span data-stu-id="c4a03-104">Rename the file and try again.</span></span> <span data-ttu-id="c4a03-105">Alcuni nomi di file e caratteri nei nomi di file non sono consentiti.</span><span class="sxs-lookup"><span data-stu-id="c4a03-105">Some file names and characters in file names aren't allowed.</span></span> 
+- <span data-ttu-id="1a8a3-104">Rinominare il file e riprovare.</span><span class="sxs-lookup"><span data-stu-id="1a8a3-104">Rename the file and try again.</span></span> <span data-ttu-id="1a8a3-105">Alcuni nomi di file e caratteri nei nomi di file non sono consentiti.</span><span class="sxs-lookup"><span data-stu-id="1a8a3-105">Some file names and characters in file names aren't allowed.</span></span> 
     
-- <span data-ttu-id="c4a03-106">Se si sta sincronizzando il file, spostarlo dalla cartella OneDrive, ad esempio spostarlo sul desktop, e quando lo stato di sincronizzazione di OneDrive viene visualizzato come "aggiornato", spostarlo di nuovo.</span><span class="sxs-lookup"><span data-stu-id="c4a03-106">If you're syncing the file, move it out of your OneDrive folder (for example, move it to your Desktop), and when your OneDrive sync status appears as "Up to date," move it back.</span></span> 
+- <span data-ttu-id="1a8a3-106">Se si sta sincronizzando il file, spostarlo dalla cartella OneDrive, ad esempio spostarlo sul desktop, e quando lo stato di sincronizzazione di OneDrive viene visualizzato come "aggiornato", spostarlo di nuovo.</span><span class="sxs-lookup"><span data-stu-id="1a8a3-106">If you're syncing the file, move it out of your OneDrive folder (for example, move it to your Desktop), and when your OneDrive sync status appears as "Up to date," move it back.</span></span> 
     
-[<span data-ttu-id="c4a03-107">Ulteriori suggerimenti per la risoluzione dei problemi</span><span class="sxs-lookup"><span data-stu-id="c4a03-107">More troubleshooting tips</span></span>](https://go.microsoft.com/fwlink/?linkid=873155)
+[<span data-ttu-id="1a8a3-107">Ulteriori suggerimenti per la risoluzione dei problemi</span><span class="sxs-lookup"><span data-stu-id="1a8a3-107">More troubleshooting tips</span></span>](https://go.microsoft.com/fwlink/?linkid=873155)
   
 
