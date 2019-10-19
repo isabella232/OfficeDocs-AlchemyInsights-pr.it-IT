@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.custom:
 - "9000289"
 ms.openlocfilehash: d9f199035251c8b4f8041fc8530d1eca2eb3c7e8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556588"
 ---
 # <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Come gestire un messaggio di posta elettronica di phishing in Outlook sul Web
 
 Una truffa di phishing è un messaggio di posta elettronica che sembra legittimo, ma è in realtà un tentativo di rubare le informazioni personali o denaro. I truffatori possono anche utilizzare una tecnica denominata spoofing per visualizzarla come se l'utente ha ricevuto un messaggio di posta elettronica da solo.
 
-Se si riceve un messaggio di posta elettronica che assomiglia a un imbroglio di phishing, è possibile segnalarlo selezionandoli e quindi scegliendo**phishing**di **posta** > indesiderata.
+Se si riceve un messaggio di posta elettronica che assomiglia a un imbroglio di phishing, è possibile segnalarlo selezionandoli e quindi scegliendo**phishing**di **posta indesiderata** > .
 
 *Nota:* Quando si contrassegna un messaggio come phishing, viene segnalato solo il mittente.Non blocca il mittente dall'invio di messaggi in futuro. Per bloccare il mittente, è necessario aggiungere il mittente all'elenco dei mittenti bloccati. Per ulteriori informazioni, vedere [Block Senders o Unblock Senders in Outlook sul Web](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
 

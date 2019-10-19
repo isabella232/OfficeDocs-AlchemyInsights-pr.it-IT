@@ -7,25 +7,24 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "311"
+- "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 114b6402f7b2a6f33671cf90415ec142df096f67
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0f46024ed7460579da0095f437dfccc1ffa7cdda
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666988"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37590390"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft teams-accesso Guest
 
-Per ulteriori informazioni, è necessario attivare e configurare la funzionalità di accesso guest in Microsoft Teams?
+Serve assistenza per attivare e configurare la funzionalità di accesso guest in Microsoft Teams?  
 
-Ecco cosa fare:
+Prima di tutto, assicurarsi di aver seguito tutti i passaggi riportati nell' [elenco di controllo di accesso Guest](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist). Dopo aver completato tutti questi passaggi, è necessario [attendere fino a 24 ore](https://docs.microsoft.com/en-us/microsoftteams/manage-guests#guest-access-latencies) per rendere effettive le impostazioni.
 
-1. Autorizzare l'accesso guest.
-1. Aggiungere gli utenti Guest al team.
-1. Configurare le autorizzazioni per gli utenti guest.
+Se si è certi di aver completato tutti i passaggi dell'elenco di controllo e sono passate più di 24 ore, provare a [aggiungere un ospite al team](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
 Per ulteriori informazioni, inclusi i video su come fare, vedere [Guest Access in Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access).
