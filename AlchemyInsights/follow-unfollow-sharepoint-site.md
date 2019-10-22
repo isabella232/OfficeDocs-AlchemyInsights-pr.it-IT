@@ -1,26 +1,26 @@
 ---
 title: Seguire o deselezionare un sito di SharePoint
 ms.author: pebaum
-author: Techwriter40
+author: v-miegge
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
+ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755708"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "37611701"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Seguire o deselezionare un sito di SharePoint
 
-Esistono diversi modi per seguire un sito che vi interessa in SharePoint. In questo modo è possibile trovare il sito facilmente nell'elenco e consentire di visualizzare le attività dal sito. 
+Esistono diversi modi per individuare e seguire i siti, le notizie e i contenuti che ti interessano in SharePoint. In questo modo è possibile trovare le informazioni facilmente nell'elenco e consentire di visualizzare le attività da SharePoint.
 
-Guardare il video per [seguire un sito di SharePoint](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
+Guarda il video per [trovare e seguire i siti e le notizie](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
 
-Se non si è in grado di seguire o meno un sito e si ritiene che i risultati non siano quelli previsti, vedere se il problema è correlato a un singolo utente o a tutti gli utenti all'interno dell'organizzazione. Se il problema viene rilevato da tutti gli utenti, potrebbe verificarsi un problema di servizio temporaneo. 
+Se non si è in grado di seguire o non seguire un sito, notizie o contenuti e si ritiene che i risultati non siano ciò che è previsto, vedere se il problema è correlato a un singolo utente o a tutti gli utenti all'interno dell'organizzazione. Se il problema viene rilevato da tutti gli utenti, potrebbe verificarsi un problema di servizio temporaneo.
 
 Controllare il [Dashboard dell'integrità del servizio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) per verificare se l'organizzazione ha un impatto.
