@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376705"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637781"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Impostazioni della lobby di controllo e livello di partecipazione
 
-Queste impostazioni controllano quali partecipanti alla riunione attendono nell'atrio prima che vengano ammessi alla riunione e il livello di partecipazione consentito in una riunione. È possibile utilizzare PowerShell per aggiornare le impostazioni dei criteri per le riunioni che non sono state ancora implementate (contrassegnate come "prossimamente") nell'interfaccia di amministrazione dei team.  Per un esempio di cmdlet di PowerShell che consente a tutti gli utenti di ignorare la lobby, vedere di seguito.  
+Se si desidera consentire a tutti, compresi gli utenti con accesso esterno, esterni e anonimi, di ignorare la lobby, è possibile utilizzare PowerShell per eseguire questa operazione. Di seguito è riportato un esempio di modifica del criterio di riunione globale per l'organizzazione:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+Questo cmdlet richiede attualmente l'utilizzo del modulo di Windows PowerShell per Skype for business. Per ottenere il programma di installazione per l'utilizzo di questo cmdlet, vedere Managing policys tramite PowerShell.
+
+È possibile configurare un nuovo criterio, che sarà necessario applicare agli utenti. Se si modifica il criterio globale, verrà applicato automaticamente agli utenti. Per eventuali modifiche ai criteri, è necessario attendere almeno 4 ore e fino a 24 ore per rendere effettive le condizioni.
+
+Assicurarsi di esaminare la documentazione seguente prima di apportare queste modifiche per comprendere esattamente cosa può essere consentito.
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Informazioni sui controlli dei criteri di lobby riunione dei team
 
 - [Ammetti automaticamente](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) che la gente è un criterio per organizzatore che controlla se gli utenti partecipano a una riunione direttamente o attendono nella lobby finché non vengono ammessi da un utente autenticato.
 
@@ -30,15 +40,4 @@ Queste impostazioni controllano quali partecipanti alla riunione attendono nell'
 
 - [Consenti agli organizzatori di ignorare le impostazioni della lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**presto disponibile**) è un criterio per ogni organizzatore che controlla se l'organizzatore della riunione può ignorare le impostazioni della lobby che un amministratore ha impostato in modo automatico per consentire agli **utenti** di accedere **in accesso esterno consente agli utenti di ignorare la lobby** quando pianificano una nuova riunione.
 
-**Nota:** Leggere [Manage meeting Policy in teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) per una panoramica completa dei criteri di riunione di Microsoft teams. 
-
-
-**Esempio di PowerShell**
-
-Se si desidera consentire a tutti, compresi gli utenti esterni o anonimi, di ignorare la lobby, è possibile utilizzare anche PowerShell per eseguire questa attività.  Di seguito è riportato un esempio di modifica del criterio di riunione globale per l'organizzazione.   
-
-(Assicurarsi di esaminare la documentazione precedente prima di apportare queste modifiche per comprendere esattamente cosa può essere consentito).
-
-Set-CsTeamsMeetingPolicy-Identity global-AutoAdmittedUsers "Everyone"-AllowPSTNUsersToBypassLobby $True
-
-Per ulteriori informazioni, vedere [set-CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps).
+**Nota:** Leggere [Manage meeting Policy in teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) per una panoramica completa dei criteri di riunione di Microsoft teams.
