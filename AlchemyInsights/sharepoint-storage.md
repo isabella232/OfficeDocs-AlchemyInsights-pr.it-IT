@@ -3,7 +3,6 @@ title: Archiviazione di SharePoint
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502720"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658261"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Gestire lo spazio di archiviazione di SharePoint Online
 
-Per la maggior parte delle organizzazioni, lo spazio di archiviazione di SharePoint viene gestito automaticamente in modo che non sia necessario impostare limiti per ogni raccolta siti. Per controllare la quantità di spazio di archiviazione di SharePoint di cui si dispone:
-  
-- Nella nuova interfaccia di amministrazione di SharePoint, in alto a destra della pagina siti, cercare la memoria disponibile e totale.
+Informazioni su come [viene calcolato l'archiviazione tenant](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) in base al piano.
 
-Per informazioni sulla modalità di calcolo del limite, vedere [limiti di SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113). Per acquistare ulteriore spazio di archiviazione, vedere [Change storage space for your Subscription](https://go.microsoft.com/fwlink/?linkid=866428).
-  
-Per informazioni sul monitoraggio dell'archiviazione dei singoli siti tramite PowerShell e la gestione dell'archiviazione delle raccolte siti manualmente, vedere [gestire i limiti di archiviazione delle raccolte siti](https://go.microsoft.com/fwlink/?linkid=867833)
+Per la maggior parte delle organizzazioni, lo spazio di archiviazione di SharePoint viene gestito automaticamente, pertanto non è necessario impostare limiti per ogni raccolta siti.
+
+Informazioni su come [visualizzare lo spazio di archiviazione totale e disponibile per l'organizzazione](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+
+Informazioni su come [gestire i singoli limiti di archiviazione delle raccolte siti](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+
+Se il sito non è più spazio o si desidera sapere quale raccolta o elenco utilizza lo spazio, passare alla**metrica** di archiviazione **delle impostazioni** > del sito (sono necessarie le autorizzazioni di amministratore della raccolta siti).
+
+Informazioni su come [monitorare i limiti di spazio di archiviazione del sito tramite PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+
+Informazioni su come [acquistare spazio di archiviazione aggiuntivo](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
   
