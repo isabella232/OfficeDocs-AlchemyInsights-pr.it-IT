@@ -2,7 +2,6 @@
 title: Rinominare un sito
 ms.author: pebaum
 author: Techwriter40
-ms.date: 9/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 453b19d9a35e074a9b0e8aaae5a4256110d4a1f9
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752180"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658369"
 ---
-# <a name="rename-a-sharepoint-site"></a><span data-ttu-id="2484c-102">Rinominare un sito di SharePoint</span><span class="sxs-lookup"><span data-stu-id="2484c-102">Rename a SharePoint site</span></span>
+# <a name="rename-a-sharepoint-site"></a><span data-ttu-id="1287d-102">Rinominare un sito di SharePoint</span><span class="sxs-lookup"><span data-stu-id="1287d-102">Rename a SharePoint site</span></span>
 
-<span data-ttu-id="2484c-103">Per modificare il nome di un sito, ad esempio da https://contoso.sharepoint.com/sites/sample1 a https://contoso.sharepoint.com/sites/sample2, è necessario creare un nuovo sito e quindi spostare tutto il contenuto dal sito precedente a quello nuovo.</span><span class="sxs-lookup"><span data-stu-id="2484c-103">To change the name of a site, for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, you need to create a new site and then move all the content from the old site to the new one.</span></span> <span data-ttu-id="2484c-104">Per informazioni sullo spostamento di elementi nelle raccolte documenti, vedere [spostare o copiare elementi da una raccolta documenti di SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018691).</span><span class="sxs-lookup"><span data-stu-id="2484c-104">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?Linkid=2018691).</span></span>
-  
-<span data-ttu-id="2484c-105">Nota: se si sta tentando di modificare il nome di dominio, ovvero la parte contoso dell'URL precedente, in un URL di SharePoint Online, ciò non è possibile.</span><span class="sxs-lookup"><span data-stu-id="2484c-105">Note: If you are trying to change the domain name (that is, the contoso part of the URL above) in a SharePoint Online URL, that is not possible.</span></span> <span data-ttu-id="2484c-106">Vedere [Change Your Domains](https://go.microsoft.com/fwlink/?Linkid=2018696).</span><span class="sxs-lookup"><span data-stu-id="2484c-106">See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696).</span></span>
+<span data-ttu-id="1287d-103">Seguire i passaggi descritti in [questo articolo](https://docs.microsoft.com/sharepoint/change-site-address) per modificare il nome di un sito, ad esempio da https://contoso.sharepoint.com/sites/sample1 a https://contoso.sharepoint.com/sites/sample2.</span><span class="sxs-lookup"><span data-stu-id="1287d-103">Follow steps in [this article](https://docs.microsoft.com/sharepoint/change-site-address) to change the name of a site--for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2.</span></span>
+
+<span data-ttu-id="1287d-104">**Nota:** Non è possibile modificare il nome di dominio (nell'esempio precedente, la parte contoso dell'URL) in un URL di SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="1287d-104">**Note:** You cannot change the domain name (in the example above, the contoso part of the URL) in a SharePoint Online URL.</span></span> <span data-ttu-id="1287d-105">Per ulteriori informazioni, vedere [Change Your Domains](https://go.microsoft.com/fwlink/?Linkid=2018696) .</span><span class="sxs-lookup"><span data-stu-id="1287d-105">See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696) for more information.</span></span>
   
