@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
 ms.openlocfilehash: 235bc552a393980423044421b6d43f7e712fbc99
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36524127"
 ---
-# <a name="get-started-with-sharepoint-online"></a><span data-ttu-id="a880e-102">Introduzione a SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="a880e-102">Get started with SharePoint Online</span></span>
+# <a name="get-started-with-sharepoint-online"></a><span data-ttu-id="ac1f1-102">Introduzione a SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="ac1f1-102">Get started with SharePoint Online</span></span>
 
-<span data-ttu-id="a880e-103">È possibile eseguire la formazione video e la [Guida](https://go.microsoft.com/fwlink/?linkid=866437)introduttiva di [SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866438) .</span><span class="sxs-lookup"><span data-stu-id="a880e-103">Get up and running with our [SharePoint Online video training](https://go.microsoft.com/fwlink/?linkid=866438) and [quick start guide](https://go.microsoft.com/fwlink/?linkid=866437).</span></span> <span data-ttu-id="a880e-104">Se si sta cercando una guida dettagliata, seguire la procedura descritta in [SharePoint Online Deployment Advisor.](https://portal.office.com/onboarding/sharepointonline#/)</span><span class="sxs-lookup"><span data-stu-id="a880e-104">If you are looking for a more comprehensive, step-by-step guide follow the steps in the [SharePoint Online deployment advisor.](https://portal.office.com/onboarding/sharepointonline#/)</span></span>
+<span data-ttu-id="ac1f1-103">È possibile eseguire la formazione video e la [Guida](https://go.microsoft.com/fwlink/?linkid=866437)introduttiva di [SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866438) .</span><span class="sxs-lookup"><span data-stu-id="ac1f1-103">Get up and running with our [SharePoint Online video training](https://go.microsoft.com/fwlink/?linkid=866438) and [quick start guide](https://go.microsoft.com/fwlink/?linkid=866437).</span></span> <span data-ttu-id="ac1f1-104">Se si sta cercando una guida dettagliata, seguire la procedura descritta in [SharePoint Online Deployment Advisor.](https://portal.office.com/onboarding/sharepointonline#/)</span><span class="sxs-lookup"><span data-stu-id="ac1f1-104">If you are looking for a more comprehensive, step-by-step guide follow the steps in the [SharePoint Online deployment advisor.](https://portal.office.com/onboarding/sharepointonline#/)</span></span>
   
 

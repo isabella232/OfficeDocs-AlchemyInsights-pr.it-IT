@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
 ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36515919"
 ---
-# <a name="create-a-site"></a><span data-ttu-id="0e895-102">Creare un sito</span><span class="sxs-lookup"><span data-stu-id="0e895-102">Create a site</span></span>
+# <a name="create-a-site"></a><span data-ttu-id="7bdfd-102">Creare un sito</span><span class="sxs-lookup"><span data-stu-id="7bdfd-102">Create a site</span></span>
 
-<span data-ttu-id="0e895-103">È possibile creare diversi tipi di siti in SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="0e895-103">You can create different types of sites in SharePoint Online.</span></span> <span data-ttu-id="0e895-104">Per informazioni su come eseguire questa operazione nella nuova interfaccia di amministrazione di SharePoint, vedere [creare un sito](https://go.microsoft.com/fwlink/?linkid=866295).</span><span class="sxs-lookup"><span data-stu-id="0e895-104">To learn how to do this in the new SharePoint admin center, see [Create a site](https://go.microsoft.com/fwlink/?linkid=866295).</span></span> <span data-ttu-id="0e895-105">Per informazioni su come consentire agli utenti di creare siti personali, vedere [Manage Site Creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span><span class="sxs-lookup"><span data-stu-id="0e895-105">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
+<span data-ttu-id="7bdfd-103">È possibile creare diversi tipi di siti in SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="7bdfd-103">You can create different types of sites in SharePoint Online.</span></span> <span data-ttu-id="7bdfd-104">Per informazioni su come eseguire questa operazione nella nuova interfaccia di amministrazione di SharePoint, vedere [creare un sito](https://go.microsoft.com/fwlink/?linkid=866295).</span><span class="sxs-lookup"><span data-stu-id="7bdfd-104">To learn how to do this in the new SharePoint admin center, see [Create a site](https://go.microsoft.com/fwlink/?linkid=866295).</span></span> <span data-ttu-id="7bdfd-105">Per informazioni su come consentire agli utenti di creare siti personali, vedere [Manage Site Creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span><span class="sxs-lookup"><span data-stu-id="7bdfd-105">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
  
-<span data-ttu-id="0e895-106">Per informazioni sui nuovi tipi di sito, vedere gruppi di siti del [Team connessi](https://go.microsoft.com/fwlink/?linkid=866292) o [siti di comunicazione](https://go.microsoft.com/fwlink/?linkid=866294).</span><span class="sxs-lookup"><span data-stu-id="0e895-106">For info about the new site types, see [Group connected team sites](https://go.microsoft.com/fwlink/?linkid=866292) or [Communication sites](https://go.microsoft.com/fwlink/?linkid=866294).</span></span>
+<span data-ttu-id="7bdfd-106">Per informazioni sui nuovi tipi di sito, vedere gruppi di siti del [Team connessi](https://go.microsoft.com/fwlink/?linkid=866292) o [siti di comunicazione](https://go.microsoft.com/fwlink/?linkid=866294).</span><span class="sxs-lookup"><span data-stu-id="7bdfd-106">For info about the new site types, see [Group connected team sites](https://go.microsoft.com/fwlink/?linkid=866292) or [Communication sites](https://go.microsoft.com/fwlink/?linkid=866294).</span></span>
     
 
 
