@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 6643a13ab0c001d882169d280e7b29e0410b288a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36737625"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769739"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>Creazione e gestione delle cassette postali della sala
 
-Per creare e modificare le cassette postali della sala, vedere [creare e gestire cassette postali sala](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+Per creare e modificare le cassette postali della sala nell'interfaccia di amministrazione di Exchange, vedere [creare e gestire le cassette postali della sala](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
 
 Per ulteriori informazioni sulle cassette postali di room and Equipment (note anche come cassette postali per le risorse), vedere [room and Equipment Mailboxes](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).

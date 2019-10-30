@@ -2,7 +2,6 @@
 title: L'utente esterno non è in grado di accettare un invito alla condivisione
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36735897"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769127"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>L'utente esterno non è in grado di accettare un invito alla condivisione
 
-Se un utente esterno non è in grado di accettare un invito alla condivisione, provare a visitare i collegamenti seguenti: 
+Se un utente esterno non è in grado di accettare un invito per la condivisione di SharePoint o OneDrive, provare a visitare i collegamenti seguenti: 
 
 - ["Accesso negato", "è necessario disporre dell'autorizzazione per accedere a questo sito" o "utente non trovato nella directory" errori in SharePoint Online e OneDrive for business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["I criteri dell'organizzazione non consentono di condividere con questi utenti" errore durante la condivisione di un elemento o di un sito in SharePoint Online o OneDrive for business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)

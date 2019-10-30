@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6ae4ce4d48f136b9c9befbabacbcb554cf436b44
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750848"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766787"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Problemi di apertura dei file di Office da SharePoint
 
@@ -29,5 +29,5 @@ Se si verificano problemi nell'apertura di file e documenti di Office da SharePo
 
 Per ulteriori informazioni o dettagli, fare riferimento all'articolo, [risolvere i problemi relativi all'apertura dei documenti nelle raccolte di SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Nota**: se si verificano problemi relativi all'apertura dei documenti nel browser o nel client per impostazione predefinita, potrebbe essere necessario modificare l'impostazione della raccolta. A tale scopo, passare alla libreria con problemi > icona Gear nell'angolo superiore destro > impostazioni della raccolta > impostazioni avanzate > apertura dei documenti nel browser.
+**Nota:** Se si verificano problemi relativi all'apertura dei documenti nel browser o nel client per impostazione predefinita, potrebbe essere necessario modificare l'impostazione della raccolta. A tale scopo, passare alla libreria con problemi > icona a ingranaggio nell'angolo in alto a destra > impostazioni**Avanzate** > delle impostazioni di **raccolta** >  per**aprire i documenti nel browser**.
 

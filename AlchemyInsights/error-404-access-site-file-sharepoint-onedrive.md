@@ -2,19 +2,18 @@
 title: 'Errore 404: file non trovato'
 ms.author: efrene
 author: efrene
-ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: d05755133bd3e335bea74c69f599b66e1c6017da
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36740217"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769271"
 ---
-# <a name="error-404-file-not-found"></a>Errore 404: file non trovato
+# <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Errore 404: file non trovato in SharePoint o OneDrive
 
 **Errore 404: il file non trovato** viene ricevuto quando gli utenti tentano di accedere a un sito o a un file in SharePoint o OneDrive. Questo è spesso causato da un sito o un file o un gruppo che viene rinominato, spostato o eliminato.
 Gli utenti sperimenteranno l'errore durante il tentativo di accedere alla raccolta siti radice ed è stata eliminata.

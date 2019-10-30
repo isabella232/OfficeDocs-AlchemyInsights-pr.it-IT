@@ -3,7 +3,6 @@ title: Dove è Power Pivot?
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,16 +14,16 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 5767fead9f67ad1070b3dbe65415d4c728cfd92f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530956"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769847"
 ---
 # <a name="where-is-power-pivot"></a>Dove è Power Pivot?
 
-Esistono tre motivi per cui non si vede Power Pivot:
+Esistono tre motivi per cui non è possibile visualizzare Power Pivot:
   
 **La versione di Excel non è inclusa**
   
@@ -36,7 +35,7 @@ Se si utilizza una versione di Excel che supporta Power Pivot, verificare che il
   
 1. Scegliere i componenti aggiuntivi per le **Opzioni** \> **di** **file** \> .
 
-2. Nella casella **** a discesa Gestisci selezionare **componenti aggiuntivi com** e fare clic su **Vai**.
+2. Nella casella a discesa **Gestisci** selezionare **componenti aggiuntivi com** e fare clic su **Vai**.
 
 3. Nella finestra di dialogo **componenti aggiuntivi COM** selezionare la casella di controllo accanto a **Microsoft Power Pivot per Excel**e quindi fare clic su **OK**.
 

@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: fc222b2ea469f4f4d5233e87f7c9fd291bb5794c
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344207"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768877"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Installazione di team come autonomo o con installazioni di Office nuove o esistenti
 
-Microsoft teams è ora incluso nell'ambito di *nuove installazioni* di Office 365 ProPlus, Office 365 business e Office per Mac. Per ulteriori informazioni, vedere [quando Microsoft teams inizierà a essere incluso nelle nuove installazioni di Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft teams è incluso nell'ambito di *nuove installazioni* di Office 365 ProPlus, Office 365 business e Office per Mac. Per ulteriori informazioni, vedere [quando Microsoft teams inizierà a essere incluso nelle nuove installazioni di Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
 Inoltre, a partire dalla versione 1906 nel canale mensile, i team verranno *aggiunti alle installazioni esistenti* di Office 365 ProPlus (e Office 365 business) sui dispositivi che eseguono Windows quando si aggiorna l'installazione esistente alla versione più recente. Per ulteriori informazioni, vedere [What about existing installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 

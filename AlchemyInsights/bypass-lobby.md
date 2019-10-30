@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37654260"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768444"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Impostazioni della lobby di controllo e livello di partecipazione
 
-Se si desidera consentire a tutti, compresi gli utenti con accesso esterno, esterni e anonimi, di ignorare la lobby, è possibile utilizzare PowerShell per eseguire questa operazione. Di seguito è riportato un esempio di modifica del criterio di riunione globale per l'organizzazione:
+Se si desidera consentire a tutti, compresi gli utenti con accesso esterno, esterni e anonimi di ignorare la lobby in Microsoft teams, è possibile utilizzare PowerShell per eseguire questa operazione. Di seguito è riportato un esempio di modifica del criterio di riunione globale per l'organizzazione:
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 

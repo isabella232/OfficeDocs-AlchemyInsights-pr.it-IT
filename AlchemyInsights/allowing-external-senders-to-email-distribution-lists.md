@@ -3,7 +3,6 @@ title: 714 consentire mittenti esterni alle liste di distribuzione di posta elet
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506555"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768228"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Consenti ai mittenti esterni di inviare messaggi ai gruppi di distribuzione
 
 Se gli utenti esterni all'organizzazione ricevono errori durante l'invio di messaggi ai gruppi di distribuzione o se si desidera verificare che i gruppi di distribuzione siano configurati per la ricezione della posta da mittenti esterni, eseguire la procedura seguente:
 
-1. Passare al nodo **gruppi** nel portale di [amministrazione di Office 365](https://portal.office.com/adminportal/home#/groups).
+1. Nell'interfaccia di amministrazione di Office 365, passare alla **** > [](https://portal.office.com/adminportal/home#/groups) pagina gruppi.  
 
-2. Selezionare il gruppo di distribuzione e, nelle proprietà del gruppo, fare clic su **modifica** nella sezione che contiene **Consenti mittenti esterni**.
+2. Selezionare il gruppo di distribuzione e, nel riquadro Proprietà gruppo, selezionare la scheda **Impostazioni** .
 
-3. Nella finestra di dialogo **Modifica dettagli** che viene visualizzata, verificare che **Consenti agli utenti esterni all'organizzazione di inviare messaggi di posta elettronica a questo gruppo di distribuzione.** è **** attivato e quindi fare clic su **Salva**.
+3. Selezionare **Consenti ai mittenti esterni di inviare messaggi di posta elettronica a questo gruppo**e quindi selezionare **Salva**.
