@@ -14,23 +14,23 @@ ms.custom:
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
 ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36738741"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a><span data-ttu-id="33a71-102">Cambiare l'indirizzo di posta elettronica alternativo per la notifica sulla fatturazione</span><span class="sxs-lookup"><span data-stu-id="33a71-102">Change the alternate email address for billing notification</span></span>
+# <a name="change-the-alternate-email-address-for-billing-notification"></a><span data-ttu-id="e1293-102">Cambiare l'indirizzo di posta elettronica alternativo per la notifica sulla fatturazione</span><span class="sxs-lookup"><span data-stu-id="e1293-102">Change the alternate email address for billing notification</span></span>
 
-<span data-ttu-id="33a71-103">La modifica dell'indirizzo di posta elettronica alternativo per la notifica di fatturazione è semplice.</span><span class="sxs-lookup"><span data-stu-id="33a71-103">Changing the alternate email address for billing notification is easy.</span></span> <span data-ttu-id="33a71-104">Seguire questa procedura:</span><span class="sxs-lookup"><span data-stu-id="33a71-104">Just follow these steps:</span></span>
+<span data-ttu-id="e1293-103">La modifica dell'indirizzo di posta elettronica alternativo per la notifica di fatturazione è semplice.</span><span class="sxs-lookup"><span data-stu-id="e1293-103">Changing the alternate email address for billing notification is easy.</span></span> <span data-ttu-id="e1293-104">Seguire questa procedura:</span><span class="sxs-lookup"><span data-stu-id="e1293-104">Just follow these steps:</span></span>
   
-1. <span data-ttu-id="33a71-105">Nell'interfaccia di amministrazione di Microsoft 365 passare alla \>pagina [notifiche](https://go.microsoft.com/fwlink/p/?linkid=853212) **fatturazione fatturazione** .  </span><span class="sxs-lookup"><span data-stu-id="33a71-105">In the Microsoft 365 admin center, go to the **Billing** \>  [Billing Notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page.</span></span>
+1. <span data-ttu-id="e1293-105">Nell'interfaccia di amministrazione di Microsoft 365 passare alla \>pagina [notifiche](https://go.microsoft.com/fwlink/p/?linkid=853212) **fatturazione fatturazione** .  </span><span class="sxs-lookup"><span data-stu-id="e1293-105">In the Microsoft 365 admin center, go to the **Billing** \>  [Billing Notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page.</span></span>
 
-2. <span data-ttu-id="33a71-106">Selezionare un nome nell'elenco.</span><span class="sxs-lookup"><span data-stu-id="33a71-106">Select a name from the list.</span></span>
+2. <span data-ttu-id="e1293-106">Selezionare un nome nell'elenco.</span><span class="sxs-lookup"><span data-stu-id="e1293-106">Select a name from the list.</span></span>
 
-3. <span data-ttu-id="33a71-107">Nella casella **indirizzo di posta elettronica alternativo** Digitare l'indirizzo di posta elettronica alternativo.</span><span class="sxs-lookup"><span data-stu-id="33a71-107">In the **Alternative email address** box, type the alternate email address.</span></span>
+3. <span data-ttu-id="e1293-107">Nella casella **indirizzo di posta elettronica alternativo** Digitare l'indirizzo di posta elettronica alternativo.</span><span class="sxs-lookup"><span data-stu-id="e1293-107">In the **Alternative email address** box, type the alternate email address.</span></span>
 
-4. <span data-ttu-id="33a71-108">Seleziona **Salva** ed è tutto finito.</span><span class="sxs-lookup"><span data-stu-id="33a71-108">Select **Save** and you're done!</span></span>
+4. <span data-ttu-id="e1293-108">Seleziona **Salva** ed è tutto finito.</span><span class="sxs-lookup"><span data-stu-id="e1293-108">Select **Save** and you're done!</span></span>
 
-<span data-ttu-id="33a71-109">Per maggiori dettagli e procedure con screenshot, vedere [Cambiare gli indirizzi di fatturazione per Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).</span><span class="sxs-lookup"><span data-stu-id="33a71-109">For more details and steps with screen shots, see [Change your billing addresses for Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).</span></span>
+<span data-ttu-id="e1293-109">Per maggiori dettagli e procedure con screenshot, vedere [Cambiare gli indirizzi di fatturazione per Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).</span><span class="sxs-lookup"><span data-stu-id="e1293-109">For more details and steps with screen shots, see [Change your billing addresses for Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).</span></span>
   

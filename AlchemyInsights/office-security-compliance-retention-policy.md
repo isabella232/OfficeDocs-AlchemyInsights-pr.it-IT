@@ -14,42 +14,42 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36753764"
 ---
-# <a name="more-info-about-retention-policies"></a><span data-ttu-id="23689-102">Altre informazioni sui criteri di conservazione</span><span class="sxs-lookup"><span data-stu-id="23689-102">More info about retention policies</span></span>
+# <a name="more-info-about-retention-policies"></a><span data-ttu-id="22f20-102">Altre informazioni sui criteri di conservazione</span><span class="sxs-lookup"><span data-stu-id="22f20-102">More info about retention policies</span></span>
 
-<span data-ttu-id="23689-103">Per la maggior parte delle organizzazioni, il volume e la complessità dei dati aumentano giornalmente: posta elettronica, documenti, messaggi istantanei e altro ancora.</span><span class="sxs-lookup"><span data-stu-id="23689-103">For most organizations, the volume and complexity of their data is increasing daily - email, documents, instant messages, and more.</span></span> <span data-ttu-id="23689-104">La gestione efficace o la governance di queste informazioni è importante e un criterio di conservazione può aiutare a raggiungere tali obiettivi.</span><span class="sxs-lookup"><span data-stu-id="23689-104">Effectively managing or governing this information is important, and a retention policy can help you achieve these goals.</span></span> <span data-ttu-id="23689-105">Per ulteriori informazioni sui criteri di conservazione, visitare i collegamenti seguenti:</span><span class="sxs-lookup"><span data-stu-id="23689-105">For more information on retention policies, please visit these links:</span></span>
+<span data-ttu-id="22f20-103">Per la maggior parte delle organizzazioni, il volume e la complessità dei dati aumentano giornalmente: posta elettronica, documenti, messaggi istantanei e altro ancora.</span><span class="sxs-lookup"><span data-stu-id="22f20-103">For most organizations, the volume and complexity of their data is increasing daily - email, documents, instant messages, and more.</span></span> <span data-ttu-id="22f20-104">La gestione efficace o la governance di queste informazioni è importante e un criterio di conservazione può aiutare a raggiungere tali obiettivi.</span><span class="sxs-lookup"><span data-stu-id="22f20-104">Effectively managing or governing this information is important, and a retention policy can help you achieve these goals.</span></span> <span data-ttu-id="22f20-105">Per ulteriori informazioni sui criteri di conservazione, visitare i collegamenti seguenti:</span><span class="sxs-lookup"><span data-stu-id="22f20-105">For more information on retention policies, please visit these links:</span></span>
 
-## <a name="a-from-security-and-compliance-center"></a><span data-ttu-id="23689-106">A) dal centro sicurezza e conformità</span><span class="sxs-lookup"><span data-stu-id="23689-106">A) From Security and Compliance Center</span></span>
+## <a name="a-from-security-and-compliance-center"></a><span data-ttu-id="22f20-106">A) dal centro sicurezza e conformità</span><span class="sxs-lookup"><span data-stu-id="22f20-106">A) From Security and Compliance Center</span></span>
 
-- <span data-ttu-id="23689-107">Passare a sicurezza e conformità > data governance > conservazione</span><span class="sxs-lookup"><span data-stu-id="23689-107">Go to Security and Compliance > Data governance > Retention</span></span>
-  - <span data-ttu-id="23689-108">Vedere [questo](https://docs.microsoft.com/office365/securitycompliance/retention-policies) articolo</span><span class="sxs-lookup"><span data-stu-id="23689-108">See [THIS](https://docs.microsoft.com/office365/securitycompliance/retention-policies) article</span></span>
+- <span data-ttu-id="22f20-107">Passare a sicurezza e conformità > data governance > conservazione</span><span class="sxs-lookup"><span data-stu-id="22f20-107">Go to Security and Compliance > Data governance > Retention</span></span>
+  - <span data-ttu-id="22f20-108">Vedere [questo](https://docs.microsoft.com/office365/securitycompliance/retention-policies) articolo</span><span class="sxs-lookup"><span data-stu-id="22f20-108">See [THIS](https://docs.microsoft.com/office365/securitycompliance/retention-policies) article</span></span>
 
-- <span data-ttu-id="23689-109">Passare a sicurezza e conformità > eDiscovery> Advanced eDiscovery</span><span class="sxs-lookup"><span data-stu-id="23689-109">Go to Security and Compliance > eDiscovery> Advanced eDiscovery</span></span> 
-  - <span data-ttu-id="23689-110">Vedere [questo](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) articolo</span><span class="sxs-lookup"><span data-stu-id="23689-110">See [THIS](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) article</span></span>
+- <span data-ttu-id="22f20-109">Passare a sicurezza e conformità > eDiscovery> Advanced eDiscovery</span><span class="sxs-lookup"><span data-stu-id="22f20-109">Go to Security and Compliance > eDiscovery> Advanced eDiscovery</span></span> 
+  - <span data-ttu-id="22f20-110">Vedere [questo](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) articolo</span><span class="sxs-lookup"><span data-stu-id="22f20-110">See [THIS](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) article</span></span>
 
-- <span data-ttu-id="23689-111">Passare a sicurezza e conformità > classificazione > conservazione</span><span class="sxs-lookup"><span data-stu-id="23689-111">Go to Security and Compliance > Classifications > Retention</span></span>
-  - <span data-ttu-id="23689-112">Vedere questi articoli</span><span class="sxs-lookup"><span data-stu-id="23689-112">See these articles</span></span>
-    - [<span data-ttu-id="23689-113">Etichette di riservatezza</span><span class="sxs-lookup"><span data-stu-id="23689-113">Sensitivity Labels</span></span>](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [<span data-ttu-id="23689-114">Panoramica delle etichette</span><span class="sxs-lookup"><span data-stu-id="23689-114">Labels Overview</span></span>](https://docs.microsoft.com/office365/securitycompliance/labels)
+- <span data-ttu-id="22f20-111">Passare a sicurezza e conformità > classificazione > conservazione</span><span class="sxs-lookup"><span data-stu-id="22f20-111">Go to Security and Compliance > Classifications > Retention</span></span>
+  - <span data-ttu-id="22f20-112">Vedere questi articoli</span><span class="sxs-lookup"><span data-stu-id="22f20-112">See these articles</span></span>
+    - [<span data-ttu-id="22f20-113">Etichette di riservatezza</span><span class="sxs-lookup"><span data-stu-id="22f20-113">Sensitivity Labels</span></span>](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+    - [<span data-ttu-id="22f20-114">Panoramica delle etichette</span><span class="sxs-lookup"><span data-stu-id="22f20-114">Labels Overview</span></span>](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a><span data-ttu-id="23689-115">B) criteri di eDiscovery legacy</span><span class="sxs-lookup"><span data-stu-id="23689-115">B) Legacy eDiscovery policies</span></span>
+## <a name="b-legacy-ediscovery-policies"></a><span data-ttu-id="22f20-115">B) criteri di eDiscovery legacy</span><span class="sxs-lookup"><span data-stu-id="22f20-115">B) Legacy eDiscovery policies</span></span>
 
-- <span data-ttu-id="23689-116">Vedere [questo](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) articolo</span><span class="sxs-lookup"><span data-stu-id="23689-116">See [THIS](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) article</span></span>
+- <span data-ttu-id="22f20-116">Vedere [questo](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) articolo</span><span class="sxs-lookup"><span data-stu-id="22f20-116">See [THIS](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) article</span></span>
 
-## <a name="c-site-closure-and-deletion-policies"></a><span data-ttu-id="23689-117">C) criteri per la chiusura e l'eliminazione dei siti</span><span class="sxs-lookup"><span data-stu-id="23689-117">C) Site closure and deletion policies</span></span>
+## <a name="c-site-closure-and-deletion-policies"></a><span data-ttu-id="22f20-117">C) criteri per la chiusura e l'eliminazione dei siti</span><span class="sxs-lookup"><span data-stu-id="22f20-117">C) Site closure and deletion policies</span></span>
 
-- <span data-ttu-id="23689-118">Vedere [questo](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) articolo</span><span class="sxs-lookup"><span data-stu-id="23689-118">See [THIS](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) article</span></span>  
+- <span data-ttu-id="22f20-118">Vedere [questo](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) articolo</span><span class="sxs-lookup"><span data-stu-id="22f20-118">See [THIS](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) article</span></span>  
 
-## <a name="d-information-rights-management-irm"></a><span data-ttu-id="23689-119">D) Information Rights Management (IRM)</span><span class="sxs-lookup"><span data-stu-id="23689-119">D) Information Rights Management (IRM)</span></span>
+## <a name="d-information-rights-management-irm"></a><span data-ttu-id="22f20-119">D) Information Rights Management (IRM)</span><span class="sxs-lookup"><span data-stu-id="22f20-119">D) Information Rights Management (IRM)</span></span>
 
-- <span data-ttu-id="23689-120">Vedere questi articoli</span><span class="sxs-lookup"><span data-stu-id="23689-120">See these articles</span></span>
-  - [<span data-ttu-id="23689-121">IRM su un elenco o una raccolta</span><span class="sxs-lookup"><span data-stu-id="23689-121">IRM on a list/Library</span></span>](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [<span data-ttu-id="23689-122">Panoramica di IRM</span><span class="sxs-lookup"><span data-stu-id="23689-122">IRM Overview</span></span>](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+- <span data-ttu-id="22f20-120">Vedere questi articoli</span><span class="sxs-lookup"><span data-stu-id="22f20-120">See these articles</span></span>
+  - [<span data-ttu-id="22f20-121">IRM su un elenco o una raccolta</span><span class="sxs-lookup"><span data-stu-id="22f20-121">IRM on a list/Library</span></span>](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [<span data-ttu-id="22f20-122">Panoramica di IRM</span><span class="sxs-lookup"><span data-stu-id="22f20-122">IRM Overview</span></span>](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> <span data-ttu-id="23689-123">Si consiglia di passare a criteri di sicurezza e conformità se si utilizzano ancora eDiscovery legacy o IRM o i policies di eliminazione e chiusura del sito.</span><span class="sxs-lookup"><span data-stu-id="23689-123">We strongly recommend moving to Security and Compliance polices if you are still using Legacy eDiscovery or IRM or Site Closure and deletion policies.</span></span>
+> <span data-ttu-id="22f20-123">Si consiglia di passare a criteri di sicurezza e conformità se si utilizzano ancora eDiscovery legacy o IRM o i policies di eliminazione e chiusura del sito.</span><span class="sxs-lookup"><span data-stu-id="22f20-123">We strongly recommend moving to Security and Compliance polices if you are still using Legacy eDiscovery or IRM or Site Closure and deletion policies.</span></span>
