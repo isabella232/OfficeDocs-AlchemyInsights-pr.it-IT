@@ -12,10 +12,10 @@ ms.custom:
 - "2673"
 - "9000740"
 ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768444"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Impostazioni della lobby di controllo e livello di partecipazione
@@ -38,6 +38,6 @@ Assicurarsi di esaminare la documentazione seguente prima di apportare queste mo
 
 - [Consenti agli utenti con accesso esterno di ignorare la lobby](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**prossimamente**) è un criterio per ogni organizzatore che controlla se le persone che accedono tramite telefono accedono alla riunione direttamente o attendono nella lobby, indipendentemente dall'impostazione di **ammetti persone automaticamente** .
 
-- [Consenti agli organizzatori di ignorare le impostazioni della lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**presto disponibile**) è un criterio per ogni organizzatore che controlla se l'organizzatore della riunione può ignorare le impostazioni della lobby che un amministratore ha impostato in modo automatico per consentire agli **utenti** di accedere **in accesso esterno consente agli utenti di ignorare la lobby** quando pianificano una nuova riunione.
+- [Consenti agli organizzatori di ignorare le impostazioni di lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**presto disponibile**) è un criterio per ogni organizzatore che controlla se l'organizzatore della riunione può ignorare le impostazioni della lobby che un amministratore ha impostato in modo **automatico** **per consentire agli utenti di accesso esterno di ignorare la lobby** quando pianificano una nuova riunione.
 
 **Nota:** Leggere [Manage meeting Policy in teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) per una panoramica completa dei criteri di riunione di Microsoft teams.
