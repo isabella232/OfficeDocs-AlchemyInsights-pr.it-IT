@@ -13,17 +13,17 @@ ms.custom:
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
 ms.openlocfilehash: 712419d44253a08c2ffc7627d7767fd67d6b4a00
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769631"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="247ee-102">Modifica del comportamento di invio delle cassette postali condivise</span><span class="sxs-lookup"><span data-stu-id="247ee-102">Changing shared mailbox Send As behavior</span></span>
+# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="40236-102">Modifica del comportamento di invio delle cassette postali condivise</span><span class="sxs-lookup"><span data-stu-id="40236-102">Changing shared mailbox Send As behavior</span></span>
 
-<span data-ttu-id="247ee-p101">Per impostazione predefinita, i messaggi inviati dalla cassetta postale condivisa non vengono salvati nella relativa cartella Posta inviata, bensì nella cartella Posta inviata della persona che ha inviato il messaggio.</span><span class="sxs-lookup"><span data-stu-id="247ee-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
+<span data-ttu-id="40236-p101">Per impostazione predefinita, i messaggi inviati dalla cassetta postale condivisa non vengono salvati nella relativa cartella Posta inviata, bensì nella cartella Posta inviata della persona che ha inviato il messaggio.</span><span class="sxs-lookup"><span data-stu-id="40236-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
   
-<span data-ttu-id="247ee-105">Se si desidera che tutti i membri visualizzino il messaggio di posta elettronica inviato, nell'interfaccia di amministrazione di Microsoft 365 modificare i dettagli della cassetta postale condivisa e scegliere \> **modifica** **elementi inviati** .</span><span class="sxs-lookup"><span data-stu-id="247ee-105">If you want all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
+<span data-ttu-id="40236-105">Se si desidera che tutti i membri visualizzino il messaggio di posta elettronica inviato, nell'interfaccia di amministrazione di Microsoft 365 modificare i dettagli della cassetta postale condivisa e scegliere \> **modifica** **elementi inviati** .</span><span class="sxs-lookup"><span data-stu-id="40236-105">If you want all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
   
-<span data-ttu-id="247ee-106">Per ulteriori informazioni, vedere [creare una cassetta postale condivisa](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="247ee-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
+<span data-ttu-id="40236-106">Per ulteriori informazioni, vedere [creare una cassetta postale condivisa](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="40236-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
   

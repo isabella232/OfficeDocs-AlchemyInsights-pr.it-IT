@@ -13,18 +13,18 @@ ms.custom:
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
 ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768228"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="3cad8-102">Consenti ai mittenti esterni di inviare messaggi ai gruppi di distribuzione</span><span class="sxs-lookup"><span data-stu-id="3cad8-102">Allow external senders to send messages to distribution groups</span></span>
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="813b3-102">Consenti ai mittenti esterni di inviare messaggi ai gruppi di distribuzione</span><span class="sxs-lookup"><span data-stu-id="813b3-102">Allow external senders to send messages to distribution groups</span></span>
 
-<span data-ttu-id="3cad8-103">Se gli utenti esterni all'organizzazione ricevono errori durante l'invio di messaggi ai gruppi di distribuzione o se si desidera verificare che i gruppi di distribuzione siano configurati per la ricezione della posta da mittenti esterni, eseguire la procedura seguente:</span><span class="sxs-lookup"><span data-stu-id="3cad8-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
+<span data-ttu-id="813b3-103">Se gli utenti esterni all'organizzazione ricevono errori durante l'invio di messaggi ai gruppi di distribuzione o se si desidera verificare che i gruppi di distribuzione siano configurati per la ricezione della posta da mittenti esterni, eseguire la procedura seguente:</span><span class="sxs-lookup"><span data-stu-id="813b3-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
 
-1. <span data-ttu-id="3cad8-104">Nell'interfaccia di amministrazione di Office 365, passare alla \*\*\*\* > [](https://portal.office.com/adminportal/home#/groups) pagina gruppi.</span><span class="sxs-lookup"><span data-stu-id="3cad8-104">In the Office 365 admin center, go to the **Groups** > [Groups](https://portal.office.com/adminportal/home#/groups) page.</span></span>  
+1. <span data-ttu-id="813b3-104">Nell'interfaccia di amministrazione di Office 365, passare alla \*\*\*\* > [](https://portal.office.com/adminportal/home#/groups) pagina gruppi.</span><span class="sxs-lookup"><span data-stu-id="813b3-104">In the Office 365 admin center, go to the **Groups** > [Groups](https://portal.office.com/adminportal/home#/groups) page.</span></span>  
 
-2. <span data-ttu-id="3cad8-105">Selezionare il gruppo di distribuzione e, nel riquadro Proprietà gruppo, selezionare la scheda **Impostazioni** .</span><span class="sxs-lookup"><span data-stu-id="3cad8-105">Select the distribution group, and in the group properties pane, select the **Settings** tab.</span></span>
+2. <span data-ttu-id="813b3-105">Selezionare il gruppo di distribuzione e, nel riquadro Proprietà gruppo, selezionare la scheda **Impostazioni** .</span><span class="sxs-lookup"><span data-stu-id="813b3-105">Select the distribution group, and in the group properties pane, select the **Settings** tab.</span></span>
 
-3. <span data-ttu-id="3cad8-106">Selezionare **Consenti ai mittenti esterni di inviare messaggi di posta elettronica a questo gruppo**e quindi selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="3cad8-106">Select **Allow external senders to email this group**, and then select **Save**.</span></span>
+3. <span data-ttu-id="813b3-106">Selezionare **Consenti ai mittenti esterni di inviare messaggi di posta elettronica a questo gruppo**e quindi selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="813b3-106">Select **Allow external senders to email this group**, and then select **Save**.</span></span>
