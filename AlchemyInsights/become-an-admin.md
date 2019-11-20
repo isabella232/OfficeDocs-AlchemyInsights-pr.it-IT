@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: 4bcf4a433fe5d49a61125dff60586ac717024da1
-ms.sourcegitcommit: 4ecd61b709d3ccb730dc120df9445754d5ae4f77
+ms.openlocfilehash: 33657fd68cdcbc4b9762e641156f9800b7b58f4b
+ms.sourcegitcommit: 4ba462af6cc00ea563f10c3f4a3d50e46962c166
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704357"
+ms.locfileid: "38715424"
 ---
 # <a name="become-an-admin"></a>Diventa amministratore
 
 Per assumere il ruolo di amministratore per l'organizzazione, è necessario prendere in carico il tenant di Office 365.
   
-Seguire le istruzioni riportate in questa guida: [amministrazione di acquisizione](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)
+Seguire le istruzioni riportate in questa guida: [amministrazione di acquisizione](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)

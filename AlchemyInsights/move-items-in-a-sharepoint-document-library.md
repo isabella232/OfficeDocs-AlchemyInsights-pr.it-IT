@@ -13,16 +13,16 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 6e68e021525b9bff1c9666d0db5b44ea5d72c753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549043"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711724"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Spostare gli elementi in una raccolta documenti di SharePoint
 
-È possibile spostare gli elementi in posizioni diverse all'interno di una raccolta documenti. Se è stata [configurata l'opzione di rilascio di destinazione](https://go.microsoft.com/fwlink/?linkid=622980), è possibile spostare anche gli elementi tra i siti. Quando si spostano i documenti, viene spostata anche la cronologia.
+È possibile spostare gli elementi in posizioni diverse all'interno di una raccolta documenti.
   
 1. In un Web browser, passare ai file, alle cartelle o ai collegamenti che si desidera spostare, quindi fare clic su **Sposta su**.
 
@@ -34,3 +34,10 @@ ms.locfileid: "36549043"
     Per creare una nuova cartella in cui spostare i file, selezionare un percorso nella gerarchia delle cartelle, fare clic su **nuova cartella**, immettere un nome per la cartella e fare clic sul segno di spunta per salvare il nome.
 
 3. Fare clic su **Sposta qui**.
+
+ Quando un file viene spostato, verrà comunque visualizzato nella directory di origine fino a quando non si sposta completamente verso la destinazione e quindi verrà eliminato. Il file rimarrà nel cestino dei siti di origine dopo che lo spostamento è stato completato e soggetto alla normale pianificazione del riciclo, a meno che un utente non lo ritrovi dal Cestino.
+
+Per ulteriori informazioni, vedere:
+
+ - [Spostare o copiare i file in SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (articolo del supporto tecnico di Office)
+ - [Spostare i file da qualsiasi cartella di Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (articolo del Blog di Microsoft Tech Community) 
