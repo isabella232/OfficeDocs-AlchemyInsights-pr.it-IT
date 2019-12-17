@@ -1,19 +1,19 @@
 ---
 title: FIX 0x8004de40 Error in OneDrive
-ms.author: kirks
-author: Techwriter40
+ms.author: pebaum
+author: pebaum
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: d436184bdc0e283db217ea734fb2c8e05f85b4e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48b29f57763ca22a71a23b2afddcac0e8e8a95db
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525063"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052041"
 ---
 # <a name="fix-0x8004de40-error-in-onedrive"></a>FIX 0x8004de40 Error in OneDrive
 

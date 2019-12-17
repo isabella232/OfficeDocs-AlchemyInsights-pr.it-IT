@@ -1,7 +1,7 @@
 ---
 title: DLP potrebbe essere necessario un tipo personalizzato
-ms.author: stephow
-author: stephow-MSFT
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,12 +13,12 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530355"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052905"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP potrebbe essere necessario un tipo personalizzato
 
@@ -30,7 +30,7 @@ Ad esempio, è possibile che l'organizzazione debba identificare e proteggere gl
   
 Se un tipo di informazioni riservate incorporato soddisfa le proprie esigenze con solo alcuni ritocchi, è possibile [personalizzare un tipo di informazioni riservate incorporato](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Ad esempio, è possibile aggiungere o rimuovere parole chiave oppure aggiungere o rimuovere elementi di prova di supporto quali una data o un indirizzo.
   
- **Creare un tipo di informazioni sensibili personalizzato**
+ **Creare una tipologia personalizzata di informazioni riservate**
   
 Tuttavia, se è necessario identificare e proteggere complessivamente un tipo diverso di informazioni riservate, è possibile [creare un tipo di informazioni riservate personalizzato](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) nell'interfaccia utente del centro sicurezza & conformità.
   

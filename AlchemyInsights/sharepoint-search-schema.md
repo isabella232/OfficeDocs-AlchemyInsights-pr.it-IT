@@ -1,18 +1,18 @@
 ---
 title: Gestire lo schema di ricerca in SharePoint Online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 704fb3b682d23220d61192e383d7d80f59f27933
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9836cf139e97fc556995a8f0ad38c51c5c2392ac
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502811"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40042967"
 ---
 # <a name="manage-search-schema-in-sharepoint-online"></a>Gestire lo schema di ricerca in SharePoint Online
 
@@ -25,7 +25,7 @@ Vedere [gestire lo schema di ricerca in SharePoint Online](https://docs.microsof
 
 Tenere presente quanto segue per quanto riguarda la gestione dello schema di ricerca:
 
-- Se viene visualizzato un messaggio di avviso indicante che **l'applicazione è** stata sospesa quando si effettua una modifica dello schema, questa è solo temporanea perché si verifica la manutenzione del servizio. 
+- Se viene visualizzato un messaggio di avviso indicante che **l'applicazione è stata sospesa** quando si effettua una modifica dello schema, questa è solo temporanea perché si verifica la manutenzione del servizio. 
 
     Se sono passate più di 24 ore e si verifica ancora l'avviso, registrare un caso di supporto.
 - Quando si modificano le proprietà gestite o si aggiungono nuove, le modifiche diventano effettive solo dopo che il contenuto è stato nuovamente sottoposto a ricerca per indicizzazione. In SharePoint Online, la ricerca per indicizzazione avviene automaticamente in base alla pianificazione della ricerca per indicizzazione definita

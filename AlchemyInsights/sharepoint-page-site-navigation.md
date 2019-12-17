@@ -1,7 +1,7 @@
 ---
 title: Introduzione a SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 74ac6eb23552ccd70de3efabeb2eed7caf249dba
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 6ecd33e81f9918c5b4baac8da264ad79773a20f9
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750128"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044207"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>Struttura del sito e della pagina in siti di SharePoint
 
-I principi fondamentali e le procedure consigliate per la navigazione in un sito o in una pagina, sono ugualmente applicabili all'architettura classica e a quella moderna di SharePoint. Tuttavia, le opzioni per implementarela navigazione variano in base alla struttura dei siti e della Intranet. Ad esempio, le esperienze di spostamento ereditate disponibili nelle classiche gerarchie di siti di SharePoint (siti con sito secondari) non sono disponibili nell'esperienza moderna, ma i [siti hub](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) offrono un ottimo modo per ottenere le funzionalità di spostamento intersito precedentemente disponibile nell'esplorazione gestita e nelle gerarchie del sito in SharePoint classico.
+I principi fondamentali e le procedure consigliate per la navigazione in un sito o in una pagina, sono ugualmente applicabili all'architettura classica e a quella moderna di SharePoint. Tuttavia, le opzioni per implementarela navigazione variano in base alla struttura dei siti e della Intranet. Ad esempio, le esperienze di spostamento ereditate disponibili nelle classiche gerarchie di siti di SharePoint (siti con sito secondari) non sono disponibili nell'esperienza moderna, ma i [siti hub](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) offrono un ottimo metodo per ottenere le funzionalità di spostamento intersito disponibili in precedenza nell'esplorazione gestita e nelle gerarchie dei siti in SharePoint classico.
 
  Per ulteriori informazioni sulle opzioni di navigazione, visitare i collegamenti riportati di seguito.
 

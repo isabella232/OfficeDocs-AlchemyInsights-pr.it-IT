@@ -1,19 +1,19 @@
 ---
 title: Abilitare la condivisione esterna
-ms.author: kirks
-author: Techwriter40
+ms.author: pebaum
+author: pebaum
 ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5d8de2b0f29409b585451b160e421ad7eaac4cef
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527655"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052725"
 ---
 # <a name="enable-external-sharing"></a>Abilitare la condivisione esterna
 

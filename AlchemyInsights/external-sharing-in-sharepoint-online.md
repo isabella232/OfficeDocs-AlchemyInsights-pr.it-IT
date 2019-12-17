@@ -1,7 +1,7 @@
 ---
 title: Condivisione esterna in SharePoint Online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+- "2389"
+ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735969"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049773"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Condivisione esterna in SharePoint Online
 
-Se l'organizzazione esegue lavori che coinvolgono la condivisione di documenti o la collaborazione direttamente con fornitori, client o clienti, è possibile utilizzare le [funzionalità di condivisione esterna di SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) per condividere i contenuti con utenti esterni all'utente organizzazione.
+Se l'organizzazione esegue lavori che coinvolgono la condivisione di documenti o la collaborazione direttamente con fornitori, client o clienti, è possibile utilizzare le [funzionalità di condivisione esterna di SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) per condividere i contenuti con utenti esterni all'organizzazione.
 
 Per ulteriori informazioni sulla condivisione esterna, visitare i collegamenti seguenti:
 

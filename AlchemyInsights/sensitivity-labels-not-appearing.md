@@ -1,7 +1,7 @@
 ---
 title: Le etichette di riservatezza non vengono visualizzate
-ms.author: stephow
-author: stephow-MSFT
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
-ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
+ms.openlocfilehash: 67719380aea0481f96c03fa591542e8e5a6e6993
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37207229"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048656"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Le etichette di riservatezza non vengono visualizzate
 
@@ -34,8 +34,8 @@ Se le etichette di riservatezza sono state configurate ma non vengono visualizza
 - Supporto per la prevenzione della perdita di dati (DLP): attualmente, solo le etichette di conservazione possono essere utilizzate come condizione nei criteri DLP.  Il supporto per le etichette di riservatezza in un criterio DLP non è ancora disponibile, ma ci stiamo lavorando.
 
 - Quando la crittografia è abilitata su un'etichetta di riservatezza, è possibile scegliere di:
-    - Assegnare le autorizzazioni ora
-    - Consenti agli utenti di assegnare le autorizzazioni
+    - Assegnare le autorizzazioni adesso
+    - Consentire agli utenti di assegnare le autorizzazioni
 
 
 Per ulteriori informazioni sui possibili problemi, vedere [problemi noti relativi alle etichette di riservatezza](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

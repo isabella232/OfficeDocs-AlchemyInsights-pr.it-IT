@@ -1,7 +1,7 @@
 ---
 title: Eliminare il sito del gruppo
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 1/24/2019
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d1677fe1734386e38992811ec994c62286510eaa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513723"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053049"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Eliminare un sito di SharePoint che appartiene a un gruppo di Office 365
 
@@ -28,7 +28,7 @@ Gli amministratori globali e gli amministratori di SharePoint ora possono elimin
 Importante:
 
 - È possibile recuperare i siti eliminati per 93 giorni. Per altre informazioni, vedere View and Restore Deleted sites. Si noti che i gruppi eliminati devono essere ripristinati entro 30 giorni.
-- Se il sito fa parte di un criterio di conservazione, potrebbe non essere possibile eliminarlo finché il sito non viene rimosso dall'interfaccia [di &amp; amministrazione](https://protection.office.com/?rfr=AdminCenter#/retention)per la conformità di sicurezza. Per altre informazioni, vedere [Overview of](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) Retention Policies.
+- Se il sito fa parte di un criterio di conservazione, potrebbe non essere possibile eliminarlo finché il sito non viene rimosso dall'interfaccia [di &amp; amministrazione](https://protection.office.com/?rfr=AdminCenter#/retention)per la conformità di sicurezza. Per altre informazioni, vedere [Overview of Retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .
   
 Per [visualizzare e ripristinare i siti eliminati nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selezionare **siti eliminati**. Selezionare il sito che è stato eliminato e scegliere Ripristina o Elimina (che eliminerà definitivamente il sito). Per eliminare un sito attivo, selezionare siti **attivi** , selezionare il sito e selezionare **Elimina**. Per altre informazioni, vedere [gestire i siti nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   

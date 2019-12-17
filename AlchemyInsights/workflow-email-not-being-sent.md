@@ -1,7 +1,7 @@
 ---
 title: La posta elettronica del flusso di lavoro non viene inviata
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 7/25/2019
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 76b64323c9d34d49e9c6bd77c2cc7eff6d7c5402
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530882"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049377"
 ---
 # <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>La posta elettronica del flusso di lavoro non viene inviata per un elenco o una raccolta di SharePoint
 
@@ -30,7 +30,7 @@ ms.locfileid: "36530882"
     - Se l'utente esiste nel gruppo autorizzazioni, verificare che l'indirizzo di posta elettronica sia corretto.
     - Se l'indirizzo di posta elettronica degli utenti non è impostato qui, creare un avviso di esempio per l'utente che forza la sincronizzazione dell'account utente da profili utente di SharePoint a questa raccolta siti.
  
-2. La posta elettronica proveniente dai flussi di lavoro viene inviata agli amministratori della raccolta siti, ma non ad altri utenti e viene visualizzato il messaggio di errore **http Forbidden to <span>https:</span>//URL/_vti_bin/client.xvc.sp.Utilities.Utility.SendEmail**.
+2. I messaggi di posta elettronica provenienti dai flussi di lavoro vengono inviati agli amministratori della raccolta siti, ma non ad altri utenti e visualizzano il messaggio **di errore http Forbidden to <span>https:</span>//URL/_vti_bin/client.xvc.sp.Utilities.Utility.SendEmail**.
  
 
     Vedere [accesso negato quando si invia un messaggio di posta elettronica a un gruppo di SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).

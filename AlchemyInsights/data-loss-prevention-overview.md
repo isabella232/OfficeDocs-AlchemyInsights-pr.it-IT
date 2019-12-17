@@ -1,27 +1,27 @@
 ---
 title: Panoramica di prevenzione della perdita di dati (DLP)
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: 96d9ecb3cd927946d6a5381fd6fd3a88fe67ac91
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: ce9353f81caba1717d92c913b26800ca67890dd8
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755132"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053085"
 ---
 # <a name="data-loss-prevention-dlp-overview"></a>Panoramica di prevenzione della perdita di dati (DLP)
 
-Utilizzando un criterio DLP, è possibile:
+Con i criteri di prevenzione della perdita dei dati è possibile:
 
 - Identificare informazioni riservate in numerosi percorsi, ad esempio Exchange Online, SharePoint Online e OneDrive for business.
 
 
-Ad esempio, è possibile identificare qualsiasi documento contenente un numero di carta di credito memorizzato in qualsiasi sito di OneDrive for business oppure è possibile monitorare solo i siti di OneDrive di persone specifiche.
+Ad esempio, è possibile identificare tutti i documenti che includono un numero di carta di credito archiviato in un sito OneDrive for Business; in alternativa, è possibile monitorare solo i siti OneDrive di utenti specifici.
 
 - Impedire la condivisione accidentale di informazioni riservate.
 
