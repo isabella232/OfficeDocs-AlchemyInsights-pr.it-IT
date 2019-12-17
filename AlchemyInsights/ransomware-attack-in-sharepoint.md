@@ -1,7 +1,7 @@
 ---
 title: Attacco ransomware in SharePoint o OneDrive
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 4f8e77cbbf7385fefbd30ca0e5e59134fd2a2f4e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: a95973cbb1a3b61c03c05bceeb9d85c17c6db5bb
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745545"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054273"
 ---
-# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a><span data-ttu-id="47412-102">Attacco ransomware in SharePoint o OneDrive</span><span class="sxs-lookup"><span data-stu-id="47412-102">Ransomware attack in SharePoint or OneDrive</span></span>
+# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a><span data-ttu-id="be4a3-102">Attacco ransomware in SharePoint o OneDrive</span><span class="sxs-lookup"><span data-stu-id="be4a3-102">Ransomware attack in SharePoint or OneDrive</span></span>
 
-1.  <span data-ttu-id="47412-103">Se si cercano informazioni su cosa fare quando si trova un file dannoso in OneDrive o SharePoint o teams, vedere [cosa fare quando viene trovato un file dannoso](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).</span><span class="sxs-lookup"><span data-stu-id="47412-103">If you are looking for help on what to do when a malicious file is found on your OneDrive or SharePoint Or Teams, see [What to do when a malicious file is found](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).</span></span>
-2. <span data-ttu-id="47412-104">Se si sta cercando come salvaguardare i dati da ransomware, vedere:</span><span class="sxs-lookup"><span data-stu-id="47412-104">If you are looking for how to safeguard your data from ransomware, see:</span></span>
-    - [<span data-ttu-id="47412-105">Protezione dei dati in SharePoint e OneDrive</span><span class="sxs-lookup"><span data-stu-id="47412-105">Safeguarding your data in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
-    - [<span data-ttu-id="47412-106">Protezione dalle minacce ransomware</span><span class="sxs-lookup"><span data-stu-id="47412-106">Ransomware Threat Protection</span></span>](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
+1.  <span data-ttu-id="be4a3-103">Se si cercano informazioni su cosa fare quando si trova un file dannoso in OneDrive o SharePoint o teams, vedere [cosa fare quando viene trovato un file dannoso](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).</span><span class="sxs-lookup"><span data-stu-id="be4a3-103">If you are looking for help on what to do when a malicious file is found on your OneDrive or SharePoint Or Teams, see [What to do when a malicious file is found](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).</span></span>
+2. <span data-ttu-id="be4a3-104">Se si sta cercando come salvaguardare i dati da ransomware, vedere:</span><span class="sxs-lookup"><span data-stu-id="be4a3-104">If you are looking for how to safeguard your data from ransomware, see:</span></span>
+    - [<span data-ttu-id="be4a3-105">Protezione dei dati in SharePoint e OneDrive</span><span class="sxs-lookup"><span data-stu-id="be4a3-105">Safeguarding your data in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
+    - [<span data-ttu-id="be4a3-106">Protezione dalle minacce ransomware</span><span class="sxs-lookup"><span data-stu-id="be4a3-106">Ransomware Threat Protection</span></span>](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  <span data-ttu-id="47412-107">Tutti i file presenti in OneDrive o SharePoint sono stati danneggiati da ransomware o malware o da un virus Crypto?</span><span class="sxs-lookup"><span data-stu-id="47412-107">Are all the files on your OneDrive Or SharePoint affected by Ransomware or Malware or Crypto virus?</span></span> 
+3.  <span data-ttu-id="be4a3-107">Tutti i file presenti in OneDrive o SharePoint sono stati danneggiati da ransomware o malware o da un virus Crypto?</span><span class="sxs-lookup"><span data-stu-id="be4a3-107">Are all the files on your OneDrive Or SharePoint affected by Ransomware or Malware or Crypto virus?</span></span> 
 
-<span data-ttu-id="47412-108">Interrompere o sospendere immediatamente la sincronizzazione di OneDrive (se presente) oppure disconnettere la visualizzazione Esplora risorse mappata alla raccolta dal computer coinvolto (se presente), quindi è possibile ripristinare l'intera OneDrive o la raccolta di SharePoint in una data precedente utilizzando la funzionalità di ripristino dei file.</span><span class="sxs-lookup"><span data-stu-id="47412-108">Immediately stop/pause the OneDrive Sync (if any) or disconnect Explorer view mapped to the library from the affected computer (if any), and then you can restore your entire OneDrive or SharePoint library to a previous time by using the files restore feature.</span></span> 
+<span data-ttu-id="be4a3-108">Interrompere o sospendere immediatamente la sincronizzazione di OneDrive (se presente) oppure disconnettere la visualizzazione Esplora risorse mappata alla raccolta dal computer coinvolto (se presente), quindi è possibile ripristinare l'intera OneDrive o la raccolta di SharePoint in una data precedente utilizzando la funzionalità di ripristino dei file.</span><span class="sxs-lookup"><span data-stu-id="be4a3-108">Immediately stop/pause the OneDrive Sync (if any) or disconnect Explorer view mapped to the library from the affected computer (if any), and then you can restore your entire OneDrive or SharePoint library to a previous time by using the files restore feature.</span></span> 
 
-<span data-ttu-id="47412-109">Per ulteriori informazioni su come eseguire il ripristino, vedere:</span><span class="sxs-lookup"><span data-stu-id="47412-109">For more information on how to restore, see:</span></span>
+<span data-ttu-id="be4a3-109">Per ulteriori informazioni su come eseguire il ripristino, vedere:</span><span class="sxs-lookup"><span data-stu-id="be4a3-109">For more information on how to restore, see:</span></span>
 
-- [<span data-ttu-id="47412-110">Ripristinare una raccolta OneDrive</span><span class="sxs-lookup"><span data-stu-id="47412-110">Restore a OneDrive library</span></span>](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [<span data-ttu-id="47412-111">Ripristinare una raccolta documenti</span><span class="sxs-lookup"><span data-stu-id="47412-111">Restore a Document library</span></span>](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+- [<span data-ttu-id="be4a3-110">Ripristinare una raccolta OneDrive</span><span class="sxs-lookup"><span data-stu-id="be4a3-110">Restore a OneDrive library</span></span>](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [<span data-ttu-id="be4a3-111">Ripristinare una raccolta documenti</span><span class="sxs-lookup"><span data-stu-id="be4a3-111">Restore a Document library</span></span>](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-<span data-ttu-id="47412-112">Per ulteriori informazioni su Advanced Threat Protection (ATP), vedere:</span><span class="sxs-lookup"><span data-stu-id="47412-112">For more information about Advanced Threat Protection (ATP), see:</span></span>
-- [<span data-ttu-id="47412-113">ATP per SharePoint, OneDrive e teams</span><span class="sxs-lookup"><span data-stu-id="47412-113">ATP for SharePoint, OneDrive and Teams</span></span>](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [<span data-ttu-id="47412-114">Visualizzazioni di Esplora minacce</span><span class="sxs-lookup"><span data-stu-id="47412-114">Threat Explorer Views</span></span>](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+<span data-ttu-id="be4a3-112">Per ulteriori informazioni su Advanced Threat Protection (ATP), vedere:</span><span class="sxs-lookup"><span data-stu-id="be4a3-112">For more information about Advanced Threat Protection (ATP), see:</span></span>
+- [<span data-ttu-id="be4a3-113">ATP per SharePoint, OneDrive e teams</span><span class="sxs-lookup"><span data-stu-id="be4a3-113">ATP for SharePoint, OneDrive and Teams</span></span>](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [<span data-ttu-id="be4a3-114">Visualizzazioni di Esplora minacce</span><span class="sxs-lookup"><span data-stu-id="be4a3-114">Threat Explorer Views</span></span>](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
-<span data-ttu-id="47412-115">Ulteriori informazioni:</span><span class="sxs-lookup"><span data-stu-id="47412-115">Additional Information:</span></span>
+<span data-ttu-id="be4a3-115">Ulteriori informazioni:</span><span class="sxs-lookup"><span data-stu-id="be4a3-115">Additional Information:</span></span>
 
-- [<span data-ttu-id="47412-116">Rilevamento virus in SPO</span><span class="sxs-lookup"><span data-stu-id="47412-116">Virus Detection in SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [<span data-ttu-id="47412-117">Crittografia dei dati in ODB e SPO</span><span class="sxs-lookup"><span data-stu-id="47412-117">Data Encryption in ODB and SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [<span data-ttu-id="47412-118">Rilevamento ransomware e ripristino dei file</span><span class="sxs-lookup"><span data-stu-id="47412-118">Ransomware Detection and recovering files</span></span>](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [<span data-ttu-id="47412-119">Esplora minacce e rilevamenti in tempo reale</span><span class="sxs-lookup"><span data-stu-id="47412-119">Threat Explorer and Realtime detections</span></span>](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [<span data-ttu-id="be4a3-116">Rilevamento virus in SPO</span><span class="sxs-lookup"><span data-stu-id="be4a3-116">Virus Detection in SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [<span data-ttu-id="be4a3-117">Crittografia dei dati in ODB e SPO</span><span class="sxs-lookup"><span data-stu-id="be4a3-117">Data Encryption in ODB and SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [<span data-ttu-id="be4a3-118">Rilevamento ransomware e ripristino dei file</span><span class="sxs-lookup"><span data-stu-id="be4a3-118">Ransomware Detection and recovering files</span></span>](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
+- [<span data-ttu-id="be4a3-119">Esplora minacce e rilevamenti in tempo reale</span><span class="sxs-lookup"><span data-stu-id="be4a3-119">Threat Explorer and Realtime detections</span></span>](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
