@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626352"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889086"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>Impostazioni della lobby di controllo e livello di partecipazione
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Impostazioni della lobby di controllo e livello di partecipazione nei team
 
-Se si desidera consentire a tutti, compresi gli utenti con accesso esterno, esterni e anonimi di ignorare la lobby in Microsoft teams, è possibile utilizzare PowerShell per eseguire questa operazione. Di seguito è riportato un esempio di modifica del criterio di riunione globale per l'organizzazione:
+Se si desidera consentire a tutti, compresi gli utenti con accesso esterno, esterni e anonimi, di **ignorare la lobby**, utilizzare PowerShell per eseguire questa attività. Di seguito è riportato un esempio di modifica del criterio di riunione globale per l'organizzazione.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Questo cmdlet richiede attualmente l'utilizzo del modulo di Windows PowerShell per Skype for business. Per ottenere il programma di installazione per l'utilizzo di questo cmdlet, vedere [Managing policys tramite PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Questo cmdlet richiede attualmente l'utilizzo del modulo di Windows PowerShell per Skype for business. Per ottenere la configurazione per l'utilizzo di questo cmdlet, vedere [Managing policys tramite PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-È possibile configurare un nuovo criterio, che sarà necessario applicare agli utenti. Se si modifica il criterio globale, verrà applicato automaticamente agli utenti. Per eventuali modifiche ai criteri, è necessario attendere almeno 4 ore e fino a 24 ore per rendere effettive le condizioni.
+Dopo aver configurato un criterio, è necessario applicarlo agli utenti. in alternativa, se è stato modificato il criterio globale, verrà applicato automaticamente agli utenti. Per eventuali modifiche ai criteri, è necessario attendere almeno **4 ore fino a 24 ore** per rendere effettive le condizioni. 
 
 Assicurarsi di esaminare la documentazione seguente prima di apportare queste modifiche per comprendere esattamente cosa può essere consentito.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Informazioni sui controlli dei criteri di lobby riunione dei team
+
+Queste impostazioni controllano quali partecipanti alla riunione attendono nell'atrio prima che vengano ammessi alla riunione e il livello di partecipazione consentito in una riunione. È possibile utilizzare PowerShell per aggiornare le impostazioni dei criteri per le riunioni che non sono state ancora implementate (contrassegnate come "prossimamente") nell'interfaccia di amministrazione dei team. Per un esempio di cmdlet di PowerShell che consente a tutti gli utenti di ignorare la lobby, vedere di seguito.
 
 - [Ammetti automaticamente](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) che la gente è un criterio per organizzatore che controlla se gli utenti partecipano a una riunione direttamente o attendono nella lobby finché non vengono ammessi da un utente autenticato.
 
