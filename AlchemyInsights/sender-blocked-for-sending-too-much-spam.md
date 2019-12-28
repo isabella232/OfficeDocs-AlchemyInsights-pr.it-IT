@@ -12,20 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ca5dc9041bad4da9353601bdc39ecf986356f1b1
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 8aa9ab5e6db0d434c13ed9e2d325d28552b7caeb
+ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741036"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40886405"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>L'account è stato bloccato perché ha inviato troppi messaggi di posta indesiderata
 
-Se un account di Office 365 è bloccato a causa dell'invio di troppi messaggi di posta indesiderata, è possibile che l'account di invio sia stato compromesso. Sarà necessario:
-  
-1. [Determinare se l'account è compromesso](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account#symptoms-of-a-compromised-office-365-email-account). In questo caso, seguire i passaggi per [Rispondere a un account di posta elettronica compromesso in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+Se come amministratore si è impedito a un utente di inviare messaggi di posta elettronica, è possibile [sbloccare personalmente l’account](https://protection.office.com/?hash=/restrictedusers) **senza aprire un caso di supporto**. L'utente potrà inviare la posta elettronica entro un'ora dalla rimozione della restrizione.
 
-2. Passare a Utenti con restrizioni per **[sbloccare l'account](https://protection.office.com/?hash=/restrictedusers)** nel Centro sicurezza &amp; conformità. Fatto questo, dovrebbe essere possibile riprendere l'invio dei messaggi *entro un'ora*.
-
-3. Per prevenire future compromissioni dell'account, seguire i suggerimenti in [Roadmap della sicurezza per Office 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
-  
+Il servizio impedisce all’utente di inviare messaggi di posta elettronica dopo aver individuato la compromissione dell’account e/o posta indesiderata in uscita. Come misura precauzionale, seguire i passaggi contenuti in [Rispondere a un account di posta elettronica compromesso in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) per l’utente.
