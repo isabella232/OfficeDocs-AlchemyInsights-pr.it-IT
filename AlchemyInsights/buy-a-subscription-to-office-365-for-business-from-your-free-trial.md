@@ -12,12 +12,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e8e6d1829d60695d40036765c880533c2dfcc5b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b89f0c0e1c698137720c60900eeba562877d0d8d
+ms.sourcegitcommit: 8b3ffd019dfcaff8d2dbde9eb5320f30c135aaa3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664756"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "41104661"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Acquistare un abbonamento a Office 365 dalla versione di valutazione gratuita
 
@@ -25,7 +25,7 @@ Dopo aver provato Office 365, si è pronti per l'acquisto. Sono disponibili due 
   
  **Acquistare lo stesso piano della versione di valutazione**
   
-1. Nell'interfaccia di amministrazione, accedere alla pagina dei [servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** \> .
+1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [Prodotti e servizi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Individuare l'abbonamento che si desidera acquistare. Nella sezione **licenze** selezionare **Acquista sottoscrizione**e seguire i passaggi da eseguire per il check-out.
 
@@ -36,3 +36,7 @@ Dopo aver provato Office 365, si è pronti per l'acquisto. Sono disponibili due 
 3. Individuare l'abbonamento che si desidera acquistare, selezionare **Acquista**e seguire i passaggi da eseguire.
 
 Per ulteriori informazioni, vedere [acquistare un abbonamento a Office 365 for business dalla versione di valutazione gratuita](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+
+**Risoluzione dei problemi**
+
+Se si verificano problemi durante il caricamento delle pagine, provare ad aprire la pagina Web in un browser diverso oppure in una finestra del browser privata, ad esempio una finestra InPrivate di Microsoft Edge o una finestra di navigazione in incognito in Google Chrome.
