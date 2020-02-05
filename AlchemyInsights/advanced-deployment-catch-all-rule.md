@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 4873fcfd66f196daeff3e407ccd10fe5b142cca6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 08171914804f3e13a4a7e3ee90662af61034c141
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494099"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770787"
 ---
 # <a name="deploy-office-apps"></a>Distribuire le app di Office
 
-Per la distribuzione di app di Office in più utenti finali tramite lo strumento di distribuzione di Office, System Center Configuration Manager, come parte di un'immagine del disco del sistema operativo o in uno scenario di computer condiviso tramite Windows Server con Servizi Desktop remoto (RDS) o Terminal Servizi, è consigliabile utilizzare la guida dettagliata in **Office 365 ProPlus Deployment Advisor**.
+Per la distribuzione di app di Office in più utenti finali tramite lo strumento di distribuzione di Office, Microsoft endpoint Configuration Manager, come parte di un'immagine del disco del sistema operativo o in uno scenario di computer condiviso tramite Windows Server con Servizi Desktop remoto o servizi Terminal, è consigliabile utilizzare la guida dettagliata di **office 365 ProPlus Deployment Advisor**.
   
 Per iniziare, assicurarsi di aver eseguito l'accesso come amministratore del tenant o amministratore globale, quindi fare clic qui: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).
   

@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049413"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771147"
 ---
 # <a name="why-cant-i-edit-files"></a>Perché non è possibile modificare i file?
 
-Se un documento, un foglio di lavoro o una presentazione è bloccata per la modifica e non può essere aperta nelle applicazioni desktop di Windows, potrebbe essere che il file sia già stato modificato da un altro utente o che il file sia stato estratto. Esaminiamo brevemente alcuni dei motivi [per cui potrebbe non essere possibile modificare il file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Esaminare brevemente alcuni dei motivi [per cui potrebbe non essere possibile modificare il file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Se si dispone di raccolte con le colonne o i metadati di **checkout, required** o **Validation** o quando la **bozza di sicurezza degli elementi** è impostata su **solo gli utenti che possono modificare** o **solo gli utenti autorizzati ad approvare gli elementi** nelle impostazioni della versione della raccolta:
 

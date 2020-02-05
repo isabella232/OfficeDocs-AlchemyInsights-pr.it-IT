@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 458990889d3c074820527982cbfa6e2d198d3e66
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b9009fdbdc2a5e7443151446daade1685d2f5d45
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052473"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770427"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Creare siti di SharePoint mediante modelli
 
-I modelli di sito di SharePoint sono definizioni predefinite progettate attorno a una specifica esigenza aziendale. Per ulteriori informazioni, vedere [utilizzo di modelli per creare diversi tipi di siti di SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+La possibilità di salvare un sito come modello non è supportata con i siti di comunicazione o di Team moderni. Per ulteriori informazioni sull'utilizzo dei modelli [, vedere Salvataggio, download e caricamento di un sito di SharePoint come modello](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
 Di seguito sono riportate alcune soluzioni o problemi comuni relativi al salvataggio di un sito o di un elenco come modello in SharePoint Online. 
 

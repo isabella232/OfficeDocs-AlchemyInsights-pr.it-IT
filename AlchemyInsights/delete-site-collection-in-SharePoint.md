@@ -1,5 +1,5 @@
 ---
-title: Eliminare una raccolta siti in SharePoint
+title: Eliminare un sito
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053013"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770391"
 ---
-# <a name="delete-a-site-collection"></a>Eliminare una raccolta siti
+# <a name="delete-a-site"></a>Eliminare un sito
 
-Quando, come amministratore globale o di SharePoint in Office 365, viene eliminato un sito (in precedenza denominato "raccolta siti"), viene spostato nel cestino della raccolta siti e conservato per 93 giorni. 
+Quando si elimina un sito, quest'ultimo viene spostato nei [siti eliminati](https://admin.microsoft.com/sharepoint) e conservato per 93 giorni. Per eliminare un sito, accedere a [siti attivi](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 Quando si elimina un sito, tutto all'interno di esso viene eliminato, tra cui:
 
@@ -26,6 +26,6 @@ Quando si elimina un sito, tutto all'interno di esso viene eliminato, tra cui:
 - Impostazioni e cronologia del sito.
 - Eventuali siti secondari e il relativo contenuto.
 
-È consigliabile informare gli amministratori del sito e gli eventuali proprietari di siti secondari prima di eliminare un sito in modo che possano spostare i dati in un'altra posizione e indicare agli utenti quando i siti verranno eliminati. 
+È consigliabile informare gli amministratori del sito e gli eventuali proprietari di siti secondari prima di eliminare un sito in modo che possano spostare i dati in un'altra posizione e indicare agli utenti quando verranno eliminati.
 
-Per ulteriori informazioni, vedere [eliminare una raccolta siti](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Per ulteriori informazioni, vedere [eliminare un sito](https://docs.microsoft.com/sharepoint/delete-site-collection).

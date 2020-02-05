@@ -10,30 +10,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 14ad9dd094902c85eaf0398c76003cea20ad4c0a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051105"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770355"
 ---
-# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Problemi durante la creazione o il raggruppamento di siti connessi in SharePoint Online
+# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemi durante la creazione di un sito collegato a un gruppo in SharePoint
 
-Durante la creazione o la ricreazione di un sito collegato a un gruppo sono stati riscontrati un paio di problemi comuni.
+1. Alcuni problemi comuni riscontrati durante la creazione o la ricreazione di un sito collegato a un gruppo.
+Se è stato eliminato un gruppo e il relativo sito connesso e si desidera creare un altro sito con lo stesso URL, è necessario rimuovere definitivamente il sito precedente.
 
- Se è stato eliminato un gruppo e il relativo sito connesso e si desidera creare un altro sito con lo stesso URL, è necessario rimuovere definitivamente il sito precedente.
+   - Scaricare [SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+   - Per altre informazioni sulla Guida introduttiva a PowerShell, vedere [Guida introduttiva a SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
+   - Rimuovere il sito dai siti eliminati utilizzando il cmdlet [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) di PowerShell. PowerShell è necessario per eliminare definitivamente i siti del gruppo.
 
-Scaricare [SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+1. Se si sta creando un sito collegato a un gruppo e viene visualizzato un messaggio di avviso: **esiste già un altro gruppo con lo stesso alias**, controllare i gruppi esistenti dall'interfaccia di [amministrazione di Office 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Per risolvere il problema, eliminare il gruppo esistente se non è più necessario o creare il sito con un altro alias assegnato.
 
- Per altre informazioni sulla Guida introduttiva a PowerShell, vedere [Guida introduttiva a SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
+1. Esistono diversi modi per creare e utilizzare i gruppi moderni con SharePoint.
 
-Rimuovere il sito dai siti eliminati utilizzando il cmdlet [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) di PowerShell.
-
-Se si sta creando un sito collegato a un gruppo e si riceve un avviso un altro gruppo con lo stesso alias esiste già, controllare i gruppi esistenti dall'interfaccia di [amministrazione di Office 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). Per risolvere il problema, eliminare il gruppo esistente se non è più necessario o creare il sito con un altro alias assegnato.
-
-Esistono diversi modi per creare e utilizzare i gruppi moderni con SharePoint.
-
-È possibile connettere i siti esistenti a un gruppo di Office 365. Per altre informazioni, vedere [connettere un gruppo di Office 365 utilizzando l'utente di ineterface di SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-
-Per creare un sito collegato a un gruppo di Office 365, è necessario creare un sito del team. Per altre informazioni, vedere [creare un sito del team in SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).
-
+   - È possibile connettere i siti esistenti a un gruppo di Office 365. Per altre informazioni, vedere [connettere un gruppo di Office 365 utilizzando l'interfaccia utente di SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Per creare un sito collegato a un gruppo di Office 365, è necessario creare un [sito del team](https://admin.microsoft.com/sharepoint).

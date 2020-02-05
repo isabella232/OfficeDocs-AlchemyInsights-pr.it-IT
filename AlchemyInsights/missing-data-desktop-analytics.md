@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800434"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771075"
 ---
 # <a name="cant-create-a-compatibility-assessment"></a>Non è possibile creare una valutazione di compatibilità
 
-Configuration Manager ha configurato correttamente il dispositivo, ma l'analisi del desktop non è in grado di creare una valutazione di compatibilità. Non dispone di un set di dati completo per la configurazione (censimento) del dispositivo o le app installate (inventario).
+Microsoft endpoint Configuration Manager ha configurato correttamente il dispositivo, ma l'analisi del desktop non è in grado di creare una valutazione di compatibilità. Non dispone di un set di dati completo per la configurazione (censimento) del dispositivo o le app installate (inventario).
 
-Questo problema è spesso risolto automaticamente quando il dispositivo esegue un nuovo tentativo. Se persiste, verificare che il dispositivo sia in grado di comunicare con il servizio. Per ulteriori informazioni, vedere [endpoints](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) and [Missing data](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+Questo problema è spesso risolto automaticamente quando il dispositivo esegue un nuovo tentativo. Se persiste, verificare che il dispositivo sia in grado di comunicare con il servizio. Per ulteriori informazioni, vedere [endpoints](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) and [Missing data](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).
