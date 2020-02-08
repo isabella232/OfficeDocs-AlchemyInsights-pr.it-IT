@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611701"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855555"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Seguire o deselezionare un sito di SharePoint
 
-Esistono diversi modi per individuare e seguire i siti, le notizie e i contenuti che ti interessano in SharePoint. In questo modo è possibile trovare le informazioni facilmente nell'elenco e consentire di visualizzare le attività da SharePoint.
+Se gli utenti riscontrano problemi in seguito o dopo aver inseguito le risorse di SharePoint, eseguire la procedura seguente:
 
-Guarda il video per [trovare e seguire i siti e le notizie](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
-
-Se non si è in grado di seguire o non seguire un sito, notizie o contenuti e si ritiene che i risultati non siano ciò che è previsto, vedere se il problema è correlato a un singolo utente o a tutti gli utenti all'interno dell'organizzazione. Se il problema viene rilevato da tutti gli utenti, potrebbe verificarsi un problema di servizio temporaneo.
-
-Controllare il [Dashboard dell'integrità del servizio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) per verificare se l'organizzazione ha un impatto.
+* Chiedere all'utente di disconnettersi e accedere di nuovo a SharePoint e provare gli stessi passaggi per seguire/unfollow la risorsa di SharePoint.
+* Determinare se il problema è relativo a un sito specifico o a tutti i siti. Se il problema si verifica con siti specifici, verificare che la caratteristica "contenuto seguente" sia attiva per il sito accedendo alle impostazioni del sito **> gestire le caratteristiche del sito > seguente contenuto**. Se la funzionalità è impostata su attivo, provare a disattivare e attivare di nuovo la funzionalità per il sito.
+* Chiedere all'utente di provare un altro browser Internet per verificare se il problema è specifico per il browser dell'utente.
+* Se tutti gli utenti e tutti i siti riscontrano lo stesso problema, controllare il [Dashboard dell'integrità del servizio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) per verificare se l'organizzazione ha un impatto.
