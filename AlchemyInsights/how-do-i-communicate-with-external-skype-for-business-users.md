@@ -12,19 +12,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: e8eefb9c0f01ad42f725f178fa23b15850364a44
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305161"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265092"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Consenti comunicazioni esterne con Skype for business 
 
-Si desidera consentire agli utenti di Skype for business di contattare utenti esterni all'organizzazione? 
-
-[Permettere agli utenti di contattare utenti Skype for Business esterni](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
+Si desidera consentire agli utenti di Skype for business di contattare utenti esterni all'organizzazione? Vedere [consentire agli utenti di contattare utenti Skype for business esterni](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
 I record DNS devono essere configurati correttamente affinché le comunicazioni esterne funzionino correttamente. Controllare [qui](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) per vedere se sono disponibili istruzioni specifiche su come impostare i record DNS con il provider. 
+
+Si desidera consentire solo agli utenti di Skype for business di contattare gli utenti di Skype consumer? Vedere:
+
+- [Consenti agli utenti di Skype for business di aggiungere contatti Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+
+- [Aggiungere un contatto in Skype for business](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
+
 
 Se si desidera che gli utenti dei team siano in grado di contattare gli utenti all'esterno dell'organizzazione (inclusi gli utenti di Skype for business), esaminare [gestire l'accesso esterno in Microsoft teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 

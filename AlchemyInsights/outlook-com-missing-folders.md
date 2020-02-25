@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536187"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260246"
 ---
 # <a name="find-missing-folders"></a>Individuare le cartelle mancanti
 
-Se non è possibile visualizzare le cartelle, verificare che le cartelle non siano compresse. Selezionare la freccia accanto a **cartelle** nel riquadro sinistro.
-  
-Se si elimina accidentalmente una cartella, è possibile ripristinarla se è ancora presente nella cartella Posta eliminata. Per ulteriori informazioni, leggere [ripristino dei messaggi di posta elettronica eliminati in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
-  
-Si è verificato un problema noto in cui le cartelle sono mancanti. Stiamo lavorando per risolvere questo. È comunque possibile trovare gli elementi salvati all'interno delle cartelle mancanti tramite la **ricerca** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />e potrebbe essere utile se esci e poi accedi di nuovo. [Fare clic qui per disconnettersi.](https://login.live.com/logout.srf)
+Alcuni utenti potrebbero non essere in grado di visualizzare il riquadro della cartella sinistra quando si visualizzano su un piccolo schermo.
+
+- Espandere il riquadro delle cartelle solo quando necessario. Selezionare l'icona a tre righe sulla barra laterale sinistra per visualizzare o nascondere le cartelle.
+- Aprire [Impostazioni layout](https://outlook.live.com/mail/options/mail/layout) e selezionare **Nascondi riquadro di lettura** e quindi **Salva**. Questo darà allo schermo più spazio per visualizzare le cartelle.
+
+Se si elimina accidentalmente una cartella, è possibile ripristinarla se è ancora presente nella cartella Posta eliminata. Per ulteriori informazioni, leggere [ripristino dei messaggi di posta elettronica eliminati in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
