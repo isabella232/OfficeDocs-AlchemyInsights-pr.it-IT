@@ -3,6 +3,7 @@ title: Svuotare la cartella Posta eliminata in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768696"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277935"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Svuotare la cartella Posta eliminata
 
- Per eliminare tutti i messaggi di Outlook eliminati, passare alla [cartella Posta eliminata](https://outlook.live.com/mail/deleteditems)e selezionare **cartella vuota**, quindi selezionare **Ripristina elementi eliminati da questa cartella** sopra l'elenco dei messaggi e selezionare di nuovo **vuota cartella** .
+1. Aprire la cartella Posta eliminata e selezionare **cartella vuota**.
+2. Selezionare **elementi ripristinabili** nella parte superiore della pagina e selezionare di nuovo la **cartella vuota** .
 
-Se sono stati eliminati numerosi messaggi, potrebbe essere necessario un certo tempo per spostare o eliminare gli elementi dalla cartella Posta eliminata. Lasciare aperta la finestra del browser finché gli elementi non vengono eliminati.
+**Impossibile svuotare la cartella Posta eliminata**
 
-Se i messaggi non vengono eliminati correttamente, provare a eliminare un numero minore di messaggi.
+- Se è stata eliminata una gran quantità di messaggi di posta elettronica, potrebbe essere necessario un po' di tempo prima che gli elementi vengano spostati o eliminati dalla cartella Posta eliminata. Lasciare aperta la finestra del browser durante l'eliminazione.
+- Se il messaggio di posta elettronica non è ancora in grado di eliminare correttamente, selezionare un batch più piccolo da eliminare.
+- Se viene ripristinato il messaggio di posta elettronica eliminato, potrebbe essere perché è stata eliminata una gran quantità di posta elettronica di recente. Riprovare più tardi.
