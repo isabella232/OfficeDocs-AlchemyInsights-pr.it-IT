@@ -11,16 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: f012aedd1d133b8706b4dbdc296ae6ca19942a06
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
+ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855787"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "42322758"
 ---
 # <a name="modernize-the-classic-home-page"></a>Modernizzare la Home page classica
 
 Un aggiornamento recente alle Home page del sito del team di SharePoint classico influisce sulla Home page dei siti del team classico (STS # 0) quando una Home page contiene *solo le web part predefinite della casella* , ad esempio introduzione, raccolta documenti e newsfeed.
+
+Visualizzare una panoramica della modifica [qui](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
 **Nota: i siti del team classico che contengono contenuto personalizzato non verranno aggiornati automaticamente.**
 
