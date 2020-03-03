@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 3858a2cd2955f279aff77440abbd5e4642871bb8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
+ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278914"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42365141"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Utilizzare lo schizzo & snip per acquisire, contrassegnare e condividere immagini
 
@@ -27,9 +27,12 @@ Lo schizzo dello schermo è ora denominato **Snip & sketch**. **Per prendere rap
 2. Scegliere un punto in corrispondenza del bordo dell'area che si desidera copiare e fare clic con il pulsante sinistro del mouse sul cursore. 
 
 3. Spostare il cursore per evidenziare l'area che si desidera acquisire. L'area acquisita verrà visualizzata sullo schermo.
+:::image type="content" source="media/snipone.png" alt-text="immagine della selezione evidenziata":::
 
 L'immagine che tagliato viene salvata negli Appunti, pronta per l'incollatura in un messaggio di posta elettronica o un documento. 
 
 **Se si desidera modificare o visualizzare l'immagine**: 
 
 - Fare clic sull'icona notifiche all'estrema destra della barra delle applicazioni. Fare quindi clic sull'immagine appena acquisita. L'applicazione snip viene aperta nell'app di sketch di & snip.
+
+:::image type="content" source="media/sniptwo.png" alt-text="visualizzazione di immagini immagine nell'app di cattura":::
