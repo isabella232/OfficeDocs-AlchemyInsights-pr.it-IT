@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: 0467bd04eb2f46a88f7e429aa7cf6d085d416dbc
-ms.sourcegitcommit: 867184426f2ed48e3e845544d7ce185d731c2fb3
+ms.openlocfilehash: c96cf829c192456291e2926e4a8e7312e43583bd
+ms.sourcegitcommit: c6c5d3f753038e3eee852111c6581e55c2f6c686
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39814286"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42574375"
 ---
 # <a name="change-account-picture"></a>Modificare l'immagine dell'account
 
-Se si utilizza un nome utente e una password per accedere a Windows 10, si sta utilizzando un account locale. Per modificare l'immagine dell'account locale:
+Se si utilizza un nome utente e una password per accedere a Windows 10, si sta utilizzando un account locale. **Per modificare l'immagine dell'account locale**:
 
 1. Vai a **Start** > **Settings** > **accounts** > **le tue info**.
-2. In **Crea un'immagine**, seleziona **Sfoglia per uno**. In alternativa, se il dispositivo dispone di una fotocamera, seleziona **fotocamera** e accetta un self-service. 
-    Note: Windows ricorda le ultime tre immagini utilizzate. Selezionare l'immagine nella pagina delle **informazioni** per passare a quella.
+2. In **Crea un'immagine**fare clic su **Sfoglia per una**. In alternativa, se il dispositivo dispone di una fotocamera, fare clic su **videocamera** e prendere una self-service. 
+    **Note**: Windows ricorda le ultime tre immagini utilizzate. Fare clic sull'immagine nella pagina delle informazioni per passare a quella.
 
 Se si utilizza un indirizzo di posta elettronica e una password per l'accesso, si sta utilizzando un account Microsoft. Per modificare l'immagine dell'account Microsoft:
 
 1. Accedere alla pagina delle **informazioni** con il proprio account Microsoft.
-2. Selezionare **Aggiungi immagine** o **Cambia immagine**e quindi seguire le istruzioni.
+2. Fare clic su **Aggiungi immagine** o **Cambia immagine**e quindi seguire le istruzioni.
 
-[Ottenere ulteriori informazioni sulla configurazione e la gestione del proprio account Microsoft](https://support.microsoft.com/products/microsoft-account?category=manage-account)
+[Ottenere ulteriori informazioni sulla configurazione e la gestione del proprio account Microsoft](https://support.microsoft.com/products/microsoft-account?category=manage-account).

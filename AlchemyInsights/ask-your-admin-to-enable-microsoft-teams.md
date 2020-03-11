@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962301"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573136"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Si sta perdendo. Chiedere all'amministratore di abilitare Microsoft Teams
 
-I docenti e i membri del personale sono in grado di accedere ai team, ma gli studenti non possono o sono gli utenti con licenza F1 in grado di accedere ai team?
+Se si dispone di un tenant EDU, è necessario abilitare manualmente Microsoft teams. A tale scopo, accedere all'interfaccia di amministrazione di Microsoft 365 >i  **Servizi e i componenti aggiuntivi > Microsoft teams**. Se si utilizza l'interfaccia di amministrazione dei nuovi team, è necessario disattivare **il nuovo**interfaccia di amministrazione per trovare i **Servizi e i componenti**aggiuntivi. 
 
-I team devono essere abilitati in modo esplicito per studenti e licenze F1. Sono disponibili istruzioni più dettagliate su come abilitare i team per la propria scuola in [configure teams for Education](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+**Importante**: per rendere effettive le modifiche, potrebbe essere necessario attendere fino a 24 ore.

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
-ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
+ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42365141"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584481"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Utilizzare lo schizzo & snip per acquisire, contrassegnare e condividere immagini
 
@@ -27,7 +27,8 @@ Lo schizzo dello schermo è ora denominato **Snip & sketch**. **Per prendere rap
 2. Scegliere un punto in corrispondenza del bordo dell'area che si desidera copiare e fare clic con il pulsante sinistro del mouse sul cursore. 
 
 3. Spostare il cursore per evidenziare l'area che si desidera acquisire. L'area acquisita verrà visualizzata sullo schermo.
-:::image type="content" source="media/snipone.png" alt-text="immagine della selezione evidenziata":::
+
+   ![immagine della selezione evidenziata](media/snipone.png)
 
 L'immagine che tagliato viene salvata negli Appunti, pronta per l'incollatura in un messaggio di posta elettronica o un documento. 
 
@@ -35,4 +36,4 @@ L'immagine che tagliato viene salvata negli Appunti, pronta per l'incollatura in
 
 - Fare clic sull'icona notifiche all'estrema destra della barra delle applicazioni. Fare quindi clic sull'immagine appena acquisita. L'applicazione snip viene aperta nell'app di sketch di & snip.
 
-:::image type="content" source="media/sniptwo.png" alt-text="visualizzazione di immagini immagine nell'app di cattura":::
+   ![immagine della visualizzazione dell'immagine nell'app di cattura](media/sniptwo.png)
