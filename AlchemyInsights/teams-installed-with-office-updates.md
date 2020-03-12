@@ -13,12 +13,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: d523ab51852cf771fb260d0050fbe92d4578ff76
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908749"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599488"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams installato con gli aggiornamenti di Office
 
@@ -32,6 +32,6 @@ Se l'organizzazione non è pronta per la distribuzione di Team, è possibile ***
 
 Per ***disinstallare i team*** da un dispositivo su cui è in esecuzione Windows, vedere [Uninstall Microsoft teams](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Per pulire Microsoft Teams da più computer o utenti di destinazione, vedere [pulizia della distribuzione di Microsoft teams](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 
-Se si utilizzano computer condivisi, Servizi Desktop remoto (RDS) o Virtual Desktop Infrastructure (VDI), vedere [Shared Computer and VDI Environments with Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Se si utilizza Office per Mac, vedere [installazioni di Microsoft teams su un Mac](https://docs.microsoft.com/en-us/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Se si utilizzano computer condivisi, Servizi Desktop remoto (RDS) o Virtual Desktop Infrastructure (VDI), vedere [Shared Computer and VDI Environments with Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Se si utilizza Office per Mac, vedere [installazioni di Microsoft teams su un Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
 
 **Nota:** Dopo l'installazione dei team, viene [aggiornata automaticamente](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) ogni due settimane con nuove funzionalità e aggiornamenti di qualità. 
