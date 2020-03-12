@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 2fe3226c542ba3778751c7f20aa2daa421743354
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 273edf85c9beec35d3b9cace03b809dde0db01c3
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564373"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599380"
 ---
-# <a name="teams-supported-web-browsers"></a><span data-ttu-id="46ead-102">Web browser supportati dai team</span><span class="sxs-lookup"><span data-stu-id="46ead-102">Teams-supported web browsers</span></span>
+# <a name="teams-supported-web-browsers"></a><span data-ttu-id="b039d-102">Web browser supportati dai team</span><span class="sxs-lookup"><span data-stu-id="b039d-102">Teams-supported web browsers</span></span>
 
-<span data-ttu-id="46ead-103">Teams supporta pienamente i browser Internet elencati nell'articolo, [limiti e specifiche per Microsoft teams](https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams#browsers), con le eccezioni note per le chiamate e le riunioni.</span><span class="sxs-lookup"><span data-stu-id="46ead-103">Teams fully supports the Internet browsers listed in the article, [Limits and specifications for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams#browsers), with noted exceptions for calling and meetings.</span></span>
+<span data-ttu-id="b039d-103">Teams supporta pienamente i browser Internet elencati nell'articolo, [limiti e specifiche per Microsoft teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), con le eccezioni note per le chiamate e le riunioni.</span><span class="sxs-lookup"><span data-stu-id="b039d-103">Teams fully supports the Internet browsers listed in the article, [Limits and specifications for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), with noted exceptions for calling and meetings.</span></span>
