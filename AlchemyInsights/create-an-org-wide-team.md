@@ -1,0 +1,31 @@
+---
+title: Creare un team a livello di organizzazione che includa tutti gli utenti dell'organizzazione
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9001731"
+- "3830"
+ms.openlocfilehash: 9476b3a4cd38879fa4c4000d3ba603fbb4cc6bff
+ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42692600"
+---
+# <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>Creare un team a livello di organizzazione che includa tutti gli utenti dell'organizzazione
+
+È possibile creare un team che includa tutti i membri dell'azienda o dell'organizzazione, noto anche come [team a livello di organizzazione](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).
+
+- L'organizzazione ha **meno di 5000 utenti**? Attualmente, i team a livello di organizzazione sono limitati a un massimo di 5000 utenti. Contiamo di aumentare il limite in futuro.
+
+- I team a livello di organizzazione **non sono attualmente disponibili** per **Teams per l'istruzione**.
+
+- Alcuni tipi di account non verranno inclusi nel team a livello di organizzazione, tra cui gli **account dei servizi**, gli **account utente guest** o gli **account a cui è bloccato l'accesso**.
+
+Per informazioni complete su Teams a livello di organizzazione, vedere [Creare un team a livello di organizzazione in Microsoft Teams](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team). 
