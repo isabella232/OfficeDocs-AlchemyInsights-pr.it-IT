@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 02dacb9a6126d99c1c95637212d94c3266b230d6
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
+ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707483"
+ms.lasthandoff: 03/18/2020
+ms.locfileid: "42745008"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Problemi noti di Teams e risoluzioni
 
@@ -27,17 +27,78 @@ Se serve aiuto per distribuire Teams a supporto dei lavoratori a seguito dell'ep
 Per tutti i clienti di Teams:
 
 - **Nuovi utenti di Teams?** Vedere [Introduzione a Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
+- **Abilitare l'accesso guest a Teams:** esaminare [l'elenco di controllo per l'accesso guest in Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist) e verificare che siano stati completati tutti i passaggi. Risorse aggiuntive:
+    - [Informazioni sull'accesso guest in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access)
+    - [Configurazione - Elenco di controllo per l'accesso guest in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+    - [Come un guest partecipa a un team](https://docs.microsoft.com/microsoftteams/guest-joins)
 
-- **Abilitare l'accesso guest a Teams:** esaminare [l'elenco di controllo per l'accesso guest in Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist) e verificare che siano stati completati tutti i passaggi.
+- **Riunioni e chiamate in Teams**: Serve aiuto per attivare o configurare l'audioconferenza in Microsoft Teams? L'utente è stato creato di recente? In questo caso, sarà necessario attendere da 2 a 24 ore **perché le impostazioni abbiano effetto**. 
 
-- **[Configurare l'audioconferenza per Teams](https://docs.microsoft.com/alchemyinsights/how-do-i-set-up-audio-conferencing-for-teams)**
+    Per verificare che l'utente disponga della licenza per Audioconferenza e di un numero a pagamento predefinito:
+    1.    Passare a Utenti attivi e selezionare l'utente in questione.
+    2.    A seconda della versione dell'interfaccia di amministrazione, scegliere Licenze e app oppure fare clic su Modifica in Licenze dei prodotti.
+    3.    Verificare che per l'utente siano selezionate le licenze per Audioconferenza, Microsoft Teams e Skype for Business Online (Piano 2).
+    4.    In Interfacce di amministrazione fare clic su Mostra tutto e poi su Teams.
+    5.    Nell'interfaccia di amministrazione di Microsoft Teams fare clic su Portale legacy.
+    6.    Nell'interfaccia di amministrazione di Skype for Business fare clic su Audioconferenza e poi Utenti.
+    7.    Selezionare l'utente in questione e verificare che disponga di un numero a pagamento predefinito.
+    
+    Per altre informazioni, vedere [Piani per chiamate per Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o chiamare il team Microsoft Commerce Billing per ricevere assistenza con domande relative alla gestione delle licenze.
+
+    Risorse aggiuntive:
+
+    - [Riunioni e conferenze in Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+    - [Audioconferenza in Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+
+- **Teams Exploratory License**: L'esperienza Microsoft Teams Exploratory consente agli utenti dell'organizzazione che hanno Azure Active Directory (AAD) ma non hanno una licenza per Teams di iniziare a usare un'esperienza esplorativa di Teams. Gli amministratori possono attivare o disattivare questa funzionalità per gli utenti nell'organizzazione. L'esperienza Teams Exploratory ha sostituito la precedente [Microsoft Commercial Cloud Trial](https://docs.microsoft.com/microsoftteams/iw-trial-teams).
+
+    Risorse aggiuntive:
+
+    - [Come aderire all'esperienza Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-users-sign-up-for-the-teams-exploratory-experience)
+    - [Gestire l'esperienza di Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#manage-the-teams-exploratory-experience)
+
+- **Canali privati**: i canali privati di Microsoft Teams creano spazi dedicati per la collaborazione all'interno dei team. Solo gli utenti proprietari del team o membri del canale privato possono accedere al canale. Tutti gli utenti, inclusi gli utenti guest, possono essere aggiunti come membri a un canale privato, purché siano già membri del team.
+
+    È possibile usare un canale privato se si vuole limitare la collaborazione agli utenti che hanno la necessità acquisire competenze o se si vuole agevolare le comunicazioni tra un gruppo di persone assegnato a un progetto specifico, senza dover gestire un altro team.
+
+    Risorse aggiuntive:
+    - [Creazione e appartenenza a un canale privato](https://docs.microsoft.com/microsoftteams/private-channels#private-channel-creation-and-membership)
+    - [Gestire l'appartenenza e le impostazioni di un canale privato](https://docs.microsoft.com/microsoftteams/private-channels#manage-private-channel-membership-and-settings)
+
+- **Criteri riunioni**: i criteri riunioni vengono usati per controllare le funzionalità disponibili per i partecipanti alle riunioni programmate dagli utenti nell'organizzazione. Dopo aver creato un criterio e aver apportato le modifiche, è possibile assegnare gli utenti al criterio. 
+    - **Modificare o creare un criterio riunione**: per modificare o creare un criterio riunione, passare all'**interfaccia di amministrazione di Microsoft Teams > Riunioni > Criteri riunioni**. Selezionare un criterio dall'elenco o selezionare Aggiungi. Se si sta creando un nuovo criterio, aggiungere un nome e una descrizione. Il nome non può contenere caratteri speciali o più di 64 caratteri. Scegliere le impostazioni desiderate e poi fare clic su **Salva**.
+
+        Ad esempio, si supponga di avere un gruppo di utenti e di voler limitare la larghezza di banda necessaria per la riunione. È possibile creare un nuovo criterio personalizzato denominato "Larghezza di banda limitata" e disabilitare le impostazioni seguenti:
+
+        In **Audio e video**:
+        - Disattivare Consenti registrazione cloud.
+        - Disattivare Consenti video IP.
+
+        In **Condivisione di contenuti**:
+        - Disabilitare la modalità di condivisione dello schermo.
+        - Disattivare Consenti la lavagna.
+        - Disattivare Consenti note condivise.
+
+        Assegnare poi il criterio agli utenti.
+
+- **Assegnare un criterio riunione agli utenti**
+
+    1. Nel riquadro di spostamento sinistro dell'interfaccia di amministrazione di Microsoft Teams passare a **Utenti** e quindi fare clic sull'utente.
+    2. Per selezionare l'utente facendo clic a sinistra del nome utente e poi fare clic su **Impostazioni di modifica**.
+    3. In **Criteri riunioni** selezionare il criterio da assegnare e poi fare clic su **Applica**.
+
+    Per assegnare un criterio a più utenti alla volta, vedere [modificare le impostazioni degli utenti di Teams in blocco](https://docs.microsoft.com/microsoftteams/edit-user-settings-in-bulk). In alternativa è possibile eseguire le operazioni seguenti:
+
+    1. Nel riquadro di spostamento sinistro dell'interfaccia di amministrazione di Microsoft Teams passare a **Riunioni > Criteri riunioni**.
+    2. Selezionare il criterio facendo clic a sinistra del nome del criterio.
+    3. Scegliere **Gestisci utenti**.
+    4. Nel riquadro **Gestisci utenti** cercare l'utente per nome visualizzato o in base al nome utente, selezionare il nome e poi fare clic su **Aggiungi**. Ripetere questa operazione per ogni utente da aggiungere.
+    5. Dopo avere aggiunto gli utenti, fare clic su **Salva**.
 
 - **Risolvere i problemi di assenza della tastiera del telefono:**  
 
     - Verificare che all'utente sia stata assegnata una [licenza di Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-
     - Assicurarsi che all'utente sia stato assegnato un [piano di chiamata](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).
-
     - Abilitare gli utenti per [VoIP aziendale](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 
 - **Risolvere i problemi di accesso a Teams:** prima di tutto, verificare l'[integrità del servizio Microsoft Teams](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Controllare quindi se sono presenti codici di errore comuni e vedere [erché non riesco ad accedere a Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Può anche essere necessario rivedere [Modelli di identità e autenticazione in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
@@ -46,4 +107,6 @@ Per tutti i clienti di Teams:
 
 Se gli utenti vedono il messaggio "Stai perdendo un'occasione!" assicurarsi di [Abilitare Microsoft Teams per l'istituto di istruzione](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams). Nei tenant Education Microsoft Teams non è abilitato per impostazione predefinita. Per prima cosa è necessario attivarlo.
 
-Vedere poi [Insegnamento e apprendimento remoto in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) per le indicazioni più aggiornate su come configurare l'istituto di istruzione, pianificare le lezioni, creare riunioni virtuali e condividere contenuti con gli studenti. 
+Vedere poi [Insegnamento e apprendimento remoto in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) per le indicazioni più aggiornate su come configurare l'istituto di istruzione, pianificare le lezioni, creare riunioni virtuali e condividere contenuti con gli studenti.
+
+Infine, assicurarsi di consultare i video di formazione per amministratori IT di Microsoft Teams, le presentazioni e molto altro ancora qui: https://docs.microsoft.com/MicrosoftTeams/itadmin-readiness#technical-training. 
