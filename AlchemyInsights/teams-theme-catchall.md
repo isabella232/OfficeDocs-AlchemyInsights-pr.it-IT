@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745008"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856471"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Problemi noti di Teams e risoluzioni
 
@@ -36,11 +36,11 @@ Per tutti i clienti di Teams:
 
     Per verificare che l'utente disponga della licenza per Audioconferenza e di un numero a pagamento predefinito:
     1.    Passare a Utenti attivi e selezionare l'utente in questione.
-    2.    A seconda della versione dell'interfaccia di amministrazione, scegliere Licenze e app oppure fare clic su Modifica in Licenze dei prodotti.
+    2.    A seconda della versione dell'interfaccia di amministrazione, scegliere **Licenze e app** o fare clic su **Modifica** in **Licenze dei prodotti**.
     3.    Verificare che per l'utente siano selezionate le licenze per Audioconferenza, Microsoft Teams e Skype for Business Online (Piano 2).
-    4.    In Interfacce di amministrazione fare clic su Mostra tutto e poi su Teams.
-    5.    Nell'interfaccia di amministrazione di Microsoft Teams fare clic su Portale legacy.
-    6.    Nell'interfaccia di amministrazione di Skype for Business fare clic su Audioconferenza e poi Utenti.
+    4.    In Interfacce di amministrazione fare clic su **Mostra tutto** e poi su **Teams**.
+    5.    Nell'interfaccia di amministrazione di Microsoft Teams fare clic su **Portale legacy**.
+    6.    Nell'interfaccia di amministrazione di Skype for Business fare clic su **Audioconferenza** e poi **Utenti**.
     7.    Selezionare l'utente in questione e verificare che disponga di un numero a pagamento predefinito.
     
     Per altre informazioni, vedere [Piani per chiamate per Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o chiamare il team Microsoft Commerce Billing per ricevere assistenza con domande relative alla gestione delle licenze.
