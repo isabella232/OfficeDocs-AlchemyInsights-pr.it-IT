@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 01290defa0c12ba92707bf7368b371c14f2eae56
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042884"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931302"
 ---
 # <a name="delete-a-site"></a>Eliminare un sito
 
-Quando si elimina un sito, quest'ultimo viene spostato nei [siti eliminati](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) e conservato per 93 giorni. Per eliminare un sito, accedere a [siti attivi](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Quando si elimina un sito, questo viene spostato nei siti eliminati e viene conservato per 93 giorni. Per eliminare un sito, accedere a [siti attivi](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 Quando si elimina un sito, tutto all'interno di esso viene eliminato, tra cui:
 

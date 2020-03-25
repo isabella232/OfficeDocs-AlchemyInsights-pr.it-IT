@@ -10,14 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: d0587b3a86b90358359c03fe32e9919facd30883
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 830b39c51658cbc02f4be81acdfdf3b164a8df70
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964018"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932734"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Eseguire la migrazione delle opzioni a SharePoint Online
+
+**Importante**: molti clienti di SharePoint Online e OneDrive eseguono applicazioni aziendali critiche rispetto al servizio in esecuzione in background. Tali applicazioni includono soluzioni per la migrazione del contenuto, di Prevenzione della perdita dei dati e per il backup. In questi tempi straordinari, stiamo adottando misure per garantire che i servizi di SharePoint Online e OneDrive rimangano altamente disponibili e affidabili per gli utenti che dipendono ancor più dal servizio negli scenari di lavoro remoto.
+
+A sostegno di questo obiettivo, abbiamo implementato limitazioni più rigide sulle app in background (migrazione, prevenzione della perdita dei dati e soluzioni di backup) durante il giorni nei giorni feriali. In questo periodo sarà possibile notare una riduzione della velocità effettiva in queste app. Tuttavia, nelle ore serali e durante il fine settimana nell'area il servizio sarà predisposto per elaborare una quantità notevolmente superiore di richieste delle app in background.
+
+**Opzioni di migrazione**
 
 Sono disponibili diverse opzioni per la migrazione del contenuto a SharePoint Online, in base alle dimensioni e alla quantità di file che è necessario spostare, vedere un elenco di opzioni che si [trovano qui](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 

@@ -12,14 +12,20 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7e12c74d33e3cee7c626ad899a4e7f2f0a409bca
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054057"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931662"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>Limitazione della migrazione di SharePoint con 503 errori
+
+**Importante**: molti clienti di SharePoint Online e OneDrive eseguono applicazioni aziendali critiche rispetto al servizio in esecuzione in background. Tali applicazioni includono soluzioni per la migrazione del contenuto, di Prevenzione della perdita dei dati e per il backup. In questi tempi straordinari, stiamo adottando misure per garantire che i servizi di SharePoint Online e OneDrive rimangano altamente disponibili e affidabili per gli utenti che dipendono ancor più dal servizio negli scenari di lavoro remoto.
+
+A sostegno di questo obiettivo, abbiamo implementato limitazioni più rigide sulle app in background (migrazione, prevenzione della perdita dei dati e soluzioni di backup) durante il giorni nei giorni feriali. In questo periodo sarà possibile notare una riduzione della velocità effettiva in queste app. Tuttavia, nelle ore serali e durante il fine settimana nell'area il servizio sarà predisposto per elaborare una quantità notevolmente superiore di richieste delle app in background.
+
+**503 errori durante la migrazione a SharePoint Online**
 
 Viene visualizzato che si esegue la migrazione a SharePoint Online e si ricevono 503 errori. Seguire i passaggi riportati di seguito, in modo da potervi aiutare al più presto possibile. 
 
