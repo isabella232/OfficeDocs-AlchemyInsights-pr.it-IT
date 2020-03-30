@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856471"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030404"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Problemi noti di Teams e risoluzioni
+
+**Importante**: a causa di un recente aumento dell'utilizzo di Teams, quando si assegna una licenza di Teams a un utente, potrebbe essere necessario attendere circa 24 ore prima che la configurazione venga completata. Fino a quel momento, non sarà possibile assegnare criteri di Teams a tale utente, che potrebbe non avere accesso ad alcune funzionalità di Teams come chiamate e audioconferenze.
+
+**Problemi noti e risoluzioni**
 
 Per una risposta più specifica, provare a riformulare la domanda in modo da includere gli errori visualizzati o le funzionalità di Teams in uso.
 
@@ -29,10 +33,10 @@ Per tutti i clienti di Teams:
 - **Nuovi utenti di Teams?** Vedere [Introduzione a Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
 - **Abilitare l'accesso guest a Teams:** esaminare [l'elenco di controllo per l'accesso guest in Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist) e verificare che siano stati completati tutti i passaggi. Risorse aggiuntive:
     - [Informazioni sull'accesso guest in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access)
-    - [Configurazione - Elenco di controllo per l'accesso guest in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+    - [Configurazione: elenco di controllo per l'accesso guest in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
     - [Come un guest partecipa a un team](https://docs.microsoft.com/microsoftteams/guest-joins)
 
-- **Riunioni e chiamate in Teams**: Serve aiuto per attivare o configurare l'audioconferenza in Microsoft Teams? L'utente è stato creato di recente? In questo caso, sarà necessario attendere da 2 a 24 ore **perché le impostazioni abbiano effetto**. 
+- **Riunioni e chiamate in Teams**: serve aiuto per attivare o configurare Audioconferenza in Microsoft Teams? L'utente è stato creato di recente? In questo caso, sarà necessario attendere da 2 a 24 ore **perché le impostazioni abbiano effetto**. 
 
     Per verificare che l'utente disponga della licenza per Audioconferenza e di un numero a pagamento predefinito:
     1.    Passare a Utenti attivi e selezionare l'utente in questione.
