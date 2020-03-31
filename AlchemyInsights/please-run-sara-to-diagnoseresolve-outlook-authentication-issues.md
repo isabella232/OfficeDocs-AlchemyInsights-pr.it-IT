@@ -12,13 +12,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: e2339130cd8a0e1668bf678c3b99b81099a220fd
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 150a64e110a6e2e013952d97d811f0e791803d39
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752647"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059812"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Utilizzo di SaRA per la diagnosi e la risoluzione dei problemi di autenticazione di Outlook
+
+**Nota**: verificare se le [impostazioni predefinite](http://aka.ms/securitydefaults) per la sicurezza sono abilitate per l'organizzazione. Se il tenant è stato creato dopo il 21 ottobre 2019 e Outlook chiede ripetutamente una password, è possibile che nel tenant siano abilitate le **impostazioni predefinite** per la sicurezza.
 
 È consigliabile utilizzare [Outlook continua a chiedere](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) la diagnostica della password sul computer in questione per risolvere i problemi in cui Outlook richiede continuamente una password. Questa diagnostica di [sara](https://diagnostics.office.com/#/) esegue controlli automatizzati e restituisce le possibili soluzioni da utilizzare per risolvere eventuali problemi rilevati.
