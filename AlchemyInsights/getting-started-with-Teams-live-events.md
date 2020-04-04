@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034277"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43142993"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Introduzione agli eventi live di Teams
 
@@ -24,7 +24,7 @@ Gli eventi live di Microsoft Teams sono un'estensione delle riunioni di Teams. P
 
 Per creare un evento live è necessario quanto segue:
 
-- Una [licenza di Office 365 Enterprise E1, E3 o E5 o una licenza di Office 365 A3 o A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses).
+- Una [licenza di Office 365 Enterprise E1, E3 o E5 o una licenza di Office 365 A3 o A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Nota**: a causa di un recente aumento dell'utilizzo di Teams, quando si assegna una licenza di Teams a un utente, potrebbe essere necessario attendere circa 24 ore prima che la configurazione venga completata. Fino a quel momento, non sarà possibile assegnare criteri di Teams a tale utente, che potrebbe non avere accesso ad alcune funzionalità di Teams come chiamate e audioconferenze.
 
 - Autorizzazioni per la [creazione di eventi live nell'interfaccia di amministrazione di Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 
