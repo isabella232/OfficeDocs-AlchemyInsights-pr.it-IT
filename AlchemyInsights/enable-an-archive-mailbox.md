@@ -10,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
+ms.sourcegitcommit: f1e9db2f762a4197c2922a0c8eaa77a3f482e38a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736293"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43132615"
 ---
 # <a name="enable-an-archive-mailbox"></a>Abilitazione di una cassetta postale di archiviazione
 
-Le cassette postali di archiviazione in Office 365 (denominate anche *archivi online*) offrono agli utenti un'ulteriore archiviazione della posta elettronica. Gli utenti possono spostare o copiare gli elementi nella propria cassetta postale di archiviazione e gli amministratori possono creare un criterio di archiviazione che sposta automaticamente gli elementi nelle cassette postali di archiviazione.
+Le cassette postali di archiviazione in Office 365 (denominate anche archivi *online* o *archivi sul posto*) offrono agli utenti un ulteriore spazio di archiviazione. Gli utenti possono spostare o copiare gli elementi nella propria cassetta postale di archiviazione e gli amministratori possono creare un criterio di archiviazione che sposta automaticamente gli elementi nelle cassette postali di archiviazione.
   
 Ecco come creare una cassetta postale di archiviazione:
   
@@ -27,15 +27,29 @@ Ecco come creare una cassetta postale di archiviazione:
 
 2. Accedere a Office 365 utilizzando l'account di amministratore.
 
-3. Nel riquadro sinistro del centro &amp; sicurezza e conformità selezionare **Archivio**di **governance** \> dei dati.
+3. Nel riquadro sinistro del centro &amp; sicurezza e conformità selezionare **Archivio** **informazioni sulla governance** \> .
 
 4. Selezionare l'utente di cui si desidera abilitare la cassetta postale di archiviazione.
 
-5. Nel riquadro dei dettagli a destra, selezionare **Abilita** e quindi fare clic su **Sì** nel messaggio di avviso per abilitare la cassetta postale di archiviazione.
+5. Nel riquadro dei dettagli a destra, fare clic su **Abilita** e quindi fare clic su **Sì** nel messaggio di avviso per abilitare la cassetta postale di archiviazione.
 
-È inoltre possibile abilitare in blocco le cassette postali di archiviazione selezionando più utenti (utilizzando i tasti **MAIUSC** o **CTRL** ) e quindi selezionando **Abilita** nel riquadro dei dettagli.
+È inoltre possibile abilitare in blocco le cassette postali di archiviazione selezionando più utenti (utilizzando i tasti **MAIUSC** o **CTRL** ) e quindi facendo clic su **Abilita** nel riquadro dei dettagli.
   
-Per ulteriori informazioni, vedere:
+### <a name="shared-mailboxes"></a>Cassette postali condivise
+
+Per abilitare l'archivio per una cassetta postale condivisa, è necessaria una licenza di Exchange Online piano 2 o una licenza di Exchange Online piano 1 con una licenza di archiviazione Exchange Online.  
+
+Per abilitare l'archivio per una cassetta postale condivisa:
+
+1. Accedere all'interfaccia di [amministrazione di Exchange](https://outlook.office365.com/ecp) e accedere utilizzando l'account di amministratore.
+
+2. Andare a **destinatari** > **condivisi**.
+
+3. Selezionare la cassetta postale condivisa.
+
+4. Nel riquadro dei dettagli a destra, in **archivio sul posto**, fare clic su **Abilita**e quindi fare clic su **Sì** per abilitare la cassetta postale di archiviazione.
+
+Per altre informazioni, vedere:
   
 - [Abilitare le cassette postali di archiviazione in Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
