@@ -11,25 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3564"
 - "9001506"
-ms.openlocfilehash: dc4c4f55a16fb14dd76f47e23672dc04073fbe61
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
+ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164110"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43160820"
 ---
-# <a name="update-or-add-a-new-payment-method"></a><span data-ttu-id="59022-102">Aggiornare o aggiungere un nuovo metodo di pagamento</span><span class="sxs-lookup"><span data-stu-id="59022-102">Update or add a new payment method</span></span>
+# <a name="payment-declined"></a><span data-ttu-id="6c606-102">Pagamento rifiutato</span><span class="sxs-lookup"><span data-stu-id="6c606-102">Payment declined</span></span>
 
-1. <span data-ttu-id="59022-103">Passare alla pagina dei<a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">metodi di pagamento</a> per la **fatturazione** > **& pagamenti** > .</span><span class="sxs-lookup"><span data-stu-id="59022-103">Go to the **Billing** > **Bills & Payments** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.</span></span>
-2. <span data-ttu-id="59022-104">Selezionare **Aggiungi un metodo di pagamento** o seleziona la carta o il conto corrente bancario per aggiornare e selezionare **modifica**.</span><span class="sxs-lookup"><span data-stu-id="59022-104">Select **Add a payment method** or pick the card or bank account to update and select **Edit**.</span></span>
-3. <span data-ttu-id="59022-105">Aggiornare le informazioni sul metodo di pagamento (nome sulla carta o sul conto corrente bancario, sull'indirizzo di fatturazione, sul numero di telefono o sulla data di scadenza), quindi selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="59022-105">Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then select **Save**.</span></span>
-4. <span data-ttu-id="59022-106">Ricordarsi di modificare il modo in cui si pagano gli abbonamenti a questo nuovo metodo di pagamento.</span><span class="sxs-lookup"><span data-stu-id="59022-106">Remember to change how you are paying for your subscription(s) to this new payment method.</span></span> <span data-ttu-id="59022-107">Le istruzioni su come eseguire questa operazione si trovano nella sezione successiva.</span><span class="sxs-lookup"><span data-stu-id="59022-107">Instructions on how to do this are in the next section.</span></span>
+<span data-ttu-id="6c606-103">Microsoft tenterà di ricaricare la scheda più volte nelle 3-4 settimane successive alla data della fattura.</span><span class="sxs-lookup"><span data-stu-id="6c606-103">Microsoft will attempt to charge your card multiple times in the 3-4 weeks after the invoice date.</span></span>  <span data-ttu-id="6c606-104">Se sono state ricevute solo una o due notifiche di declino per questo periodo di fatturazione, Microsoft tenterà automaticamente di ricaricare il proprio strumento di pagamento.</span><span class="sxs-lookup"><span data-stu-id="6c606-104">If you have received only one or two decline notices for this billing period, Microsoft will automatically attempt to charge your payment instrument again.</span></span>  
 
-<span data-ttu-id="59022-108">Se è stata aggiunta una nuova scheda e si riceve un avviso di declino sulla vecchia carta di credito, potrebbe essere necessario associare la nuova scheda all'abbonamento.</span><span class="sxs-lookup"><span data-stu-id="59022-108">If you've added a new card and you are still getting a decline notice on the old credit card, you may need to associate that new card to the subscription.</span></span>
+<span data-ttu-id="6c606-105">**Importante**: se è stata aggiunta una nuova scheda e si riceve un avviso di rifiuto sulla vecchia carta di credito, potrebbe essere necessario associare la nuova scheda alla sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="6c606-105">**Important**: If you've added a new card and you are still getting a decline notice on the old credit card, you may need to associate that new card with the subscription.</span></span>
 
-1. <span data-ttu-id="59022-109">Accedere a prodotti di **fatturazione** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">& Servizi</a></span><span class="sxs-lookup"><span data-stu-id="59022-109">Go to **Billing** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a></span></span>
-2. <span data-ttu-id="59022-110">Selezionare l'abbonamento che si desidera pagare con la nuova carta o il conto corrente bancario.</span><span class="sxs-lookup"><span data-stu-id="59022-110">Select the subscription that you want to pay with the new card or bank account.</span></span> <span data-ttu-id="59022-111">Nella sezione **fatturazione** fare clic su **modifica**accanto al metodo di pagamento.</span><span class="sxs-lookup"><span data-stu-id="59022-111">Under the **Billing** section, next to the payment method, select **Edit**.</span></span>
-3. <span data-ttu-id="59022-112">Selezionare **Cambia** accanto al metodo di pagamento corrente.</span><span class="sxs-lookup"><span data-stu-id="59022-112">Select **Change** next to the current payment method.</span></span>
-4. <span data-ttu-id="59022-113">Scegliere un metodo di pagamento alternativo dal menu a discesa oppure aggiungere un nuovo metodo di pagamento.</span><span class="sxs-lookup"><span data-stu-id="59022-113">From the drop-down menu, select an alternate payment method, or add a new payment method.</span></span>
+1. <span data-ttu-id="6c606-106">Andare a **fatturazione > [prodotti & Servizi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="6c606-106">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
 
-[<span data-ttu-id="59022-114">Aggiungere, aggiornare o rimuovere i metodi di pagamento</span><span class="sxs-lookup"><span data-stu-id="59022-114">Add, update, or remove your payment methods</span></span>](https://go.microsoft.com/fwlink/?linkid=2118133)
+2. <span data-ttu-id="6c606-107">Selezionare l'abbonamento che si desidera pagare con la nuova carta o il conto corrente bancario.</span><span class="sxs-lookup"><span data-stu-id="6c606-107">Select the subscription that you want to pay with the new card or bank account.</span></span> <span data-ttu-id="6c606-108">Nella sezione **fatturazione** , accanto al metodo di pagamento, fare clic su **modifica**.</span><span class="sxs-lookup"><span data-stu-id="6c606-108">Under the **Billing** section, next to the payment method, click **Edit**.</span></span>
+
+3. <span data-ttu-id="6c606-109">Fare clic su **modifica** accanto al metodo di pagamento corrente.</span><span class="sxs-lookup"><span data-stu-id="6c606-109">Click **Change** next to the current payment method.</span></span>
+
+4. <span data-ttu-id="6c606-110">Scegliere un metodo di pagamento alternativo dal menu a discesa oppure aggiungere un nuovo metodo di pagamento.</span><span class="sxs-lookup"><span data-stu-id="6c606-110">From the drop-down menu, select an alternate payment method, or add a new payment method.</span></span>
+
+<span data-ttu-id="6c606-111">**Aggiornare o aggiungere un nuovo metodo di pagamento**</span><span class="sxs-lookup"><span data-stu-id="6c606-111">**Update or add a new payment method**</span></span>
+
+1. <span data-ttu-id="6c606-112">Passare alla pagina \*\*fatturazione > fatture & pagamenti > [modalità di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806) \*\* .</span><span class="sxs-lookup"><span data-stu-id="6c606-112">Go to the **Billing > Bills & Payments > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)** page.</span></span>
+
+2. <span data-ttu-id="6c606-113">Fare clic su **Aggiungi un metodo di pagamento**, scegliere la scheda o il conto corrente bancario per aggiornare e fare clic su **modifica**.</span><span class="sxs-lookup"><span data-stu-id="6c606-113">Click **Add a payment method**, pick the card, or bank account to update and click **Edit**.</span></span>
+
+3. <span data-ttu-id="6c606-114">Aggiornare le informazioni sul metodo di pagamento (nome sulla carta o sul conto corrente bancario, sull'indirizzo di fatturazione, sul numero di telefono o sulla data di scadenza), quindi fare clic su **Salva**.</span><span class="sxs-lookup"><span data-stu-id="6c606-114">Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then click **Save**.</span></span>
+
+4. <span data-ttu-id="6c606-115">Ricordarsi di modificare il modo in cui si pagano gli abbonamenti a questo nuovo metodo di pagamento.</span><span class="sxs-lookup"><span data-stu-id="6c606-115">Remember to change how you are paying for your subscription(s) to this new payment method.</span></span> <span data-ttu-id="6c606-116">Per altre informazioni, vedere[Aggiungere, aggiornare o rimuovere i metodi di pagamento](https://go.microsoft.com/fwlink/?linkid=2118133).</span><span class="sxs-lookup"><span data-stu-id="6c606-116">For more info, see [Add, update, or remove your payment methods](https://go.microsoft.com/fwlink/?linkid=2118133).</span></span> 
