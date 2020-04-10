@@ -1,5 +1,5 @@
 ---
-title: Ruolo di amministratore e modalità di assegnazione
+title: Ruolo di amministratore e procedure di assegnazione
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -7,26 +7,21 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.openlocfilehash: 5bee71c66ae81fda95df152405dfd689055a10cf
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737085"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43183401"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="30fa4-102">Quali sono i ruoli di amministratore e come vengono assegnati?</span><span class="sxs-lookup"><span data-stu-id="30fa4-102">What are admin roles and how do you assign them?</span></span>
+# <a name="admin-roles"></a><span data-ttu-id="69b28-102">Ruoli di amministratore</span><span class="sxs-lookup"><span data-stu-id="69b28-102">Admin roles</span></span>
 
-<span data-ttu-id="30fa4-103">Sembra che vi siano alcune domande sui ruoli di amministratore.</span><span class="sxs-lookup"><span data-stu-id="30fa4-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="30fa4-104">Questi articoli devono rispondere a tutte le domande.</span><span class="sxs-lookup"><span data-stu-id="30fa4-104">These articles should answer all your questions.</span></span>
-  
-- [<span data-ttu-id="30fa4-105">Informazioni su ruoli di amministratore</span><span class="sxs-lookup"><span data-stu-id="30fa4-105">About admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- <span data-ttu-id="69b28-103">Selezionare [Ruoli](https://admin.microsoft.com/Adminportal/Home#/roles) nell'interfaccia di amministrazione per assegnare o ottenere altre informazioni sui ruoli di amministratore.</span><span class="sxs-lookup"><span data-stu-id="69b28-103">Select [Roles](https://admin.microsoft.com/Adminportal/Home#/roles) in the admin center to assign or learn more about admin roles.</span></span>
 
-- [<span data-ttu-id="30fa4-106">Assegnare i ruoli di amministratore</span><span class="sxs-lookup"><span data-stu-id="30fa4-106">Assign admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
-
-<span data-ttu-id="30fa4-107">Non ha risposto alla domanda?</span><span class="sxs-lookup"><span data-stu-id="30fa4-107">Didn't answer your question?</span></span> <span data-ttu-id="30fa4-108">Non c'è problema!</span><span class="sxs-lookup"><span data-stu-id="30fa4-108">No problem!</span></span> <span data-ttu-id="30fa4-109">Utilizzare l'opzione "Let us Call You" per comunicare con un tecnico del supporto.</span><span class="sxs-lookup"><span data-stu-id="30fa4-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
-  
+- <span data-ttu-id="69b28-104">Selezionare quindi il nome o i nomi dei ruoli e fare clic su **Assegna ruoli** oppure fare clic su **Confronta ruoli** per altre informazioni.</span><span class="sxs-lookup"><span data-stu-id="69b28-104">Then select the role name(s) and click **assign role**, or click **compare roles** to learn more.</span></span>
