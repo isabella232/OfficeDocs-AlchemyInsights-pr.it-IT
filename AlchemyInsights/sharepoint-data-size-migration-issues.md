@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: e3543815937c45323051171ea8be3c43e4ec7c89
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958650"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552925"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemi durante la migrazione dei dati in SharePoint Online
-
-**Importante**: durante questi periodi senza precedenti, stiamo adottando misure per garantire che i servizi di SharePoint Online e OneDrive siano estremamente disponibili, per ulteriori informazioni, visitare le [regolazioni delle funzionalità temporanee di SharePoint Online](https://aka.ms/ODSPAdjustments) .
 
 **Migrazione su 100TB di dati**
 
@@ -33,7 +31,3 @@ Viene visualizzato che si sta eseguendo la migrazione su 100TB di dati in ShareP
     - Dimensioni stimate della migrazione.
     - Stima del momento in cui si desidera avviare e completare la migrazione.
     - Descrivere la posizione in cui si esegue la migrazione del contenuto, ad esempio SharePoint Server, box, GDrive, condivisioni di file e così via.
-
-
-  
-

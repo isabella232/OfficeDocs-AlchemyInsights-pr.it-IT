@@ -10,18 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: d54d3adbaa697c4abda7cb52214c79f136b37daa
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 606cfb41a3a79ed8637e5f702471c2cbbb9f6def
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958614"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552748"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Eseguire la migrazione delle opzioni a SharePoint Online
-
-**Importante**: durante questi periodi senza precedenti, stiamo adottando misure per garantire che i servizi di SharePoint Online e OneDrive siano estremamente disponibili, per ulteriori informazioni, visitare le [regolazioni delle funzionalità temporanee di SharePoint Online](https://aka.ms/ODSPAdjustments) .
-
-**Opzioni di migrazione**
 
 Sono disponibili diverse opzioni per la migrazione del contenuto a SharePoint Online, in base alle dimensioni e alla quantità di file che è necessario spostare, vedere un elenco di opzioni che si [trovano qui](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
@@ -31,10 +27,4 @@ Per ulteriori informazioni sulla migrazione del contenuto, visitare i collegamen
 
 - [Introduzione a Gestione migrazione](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 
-- [Velocità di migrazione in SharePoint Online e OneDrive for Business](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
-
-- [Evitare la limitazione o il blocco in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [Strumento di valutazione della migrazione di SharePoint (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
-
-**Nota**: attualmente lo strumento di migrazione di SharePoint supporta solo le migrazioni da SharePoint 2010 e 2013. La versione 2016 o 2019 non è supportata in questo momento.
+- [Mover](https://mover.io/)
