@@ -11,23 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: b25bf02e0ccddbb7524816cab0933f026a6a9224
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: ad9e9d929664ecdfd796e977891d83f80f557333
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959010"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552750"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a><span data-ttu-id="09e15-102">Migrazione a SharePoint Online tramite Gestione migrazione</span><span class="sxs-lookup"><span data-stu-id="09e15-102">Migrating to SharePoint Online via Migration Manager</span></span>
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a><span data-ttu-id="2da3e-102">Migrazione a SharePoint Online tramite Gestione migrazione</span><span class="sxs-lookup"><span data-stu-id="2da3e-102">Migrating to SharePoint Online via Migration Manager</span></span>
 
-<span data-ttu-id="09e15-103">**Importante**: durante questi periodi senza precedenti, stiamo adottando misure per garantire che i servizi SharePoint Online e OneDrive rimangano disponibili. Per altre informazioni, vedere [Modifiche temporanee delle funzionalità di SharePoint Online](https://aka.ms/ODSPAdjustments).</span><span class="sxs-lookup"><span data-stu-id="09e15-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="2da3e-103">**Gestione migrazione**</span><span class="sxs-lookup"><span data-stu-id="2da3e-103">**Migration Manager**</span></span>
 
-<span data-ttu-id="09e15-104">**Gestione migrazione**</span><span class="sxs-lookup"><span data-stu-id="09e15-104">**Migration Manager**</span></span>
+<span data-ttu-id="2da3e-104">Disponibile nell'interfaccia di amministrazione di SharePoint moderna, Gestione migrazione guida l'utente nei passaggi di configurazione dei client e creazione di attività.</span><span class="sxs-lookup"><span data-stu-id="2da3e-104">Located in the modern SharePoint Admin Center, the Migration Manager guides you through the setup of your clients and the creation of your tasks.</span></span> <span data-ttu-id="2da3e-105">È possibile specificare impostazioni a livello di attività o globali, visualizzare lo stato di avanzamento delle attività e scaricare report di riepilogo aggregati e a livello di attività.</span><span class="sxs-lookup"><span data-stu-id="2da3e-105">You can specify global or task-level settings, view all-up task progress, and download aggregated summary and task-level reports.</span></span>
 
-<span data-ttu-id="09e15-105">Disponibile nell'interfaccia di amministrazione di SharePoint moderna, Gestione migrazione guida l'utente nei passaggi di configurazione dei client e creazione di attività.</span><span class="sxs-lookup"><span data-stu-id="09e15-105">Located in the modern SharePoint Admin Center, the Migration Manager guides you through the setup of your clients and the creation of your tasks.</span></span> <span data-ttu-id="09e15-106">È possibile specificare impostazioni a livello di attività o globali, visualizzare lo stato di avanzamento delle attività e scaricare report di riepilogo aggregati e a livello di attività.</span><span class="sxs-lookup"><span data-stu-id="09e15-106">You can specify global or task-level settings, view all-up task progress, and download aggregated summary and task-level reports.</span></span>
+- [<span data-ttu-id="2da3e-106">Introduzione a Gestione migrazione</span><span class="sxs-lookup"><span data-stu-id="2da3e-106">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 
-- [<span data-ttu-id="09e15-107">Introduzione a Gestione migrazione</span><span class="sxs-lookup"><span data-stu-id="09e15-107">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+- [<span data-ttu-id="2da3e-107">Configurare i client di Gestione migrazione</span><span class="sxs-lookup"><span data-stu-id="2da3e-107">Setup Migration Manager clients</span></span>](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
 
-- [<span data-ttu-id="09e15-108">Configurare i client di Gestione migrazione</span><span class="sxs-lookup"><span data-stu-id="09e15-108">Setup Migration Manager clients</span></span>](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-
-- [<span data-ttu-id="09e15-109">Impostazioni di Gestione migrazione</span><span class="sxs-lookup"><span data-stu-id="09e15-109">Migration Manager Settings</span></span>](https://docs.microsoft.com/sharepointmigration/mm-settings)
+- [<span data-ttu-id="2da3e-108">Impostazioni di Gestione migrazione</span><span class="sxs-lookup"><span data-stu-id="2da3e-108">Migration Manager Settings</span></span>](https://docs.microsoft.com/sharepointmigration/mm-settings)
