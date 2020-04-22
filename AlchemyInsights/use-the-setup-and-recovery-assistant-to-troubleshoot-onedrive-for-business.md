@@ -3,7 +3,7 @@ title: Utilizzo dell'assistente per l'installazione e il ripristino per la risol
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: 38e3c3d397fa4f58f86fdde4e029a551b8e24099
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84711d6ae14e7ff845a50143a4378ef65d9587ca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532191"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710627"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="c40bd-102">Risolvere i problemi di sincronizzazione di OneDrive</span><span class="sxs-lookup"><span data-stu-id="c40bd-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="13950-102">Risolvere i problemi di sincronizzazione di OneDrive</span><span class="sxs-lookup"><span data-stu-id="13950-102">Fix OneDrive sync problems</span></span>
 
-<span data-ttu-id="c40bd-103">L'app supporto e ripristino può aiutare a identificare e correggere i problemi comuni relativi alla sincronizzazione dei file di OneDrive.</span><span class="sxs-lookup"><span data-stu-id="c40bd-103">The Support and Recovery Assistant app can help you identify and fix common problems with syncing OneDrive files.</span></span> 
+<span data-ttu-id="13950-103">L'app supporto e ripristino può aiutare a identificare e correggere i problemi comuni relativi alla sincronizzazione dei file di OneDrive.</span><span class="sxs-lookup"><span data-stu-id="13950-103">The Support and Recovery Assistant app can help you identify and fix common problems with syncing OneDrive files.</span></span> 
   
-<span data-ttu-id="c40bd-104">[Scaricare l'Assistente di supporto e ripristino](https://aka.ms/sara), accedere con l'account aziendale o dell'Istituto di istruzione e seguire le istruzioni riportate nell'app per risolvere i problemi di OneDrive for business.</span><span class="sxs-lookup"><span data-stu-id="c40bd-104">[Download the Support and Recovery Assistant](https://aka.ms/sara), sign in with your work or school account, and follow the instructions in the app to troubleshoot OneDrive for Business.</span></span> 
+<span data-ttu-id="13950-104">[Scaricare l'Assistente di supporto e ripristino](https://aka.ms/sara), accedere con l'account aziendale o dell'Istituto di istruzione e seguire le istruzioni riportate nell'app per risolvere i problemi di OneDrive for business.</span><span class="sxs-lookup"><span data-stu-id="13950-104">[Download the Support and Recovery Assistant](https://aka.ms/sara), sign in with your work or school account, and follow the instructions in the app to troubleshoot OneDrive for Business.</span></span> 
   
-[<span data-ttu-id="c40bd-105">Ulteriori passaggi per la risoluzione dei problemi</span><span class="sxs-lookup"><span data-stu-id="c40bd-105">More troubleshooting steps</span></span>](https://go.microsoft.com/fwlink/?linkid=872097)
+[<span data-ttu-id="13950-105">Ulteriori passaggi per la risoluzione dei problemi</span><span class="sxs-lookup"><span data-stu-id="13950-105">More troubleshooting steps</span></span>](https://go.microsoft.com/fwlink/?linkid=872097)
   
 

@@ -3,7 +3,7 @@ title: Gestione di posta indesiderata e posta indesiderata in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 7/19/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,35 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 4fda7a84d8fce49876126392ba09c24d6d697439
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0fab02fa06ff203933e6b5b8c306c2a8ecb15a56
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512073"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710735"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a><span data-ttu-id="fe97c-102">Posta indesiderata e messaggi indesiderati in Outlook.com</span><span class="sxs-lookup"><span data-stu-id="fe97c-102">Spam and junk email in Outlook.com</span></span>
+# <a name="spam-and-junk-email-in-outlookcom"></a><span data-ttu-id="13712-102">Posta indesiderata e messaggi indesiderati in Outlook.com</span><span class="sxs-lookup"><span data-stu-id="13712-102">Spam and junk email in Outlook.com</span></span>
 
-<span data-ttu-id="fe97c-103">Se si sta ottenendo troppa posta indesiderata o posta indesiderata, provare questi metodi:</span><span class="sxs-lookup"><span data-stu-id="fe97c-103">If you're getting too much junk or spam, try these methods:</span></span>
+<span data-ttu-id="13712-103">Se si sta ottenendo troppa posta indesiderata o posta indesiderata, provare questi metodi:</span><span class="sxs-lookup"><span data-stu-id="13712-103">If you're getting too much junk or spam, try these methods:</span></span>
 
-1. <span data-ttu-id="fe97c-104">**Contrassegnare un messaggio di posta elettronica come indesiderato**</span><span class="sxs-lookup"><span data-stu-id="fe97c-104">**Mark an email as junk**</span></span>
-    1. <span data-ttu-id="fe97c-105">Selezionare il messaggio.</span><span class="sxs-lookup"><span data-stu-id="fe97c-105">Select the message.</span></span>
-    1. <span data-ttu-id="fe97c-106">Selezionare posta indesiderata per spostare il messaggio nella cartella posta indesiderata.\*\*\*\* \*\*\*\* > </span><span class="sxs-lookup"><span data-stu-id="fe97c-106">Select **Junk** > **Junk** to move the message to your Junk Email folder.</span></span>
-    1. [<span data-ttu-id="fe97c-107">Ulteriori informazioni su come mantenere la posta indesiderata e l'indesiderata fuori dalla posta in arrivo.</span><span class="sxs-lookup"><span data-stu-id="fe97c-107">Learn more about how to help keep spam and junk email out of your inbox.</span></span>](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
+1. <span data-ttu-id="13712-104">**Contrassegnare un messaggio di posta elettronica come indesiderato**</span><span class="sxs-lookup"><span data-stu-id="13712-104">**Mark an email as junk**</span></span>
+    1. <span data-ttu-id="13712-105">Selezionare il messaggio.</span><span class="sxs-lookup"><span data-stu-id="13712-105">Select the message.</span></span>
+    1. <span data-ttu-id="13712-106"> > Selezionare **posta indesiderata**per spostare il messaggio nella cartella posta**indesiderata** .</span><span class="sxs-lookup"><span data-stu-id="13712-106">Select **Junk** > **Junk** to move the message to your Junk Email folder.</span></span>
+    1. [<span data-ttu-id="13712-107">Ulteriori informazioni su come mantenere la posta indesiderata e l'indesiderata fuori dalla posta in arrivo.</span><span class="sxs-lookup"><span data-stu-id="13712-107">Learn more about how to help keep spam and junk email out of your inbox.</span></span>](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-1. <span data-ttu-id="fe97c-108">**Blocca un mittente dalla posta in arrivo**</span><span class="sxs-lookup"><span data-stu-id="fe97c-108">**Block a sender from your inbox**</span></span>
-    1. <span data-ttu-id="fe97c-109">Selezionare il messaggio.</span><span class="sxs-lookup"><span data-stu-id="fe97c-109">Select the message.</span></span>
-    1. <span data-ttu-id="fe97c-110">Selezionare \*\*\*\* > \*\*\*\* > **OK**blocco indesiderato.</span><span class="sxs-lookup"><span data-stu-id="fe97c-110">Select **Junk** > **Block** > **OK**.</span></span>
-    1. [<span data-ttu-id="fe97c-111">Ulteriori informazioni su come bloccare o sbloccare i mittenti.</span><span class="sxs-lookup"><span data-stu-id="fe97c-111">Learn more about how to block or unblock senders.</span></span>](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+1. <span data-ttu-id="13712-108">**Blocca un mittente dalla posta in arrivo**</span><span class="sxs-lookup"><span data-stu-id="13712-108">**Block a sender from your inbox**</span></span>
+    1. <span data-ttu-id="13712-109">Selezionare il messaggio.</span><span class="sxs-lookup"><span data-stu-id="13712-109">Select the message.</span></span>
+    1. <span data-ttu-id="13712-110">Selezionare**OK\*\*\*\*blocco** >  **indesiderato** > .</span><span class="sxs-lookup"><span data-stu-id="13712-110">Select **Junk** > **Block** > **OK**.</span></span>
+    1. [<span data-ttu-id="13712-111">Ulteriori informazioni su come bloccare o sbloccare i mittenti.</span><span class="sxs-lookup"><span data-stu-id="13712-111">Learn more about how to block or unblock senders.</span></span>](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-1. <span data-ttu-id="fe97c-112">**Aggiungere un mittente all'elenco dei mittenti bloccati**</span><span class="sxs-lookup"><span data-stu-id="fe97c-112">**Add a sender to your blocked senders list**</span></span>
-    1. <span data-ttu-id="fe97c-113">Aprire le [impostazioni della posta](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2)indesiderata.</span><span class="sxs-lookup"><span data-stu-id="fe97c-113">Open your [Junk email settings](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).</span></span>
-    1. <span data-ttu-id="fe97c-114">In **mittenti e domini bloccati**selezionare **Aggiungi**.</span><span class="sxs-lookup"><span data-stu-id="fe97c-114">Under **Blocked senders and domains**, select **Add**.</span></span>
-    1. <span data-ttu-id="fe97c-115">Digitare l'indirizzo di posta elettronica o il dominio che si desidera bloccare e premere INVIO.</span><span class="sxs-lookup"><span data-stu-id="fe97c-115">Type the email address or domain you want to block and press Enter.</span></span>
-    1. <span data-ttu-id="fe97c-116">In **filtri**scegliere se si desidera considerare attendibili i messaggi di posta elettronica da indirizzi in mittenti attendibili e domini e liste di distribuzione sicure.</span><span class="sxs-lookup"><span data-stu-id="fe97c-116">Under **Filters**, choose if you want to trust email from addresses under Safe senders and domains and Safe mailing lists.</span></span>
-    1. <span data-ttu-id="fe97c-117">Selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="fe97c-117">Select **Save**.</span></span>
+1. <span data-ttu-id="13712-112">**Aggiungere un mittente all'elenco dei mittenti bloccati**</span><span class="sxs-lookup"><span data-stu-id="13712-112">**Add a sender to your blocked senders list**</span></span>
+    1. <span data-ttu-id="13712-113">Aprire le [impostazioni della posta indesiderata](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).</span><span class="sxs-lookup"><span data-stu-id="13712-113">Open your [Junk email settings](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).</span></span>
+    1. <span data-ttu-id="13712-114">In **mittenti e domini bloccati**selezionare **Aggiungi**.</span><span class="sxs-lookup"><span data-stu-id="13712-114">Under **Blocked senders and domains**, select **Add**.</span></span>
+    1. <span data-ttu-id="13712-115">Digitare l'indirizzo di posta elettronica o il dominio che si desidera bloccare e premere INVIO.</span><span class="sxs-lookup"><span data-stu-id="13712-115">Type the email address or domain you want to block and press Enter.</span></span>
+    1. <span data-ttu-id="13712-116">In **filtri**scegliere se si desidera considerare attendibili i messaggi di posta elettronica da indirizzi in mittenti attendibili e domini e liste di distribuzione sicure.</span><span class="sxs-lookup"><span data-stu-id="13712-116">Under **Filters**, choose if you want to trust email from addresses under Safe senders and domains and Safe mailing lists.</span></span>
+    1. <span data-ttu-id="13712-117">Selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="13712-117">Select **Save**.</span></span>
 
-1. <span data-ttu-id="fe97c-118">**Creare una regola di posta in arrivo**</span><span class="sxs-lookup"><span data-stu-id="fe97c-118">**Create an inbox rule**</span></span>
-    1. <span data-ttu-id="fe97c-119">Fare clic con il pulsante destro del mouse su un messaggio nell'elenco dei messaggi e scegliere **Crea regola**.</span><span class="sxs-lookup"><span data-stu-id="fe97c-119">Right-click a message in your message list and select **Create rule**.</span></span>
-    1. <span data-ttu-id="fe97c-120">Scegliere la cartella in cui si desidera spostare tutti i messaggi provenienti da tale mittente e quindi fare clic su **OK** > **OK**.</span><span class="sxs-lookup"><span data-stu-id="fe97c-120">Choose the folder where you want all messages from that sender to be moved, and select **OK** > **OK**.</span></span>
-    1. [<span data-ttu-id="fe97c-121">Per ulteriori informazioni sulle regole di posta in arrivo in Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="fe97c-121">Learn more about inbox rules in Outlook.com.</span></span>](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
+1. <span data-ttu-id="13712-118">**Creare una regola di posta in arrivo**</span><span class="sxs-lookup"><span data-stu-id="13712-118">**Create an inbox rule**</span></span>
+    1. <span data-ttu-id="13712-119">Fare clic con il pulsante destro del mouse su un messaggio nell'elenco dei messaggi e scegliere **Crea regola**.</span><span class="sxs-lookup"><span data-stu-id="13712-119">Right-click a message in your message list and select **Create rule**.</span></span>
+    1. <span data-ttu-id="13712-120">Scegliere la cartella in cui si desidera spostare tutti i messaggi provenienti da tale mittente e quindi fare clic su **OK** > **OK**.</span><span class="sxs-lookup"><span data-stu-id="13712-120">Choose the folder where you want all messages from that sender to be moved, and select **OK** > **OK**.</span></span>
+    1. [<span data-ttu-id="13712-121">Per ulteriori informazioni sulle regole di posta in arrivo in Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="13712-121">Learn more about inbox rules in Outlook.com.</span></span>](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
