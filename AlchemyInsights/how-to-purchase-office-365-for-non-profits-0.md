@@ -3,7 +3,7 @@ title: Come acquistare Office 365 per gli utenti non profit
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: c67d3804fa752975e428e01b4ad012479fff9375
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a529d4cb278c0c732a603acea11310e47f90ec57
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390084"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763617"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="24be9-102">Informazioni su come acquistare Office 365 per organizzazioni non profit</span><span class="sxs-lookup"><span data-stu-id="24be9-102">How to purchase Office 365 for Nonprofits</span></span>
+# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="7b3b0-102">Informazioni su come acquistare Office 365 per organizzazioni non profit</span><span class="sxs-lookup"><span data-stu-id="7b3b0-102">How to purchase Office 365 for Nonprofits</span></span>
 
-<span data-ttu-id="24be9-103">La richiesta è stata riesaminata e l'organizzazione non è idonea come organizzazione no profit Microsoft qualificata.</span><span class="sxs-lookup"><span data-stu-id="24be9-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
+<span data-ttu-id="7b3b0-103">La richiesta è stata riesaminata e l'organizzazione non è idonea come organizzazione no profit Microsoft qualificata.</span><span class="sxs-lookup"><span data-stu-id="7b3b0-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
   
-<span data-ttu-id="24be9-104">Per acquistare Office 365 commercialmente, vedere [offerte disponibili](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="24be9-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
+<span data-ttu-id="7b3b0-104">Per acquistare Office 365 commercialmente, vedere [offerte disponibili](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="7b3b0-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
