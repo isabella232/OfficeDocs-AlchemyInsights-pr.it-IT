@@ -2,7 +2,7 @@
 title: Migrazione di rete
 ms.author: pebaum
 author: pebaum
-ms.date: 7/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: aada8e90d168a4c621dd81ee8d306b934c20d119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734709"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761818"
 ---
 # <a name="network-migration"></a>Migrazione di rete
 
-È possibile che il tenant di O365 sia associato a più reti di Yammer in un 1 tenant: molte configurazioni della rete. A partire dal 16 ottobre 2018, Yammer non supporterà più reti Yammer associate a un tenant di Office 365. È possibile eseguire una migrazione di rete per accedere a una configurazione 1:1 preferita.
+È possibile che il tenant di O365 sia associato a più reti di Yammer in un 1 tenant: molte configurazioni della rete. A partire dal 16 ottobre 2018, Yammer non supporterà più reti Yammer associate a un tenant. È possibile eseguire una migrazione di rete per accedere a una configurazione 1:1 preferita.
   
-- Per visualizzare un elenco delle reti associate al tenant, eseguire l'accesso a Yammer come amministratore globale di Office 365 e passare all'amministratore di **rete**, quindi eseguire la **migrazione di rete**. Scegliere **Avanti**.
+- Per visualizzare un elenco delle reti associate al tenant, eseguire l'accesso a Yammer come amministratore globale e passare all'amministratore di **rete**, quindi eseguire la **migrazione di rete**. Scegliere **Avanti**.
 
 - Se vengono visualizzate più reti elencate nel passaggio 2 di 3, si dispone di più reti Yammer associate al tenant di O365.
 

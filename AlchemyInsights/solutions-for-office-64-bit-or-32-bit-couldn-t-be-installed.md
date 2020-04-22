@@ -3,7 +3,7 @@ title: Non è stato possibile installare soluzioni per ' Office (64 bit o 32 bit
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,12 +14,12 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: e32916d40a2cfebf71440573e5d35439ded26b5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cff7315b2a8967d99941c56ce0c62d025172895a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501218"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764193"
 ---
 # <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Non è stato possibile installare soluzioni per "Office (64 bit o 32 bit)
 
@@ -27,11 +27,11 @@ L'errore "Office (64 bit o 32 bit) non è stato installato" si verifica perché 
   
 Per correggere l'errore e passare da 32 bit a 64 bit, è necessario eseguire le operazioni seguenti nell'ordine indicato.
   
-1. Scaricare e installare l' [Assistente di supporto e ripristino](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+1. Scaricare e installare l'[Assistente supporto e ripristino](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
 1. Quando viene aperto, da **Disinstalla prodotti Office** selezionare la versione che si desidera disinstallare e selezionare **Avanti**.
 
-2. Continuare a passare attraverso schermate e riavviare il computer quando richiesto.
+2. Continuare a scorrere le schermate e riavviare il computer quando richiesto.
 
     Dopo aver riavviato, l'Assistente di supporto e ripristino viene riaperto automaticamente per completare il processo di disinstallazione.
 

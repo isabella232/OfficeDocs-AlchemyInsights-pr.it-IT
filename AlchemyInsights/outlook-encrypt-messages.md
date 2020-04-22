@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053229"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764876"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Crittografare i messaggi di posta elettronica in Outlook
 
-La crittografia dei messaggi di Office 365 è basata su Microsoft Azure Rights Management (Azure RMS), che fa parte di Azure Information Protection. Se l'abbonamento include Azure Rights Management o Azure Information Protection, **non è necessario eseguire alcuna azione per attivare o disattivare manualmente** il servizio Rights Management.
+La crittografia dei messaggi di Microsoft 365 è basata su Microsoft Azure Rights Management (Azure RMS), che fa parte di Azure Information Protection. Se l'abbonamento include Azure Rights Management o Azure Information Protection, **non è necessario eseguire alcuna azione per attivare o disattivare manualmente** il servizio Rights Management.
 
 In base al feedback dei clienti, non è più possibile abilitare le regole del flusso di posta di Exchange per crittografare automaticamente la posta elettronica in uscita contenente alcuni tipi di informazioni riservate nel tenant per impostazione predefinita. Al contrario, vengono fornite istruzioni dettagliate su come è possibile farlo da soli. Per ulteriori informazioni su come creare una regola di trasporto per crittografare le informazioni riservate, vedere [questo articolo](https://aka.ms/OmeEtr).
 
