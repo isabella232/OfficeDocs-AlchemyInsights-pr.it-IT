@@ -3,18 +3,18 @@ title: Aggiungere l'account di Outlook sul Web a Outlook per Windows
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: f745546c991bae52046014dff836aeb54c779db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ffcc8ba50b98b693b48e13bb398a44289de305f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510987"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743205"
 ---
 # <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Aggiungere l'account di Outlook sul Web a Outlook
 
@@ -26,4 +26,4 @@ Questi passaggi sono gli stessi che si desidera aggiungere il primo account di p
     - Per **outlook 2013** e **Outlook 2010**, immettere il proprio nome, l'indirizzo di posta elettronica e la password, quindi fare clic su **Avanti**.
 1. Se richiesto, immettere di nuovo la password e quindi fare clic su **OK** > **fine** per iniziare a usare l'account di posta elettronica in Outlook.
 
-Per ulteriori informazioni, vedere [aggiungere un account di posta elettronica a Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)
+Per ulteriori informazioni, vedere [aggiungere un account di posta elettronica a Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b).

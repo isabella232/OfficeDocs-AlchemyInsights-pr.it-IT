@@ -3,7 +3,7 @@ title: Come disconnettersi da Outlook sul Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 6eac1462c26c1889d2e91ce336c88de0d221124b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c850510881e16ceae5050bcbe06f6897b1e61dd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556677"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742953"
 ---
 # <a name="how-to-sign-out-of-outlook-on-the-web"></a>Come disconnettersi da Outlook sul Web
 
-Per disconnettersi da Outlook sul Web, seleziona il tuo nome o immagine nell'angolo in alto a destra e **** seleziona Disconnetti.
+Per disconnettersi da Outlook sul Web, seleziona il tuo nome o immagine nell'angolo in alto a destra e seleziona **Disconnetti**.
 
 Per interrompere l'accesso automatico all'account aziendale o dell'Istituto di istruzione:
 
-1. Seleziona il tuo nome o immagine e **** seleziona Disconnetti.
+1. Seleziona il tuo nome o immagine e seleziona **Disconnetti**.
 1. Andare a [Outlook.Office.com](https://outlook.office.com/) e selezionare **Usa un altro account**.
 1. Accedere con l'indirizzo di posta elettronica che si desidera utilizzare.
 

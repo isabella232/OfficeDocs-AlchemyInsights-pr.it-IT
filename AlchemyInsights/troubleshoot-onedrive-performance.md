@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 5416da63851de8b0b45e1d5c0cef24b03db40e6e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 197a84c5f69f9e58460925049345263743fe78ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054958"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733202"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>Risoluzione dei problemi relativi alle prestazioni di OneDrive
 
@@ -22,7 +22,7 @@ Se si verifica una sincronizzazione più lenta del previsto o problemi di presta
 
 - Verificare che non siano presenti problemi noti con il [dashboard di integrità dei servizi](https://portal.office.com/adminportal/home?ref=/servicehealth).
 
-- [Abilitare i file su richiesta](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-US&rs=en-US&ad=US) in modo che sia possibile accedere a tutti i file in OneDrive senza doverli scaricare tutti e utilizzare lo spazio di archiviazione nel dispositivo.
+- [Abilitare i file su richiesta](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) in modo che sia possibile accedere a tutti i file in OneDrive senza doverli scaricare tutti e utilizzare lo spazio di archiviazione nel dispositivo.
 
 - [Esaminare le procedure consigliate](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) per la pianificazione e le prestazioni di rete.
 

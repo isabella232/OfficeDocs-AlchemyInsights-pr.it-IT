@@ -3,25 +3,25 @@ title: Indirizzo di posta elettronica personalizzato di Outlook.com non è l'inv
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/2/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
-ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: a9a26ff709a1c55f65118346e4f51fd6ac873745
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36545875"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744959"
 ---
 # <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>L'indirizzo di posta elettronica personalizzato di Outlook.com non è l'invio o la ricezione
 
 Selezionare l'icona Diamond sulla barra degli strumenti per aprire il dashboard Premium.
 
-Se nella posta in arrivo non viene visualizzata un'icona con diamanti (e gli annunci sono visibili), significa che l'abbonamento a Office 365 è scaduto. Andare a [https://account.microsoft.com/services](https://account.microsoft.com/services) per riattivare l'abbonamento, quindi riconnettere il dominio usando la procedura descritta in "Introduzione".
+Se nella posta in arrivo non viene visualizzata un'icona con diamanti (e gli annunci sono visibili), significa che l'abbonamento a Microsoft 365 è scaduto. Andare a [https://account.microsoft.com/services](https://account.microsoft.com/services) per riattivare l'abbonamento, quindi riconnettere il dominio usando la procedura descritta in "Introduzione".
 
 Se la scheda "indirizzo di posta elettronica personalizzato" dispone di una barra di stato rossa, il dominio potrebbe essere scaduto.
 
-Per ulteriori informazioni sulla risoluzione dei problemi, vedere [indirizzi di posta elettronica personalizzati in Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Per ulteriori informazioni sulla risoluzione dei problemi, vedere [indirizzi di posta elettronica personalizzati in Microsoft 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).

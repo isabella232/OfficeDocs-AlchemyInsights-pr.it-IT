@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571214"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722814"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>Reindirizzato a approfondire dopo aver fatto clic su OneDrive
 
 Consultare la [Guida alla risoluzione dei problemi](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)dettagliata.
 
-Per risolvere il problema, l'amministratore di Office 365 deve concedere agli utenti il diritto di creare il sito personale. Ciò è dovuto al fatto che la pagina di OneDrive for business viene creata nei siti personali.
+Per risolvere il problema, l'amministratore deve concedere agli utenti il diritto di creare il sito di siti personali. Ciò è dovuto al fatto che la pagina di OneDrive for business viene creata nei siti personali.
 
 Per concedere questo diritto, eseguire la procedura seguente:
 

@@ -3,7 +3,7 @@ title: Disconnessione di Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 02e4c5478f5ca880ece6cd70b3385ca78c724f28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 82e1926e267bd821b3374765878e6c7ce1e36d69
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557788"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743529"
 ---
 # <a name="how-to-sign-out-of-outlookcom"></a>Come disconnettersi da Outlook.com
 
 1. Seleziona il tuo nome o immagine nell'angolo in alto a destra.
 
-    Se la foto non è visualizzata nella parte superiore dello schermo, controlla se è attivata la visualizzazione del blocco di Active Directory. A volte ciò impedisce la visualizzazione dell'immagine.
+    Se la foto non è visualizzata nella parte superiore dello schermo, controlla se è attivata la visualizzazione del blocco di Active Directory. In alcuni casi, il blocco impedisce la visualizzazione dell'immagine.
 
 2. Selezionare **Disconnetti**.
 
