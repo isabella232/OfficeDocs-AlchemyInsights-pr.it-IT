@@ -2,7 +2,7 @@
 title: Codice di errore 550 5.7.705 accesso negato, il tenant ha superato la soglia
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527223"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702994"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="7da31-102">550 5.7.705 accesso negato, il tenant ha superato la soglia</span><span class="sxs-lookup"><span data-stu-id="7da31-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="4b592-102">550 5.7.705 accesso negato, il tenant ha superato la soglia</span><span class="sxs-lookup"><span data-stu-id="4b592-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="7da31-103">Questo messaggio si verifica quando troppa posta indesiderata o messaggi in blocco sono stati inviati dall'organizzazione e viene posizionato un blocco sulla posta in uscita.</span><span class="sxs-lookup"><span data-stu-id="7da31-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="7da31-104">Le cause comuni sono i server locali compromessi o gli account di amministrazione compromessi che sono stati utilizzati per creare i connettori.</span><span class="sxs-lookup"><span data-stu-id="7da31-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="7da31-105">Entrambe le condizioni possono consentire alla posta indesiderata di passare attraverso la propria organizzazione.</span><span class="sxs-lookup"><span data-stu-id="7da31-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="4b592-103">Questo messaggio si verifica quando troppa posta indesiderata o messaggi in blocco sono stati inviati dall'organizzazione e viene posizionato un blocco sulla posta in uscita.</span><span class="sxs-lookup"><span data-stu-id="4b592-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="4b592-104">Le cause più comuni sono server locali compromessi o account amministratore compromessi usati per creare connettori.</span><span class="sxs-lookup"><span data-stu-id="4b592-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="4b592-105">Entrambe le condizioni consentono il transito di posta indesiderata attraverso l'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="4b592-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="7da31-106">Per rimuovere questo blocco, è necessario comprendere e spiegare la causa a un agente di supporto, nonché correggere il problema sottostante.</span><span class="sxs-lookup"><span data-stu-id="7da31-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="7da31-107">Fare clic su **Contattaci** in basso quando si è pronti.</span><span class="sxs-lookup"><span data-stu-id="7da31-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="4b592-106">Per rimuovere questo blocco, è necessario comprendere e spiegare la causa dell'errore a un operatore del supporto e correggere il problema sottostante.</span><span class="sxs-lookup"><span data-stu-id="4b592-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="4b592-107">Fare clic su **Contattaci** in basso quando si è pronti.</span><span class="sxs-lookup"><span data-stu-id="4b592-107">Click **Contact us** below once you're ready.</span></span>
