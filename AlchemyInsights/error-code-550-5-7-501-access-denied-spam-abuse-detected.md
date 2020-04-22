@@ -2,7 +2,7 @@
 title: Codice di errore 550 5.7.501 accesso negato, rilevato abuso di posta indesiderata
 ms.author: chrisda
 author: chrisda
-ms.date: 6/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7be23f02878d12aa08cb4970af6f99539a9cefab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740145"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703030"
 ---
 # <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 accesso negato, rilevato abuso di posta indesiderata
 
-Questo messaggio si verifica in genere quando gli utenti inviano messaggi di posta elettronica da indirizzi IP utilizzando il dominio iniziale *. onmicrosoft.com* assegnato ai nuovi tenant in Office 365. Il modo più semplice per risolvere il problema è:
+Questo messaggio si verifica in genere quando gli utenti inviano messaggi di posta elettronica da indirizzi IP utilizzando il dominio iniziale *. onmicrosoft.com* assegnato ai nuovi tenant in Microsoft 365. Il modo più semplice per risolvere il problema è:
 
 1. [Aggiungere un dominio al tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).
 
