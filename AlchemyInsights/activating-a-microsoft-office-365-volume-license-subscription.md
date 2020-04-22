@@ -1,9 +1,9 @@
 ---
-title: Attivazione di un abbonamento a contratti multilicenza di Microsoft Office 365
+title: Attivazione di un abbonamento a contratti multilicenza Microsoft
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661192"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708763"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Attivazione di un abbonamento a contratti multilicenza di Microsoft Office 365
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Attivazione di un abbonamento a contratti multilicenza Microsoft
 
-1. Accedere al [portale VLSC (Volume Licensing Service Center)](http://go.microsoft.com/fwlink/p/?LinkId=329762).
+1. Accedere al [portale VLSC (Volume Licensing Service Center)](https://go.microsoft.com/fwlink/p/?LinkId=329762).
 
-2. Passare all'abbonamento a Office 365 e scegliere **Activate**.
+2. Passare alla sottoscrizione e scegliere **attiva**.
 
 3. Verrà inviato un messaggio di posta elettronica al contatto dei servizi online (OLS).
 
-4. Il messaggio di posta elettronica di attivazione fornirà due opzioni: **Iscriviti**o **Accedi**. Se in precedenza è stata creata una versione di valutazione, scegliere **Accedi**. Se non si dispone ancora di un tenant di Office 365, scegliere **Iscriviti**.
+4. Il messaggio di posta elettronica di attivazione fornirà due opzioni: **Iscriviti**o **Accedi**. Se in precedenza è stata creata una versione di valutazione, scegliere **Accedi**. Se non si dispone ancora di un tenant Microsoft 365, scegliere **Iscriviti**.
 
-5. Accedere all'interfaccia di amministrazione di Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) utilizzando le credenziali di amministratore di Office 365 esistenti. Dopo aver effettuato l'accesso, si riceverà un altro messaggio di posta elettronica che conferma l'acquisto.
+5. Accedere all'interfaccia di amministrazione di Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) utilizzando le credenziali di amministratore esistenti. Dopo aver effettuato l'accesso, si riceverà un altro messaggio di posta elettronica che conferma l'acquisto.
 
-6. Dopo aver effettuato l'accesso, è possibile accedere alla pagina prodotti di **fatturazione** \> [& Servizi](https://go.microsoft.com/fwlink/p/?linkid=842054) per verificare che le sottoscrizioni di Office 365 acquistati siano attivate all'interno del tenant. È anche possibile scegliere la scheda **sottoscrizione** in VLSC per visualizzare i dettagli per verificare che l'abbonamento sia stato depositato.
+6. Dopo aver effettuato l'accesso, è possibile accedere alla pagina dei [servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** \> per verificare che le sottoscrizioni acquistate vengano attivate all'interno del tenant. È anche possibile scegliere la scheda **sottoscrizione** in VLSC per visualizzare i dettagli per verificare che l'abbonamento sia stato depositato.

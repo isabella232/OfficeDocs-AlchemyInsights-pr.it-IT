@@ -10,20 +10,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "325"
-- "150008"
+- "651"
+- "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 122103d86dd96696bc524c5791d739af016e8371
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664252"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709555"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Come assegnare una licenza a un utente
 
-Un utente ha bisogno di una licenza di Office 365 per accedere ai servizi. Di seguito sono riportati i passaggi per aggiungere, modificare o rimuovere una licenza da un utente.
+Un utente ha bisogno di una licenza per avere accesso ai servizi. Di seguito sono riportati i passaggi per aggiungere, modificare o rimuovere una licenza da un utente.
   
-1. Nell'interfaccia di amministrazione, andare alla **** \> pagina utenti [attivi](https://go.microsoft.com/fwlink/p/?linkid=834822) .
+1. Nell'interfaccia di amministrazione passare alla pagina **Utenti** \> [Utenti attivi](https://go.microsoft.com/fwlink/p/?linkid=834822).
 
 2. Selezionare il nome dell'utente a cui si desidera assegnare, modificare o rimuovere una licenza.
 

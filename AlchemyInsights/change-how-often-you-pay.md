@@ -3,7 +3,7 @@ title: Modificare la frequenza di pagamento
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,13 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43217868"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706831"
 ---
 # <a name="change-how-often-you-pay"></a>Modificare la frequenza di pagamento
 
-Quando si acquista un abbonamento, è possibile scegliere la fatturazione mensile o annuale. Per modificare la frequenza di fatturazione per un abbonamento, attenersi alla seguente procedura.
-
-1. Nell'interfaccia di amministrazione passare alla pagina **fatturazione> [prodotti & Servizi](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
-
-2. Individuare l'abbonamento che si desidera modificare. Nella sezione **fatturazione** fare clic su **modifica**accanto a **fatturati mensili** o **fatturati ogni anno**.
-
-3. Scegliere l'opzione per la frequenza con cui si desidera effettuare la fatturazione, quindi fare clic su **Cambia**.
+ **Si vuole cambiare la frequenza di pagamento?** Se si desidera modificare la frequenza con cui si paga l'abbonamento a Microsoft 365 for business, sia da annuale a mensile che da mensile a annuale, è possibile aiutarla in questo modo. Sarà necessario acquistare lo stesso abbonamento con la nuova frequenza di pagamento e annullare il vecchio abbonamento. Utilizzare l'opzione "Let us Call You" per contattare un tecnico del supporto.

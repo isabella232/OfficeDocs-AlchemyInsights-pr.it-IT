@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737121"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708359"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Passaggi per la risoluzione dei problemi di Outlook crash
+# <a name="outlook-crash-troubleshooting-steps"></a>Procedure per la risoluzione di arresti anomali di Outlook
 
-Se si verificano problemi di arresto anomalo del desktop di Outlook, iniziare seguendo i tre passaggi riportati di seguito, elencati in dettaglio in questo articolo: informazioni [su come risolvere i problemi che causano l'arresto anomalo di Outlook o la risposta quando vengono utilizzati con Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Se si verificano problemi di arresto anomalo del desktop di Outlook, iniziare seguendo i tre passaggi riportati di seguito, elencati in dettaglio in questo articolo: informazioni [su come risolvere i problemi che causano l'arresto anomalo di Outlook o l'interruzione della risposta.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 Passaggio 1: analisi dei possibili problemi con i componenti aggiuntivi.
   
@@ -30,5 +30,5 @@ Passaggio 2: ripristinare Outlook ed eseguire lo [strumento Assistente supporto 
   
 Passaggio 3: creare un nuovo profilo di Outlook o eseguire lo [strumento profilo di Outlook](https://aka.ms/SaRA-OutlookSetupProfile) nel computer in questione.
   
-Se il problema si è verificato dopo un aggiornamento e i passaggi precedenti non funzionano, potrebbe essere necessario ripristinare una compilazione precedente. Vedere [come ripristinare una versione precedente di Office 2016](https://support.microsoft.com/help/2770432)a portata di clic.
+Se il problema si è verificato dopo un aggiornamento e la procedura illustrata non funziona, potrebbe essere necessario ripristinare una build precedente. Vedere [come ripristinare una versione precedente di Office 2016](https://support.microsoft.com/help/2770432)a portata di clic.
   

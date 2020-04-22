@@ -3,7 +3,7 @@ title: Come si passa dai pagamenti con carta di credito alla fattura?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: fc469365c988c6c4fb754a2a0b85374a9d1ccd27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7269a60e2802d5ae884a918641873b71b1ad6fa3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523119"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710015"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Come si passa dai pagamenti con carta di credito alla fattura?
 
 > [!NOTE]
-> La modalità di pagamento tramite fattura è disponibile solo per gli abbonamenti a Office 365 superiori a un determinato importo, che varia in base all'area geografica. Per il pagamento di fatture di importo più elevato potrebbe essere richiesta una verifica del credito. Per altre informazioni, vedere [Pagare l'abbonamento a Office 365 per le aziende](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
+> L'opzione di pagamento tramite fattura è disponibile solo se la sottoscrizione costa un determinato importo, che varia in base alla posizione del servizio. Per il pagamento di fatture di importo più elevato potrebbe essere richiesta una verifica del credito. Per ulteriori informazioni, vedere [pay for your Subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
   
-1. Nell'interfaccia di amministrazione, accedere alla pagina dei [servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** \> .
+1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [Prodotti e servizi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Selezionare l'abbonamento che si desidera modificare. Nella sezione **fatturazione** selezionare l'opzione **modifica** per il metodo di pagamento corrente.
+2. Selezionare l'abbonamento che si vuole cambiare. Nella sezione **fatturazione** selezionare l'opzione **modifica** per il metodo di pagamento corrente.
 
 3. Nella casella **cambia la modalità di pagamento per la sottoscrizione** , selezionare **Cambia**, scegliere o aggiungere un metodo di pagamento diverso, quindi selezionare **Salva**.
 
