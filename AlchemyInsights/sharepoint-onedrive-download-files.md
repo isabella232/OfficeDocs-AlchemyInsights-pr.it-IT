@@ -3,7 +3,7 @@ title: Scaricare o impedire il download di file da OneDrive o SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 3a71734876cd3563ff4284b8389db53cdef24c56
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 89276c911dcfb4e26dce21f3328de0ed0e6dc2ca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051357"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43693021"
 ---
-# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a><span data-ttu-id="f8774-102">Scaricare o impedire il download di file da OneDrive o SharePoint</span><span class="sxs-lookup"><span data-stu-id="f8774-102">Download or Prevent Download of files from OneDrive or SharePoint</span></span>
+# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a><span data-ttu-id="2dcb1-102">Scaricare o impedire il download di file da OneDrive o SharePoint</span><span class="sxs-lookup"><span data-stu-id="2dcb1-102">Download or Prevent Download of files from OneDrive or SharePoint</span></span>
 
-<span data-ttu-id="f8774-103">È possibile scaricare file e cartelle da OneDrive o da SharePoint Online al computer con pochi clic.</span><span class="sxs-lookup"><span data-stu-id="f8774-103">You can download files and folders from OneDrive, or from SharePoint Online to your computer with just a few clicks.</span></span> <span data-ttu-id="f8774-104">Per ulteriori informazioni sul download di file, velocità e limitazione dei download, visitare i collegamenti riportati di seguito.</span><span class="sxs-lookup"><span data-stu-id="f8774-104">For more information on downloading files, speeds and limiting downloads please visit the links below.</span></span>
+<span data-ttu-id="2dcb1-103">È possibile scaricare file e cartelle da OneDrive o da SharePoint Online al computer con pochi clic.</span><span class="sxs-lookup"><span data-stu-id="2dcb1-103">You can download files and folders from OneDrive, or from SharePoint Online to your computer with just a few clicks.</span></span> <span data-ttu-id="2dcb1-104">Per ulteriori informazioni sul download di file, velocità e limitazione dei download, visitare i collegamenti riportati di seguito.</span><span class="sxs-lookup"><span data-stu-id="2dcb1-104">For more information on downloading files, speeds and limiting downloads please visit the links below.</span></span>
 
-- [<span data-ttu-id="f8774-105">Scaricare file e cartelle da OneDrive o SharePoint</span><span class="sxs-lookup"><span data-stu-id="f8774-105">Download files and folders from OneDrive or SharePoint</span></span>](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
-- [<span data-ttu-id="f8774-106">Blocca il download dei file con l'accesso condizionale di Azure AD</span><span class="sxs-lookup"><span data-stu-id="f8774-106">Block File download with Azure AD conditional access</span></span>](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [<span data-ttu-id="2dcb1-105">Scaricare file e cartelle da OneDrive o SharePoint</span><span class="sxs-lookup"><span data-stu-id="2dcb1-105">Download files and folders from OneDrive or SharePoint</span></span>](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+- [<span data-ttu-id="2dcb1-106">Blocca il download dei file con l'accesso condizionale di Azure AD</span><span class="sxs-lookup"><span data-stu-id="2dcb1-106">Block File download with Azure AD conditional access</span></span>](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
 
-- [<span data-ttu-id="f8774-107">Massimizzare la velocità di caricamento e download</span><span class="sxs-lookup"><span data-stu-id="f8774-107">Maximize upload and download speed</span></span>](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [<span data-ttu-id="2dcb1-107">Massimizzare la velocità di caricamento e download</span><span class="sxs-lookup"><span data-stu-id="2dcb1-107">Maximize upload and download speed</span></span>](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
 
-- [<span data-ttu-id="f8774-108">Risolvere i problemi di sincronizzazione di OneDrive</span><span class="sxs-lookup"><span data-stu-id="f8774-108">Fix OneDrive Sync Problems</span></span>](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [<span data-ttu-id="2dcb1-108">Risolvere i problemi di sincronizzazione di OneDrive</span><span class="sxs-lookup"><span data-stu-id="2dcb1-108">Fix OneDrive Sync Problems</span></span>](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [<span data-ttu-id="f8774-109">Scaricare OneDrive for business</span><span class="sxs-lookup"><span data-stu-id="f8774-109">Download OneDrive for Business</span></span>](https://onedrive.live.com/about/download/)
+- [<span data-ttu-id="2dcb1-109">Scaricare OneDrive for business</span><span class="sxs-lookup"><span data-stu-id="2dcb1-109">Download OneDrive for Business</span></span>](https://onedrive.live.com/about/download/)
 
