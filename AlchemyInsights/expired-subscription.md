@@ -3,7 +3,7 @@ title: Sottoscrizione scaduta
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665044"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714154"
 ---
 # <a name="expired-subscription"></a>Sottoscrizione scaduta
 
@@ -26,19 +26,19 @@ Sembra che si disponga di una o più sottoscrizioni scadute. Se si desidera cont
   
 **Riattivare**
   
-1. Nell'interfaccia di amministrazione, accedere alla pagina dei [servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** \> .
+1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [Prodotti e servizi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Individuare la sottoscrizione che si desidera riattivare. Nella sezione **fatturazione** scegliere Riattiva ****.
+2. Trovare l'abbonamento da riattivare. Nella sezione **Fatturazione**, scegliere**Riattiva**.
 
-Se non si visualizza **** riattivazione come azione disponibile, contattare il supporto per riattivare l'abbonamento.
+Se l'opzione **Riattiva** non è disponibile, contattare il supporto per riattivare l'abbonamento.
 
-3. Confermare i dettagli del pagamento. È possibile aggiornare le attuali informazioni sul pagamento. Al termine dell'immissione del metodo di pagamento, scegliere **riattiva**.
+3. Confermare i dettagli sul pagamento. È possibile aggiornare le attuali informazioni sul pagamento. Dopo aver immesso la modalità di pagamento, scegliere **Riattiva**.
 
-Per ulteriori informazioni, vedere [riattivare l'abbonamento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Per altre informazioni, vedere [Riattiva l'abbonamento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Effettuare un nuovo acquisto**
   
-1. Nell'interfaccia di amministrazione, andare alla pagina **** \> [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) per la fatturazione.
+1. Nell'interfaccia di amministrazione, andare alla pagina **Billing** \> [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) per la fatturazione.
 
 2. Scegliere l'abbonamento che si vuole acquistare e quindi scegliere **Acquista**.
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053481"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713290"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Strumento di ricerca contenuto per trovare informazioni rilevanti
 
@@ -26,6 +26,6 @@ Prima di utilizzare la [Ricerca contenuto](https://sip.protection.office.com/con
 
 Per ulteriori informazioni sulla ricerca di contenuto, vedere i [requisiti e i limiti](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [esaminare gli elementi parzialmente indicizzati](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) e gli altri risultati da tenere presenti.
 
-Dopo aver esaminato le impostazioni di configurazione e le restrizioni relative alla ricerca di contenuto, fare riferimento a [utilizzo della ricerca</a> contenuto per cercare gli elementi sul posto, ad esempio messaggi di posta elettronica, documenti e conversazioni di messaggistica istantanea nell'organizzazione di Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Dopo aver esaminato le impostazioni di configurazione e le restrizioni relative alla ricerca di contenuto, fare riferimento a [utilizzo della ricerca</a> contenuto per cercare gli elementi sul posto, ad esempio messaggi di posta elettronica, documenti e conversazioni di messaggistica istantanea nell'organizzazione](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 Per una procedura dettagliata di ricerca di contenuto, vedere [Search for content in Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) per ulteriori informazioni.

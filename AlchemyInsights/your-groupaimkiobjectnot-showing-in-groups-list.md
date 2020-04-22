@@ -2,18 +2,18 @@
 title: Il gruppo non viene visualizzato nell'elenco gruppi
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/8/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 1708cc461888d903531422f9d272db12e8dd142f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75d411dd42d1abd8784695c0d1a9a16718fe6838
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530809"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715816"
 ---
 # <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Il gruppo "{AimKIObject}" non viene visualizzato nell'elenco gruppi
 

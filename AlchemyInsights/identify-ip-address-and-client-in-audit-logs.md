@@ -3,7 +3,7 @@ title: Identificare l'indirizzo IP e il client nei registri di controllo
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539033"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716392"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificare l'indirizzo IP e il client nei registri di controllo
 
-L'indirizzo IP che corrisponde a un'attività di un utente o di un amministratore di Office 365 è visualizzato nei registri di controllo. Vengono inoltre registrate le informazioni sul client. Di seguito vengono illustrati i passaggi per identificare tali informazioni
+L'indirizzo IP che corrisponde a un'attività di un utente o di un amministratore di Microsoft 365 viene visualizzato nei registri di controllo. Vengono inoltre registrate le informazioni sul client. Di seguito vengono illustrati i passaggi per identificare tali informazioni
 
-1. Accedere al [Centro sicurezza & conformità di Office 365](https://protection.office.com/).
+1. Accedere al [Centro sicurezza & conformità di Microsoft 365](https://protection.office.com/).
 
 2. Passare alla pagina di**ricerca del registro di controllo** della **ricerca** > .
 

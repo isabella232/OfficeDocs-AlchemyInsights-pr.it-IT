@@ -1,5 +1,5 @@
 ---
-title: Acquistare un abbonamento a Office 365 for business
+title: Acquistare un abbonamento a Microsoft 365 for business dalla versione di valutazione gratuita
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218185"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712211"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>Acquistare un abbonamento a Office 365 for business
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Acquistare un abbonamento a Microsoft 365 dalla versione di valutazione gratuita
 
-Dopo aver provato Office 365, si è pronti per l'acquisto. Sono disponibili due opzioni per l'acquisto di Office 365 dalla versione di valutazione:
+Si è tentato Microsoft 365 e ora si è pronti per l'acquisto. Sono disponibili due opzioni per l'acquisto di Microsoft 365 dalla versione di valutazione:
   
  **Acquistare lo stesso piano della versione di valutazione**
   
@@ -35,7 +35,7 @@ Dopo aver provato Office 365, si è pronti per l'acquisto. Sono disponibili due 
 
 3. Individuare l'abbonamento che si desidera acquistare, selezionare **Acquista**e seguire i passaggi da eseguire.
 
-Per ulteriori informazioni, vedere [acquistare un abbonamento a Office 365 for business dalla versione di valutazione gratuita](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Per ulteriori informazioni, vedere [acquistare un abbonamento a Microsoft 365 for business dalla versione di valutazione gratuita](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
 
 **Risoluzione dei problemi**
 

@@ -12,16 +12,16 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664720"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712175"
 ---
-# <a name="buy-additional-office-365-licenses"></a>Acquistare altre licenze di Office 365
+# <a name="buy-additional-licenses"></a>Acquistare licenze aggiuntive
 
-1. Nell'interfaccia di amministrazione, accedere alla pagina dei [servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** \> .
+1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [Prodotti e servizi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Individuare l'abbonamento a cui si desidera aggiungere licenze, quindi selezionare **Aggiungi/Rimuovi licenze**.
 
@@ -32,8 +32,8 @@ ms.locfileid: "36664720"
     > [!NOTE]
     > Se il pagamento dell'abbonamento viene effettuato con carta di credito o conto corrente bancario, le nuove licenze acquistate sono disponibili subito dopo la ricezione della conferma dell'ordine. Se si sceglie il pagamento con fattura, potrebbe essere necessario attendere la verifica del credito prima che le nuove licenze siano disponibili.
 
-Per ulteriori informazioni, vedere [acquistare licenze per l'abbonamento a Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Per ulteriori informazioni, vedere [acquistare licenze per l'abbonamento a Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
 
 **Risorse aggiuntive**
 
-- [Assegnare licenze agli utenti in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Assegnare licenze agli utenti in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)

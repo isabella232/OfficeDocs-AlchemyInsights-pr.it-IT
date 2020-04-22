@@ -3,7 +3,7 @@ title: Identificare gli eventi di eliminazione dei messaggi nei registri di cont
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b358b7944b82182a8551d64701e6879a01816524
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539213"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716500"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Registri di controllo per i messaggi di posta elettronica eliminati
 
 A partire da gennaio 2019, Microsoft sta attivando la registrazione di controllo delle cassette postali per impostazione predefinita. In caso contrario, per esaminare eliminare gli eventi dei messaggi per un utente specifico, è necessario abilitare manualmente le azioni di eliminazione per il controllo. Se la registrazione di controllo delle cassette postali è già abilitata per l'organizzazione o per l'utente specifico, attenersi alla procedura seguente.
 
-1. Accedere al [Centro sicurezza & conformità di Office 365](https://protection.office.com/)
+1. Accedere al [Centro sicurezza e conformità & Microsoft 365](https://protection.office.com/)
 
 2. Fare clic su **ricerca e analisi** e selezionare **Ricerca log di controllo**.
 

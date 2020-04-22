@@ -3,7 +3,6 @@ title: Creazione di cartelle pubbliche
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +11,20 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631810"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715364"
 ---
 # <a name="creating-public-folders"></a>Creazione di cartelle pubbliche
 
-Prima che gli utenti possano utilizzare le cartelle pubbliche in Office 365, sarà necessario creare almeno una cassetta postale di cartelle pubbliche. Per creare:
+Prima che gli utenti possano utilizzare le cartelle pubbliche, è necessario creare almeno una cassetta postale di cartelle pubbliche. Per creare:
   
 1. Nell'interfaccia di amministrazione di Microsoft 365 accedere a interfaccia di **Amministrazione** \> di **Exchange**.
 
-2. Passare alle **** \> **cassette postali**delle cartelle pubbliche e quindi fare clic su **Aggiungi**.
+2. Passare alle **Public folders** \> **cassette postali**delle cartelle pubbliche e quindi fare clic su **Aggiungi**.
 
 3. Nella pagina **Cassetta postale delle cartelle pubbliche**, specificare un nome per la cassetta postale delle cartelle pubbliche.
 

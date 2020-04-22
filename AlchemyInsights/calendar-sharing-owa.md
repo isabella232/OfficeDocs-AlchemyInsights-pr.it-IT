@@ -12,16 +12,16 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c0e444f0e87748aff172d3070c25e0ed02682b0a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665620"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711995"
 ---
 # <a name="isues-with-calendar-sharing-in-outlook"></a>Argomenti con condivisione del calendario in Outlook
 
-- Se le informazioni sulla disponibilità del calendario non vengono visualizzate in altri calendari o se altre persone non riescono a visualizzare le informazioni sulla disponibilità nel proprio calendario, usare l'[Assistente supporto e ripristino per Office 365 di Microsoft](https://diagnostics.office.com/).
+- Se non è possibile visualizzare le informazioni sulla disponibilità del calendario in altri calendari o se altre persone non sono in grado di visualizzare le informazioni sulla disponibilità nel calendario, utilizzare l' [Assistente di supporto e ripristino di Microsoft per microsoft 365](https://diagnostics.office.com/).
 
 **Risorse aggiuntive:**
 

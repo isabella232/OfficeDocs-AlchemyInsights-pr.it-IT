@@ -12,18 +12,18 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068309"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714046"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Cambiare piano per aumentare le dimensioni della cassetta postale
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Cambiare le sottoscrizioni per aumentare le dimensioni delle cassette postali
 
-Se la dimensione della cassetta postale di Office 365 è già 100 GB, non esiste alcun modo per aumentarla.
+Se la dimensione della cassetta postale è già 100 GB, non esiste alcun modo per aumentarla.
   
-Se la dimensione della cassetta postale è di 50 GB, è possibile aumentarla fino a 100 GB passando a [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) o [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Ecco la procedura da eseguire per passare a un altro piano di Office 365:
+Se la dimensione della cassetta postale è di 50 GB, è possibile aumentarla fino a 100 GB passando a [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) o [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Di seguito sono riportati i passaggi per passare a un abbonamento diverso:
   
 1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina dei [servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** \> .
 
@@ -37,4 +37,4 @@ Se la dimensione della cassetta postale è di 50 GB, è possibile aumentarla fin
 
 Per ulteriori informazioni, vedere [aggiornamento a un piano diverso](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
 
-Se si dispone di un [piano di Office 365 che supporta un archivio sul posto](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), è anche possibile ottenere ulteriore spazio di archiviazione della posta elettronica abilitando una cassetta postale di archiviazione. Una cassetta postale di archiviazione offre ulteriore spazio di archiviazione e consente di spostare, copiare e cercare i messaggi sia nella cassetta postale principale che in quella di archiviazione. Per istruzioni su come abilitare una cassetta postale di archiviazione, vedere [abilitare una cassetta postale di archiviazione](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Se si dispone di un [abbonamento che supporta un archivio sul posto](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), è anche possibile ottenere ulteriore spazio di archiviazione della posta elettronica abilitando una cassetta postale di archiviazione. Una cassetta postale di archiviazione offre ulteriore spazio di archiviazione e consente di spostare, copiare e cercare i messaggi sia nella cassetta postale principale che in quella di archiviazione. Per istruzioni su come abilitare una cassetta postale di archiviazione, vedere [abilitare una cassetta postale di archiviazione](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

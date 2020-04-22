@@ -3,19 +3,19 @@ title: ATP per SharePoint, OneDrive e Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: b304f6c7d9959e49a8152c03f11c6c864a154ea5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 28046c61e1aedbb2c07cca3fc01b118d0dc3c143
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765168"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712462"
 ---
 # <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP per SharePoint, OneDrive e Microsoft Teams
 
@@ -23,7 +23,7 @@ Seguire questa procedura per abilitare Advanced Threat Protection:
 
 1. Accedere a [https://protection.office.com](https://protection.office.com) e accedere con un account di amministratore globale o amministratore di sicurezza.
 
-2. Nel riquadro di spostamento a sinistra in **gestione minacce**scegliere **** \> **allegati sicuri**per i criteri.
+2. Nel riquadro di spostamento a sinistra in **gestione minacce**scegliere **Policy** \> **allegati sicuri**per i criteri.
 
 3. Selezionare **attiva ATP per SharePoint, OneDrive e Microsoft teams**.
 
