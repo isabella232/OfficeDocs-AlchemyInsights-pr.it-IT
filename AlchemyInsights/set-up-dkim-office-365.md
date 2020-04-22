@@ -1,5 +1,5 @@
 ---
-title: Setup DKIM in Office 365
+title: Setup DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666268"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645676"
 ---
-# <a name="setup-dkim-in-office-365"></a>Setup DKIM in Office 365
+# <a name="setup-dkim"></a>Setup DKIM
 
-Di [seguito](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)sono riportate le istruzioni complete per la configurazione di DKIM per i domini personalizzati in Office 365.
+Di [seguito](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)sono riportate le istruzioni complete per la configurazione di DKIM per i domini personalizzati in Microsoft 365.
 
 1. Per **ogni** dominio personalizzato, è necessario creare **due** record CNAME di DKIM nel servizio di hosting DNS del dominio (in genere, il registrar). Ad esempio, contoso.com e fourthcoffee.com richiedono quattro record CNAME di DKIM: due per contoso.com e due per fourthcoffee.com.
 
@@ -36,11 +36,11 @@ Di [seguito](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to
 
      **TTL**: 3600
 
-   \<DomainGUID\> è il testo a sinistra del `.mail.protection.outlook.com` record MX personalizzato per il dominio personalizzato, `contoso-com` ad esempio per il dominio contoso.com. \<InitialDomain\> è il dominio utilizzato per l'accesso a Office 365 (ad esempio, contoso.onmicrosoft.com).
+   \<DomainGUID\> è il testo a sinistra del `.mail.protection.outlook.com` record MX personalizzato per il dominio personalizzato, `contoso-com` ad esempio per il dominio contoso.com. \<InitialDomain\> è il dominio utilizzato per l'accesso a Microsoft 365 (ad esempio, contoso.onmicrosoft.com).
 
 2. Dopo aver creato i record CNAME per i domini personalizzati, completare le seguenti istruzioni:
 
-   un. [Accedere a Office 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) con il proprio account aziendale o dell'istituto di istruzione.
+   a. [accedere a Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) con l'account aziendale o dell'Istituto di istruzione.
 
    b. Selezionare l'icona di avvio delle app in alto a sinistra e scegliere **Amministratore**.
 

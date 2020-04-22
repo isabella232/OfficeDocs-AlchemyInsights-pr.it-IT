@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661300"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687622"
 ---
-# <a name="office-365-alert-policies"></a>Criteri di avviso di Office 365
+# <a name="alert-policies"></a>Criteri di avviso
 
-Il Centro sicurezza & conformità di Office 365 offre [criteri di avviso predefiniti](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) che attivano gli avvisi per le organizzazioni che dispongono di un abbonamento a Office 365 Enterprise o Office 365 US Government E1/G1, E3/G3 o E5/G5. Gli amministratori possono pertanto ricevere una notifica di posta elettronica di avviso inviata da Office365Alerts@microsoft.com con una riga dell'oggetto, ad esempio "un avviso A bassa severità: *nome dei criteri di avviso*". Le notifiche di avviso vengono inviate quando vengono attivati gli avvisi per le attività comuni, ad esempio quando gli utenti:
+Microsoft 365 Security & Compliance Center offre [criteri di avviso predefiniti](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) che attivano gli avvisi per le organizzazioni che dispongono di un abbonamento a Office 365 Enterprise o Office 365 US Government E1/G1, E3/G3 o E5/G5. Gli amministratori possono pertanto ricevere una notifica di posta elettronica di avviso inviata da Office365Alerts@microsoft.com con una riga dell'oggetto, ad esempio "un avviso A bassa severità: *nome dei criteri di avviso*". Le notifiche di avviso vengono inviate quando vengono attivati gli avvisi per le attività comuni, ad esempio quando gli utenti:
 
 - Creare regole di posta in arrivo che inoltrano posta elettronica.
 - Assegnare le autorizzazioni alla propria cassetta postale.

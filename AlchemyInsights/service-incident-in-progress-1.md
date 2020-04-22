@@ -2,7 +2,7 @@
 title: Incidente di servizio in corso
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
 ms.custom:
 - "121"
 - "1600017"
-ms.openlocfilehash: 60f3f1519a35be77dcb6c31bd2d2f3aa4c2949f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5dd353c68aeda88c9adf3264eecc40f8e84a1f3f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550591"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681792"
 ---
 # <a name="service-incident-in-progress"></a>Incidente di servizio in corso
 
@@ -24,6 +24,6 @@ Potrebbe essere influenzato da un incidente di servizio o da una consulenza attu
   
 Per comodità, è possibile trovare un riepilogo di questo incidente di seguito:
   
-> **Numero incidente:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Numero incidente:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Descrizione dell'impatto: {ImpactDescription}

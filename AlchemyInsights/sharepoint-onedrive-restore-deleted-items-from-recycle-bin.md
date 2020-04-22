@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 0987be6bed4bdc98d6f0162d333c2797fda6b559
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053841"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692841"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Risoluzione dei problemi relativi a file o cartelle mancanti in OneDrive o SharePoint
 
@@ -25,17 +25,17 @@ ms.locfileid: "40053841"
 
 
 
-**Caratteristica di ripristino dei file**
+**Funzionalità Ripristino di file**
 
 Se un numero elevato di file di OneDrive o di SharePoint vengono eliminati, sovrascritti, danneggiati o infettati da malware, è possibile ripristinare l'intera raccolta di OneDrive o di SharePoint in un momento precedente utilizzando la caratteristica di ripristino dei file.
 
-- [Ripristinare una raccolta OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+- [Ripristinare una raccolta di OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
 - [Ripristinare una raccolta documenti](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
 **Utilizzare la registrazione di controllo o il riquadro attività file per controllare la cronologia del file**
 
-[Controllare i rapporti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) </a> di controllo esplorando [qui](https://protection.office.com/#/unifiedauditlog)
+[Controllare i rapporti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a> di controllo esplorando [qui](https://protection.office.com/#/unifiedauditlog)
 
 Utilizzare il riquadro [attività file](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) per controllare la cronologia del file.
 
