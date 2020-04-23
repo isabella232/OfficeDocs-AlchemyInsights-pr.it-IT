@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: ed6981629941e2f2ecc348effe98eaa6388a14d8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278931"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758794"
 ---
 # <a name="products--services"></a>Servizi & prodotti
 
@@ -24,7 +24,7 @@ ms.locfileid: "42278931"
 
 1. Gestire il numero di licenze acquistate per ogni sottoscrizione insieme a quante sono in uso.  **Nota**: le licenze che non sono in uso (non assegnate a un utente) sono ancora cariche.  Per non essere addebitato per le licenze inutilizzate, ridurre il numero di licenze acquistate. Per informazioni su come aggiungere o rimuovere licenze da un abbonamento, vedere [come aggiungere o ridurre le licenze](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
-2. Visualizzare la data di rinnovo o di scadenza dell'abbonamento.  È possibile gestire il rinnovo facendo clic sul collegamento **modifica** accanto a **rinotizie/scadenza** per data.  Per altre informazioni su come gestire la fatturazione ricorrente, vedere [renew Office 365 for business](https://go.microsoft.com/fwlink/?linkid=2119216) .
+2. Visualizzare la data di rinnovo o di scadenza dell'abbonamento.  È possibile gestire il rinnovo facendo clic sul collegamento **modifica** accanto a **rinotizie/scadenza** per data.  Per altre informazioni su come gestire la fatturazione ricorrente, vedere [renew Microsoft 365 for business](https://go.microsoft.com/fwlink/?linkid=2119216) .
 
 3. [Riattivare un abbonamento scaduto o disabilitato](https://go.microsoft.com/fwlink/?linkid=2117519).
 

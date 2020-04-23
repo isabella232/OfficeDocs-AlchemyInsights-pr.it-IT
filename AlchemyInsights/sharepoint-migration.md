@@ -3,27 +3,27 @@ title: Eseguire la migrazione delle opzioni a SharePoint Online
 ms.author: pebaum
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 606cfb41a3a79ed8637e5f702471c2cbbb9f6def
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: fed306790f74fce7c0b5a97b3609af5a90f16bf0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552748"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758317"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Eseguire la migrazione delle opzioni a SharePoint Online
 
-Sono disponibili diverse opzioni per la migrazione del contenuto a SharePoint Online, in base alle dimensioni e alla quantità di file che è necessario spostare, vedere un elenco di opzioni che si [trovano qui](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
+Sono disponibili diverse opzioni per la migrazione di contenuto in SharePoint Online, a seconda delle dimensioni e della quantità dei file che è necessario spostare; vedere l'elenco di opzioni [disponibili qui](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-Per ulteriori informazioni sulla migrazione del contenuto, visitare i collegamenti riportati di seguito.
+Per altre informazioni sulla migrazione di contenuto, visitare i collegamenti seguenti.
 
-- [Strumento di migrazione di SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [Strumento di migrazione di Sharepoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
 - [Introduzione a Gestione migrazione](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 

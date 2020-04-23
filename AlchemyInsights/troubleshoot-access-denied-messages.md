@@ -2,18 +2,18 @@
 title: Risoluzione dei problemi relativi ai messaggi di accesso negato
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 05d12aee49b449e8a29e84021b41298fb9983859
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1930edcfd14acc48ea77b66e2793654a3e6332cc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050709"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759804"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Risoluzione dei problemi relativi ai messaggi di accesso negato
 
@@ -29,6 +29,6 @@ Se il sito è un sito di pubblicazione, è possibile che si verifichi un messagg
   
 Se un utente ha ricevuto un messaggio di accesso negato quando si tenta di visualizzare le richieste di accesso, è necessario aggiungerlo come amministratore della raccolta siti o come membro del gruppo proprietari per il sito. Per altre informazioni, vedere [Access denied to Access requests list](https://go.microsoft.com/fwlink/?linkid=2004220).
   
-Se un utente ha ricevuto un messaggio di accesso negato dopo che è stato rimosso da Active Directory locale e quindi è stato aggiunto indietro, vedere [accesso negato quando un account utente viene sincronizzato con Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).
+Se un utente ha ricevuto un messaggio di accesso negato dopo che è stato rimosso da Active Directory locale e quindi è stato aggiunto indietro, vedere [accesso negato quando un account utente viene sincronizzato con Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2004318).
   
 

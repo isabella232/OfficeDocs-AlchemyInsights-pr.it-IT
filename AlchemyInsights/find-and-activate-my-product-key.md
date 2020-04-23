@@ -11,26 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 8b661671afe9fa670decce63b9eb030b35cf072d
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417711"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716140"
 ---
 # <a name="find-and-activate-my-product-key"></a>Individuare e attivare il codice Product Key
 
-Se si è acquistato Office 365 for business tramite un [programma Microsoft Open License](https://go.microsoft.com/fwlink/p/?LinkID=613298), ecco come trovare e attivare il codice Product Key.
+Se è stato acquistato Microsoft 365 per le aziende tramite un [programma Microsoft Open License](https://go.microsoft.com/fwlink/p/?LinkID=613298), ecco come trovare e attivare il codice Product Key.
 
-1. Dopo aver acquistato un codice da un partner di Office 365, si riceverà da Microsoft un messaggio di posta elettronica contenente un collegamento di attivazione.  **Nota**: il messaggio di posta elettronica viene inviato alla persona elencata come amministratore online nel contratto contratti multilicenza.  Se non si sa chi è stato designato come amministratore online, rivolgersi al partner di Office 365.
+1. Dopo aver acquistato una chiave da un partner di Microsoft 365, controllare la posta in arrivo per un messaggio di posta elettronica da Microsoft contenente un collegamento di attivazione.  **Nota**: il messaggio di posta elettronica viene inviato alla persona elencata come amministratore online nel contratto contratti multilicenza.  Se non si è sicuri di chi è designato come amministratore online, rivolgersi al partner Microsoft 365.
 
-2. Seguire il collegamento nel messaggio di posta elettronica per accedere con l'account aziendale o dell'Istituto di istruzione, accettare il contratto di licenza Open e rinnovare l'abbonamento.  Per una procedura dettagliata, scaricare la guida per i file PDF, [attivare i servizi online: sottoscrizione di Office 365](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
+2. Seguire il collegamento nel messaggio di posta elettronica per accedere con l'account aziendale o dell'Istituto di istruzione, accettare il contratto di licenza Open e rinnovare l'abbonamento.  Per una procedura dettagliata, scaricare la guida per i file PDF, [attivare i servizi online: sottoscrizione Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
 
 **Nota**: i clienti con contratti multilicenza possono anche scegliere di attivare gli abbonamenti nel [centro servizi per contratti multilicenza](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Per informazioni, scaricare la guida PDF, [Active Online Services nel centro servizi per contratti multilicenza](https://go.microsoft.com/fwlink/p/?LinkId=618096).
 
-Se Office 365 Business Premium è stato acquistato da un punto vendita al dettaglio, eseguire la procedura seguente per estendere la data di scadenza oppure aggiungere una licenza a un abbonamento esistente.
+Se è stato acquistato Microsoft 365 Business Premium standard da un punto vendita al dettaglio, eseguire la procedura seguente per estendere la data di scadenza oppure aggiungere una licenza a un abbonamento esistente.
 
-**Nota**: per utilizzare un codice "Product Key" per estendere la data di scadenza o aggiungere una licenza alla sottoscrizione Office 365 Business Premium esistente, è necessario un nuovo tasto inutilizzato per lo stesso piano di Office 365.  Il codice Product Key di Office 365 originale non è valido in quanto non è possibile usare di nuovo un codice che è già stato riscattato.
+**Nota**: per utilizzare un codice "Product Key" per estendere la data di scadenza o aggiungere una licenza alla sottoscrizione standard di Microsoft 365 Business Premium esistente, è necessaria una chiave nuova e inutilizzata per la stessa sottoscrizione di Microsoft 365.  L'immissione del codice Product Key originale di Microsoft 365 non funzionerà perché non è possibile utilizzare di nuovo un tasto che è già stato riscattato.
 
 1. Nell'interfaccia di amministrazione, accedere alla pagina dei[servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** > .
 

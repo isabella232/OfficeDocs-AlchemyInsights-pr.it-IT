@@ -13,18 +13,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: 88cbc65909aec2670000ed031675f933b9510897
-ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
+ms.openlocfilehash: a8305e6f089251077400f2b727539615cf6165af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "41969565"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722742"
 ---
 # <a name="repeated-sign-in-prompts-in-office-apps"></a>Prompt di accesso ripetuto nelle app di Office
 
 Per risolvere i problemi di accesso ripetuto nelle app di Office, vedere:
 
-- [Come risolvere i problemi relativi alle app non browser che non sono in grado di accedere a Office 365, Azure o Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- ["Accesso negato" o all'utente viene richiesto più volte di fornire le credenziali per la connessione a Office 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [Un utente federato viene richiesto più volte per le credenziali durante l'accesso a Office 365, Azure o Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [Come risolvere i problemi relativi alle app non browser che non sono in grado di accedere a Microsoft 365, Azure o Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- ["Accesso negato" o all'utente viene richiesto più volte di fornire le credenziali per la connessione a Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [Un utente federato viene richiesto più volte per le credenziali durante l'accesso a Microsoft 365, Azure o Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 

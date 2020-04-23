@@ -3,7 +3,7 @@ title: Ripristinare un utente eliminato
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 558ebba836d114a3d04848aae3c0ef598d8ea120
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745077"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784191"
 ---
-# <a name="restore-a-user-in-office-365"></a>Ripristinare un utente in Office 365
+# <a name="restore-a-user"></a>Ripristinare un utente
 
-Ripristinare un utente in Office 365 seguendo i passaggi seguenti:
+Ripristinare un utente con questa procedura:
   
 1. Passare a [utenti \> eliminati](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
@@ -32,4 +32,4 @@ Ripristinare un utente in Office 365 seguendo i passaggi seguenti:
 
 4. Fare clic su **Invia messaggio di posta elettronica e Chiudi**ed è tutto finito.
 
-Non è stato così facile? Per ulteriori informazioni e passaggi con schermate, vedere questo articolo: [ripristinare un utente in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Se si ha la necessità di ripristinare la cassetta postale dell'utente, vedere: [eliminare o ripristinare le cassette postali degli utenti in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Non è stato così facile? Per ulteriori informazioni e passaggi con schermate, vedere questo articolo: [ripristinare un utente](https://docs.microsoft.com/office365/admin/add-users/restore-user). Se si ha la necessità di ripristinare la cassetta postale dell'utente, vedere: [eliminare o ripristinare le cassette postali degli utenti in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
