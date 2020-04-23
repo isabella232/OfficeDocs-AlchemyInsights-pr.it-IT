@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 2eac0cafc0fed6fe813d3820044a407e200955f3
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: a3d9adbea318e4302490e52d190d93607ce9fd4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100527"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789054"
 ---
 # <a name="sign-out-of-outlook-on-the-web"></a>Disconnettersi da Outlook sul Web
 
 1. Fare clic sulla propria immagine o sulle iniziali nell'angolo in alto a destra dello schermo. Se l'immagine non viene visualizzata nella parte superiore dello schermo, verificare se è attivato il blocco degli annunci. In alcuni casi, il blocco impedisce la visualizzazione dell'immagine.
 
-2. Fare clic su **Disconnetti**. Per impedire l'accesso automatico con l'account aziendale o dell'istituto di istruzione a Outlook sul Web, al successivo accesso a Office 365 deselezionare la casella di controllo **Mantieni l'accesso**.
+2. Fare clic su **Disconnetti**. Per impedire l'accesso automatico con l'account aziendale o dell'istituto di istruzione a Outlook sul Web, al successivo accesso deselezionare la casella di controllo **Mantieni l'accesso**.
 
 3. Se l'opzione di disconnessione manca, si tratta di un problema noto e stiamo lavorando per rilasciare una correzione in una versione futura.  Provare a cancellare la cache del browser e i cookie per vedere se il problema si risolve.  In caso contrario, è possibile [disconnettersi manualmente dall'account](https://login.live.com/logout.srf) e chiudere tutte le finestre del browser.
 
