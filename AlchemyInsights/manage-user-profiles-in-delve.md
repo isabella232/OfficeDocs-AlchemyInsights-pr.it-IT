@@ -2,22 +2,22 @@
 title: Gestire i profili utente in approfondire
 ms.author: ponincev
 author: pebaum
-ms.date: 9/12/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 73061d23b7deec176f0695dcfb1895eebc428df9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36497195"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720543"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Gestire i profili utente in approfondire
 
-Office approfondire consente agli utenti di gestire il profilo utente di Office 365. Gli utenti possono:
+Office approfondire consente agli utenti di gestire il proprio profilo utente. Gli utenti possono:
   
 - Visualizzazione e aggiornamento delle informazioni
     
