@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 178811c81775b22676a0106283be4e516d40a95b
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 87a0a2be6b222d35acbc862eed4f14fb3e3e36ac
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628030"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764157"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Suggerimenti per la risoluzione degli errori di "prodotto senza licenza"
 
 Per risolvere gli errori relativi a un prodotto privo di licenza, provare a eseguire le operazioni seguenti:
 
 - Controllare se lo stato della sottoscrizione è scaduto.
-- Assicurarsi di disporre di un abbonamento che consenta licenze client, ad esempio Office 365 business o Business Premium, e [assicurarsi che l'utente disponga di una licenza assegnata](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
+- Assicurarsi di disporre di un abbonamento che consenta licenze client, ad esempio Microsoft 365 Apps for business o Business Premium, e [assicurarsi che l'utente disponga di una licenza assegnata](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
 - Verificare che l'utente sia abilitato all'accesso a Office con lo stesso account a cui è assegnata la licenza.
-- Controllare la [pagina integrità del servizio di Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) per verificare la presenza di eventuali problemi noti con il servizio.
-- Controllare il firewall, il software antivirus e le impostazioni proxy per confermare che non impediscono l'accesso a Internet alle app di Office. Vedere gli [intervalli di indirizzi IP e URL di Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Controllare la [pagina integrità del servizio](https://docs.microsoft.com/office365/enterprise/view-service-health) per verificare la presenza di eventuali problemi noti con il servizio.
+- Controllare il firewall, il software antivirus e le impostazioni proxy per confermare che non impediscono l'accesso a Internet alle app di Office. Vedere [URL e intervalli di indirizzi IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 È inoltre possibile provare le seguenti azioni per la risoluzione dei problemi: 
 
@@ -35,7 +35,7 @@ Per risolvere gli errori relativi a un prodotto privo di licenza, provare a eseg
 - [Reimpostare lo stato di attivazione di Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
 - [Eseguire una riparazione online di Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-Per ulteriori soluzioni per la risoluzione dei problemi, vedere: 
+Per ulteriori soluzioni per la risoluzione del problema, vedere: 
 
-- [Errori di attivazione e di prodotto senza licenza in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
-- ["Non è possibile connettersi al proprio account. Si prega di riprovare più tardi "errore quando si attiva Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+- [Errori di attivazione e di tipo Prodotto senza licenza in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+- [Errore "Non è possibile connettersi a questo account. Riprovare più tardi" all'attivazione di Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
