@@ -2,7 +2,7 @@
 title: Disinstallazione di Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,20 +13,20 @@ ms.custom:
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: Nella procedura seguente viene descritto come disinstallare Office da un PC.
-ms.openlocfilehash: a9d7b9b4239eeff76cb6934184224a2bcb5b98d3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1b7475b5a1f6f926bd854e41a5d14cfc22b752c9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558441"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731332"
 ---
 # <a name="uninstall-office"></a>Disinstallazione di Office
 
-Scaricare e installare l' [Assistente di supporto e ripristino](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+Scaricare e installare l'[Assistente supporto e ripristino](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
 1. Quando viene aperto, da **Disinstalla prodotti Office** selezionare la versione che si desidera disinstallare e selezionare **Avanti**.
 
-2. Continuare a passare attraverso schermate e riavviare il computer quando richiesto.
+2. Continuare a scorrere le schermate e riavviare il computer quando richiesto.
 
     Dopo aver riavviato, l'Assistente di supporto e ripristino viene riaperto automaticamente per completare il processo di disinstallazione.
 
