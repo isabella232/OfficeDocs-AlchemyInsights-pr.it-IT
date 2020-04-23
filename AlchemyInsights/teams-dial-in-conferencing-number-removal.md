@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4352"
-ms.openlocfilehash: 6b1d6043013fd90d2aa7e5688c25cc1186d734f1
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: 5677d41c37f3114f40c2fae7cb0fd48c040813a6
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541745"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43789018"
 ---
 # <a name="teams-dial-in-conferencing-number-removal"></a>Rimozione dei numeri di conferenza telefonica con accesso esterno di Teams
 
@@ -24,7 +24,7 @@ Serve assistenza nella rimozione di un numero di conferenza telefonica con acces
 
 Il numero di telefono predefinito del bridge di conferenza definisce l'ID chiamante che sarà usato quando viene effettuata una chiamata in uscita da un partecipante o dall'organizzatore di una riunione.
 
-1. Accedere a Office 365 con l'account aziendale.
+1. Accedere con l'account aziendale.
 
 2. Passare all'**interfaccia di amministrazione di Microsoft 365**.
 
