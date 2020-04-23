@@ -1,5 +1,5 @@
 ---
-title: Serve assistenza con Microsoft 365 Business Voice?
+title: Serve assistenza con Microsoft 365 Business Premium Voice?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 55490f1e04f02af83d0ce786543117aa48ecb340
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: c9bcc02a31fc9afccee46839af3665d2bdaac0cf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600460"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761962"
 ---
-# <a name="need-help-with-microsoft-365-business-voice"></a>Serve assistenza con Microsoft 365 Business Voice?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Serve assistenza con Microsoft 365 Business Premium Voice?
 
-Microsoft 365 Business Voice consente alle organizzazioni di piccole e medie imprese di trasformare Microsoft teams in un sistema telefonico potente e flessibile. Per ulteriori informazioni su Business Voice, vedere [che cos'è Microsoft 365 Business Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Business Premium Voice consente alle organizzazioni di piccole e medie dimensioni di trasformare Microsoft teams in un sistema telefonico potente e flessibile. Per ulteriori informazioni su Business Voice, vedere [che cos'è Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-Se si è già acquisito Microsoft 365 Business Voice, la [procedura guidata](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) introduttiva può facilitare l'esecuzione delle operazioni. 
+Se si è già acquisito Microsoft 365 Business Premium Voice, la [procedura guidata](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) introduttiva può facilitare l'esecuzione delle operazioni. 

@@ -3,7 +3,7 @@ title: 1490-risoluzione dei problemi-eDiscovery-errori
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559377"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759588"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Risoluzione degli errori di ricerca contenuto
 
-Si riscontrano problemi con la ricerca di contenuto in Office 365 o quando si esportano errori durante l'esportazione dei risultati della ricerca?
+Si riscontrano problemi con la ricerca di contenuto o si verificano errori durante l'esportazione dei risultati della ricerca?
 
 Ad esempio, si ricevono le seguenti operazioni durante l'esecuzione di ricerche?
 

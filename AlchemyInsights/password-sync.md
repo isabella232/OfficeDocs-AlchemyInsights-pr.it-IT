@@ -2,7 +2,7 @@
 title: Come controllare lo stato della sincronizzazione della password
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36555381"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765597"
 ---
 # <a name="enable-password-sync"></a>Abilitare la sincronizzazione delle password
 
@@ -31,7 +31,7 @@ ms.locfileid: "36555381"
     
 3. Ora vedrai lo stato e apparirà le modifiche seguenti:
     
-    **Sincronizzazione password attivata:** (true o false). Specifica se è abilitata la sincronizzazione delle password tra l'organizzazione locale e il tenant di Office 365. 
+    **Sincronizzazione password attivata:** (true o false). Specifica se è abilitata la sincronizzazione delle password tra l'organizzazione locale e il tenant. 
     
     **Sincronizzazione ultima password:** (l'ultima volta che è stata eseguita la sincronizzazione delle password). In questo modo verrà visualizzato un messaggio di avviso e un collegamento a uno strumento di risoluzione dei problemi se l'ultima sincronizzazione è stata più di tre giorni fa. 
     

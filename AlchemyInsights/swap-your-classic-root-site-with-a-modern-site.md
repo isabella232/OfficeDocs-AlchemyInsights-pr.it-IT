@@ -2,7 +2,7 @@
 title: Scambiare il sito radice classico con un sito moderno
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: fe1f0f662c49de2bd0b5b997697c98309cb7983f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f4831c6a232a4dee0f8f5ac0c83e4307221cfe2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042931"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741548"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Scambiare il sito radice classico con un sito moderno
 
@@ -28,7 +28,7 @@ Se l'ambiente è stato configurato prima di aprile 2019, è possibile modificare
 
 - Le funzionalità aggiuntive verranno introdotte a breve che consentiranno di continuare a utilizzare il contenuto del sito, ma di convertire il sito esistente in un sito di comunicazione. 
 >[!Important]
->Queste funzionalità verranno Srotolate gradualmente. Continuare a controllare il centro messaggi di Office 365 per gli aggiornamenti. 
+>Queste funzionalità verranno Srotolate gradualmente. Continuare a controllare il centro messaggi per gli aggiornamenti. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Problemi noti relativi ai siti di swapping
 
@@ -37,8 +37,3 @@ Se l'ambiente è stato configurato prima di aprile 2019, è possibile modificare
 - È necessario correggere manualmente qualsiasi elemento dipendente dai collegamenti "statici", ad esempio i file di sincronizzazione e di OneNote.
 - Se il sito di origine è un sito di notizie organizzative, aggiornare l'URL.Ottenere un elenco di tutti i siti di notizie dell'organizzazione.
 - Potrebbe essere necessario convalidare i siti di Project Server per assicurarsi che siano ancora associati correttamente.
-
-
-
-
-

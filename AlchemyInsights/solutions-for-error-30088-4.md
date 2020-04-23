@@ -3,7 +3,7 @@ title: Soluzioni per l'errore 30088-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/10/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,12 +13,12 @@ ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.custom:
 - "829"
 - "2000020"
-ms.openlocfilehash: 9d323856b1f3ad7cfea6903dcf3c9745a9853d8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc25a9ba8af90b7acba3ab3c978e03a3bcfd2d7d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501659"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756887"
 ---
 # <a name="solutions-for-error-30088-4"></a>Soluzioni per l'errore 30088-4
 
@@ -26,11 +26,11 @@ Provare queste soluzioni per correggere l'errore [30088-4](https://support.offic
   
 - Riavviare il computer e provare a [installare Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Scaricare e installare l' [Assistente di supporto e ripristino](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Scaricare e installare l'[Assistente supporto e ripristino](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
 1. Quando viene aperto, da **Disinstalla prodotti Office** selezionare la versione che si desidera disinstallare e selezionare **Avanti**.
 
-2. Continuare a passare attraverso schermate e riavviare il computer quando richiesto.
+2. Continuare a scorrere le schermate e riavviare il computer quando richiesto.
 
     Dopo aver riavviato, l'Assistente di supporto e ripristino viene riaperto automaticamente per completare il processo di disinstallazione.
 

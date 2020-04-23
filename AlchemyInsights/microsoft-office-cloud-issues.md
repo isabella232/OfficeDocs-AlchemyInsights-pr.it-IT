@@ -1,5 +1,5 @@
 ---
-title: Ruolo di amministratore e modalità di assegnazione
+title: Ruolo di amministratore e procedure di assegnazione
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: c734b2707003a17e6ac88f32ca28adc4e96e139a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054778"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762357"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Si verificano problemi con un servizio cloud?
 
@@ -23,5 +23,5 @@ Se si verificano problemi con un servizio cloud, è possibile verificare l' [int
 
 **Criterio di notifica**
 
-Quando si verifica un incidente di servizio, Microsoft riconosce che per i clienti sono essenziali comunicazioni tempestive, mirate e precise. Microsoft notifica agli amministratori di Office 365 l'aggiornamento del dashboard di [integrità del servizio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) specifico del tenant sul portale di amministrazione di Office 365. Gli aggiornamenti degli incidenti di servizio sono forniti su una cadenza oraria o, se è necessaria una cadenza diversa, verranno indicati nel messaggio di comunicazione SHD. Per altre informazioni, vedere [How to Check Office 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Quando si verifica un incidente di servizio, Microsoft riconosce che per i clienti sono essenziali comunicazioni tempestive, mirate e precise. Microsoft informa gli amministratori dell'aggiornamento del [Dashboard dell'integrità del servizio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) specifico del tenant sul portale di amministrazione di Microsoft 365. Gli aggiornamenti degli incidenti di servizio sono forniti su una cadenza oraria o, se è necessaria una cadenza diversa, verranno indicati nel messaggio di comunicazione SHD. Per altre informazioni, vedere [How to check Microsoft 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

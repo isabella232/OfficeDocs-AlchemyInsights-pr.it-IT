@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599956"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765555"
 ---
 # <a name="teams-policies"></a>Criteri per i team
 
@@ -30,5 +30,5 @@ I criteri per i team sono suddivisi nelle aree seguenti:
 - I [criteri di riunione](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) controllano gli utenti che possono eseguire le riunioni dei team, incluso il controllo della lobby. Per informazioni sui problemi relativi alla lobby, come la configurazione di teams per l'ammissione di tutti, vedere [Control lobby Settings and levels of participation](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - I [criteri di messaggistica](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) consentono di controllare gli utenti che possono eseguire la chat e i messaggi, tra cui l'attivazione o disattivazione della chat, l'eliminazione delle chat, la richiesta di conferma di lettura, l'utilizzo di giphys e adesivi e altro ancora.
 - I [criteri di configurazione delle app](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) controllano quali app sono disponibili per gli utenti, incluse le app personalizzate e di terze parti e l'ordine in cui vengono visualizzate.  
-- I [criteri di conservazione](https://docs.microsoft.com/microsoftteams/retention-policies) dei dati per i team sono disponibili nel centro sicurezza e conformità di Office 365.
+- I [criteri di conservazione](https://docs.microsoft.com/microsoftteams/retention-policies) dei dati per i team sono disponibili nel centro sicurezza e conformità di Microsoft 365.
 - I criteri della rubrica dei team sono impostati tramite la [ricerca nell'ambito della directory](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).

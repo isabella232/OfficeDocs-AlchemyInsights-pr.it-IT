@@ -3,7 +3,7 @@ title: Notifiche di avviso di SharePoint non recapitate
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40047071"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742051"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Notifiche di avviso di SharePoint non recapitate
 
@@ -26,7 +26,7 @@ Controlla la cartella posta indesiderata nel tuo messaggio di posta elettronica,
 
 Determinare se **tutti gli avvisi non vengono recapitati** o se **un singolo avviso** di un file o di una raccolta specifico non viene recapitato.
 
-- Gli **avvisi singoli non vengono recapitati**: se un singolo avviso di un file o di una raccolta specifico non viene recapitato, è possibile tentare di eliminarlo e ricrearlo. Per ricreare l'avviso [, vedere gestire, visualizzare o eliminare gli avvisi di SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) .
+- Gli **avvisi singoli non vengono recapitati**: se un singolo avviso di un file o di una raccolta specifico non viene recapitato, è possibile tentare di eliminarlo e ricrearlo. Per ricreare l'avviso [, vedere gestire, visualizzare o eliminare gli avvisi di SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
 - **Tutti gli avvisi non vengono recapitati**: se tutti gli avvisi provenienti da più file o raccolte non vengono recapitati, visitare il [dashboard di integrità del servizio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) per controllare eventuali avvisi/incidenti che potrebbero verificarsi con SharePoint o Exchange. Il problema potrebbe essere relativo alla funzionalità di avviso di SharePoint o ai ritardi nei messaggi di posta elettronica tramite Exchange. Sarà anche importante notare se viene recapitato un altro messaggio di posta elettronica e, in caso contrario, è probabile che il problema sia ritardi di Exchange.
 
 Domande frequenti sugli avvisi:

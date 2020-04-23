@@ -3,7 +3,7 @@ title: Ripristinare gli elementi eliminati da SharePoint o OneDrive
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 588c774d56ab092e7d50321ca6be9e2dd4f03f16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551887"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742519"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Ripristinare gli elementi eliminati da SharePoint o OneDrive
 
@@ -32,7 +32,7 @@ Quando file, cartelle, raccolte, elenchi ed elementi di elenco vengono eliminati
   
 [Ripristinare gli elementi nel cestino della raccolta siti](https://go.microsoft.com/fwlink/?linkid=867800) (amministratori della raccolta siti) 
   
-[Ripristinare le raccolte siti eliminate](https://go.microsoft.com/fwlink/?linkid=867660) (globale o amministratori di SharePoint in Office 365) 
+[Ripristinare le raccolte siti eliminate](https://go.microsoft.com/fwlink/?linkid=867660) (globali o amministratori di SharePoint in Microsoft 365) 
   
 Per i siti appartenenti a un gruppo di Office 365, è necessario ripristinare il gruppo in modo che ripristini il sito. Vedere [ripristino di un gruppo di Office 365 eliminato](https://go.microsoft.com/fwlink/?linkid=867802) (amministratore globale) 
   

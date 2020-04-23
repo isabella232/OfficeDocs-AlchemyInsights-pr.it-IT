@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 6c23d7c482e3beb900d6e0e2ba596c1ab1db8d7e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: ed35c790dfb048aa6f33fa439b7636864a6e6e6c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050673"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759768"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Risoluzione dei problemi relativi all'errore 404, file non trovato
 
@@ -22,11 +22,10 @@ Per risolvere l'errore 404 per un sito che è stato rinominato, spostato o elimi
 
 Per i siti classici presenti nell'interfaccia di amministrazione classica, vedere [ripristinare una raccolta siti eliminata](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
-
 Per i siti moderni (comunicazioni, gruppi o altri siti) presenti nella nuova interfaccia di amministrazione di SharePoint, vedere [View and Restore Deleted sites in the New SharePoint Admin Center](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
 Per risolvere l'errore 404 per un file o un altro elemento che è stato rinominato, spostato o eliminato:
 
 Passare al sito di SharePoint o OneDrive e visualizzare il cestino dal contenuto del sito. Vedere, [ripristinare gli elementi nel cestino di un sito di SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
-Se non si è ancora in grado di individuare l'elemento, è possibile eseguire una ricerca nel registro di controllo se è abilitata la registrazione vedere, [cercare nel log di controllo nel centro sicurezza & conformità di Office 365](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
+Se non si è ancora in grado di individuare l'elemento, è possibile eseguire una ricerca nel registro di controllo se è abilitata la registrazione vedere, [cercare il log di controllo nel centro sicurezza & conformità di Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).

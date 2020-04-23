@@ -12,15 +12,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 150a64e110a6e2e013952d97d811f0e791803d39
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: e14042fa80be802e646db4e30cd3d5b69b81a1d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059812"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765535"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Utilizzo di SaRA per la diagnosi e la risoluzione dei problemi di autenticazione di Outlook
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Utilizzare l'Assistente supporto e ripristino per diagnosticare e risolvere i problemi di autenticazione di Outlook
 
-**Nota**: verificare se le [impostazioni predefinite](http://aka.ms/securitydefaults) per la sicurezza sono abilitate per l'organizzazione. Se il tenant è stato creato dopo il 21 ottobre 2019 e Outlook chiede ripetutamente una password, è possibile che nel tenant siano abilitate le **impostazioni predefinite** per la sicurezza.
+**Nota**: verificare se le [impostazioni predefinite](https://aka.ms/securitydefaults) per la sicurezza sono abilitate per l'organizzazione. Se il tenant è stato creato dopo il 21 ottobre 2019 e Outlook chiede ripetutamente una password, è possibile che nel tenant siano abilitate le **impostazioni predefinite** per la sicurezza.
 
 È consigliabile utilizzare [Outlook continua a chiedere](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) la diagnostica della password sul computer in questione per risolvere i problemi in cui Outlook richiede continuamente una password. Questa diagnostica di [sara](https://diagnostics.office.com/#/) esegue controlli automatizzati e restituisce le possibili soluzioni da utilizzare per risolvere eventuali problemi rilevati.
