@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745437"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719308"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Procedure consigliate da seguire in caso di compromissione dell’account
 
-[VIDEO: Correggere un account di Office 365 compromesso](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VIDEO: Correggere un account compromesso](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [Reimpostare la password](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) immediatamente. Non comunicare la nuova password tramite posta elettronica all'utente finale.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745437"
 
 5. Rimuovere l'account dell’utente da tutti i [gruppi di ruoli amministrativi](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) finché non si è certi che l'account non è più compromesso.
 
-Per ridurre al minimo il rischio di violazione dei dati o di compromissione di un account in futuro, è consigliabile leggere l'articolo [Roadmap sulla sicurezza di Office 365 ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+Per ridurre al minimo il rischio di violazione dei dati o di compromissione di un account in futuro, è consigliabile leggere l'articolo [Roadmap sulla sicurezza di Microsoft 365 ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   

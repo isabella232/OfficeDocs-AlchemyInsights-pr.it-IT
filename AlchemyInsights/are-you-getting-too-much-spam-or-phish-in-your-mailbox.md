@@ -10,16 +10,16 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: 394fb3f3ddb432f45f7410f69627c80f66adb7d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 74581bcadf668d5d40c7dcc6d9ac2635875c29fe
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664828"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712606"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Si riceve una quantità eccessiva di posta indesiderata o messaggi di phishing nella cassetta postale?
 
-Vedere [come ridurre la posta indesiderata in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) per risolvere il problema.
+Vedere [come ridurre la posta indesiderata](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) per risolvere il problema.
   
 Il modo migliore per segnalare questo tipo di problemi è il seguente:
   

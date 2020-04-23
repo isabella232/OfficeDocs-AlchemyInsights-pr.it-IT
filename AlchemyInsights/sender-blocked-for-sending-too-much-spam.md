@@ -12,15 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 8aa9ab5e6db0d434c13ed9e2d325d28552b7caeb
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: ab49df06697f45e23e80e18b56257c45140722aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886405"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709159"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>L'account è stato bloccato perché ha inviato troppi messaggi di posta indesiderata
 
 Se come amministratore si è impedito a un utente di inviare messaggi di posta elettronica, è possibile [sbloccare personalmente l’account](https://protection.office.com/?hash=/restrictedusers) **senza aprire un caso di supporto**. L'utente potrà inviare la posta elettronica entro un'ora dalla rimozione della restrizione.
 
-Il servizio impedisce all’utente di inviare messaggi di posta elettronica dopo aver individuato la compromissione dell’account e/o posta indesiderata in uscita. Come misura precauzionale, seguire i passaggi contenuti in [Rispondere a un account di posta elettronica compromesso in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) per l’utente.
+Il servizio impedisce all’utente di inviare messaggi di posta elettronica dopo aver individuato la compromissione dell’account e/o posta indesiderata in uscita. Come misura precauzionale, seguire i passaggi contenuti in [Rispondere a un account di posta elettronica compromesso](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) per l’utente.
