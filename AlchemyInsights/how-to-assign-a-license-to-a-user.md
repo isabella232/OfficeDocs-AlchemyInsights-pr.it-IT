@@ -13,22 +13,22 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 122103d86dd96696bc524c5791d739af016e8371
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 21e039f381cf853b1b3879787d65a2f809fd1e65
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709555"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799163"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Come assegnare una licenza a un utente
 
-Un utente ha bisogno di una licenza per avere accesso ai servizi. Di seguito sono riportati i passaggi per aggiungere, modificare o rimuovere una licenza da un utente.
+Un utente ha bisogno di una licenza per avere accesso ai servizi. Di seguito sono riportati i passaggi per **aggiungere, modificare o rimuovere** una licenza da un utente.
   
-1. Nell'interfaccia di amministrazione passare alla pagina **Utenti** \> [Utenti attivi](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. Nell'interfaccia di amministrazione, passare a utenti [attivi](https://go.microsoft.com/fwlink/p/?linkid=834822)degli **utenti** \> .
 
-2. Selezionare il nome dell'utente a cui si desidera assegnare, modificare o rimuovere una licenza.
+2. Selezionare il nome dell'utente per il quale si desidera assegnare, modificare o rimuovere una licenza.
 
-3. Nella scheda **licenze e app** selezionare la licenza che si desidera assegnare all'utente.
+3. Fare clic su **Gestisci licenze di prodotto**e selezionare la licenza che si desidera assegnare a questo utente.
 
     Per impostazione predefinita, tutti i servizi associati alla licenza vengono automaticamente assegnati all'utente. Per limitare i servizi disponibili per l'utente, deselezionare la casella di controllo relativa ai servizi che non si desidera vengano conferiti dall'utente.
 
