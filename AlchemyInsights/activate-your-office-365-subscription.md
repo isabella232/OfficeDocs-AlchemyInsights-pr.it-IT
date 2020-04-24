@@ -1,5 +1,5 @@
 ---
-title: Attivare l'abbonamento a Office 365
+title: Attivare l'abbonamento a Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191070"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784011"
 ---
-# <a name="activate-your-office-365-subscription"></a>Attivare l'abbonamento a Office 365
+# <a name="activate-your-subscription"></a>Attivare l'abbonamento
 
 **Attivare un abbonamento**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191070"
 
 **Riattivare un abbonamento**
 
-Se l'abbonamento è scaduto, è stato disabilitato da Microsoft oppure è stato annullato durante il periodo di validità, è possibile riattivarlo nell'Interfaccia di amministrazione di Office 365.
+Se l'abbonamento è scaduto, è stato disabilitato da Microsoft oppure è stato annullato durante il periodo di validità, è possibile riattivarlo nell'interfaccia di amministrazione di Microsoft 365.
 
-- Nell'interfaccia di amministrazione di Office 365 passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione > Abbonamenti**.
+- Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione > Abbonamenti**.
 
 - Selezionare l'abbonamento da riattivare e quindi fare clic su **Riattiva**. Se l'opzione **Riattiva** non è disponibile, [contattare il supporto](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) per riattivare l'abbonamento.
 
@@ -42,6 +42,6 @@ Per altre informazioni, vedere [Riattivare l'abbonamento](https://docs.microsoft
 
 **Attivare un nuovo abbonamento con un codice Product Key**
 
-- Per attivare un nuovo abbonamento a Office 365 con il codice Product Key, avviare [qui](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Per attivare un nuovo abbonamento a Microsoft 365 con il codice Product Key, avviare [qui](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Immettere il codice Product Key di Office 365 e seguire le istruzioni per attivare l'abbonamento. In caso di problemi con l'attivazione, vedere questo [elenco degli errori più comuni relativi ai codici Product Key e le relative soluzioni](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Immettere il codice Product Key di Microsoft 365 e seguire le istruzioni per attivare l'abbonamento. In caso di problemi con l'attivazione, vedere questo [elenco degli errori più comuni relativi ai codici Product Key e le relative soluzioni](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

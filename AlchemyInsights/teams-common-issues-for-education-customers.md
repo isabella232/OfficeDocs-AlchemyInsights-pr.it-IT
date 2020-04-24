@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856802"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739440"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Problemi comuni di Teams per i clienti del settore dell'istruzione
 
@@ -45,12 +45,12 @@ Se è necessaria assistenza per la distribuzione di Teams per il supporto dell'a
     6. Nell'interfaccia di amministrazione di Skype for Business fare clic su **Audioconferenza** e poi **Utenti**.
     7. Selezionare l'utente in questione e verificare che disponga di un numero a pagamento predefinito.
 
-    Per altre informazioni, vedere [Piani per chiamate per Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o chiamare il team Microsoft Commerce Billing per ricevere assistenza con domande relative alla gestione delle licenze.
+    Per altre informazioni, vedere [Piani per chiamate](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o chiamare il team Microsoft Commerce Billing per ricevere assistenza con domande relative alla gestione delle licenze.
 
     Risorse aggiuntive
 
     - [Riunioni e conferenze in Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Audioconferenza in Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Audioconferenza](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Criteri riunione**: i criteri riunione vengono usati per controllare le funzionalità disponibili per i partecipanti alle riunioni programmate dagli utenti nell'organizzazione. Dopo aver creato un criterio e aver apportato le modifiche, è possibile assegnare gli utenti al criterio.
 

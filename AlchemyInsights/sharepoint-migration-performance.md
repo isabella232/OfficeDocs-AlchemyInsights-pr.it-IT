@@ -12,21 +12,19 @@ ms.custom:
 - "5300030"
 - "2700"
 - "3179"
-ms.openlocfilehash: 500406e0f19610fe884df1faf3537aa7cb947e47
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552751"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789306"
 ---
 # <a name="sharepoint-migration-performance-guidance"></a>Indicazioni sulle prestazioni della migrazione di SharePoint
 
-Le prestazioni della migrazione possono essere influenzate dall'infrastruttura di rete, dalle dimensioni del file, dalla durata della migrazione e dalla limitazione. Queste informazioni saranno utili per pianificare e aumentare l'efficienza della migrazione.
+Le prestazioni della migrazione possono essere influenzate dall'infrastruttura di rete, dalla dimensione dei file, dal tempo di migrazione e dalle limitazioni.
 
 Per altre informazioni, visitare:
 
 - [Indicazioni generali sulle prestazioni della migrazione](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Evitare la limitazione o il blocco in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [Scaricare e installare lo Strumento di migrazione di SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
