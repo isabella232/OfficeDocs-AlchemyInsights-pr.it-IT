@@ -12,21 +12,19 @@ ms.custom:
 - "5300030"
 - "2700"
 - "3179"
-ms.openlocfilehash: 500406e0f19610fe884df1faf3537aa7cb947e47
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552751"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789306"
 ---
-# <a name="sharepoint-migration-performance-guidance"></a><span data-ttu-id="fe20b-102">Indicazioni sulle prestazioni della migrazione di SharePoint</span><span class="sxs-lookup"><span data-stu-id="fe20b-102">SharePoint migration performance guidance</span></span>
+# <a name="sharepoint-migration-performance-guidance"></a><span data-ttu-id="3fe65-102">Indicazioni sulle prestazioni della migrazione di SharePoint</span><span class="sxs-lookup"><span data-stu-id="3fe65-102">SharePoint migration performance guidance</span></span>
 
-<span data-ttu-id="fe20b-p101">Le prestazioni della migrazione possono essere influenzate dall'infrastruttura di rete, dalle dimensioni del file, dalla durata della migrazione e dalla limitazione. Queste informazioni saranno utili per pianificare e aumentare l'efficienza della migrazione.</span><span class="sxs-lookup"><span data-stu-id="fe20b-p101">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling. Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+<span data-ttu-id="3fe65-103">Le prestazioni della migrazione possono essere influenzate dall'infrastruttura di rete, dalla dimensione dei file, dal tempo di migrazione e dalle limitazioni.</span><span class="sxs-lookup"><span data-stu-id="3fe65-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span>
 
-<span data-ttu-id="fe20b-105">Per altre informazioni, visitare:</span><span class="sxs-lookup"><span data-stu-id="fe20b-105">For more information, please visit:</span></span>
+<span data-ttu-id="3fe65-104">Per altre informazioni, visitare:</span><span class="sxs-lookup"><span data-stu-id="3fe65-104">For more information, please visit:</span></span>
 
-- [<span data-ttu-id="fe20b-106">Indicazioni generali sulle prestazioni della migrazione</span><span class="sxs-lookup"><span data-stu-id="fe20b-106">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [<span data-ttu-id="3fe65-105">Indicazioni generali sulle prestazioni della migrazione</span><span class="sxs-lookup"><span data-stu-id="3fe65-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-- [<span data-ttu-id="fe20b-107">Evitare la limitazione o il blocco in SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="fe20b-107">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [<span data-ttu-id="fe20b-108">Scaricare e installare lo Strumento di migrazione di SharePoint</span><span class="sxs-lookup"><span data-stu-id="fe20b-108">Download and install the SharePoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [<span data-ttu-id="3fe65-106">Evitare la limitazione o il blocco in SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="3fe65-106">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
