@@ -1,0 +1,23 @@
+---
+title: Autorizzazioni utente insufficienti
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9002274"
+- "4492"
+ms.openlocfilehash: 33ea48b592a891bb703a6c45107a43f526cbd698
+ms.sourcegitcommit: c22283bf54a23cc3989e9a77271e725980eec9e0
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43795906"
+---
+# <a name="insufficient-user-permissions"></a>Autorizzazioni utente insufficienti
+
+Questo problema si verifica quando non vengono soddisfatti i [prerequisiti necessari](https://docs.microsoft.com/configmgr/tenant-attach/device-sync-actions#prerequisites). Verificare che l'utente abbia l'autorizzazione **Invia una notifica alla risorsa** nella classe di oggetti **Raccolte** in Configuration Manager.
