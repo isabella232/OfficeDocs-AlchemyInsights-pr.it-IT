@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703647"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908420"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Abilitazione e ricerca nel registro di controllo
 
@@ -31,7 +31,7 @@ Per eseguire una ricerca nel registro di controllo di Microsoft 365, attenersi a
 
 - Il controllo delle cassette postali è abilitato per impostazione predefinita in Microsoft 365. Per ulteriori informazioni, vedere [questo articolo](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Le cassette postali di gruppo e le cassette postali delle cartelle pubbliche di Office 365 non supportano la registrazione di controllo.
+- Le cassette postali del gruppo Microsoft 365 e le cassette postali delle cartelle pubbliche in Exchange Online non supportano la registrazione.
 
 **SharePoint e OneDrive**
 

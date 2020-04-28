@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fb035b28fa3c1a61c27138d1b5d819acae264141
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37590426"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911942"
 ---
 # <a name="microsoft-teams-permissions"></a>Autorizzazioni di Microsoft Teams
 
-Microsoft teams include due ruoli utente: Owner e member. Per impostazione predefinita, a un utente che crea un nuovo team viene assegnato lo stato del proprietario. Inoltre, i proprietari e i membri possono disporre di funzionalità di moderatore per un canale (se è stata impostata la moderazione). Se un team viene creato da un gruppo di Office 365 esistente, le autorizzazioni vengono ereditate. Per ulteriori informazioni, vedere:
+Microsoft teams include due ruoli utente: Owner e member. Per impostazione predefinita, a un utente che crea un nuovo team viene concesso lo stato di proprietario. Inoltre, i proprietari e i membri possono disporre di funzionalità di moderatore per un canale (se è stata impostata la moderazione). Se un team viene creato da un gruppo esistente di Microsoft 365, le autorizzazioni vengono ereditate. Per ulteriori informazioni, vedere:
 
-- [Assegnare i proprietari e i membri del team in Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [Assegnare proprietari e membri dei team in Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
 - [Autorizzazioni e considerazioni per le app di Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
 - [Impostare le autorizzazioni Guest per i canali in teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

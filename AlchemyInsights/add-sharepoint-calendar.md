@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671353"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911008"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Aggiungere un calendario di SharePoint
 
-I calendari di SharePoint sono tipi di elenco classici che a volte sono confusi con i calendari di gruppo di Office 365.
+I calendari di SharePoint sono tipi di elenco classici che a volte sono confusi con i calendari di gruppo di Microsoft 365.
  
 Per creare un calendario di SharePoint, eseguire la procedura seguente:
  
@@ -29,5 +29,5 @@ Per creare un calendario di SharePoint, eseguire la procedura seguente:
 2.  Nella casella Cerca **un'app** digitare **Calendario** e premere INVIO.
 3.  Selezionare il **Calendario**del titolo dell'app e quindi immettere un nome per il calendario.
 
-Per ulteriori informazioni sui gruppi di Office 365, vedere informazioni [sui gruppi di office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Per ulteriori informazioni sui gruppi di Microsoft 365, vedere informazioni [sui gruppi di microsoft 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 

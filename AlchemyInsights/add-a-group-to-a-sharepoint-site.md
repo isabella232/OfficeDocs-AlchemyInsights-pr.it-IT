@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 6ac4728c02471dd2640e0c516fee7cf5ebb12f54
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4fb17573bae0cb91dc458433eedfd7398802743
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676393"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911080"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Aggiungere un gruppo a un sito di SharePoint
 
-Alcuni siti del team di SharePoint (compresi quelli creati in Microsoft Teams) sono gestiti dai proprietari dei gruppi di Office 365. I siti e i contenuti di SharePoint possono essere condivisi anche con i gruppi di Office 365 e con i gruppi di SharePoint. Un gruppo di SharePoint è un insieme di utenti che hanno tutti lo stesso set di autorizzazioni per i siti e il contenuto. Per i siti classici, si consiglia di utilizzare i gruppi per assegnare comodamente lo stesso livello di autorizzazione a molte persone contemporaneamente anziché assegnare le autorizzazioni una persona alla volta.
+Alcuni siti del team di SharePoint (compresi quelli creati in Microsoft Teams) sono gestiti dai proprietari del gruppo Microsoft 365. I siti e i contenuti di SharePoint possono essere condivisi anche con i gruppi di Microsoft 365 e con i gruppi di SharePoint. Un gruppo di SharePoint è un insieme di utenti che hanno tutti lo stesso set di autorizzazioni per i siti e il contenuto. Per i siti classici, si consiglia di utilizzare i gruppi per assegnare comodamente lo stesso livello di autorizzazione a molte persone contemporaneamente anziché assegnare le autorizzazioni una persona alla volta.
   
-Gestire i membri del gruppo di Office 365:
+Gestire i membri del gruppo Microsoft 365:
   
 1. Passare alla [pagina gruppi nell'interfaccia di amministrazione di Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
 2. Selezionare un gruppo per visualizzare i relativi proprietari e membri. Per aggiungere o rimuovere utenti, fare clic sul collegamento **modifica** nella riga **proprietari** o **membri** . 
     
-Condivisione di un sito di comunicazione con un gruppo di Office 365:
+Condividere un sito di comunicazione con un gruppo di Microsoft 365:
   
 1. Passare al sito in un browser e fare clic su **Condividi sito** in alto a destra. 
     
@@ -42,7 +42,7 @@ Creare un gruppo di SharePoint da utilizzare con un sito classico:
     
 3. Nella scheda autorizzazioni fare clic su **Crea gruppo**.
     
-[Connettere un sito del team classico a un nuovo gruppo di Office 365](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Connettere un sito del team classico a un nuovo gruppo di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2008654)
   
 [Ulteriori informazioni sull'utilizzo di gruppi di SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
   

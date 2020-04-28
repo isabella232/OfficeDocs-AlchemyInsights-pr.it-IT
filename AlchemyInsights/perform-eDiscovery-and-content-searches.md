@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764732"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911835"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Come eseguire le ricerche di contenuto e le ricerche di eDiscovery
 
-Utilizzare lo strumento di ricerca contenuto nel centro sicurezza & conformità per trovare rapidamente la posta elettronica nelle cassette postali di Exchange, i documenti nei siti di SharePoint e l'account OneDrive e le conversazioni di messaggistica istantanea in Skype for business. È inoltre possibile utilizzare lo strumento ricerca contenuto per cercare messaggi di posta elettronica, documenti e conversazioni di messaggistica istantanea negli strumenti di collaborazione di Microsoft 365, ad esempio Microsoft teams e i gruppi di Office 365.
+Utilizzare lo strumento di ricerca contenuto nel centro sicurezza & conformità per trovare rapidamente la posta elettronica nelle cassette postali di Exchange, i documenti nei siti di SharePoint e l'account OneDrive e le conversazioni di messaggistica istantanea in Skype for business. È inoltre possibile utilizzare lo strumento di ricerca contenuto per cercare messaggi di posta elettronica, documenti e conversazioni di messaggistica istantanea negli strumenti di collaborazione di Microsoft 365, ad esempio Microsoft teams e Microsoft 365 groups.
 
 **Per eseguire una ricerca di contenuto**
 

@@ -1,5 +1,5 @@
 ---
-title: Ripristinare un gruppo di Office 365 tramite l'interfaccia di amministrazione di Exchange
+title: Ripristinare un gruppo di Microsoft 365 utilizzando l'interfaccia di amministrazione di Exchange
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: e0092afc382c034be0c1e130d2e32a56330c2732
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b40d216bce2f88c7ed48a470537c69e8589159f3
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742657"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912587"
 ---
-# <a name="restore-an-office-365-group-using-the-exchange-admin-center"></a>Ripristinare un gruppo di Office 365 tramite l'interfaccia di amministrazione di Exchange
+# <a name="restore-an-microsoft-365-group-using-the-exchange-admin-center"></a>Ripristinare un gruppo di Microsoft 365 utilizzando l'interfaccia di amministrazione di Exchange
 
 1. Nella barra di spostamento a sinistra dell'interfaccia di amministrazione di Microsoft 365 espandere interfaccia di **Amministrazione**e quindi scegliere **Exchange**.
     
@@ -25,7 +25,7 @@ ms.locfileid: "43742657"
     
 3. Per visualizzare l'ora esatta in cui il gruppo è stato eliminato temporaneamente, selezionarlo e leggere le informazioni nel riquadro destro.
     
-4. Selezionare il gruppo di Office 365 da ripristinare e quindi fare clic sull'icona Ripristina.
+4. Selezionare il gruppo Microsoft 365 che si desidera ripristinare e quindi fare clic sull'icona Ripristina.
     
 5. Scegliere aggiorna ![Icona Aggiorna](media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) per aggiornare le informazioni della pagina. Lo stato del gruppo sarà ora attivo. 
     

@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714406"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911152"
 ---
 # <a name="ediscovery-settings"></a>Impostazioni di eDiscovery
 
-le ricerche di eDiscovery/content consentono di cercare, conservare ed esportare contenuti dalle cassette postali di Exchange Online, siti di SharePoint Online e OneDrive for business, conversazioni di Skype for business, Microsoft teams e gruppi di Office 365.
+le ricerche di eDiscovery/content consentono di cercare, conservare ed esportare contenuti dalle cassette postali di Exchange Online, siti di SharePoint Online e OneDrive for business, conversazioni di Skype for business, Microsoft teams e gruppi Microsoft 365.
 
 - Se si cercano le opzioni di menu di ricerca di eDiscovery o di contenuto, vedere [eDiscovery issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
 - Informazioni sulle autorizzazioni necessarie per eseguire le ricerche di eDiscovery dalle [autorizzazioni necessarie per le ricerche di eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).

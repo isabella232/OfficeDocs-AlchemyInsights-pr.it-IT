@@ -1,5 +1,5 @@
 ---
-title: Ripristinare un gruppo di Office 365 eliminato
+title: Ripristinare un gruppo di Microsoft 365 eliminato
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0443d51690399ea5c82ab9c2d6fc803a946161dd
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758758"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912715"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Ripristinare un gruppo di Office 365 eliminato
+# <a name="restore-a-deleted-microsoft-365-group"></a>Ripristinare un gruppo di Microsoft 365 eliminato
 
 I gruppi eliminati vengono conservati per 30 giorni. Per ripristinare un gruppo eliminato:
   
@@ -28,5 +28,5 @@ I gruppi eliminati vengono conservati per 30 giorni. Per ripristinare un gruppo 
 
 2. Selezionare il gruppo e quindi fare clic su **Ripristina** sulla barra dei comandi oppure fare clic sul collegamento "fare clic qui per Ripristina" nel riquadro dei dettagli.
 
-Per ulteriori informazioni o per informazioni su come ripristinare i gruppi tramite PowerShell, vedere [ripristino di un gruppo di Office 365 eliminato](https://go.microsoft.com/fwlink/?linkid=867802).
+Per ulteriori informazioni o per informazioni su come ripristinare i gruppi tramite PowerShell, vedere [ripristino di un gruppo di Microsoft 365 eliminato](https://go.microsoft.com/fwlink/?linkid=867802).
   

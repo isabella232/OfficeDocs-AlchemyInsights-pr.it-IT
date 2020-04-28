@@ -1,5 +1,5 @@
 ---
-title: "Posticipare l'aggiornamento ai team "
+title: Posticipare l'aggiornamento ai team
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 37263aefe56b673429eb773719413688b72457e7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: fcf724e335bd6a7cb4801d9b2789447befc06ff7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43785343"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912515"
 ---
 # <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Come posticipare l'aggiornamento basato su Microsoft Teams
+
+**Importante**: è possibile risolvere questo tipo di utilizzo di un supporto diagnostico, ma sembra che non si utilizzi il nuovo interfaccia di amministrazione. Per utilizzare la nuova interfaccia di amministrazione, fare scorrere l'interruttore in alto a destra che indica il nuovo interfaccia di **Amministrazione** verso destra. Utilizzando la nuova interfaccia di amministrazione, fare clic sul widget **serve aiuto?** , digitare "posticipare l'aggiornamento dei team", quindi seguire le istruzioni per eseguire la diagnostica.
 
 Se è stata ricevuta una comunicazione su un aggiornamento automatico basato su Microsoft da Skype for business a Microsoft teams e si desidera posticipare l'aggiornamento automatico a una data successiva, l'amministratore globale può accedere al [portale di amministrazione dei team](https://admin.teams.microsoft.com/dashboard) e, dopo aver selezionato il pulsante **Aggiorna stato** in aggiornamento Microsoft teams, selezionare il pulsante **rinvia** . Per visualizzare la nuova data per l'aggiornamento automatico del tenant a Microsoft teams, aggiornare la pagina del portale di amministrazione dei team.
 

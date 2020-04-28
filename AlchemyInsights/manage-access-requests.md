@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721789"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912407"
 ---
 # <a name="manage-access-requests"></a>Gestire le richieste di accesso
 
@@ -26,7 +26,7 @@ Quando un utente tenta di accedere a un elemento in SharePoint e non dispone del
     
 2. Sotto **Utenti e autorizzazioni**, fare clic su **Richieste di accesso e inviti**. Se il problema non viene visualizzato, non sono state apportate richieste di accesso.
     
-3. Per assegnare l'autorizzazione utente singolarmente, fare clic su **approva** o **rifiuta**. Per selezionare un livello di autorizzazione specifico, fare clic sul pulsante con i puntini di sospensione (...) accanto al nome della persona. In alternativa, aggiungere l'utente a un gruppo che dispone dell'autorizzazione per il sito. Per i siti di comunicazione e i siti del team classico, è possibile eseguire questa operazione nella pagina Impostazioni sito. Per i siti appartenenti a un gruppo di Office 365, è possibile aggiungere l'utente al gruppo.
+3. Per assegnare l'autorizzazione utente singolarmente, fare clic su **approva** o **rifiuta**. Per selezionare un livello di autorizzazione specifico, fare clic sul pulsante con i puntini di sospensione (...) accanto al nome della persona. In alternativa, aggiungere l'utente a un gruppo che dispone dell'autorizzazione per il sito. Per i siti di comunicazione e i siti del team classico, è possibile eseguire questa operazione nella pagina Impostazioni sito. Per i siti appartenenti a un gruppo di Microsoft 365, è possibile aggiungere l'utente al gruppo.
     
     [Gestire le richieste di accesso](https://go.microsoft.com/fwlink/?linkid=2008747)
     
