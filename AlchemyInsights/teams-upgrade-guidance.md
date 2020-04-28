@@ -11,14 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626316"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908791"
 ---
 # <a name="microsoft-teams-upgrade"></a>Aggiornamento di Microsoft Teams
+
+**Importante**: è possibile risolvere questo tipo di utilizzo di un supporto diagnostico, ma sembra che non si utilizzi il nuovo interfaccia di amministrazione. Per utilizzare la nuova interfaccia di amministrazione, fare scorrere l'interruttore in alto a destra che indica il nuovo interfaccia di **Amministrazione** verso destra. Utilizzando la nuova interfaccia di amministrazione, fare clic sul widget **serve aiuto?** , digitare "Teams upgrade", quindi seguire le istruzioni per eseguire la diagnostica.
 
 Sia che si abbia appena iniziato a lavorare con Teams, sia che lo si usi già insieme a Skype for Business o si sia pronti per l'aggiornamento, forniremo tutto il necessario per passare a Teams con successo. Per ulteriori informazioni, visitare i collegamenti riportati di seguito.
 

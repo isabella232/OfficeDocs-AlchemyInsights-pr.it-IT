@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053121"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908708"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Superamento del limite di posta elettronica giornaliero. Il flusso di lavoro è sospeso.
 
@@ -27,7 +27,7 @@ Questo errore può essere ricevuto negli scenari seguenti:
 - Quando si esegue il flusso di lavoro, il messaggio di posta elettronica non viene inviato e si nota il comportamento seguente:
     - Per un flusso di lavoro che utilizza il tipo di piattaforma SharePoint 2013, passare alla pagina **stato flusso di lavoro** . Nella pagina Stato flusso di lavoro lo **stato interno** è impostato su **avviato**e il fumetto di informazioni non è in **grado di inviare messaggi a un destinatario**.
 
-Per ovviare a questo problema, configurare il flusso di lavoro per l'invio di messaggi di posta elettronica senza superare i [limiti dei mittenti di Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Ad esempio, utilizzare una pausa nel flusso di lavoro, inviare il messaggio di posta elettronica a un gruppo di Office 365, a un gruppo di distribuzione o di sicurezza abilitato alla posta elettronica oppure inviare i messaggi a un numero di destinatari inferiore a 200 alla volta.
+Per ovviare a questo problema, configurare il flusso di lavoro per l'invio di messaggi di posta elettronica senza superare i [limiti dei mittenti di Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Ad esempio, utilizzare una pausa nel flusso di lavoro, inviare il messaggio di posta elettronica a un gruppo di Microsoft 365, un gruppo di distribuzione o di sicurezza abilitato alla posta elettronica oppure inviare messaggi a meno di 200 destinatari alla volta.
 
 
 Per ulteriori informazioni, vedere l' [articolo](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)seguente.
