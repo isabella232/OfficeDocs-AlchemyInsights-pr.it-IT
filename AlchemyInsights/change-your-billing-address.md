@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198853"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943947"
 ---
 # <a name="change-your-billing-address"></a>Modificare l'indirizzo di fatturazione
 
-La fattura o la fattura contiene tre indirizzi. 
+La fattura o la fattura contiene tre indirizzi.
 
-**Modificare l'indirizzo di fatturazione**
+**Modificare l'indirizzo di fatturazione per un metodo di pagamento**
 
-1. Nell'interfaccia di amministrazione, accedere alla pagina **pagamenti > [pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** . 
+1. Nell'interfaccia di amministrazione, passare a **fatturazione > [modalità di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+2. Selezionare la carta di credito o il conto corrente bancario che si desidera modificare.
+3. Nella pagina dei **Dettagli del metodo di pagamento** , fare clic su **modifica**.
+4. Aggiornare l'indirizzo di fatturazione, quindi fare clic su **salva > completata**.
 
-2. Selezionare la carta di credito o il conto corrente bancario che si desidera modificare. 
+Per ulteriori informazioni sulle modifiche relative all'indirizzo e alla notifica, vedere [Change Your billing address for Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
 
-3. Nella pagina dei **Dettagli del metodo di pagamento** , fare clic su **modifica**. 
+**Modificare le informazioni sull'account di fatturazione**
 
-4. Aggiornare l'indirizzo di fatturazione, quindi fare clic su **salva > completata**. 
+1. Nell'interfaccia di amministrazione, accedere a **fatturazione > [account di fatturazione](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+2. Selezionare **modifica informazioni account di fatturazione**.
+3. Aggiornare le informazioni sull'account di fatturazione, quindi fare clic su **salva > completata**.
 
-Per ulteriori informazioni sulle modifiche relative all'indirizzo e alla notifica, vedere [Change Your addresses for Office 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide). 
+**Nota**: non è possibile modificare il paese/area geografica. Se questo campo deve essere modificato, è necessario acquistare un nuovo tenant.

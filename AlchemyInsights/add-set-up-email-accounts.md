@@ -13,14 +13,14 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: def94c6645a609ba2b24593e0439bb7fce0d3beb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 18c1daeac68aac9931994e8484b334f61028bc3a
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671425"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947621"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Problemi durante la configurazione di un account di posta elettronica di Exchange in Outlook
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>Problemi durante la configurazione di un account di posta elettronica in Outlook
 
 Se si verificano problemi durante la configurazione di un account di Exchange in Outlook, è possibile eseguire lo [strumento di configurazione dell'account di Outlook](https://aka.ms/SaRA-OutlookSetupProfile) nel computer in questione. Eseguirà vari controlli e fornirà le possibili soluzioni per il problema di configurazione dell'account.
   
