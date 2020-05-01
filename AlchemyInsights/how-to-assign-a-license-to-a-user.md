@@ -1,5 +1,5 @@
 ---
-title: Come assegnare una licenza a un utente
+title: Assegnare o annullare l'assegnazione di licenze agli utenti
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 21e039f381cf853b1b3879787d65a2f809fd1e65
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 6051af464630a9a23d47d8ae8e7b1c4729cc06e0
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799163"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957874"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a>Come assegnare una licenza a un utente
+# <a name="assign-or-unassign-licenses-to-users"></a>Assegnare o annullare l'assegnazione di licenze agli utenti
 
 Un utente ha bisogno di una licenza per avere accesso ai servizi. Di seguito sono riportati i passaggi per **aggiungere, modificare o rimuovere** una licenza da un utente.
   
