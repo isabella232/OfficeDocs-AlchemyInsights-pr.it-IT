@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 46dd8532d920c33d2bd82c1cea752944b3a99866
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702886"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005334"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Estendere la versione di valutazione per Microsoft 365 for business
 
-È possibile estendere la versione di valutazione per un altro periodo di 30 giorni. È possibile farlo una sola volta.
+È possibile estendere la versione di valutazione per un periodo di 30 giorni. Dopo che il processo viene eseguito in un [periodo di tolleranza](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)di 30 giorni supplementare. Eseguire la procedura seguente per estendere la versione di valutazione:
   
 1. Nell'interfaccia di amministrazione, accedere a prodotti di **fatturazione** \> [& Servizi](https://portal.office.com/adminportal/home#/subscriptions).
 
