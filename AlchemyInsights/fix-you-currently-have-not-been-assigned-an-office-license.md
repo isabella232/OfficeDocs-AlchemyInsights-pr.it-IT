@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: aceea65f054299797e989330b64af17a24fd5389
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218237"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010186"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Correzione : "Non ti è stata assegnata una licenza di Office"
 
-Per installare le app client di Office, verificare di avere un abbonamento a Office 365 o Microsoft 365 che [includa le app client di Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), ad esempio Office 365 Business Premium, Office 365 Business o Office 365 ProPlus.
+Per installare le app client di Office, verificare di avere un abbonamento a Office 365 o Microsoft 365 che [includa le app client di Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), ad esempio Microsoft 365 Business Premium, Microsoft 365 Apps for business o Microsoft 365 Apps for enterprise.
 
 **Nota**: [Office Home and Business](https://products.office.com/home-and-business) è un prodotto [Office per utenti privati](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) e non fa parte di un abbonamento per le aziende. Project Online Essentials non include una versione desktop di Project, quindi non è necessaria alcuna installazione. Gli utenti di Visio piano 1 possono accedere a Visio sul Web, perché il piano non include l'app desktop Visio. Le app desktop di Project e Visio non sono disponibili per Mac
 
