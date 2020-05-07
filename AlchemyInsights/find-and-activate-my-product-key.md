@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716140"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062468"
 ---
 # <a name="find-and-activate-my-product-key"></a>Individuare e attivare il codice Product Key
 
@@ -32,7 +32,7 @@ Se è stato acquistato Microsoft 365 Business Premium standard da un punto vendi
 
 **Nota**: per utilizzare un codice "Product Key" per estendere la data di scadenza o aggiungere una licenza alla sottoscrizione standard di Microsoft 365 Business Premium esistente, è necessaria una chiave nuova e inutilizzata per la stessa sottoscrizione di Microsoft 365.  L'immissione del codice Product Key originale di Microsoft 365 non funzionerà perché non è possibile utilizzare di nuovo un tasto che è già stato riscattato.
 
-1. Nell'interfaccia di amministrazione, accedere alla pagina dei[servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** > .
+1. Nell'interfaccia di amministrazione, andare alla pagina **fatturazione** > dei**[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Individuare la sottoscrizione a cui si desidera estendere la data di scadenza o aggiungere le licenze.  Fare clic su [Estendi data di fine](https://go.microsoft.com/fwlink/p/?linkid=842054) o [Aggiungi altre licenze](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
