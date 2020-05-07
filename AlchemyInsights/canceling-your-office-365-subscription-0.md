@@ -13,18 +13,18 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 386d399ddddc553862649b548a58ff42abd0923d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711527"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44059081"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Annullamento dell'abbonamento a Microsoft 365?
 
 Ci dispiace vederti andare!
   
-In base ai dati dell'organizzazione, riteniamo che tutti gli abbonamenti correnti abbiano meno di 25 seggi. Per annullare l'abbonamento online, accedere alla pagina dei [servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** \> . Nella sezione **impostazioni & azioni** scegliere **Annulla sottoscrizione**.
+In base ai dati dell'organizzazione, riteniamo che tutti gli abbonamenti correnti abbiano meno di 25 seggi. Per annullare l'abbonamento online, andare alla pagina **fatturazione** \> dei **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Nella sezione **impostazioni & azioni** scegliere **Annulla sottoscrizione**.
   
 **Restituzione: ogni credito proporzionale verrà restituito all'utente entro il prossimo ciclo di fatturazione.** 
 
