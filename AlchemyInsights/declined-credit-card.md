@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705089"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062288"
 ---
 # <a name="declined-credit-card"></a>Carta di credito rifiutata
 
-Se si paga con carta di credito e questa viene rifiutata, si riceverà un messaggio di posta elettronica che informa che non è stato possibile elaborare il pagamento. Verificare che i dettagli della [carta di credito](https://go.microsoft.com/fwlink/p/?linkid=842054) : il numero di carta, la data di scadenza, il nome sulla carta di credito e l'indirizzo, tra cui la città, lo stato e il codice postale, vengano visualizzati esattamente come nella carta di credito e nell'estratto conto della carta di credito. È possibile aggiornare le informazioni sulla carta di credito e inviare immediatamente il pagamento utilizzando l'opzione **liquida saldo** nella pagina [prodotti & Servizi](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+Se si paga con carta di credito e questa viene rifiutata, si riceverà un messaggio di posta elettronica che informa che non è stato possibile elaborare il pagamento. Verificare che i dettagli della [carta di credito](https://go.microsoft.com/fwlink/p/?linkid=842054) : il numero di carta, la data di scadenza, il nome sulla carta di credito e l'indirizzo, tra cui la città, lo stato e il codice postale, vengano visualizzati esattamente come nella carta di credito e nell'estratto conto della carta di credito. È possibile aggiornare le informazioni sulla carta di credito e inviare immediatamente il pagamento utilizzando l'opzione **liquida saldo** nella pagina i **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** . 
 
 Per ulteriori informazioni, vedere "che cosa succede se la carta di credito è scaduta e il pagamento è scaduto?" in [pay per l'abbonamento a Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   

@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: b7436583f6aa8e0fe22c1bff71271a94b3de583c
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43787878"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063549"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Come creare un acquisto di Microsoft 365
 
@@ -25,13 +25,13 @@ Gli acquisti in Microsoft 365 possono essere effettuati nell'interfaccia di ammi
   
 - Per acquistare un piano, andare alla pagina **Billing** \> [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) per la fatturazione.
 
-- Per acquistare altre licenze, passare alla pagina dei [servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** \> . Scegliere l'abbonamento a cui si desidera aggiungere licenze, quindi selezionare **Aggiungi/Rimuovi licenze**.
+- Per acquistare altre licenze, andare alla pagina **fatturazione** \> dei **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Scegliere l'abbonamento a cui si desidera aggiungere licenze, quindi selezionare **Aggiungi/Rimuovi licenze**.
   
 Per ulteriori informazioni, vedere [acquistare licenze per l'abbonamento a Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
 **Risoluzione dei problemi**
 
-Se si verificano problemi durante il caricamento delle pagine, provare ad aprire la pagina Web in un browser diverso oppure in una finestra del browser privata, ad esempio una finestra InPrivate di Microsoft Edge o una finestra di navigazione in incognito in Google Chrome. 
+Se si verificano problemi durante il caricamento delle pagine, provare ad aprire la pagina Web in un browser diverso oppure in una finestra del browser privata, ad esempio una finestra InPrivate di Microsoft Edge o una finestra di navigazione in incognito in Google Chrome.
 
 **Risorse aggiuntive**
   

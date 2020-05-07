@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 5741edef38f15bfa546aba3a2868c4621da4934e
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 19871ba1cb6d12be3c0eab462adcbe0840afeebe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417725"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061783"
 ---
 # <a name="billing-and-payment"></a>Fatturazione e pagamento
 
@@ -34,13 +34,13 @@ Se si paga con carta di credito o conto corrente bancario, il metodo di pagament
 
 Se è stata aggiunta una nuova scheda e si riceve un avviso di rifiuto sulla vecchia carta di credito, potrebbe essere necessario associare la nuova scheda alla sottoscrizione.
 
-1. Accedere a prodotti di **fatturazione** > [& Servizi](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Andare a **fatturazione** > dei**[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Selezionare l'abbonamento che si desidera pagare con la nuova carta o il conto corrente bancario. Nella sezione **fatturazione** , accanto al metodo di pagamento, fare clic su **modifica**.
+2. Selezionare l'abbonamento che si vuole pagare con la nuova carta o il nuovo conto corrente bancario. Nella sezione **Fatturazione** fare clic su **Modifica** accanto al metodo di pagamento.
 
-3. Fare clic su **modifica** accanto al metodo di pagamento corrente.
+3. Fare clic su **Cambia** accanto al metodo di pagamento corrente.
 
-4. Scegliere un metodo di pagamento alternativo dal menu a discesa oppure aggiungere un nuovo metodo di pagamento.
+4. Selezionare una modalità di pagamento alternativa nel menu a discesa o aggiungere una nuova modalità di pagamento.
 
 Per ulteriori informazioni, vedere [Add, Update o Remove your payment methods](https://go.microsoft.com/fwlink/?linkid=2118133).
 

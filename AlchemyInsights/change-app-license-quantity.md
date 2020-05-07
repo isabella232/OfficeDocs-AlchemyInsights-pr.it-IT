@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 9914a95ddbebf376e740b2d7b3d88ae58aed4a45
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 39512e97c9fba1e15a2c88ce7bc1de8a15c65cc0
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707047"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44058756"
 ---
 # <a name="change-app-license-quantity"></a>Modificare la quantità di licenza dell'app
 
@@ -25,7 +25,7 @@ ms.locfileid: "43707047"
 
 ## <a name="to-change-license-quantity"></a>Per modificare la quantità di licenza
 
-1. Passare alla pagina dei[servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** > e quindi scegliere la scheda **app** .
+1. Passare alla pagina **fatturazione** > dei**[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** e quindi scegliere la scheda **app** .
 
 2. Individuare e selezionare l'app che si desidera gestire.  
 
@@ -35,7 +35,7 @@ ms.locfileid: "43707047"
 
 ## <a name="to-assign-app-licenses"></a>Per assegnare le licenze per le app
 
-1. Passare alla pagina dei[servizi di &](https://go.microsoft.com/fwlink/p/?linkid=842054) di **fatturazione** > e quindi scegliere la scheda **app** .
+1. Passare alla pagina **fatturazione** > dei**[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** e quindi scegliere la scheda **app** .
 
 2. Individuare e selezionare l'app che si desidera gestire.  
 

@@ -1,5 +1,5 @@
 ---
-title: Servizi & prodotti
+title: Prodotti
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758794"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062865"
 ---
-# <a name="products--services"></a>Servizi & prodotti
+# <a name="your-products"></a>Prodotti
 
-È possibile trovare le sottoscrizioni di proprietà dell'organizzazione nella pagina prodotti di **fatturazione** > [**& Servizi**](https://go.microsoft.com/fwlink/p/?linkid=842054) . Di seguito sono riportati alcuni dei punti salienti di questa pagina insieme ai collegamenti per altre informazioni su ogni caratteristica:
+È possibile trovare le sottoscrizioni di proprietà dell'organizzazione nella pagina **fatturazione** > dei**[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Di seguito sono riportati alcuni dei punti salienti di questa pagina insieme ai collegamenti per altre informazioni su ogni caratteristica:
 
 1. Gestire il numero di licenze acquistate per ogni sottoscrizione insieme a quante sono in uso.  **Nota**: le licenze che non sono in uso (non assegnate a un utente) sono ancora cariche.  Per non essere addebitato per le licenze inutilizzate, ridurre il numero di licenze acquistate. Per informazioni su come aggiungere o rimuovere licenze da un abbonamento, vedere [come aggiungere o ridurre le licenze](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 

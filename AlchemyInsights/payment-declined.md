@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3564"
 - "9001506"
-ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 390aba6a8f7ce255548d9cb0edb4b427811a9efa
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160820"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063189"
 ---
 # <a name="payment-declined"></a>Pagamento rifiutato
 
-Microsoft tenterà di ricaricare la scheda più volte nelle 3-4 settimane successive alla data della fattura.  Se sono state ricevute solo una o due notifiche di declino per questo periodo di fatturazione, Microsoft tenterà automaticamente di ricaricare il proprio strumento di pagamento.  
+Microsoft proverà a effettuare un addebito sulla carta più volte nelle 3-4 settimane successive alla data della fattura.  Se in questo periodo di fatturazione si sono ricevute solo una o due notifiche di rifiuto, Microsoft tenterà automaticamente di effettuare l'addebito sullo strumento di pagamento.  
 
-**Importante**: se è stata aggiunta una nuova scheda e si riceve un avviso di rifiuto sulla vecchia carta di credito, potrebbe essere necessario associare la nuova scheda alla sottoscrizione.
+**Importante**: se è stata aggiunta una nuova carta di credito e si continua a ricevere un avviso di rifiuto sulla vecchia carta di credito, potrebbe essere necessario associare la nuova carta all'abbonamento.
 
-1. Andare a **fatturazione > [prodotti & Servizi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Vai a **fatturazione > [prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Selezionare l'abbonamento che si desidera pagare con la nuova carta o il conto corrente bancario. Nella sezione **fatturazione** , accanto al metodo di pagamento, fare clic su **modifica**.
+2. Selezionare l'abbonamento che si vuole pagare con la nuova carta o il nuovo conto corrente bancario. Nella sezione **Fatturazione** fare clic su **Modifica** accanto al metodo di pagamento.
 
-3. Fare clic su **modifica** accanto al metodo di pagamento corrente.
+3. Fare clic su **Cambia** accanto al metodo di pagamento corrente.
 
-4. Scegliere un metodo di pagamento alternativo dal menu a discesa oppure aggiungere un nuovo metodo di pagamento.
+4. Selezionare una modalità di pagamento alternativa nel menu a discesa o aggiungere una nuova modalità di pagamento.
 
-**Aggiornare o aggiungere un nuovo metodo di pagamento**
+**Aggiornare o aggiungere una nuova modalità di pagamento**
 
-1. Passare alla pagina **fatturazione > fatture & pagamenti > [modalità di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** .
+1. Passare alla pagina **Fatturazione > Fatture e pagamenti > [Modalità di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 
-2. Fare clic su **Aggiungi un metodo di pagamento**, scegliere la scheda o il conto corrente bancario per aggiornare e fare clic su **modifica**.
+2. Fare clic su **Aggiungi un metodo di pagamento**, selezionare la carta o il conto corrente bancario da aggiornare e fare clic su **Modifica**.
 
-3. Aggiornare le informazioni sul metodo di pagamento (nome sulla carta o sul conto corrente bancario, sull'indirizzo di fatturazione, sul numero di telefono o sulla data di scadenza), quindi fare clic su **Salva**.
+3. Aggiornare le informazioni sulla modalità di pagamento, ovvero nome riportato sulla carta di credito o sul conto corrente, indirizzo di fatturazione, numero di telefono o data di scadenza), quindi fare clic su **Salva**.
 
-4. Ricordarsi di modificare il modo in cui si pagano gli abbonamenti a questo nuovo metodo di pagamento. Per altre informazioni, vedere[Aggiungere, aggiornare o rimuovere i metodi di pagamento](https://go.microsoft.com/fwlink/?linkid=2118133). 
+4. Ricordarsi di modificare la modalità di pagamento per gli abbonamenti a questo nuovo metodo. Per altre informazioni, vedere[Aggiungere, aggiornare o rimuovere i metodi di pagamento](https://go.microsoft.com/fwlink/?linkid=2118133).
