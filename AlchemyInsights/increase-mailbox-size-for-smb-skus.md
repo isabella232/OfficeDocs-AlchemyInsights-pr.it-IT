@@ -11,25 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 1f4832ee74470ec2cb0f61fcc50ac559d3767791
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 74bbfc03335ece92c09805f419a5d9544e8c7506
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714082"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064289"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a><span data-ttu-id="debc6-102">Cambiare piano per aumentare le dimensioni della cassetta postale</span><span class="sxs-lookup"><span data-stu-id="debc6-102">Switch plans to increase mailbox size</span></span>
+# <a name="upgrade-plans-to-increase-mailbox-size"></a><span data-ttu-id="3e329-102">Aggiornare i piani per aumentare le dimensioni delle cassette postali</span><span class="sxs-lookup"><span data-stu-id="3e329-102">Upgrade plans to increase mailbox size</span></span>
 
-<span data-ttu-id="debc6-103">Se le dimensioni della cassetta postale sono pari a 50 GB, è possibile aumentarle fino a 100 GB passando al piano [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) o [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software).</span><span class="sxs-lookup"><span data-stu-id="debc6-103">If the mailbox size is 50 GB, you can increase the mailbox size to 100 GB by switching to [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) or [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software).</span></span> <span data-ttu-id="debc6-104">Di seguito sono riportati i passaggi per passare a un abbonamento diverso:</span><span class="sxs-lookup"><span data-stu-id="debc6-104">Here are the steps to switch to a different subscription:</span></span>
+<span data-ttu-id="3e329-103">Se le dimensioni della cassetta postale sono pari a 50 GB, è possibile aumentarle fino a 100 GB passando al piano [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) o [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software).</span><span class="sxs-lookup"><span data-stu-id="3e329-103">If the mailbox size is 50 GB, you can increase the mailbox size to 100 GB by switching to [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) or [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software).</span></span> <span data-ttu-id="3e329-104">Di seguito sono riportati i passaggi per passare a un abbonamento diverso:</span><span class="sxs-lookup"><span data-stu-id="3e329-104">Here are the steps to switch to a different subscription:</span></span>
   
-1. <span data-ttu-id="debc6-105">Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **abbonamenti**di **fatturazione** \> .</span><span class="sxs-lookup"><span data-stu-id="debc6-105">In the Microsoft 365 admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
-    
-2. <span data-ttu-id="debc6-106">Scegliere **Cambia piano** per visualizzare l'elenco dei nuovi piani disponibili.</span><span class="sxs-lookup"><span data-stu-id="debc6-106">Choose **Switch plans** to view the list of new plans that are available.</span></span> 
-    
-3. <span data-ttu-id="debc6-p102">Scegliere un piano per vedere il nuovo costo mensile totale. Leggere le **informazioni principali**, quindi scegliere **Avanti** per passare alla cassa.</span><span class="sxs-lookup"><span data-stu-id="debc6-p102">Choose a plan to see the new total cost per month. Be sure to read the **key information**, then choose **Next** to check out.</span></span> 
-    
-4. <span data-ttu-id="debc6-109">Al termine del checkout, Microsoft 365 richiede alcuni minuti per completare l'opzione.</span><span class="sxs-lookup"><span data-stu-id="debc6-109">When you finish checkout, Microsoft 365 takes a few minutes to finalize the switch.</span></span> <span data-ttu-id="debc6-110">È possibile iniziare subito a usare il nuovo abbonamento.</span><span class="sxs-lookup"><span data-stu-id="debc6-110">You can start using your new subscription right away.</span></span>
-    
-<span data-ttu-id="debc6-111">Per ulteriori informazioni, vedere [passare a una sottoscrizione di Microsoft 365 diversa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).</span><span class="sxs-lookup"><span data-stu-id="debc6-111">For more details, see [Switch to a different Microsoft 365 subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).</span></span>
-  
+1. <span data-ttu-id="3e329-105">Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina **fatturazione** > dei[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="3e329-105">In the Microsoft 365 admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
+2. <span data-ttu-id="3e329-106">Selezionare la sottoscrizione da aggiornare, quindi selezionare la scheda **Aggiorna** per visualizzare l'elenco dei nuovi piani disponibili.</span><span class="sxs-lookup"><span data-stu-id="3e329-106">Select the subscription to upgrade, then select the **Upgrade** tab to view the list of new plans that are available.</span></span>
+
+3. <span data-ttu-id="3e329-p102">Scegliere un piano per vedere il nuovo costo mensile totale. Leggere le **informazioni principali**, quindi scegliere **Avanti** per passare alla cassa.</span><span class="sxs-lookup"><span data-stu-id="3e329-p102">Choose a plan to see the new total cost per month. Be sure to read the **key information**, then choose **Next** to check out.</span></span>
+
+4. <span data-ttu-id="3e329-109">Al termine del checkout, Microsoft 365 richiede alcuni minuti per completare l'opzione.</span><span class="sxs-lookup"><span data-stu-id="3e329-109">When you finish checkout, Microsoft 365 takes a few minutes to finalize the switch.</span></span> <span data-ttu-id="3e329-110">È possibile iniziare subito a usare il nuovo abbonamento.</span><span class="sxs-lookup"><span data-stu-id="3e329-110">You can start using your new subscription right away.</span></span>
+
+<span data-ttu-id="3e329-111">Per ulteriori informazioni, vedere [aggiornamento a un piano diverso](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span><span class="sxs-lookup"><span data-stu-id="3e329-111">For more details, see [Upgrade to a different plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span></span>
