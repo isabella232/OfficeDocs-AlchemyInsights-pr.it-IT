@@ -12,18 +12,18 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: d202ab1ad27c886473793dd1bde77409bff6939a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0362ef42344aba57eca276a9fafb5e847dd9996f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709519"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063909"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Come acquistare licenze per l'abbonamento a Microsoft 365 Apps for business
 
 Quando si assegnano le licenze agli utenti, potrebbe essere necessario acquistare altre licenze. Per eseguire l'operazione:
   
-1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [Prodotti e servizi](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Nell'interfaccia di amministrazione, andare alla pagina **fatturazione** \> dei **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Individuare la sottoscrizione a cui si desidera aggiungere licenze, quindi selezionare **Aggiungi/Rimuovi licenze**.
 

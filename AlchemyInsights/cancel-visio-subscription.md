@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 0e38edf7f3e10486b0ce3313dfcb004d848ed1bf
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: bad7c8b3503800101d758fbcdd0429fc097bd2a0
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552767"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061602"
 ---
 # <a name="cancel-visio-subscription"></a>Annullare la sottoscrizione di Visio
 
-Gli amministratori possono annullare la sottoscrizione di Visio per la propria organizzazione dall'interfaccia di **amministrazione di Microsoft 365**. 
+Gli amministratori possono annullare la sottoscrizione di Visio per la propria organizzazione dall'interfaccia di **amministrazione di Microsoft 365**.
 
-1. Selezionare l'opzione **fatturazione** .
+1. Passare alla pagina **fatturazione > [prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
 
-2. Fare clic su [products & Services](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/subscriptions) per visualizzare tutte le sottoscrizioni per l'organizzazione.
+2. Individuare il piano di Visio da annullare.
 
-3. Individuare il piano di Visio da annullare.
+3. Fare clic su **Annulla sottoscrizione**.
 
-4. Fare clic su **Annulla sottoscrizione**.
+**Restituzione: ogni credito proporzionale verrà restituito all'utente entro il prossimo ciclo di fatturazione.**
 
-**Restituzione: ogni credito proporzionale verrà restituito all'utente entro il prossimo ciclo di fatturazione.** 
+**Nota**: se non si vede l'opzione per annullare, fare clic sull'abbonamento per visualizzare i dettagli e l'opzione **Annulla sottoscrizione** in **Impostazioni & azioni**.
 
-**Nota**: se non si vede l'opzione per annullare, fare clic sull'abbonamento per visualizzare i dettagli e l'opzione **Annulla sottoscrizione** in **Impostazioni & azioni**. 
-
-Per ulteriori informazioni, vedere [annullare l'abbonamento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Per ulteriori informazioni, vedere [annullare l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

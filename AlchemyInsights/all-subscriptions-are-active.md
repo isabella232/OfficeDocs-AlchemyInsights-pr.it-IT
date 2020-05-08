@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 54619d2b5012ec100f8e1b25c49cec6f821375dd
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708251"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086892"
 ---
 # <a name="all-subscriptions-are-active"></a>Tutte le sottoscrizioni sono attive
 
-Gli abbonamenti sono attivi. Questo può essere verificato accedendo alla pagina **Billing** \> [abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) di fatturazione. Gli abbonamenti sono ordinati in base allo stato, con le sottoscrizioni attive nella parte superiore. Per ulteriori informazioni, ad esempio il numero di licenze e il metodo di pagamento, è possibile scegliere la sottoscrizione.
+Gli abbonamenti sono attivi. Questo può essere verificato accedendo alla pagina **Billing** \> [your products](https://go.microsoft.com/fwlink/p/?linkid=842054) . Gli abbonamenti sono ordinati in base allo stato, con le sottoscrizioni attive nella parte superiore. Per ulteriori informazioni, ad esempio il numero di licenze e il metodo di pagamento, è possibile scegliere la sottoscrizione.
   
-In caso di problemi con il servizio, utilizzare l'opzione "Let us Call You" per comunicare con un tecnico di supporto.
+Se si desidera rimuovere gli abbonamenti attivi o chiudere l'account, vedere [How to close your account](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).
