@@ -13,10 +13,10 @@ ms.custom:
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
 ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064233"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Cambiare le sottoscrizioni per aumentare le dimensioni delle cassette postali
@@ -25,7 +25,7 @@ Se la dimensione della cassetta postale è già 100 GB, non esiste alcun modo pe
   
 Se la dimensione della cassetta postale è di 50 GB, è possibile aumentarla fino a 100 GB passando a [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) o [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Di seguito sono riportati i passaggi per passare a un abbonamento diverso:
   
-1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina **fatturazione** \> dei **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina **fatturazione** dei \> **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Selezionare l'abbonamento che si desidera aggiornare.
 

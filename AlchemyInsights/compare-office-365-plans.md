@@ -14,10 +14,10 @@ ms.custom:
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
 ms.openlocfilehash: da471e392abd5d5a732206fd7306f48975268b74
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058431"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>Confronto, aggiornamento o acquisto di sottoscrizioni
@@ -28,4 +28,4 @@ Se l'organizzazione è interessata a confrontare tutti i piani e i prezzi, esami
   
 Se l'organizzazione ha già acquistato abbonamenti ed è interessata a passare a un piano diverso, è possibile farlo dall'interfaccia di amministrazione di Microsoft 365. Passare alla pagina **fatturazione** \> [i prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054) , selezionare l'abbonamento che si desidera modificare, quindi scegliere la scheda **aggiornamento** per visualizzare l'elenco dei nuovi piani disponibili.
   
-L'organizzazione può anche combinare gli abbonamenti per soddisfare le esigenze e i requisiti di funzionalità degli utenti. Dall'interfaccia di amministrazione, passare alla pagina **Billing** \> [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) per la fatturazione.
+L'organizzazione può anche combinare gli abbonamenti per soddisfare le esigenze e i requisiti di funzionalità degli utenti. Dall'interfaccia di amministrazione, passare alla **Billing** \> pagina [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) per la fatturazione.

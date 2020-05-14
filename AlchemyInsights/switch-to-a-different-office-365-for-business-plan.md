@@ -13,17 +13,17 @@ ms.custom:
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
 ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064361"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Passare a un abbonamento diverso di Microsoft 365 for business
 
 Quando si modifica la propria azienda o sono necessarie altre funzionalità, è possibile eseguire l'aggiornamento a un nuovo piano.
   
-1. Nell'interfaccia di amministrazione, andare alla pagina **fatturazione** \> dei **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Nell'interfaccia di amministrazione, andare alla pagina **fatturazione** dei \> **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Selezionare l'abbonamento che si desidera aggiornare.
 

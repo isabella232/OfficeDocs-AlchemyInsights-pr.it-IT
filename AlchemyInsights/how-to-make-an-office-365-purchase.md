@@ -13,19 +13,19 @@ ms.custom:
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
 ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063549"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Come creare un acquisto di Microsoft 365
 
 Gli acquisti in Microsoft 365 possono essere effettuati nell'interfaccia di amministrazione.
   
-- Per acquistare un piano, andare alla pagina **Billing** \> [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) per la fatturazione.
+- Per acquistare un piano, andare alla **Billing** \> pagina [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) per la fatturazione.
 
-- Per acquistare altre licenze, andare alla pagina **fatturazione** \> dei **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Scegliere l'abbonamento a cui si desidera aggiungere licenze, quindi selezionare **Aggiungi/Rimuovi licenze**.
+- Per acquistare altre licenze, andare alla pagina **fatturazione** dei \> **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Scegliere l'abbonamento a cui si desidera aggiungere licenze, quindi selezionare **Aggiungi/Rimuovi licenze**.
   
 Per ulteriori informazioni, vedere [acquistare licenze per l'abbonamento a Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 

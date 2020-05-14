@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062108"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Attivare o riattivare un abbonamento
@@ -33,7 +33,7 @@ ms.locfileid: "44062108"
 
 Se l'abbonamento scade, è stato disabilitato da Microsoft o è stato annullato al centro di un termine di sottoscrizione, è possibile riattivarlo nell'interfaccia di amministrazione.
   
-1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina **fatturazione** > dei[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina **fatturazione**dei  >  [prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Scegliere l'abbonamento che si desidera riattivare, quindi selezionare **riattiva**. Se l'opzione **Riattiva** non è disponibile, [contattare il supporto](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) per riattivare l'abbonamento.
 

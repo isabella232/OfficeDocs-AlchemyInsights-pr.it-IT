@@ -14,10 +14,10 @@ ms.custom:
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
 ms.openlocfilehash: 3ba7f9a7e18951454cfea3d65915b4862d697753
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063981"
 ---
 # <a name="too-many-licenses"></a>Troppe licenze?
@@ -26,7 +26,7 @@ Se si ritiene di essere addebitati per troppe licenze, di solito questo è dovut
   
 **Ridurre il numero di licenze acquistate**
   
-1. Nell'interfaccia di amministrazione, andare alla pagina **fatturazione** \> dei **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Nell'interfaccia di amministrazione, andare alla pagina **fatturazione** dei \> **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Individuare l'abbonamento da cui si desidera rimuovere le licenze, quindi selezionare **Aggiungi/Rimuovi licenze**.
 

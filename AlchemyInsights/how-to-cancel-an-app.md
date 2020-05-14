@@ -13,15 +13,15 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: c747df3a17280cf3b84b80659607002d71f309c1
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062504"
 ---
 # <a name="how-to-cancel-software-as-a-service-apps"></a>Come annullare le app software-come-a-Service 
 
-1. Nell'interfaccia di amministrazione di Microsoft 365, alla pagina **Billing** > **[your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** , quindi scegliere la scheda **Apps** .
+1. Nell'interfaccia di amministrazione di Microsoft 365, alla pagina **Billing**  >  **[your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** , quindi scegliere la scheda **Apps** .
 
 2. Individuare e selezionare l'app che si desidera gestire.
 
