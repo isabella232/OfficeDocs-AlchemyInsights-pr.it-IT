@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720700"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235301"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Come trovare e recuperare i messaggi, i contatti o gli elementi del calendario mancanti in Outlook
 
-- È possibile utilizzare i [problemi di invio, ricezione o ricerca di messaggi di posta elettronica](https://aka.ms/SaRA-OutlookSendReceive) nel computer in questione. Questo strumento verificherà una serie di problemi e proporrà soluzioni possibili.
+1. In Outlook, accedere all'elenco delle cartelle di posta elettronica e quindi selezionare **elementi eliminati**. **Importante**: se non si visualizza la cartella **posta eliminata** , ma si vede la cartella **Cestino** , l'account non supporta il ripristino di un elemento che non è più presente nella cartella **posta eliminata** .
 
-- [Determinare se l'account è compromesso](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Se compromesso, seguire la procedura descritta in [risposta a un account di posta elettronica compromesso.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. Scegliere **Recupera elementi eliminati dal server dal**menu **Home** . **Importante**: se nel menu non è presente alcun comando **Recupera elementi eliminati dal server** , l'account non supporta il ripristino di un elemento che non è più presente nella cartella **posta eliminata** .
 
-- [Trovare il messaggio o l'elemento tramite la ricerca immediata](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. Selezionare gli elementi che si desidera ripristinare, fare clic su **Ripristina elementi selezionati**e quindi su **OK**.
 
-- [Ripristinare gli elementi eliminati in Outlook per Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**Dove vanno gli elementi recuperati?** Quando si ripristinano gli elementi dalla cartella elementi ripristinabili, questi vengono spostati nella cartella **posta eliminata** . Dopo aver ripristinato un elemento, è possibile trovarlo nella cartella **posta eliminata** e quindi spostarlo in un'altra cartella.
+
+È inoltre possibile utilizzare la pagina i [problemi di invio, ricezione o individuazione dei messaggi di posta elettronica](https://aka.ms/SaRA-OutlookSendReceive) **nel computer in questione**. Questo strumento verificherà una serie di problemi e proporrà soluzioni possibili.

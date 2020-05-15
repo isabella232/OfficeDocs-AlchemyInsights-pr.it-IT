@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bc554215f0fd50c8b0a1788715bcb44c17ee51ab
+ms.sourcegitcommit: 1697031e86a07e44b8937ffaca809229ba2be754
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712642"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44232333"
 ---
 # <a name="banned-sending-ip"></a>IP di invio vietato
 
-Quando si invia la posta elettronica a Microsoft 365, un mittente potrebbe riscontrare questo errore. Il mittente deve visitare https://sender.office.com e seguire le istruzioni.  Se non ricevono un messaggio di posta elettronica di verifica dal portale, verificarne la cartella posta indesiderata e/o provare con un altro indirizzo di posta elettronica.
+Quando si invia un destinatario di Office 365, è possibile che un mittente verifichi questo errore. Il mittente deve visitare il [portale di delisting IP di protezione da posta indesiderata di Office 365](https://sender.office.com/) e fornire il proprio indirizzo di posta elettronica e l'indirizzo IP che deve essere delisted. Se non ricevono un messaggio di posta elettronica di verifica dal portale, verificarne la cartella posta indesiderata e/o provare con un altro indirizzo di posta elettronica. 
+
+- Per istruzioni dettagliate, vedere [use the delist Portal to Remove yourself from the Blocked Senders list](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).
