@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742051"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343071"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Notifiche di avviso di SharePoint non recapitate
 
@@ -33,15 +33,6 @@ Domande frequenti sugli avvisi:
 
 - Non è possibile inviare avvisi al gruppo di distribuzione, sono supportati solo i gruppi di sicurezza e di O365.
 - Non è possibile personalizzare i modelli di posta elettronica di avviso. per ottenere tali risultati, è necessario utilizzare il flusso di lavoro Microsoft FLOW o SharePoint Designer.
-
-Ulteriori informazioni:
-
-- **Installazione avviso**: per ulteriori informazioni sulla configurazione degli avvisi, vedere [creare un avviso per ricevere una notifica quando un file o una cartella cambia in SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Risoluzione dei problemi relativi agli avvisi**: per ulteriori informazioni sulla risoluzione dei problemi relativi agli avvisi, vedere [gli utenti non ricevono notifiche degli avvisi di SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Criteri di avviso per la conformità avanzata di O365**: per ulteriori informazioni sulla configurazione di questi avvisi, vedere [Compliance Alert Policies](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **Registri di controllo di SharePoint e OneDrive**: per ulteriori informazioni su come recuperare tali eventi, vedere [Search the audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Avvisi inviati da Advanced Threat Protection**: vedere [ATP for SharePoint and OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Avvisi inviati da poliziotti per la prevenzione della perdita di dati**: vedere [notifiche tramite posta elettronica per i criteri DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Argomenti correlati
 
