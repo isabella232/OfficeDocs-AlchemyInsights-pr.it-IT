@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: c49dfbf422b312f4744711d5f12b0eb83b6ebf2e
+ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030683"
+ms.lasthandoff: 05/16/2020
+ms.locfileid: "44268776"
 ---
 # <a name="teams-client-crashing"></a>Il client di Teams si arresta in modo anomalo?
 
@@ -24,9 +24,9 @@ Se il client di Teams si arresta in modo anomalo, provare le operazioni seguenti
 
 - Se si usa l'applicazione desktop di Teams, [verificare che l'app sia completamente aggiornata](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Assicurarsi che tutti gli [intervalli di indirizzi e gli URL di Office 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) siano accessibili.
+- Assicurarsi che tutti gli [intervalli di indirizzi e gli URL di Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) siano accessibili.
 
-- Eseguire l'accesso con l'account amministratore e controllare la [Dashboard di integrità dei servizi](https://docs.microsoft.com/office365/enterprise/view-service-health) per verificare che non siano presenti interruzioni o riduzioni delle prestazioni del servizio.
+- Eseguire l'accesso con l'account amministratore del tenant e controllare il [Dashboard di integrità dei servizi](https://docs.microsoft.com/office365/enterprise/view-service-health) per verificare che non siano presenti interruzioni o riduzioni delle prestazioni del servizio.
 
  - Come ultimo passaggio, si può provare a cancellare la cache del client di Teams:
 
@@ -53,3 +53,11 @@ Se il client di Teams si arresta in modo anomalo, provare le operazioni seguenti
         - Infine, all'interno di **tmp**, eliminare i file: %appdata%\Microsoft\teams\tmp.
 
     4. Riavviare il client di Teams.
+
+Se il client di Teams si arresta ancora in modo anomalo, è possibile riprodurre il problema? In tal caso: 
+
+1. Usare la Registrazione azioni utente per acquisire la procedura.
+    - Chiudere TUTTE le applicazioni inutili o riservate.
+    - Avviare la Registrazione azioni utente e riprodurre il problema durante l'accesso con l'account utente interessato.
+    
+2. Allegare il file al caso di supporto.

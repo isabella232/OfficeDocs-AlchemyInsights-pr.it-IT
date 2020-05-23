@@ -11,21 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "5128"
-ms.openlocfilehash: 08125121083a3ddc7b84ea27a6262247c7ef3e0f
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: 59698324fc21dcf49b96363d61145e17364f9e01
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991228"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263952"
 ---
 # <a name="payment-faq"></a>Domande frequenti sui pagamenti
 
 Gestire i pagamenti nell'**interfaccia di amministrazione di Microsoft 365**. 
 
-1. Passare a **Fatturazione > [Prodotti e Servizi](https://go.microsoft.com/fwlink/p/?linkid=842054)** per assegnare o modificare i metodi di pagamento dell'abbonamento.
-2. Passare a **Fatturazione > [Modalità di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806)** per aggiungere/aggiornare/rimuovere metodi di pagamento.
-
-**Problemi noti e risoluzioni**
+- Passare a **Fatturazione > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** per assegnare o modificare i metodi di pagamento dell'abbonamento.
+- Passare a **Fatturazione > [Modalità di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806)** per aggiungere/aggiornare/rimuovere metodi di pagamento.
 
 - **Modalità di pagamento** - Se il pagamento avviene tramite carta di credito o conto corrente bancario, l'addebito viene effettuato alcuni giorni dopo la creazione della fattura. Se il pagamento non riesce, aggiornare il metodo di pagamento. Per altre informazioni, vedere[Aggiungere, aggiornare o rimuovere i metodi di pagamento](https://go.microsoft.com/fwlink/?linkid=2118133).
 
