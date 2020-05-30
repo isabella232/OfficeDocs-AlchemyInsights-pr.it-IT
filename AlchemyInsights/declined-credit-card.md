@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062288"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417608"
 ---
 # <a name="declined-credit-card"></a>Carta di credito rifiutata
 
@@ -28,4 +28,4 @@ Per ulteriori informazioni, vedere "che cosa succede se la carta di credito è s
   
 Se si continua a ricevere il messaggio di rifiuto, contattare la propria banca. È possibile che la carta di credito non sia attiva. Se ad esempio di recente si è ricevuta per posta la carta con una data di scadenza aggiornata, è possibile che sia necessario attivarla. Rivolgersi alla banca anche per sapere se la carta di credito non è approvata per transazioni online, internazionali o ricorrenti.  
   
-Per ulteriori informazioni [, vedere Risoluzione dei problemi relativi alle carte di credito e ai conti correnti bancari](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Per ulteriori informazioni, vedere [Manage Payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

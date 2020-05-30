@@ -12,12 +12,12 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062108"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418040"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Attivare o riattivare un abbonamento
 
@@ -37,7 +37,7 @@ Se l'abbonamento scade, è stato disabilitato da Microsoft o è stato annullato 
 
 2. Scegliere l'abbonamento che si desidera riattivare, quindi selezionare **riattiva**. Se l'opzione **Riattiva** non è disponibile, [contattare il supporto](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) per riattivare l'abbonamento.
 
-3. Immettere i dettagli sul pagamento. È anche possibile [aggiornare le attuali informazioni sul pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account).
+3. Immettere i dettagli sul pagamento. È anche possibile [aggiornare le attuali informazioni sul pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 Per altre informazioni, vedere [Riattivare l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
