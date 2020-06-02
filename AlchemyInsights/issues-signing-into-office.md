@@ -11,26 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
+ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763005"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44474429"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Problemi di accesso alle app di Office
+# <a name="issues-signing-into-microsoft-365-apps"></a>Problemi di accesso a Microsoft 365 Apps
 
-Per risolvere i problemi di accesso con le app di Office, provare a eseguire le operazioni seguenti:
+Per risolvere i problemi di accesso con le app Microsoft 365, provare a eseguire le seguenti opzioni nel computer in questione:  
 
-- Rimuovere tutti gli account di lavoro, ad eccezione dell'account danneggiato, utilizzando le impostazioni di Windows > **accedere al lavoro o all'Istituto di istruzione**.
-- [Cancellare le credenziali di Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) utilizzando Gestione credenziali di Windows.<br/>
-    **Nota:** I percorsi del registro di sistema per Office 2016 sono stati modificati in 16,0. (Es: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Aprire un'app di Office, scegliere**Esci dall'****account** >  **file** > . Accedere quindi utilizzando un account utente con una licenza valida. Per informazioni dettagliate, vedere [Account in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Per Mac, vedere [Non è possibile accedere a un'app di Office 2016 per Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
-- Se si verificano errori durante la connessione a Microsoft 365 con Office 2013, abilitare l'autenticazione moderna per il client di Office.
+- Per Windows, vedere [consigli per la risoluzione dei problemi di accesso comuni](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- Per Mac, vedere [Impossibile accedere a un'app di Office 2016 per Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-Per altre informazioni, vedere:
-- [Non è possibile accedere a Microsoft 365, Azure o Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [Problemi di connessione in accesso dopo l'aggiornamento a Office 2016 Build 16.0.7967 in Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["Spiacenti, un altro account dell'organizzazione è già stato eseguito l'accesso al computer" in Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [Risoluzione dei problemi di accesso con l'autenticazione moderna di Office quando si utilizzano ADFS](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+**Nota:** La disabilitazione dell'autenticazione moderna (ADAL) o della gestione degli account Web (WAM) per la risoluzione dei problemi di accesso o di attivazione **non è consigliata**. Se si verificano errori durante la connessione a Microsoft 365 con Office 2013, verificare che sia [abilitata l'autenticazione moderna](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) per il client di Office.
+
+Per le azioni di risoluzione dei problemi specifiche, vedere:
+
+[Problemi di connessione durante l'accesso dopo l'aggiornamento a Office 2016 build 16.0.7967 in Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+
+[Non è possibile accedere all'account dell'organizzazione, ad esempio Office 365, Azure o Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+
+[Come risolvere i problemi relativi alle app non browser che non sono in grado di accedere a Office 365, Azure o Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+
+[Richieste ripetute per le credenziali in Office](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
