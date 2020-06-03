@@ -12,12 +12,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: a8b1c378856adaa13bcd33d8bc185a093f990e2f
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: 53e92b44277d239c927d13e63a6437c4ec9d0996
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158404"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512378"
 ---
 # <a name="understand-your-bill"></a>Leggere la fattura
 
@@ -27,7 +27,7 @@ ms.locfileid: "43158404"
 
 2. Selezionare un intervallo di date nell'elenco a discesa e quindi scegliere l'ordine in cui esaminare le fatture oppure fare clic sul collegamento **Scarica fattura in formato PDF** per visualizzare una copia della fattura.
 
-Per altre informazioni, vedere [Visualizzare l'estratto conto o la fattura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Per altre informazioni, vedere [Visualizzare l'estratto conto o la fattura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
 
 **Informazioni sull'estratto conto o la fattura**
 

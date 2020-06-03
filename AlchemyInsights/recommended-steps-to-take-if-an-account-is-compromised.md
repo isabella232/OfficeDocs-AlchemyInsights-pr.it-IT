@@ -9,26 +9,26 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a094862a175184c3ac2a717cc59aefe2470b9fd1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719308"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510792"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Procedure consigliate da seguire in caso di compromissione dell’account
 
 [VIDEO: Correggere un account compromesso](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. [Reimpostare la password](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) immediatamente. Non comunicare la nuova password tramite posta elettronica all'utente finale.
+1. [Reimpostare la password](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) immediatamente. Non comunicare la nuova password tramite posta elettronica all'utente finale.
 
-2. Rimuovere qualsiasi [indirizzo di inoltro](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding) sospetto a livello di cassetta postale.
+2. Rimuovere qualsiasi [indirizzo di inoltro](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding) sospetto a livello di cassetta postale.
 
 3. Rimuovere tutte le [regole di posta in arrivo](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) sospette all'interno della cassetta postale.
 
 4. Se l'utente è bloccato e non può inviare la posta elettronica, [andare alla pagina Utenti con restrizioni per sbloccare l'account](https://protection.office.com/?hash=/restrictedusers). Fatto questo, dovrebbe essere possibile riprendere l'invio dei messaggi entro un'ora.
 
-5. Rimuovere l'account dell’utente da tutti i [gruppi di ruoli amministrativi](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) finché non si è certi che l'account non è più compromesso.
+5. Rimuovere l'account dell’utente da tutti i [gruppi di ruoli amministrativi](https://docs.microsoft.com/microsoft-365/admin/add-users/assign-admin-roles) finché non si è certi che l'account non è più compromesso.
 
 Per ridurre al minimo il rischio di violazione dei dati o di compromissione di un account in futuro, è consigliabile leggere l'articolo [Roadmap sulla sicurezza di Microsoft 365 ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   
