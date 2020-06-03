@@ -12,12 +12,12 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 0362ef42344aba57eca276a9fafb5e847dd9996f
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d50a6a0834fb26f2fd25e7defe2d4a125f7a62fa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063909"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496099"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Come acquistare licenze per l'abbonamento a Microsoft 365 Apps for business
 
@@ -29,4 +29,4 @@ Quando si assegnano le licenze agli utenti, potrebbe essere necessario acquistar
 
 3. Nella casella **Totale licenze** immettere il numero totale di licenze necessarie per l'abbonamento e quindi selezionare **Invia modifica**. Se, ad esempio, si hanno 100 licenze e occorre aggiungerne altre 5, immettere 105.
 
-Per ulteriori informazioni, vedere [acquistare licenze per l'abbonamento a Microsoft 365 Apps for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Per ulteriori informazioni, vedere [acquistare licenze per l'abbonamento a Microsoft 365 Apps for business](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

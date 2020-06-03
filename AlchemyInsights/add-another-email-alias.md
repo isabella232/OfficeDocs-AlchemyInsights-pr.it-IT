@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 09edadb004fefd1bda92a5242886aa0414f87752
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2ed387ad8506cfa33f63690d8034ff3df855a07d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708523"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44503007"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Creare o aggiungere un alias di posta elettronica per un utente
 
 Si deve creare un alias di posta elettronica per un utente o aggiungere un indirizzo di posta elettronica supplementare? Seguire questa procedura.
   
-1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina [utenti](https://go.microsoft.com/fwlink/p/?linkid=834822) **oppure scegliere** \> utenti **attivi**.
+1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina [utenti](https://go.microsoft.com/fwlink/p/?linkid=834822) **oppure scegliere utenti** \> **attivi**.
     
 2. Nella pagina **Utenti attivi** selezionare il nome della persona da modificare. 
     
@@ -34,6 +34,6 @@ Si deve creare un alias di posta elettronica per un utente o aggiungere un indir
     
     In genere l'applicazione del nuovo alias richiede circa 30 minuti.
     
-    **Per ulteriori informazioni, vedere questo articolo:** [aggiungere un altro alias di posta elettronica per un utente](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
+    **Per ulteriori informazioni, vedere questo articolo:** [aggiungere un altro alias di posta elettronica per un utente](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
     
 

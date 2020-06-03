@@ -12,18 +12,18 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265092"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496279"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Consenti comunicazioni esterne con Skype for business 
 
 Si desidera consentire agli utenti di Skype for business di contattare utenti esterni all'organizzazione? Vedere [consentire agli utenti di contattare utenti Skype for business esterni](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-I record DNS devono essere configurati correttamente affinché le comunicazioni esterne funzionino correttamente. Controllare [qui](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) per vedere se sono disponibili istruzioni specifiche su come impostare i record DNS con il provider. 
+I record DNS devono essere configurati correttamente affinché le comunicazioni esterne funzionino correttamente. Controllare [qui](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) per vedere se sono disponibili istruzioni specifiche su come impostare i record DNS con il provider. 
 
 Si desidera consentire solo agli utenti di Skype for business di contattare gli utenti di Skype consumer? Vedere:
 
