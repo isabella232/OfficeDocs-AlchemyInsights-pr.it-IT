@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: c781e9fd492ff97bc80667956e6609b3d40b28b4
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010618"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508632"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installazione di Office in un server terminal
 
@@ -30,11 +30,11 @@ Se si desidera installare le app Microsoft 365 per Enterprise su RDS dall'interf
 > [!TIP]
 > È inoltre possibile scaricare ed eseguire l' [Assistente di supporto e ripristino Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) per installare le app di Microsoft 365 per l'organizzazione in modalità di attivazione di computer condivisi.
   
-1. Controllare la sottoscrizione di Microsoft 365. [Informazioni su come](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Controllare la sottoscrizione di Microsoft 365. [Informazioni su come](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Se necessario, passare a una sottoscrizione di Microsoft 365 diversa. [Informazioni su come](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Se necessario, passare a una sottoscrizione di Microsoft 365 diversa. [Informazioni su come](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-3. Se Office è già installato nel server RDS usando altre sottoscrizioni di Microsoft 365, disinstallarlo. Ad esempio, accedendo al pannello \> di controllo, disinstallare un programma. Disinstallazione tramite [Assistente di supporto e ripristino di Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) se si è in esecuzione in problemi.
+3. Se Office è già installato nel server RDS usando altre sottoscrizioni di Microsoft 365, disinstallarlo. Ad esempio, accedendo al pannello di controllo, \> disinstallare un programma. Disinstallazione tramite [Assistente di supporto e ripristino di Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) se si è in esecuzione in problemi.
 
 4. Nel server RDS accedere all'interfaccia di amministrazione di Microsoft 365 con l'account di amministratore e [installare le app di microsoft 365 per Enterprise](https://portal.office.com/OLS/MySoftware.aspx).
 

@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: bf86d0f3f01221211b7759a0f874ef9c6758a276
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086678"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508164"
 ---
 # <a name="canceling-your-subscription"></a>Annullamento dell'abbonamento?
 
@@ -25,7 +25,7 @@ Saremo dispiaciuti di vederti andare, ma se vuoi annullare l'abbonamento, ecco l
   
 - Se si è un cliente di prova, non c'è nulla da annullare. Gli abbonamenti di valutazione scadono automaticamente a meno che non venga fornito un metodo di pagamento.
 
-- Se si dispone di meno di 25 licenze assegnate, è possibile annullare la sottoscrizione online. Passare alla pagina **fatturazione** \> dei **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Nella sezione **impostazioni & azioni** scegliere **Annulla sottoscrizione**.
+- Se si dispone di meno di 25 licenze assegnate, è possibile annullare la sottoscrizione online. Passare alla pagina **fatturazione** dei \> **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Nella sezione **impostazioni & azioni** scegliere **Annulla sottoscrizione**.
 
 - Se si dispone di più di 25 licenze assegnate, è possibile rimuovere gli utenti finché non sono presenti meno di 25.
   
@@ -33,4 +33,4 @@ Saremo dispiaciuti di vederti andare, ma se vuoi annullare l'abbonamento, ecco l
 
 **Nota**: se non si vede l'opzione per annullare, fare clic sull'abbonamento per visualizzare i dettagli e l'opzione **Annulla sottoscrizione** in **Impostazioni & azioni**. 
 
-Per ulteriori informazioni, vedere [annullare l'abbonamento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Per ulteriori informazioni, vedere [annullare l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

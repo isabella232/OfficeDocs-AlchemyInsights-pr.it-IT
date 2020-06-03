@@ -13,12 +13,12 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 558ebba836d114a3d04848aae3c0ef598d8ea120
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: cabb1463fd27cc26f2482210d50eb38823e8a60a
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784191"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511260"
 ---
 # <a name="restore-a-user"></a>Ripristinare un utente
 
@@ -32,4 +32,4 @@ Ripristinare un utente con questa procedura:
 
 4. Fare clic su **Invia messaggio di posta elettronica e Chiudi**ed è tutto finito.
 
-Non è stato così facile? Per ulteriori informazioni e passaggi con schermate, vedere questo articolo: [ripristinare un utente](https://docs.microsoft.com/office365/admin/add-users/restore-user). Se si ha la necessità di ripristinare la cassetta postale dell'utente, vedere: [eliminare o ripristinare le cassette postali degli utenti in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Non è stato così facile? Per ulteriori informazioni e passaggi con schermate, vedere questo articolo: [ripristinare un utente](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user). Se si ha la necessità di ripristinare la cassetta postale dell'utente, vedere: [eliminare o ripristinare le cassette postali degli utenti in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

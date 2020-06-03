@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d1c7e79b0ba00db87ac0fc3cecd54a6b12721325
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064233"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508740"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Cambiare le sottoscrizioni per aumentare le dimensioni delle cassette postali
 
@@ -35,6 +35,6 @@ Se la dimensione della cassetta postale è di 50 GB, è possibile aumentarla fin
 
 5. Immettere il numero di licenze necessarie, scegliere se pagare ogni mese o per l'intero anno, quindi selezionare **Estrai**.
 
-Per ulteriori informazioni, vedere [aggiornamento a un piano diverso](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Per ulteriori informazioni, vedere [aggiornamento a un piano diverso](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 
-Se si dispone di un [abbonamento che supporta un archivio sul posto](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), è anche possibile ottenere ulteriore spazio di archiviazione della posta elettronica abilitando una cassetta postale di archiviazione. Una cassetta postale di archiviazione offre ulteriore spazio di archiviazione e consente di spostare, copiare e cercare i messaggi sia nella cassetta postale principale che in quella di archiviazione. Per istruzioni su come abilitare una cassetta postale di archiviazione, vedere [abilitare una cassetta postale di archiviazione](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Se si dispone di un [abbonamento che supporta un archivio sul posto](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), è anche possibile ottenere ulteriore spazio di archiviazione della posta elettronica abilitando una cassetta postale di archiviazione. Una cassetta postale di archiviazione offre ulteriore spazio di archiviazione e consente di spostare, copiare e cercare i messaggi sia nella cassetta postale principale che in quella di archiviazione. Per istruzioni su come abilitare una cassetta postale di archiviazione, vedere [abilitare una cassetta postale di archiviazione](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).

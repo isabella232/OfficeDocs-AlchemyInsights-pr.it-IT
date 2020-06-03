@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 22c90680fbd6b3959f23512d12d84180c142ab90
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063477"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505583"
 ---
 # <a name="expired-subscription"></a>Sottoscrizione scaduta
 
@@ -34,7 +34,7 @@ Se l'opzione **Riattiva** non è disponibile, contattare il supporto per riattiv
 
 3. Confermare i dettagli sul pagamento. È possibile aggiornare le attuali informazioni sul pagamento. Dopo aver immesso la modalità di pagamento, scegliere **Riattiva**.
 
-Per altre informazioni, vedere [Riattiva l'abbonamento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Per altre informazioni, vedere [Riattiva l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Effettuare un nuovo acquisto**
   
@@ -46,4 +46,4 @@ Per altre informazioni, vedere [Riattiva l'abbonamento](https://docs.microsoft.c
 
 4. Seguire i passaggi rimanenti per completare il check-out.
 
-Per ulteriori informazioni, vedere [acquistare un altro abbonamento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Per ulteriori informazioni, vedere [acquistare un altro abbonamento](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765993"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508668"
 ---
 # <a name="install-visio"></a>Installare Visio
 
@@ -25,7 +25,7 @@ Visio viene venduta come applicazione autonoma, quindi se non è ancora disponib
 
 **Nota**: Visio online piano 1 non include una versione desktop di Visio, quindi non è possibile installare l'installazione.
 
-Se si dispone di un abbonamento a Visio online piano 2, è necessario [assegnare una licenza](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) a un utente o non si dispone di un'opzione per installare Visio dalle **installazioni personali** nel [portale My account](https://portal.office.com/account#installs). 
+Se si dispone di un abbonamento a Visio online piano 2, è necessario [assegnare una licenza](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) a un utente o non si dispone di un'opzione per installare Visio dalle **installazioni personali** nel [portale My account](https://portal.office.com/account#installs). 
 
 Le versioni di Visio Standard o di Visio Professional non sono associate a contratti multilicenza per gli account Microsoft e non possono essere gestite nell'interfaccia di amministrazione. Per installare queste versioni, è necessario che gli utenti eseguano l'accesso a [account.Microsoft.com](https://account.microsoft.com) con l'account Microsoft associato a questa versione di Visio.
 

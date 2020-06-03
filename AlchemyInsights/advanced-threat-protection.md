@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5fc3f30e1f08764393dcced94be541b1c6bcc84d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710339"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506598"
 ---
 # <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
 - Allegati sicuri, collegamenti sicuri e anti-phishing fanno parte di Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education a5 e Microsoft 365 Business Premium sono ATP. Tutti gli altri piani richiedono una sottoscrizione ATP del componente aggiuntivo.
 
-- Per proteggere gli utenti da Office 365 ATP, è necessario assegnare le licenze appropriate. Per istruzioni su come applicare le licenze agli utenti in blocco, vedere [questo argomento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) .
+- Per proteggere gli utenti da Office 365 ATP, è necessario assegnare le licenze appropriate. Per istruzioni su come applicare le licenze agli utenti in blocco, vedere [questo argomento](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) .
 
 - Gli amministratori globali o gli amministratori della sicurezza possono accedere alle funzionalità ATP di Office 365 nel centro sicurezza & compliance in **Threat Managmeent** \> **policy**.
 
 - Gli allegati sicuri e i criteri per i collegamenti sicuri possono essere inclusi nell'ambito dell'intera organizzazione, dei domini specifici o di gruppi di utenti più piccoli.
 
-- Non è previsto alcun criterio di allegati sicuri ATP predefinito. È necessario [creare un criterio](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) e applicarlo agli utenti.
+- Non è previsto alcun criterio di allegati sicuri ATP predefinito. È necessario [creare un criterio](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) e applicarlo agli utenti.
 
-- È presente un criterio dei collegamenti sicuri ATP predefinito che si applica a tutti gli utenti dell'organizzazione. Per modificare questo criterio o creare criteri personalizzati, vedere [questo argomento](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
+- È presente un criterio dei collegamenti sicuri ATP predefinito che si applica a tutti gli utenti dell'organizzazione. Per modificare questo criterio o creare criteri personalizzati, vedere [questo argomento](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).

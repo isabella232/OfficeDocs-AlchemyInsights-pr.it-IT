@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3270f1ab03bacb235cbdc3d710053c858f0a5183
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0aedb549f11db54d3cd480671fb0767c60680ad3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741969"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509604"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>Registri di controllo di SharePoint e OneDrive
 
@@ -28,7 +28,7 @@ Il controllo legacy di SPO è stato migrato nel log di controllo unificato (UAL)
 Modifiche principali:
 
 * Il ritaglio non è disponibile come funzionalità.
-* La scelta di eventi specifici da controllare non è disponibile. Fare riferimento a [questo documento](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) per un elenco completo degli eventi controllati disponibili per impostazione predefinita.
+* La scelta di eventi specifici da controllare non è disponibile. Fare riferimento a [questo documento](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) per un elenco completo degli eventi controllati disponibili per impostazione predefinita.
 * L'opzione **percorso** in **report personalizzati** non è disponibile.
 * L'opzione eventi di **apertura o download di documenti** non è disponibile.
 
@@ -36,16 +36,16 @@ Modifiche principali:
 
 ## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>Registri di controllo unificato di SharePoint e OneDrive moderni dalla conformità
 
-* [Attivazione/disattivazione della registrazione di controllo unificato](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+* [Attivazione/disattivazione della registrazione di controllo unificato](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
 Non è necessaria alcuna configurazione aggiuntiva all'interno di SharePoint o OneDrive.
 
 Utilizzare la ricerca della registrazione di controllo per controllare l'attività dei file, delle cartelle, degli utenti, delle autorizzazioni:
 
-* [Attività su file e pagine](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-* [Attività su cartelle](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Attività di richiesta di accesso e condivisione](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-* [Attività di sincronizzazione](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Attività di amministrazione siti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Attività su file e pagine](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+* [Attività su cartelle](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Attività di richiesta di accesso e condivisione](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Attività di sincronizzazione](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [Attività di amministrazione siti](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Per ulteriori informazioni su come recuperare questi eventi, vedere [Search the audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Per ulteriori informazioni su come recuperare questi eventi, vedere [Search the audit log](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).

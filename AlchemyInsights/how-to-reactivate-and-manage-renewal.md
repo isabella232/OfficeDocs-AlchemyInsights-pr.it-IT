@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eee6e4a4494e259050f40173d66c2747b68a1608
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064089"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509100"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Come riattivare e gestire la fatturazione ricorrente
 
@@ -32,7 +32,7 @@ Ha l'aspetto di un abbonamento scaduto. Se si desidera riattivarlo, ecco come fa
 
 3. Confermare i dettagli sul pagamento. È possibile aggiornare le attuali informazioni sul pagamento. Quando hai finito di immettere il metodo di pagamento, seleziona **riattiva**.
 
-Per altre informazioni, vedere [Riattiva l'abbonamento](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Per altre informazioni, vedere [Riattiva l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription). 
 
 Per gestire la fatturazione mensile o annuale è possibile attivare o disattivare la **fatturazione ricorrente** .
   
@@ -46,4 +46,4 @@ Per gestire la fatturazione mensile o annuale è possibile attivare o disattivar
 
 5. Selezionare **Invia modifica**.
 
-Per altre informazioni, vedere [Attivare o disattivare la fatturazione ricorrente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Per altre informazioni, vedere [Attivare o disattivare la fatturazione ricorrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

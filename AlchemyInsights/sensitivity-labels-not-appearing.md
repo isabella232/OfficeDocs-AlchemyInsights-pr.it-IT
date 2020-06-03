@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758444"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511656"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Le etichette di riservatezza non vengono visualizzate
 
-Le etichette di riservatezza consentono di classificare e proteggere i contenuti sensibili. Possono essere creati in Microsoft 365 Compliance Center, Microsoft 365 Security Center o Microsoft 365 Security & Compliance Center in Classification > Sensitivity labels. Per ulteriori informazioni su questa funzionalità, vedere [Overview of Sensitivity labels](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Le etichette di riservatezza consentono di classificare e proteggere i contenuti sensibili. Possono essere creati in Microsoft 365 Compliance Center, Microsoft 365 Security Center o Microsoft 365 Security & Compliance Center in Classification > Sensitivity labels. Per ulteriori informazioni su questa funzionalità, vedere [Overview of Sensitivity labels](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
 Se le etichette di riservatezza sono state configurate ma non vengono visualizzate nelle app di Office, controllare quanto segue:
 
-- Verificare che l'etichetta di riservatezza sia stata [pubblicata](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) per gli utenti e i gruppi desiderati.
+- Verificare che l'etichetta di riservatezza sia stata [pubblicata](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) per gli utenti e i gruppi desiderati.
 
 - Verificare che l'utente stia utilizzando un'app che supporta le etichette di riservatezza: vedere [etichette di riservatezza nel documento](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 

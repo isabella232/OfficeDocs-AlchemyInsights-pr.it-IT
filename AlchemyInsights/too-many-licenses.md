@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 3ba7f9a7e18951454cfea3d65915b4862d697753
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0dd3817c829252571ea8ad8354a451a0bb43deb6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063981"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510468"
 ---
 # <a name="too-many-licenses"></a>Troppe licenze?
 
@@ -32,4 +32,4 @@ Se si ritiene di essere addebitati per troppe licenze, di solito questo è dovut
 
 3. Nella casella **Totale licenze** immettere il numero totale di licenze necessarie per l'abbonamento e quindi selezionare **Invia modifica**. Ad esempio, se si hanno 110 licenze e occorre rimuoverne 5, immettere 105.
 
-Per ulteriori informazioni, vedere [rimuovere licenze dall'abbonamento a Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Per ulteriori informazioni, vedere [rimuovere licenze dall'abbonamento a Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

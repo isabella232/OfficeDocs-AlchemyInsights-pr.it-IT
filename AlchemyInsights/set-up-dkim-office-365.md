@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645676"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509388"
 ---
 # <a name="setup-dkim"></a>Setup DKIM
 
-Di [seguito](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)sono riportate le istruzioni complete per la configurazione di DKIM per i domini personalizzati in Microsoft 365.
+Di [seguito](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)sono riportate le istruzioni complete per la configurazione di DKIM per i domini personalizzati in Microsoft 365.
 
 1. Per **ogni** dominio personalizzato, è necessario creare **due** record CNAME di DKIM nel servizio di hosting DNS del dominio (in genere, il registrar). Ad esempio, contoso.com e fourthcoffee.com richiedono quattro record CNAME di DKIM: due per contoso.com e due per fourthcoffee.com.
 
@@ -36,7 +36,7 @@ Di [seguito](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to
 
      **TTL**: 3600
 
-   \<DomainGUID\> è il testo a sinistra del `.mail.protection.outlook.com` record MX personalizzato per il dominio personalizzato, `contoso-com` ad esempio per il dominio contoso.com. \<InitialDomain\> è il dominio utilizzato per l'accesso a Microsoft 365 (ad esempio, contoso.onmicrosoft.com).
+   \<DomainGUID\>è il testo a sinistra del `.mail.protection.outlook.com` record MX personalizzato per il dominio personalizzato, ad esempio `contoso-com` per il dominio contoso.com. \<InitialDomain\>è il dominio utilizzato per l'accesso a Microsoft 365 (ad esempio, contoso.onmicrosoft.com).
 
 2. Dopo aver creato i record CNAME per i domini personalizzati, completare le seguenti istruzioni:
 
@@ -46,6 +46,6 @@ Di [seguito](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to
 
    c. Nel riquadro di spostamento in basso a sinistra, espandere **Amministrazione** e scegliere **Exchange**.
 
-   d. Andare a **Protection** > **DKIM**.
+   d. Andare a **Protection**  >  **DKIM**.
 
    e. Selezionare il dominio e quindi fare clic su **Abilita** per **i messaggi di firma per questo dominio con firme DKIM**. Ripetere questo passaggio per ogni dominio personalizzato.

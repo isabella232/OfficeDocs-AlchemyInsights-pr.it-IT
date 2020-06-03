@@ -12,12 +12,12 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4243b821d087cd1cfc7c89aad983c7d497bd7d3e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737373"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506526"
 ---
 # <a name="creating-email-signatures"></a>Creazione di firme di posta elettronica
 
@@ -29,7 +29,7 @@ Questi articoli devono essere utili per creare firme di posta elettronica in Out
 
 - Voglio creare una firma di posta elettronica utilizzando Outlook.com: [creare e aggiungere una firma di posta elettronica in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Voglio creare una firma di posta elettronica globale per tutti i messaggi di posta elettronica inviati dalla mia azienda: [creare firme a livello di organizzazione e dichiarazioni](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers) di non responsabilità
+- Voglio creare una firma di posta elettronica globale per tutti i messaggi di posta elettronica inviati dalla mia azienda: [creare firme a livello di organizzazione e dichiarazioni](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers) di non responsabilità
 
  **Suggerimento:** Le firme a livello dell'organizzazione sono denominate "dichiarazioni di non responsabilità".
   

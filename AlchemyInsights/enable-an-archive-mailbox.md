@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788670"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507030"
 ---
 # <a name="enable-an-archive-mailbox"></a>Abilitazione di una cassetta postale di archiviazione
 
@@ -27,7 +27,7 @@ Ecco come creare una cassetta postale di archiviazione:
 
 2. Accedere a Microsoft 365 utilizzando l'account di amministratore.
 
-3. Nel riquadro sinistro del centro &amp; sicurezza e conformità selezionare **Archivio** **informazioni sulla governance** \> .
+3. Nel riquadro sinistro del &amp; Centro sicurezza e conformità selezionare archivio **informazioni sulla governance** \> **Archive**.
 
 4. Selezionare l'utente di cui si desidera abilitare la cassetta postale di archiviazione.
 
@@ -43,7 +43,7 @@ Per abilitare l'archivio per una cassetta postale condivisa:
 
 1. Accedere all'interfaccia di [amministrazione di Exchange](https://outlook.office365.com/ecp) e accedere utilizzando l'account di amministratore.
 
-2. Andare a **destinatari** > **condivisi**.
+2. Andare a **destinatari**  >  **condivisi**.
 
 3. Selezionare la cassetta postale condivisa.
 
@@ -51,6 +51,6 @@ Per abilitare l'archivio per una cassetta postale condivisa:
 
 Per altre informazioni, vedere:
   
-- [Abilitare le cassette postali di archiviazione](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Abilitare le cassette postali di archiviazione](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Configurare un criterio di eliminazione e archiviazione](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761303"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510972"
 ---
 # <a name="more-info-about-retention-policies"></a>Altre informazioni sui criteri di conservazione
 
@@ -27,15 +27,15 @@ Per la maggior parte delle organizzazioni, il volume e la complessità dei dati 
 ## <a name="a-from-security-and-compliance-center"></a>A) dal centro sicurezza e conformità
 
 - Passare a sicurezza e conformità > data governance > conservazione
-  - Vedere [questo](https://docs.microsoft.com/office365/securitycompliance/retention-policies) articolo
+  - Vedere [questo](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) articolo
 
 - Passare a sicurezza e conformità > eDiscovery> Advanced eDiscovery 
-  - Vedere [questo](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) articolo
+  - Vedere [questo](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) articolo
 
 - Passare a sicurezza e conformità > classificazione > conservazione
   - Vedere questi articoli
-    - [Etichette di riservatezza](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Panoramica delle etichette](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Etichette di riservatezza](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [Panoramica delle etichette](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) criteri di eDiscovery legacy
 

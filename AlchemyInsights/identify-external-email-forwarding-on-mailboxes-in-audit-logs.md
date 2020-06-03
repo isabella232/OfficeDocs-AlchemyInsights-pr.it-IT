@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716464"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508956"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificare quando l'inoltro di posta elettronica esterno è configurato per le cassette postali
 
@@ -25,7 +25,7 @@ Quando un utente di Microsoft 365 configura l'inoltro di posta elettronica ester
 
 1. Accedere al [Centro sicurezza & conformità di Microsoft 365](https://protection.office.com/).
 
-2. Passare alla pagina di**ricerca del registro di controllo** della **ricerca** > .
+2. Passare alla pagina di ricerca del registro di controllo della **ricerca**  >  **Audit log search** .
 
 3. Selezionare l'intervallo di date nei campi data di **inizio** e **Data di fine** . Non è necessario specificare un nome utente. Verificare che il campo **attività** sia impostato per **visualizzare i risultati di tutte le attività**.
 
@@ -39,4 +39,4 @@ Nei risultati, fare clic su **Filtra risultati** e digitare **Set-Mailbox** nell
 
 - **Userid**: l'utente che ha configurato l'inoltro della posta elettronica sulla cassetta postale nel campo **ObjectID** .
 
-Per ulteriori informazioni, vedere [determinare chi ha configurato l'inoltro della posta elettronica per una cassetta postale](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Per ulteriori informazioni, vedere [determinare chi ha configurato l'inoltro della posta elettronica per una cassetta postale](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

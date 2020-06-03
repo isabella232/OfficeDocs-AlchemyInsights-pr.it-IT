@@ -6,12 +6,12 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 34e3ca6f66d42c89fdf21524bff96e0b3e1534d8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1406ad5b0cef0bb2b35308177ec476e309876a55
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052257"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506886"
 ---
 # <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Errore 404: file non trovato in SharePoint o OneDrive
 
@@ -21,4 +21,4 @@ Gli utenti sperimenteranno l'errore durante il tentativo di accedere alla raccol
 Per risolvere il problema, è possibile eseguire le operazioni seguenti:
 - [Visualizzare e ripristinare i siti eliminati nella nuova](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)interfaccia di amministrazione di SharePoint: per i siti moderni (comunicazione, connessione a gruppi o altri siti) presenti nella nuova anteprima dell'interfaccia di amministrazione.
 - [Ripristinare gli elementi nel cestino di un sito di SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): per risolvere file (o altro elemento) rinominati, spostati o eliminati, passare al sito di SharePoint o OneDrive e visualizzare il cestino dal contenuto del sito.
-- [Eseguire una ricerca nel log di controllo &amp; nel centro sicurezza e conformità](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance): eseguire una ricerca nel registro di controllo (se la registrazione è abilitata) se non è ancora possibile trovare l'elemento.
+- [Eseguire una ricerca nel log di controllo nella sicurezza &amp; Centro conformità](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance): eseguire una ricerca nel registro di controllo (se la registrazione è abilitata) se non si è ancora in grado di individuare l'elemento.

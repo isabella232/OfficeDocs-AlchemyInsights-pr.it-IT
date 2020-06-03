@@ -15,22 +15,22 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767577"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512486"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Configurare la posta elettronica nell'app Outlook per dispositivi mobili
 
-1. Seleziona **inizia** se è la prima volta che si configura la posta elettronica nell'app per dispositivi mobili. In caso contrario, toccare **menu** e quindi fare clic su **Impostazioni** \> **Aggiungi** \> account Aggiungi account di **posta elettronica**.
+1. Seleziona **inizia** se è la prima volta che si configura la posta elettronica nell'app per dispositivi mobili. In caso contrario, toccare **menu** e quindi fare clic su **Impostazioni** \> **Aggiungi** account Aggiungi account di \> **posta elettronica**.
 
 2. Immettere l'indirizzo di posta elettronica completo e toccare **continua** o **Aggiungi account**.
 
 3. Immettere la password dell'account di posta elettronica e toccare **Accedi** o **Avanti**.
 
-4. Se è abilitata l' [autenticazione a più fattori](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) , verificare l'utilizzo del metodo configurato (codice a 6 cifre, chiamata telefonica o app Microsoft Authenticator).
+4. Se è abilitata l' [autenticazione a più fattori](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) , verificare l'utilizzo del metodo configurato (codice a 6 cifre, chiamata telefonica o app Microsoft Authenticator).
 
 5. Se sono presenti ulteriori criteri di amministrazione IT, toccare **attiva** per abilitarli.
 

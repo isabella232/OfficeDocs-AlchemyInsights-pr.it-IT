@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767793"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509352"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Configurazione della sottoscrizione di O365 Business Essentials
 
@@ -23,11 +23,11 @@ Creare account Microsoft 365 e aggiungere il proprio dominio
     
 - Accedere all'interfaccia di [amministrazione di Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Per avviare la procedura guidata, scegliere **Vai alla configurazione**. Per ulteriori informazioni, vedere [aggiungere un dominio a Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Per avviare la procedura guidata, scegliere **Vai alla configurazione**. Per ulteriori informazioni, vedere [aggiungere un dominio a Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Importare la posta elettronica
   
-- Spostare la posta elettronica e i contatti esistenti da altri sistemi di posta elettronica alla cassetta postale di Microsoft 365 in modo che sia possibile visualizzarli tutti in un'unica posizione. Per le opzioni di migrazione, [eseguire la migrazione della posta elettronica e dei contatti a Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Spostare la posta elettronica e i contatti esistenti da altri sistemi di posta elettronica alla cassetta postale di Microsoft 365 in modo che sia possibile visualizzarli tutti in un'unica posizione. Per le opzioni di migrazione, [eseguire la migrazione della posta elettronica e dei contatti a Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - Connettere gli account di posta elettronica
     
@@ -41,6 +41,6 @@ Archiviare file online
   
 - Per sapere quali sono le posizioni di archiviazione migliori per la propria azienda, vedere [dove è possibile archiviare i file in Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Tutti ricevono automaticamente una posizione di archiviazione cloud di **OneDrive** quando si creano account Microsoft 365. Con OneDrive è possibile accedere ai file archiviati nel computer, nel telefono e nel tablet. 
     
-I passaggi dettagliati per il programma di installazione sono disponibili in [questo articolo](https://docs.microsoft.com/office365/admin/setup/setup).
+I passaggi dettagliati per il programma di installazione sono disponibili in [questo articolo](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 

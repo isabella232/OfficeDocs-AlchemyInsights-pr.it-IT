@@ -9,18 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 9a6e59f5798130856ba3d82e8d233c2c79e462a7
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a8aba717c826a929eda4977ad279ce7f1ac4ce70
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911548"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505691"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Eliminare un sito dalla nuova interfaccia di amministrazione di SharePoint
 
 Utilizzando la nuova interfaccia di amministrazione di SharePoint, è possibile eliminare sia i siti classici che quelli moderni. Selezionare **siti attivi**, selezionare il sito, quindi selezionare **Elimina**. Per [visualizzare e ripristinare i siti eliminati nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selezionare **siti eliminati**. Per altre informazioni, vedere [eliminare un sito nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
-**Importante:** Se il sito fa parte di un criterio di conservazione, potrebbe non essere possibile eliminarlo finché il sito non viene rimosso dal criterio dell'interfaccia di [amministrazione della conformità di sicurezza &amp; ](https://protection.office.com/?rfr=AdminCenter#/homepage). Per altre informazioni, vedere [Overview of Retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+**Importante:** Se il sito fa parte di un criterio di conservazione, potrebbe non essere possibile eliminarlo finché il sito non viene rimosso dal criterio dell'interfaccia di [ &amp; amministrazione della conformità di sicurezza](https://protection.office.com/?rfr=AdminCenter#/homepage). Per altre informazioni, vedere [Overview of Retention Policies](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) . 
 
 Consigli
 - Gli amministratori di SharePoint ora possono eliminare i siti appartenenti ai **gruppi di Microsoft 365**. In questo modo verrà eliminato il gruppo e tutte le relative risorse, tra cui la cassetta postale di Outlook e il calendario e tutti i canali dei team. Per altre informazioni, vedere [eliminare un sito di SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)

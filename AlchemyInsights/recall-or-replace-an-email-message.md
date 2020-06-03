@@ -13,12 +13,12 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e958dab159e4dcc11f9c068bded3aa06ccd65c15
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742759"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509460"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Richiamare o sostituire un messaggio di posta elettronica in Microsoft 365
 
@@ -30,7 +30,7 @@ ms.locfileid: "43742759"
 
 1. Nel riquadro delle cartelle nella parte sinistra della finestra di Outlook scegliere la cartella posta inviata.
 2. Aprire il messaggio che si desidera richiamare. È necessario fare doppio clic per aprire il messaggio. Se si seleziona il messaggio in modo che venga visualizzato nel riquadro di lettura, non sarà possibile richiamare il messaggio.
-3. Nella scheda messaggio, selezionare **azioni** > **richiamare questo messaggio**.
+3. Nella scheda messaggio, selezionare **azioni**  >  **richiamare questo messaggio**.
 4. Scegliere **Elimina copie non lette del messaggio** o **Elimina copie non lette e Sostituisci con un nuovo messaggio**, quindi selezionare **OK**.
 5. Se si sta inviando un messaggio di sostituzione, comporre il messaggio, quindi selezionare **Invia**.
 6. L'esito positivo o negativo di un messaggio di richiamo dipende dalle impostazioni dei destinatari in Outlook.
@@ -39,7 +39,7 @@ Per ulteriori informazioni, tra cui la verifica del richiamo, vedere [Recall or 
 
 ***Cercare ed eliminare i messaggi di posta elettronica nell'organizzazione*** Per cercare ed eliminare i messaggi di posta elettronica nell'organizzazione, è più semplice se si è un amministratore globale. Se non si è un amministratore globale, è necessario aggiungere l'account al gruppo di ruoli di eDiscovery Manager o al ruolo di gestione della ricerca di conformità. Per eliminare i messaggi, è necessario aggiungere il gruppo di ruoli Gestione organizzazione o il ruolo di gestione ricerca e Purge. Le autorizzazioni per questi ruoli vengono assegnate al [Centro sicurezza & Compliance](https://protection.office.com/).
 
-1. [Creare una ricerca di contenuto](https://docs.microsoft.com/office365/securitycompliance/content-search) per trovare il messaggio da eliminare.
+1. [Creare una ricerca di contenuto](https://docs.microsoft.com/microsoft-365/compliance/content-search) per trovare il messaggio da eliminare.
 2. [Connettersi a PowerShell in Centro sicurezza e conformità](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
 Se si utilizza l'autenticazione Master, vedere [Connect to Microsoft 365 security & Compliance Center PowerShell using multi-factor authentication](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

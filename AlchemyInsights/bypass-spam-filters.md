@@ -12,13 +12,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: bc0f5a050c74eb551282b10f43a14ae6303cb48e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fbc5bc9cdabf2a19181c9d5bbabf63d6c1cbfb7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712139"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506195"
 ---
 # <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Ignorare il filtro posta indesiderata per consentire messaggi specifici?
 
-Quando si crea un elenco di indirizzi consentiti, è consigliabile [prestare attenzione](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) . Ad esempio, se si consente il proprio dominio, i mittenti dannosi saranno in grado di eseguire lo spoofing e l'invio come dominio.  Al contrario, è consigliabile questa [Guida alla risoluzione dei problemi relativi ai falsi positivi](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), che consentirà di determinare il motivo per cui un messaggio legittimo è stato contrassegnato come posta indesiderata e cosa è possibile fare per consentire il recapito del messaggio in modo sicuro.
+Quando si crea un elenco di indirizzi consentiti, è consigliabile [prestare attenzione](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) . Ad esempio, se si consente il proprio dominio, i mittenti dannosi saranno in grado di eseguire lo spoofing e l'invio come dominio.  Al contrario, è consigliabile questa [Guida alla risoluzione dei problemi relativi ai falsi positivi](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), che consentirà di determinare il motivo per cui un messaggio legittimo è stato contrassegnato come posta indesiderata e cosa è possibile fare per consentire il recapito del messaggio in modo sicuro.

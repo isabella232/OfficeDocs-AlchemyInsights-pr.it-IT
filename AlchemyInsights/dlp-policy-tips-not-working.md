@@ -12,12 +12,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704381"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507446"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problemi relativi ai suggerimenti per i criteri DLP
 
@@ -29,11 +29,11 @@ Quando si utilizzano i **criteri DLP**, gli utenti possono ricevere la notifica 
   
 Per configurare i suggerimenti per i criteri per i criteri DLP nel centro sicurezza e conformità in modalità di applicazione completa, eseguire le operazioni seguenti:
   
-- Verificare che i suggerimenti per i criteri siano stati **abilitati** nella regola DLP utilizzando i passaggi riportati di [seguito](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Verificare che i suggerimenti per i criteri siano stati **abilitati** nella regola DLP utilizzando i passaggi riportati di [seguito](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-- Verificare che il **contenuto corrisponda** a ciò che è **necessario** per attivare la regola descritta in [questo articolo.](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- Verificare che il **contenuto corrisponda** a ciò che è **necessario** per attivare la regola descritta in [questo articolo.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- I suggerimenti per i criteri vengono visualizzati sia in OWA che in Outlook. Tuttavia, quando si utilizza **Outlook 2013 o versione successiva**, i suggerimenti per i criteri vengono visualizzati solo in determinate condizioni. Queste condizioni sono elencate di seguito: [condizioni supportate per Outlook 2013 o versioni successive per la visualizzazione dei suggerimenti per i criteri](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- I suggerimenti per i criteri vengono visualizzati sia in OWA che in Outlook. Tuttavia, quando si utilizza **Outlook 2013 o versione successiva**, i suggerimenti per i criteri vengono visualizzati solo in determinate condizioni. Queste condizioni sono elencate di seguito: [condizioni supportate per Outlook 2013 o versioni successive per la visualizzazione dei suggerimenti per i criteri](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Per ulteriori informazioni sui suggerimenti per i criteri DLP, vedere: [Mostra suggerimenti per i criteri per](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips) il criterio DLP
+Per ulteriori informazioni sui suggerimenti per i criteri DLP, vedere: [Mostra suggerimenti per i criteri per](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips) il criterio DLP
   

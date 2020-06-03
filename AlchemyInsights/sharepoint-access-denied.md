@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: a1541aa401efbc03e8a6104ba435c7fdf20a977a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 183f54be3230a67bfe89151a6941692de470a3e1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742147"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510504"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Risoluzione dei problemi relativi ai messaggi di accesso negato
 
@@ -21,7 +21,7 @@ Se si riceve un messaggio di accesso negato quando si tenta di esplorare un sito
 
 **Aggiungere e concedere una licenza all'utente**
 
-Assicurarsi [di assegnare le licenze agli utenti in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Assicurarsi [di assegnare le licenze agli utenti in Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Assegnare le autorizzazioni**
 

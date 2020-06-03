@@ -12,24 +12,24 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d6f1f96220a44247d217f6e82e76fb38875578e8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908420"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506994"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Abilitazione e ricerca nel registro di controllo
 
 **Microsoft 365**
 
-Per eseguire una ricerca nel registro di controllo di Microsoft 365, attenersi alla [seguente procedura](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Per eseguire una ricerca nel registro di controllo di Microsoft 365, attenersi alla [seguente procedura](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
 **Exchange**
 
 - Per impostazione predefinita, le attività di amministrazione di Exchange vengono controllate.
 
-- Il controllo delle cassette postali è abilitato per impostazione predefinita in Microsoft 365. Per ulteriori informazioni, vedere [questo articolo](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Il controllo delle cassette postali è abilitato per impostazione predefinita in Microsoft 365. Per ulteriori informazioni, vedere [questo articolo](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
 
 - Le cassette postali del gruppo Microsoft 365 e le cassette postali delle cartelle pubbliche in Exchange Online non supportano la registrazione.
 
@@ -44,6 +44,6 @@ Per eseguire una ricerca nel registro di controllo di Microsoft 365, attenersi a
     - Attività di amministrazione siti
     - Attività di sincronizzazione dei file
 
-- Per informazioni sulle attività controllate in altri servizi, vedere [la tabella in questo articolo](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Per informazioni sulle attività controllate in altri servizi, vedere [la tabella in questo articolo](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Ecco un elenco [di domande frequenti sulle domande](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) frequenti relative alla ricerca nel registro di controllo.
+- Ecco un elenco [di domande frequenti sulle domande](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) frequenti relative alla ricerca nel registro di controllo.

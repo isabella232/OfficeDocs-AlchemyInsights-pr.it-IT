@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 63b28edc5d2eb7c8d904e004c06c5682768411a7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711023"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508704"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>Informazioni sulle esenzioni per controversia legale e sul posto
 
@@ -22,11 +22,11 @@ ms.locfileid: "43711023"
     
 - **Per attivare un blocco per controversia legale** per un singolo utente, seguire la procedura descritta di [seguito](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Quando il blocco per controversia legale è abilitato, tutto il contenuto della cassetta postale viene messo in attesa.
     
-- Per applicare un **blocco sul posto a utenti singoli** o a un'esenzione per **tutte le cassette postali nell'intera organizzazione**, è possibile utilizzare i criteri di conservazione nel centro sicurezza e conformità di Microsoft 365 attenendosi alla procedura descritta di [seguito.](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )
+- Per applicare un **blocco sul posto a utenti singoli** o a un'esenzione per **tutte le cassette postali nell'intera organizzazione**, è possibile utilizzare i criteri di conservazione nel centro sicurezza e conformità di Microsoft 365 attenendosi alla procedura descritta di [seguito.]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
     > [!NOTE]
     > Per i criteri di conservazione a livello di organizzazione, i nuovi utenti verranno aggiunti automaticamente all'esenzione. 
   
-- Per visualizzare o individuare il contenuto delle cassette postali in attesa, utilizzare **eDiscovery Search and Export**. Per informazioni sull'utilizzo di **eDiscovery Search and Export**, seguire le istruzioni riportate di [seguito](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+- Per visualizzare o individuare il contenuto delle cassette postali in attesa, utilizzare **eDiscovery Search and Export**. Per informazioni sull'utilizzo di **eDiscovery Search and Export**, seguire le istruzioni riportate di [seguito](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
     
 
