@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5d7ee20edb0a9d298b657c14d7a75034245427a8
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720069"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418184"
 ---
 # <a name="update-credit-card-information"></a>Aggiornare le informazioni sulla carta di credito
 
@@ -40,4 +40,4 @@ ms.locfileid: "43720069"
 
 Se si verificano problemi durante il caricamento delle pagine, provare ad aprire la pagina Web in un browser diverso oppure in una finestra del browser privata, ad esempio una finestra InPrivate di Microsoft Edge o una finestra di navigazione in incognito in Google Chrome. 
 
-Per altre informazioni, vedere [Aggiungere, aggiornare o rimuovere una carta di credito o un conto corrente bancario in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) e [Risoluzione dei problemi relativi alle carte di credito e ai conti correnti bancari](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Per altre informazioni, vedere [Gestire i metodi di pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
