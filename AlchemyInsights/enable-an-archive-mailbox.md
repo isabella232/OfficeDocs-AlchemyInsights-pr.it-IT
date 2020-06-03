@@ -10,47 +10,47 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788670"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507030"
 ---
-# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="06d50-102">Abilitazione di una cassetta postale di archiviazione</span><span class="sxs-lookup"><span data-stu-id="06d50-102">Enable an archive mailbox</span></span>
+# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="06bcf-102">Abilitazione di una cassetta postale di archiviazione</span><span class="sxs-lookup"><span data-stu-id="06bcf-102">Enable an archive mailbox</span></span>
 
-<span data-ttu-id="06d50-103">Le cassette postali di archiviazione in Microsoft 365 (denominate anche archivi *online* o *archivi sul posto*) offrono agli utenti un ulteriore spazio di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="06d50-103">Archive mailboxes in Microsoft 365 (also called *Online Archives* or *In-Place Archives*) provide users with additional email storage.</span></span> <span data-ttu-id="06d50-104">Gli utenti possono spostare o copiare gli elementi nella propria cassetta postale di archiviazione e gli amministratori possono creare un criterio di archiviazione che sposta automaticamente gli elementi nelle cassette postali di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="06d50-104">Users can move or copy items to their archive mailbox, and admins can create an archive policy that automatically moves items to archive mailboxes.</span></span>
+<span data-ttu-id="06bcf-103">Le cassette postali di archiviazione in Microsoft 365 (denominate anche archivi *online* o *archivi sul posto*) offrono agli utenti un ulteriore spazio di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="06bcf-103">Archive mailboxes in Microsoft 365 (also called *Online Archives* or *In-Place Archives*) provide users with additional email storage.</span></span> <span data-ttu-id="06bcf-104">Gli utenti possono spostare o copiare gli elementi nella propria cassetta postale di archiviazione e gli amministratori possono creare un criterio di archiviazione che sposta automaticamente gli elementi nelle cassette postali di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="06bcf-104">Users can move or copy items to their archive mailbox, and admins can create an archive policy that automatically moves items to archive mailboxes.</span></span>
   
-<span data-ttu-id="06d50-105">Ecco come creare una cassetta postale di archiviazione:</span><span class="sxs-lookup"><span data-stu-id="06d50-105">Here's how to create an archive mailbox:</span></span>
+<span data-ttu-id="06bcf-105">Ecco come creare una cassetta postale di archiviazione:</span><span class="sxs-lookup"><span data-stu-id="06bcf-105">Here's how to create an archive mailbox:</span></span>
   
-1. <span data-ttu-id="06d50-106">Passare a [https://protection.office.com](https://protection.office.com).</span><span class="sxs-lookup"><span data-stu-id="06d50-106">Go to [https://protection.office.com](https://protection.office.com).</span></span>
+1. <span data-ttu-id="06bcf-106">Passare a [https://protection.office.com](https://protection.office.com).</span><span class="sxs-lookup"><span data-stu-id="06bcf-106">Go to [https://protection.office.com](https://protection.office.com).</span></span>
 
-2. <span data-ttu-id="06d50-107">Accedere a Microsoft 365 utilizzando l'account di amministratore.</span><span class="sxs-lookup"><span data-stu-id="06d50-107">Sign in to Microsoft 365 using your admin account.</span></span>
+2. <span data-ttu-id="06bcf-107">Accedere a Microsoft 365 utilizzando l'account di amministratore.</span><span class="sxs-lookup"><span data-stu-id="06bcf-107">Sign in to Microsoft 365 using your admin account.</span></span>
 
-3. <span data-ttu-id="06d50-108">Nel riquadro sinistro del centro &amp; sicurezza e conformità selezionare **Archivio** **informazioni sulla governance** \> .</span><span class="sxs-lookup"><span data-stu-id="06d50-108">In the left pane of the Security &amp; Compliance Center, select **Information governance** \> **Archive**.</span></span>
+3. <span data-ttu-id="06bcf-108">Nel riquadro sinistro del &amp; Centro sicurezza e conformità selezionare archivio **informazioni sulla governance** \> **Archive**.</span><span class="sxs-lookup"><span data-stu-id="06bcf-108">In the left pane of the Security &amp; Compliance Center, select **Information governance** \> **Archive**.</span></span>
 
-4. <span data-ttu-id="06d50-109">Selezionare l'utente di cui si desidera abilitare la cassetta postale di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="06d50-109">Select the user whose archive mailbox you want to enable.</span></span>
+4. <span data-ttu-id="06bcf-109">Selezionare l'utente di cui si desidera abilitare la cassetta postale di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="06bcf-109">Select the user whose archive mailbox you want to enable.</span></span>
 
-5. <span data-ttu-id="06d50-110">Nel riquadro dei dettagli a destra, fare clic su **Abilita** e quindi fare clic su **Sì** nel messaggio di avviso per abilitare la cassetta postale di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="06d50-110">In the details pane on the right, click **Enable** and then click **Yes** in the warning message to enable the archive mailbox.</span></span>
+5. <span data-ttu-id="06bcf-110">Nel riquadro dei dettagli a destra, fare clic su **Abilita** e quindi fare clic su **Sì** nel messaggio di avviso per abilitare la cassetta postale di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="06bcf-110">In the details pane on the right, click **Enable** and then click **Yes** in the warning message to enable the archive mailbox.</span></span>
 
-<span data-ttu-id="06d50-111">È inoltre possibile abilitare in blocco le cassette postali di archiviazione selezionando più utenti (utilizzando i tasti **MAIUSC** o **CTRL** ) e quindi facendo clic su **Abilita** nel riquadro dei dettagli.</span><span class="sxs-lookup"><span data-stu-id="06d50-111">You can also bulk-enable archive mailboxes by selecting multiple users (using the **Shift** or **Ctrl** keys) and then clicking **Enable** in the details pane.</span></span>
+<span data-ttu-id="06bcf-111">È inoltre possibile abilitare in blocco le cassette postali di archiviazione selezionando più utenti (utilizzando i tasti **MAIUSC** o **CTRL** ) e quindi facendo clic su **Abilita** nel riquadro dei dettagli.</span><span class="sxs-lookup"><span data-stu-id="06bcf-111">You can also bulk-enable archive mailboxes by selecting multiple users (using the **Shift** or **Ctrl** keys) and then clicking **Enable** in the details pane.</span></span>
   
-### <a name="shared-mailboxes"></a><span data-ttu-id="06d50-112">Cassette postali condivise</span><span class="sxs-lookup"><span data-stu-id="06d50-112">Shared mailboxes</span></span>
+### <a name="shared-mailboxes"></a><span data-ttu-id="06bcf-112">Cassette postali condivise</span><span class="sxs-lookup"><span data-stu-id="06bcf-112">Shared mailboxes</span></span>
 
-<span data-ttu-id="06d50-113">Per abilitare l'archivio per una cassetta postale condivisa, è necessaria una licenza di Exchange Online piano 2 o una licenza di Exchange Online piano 1 con una licenza di archiviazione Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="06d50-113">To enable the archive for a shared mailbox, an Exchange Online Plan 2 license or an Exchange Online Plan 1 license with an Exchange Online Archiving license is required.</span></span>  
+<span data-ttu-id="06bcf-113">Per abilitare l'archivio per una cassetta postale condivisa, è necessaria una licenza di Exchange Online piano 2 o una licenza di Exchange Online piano 1 con una licenza di archiviazione Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="06bcf-113">To enable the archive for a shared mailbox, an Exchange Online Plan 2 license or an Exchange Online Plan 1 license with an Exchange Online Archiving license is required.</span></span>  
 
-<span data-ttu-id="06d50-114">Per abilitare l'archivio per una cassetta postale condivisa:</span><span class="sxs-lookup"><span data-stu-id="06d50-114">To enable the archive for a shared mailbox:</span></span>
+<span data-ttu-id="06bcf-114">Per abilitare l'archivio per una cassetta postale condivisa:</span><span class="sxs-lookup"><span data-stu-id="06bcf-114">To enable the archive for a shared mailbox:</span></span>
 
-1. <span data-ttu-id="06d50-115">Accedere all'interfaccia di [amministrazione di Exchange](https://outlook.office365.com/ecp) e accedere utilizzando l'account di amministratore.</span><span class="sxs-lookup"><span data-stu-id="06d50-115">Go to the [Exchange admin center](https://outlook.office365.com/ecp) and sign in using your admin account.</span></span>
+1. <span data-ttu-id="06bcf-115">Accedere all'interfaccia di [amministrazione di Exchange](https://outlook.office365.com/ecp) e accedere utilizzando l'account di amministratore.</span><span class="sxs-lookup"><span data-stu-id="06bcf-115">Go to the [Exchange admin center](https://outlook.office365.com/ecp) and sign in using your admin account.</span></span>
 
-2. <span data-ttu-id="06d50-116">Andare a **destinatari** > **condivisi**.</span><span class="sxs-lookup"><span data-stu-id="06d50-116">Go to **Recipients** > **Shared**.</span></span>
+2. <span data-ttu-id="06bcf-116">Andare a **destinatari**  >  **condivisi**.</span><span class="sxs-lookup"><span data-stu-id="06bcf-116">Go to **Recipients** > **Shared**.</span></span>
 
-3. <span data-ttu-id="06d50-117">Selezionare la cassetta postale condivisa.</span><span class="sxs-lookup"><span data-stu-id="06d50-117">Select the shared mailbox.</span></span>
+3. <span data-ttu-id="06bcf-117">Selezionare la cassetta postale condivisa.</span><span class="sxs-lookup"><span data-stu-id="06bcf-117">Select the shared mailbox.</span></span>
 
-4. <span data-ttu-id="06d50-118">Nel riquadro dei dettagli a destra, in **archivio sul posto**, fare clic su **Abilita**e quindi fare clic su **Sì** per abilitare la cassetta postale di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="06d50-118">In the details pane on the right, under **In-Place Archive**, click **Enable**, and then click **Yes** to enable the archive mailbox.</span></span>
+4. <span data-ttu-id="06bcf-118">Nel riquadro dei dettagli a destra, in **archivio sul posto**, fare clic su **Abilita**e quindi fare clic su **Sì** per abilitare la cassetta postale di archiviazione.</span><span class="sxs-lookup"><span data-stu-id="06bcf-118">In the details pane on the right, under **In-Place Archive**, click **Enable**, and then click **Yes** to enable the archive mailbox.</span></span>
 
-<span data-ttu-id="06d50-119">Per altre informazioni, vedere:</span><span class="sxs-lookup"><span data-stu-id="06d50-119">For more information, see:</span></span>
+<span data-ttu-id="06bcf-119">Per altre informazioni, vedere:</span><span class="sxs-lookup"><span data-stu-id="06bcf-119">For more information, see:</span></span>
   
-- [<span data-ttu-id="06d50-120">Abilitare le cassette postali di archiviazione</span><span class="sxs-lookup"><span data-stu-id="06d50-120">Enable archive mailboxes</span></span>](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [<span data-ttu-id="06bcf-120">Abilitare le cassette postali di archiviazione</span><span class="sxs-lookup"><span data-stu-id="06bcf-120">Enable archive mailboxes</span></span>](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
-- [<span data-ttu-id="06d50-121">Configurare un criterio di eliminazione e archiviazione</span><span class="sxs-lookup"><span data-stu-id="06d50-121">Set up an archive and deletion policy</span></span>](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [<span data-ttu-id="06bcf-121">Configurare un criterio di eliminazione e archiviazione</span><span class="sxs-lookup"><span data-stu-id="06bcf-121">Set up an archive and deletion policy</span></span>](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
