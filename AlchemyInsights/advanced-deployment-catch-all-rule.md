@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710915"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580855"
 ---
-# <a name="deploy-office-apps"></a>Distribuire le app di Office
+# <a name="deploy-microsoft-365-apps"></a>Distribuire le app di Microsoft 365
 
-Per distribuire le app di Office in più utenti finali tramite lo strumento di distribuzione di Office, Microsoft endpoint Configuration Manager, come parte di un'immagine del disco del sistema operativo o in uno scenario di computer condiviso utilizzando Windows Server con Servizi Desktop remoto o servizi Terminal, è consigliabile utilizzare la Guida introduttiva di **microsoft 365 Apps for Enterprise Deployment Advisor**.
+Per la distribuzione di app Microsoft 365 a più utenti finali tramite lo strumento di distribuzione di Office, Microsoft endpoint Configuration Manager, come parte di un'immagine del disco del sistema operativo o in uno scenario di computer condiviso utilizzando Windows Server con Servizi Desktop remoto (RDS) o servizi Terminal, è consigliabile utilizzare la Guida introduttiva di **microsoft 365 Apps for Enterprise Deployment Advisor**.
   
-Per iniziare, assicurarsi di aver eseguito l'accesso come amministratore del tenant o amministratore globale, quindi fare clic qui: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).
+Per iniziare, assicurarsi di aver eseguito l'accesso come amministratore del tenant o amministratore globale, quindi fare clic qui: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
   

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 077d1d69f0c317d958163dcf07239cbdf35edcdb
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912898"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579437"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Autorizzazioni utente in SharePoint e OneDrive
 
@@ -27,7 +27,7 @@ Se un utente dell'organizzazione non è in grado di accedere a SharePoint o OneD
   
 1. Aprire il sito in un Web browser.
     
-2. Se il sito appartiene a un gruppo di Microsoft 365, fare clic sull'icona delle impostazioni in alto a destra, quindi fare clic su **autorizzazioni sito**. Fare clic su **invita persone**e quindi scegliere di aggiungere membri al gruppo Microsoft 365 o condividere solo il sito. 
+2. Se il sito appartiene a un gruppo di Microsoft 365, fare clic sull'icona impostazioni in alto a destra, quindi fare clic su **autorizzazioni sito**. Fare clic su **invita persone**e quindi scegliere di aggiungere membri al gruppo Microsoft 365 o condividere solo il sito. 
     
     Per un sito di comunicazione, fare clic su **Condividi sito** in alto a destra, immettere il nome della persona, quindi selezionare il livello di autorizzazione (lettura, modifica o controllo completo). 
     

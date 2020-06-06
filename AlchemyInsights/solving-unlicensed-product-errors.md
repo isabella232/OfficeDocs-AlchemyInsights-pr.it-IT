@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512016"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582743"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Suggerimenti per la risoluzione degli errori di "prodotto senza licenza"
 
@@ -26,7 +26,7 @@ Per risolvere gli errori relativi a un prodotto privo di licenza, provare a eseg
 - Assicurarsi di disporre di un abbonamento che consenta licenze client, ad esempio Microsoft 365 Apps for business o Business Premium, e [assicurarsi che l'utente disponga di una licenza assegnata](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Verificare che l'utente sia abilitato all'accesso a Office con lo stesso account a cui è assegnata la licenza.
 - Controllare la [pagina integrità del servizio](https://docs.microsoft.com/office365/enterprise/view-service-health) per verificare la presenza di eventuali problemi noti con il servizio.
-- Controllare il firewall, il software antivirus e le impostazioni proxy per confermare che non impediscono l'accesso a Internet alle app di Office. Vedere [URL e intervalli di indirizzi IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Controllare il firewall, il software antivirus e le impostazioni proxy per confermare che non bloccano l'accesso di Microsoft 365 Apps a Internet. Vedere [URL e intervalli di indirizzi IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 È inoltre possibile provare le seguenti azioni per la risoluzione dei problemi: 
 

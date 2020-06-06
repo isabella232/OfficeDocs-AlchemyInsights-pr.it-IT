@@ -12,11 +12,11 @@ ms.custom:
 - "2429"
 - "9000575"
 ms.openlocfilehash: 3397d3b195beea97dca354b7d6f23fc5e1c15d27
-ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43143029"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580901"
 ---
 # <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Suggerimenti per la risoluzione di OneNote 2016 mancante
 

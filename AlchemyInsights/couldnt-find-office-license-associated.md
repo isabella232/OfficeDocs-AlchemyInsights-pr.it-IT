@@ -1,5 +1,5 @@
 ---
-title: Fissaggio delle app di Office non è stato possibile trovare il messaggio associato alle licenze
+title: Fissaggio delle app di Microsoft 365 Impossibile trovare il messaggio associato alle licenze di Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 887be4bee2bd1562bdc3b29783e9deafe47d8d57
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 65ffae1a784f841cb08a5df52b02671a4526d9d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505871"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580445"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Risoluzione delle app di Office "Impossibile trovare il messaggio relativo alle licenze di Office"
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Risoluzione delle app di Microsoft 365 "Impossibile trovare il messaggio relativo alle licenze di Office"
 
 Se viene visualizzato questo messaggio, provare a eseguire le operazioni seguenti:
 
-1. Controllare il firewall, il software antivirus e le impostazioni proxy per confermare che non bloccano l'accesso a Internet alle app di Office. Vedere gli [intervalli di indirizzi IP e URL di Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Controllare il firewall, il software antivirus e le impostazioni proxy per confermare che non bloccano l'accesso a Internet alle app Microsoft 365. Vedere gli [intervalli di indirizzi IP e URL di Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. Rimuovere e [riassegnare la licenza di Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) per l'utente in questione. 
 3. Aprire un'app di Office e [disconnettersi](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) da tutti gli account utente esistenti.
 4. Passare a impostazioni di Windows **> account**  >  **& di posta elettronica**e rimuovere tutti gli account di lavoro, ad eccezione dell'account danneggiato.

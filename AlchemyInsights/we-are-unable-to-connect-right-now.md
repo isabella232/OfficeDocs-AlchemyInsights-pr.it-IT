@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716176"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581879"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Risoluzione delle app di Office "non è possibile connettersi subito" messaggio
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Risoluzione delle app Microsoft 365 "non è possibile connettersi in questo momento" messaggio
 
 Se viene visualizzato questo messaggio, provare a eseguire le operazioni seguenti:
 
-1. Controllare il firewall, il software antivirus e le impostazioni proxy per confermare che non bloccano l'accesso a Internet alle app di Office. Vedere gli [intervalli di indirizzi IP e URL Microsoft](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Controllare il firewall, il software antivirus e le impostazioni proxy per confermare che non bloccano l'accesso a Internet alle app Microsoft 365. Vedere gli [intervalli di indirizzi IP e URL Microsoft](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Andare a **Start** > **Run**e quindi digitare **Services. msc**. Verificare che i seguenti servizi siano in esecuzione:
+2. Andare a **Start**  >  **Run**e quindi digitare **Services. msc**. Verificare che i seguenti servizi siano in esecuzione:
     - Configurazione automatica di dispositivi connessi alla rete
     - Servizio elenco di rete
     - Consapevolezza del percorso di rete
