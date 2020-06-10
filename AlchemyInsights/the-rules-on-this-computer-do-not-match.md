@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618015"
+ms.locfileid: "44664250"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Errore: le regole del computer non corrispondono
 
@@ -28,3 +28,4 @@ Fino a quando non è disponibile la correzione, utilizzare la soluzione seguente
 **Soluzione**: nei rapporti recenti, si è verificato il problema per gli utenti che hanno creato solo le regole client in Outlook desktop. Se si continua a eseguire il problema, prendere in considerazione l'eliminazione delle regole e quindi creare e modificare le regole solo in OWA (Outlook Web App) fino a quando il problema non viene risolto.
 
 Se non è possibile eliminare le regole manualmente, è possibile eseguire un comando di Outlook all'avvio di Outlook eseguendo Outlook. exe/cleanrules. Questo eliminerà sia le regole client che quelle del server. Eliminerà tutte le regole per tutti gli account nel profilo di Outlook. Questo comando è ulteriormente documentato nell'articolo delle opzioni della riga di comando.
+
