@@ -1,5 +1,5 @@
 ---
-title: Messaggi di avviso relativi all'abbonamento nelle app di Office
+title: Messaggi di avviso relativi all'abbonamento nelle app di Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 1e70dc0f8b4ba420c09936cf440d619ccebd2c20
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789198"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582311"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>Messaggi di avviso relativi all'abbonamento nelle app di Office
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Messaggi di avviso relativi all'abbonamento nelle app di Microsoft 365
 
 - Se Office è stato preinstallato nel nuovo dispositivo, vedere [Attivare Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) per assistenza nell'attivazione di Office nel nuovo dispositivo.
 
@@ -32,7 +32,7 @@ ms.locfileid: "43789198"
 
 - Eseguire lo [strumento di risoluzione dei problemi di attivazione](https://aka.ms/SARA-OfficeActivation-Alchemy) e riavviare il computer.
 
-- Nel computer interessato [reimpostare lo stato di attivazione di Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Nel computer interessato [reimpostare lo stato di attivazione di Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Per istruzioni dettagliate, vedere le seguenti risorse: 
 

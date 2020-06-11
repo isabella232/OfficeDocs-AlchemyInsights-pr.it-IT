@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: e071894314c349ac574d00c6c13a39b23a4fce16
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010150"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576996"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Non è disponibile l'opzione per installare Office, Visio o Project
 
@@ -24,7 +24,7 @@ Per installare le app client di Office, verificare di avere un abbonamento a Off
 
 **Nota**: [Office Home and Business](https://products.office.com/home-and-business) è un prodotto [Office per utenti privati](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) e non fa parte di un abbonamento per le aziende. Project Online Essentials non include una versione desktop di Project, quindi non è necessaria alcuna installazione. Gli utenti di Visio piano 1 possono accedere a Visio sul Web, perché il piano non include l'app desktop Visio. Le app desktop di Project e Visio non sono disponibili per Mac
 
-Se si ha un abbonamento che include app di Office non viene visualizzata un'opzione per installarle, a meno che non si disponga di una [licenza assegnata](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). L'amministratore di Office 365 responsabile dell'assegnazione di licenze, può fare riferimento a [Assegnare licenze agli utenti](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Se si ha un abbonamento che include app di Microsoft 365 non viene visualizzata un'opzione per installarle, a meno che non si disponga di una [licenza assegnata](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). L'amministratore di Office 365 responsabile dell'assegnazione di licenze, può fare riferimento a [Assegnare licenze agli utenti](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 
 Ogni utente deve:

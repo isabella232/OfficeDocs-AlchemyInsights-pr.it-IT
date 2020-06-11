@@ -1,5 +1,5 @@
 ---
-title: Non è possibile verificare l'avviso relativo all'abbonamento nelle app di Office
+title: Avviso Non è possibile verificare l'abbonamento nelle app di Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: f2ee65f74bef00c25af7d89608ab23f7a76bbf6d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788778"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580409"
 ---
-# <a name="couldnt-verify-subscription-notice-in-office-apps"></a>Avviso "Non è possibile verificare l'abbonamento" nelle app di Office
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Avviso "Non è possibile verificare l'abbonamento" nelle app di Microsoft 365
 
 - Verificare che lo [stato dell'abbonamento](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) sia valido, che all'utente interessato sia [assegnata una licenza valida](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) e che l'utente sia connesso a Internet.
 
@@ -28,7 +28,7 @@ ms.locfileid: "43788778"
 
 - Eseguire lo [strumento di risoluzione dei problemi di attivazione](https://aka.ms/SARA-OfficeActivation-Alchemy) e riavviare il computer.
 
-- Nel computer interessato [reimpostare lo stato di attivazione di Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Nel computer interessato [reimpostare lo stato di attivazione di Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Per istruzioni dettagliate, vedere le seguenti risorse: 
 

@@ -1,5 +1,5 @@
 ---
-title: Avviso "Abbonamento scaduto" nelle app di Office
+title: Avviso Abbonamento scaduto nelle app di Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: be5fece97854e4967133f74cfb51728dab853b5f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789270"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576708"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Avviso "Abbonamento scaduto" nelle app di Office
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Avviso "Abbonamento scaduto" nelle app di Microsoft 365
 
 - Controllare la [pagina sull'integrità dei servizi](https://docs.microsoft.com/office365/enterprise/view-service-health) per verificare se sono presenti problemi noti con il servizio.
 
@@ -30,7 +30,7 @@ ms.locfileid: "43789270"
 
 - Eseguire lo [strumento di risoluzione dei problemi di attivazione](https://aka.ms/SARA-OfficeActivation-Alchemy) e riavviare il computer.
 
-- Nel computer interessato [reimpostare lo stato di attivazione di Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Nel computer interessato [reimpostare lo stato di attivazione di Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Per istruzioni dettagliate, vedere le seguenti risorse: 
 
