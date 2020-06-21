@@ -1,5 +1,5 @@
 ---
-title: Perché non è possibile modificare il file?
+title: Perché non posso modificare il file?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,8 +18,8 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 05/14/2020
 ms.locfileid: "44236501"
 ---
-# <a name="why-cant-i-edit-this-file"></a><span data-ttu-id="f8883-102">Perché non è possibile modificare il file?</span><span class="sxs-lookup"><span data-stu-id="f8883-102">Why can’t I edit this file?</span></span>
+# <a name="why-cant-i-edit-this-file"></a><span data-ttu-id="f2327-102">Perché non posso modificare il file?</span><span class="sxs-lookup"><span data-stu-id="f2327-102">Why can’t I edit this file?</span></span>
 
-<span data-ttu-id="f8883-103">Se un documento, un foglio di lavoro o una presentazione è bloccata per la modifica e non può essere modificata nelle applicazioni desktop di Windows, è possibile che il file sia stato modificato da un altro utente o che il file sia stato estratto.</span><span class="sxs-lookup"><span data-stu-id="f8883-103">If a document, worksheet, or presentation is locked for editing and can’t be edited in the Windows desktop applications, it may be the file is being edited by someone else, or they have the file checked out.</span></span>
+<span data-ttu-id="f2327-103">Se la modifica di un documento, un foglio di lavoro o una presentazione è bloccata e non è possibile modificare il file nelle applicazioni desktop per Windows, è possibile che un altro utente stia modificando il file o lo abbia estratto.</span><span class="sxs-lookup"><span data-stu-id="f2327-103">If a document, worksheet, or presentation is locked for editing and can’t be edited in the Windows desktop applications, it may be the file is being edited by someone else, or they have the file checked out.</span></span>
 
-<span data-ttu-id="f8883-104">Ecco alcuni motivi per cui [potrebbe non essere possibile modificare il file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="f8883-104">Take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
+<span data-ttu-id="f2327-104">Ecco alcuni motivi per cui [potrebbe non essere possibile modificare il file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="f2327-104">Take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
