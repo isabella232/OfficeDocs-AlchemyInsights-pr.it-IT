@@ -20,4 +20,4 @@ ms.locfileid: "44225458"
 ---
 # <a name="users-cant-access-a-shared-folder-in-sharepoint-online"></a>Gli utenti non possono accedere a una cartella condivisa in SharePoint Online
 
-Se gli utenti non sono in grado di accedere a una cartella condivisa in SharePoint Online o OneDrive for Business, seguire la procedura descritta in [Non è possibile accedere alla cartella condivisa](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/cannot-access-shared-folder).
+Se gli utenti non possono accedere a una cartella condivisa in SharePoint Online o OneDrive for Business, seguire la procedura descritta in [Non è possibile accedere alla cartella condivisa](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/cannot-access-shared-folder).

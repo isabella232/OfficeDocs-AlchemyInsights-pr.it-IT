@@ -1,5 +1,5 @@
 ---
-title: Perché non è possibile modificare il file?
+title: Perché non posso modificare il file?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,8 +18,8 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 05/14/2020
 ms.locfileid: "44236501"
 ---
-# <a name="why-cant-i-edit-this-file"></a>Perché non è possibile modificare il file?
+# <a name="why-cant-i-edit-this-file"></a>Perché non posso modificare il file?
 
-Se un documento, un foglio di lavoro o una presentazione è bloccata per la modifica e non può essere modificata nelle applicazioni desktop di Windows, è possibile che il file sia stato modificato da un altro utente o che il file sia stato estratto.
+Se la modifica di un documento, un foglio di lavoro o una presentazione è bloccata e non è possibile modificare il file nelle applicazioni desktop per Windows, è possibile che un altro utente stia modificando il file o lo abbia estratto.
 
 Ecco alcuni motivi per cui [potrebbe non essere possibile modificare il file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).

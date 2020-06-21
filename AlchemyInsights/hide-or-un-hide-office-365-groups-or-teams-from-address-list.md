@@ -1,5 +1,5 @@
 ---
-title: Nascondere o rendere visibili gruppi/team di Office 365 dall'elenco di indirizzi
+title: Nascondere o mostrare i gruppi/team di Office 365 nell'elenco di indirizzi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,18 +18,18 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 05/14/2020
 ms.locfileid: "44225441"
 ---
-# <a name="hide-or-un-hide-office-365-groups-or-teams-from-address-list"></a>Nascondere o rendere visibili gruppi/team di Office 365 dall'elenco di indirizzi
+# <a name="hide-or-un-hide-office-365-groups-or-teams-from-address-list"></a>Nascondere o mostrare i gruppi/team di Office 365 nell'elenco di indirizzi
 
-Usare il comando EXO PowerShell seguente per nascondere o rendere visibile gruppi/team di Office 365 da elenchi di indirizzi (GAL) di client Exchange (Outlook, OWA):
+Usare il comando EXO PowerShell seguente per nascondere o mostrare i gruppi/team di Office 365 negli elenchi di indirizzi globali dei client Exchange (Outlook, OWA):
 
 `
     Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:<$true> or <$false>
 `
 
-Usare il comando EXO PowerShell seguente per nascondere o rendere visibile gruppi/team di Office365 da client Exchange (Outlook, OWA):
+Usare il comando EXO PowerShell seguente per nascondere o mostrare i gruppi/team di Office365 nei client Exchange (Outlook, OWA):
 
 `
     Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:<$true> or <$false>
 `
 
-- Per istruzioni dettagliate, vedere [Nascondere i gruppi di Office 365 dai client GAL e Exchange](https://docs.microsoft.com/schooldatasync/hide-office-365-groups-from-the-gal).
+- Per istruzioni dettagliate, vedere [Nascondere i gruppi di Office 365 negli elenchi di indirizzi globali e nei client Exchange](https://docs.microsoft.com/schooldatasync/hide-office-365-groups-from-the-gal).
