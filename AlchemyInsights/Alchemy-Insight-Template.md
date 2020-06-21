@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
+ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676537"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "44750974"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Obbligatorio intestazione di alchimia H1, H2's non funziona.
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"L'intestazione di alchimia necessaria H1, H2's non funziona".
 Procedure consigliate e linee guida per la creazione di alchimia:
 
 1. **Non annidare Insights alchimia nelle cartelle**-questo si romperà la struttura URL. Stiamo cercando di risolvere la cosa.
