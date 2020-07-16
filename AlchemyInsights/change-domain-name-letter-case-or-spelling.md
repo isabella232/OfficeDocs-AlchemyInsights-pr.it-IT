@@ -3,7 +3,7 @@ title: Modificare le maiuscole/minuscole o l'ortografia del nome di un dominio
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 07/8/2020
+ms.date: 07/13/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5996"
 - "9003201"
-ms.openlocfilehash: fa6e463b385f8743ab0b889273c04e241ebfec57
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 7a8efc6ee5dddc17bbd697055ff7c5d79c89864c
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45084000"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138939"
 ---
 # <a name="change-a-domain-name-letter-case-or-spelling"></a>Modificare le maiuscole/minuscole o l'ortografia del nome di un dominio
 
@@ -29,4 +29,4 @@ Per modificare l'ortografia del nome di un dominio personalizzato, ad esempio us
 
 2. Aggiungere nuovamente il dominio con l'ortografia e le maiuscole/minuscole corrette usando l'opzione [Aggiunta guidata dominio](https://portal.office.com/adminportal/home#/Domains/Wizard).
 
-Non è possibile modificare le maiuscole/minuscole del dominio onmicrosoft.com né rinominarlo dopo l'iscrizione.
+In seguito all'iscrizione non è possibile modificare le maiuscole/minuscole o rinominare il dominio onmicrosoft.com o un dominio acquistato tramite Microsoft.
