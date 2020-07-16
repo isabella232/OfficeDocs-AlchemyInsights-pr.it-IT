@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 185e8787454efc38f378cce6fd7bea06d453bc92
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 246c3b50df856c16ea5237adc43d2126bb5b48b9
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "41969553"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148041"
 ---
 # <a name="restore-a-deleted-form"></a>Ripristinare un modulo eliminato
 
@@ -24,8 +24,8 @@ Se si è eliminato un modulo in Microsoft Forms per sbaglio, è possibile ripris
 
 Solo il proprietario del modulo può ripristinarlo. Se l'account del proprietario della maschera è stato disabilitato o rimosso dal tenant, solo l'amministratore globale può recuperare il modulo. L'amministratore globale deve disporre di una licenza Forms per eseguire un ripristino. Solo i moduli creati entro 30 giorni dall'account utente che è stato disabilitato o rimosso dal tenant possono essere ripristinati.
 
-Se si è l'amministratore globale del tenant e si desidera recuperare un modulo da un account eliminato o disabilitato, sostituire [indirizzo di posta elettronica] con l'indirizzo di posta elettronica dell'utente eliminato o disabilitato nell'URL seguente: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner=[indirizzo di posta elettronica]** ad esempio, se l'indirizzo di posta elettronica è johndoe@contoso.com, l'URL **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com**sarà:. 
+Se si è l'amministratore globale del tenant e si desidera recuperare un modulo da un account eliminato o disabilitato, sostituire [indirizzo di posta elettronica] con l'indirizzo di posta elettronica dell'utente eliminato o disabilitato nell'URL seguente: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [indirizzo di posta elettronica]** ad esempio, se l'indirizzo di posta elettronica è johndoe@CONTOSO.COM, l'URL sarà: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-Dopo aver effettuato l'accesso ai moduli eliminati dell'utente, selezionare il modulo che si desidera spostare e quindi fare clic su **altre azioni** > del modulo**Sposta**.
+Dopo aver effettuato l'accesso ai moduli eliminati dell'utente, selezionare il modulo che si desidera spostare e quindi fare clic su **altre azioni del modulo**  >  **Sposta**.
 
-Se si desidera ripristinare un modulo in cui è stato eliminato e l'utente è stato rimosso dall'organizzazione, un amministratore globale può scegliere di recuperare l'utente in Office 365, reimpostare la password per l'utente e quindi, durante l'accesso come utente, accedere al modulo per spostarlo in anon utente attivo. 
+Se si desidera ripristinare un modulo in cui è stato eliminato e l'utente è stato rimosso dall'organizzazione, un amministratore globale può scegliere di recuperare l'utente, reimpostare la password per l'utente e quindi, durante l'accesso come utente, accedere al modulo per spostarlo in un altro utente attivo. 
