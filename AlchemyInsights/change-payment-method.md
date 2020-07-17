@@ -2,7 +2,7 @@
 title: Cambiare la modalità di pagamento
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,27 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: a0bbc046c28ec246090dbc275f6acb3ccbce8622
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: cf12baf7a9b40b56549f0d3c63f7a6be8d8a7cb9
+ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44221949"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154522"
 ---
 # <a name="change-payment-method"></a>Cambiare la modalità di pagamento
 
 È possibile modificare il metodo di pagamento dall'interfaccia di **amministrazione di Microsoft 365**.
   
-1. Nell'interfaccia di amministrazione, accedere alla pagina dei metodi di pagamento per la **fatturazione**  >  **& pagamenti**  >  [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
-2. Selezionare la riga del metodo di pagamento da sostituire. Nel riquadro destro sono elencati tutti i profili di fatturazione e i singoli abbonamenti che utilizzano il metodo di pagamento selezionato.
-3. Nel riquadro a destra, selezionare **Sostituisci metodo di pagamento per tutti gli elementi**.
-4. Per utilizzare un metodo di pagamento esistente, sceglierne uno dall'elenco a discesa, quindi selezionare **Sostituisci**.
+1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** > **Fatture e pagamenti** > [Modalità di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+2. Selezionare la riga della modalità di pagamento da sostituire. Nel riquadro destro sono elencati tutti i profili di fatturazione e i singoli abbonamenti che usano la modalità di pagamento selezionata.
+3. Nel riquadro destro selezionare **Sostituisci metodo di pagamento per tutti gli articoli**.
+4. Per usare una modalità di pagamento esistente, sceglierne una nell'elenco a discesa, quindi selezionare **Sostituisci**.
     > [!NOTE]
-    > Se si dispone di abbonamenti associati a un profilo di fatturazione, è possibile utilizzare solo una carta di credito o di debito per pagarli. Se si dispone di account bancari elencati nella pagina **metodi di pagamento** , non sono disponibili per la selezione nell'elenco a discesa.
-5. Per aggiungere un nuovo metodo di pagamento, selezionare **Aggiungi metodo di pagamento**.
-6. Nel riquadro **Aggiungi un metodo di pagamento** , immettere le informazioni sull'account, quindi selezionare **Salva**. È necessario utilizzare un metodo di pagamento proveniente dallo stesso paese del tenant.
-7. Il nuovo metodo di pagamento è già selezionato nell'elenco a discesa. Selezionare **Sostituisci**.
+    > Se si hanno abbonamenti associati a un profilo di fatturazione, si può usare solo una carta di credito o di debito per il pagamento. Se nella pagina **Modalità di pagamento** sono elencati conti bancari, non sono disponibili per la selezione nell'elenco a discesa.
+5. Per aggiungere una nuova modalità di pagamento, selezionare **Aggiungi modalità di pagamento**.
+6. Nel riquadro **Aggiungi un metodo di pagamento** immetti le informazioni sull'account e scegli **Salva**. È necessario usare una modalità di pagamento dello stesso paese/area geografica del tenant.
+7. La nuova modalità di pagamento è già selezionata nell'elenco a discesa. Selezionare **Sostituisci**.
 
-Per ulteriori informazioni, vedere [Manage Payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Per altre informazioni, vedere [Gestire i metodi di pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+
+Per informazioni su come modificare il pagamento con carta di credito per i pagamenti in fattura, vedere [change from credit card o Bank account to fattura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
