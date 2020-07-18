@@ -11,21 +11,18 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 8f07a2dc92315e5466ea126243adf46cff192934
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 645da241b7bc33edd9087befd1a4fa9b19034874
+ms.sourcegitcommit: 5eb4fad2edc1d15b961ec1e46ef78b39175dffed
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722236"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45167673"
 ---
 # <a name="migrating-email-from-imap-email-system-to-microsoft-365"></a>Migrazione della posta elettronica dal sistema di posta elettronica IMAP a Microsoft 365
 
 Per eseguire la migrazione della posta elettronica da un sistema di posta IMAP, seguire questo processo: [migrazione IMAP nell'interfaccia di amministrazione di Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
-Molte organizzazioni di grandi dimensioni dovranno pianificare con attenzione la gestione delle aspettative degli utenti. [Ciò che è necessario sapere sulla migrazione delle cassette postali IMAP a Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) articolo consente di gestire la modifica.
-
-Controllare anche la pagina [adotta Microsoft 365 con FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) per assistenza assistita alla migrazione, se idonea.
-  
+Molte organizzazioni di grandi dimensioni dovranno pianificare con attenzione la gestione delle aspettative degli utenti. [Ciò che è necessario sapere sulla migrazione delle cassette postali IMAP a Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) articolo consente di gestire la modifica. Si noti che le migrazioni di G Suite (Google) non [devono più essere eseguite tramite IMAP](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
 
 Controllare anche la pagina [adotta Microsoft 365 con FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) per assistenza assistita alla migrazione, se idonea.
   
