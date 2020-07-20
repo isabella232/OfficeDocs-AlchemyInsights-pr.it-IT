@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: a1b792bcb2a73ed89f8cfe74c0b56461dfa465ce
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: ce4c6319de89ef0fa5cae4cf37f4552db7508ddb
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45139071"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45146595"
 ---
 # <a name="sharepoint-workflows-retiring"></a>Ritiro dei flussi di lavoro di SharePoint
 
-I flussi di lavoro di SharePoint 2010 e SharePoint 2013 saranno ritirati presto. Si consiglia di eseguire la migrazione a [Power Automate](https://docs.microsoft.com/power-automate/getting-started) o altre soluzioni supportate. 
+I flussi di lavoro di SharePoint 2010 saranno ritirati presto. Si consiglia di eseguire la migrazione a [Power Automate](https://docs.microsoft.com/power-automate/getting-started) o altre soluzioni supportate. 
 
 Date principali:
 

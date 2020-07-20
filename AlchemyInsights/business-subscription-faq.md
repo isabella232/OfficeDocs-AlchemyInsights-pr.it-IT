@@ -19,16 +19,14 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 391ec22f692fd0264750ea3151fbc0da8f4269bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
+ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506303"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45169712"
 ---
 # <a name="business-subscription-faq"></a>Domande frequenti sull'abbonamento per le aziende
-
-Domande frequenti sulla gestione delle licenze e degli abbonamenti per le aziende:
 
 - Per visualizzare le opzioni di Microsoft 365 per le aziende, vedere [Confronta i piani per le aziende](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2). Per altre informazioni, contattare il reparto vendite al numero 1-855-270-0615.
 - Per **acquistare** un piano, passare a **Fatturazione > [Acquisto di servizi](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Selezionare il piano e il numero di utenti. Per altre informazioni, vedere [Acquistare un abbonamento](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
