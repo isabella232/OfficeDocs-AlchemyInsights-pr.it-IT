@@ -2,7 +2,7 @@
 title: Risoluzione dei problemi relativi alla sincronizzazione delle password
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,51 +13,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 54b5a033b7cbb99520425b31800364ed4a99a4e6
+ms.sourcegitcommit: 1d01b8b48eef2d5d10c375dcf802cd36e9d6bf61
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732514"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45387881"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Risoluzione dei problemi relativi alla sincronizzazione delle password
 
-Per risolvere i problemi in cui nessuna password è sincronizzata con Azure AD Connect Version 1.1.614.0 o versione successiva:
-  
-1. Aprire una nuova sessione di Windows PowerShell nel server Azure AD Connect con l'opzione **Esegui come amministratore** .
+Per risolvere i problemi di sincronizzazione delle password, iniziare a utilizzare questa attività per la risoluzione dei problemi di AAD Connect per determinare il motivo per cui le password non vengono sincronizzate. Per iniziare, passare a [Gestione sincronizzazione diretta](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-2. Eseguire **Set-ExecutionPolicy RemoteSigned** o **Set-ExecutionPolicy Unrestricted**.
+1. Aprire una nuova sessione di Windows PowerShell nel server Azure AD Connect e selezionare l'opzione **Esegui come amministratore** .
+
+2. Eseguire Set-ExecutionPolicy RemoteSigned o Set-ExecutionPolicy Unrestricted.
 
 3. Avviare la procedura guidata di Azure AD Connect.
 
-4. Passare alla pagina **attività aggiuntive** , selezionare **risoluzione dei problemi**e quindi fare clic su **Avanti**.
+4. Passare alla pagina attività aggiuntive > **risoluzione dei problemi**  >  **successiva**.
 
-5. Nella pagina risoluzione dei problemi fare clic su **Avvia per avviare il menu Risoluzione dei problemi** in PowerShell.
+5. Selezionare **Avvia** per aprire il menu di risoluzione dei problemi di PowerShell.
 
-6. Nel menu principale, selezionare **risoluzione dei problemi relativi alla sincronizzazione delle password**.
+6. Selezionare **risoluzione dei problemi relativi alla sincronizzazione delle password**.
 
-7. Nel menu secondario selezionare **sincronizzazione password non funziona affatto**.
+    Il problema è in genere che non viene sincronizzata una password per un account utente specifico.
 
-**Informazioni sui risultati dell'attività di risoluzione dei problemi**
-  
-L'attività di risoluzione dei problemi esegue i controlli seguenti:
-  
-- Verifica che la funzionalità di sincronizzazione delle password sia abilitata per il tenant di Azure AD.
+    **Note** La sincronizzazione delle password ha esito negativo se l'ultima sincronizzazione della password è stata completata qualche tempo fa.
 
-- Verifica che il server Azure AD Connect non sia in modalità di gestione temporanea.
-
-- Per ogni connettore Active Directory locale esistente (che corrisponde a una foresta di Active Directory esistente):
-
-- 
-  - Verifica che la funzionalità di sincronizzazione delle password sia abilitata.
-
-  - Cerca gli eventi heartbeat di sincronizzazione delle password nei registri eventi applicazioni di Windows.
-
-  - Per ogni dominio di Active Directory sotto il connettore Active Directory locale:
-
-  - Verifica che il dominio sia raggiungibile dal server Azure AD Connect.
-
-  - Verifica che gli account di servizi di dominio Active Directory utilizzati dal connettore Active Directory locale dispongano del nome utente, della password e delle autorizzazioni corretti necessari per la sincronizzazione delle password.
-
-Per ulteriori informazioni sulla risoluzione dei problemi relativi alla sincronizzazione delle password, vedere [risolvere i problemi di sincronizzazione delle password con Azure ad Connect Sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
-  
+Per ulteriori informazioni sulla risoluzione dei problemi relativi alla sincronizzazione delle password, vedere [Troubleshoot password hash Synchronization with Azure ad Connect Sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
