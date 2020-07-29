@@ -12,12 +12,12 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 855f2ae66fe8a882dbc69e1bc1b546fe6eabb712
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 814420999d926e79bef7cfd956b0d949e6a82da0
+ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495955"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46505153"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Come aggiungere o modificare un VatID
 
@@ -35,7 +35,7 @@ ms.locfileid: "44495955"
 
     Al termine dell'operazione, l'IVA non verrà addebitata sulla fattura successiva.
 
-Per ulteriori informazioni, vedere [quali tasse verranno addebitate per Microsoft 365?]https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)
+Per ulteriori informazioni, vedere [quali imposte vengono addebitate per Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
 
 **Risorse aggiuntive**
 
