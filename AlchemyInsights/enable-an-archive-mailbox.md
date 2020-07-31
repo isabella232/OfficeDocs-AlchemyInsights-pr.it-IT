@@ -10,14 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507030"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522739"
 ---
 # <a name="enable-an-archive-mailbox"></a>Abilitazione di una cassetta postale di archiviazione
+
+Se si desidera che vengano eseguiti controlli automatici per verificare che sia possibile configurare una cassetta postale di archiviazione, selezionare il pulsante indietro <--nella parte superiore della pagina e quindi immettere l'indirizzo di posta elettronica dell'account.
 
 Le cassette postali di archiviazione in Microsoft 365 (denominate anche archivi *online* o *archivi sul posto*) offrono agli utenti un ulteriore spazio di archiviazione. Gli utenti possono spostare o copiare gli elementi nella propria cassetta postale di archiviazione e gli amministratori possono creare un criterio di archiviazione che sposta automaticamente gli elementi nelle cassette postali di archiviazione.
   

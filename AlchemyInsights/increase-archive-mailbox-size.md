@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508812"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522847"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Aumentare le dimensioni della cassetta postale di archiviazione
+
+
+Se si desidera che vengano eseguiti controlli automatici per le impostazioni indicate di seguito, selezionare il pulsante indietro <--nella parte superiore della pagina e quindi immettere l'indirizzo di posta elettronica dell'utente a cui è stata aumentata la dimensione della cassetta postale di archiviazione.
 
 Microsoft 365 [limita](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) le dimensioni delle cassette postali di archiviazione in base alla licenza assegnata all'account utente. Quando la cassetta postale di archiviazione raggiunge il 90% della dimensione consentita, l'utente riceve una notifica tramite posta elettronica. Quando una cassetta postale di archiviazione raggiunge il limite di dimensione, l'utente non può spostare più elementi nella cassetta postale di archiviazione. Microsoft 365 non aumenterà le dimensioni di una cassetta postale di archiviazione dopo che è stato raggiunto il limite di dimensione. Al contrario, gli utenti possono eseguire le azioni seguenti per liberare spazio nella cassetta postale di archiviazione:
 
