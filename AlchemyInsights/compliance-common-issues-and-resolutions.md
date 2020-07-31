@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: f3e8fc56e0eaf47e946ecf039aa49467689fd8e0
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
+ms.openlocfilehash: 0f64207ac9ea2c25106f0339ed2b8080361e8ce4
+ms.sourcegitcommit: 5af184ed3c0f9491e7fcf927e9c78e366f26b540
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231670"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46514978"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Problemi noti di conformità e risoluzioni
 
@@ -31,5 +31,7 @@ Ecco alcuni argomenti richiesti di frequente relativi alla conformità:
 - Controllo in Office 365: [Ricerca dei log di controllo in Office 365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide).
 
 - Prevenzione della perdita dei dati: per altre informazioni vedere [Panoramica della prevenzione della perdita dei dati](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide).
+ 
+- Etichette di riservatezza : per altre informazioni, si veda [Creare e configurare etichette di riservatezza e i relativi criteri](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
 
 **Nota**: per una risposta più specifica ai problemi di conformità, provare a riformulare brevemente la domanda e includere gli errori visualizzati o le funzionalità in uso.
