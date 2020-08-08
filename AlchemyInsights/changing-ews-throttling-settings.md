@@ -12,13 +12,15 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 4b4be7041ce432b52c61578b3e4d7d49106763bc
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 415990669bafb2262c558749b64385a91d159226
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474631"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596787"
 ---
 # <a name="changing-ews-throttling-settings"></a>Modificare le impostazioni della limitazione EWS
 
 Eseguire il test automatico che consente di modificare i criteri di limitazione EWS per la durata della migrazione.
+
+Si prega di notare che le modifiche apportate ai criteri di limitazione EWS non hanno alcun effetto sui seguenti tipi di trasferimenti (in caso di utilizzo di strumenti Microsoft): Hybrid, Cutover/Staged (RPC/HTTP), IMAP, G Suite, Cartelle Pubbliche o il Servizio d’importazione PST.
