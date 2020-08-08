@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56620e4795649d55181305b7b8c0a9d28c83e977
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495817"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596751"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Inserire una cassetta postale in blocco legale
 
@@ -26,4 +26,4 @@ ms.locfileid: "44495817"
 
 - Per abilitare il blocco per controversia legale per un singolo utente, [eseguire la procedura seguente](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). Quando il blocco per controversia legale è abilitato, tutto il contenuto della cassetta postale viene mantenuto.
 
-- Per conservare il contenuto in tutte le cassette postali dell'organizzazione, è possibile utilizzare un [criterio di conservazione a livello dell'organizzazione](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Si noti che per i criteri di conservazione a livello dell'organizzazione, i nuovi utenti verranno automaticamente assegnati al criterio.
+- Per conservare il contenuto in tutte le cassette postali dell'organizzazione o per creare altri tipi di conservazione, utilizzare un criterio di conservazione o etichette. Si noti che per i criteri di conservazione a livello dell'organizzazione, i nuovi utenti vengono automaticamente assegnati al criterio. Per altre informazioni, vedere informazioni [sui criteri di conservazione e sulle etichette di conservazione](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
