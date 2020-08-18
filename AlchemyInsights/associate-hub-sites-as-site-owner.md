@@ -1,7 +1,7 @@
 ---
 title: Associare i siti hub come proprietario del sito
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: fa9813ad8dd99777fb9c3c33b1bf83217f3e1c64
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8866629f73d31cafd33bee712bbb9ba7adce844c
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712498"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786677"
 ---
 # <a name="associate-hub-sites-as-site-owner"></a>Associare i siti hub come proprietario del sito
 
 [Centro messaggi 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) condiviso come l'aggiunta di un hub di SharePoint può essere eseguita dai proprietari dei siti. Se l'organizzazione desidera gestire gli utenti specifici che possono essere associati a un hub, eseguire la procedura seguente: 
 
-1. Accedere a ([https://portal.office.com](https://portal.office.com)) con i diritti di amministratore.
+1. Accedere a ( [https://portal.office.com](https://portal.office.com) ) con i diritti di amministratore.
 2. Selezionare l'icona di **avvio delle app** (con nove piazze) nella parte superiore sinistra dello schermo, quindi selezionare **amministratore**.
 3. Selezionare interfaccia di **Amministrazione** dal menu a sinistra dello schermo e quindi selezionare **SharePoint**.
 4. Dal banner blu nella parte superiore dello schermo, selezionare **Avvia app ora** per visualizzare la nuova interfaccia di amministrazione di SharePoint.
