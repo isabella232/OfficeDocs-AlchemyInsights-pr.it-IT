@@ -12,14 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: d7b56237cb287f619643303fb31c627e258c332d
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 3ec340b6a2ee1a3671f72f64b17e46d991d8e0a1
+ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46545715"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46844564"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>Gestire le registrazioni delle riunioni per funzionalità didattiche
+
+A partire dal  **20 agosto 2020**, quando gli utenti con licenze A1 (comprese quelle A1 Plus) avvieranno una registrazione di una riunione con Teams, questa sarà disponibile per 21 giorni.
+
+Per altre informazioni, incluso come salvare la riunione in un'altra posizione, vedere [Caricare una registrazione riunione di Microsoft Teams in Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
 
 È consigliabile che gli amministratori degli istituti di istruzione considerino l'uso di pacchetti di criteri per la sicurezza per gli educatori e per la sicurezza degli studenti ed educatori. Per altre informazioni, vedere:
 
