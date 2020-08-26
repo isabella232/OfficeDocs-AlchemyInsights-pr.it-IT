@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650572"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902624"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Pensionamento degli strumenti di eDiscovery legacy
 
@@ -40,9 +40,9 @@ Come risultato della nuova e migliorata funzionalità di eDiscovery nel centro c
 - [Advanced eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Sequenza temporale per la pensione**:
-- 2020 aprile 1: non sarà possibile creare nuove ricerche e conservazioni, ma è comunque possibile eseguire, modificare ed eliminare le ricerche esistenti a proprio rischio. Il supporto tecnico Microsoft non supporterà più il eDiscovery sul posto & conserva nell'interfaccia di amministrazione di Exchange.
-
-- 2020 luglio 1: la eDiscovery sul posto & contiene la funzionalità nell'interfaccia di amministrazione di Exchange verrà messa in modalità di sola lettura. Questo significa che sarà possibile rimuovere solo le ricerche e le esenzioni esistenti.
+- **Luglio 1, 2020** Non è più possibile creare nuove ricerche e conservazioni, ma è possibile eseguire, modificare ed eliminare le ricerche esistenti a proprio rischio. Il supporto Microsoft non supporta più eDiscovery sul posto & conserva nell'interfaccia di amministrazione di Exchange.
+    
+- **2020 ottobre 1** EDiscovery sul posto & contiene la funzionalità nell'interfaccia di amministrazione di Exchange verrà messa in modalità di sola lettura, in modo da poter rimuovere solo le ricerche e le esenzioni esistenti.
 
 **Per ulteriori informazioni, vedere**:
 
