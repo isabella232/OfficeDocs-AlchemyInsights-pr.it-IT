@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
+ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891753"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47341407"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook non è in grado di connettersi alle cartelle pubbliche
 
@@ -28,8 +28,22 @@ Esempio:
 
 Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
 
-Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<valore dal comando precedente>
+Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
 
 Attendere almeno un'ora per rendere effettive le modifiche.
 
 Se il problema persiste, eseguire la [procedura seguente](https://aka.ms/pfcte) per risolvere i problemi di accesso alle cartelle pubbliche con Outlook.
+ 
+**Per controllare quali utenti possono accedere alle cartelle pubbliche con Outlook**:
+
+1.  Utilizzare Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true o $false  
+      
+    $true: Consenti agli utenti di accedere alle cartelle pubbliche in Outlook  
+      
+    $false: Impedisci l'accesso degli utenti alle cartelle pubbliche in Outlook. Questo è il valore predefinito.  
+        
+2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+      
+**Note** Questa procedura consente di controllare le connessioni solo con i client di Outlook desktop per Windows. Un utente può continuare ad accedere alle cartelle pubbliche utilizzando OWA o Outlook per Mac.
+ 
+Per altre informazioni, vedere [annuncio del supporto per le connessioni controllate alle cartelle pubbliche in Outlook](https://aka.ms/controlpf).
