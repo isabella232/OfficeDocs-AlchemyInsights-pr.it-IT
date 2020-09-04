@@ -14,18 +14,18 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: a3c7574de2cecdd69a30d4ca47c6f60eb5c81224
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: a8aaac45e7ea102ef34505c94644f5bd3feecbc8
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431185"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364627"
 ---
 # <a name="billing-or-invoice-faq"></a>Domande frequenti sulla fatturazione o sulle fatture
 
 - I pagamenti possono essere **rifiutati** per diversi motivi, ad esempio quando una carta di credito è scaduta. Per risolvere il problema, vedere [Cambiare la modalità di pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
 - Se la fattura è **scaduta**, usare la funzionalità **Liquidazione del saldo** per inviare nuovamente il pagamento. Per risolvere il problema, vedere [Cosa succede se la carta di credito viene rifiutata e si supera così la scadenza del pagamento?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
-- Il costo delle licenze non assegnate agli utenti viene comunque addebitato. Per evitare addebiti non necessari, rimuovere le licenze per ridurne il numero. Vedere [Aggiungere o rimuovere licenze](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) da un abbonamento.
+- Il costo delle licenze non assegnate agli utenti viene comunque addebitato. Per evitare addebiti non necessari, rimuovere le licenze inutilizzate per ridurne il numero. Vedere [Aggiungere o rimuovere licenze](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) da un abbonamento.
 - Se si vuole impostare la **frequenza di fatturazione** mensile o annuale, vedere [Cambiare la frequenza di fatturazione](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 - Se serve assistenza con la fattura, vedere [Informazioni sulla fattura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
 - Se serve assistenza con la **visualizzazione** della fattura, vedere [Visualizzare l'estratto conto o la fattura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
