@@ -11,25 +11,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
+ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891753"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47341407"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a><span data-ttu-id="9f6eb-102">Outlook non è in grado di connettersi alle cartelle pubbliche</span><span class="sxs-lookup"><span data-stu-id="9f6eb-102">Outlook cannot connect to public folders</span></span>
+# <a name="outlook-cannot-connect-to-public-folders"></a><span data-ttu-id="e82b9-102">Outlook non è in grado di connettersi alle cartelle pubbliche</span><span class="sxs-lookup"><span data-stu-id="e82b9-102">Outlook cannot connect to public folders</span></span>
 
-<span data-ttu-id="9f6eb-103">Se l'accesso alle cartelle pubbliche non funziona per alcuni utenti, provare a eseguire le operazioni seguenti:</span><span class="sxs-lookup"><span data-stu-id="9f6eb-103">If public folder access isn't working for some users, try the following:</span></span>
+<span data-ttu-id="e82b9-103">Se l'accesso alle cartelle pubbliche non funziona per alcuni utenti, provare a eseguire le operazioni seguenti:</span><span class="sxs-lookup"><span data-stu-id="e82b9-103">If public folder access isn't working for some users, try the following:</span></span>
 
-<span data-ttu-id="9f6eb-104">Connettersi a EXO PowerShell e configurare il parametro DefaultPublicFolderMailbox nell'account utente problema in modo che corrisponda al parametro su un account utente funzionante.</span><span class="sxs-lookup"><span data-stu-id="9f6eb-104">Connect to EXO PowerShell and configure the DefaultPublicFolderMailbox parameter on the problem user account to match the parameter on a working user account.</span></span>
+<span data-ttu-id="e82b9-104">Connettersi a EXO PowerShell e configurare il parametro DefaultPublicFolderMailbox nell'account utente problema in modo che corrisponda al parametro su un account utente funzionante.</span><span class="sxs-lookup"><span data-stu-id="e82b9-104">Connect to EXO PowerShell and configure the DefaultPublicFolderMailbox parameter on the problem user account to match the parameter on a working user account.</span></span>
 
-<span data-ttu-id="9f6eb-105">Esempio:</span><span class="sxs-lookup"><span data-stu-id="9f6eb-105">Example:</span></span>
+<span data-ttu-id="e82b9-105">Esempio:</span><span class="sxs-lookup"><span data-stu-id="e82b9-105">Example:</span></span>
 
-<span data-ttu-id="9f6eb-106">Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox</span><span class="sxs-lookup"><span data-stu-id="9f6eb-106">Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox</span></span>
+<span data-ttu-id="e82b9-106">Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox</span><span class="sxs-lookup"><span data-stu-id="e82b9-106">Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox</span></span>
 
-<span data-ttu-id="9f6eb-107">Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<valore dal comando precedente></span><span class="sxs-lookup"><span data-stu-id="9f6eb-107">Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous command></span></span>
+<span data-ttu-id="e82b9-107">Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<value from previous command></span><span class="sxs-lookup"><span data-stu-id="e82b9-107">Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous command></span></span>
 
-<span data-ttu-id="9f6eb-108">Attendere almeno un'ora per rendere effettive le modifiche.</span><span class="sxs-lookup"><span data-stu-id="9f6eb-108">Wait at least one hour for the change to take effect.</span></span>
+<span data-ttu-id="e82b9-108">Attendere almeno un'ora per rendere effettive le modifiche.</span><span class="sxs-lookup"><span data-stu-id="e82b9-108">Wait at least one hour for the change to take effect.</span></span>
 
-<span data-ttu-id="9f6eb-109">Se il problema persiste, eseguire la [procedura seguente](https://aka.ms/pfcte) per risolvere i problemi di accesso alle cartelle pubbliche con Outlook.</span><span class="sxs-lookup"><span data-stu-id="9f6eb-109">If the issue remains, please follow [this procedure](https://aka.ms/pfcte) to troubleshoot public folder access issues using Outlook.</span></span>
+<span data-ttu-id="e82b9-109">Se il problema persiste, eseguire la [procedura seguente](https://aka.ms/pfcte) per risolvere i problemi di accesso alle cartelle pubbliche con Outlook.</span><span class="sxs-lookup"><span data-stu-id="e82b9-109">If the issue remains, please follow [this procedure](https://aka.ms/pfcte) to troubleshoot public folder access issues using Outlook.</span></span>
+ 
+<span data-ttu-id="e82b9-110">**Per controllare quali utenti possono accedere alle cartelle pubbliche con Outlook**:</span><span class="sxs-lookup"><span data-stu-id="e82b9-110">**To control which users can access public folders using Outlook**:</span></span>
+
+1.  <span data-ttu-id="e82b9-111">Utilizzare Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true o $false</span><span class="sxs-lookup"><span data-stu-id="e82b9-111">Use Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true or $false</span></span>  
+      
+    <span data-ttu-id="e82b9-112">$true: Consenti agli utenti di accedere alle cartelle pubbliche in Outlook</span><span class="sxs-lookup"><span data-stu-id="e82b9-112">$true: Allow users access public folders in Outlook</span></span>  
+      
+    <span data-ttu-id="e82b9-113">$false: Impedisci l'accesso degli utenti alle cartelle pubbliche in Outlook.</span><span class="sxs-lookup"><span data-stu-id="e82b9-113">$false: Prevent user access to public folders in Outlook.</span></span> <span data-ttu-id="e82b9-114">Questo è il valore predefinito.</span><span class="sxs-lookup"><span data-stu-id="e82b9-114">This is the default value.</span></span>  
+        
+2.  <span data-ttu-id="e82b9-115">Set-OrganizationConfig-PublicFolderShowClientControl $true</span><span class="sxs-lookup"><span data-stu-id="e82b9-115">Set-OrganizationConfig -PublicFolderShowClientControl $true</span></span>   
+      
+<span data-ttu-id="e82b9-116">**Note** Questa procedura consente di controllare le connessioni solo con i client di Outlook desktop per Windows.</span><span class="sxs-lookup"><span data-stu-id="e82b9-116">**Note** This procedure can control connections only with Outlook desktop for Windows clients.</span></span> <span data-ttu-id="e82b9-117">Un utente può continuare ad accedere alle cartelle pubbliche utilizzando OWA o Outlook per Mac.</span><span class="sxs-lookup"><span data-stu-id="e82b9-117">A user can continue accessing public folders using OWA or Outlook for Mac.</span></span>
+ 
+<span data-ttu-id="e82b9-118">Per altre informazioni, vedere [annuncio del supporto per le connessioni controllate alle cartelle pubbliche in Outlook](https://aka.ms/controlpf).</span><span class="sxs-lookup"><span data-stu-id="e82b9-118">For more info, see [Announcing Support for Controlled Connections to Public Folders in Outlook](https://aka.ms/controlpf).</span></span>
