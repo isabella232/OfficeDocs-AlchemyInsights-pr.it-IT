@@ -12,14 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "639"
 - "3500007"
-ms.openlocfilehash: fc8da45d91d5c32be52e48770e469cf25eb068f5
-ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
+ms.openlocfilehash: c1c4210baf93f0071a12f1902fb5f6fbf7bd0716
+ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46903578"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47341386"
 ---
 # <a name="public-folder-migration-fails-at-95"></a>Migrazione della cartella pubblica non riuscita al 95%
+
+È possibile che sia stato avviato il completamento di un batch di migrazione e lo stato del batch di migrazione continui a essere indicato come **Sincronizzato** per molto tempo. Si tratta di un comportamento previsto.
+
+È normale che lo stato di un batch di migrazione resti su **Sincronizzato** per alcune ore prima di passare a **Completamento in corso**. Per le migrazioni che interessano un numero elevato di cassette postali di destinazione, è normale che lo stato resti indicato come "sincronizzato" per più di 24 ore, a condizione che nessuna delle richieste di migrazione per le cartelle pubbliche non sia andata a buon fine o sia in quarantena. Attendere per 24-48 ore che il batch di migrazione completi l'operazione.
 
 Per le migrazioni delle cartelle pubbliche non riuscite al 95%, con errore FailedToMailEnablePublicFoldersException:
 
