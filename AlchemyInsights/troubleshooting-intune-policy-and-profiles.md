@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5ecc849d78559bc392e83d2c6c3a866bcaa86944
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766677"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406294"
 ---
 # <a name="troubleshooting-intune-policy-and-profiles"></a>Risoluzione dei problemi relativi ai criteri e ai profili di Intune
 
 Per visualizzare i criteri esistenti, risolvere i conflitti, esaminare i dati del log e vedere Domande e problemi comuni, è possibile che le seguenti guide siano utili.
 
-- [Risoluzione dei problemi relativi a criteri e profili in Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Risoluzione dei problemi relativi a criteri e profili in Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
 - [Domande, problemi e risoluzioni comuni con i criteri e i profili dei dispositivi in Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 

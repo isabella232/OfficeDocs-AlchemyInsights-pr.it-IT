@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 062dd51724ec6c36775f7f962241bac5807dd660
-ms.sourcegitcommit: ad8b990f0eb9274e68ef599e857ac6c452d3919a
+ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41277927"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406438"
 ---
 # <a name="microsoft-threat-protection"></a>Microsoft Threat Protection
 
@@ -24,4 +24,4 @@ ms.locfileid: "41277927"
 - [Come abilitare MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
 - [Risoluzione dei problemi di MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Informazioni su come controllare le licenze: è necessario che sia assegnato il ruolo di amministratore di fatturazione o lettore globale in Azure AD per visualizzare la licenza. Accedere all'interfaccia [di amministrazione](https://admin.microsoft.com/) e passare a **** > **licenze** di fatturazione per visualizzare le licenze esistenti.
+Informazioni su come controllare le licenze: è necessario che sia assegnato il ruolo di amministratore di fatturazione o lettore globale in Azure AD per visualizzare la licenza. Accedere all'interfaccia di [Amministrazione](https://admin.microsoft.com/) e passare a **Billing**  >  **licenze** di fatturazione per visualizzare le licenze esistenti.
