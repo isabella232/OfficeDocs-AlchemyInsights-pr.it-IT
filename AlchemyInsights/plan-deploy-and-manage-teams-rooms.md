@@ -1,5 +1,5 @@
 ---
-title: Pianificare, distribuire e gestire Teams Rooms
+title: Pianificare, distribuire e gestire la Sala riunioni di Teams
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,17 @@ ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: a3e3a3d4a9de183826f51be1c10cf9d0ac687cbd
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: f11abae1a804fcda412ca2e0d1dfa8d899e2d31d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946750"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406402"
 ---
-# <a name="plan-deploy-and-manage-teams-rooms"></a>Pianificare, distribuire e gestire Teams Rooms
+# <a name="plan-deploy-and-manage-teams-rooms"></a>Pianificare, distribuire e gestire la Sala riunioni di Teams
 
-Configurare e usare Microsoft Teams Rooms nell'organizzazione seguendo questa procedura: 
+- [Pianificare](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan) la Sala riunioni di Teams. Include l'[aggiornamento della licenza](https://docs.microsoft.com/microsoftteams/rooms/rooms-licensing), [i requisiti hardware e i sistemi della Sala riunioni di Teams supportati](https://docs.microsoft.com/microsoftteams/rooms/requirements#hardware-requirements).
+- [Configurare gli account](https://docs.microsoft.com/microsoftteams/rooms/rooms-configure-accounts) per la Sala riunioni di Microsoft Teams.
+- [Gestire i dispositivi](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage) usando l'interfaccia di amministrazione di Teams (è necessario avere un ruolo come amministratore del servizio di Teams o amministratore globale) e consultare un [elenco di problemi noti](https://docs.microsoft.com/microsoftteams/rooms/known-issues).
 
-- [Pianificare l'ambiente e rivedere i requisiti](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan).
-
-- [Configurare gli account e distribuire nell'ambiente](https://docs.microsoft.com/microsoftteams/rooms/rooms-deploy).
-
-- [Gestire, risolvere i problemi](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage#troubleshooting) e rilevare i [problemi noti](https://docs.microsoft.com/microsoftteams/rooms/known-issues). 
-
-Per altre informazioni, vedere [Microsoft Teams Rooms](https://docs.microsoft.com/microsoftteams/rooms/).
+Per altre informazioni su come pianificare, distribuire e gestire la Sala riunioni di Teams, vedere [Sala riunioni di Microsoft Teams](https://docs.microsoft.com/microsoftteams/rooms/).

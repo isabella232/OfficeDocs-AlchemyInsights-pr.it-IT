@@ -11,17 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: fd7fdf16dc5c1636b1096ef62604e354e12c784e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 994de03c6416f7f28592c05dd7da762e67567de7
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944260"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406474"
 ---
-# <a name="teams-notifications"></a>Notifiche di Teams
+# <a name="teams-notifications-faq"></a>Domande frequenti sulle notifiche di Teams
 
-Nell'app desktop Teams è possibile accedere e gestire le notifiche in diversi modi. Per personalizzare ulteriormente le impostazioni relative alle notifiche, selezionare l'immagine del profilo nell'angolo in alto a destra di Teams, quindi selezionare **Impostazioni > Notifiche**. Da qui è possibile specificare quali notifiche ricevere e dove devono essere visualizzate. 
 
-Nelle app iOS e Android toccare **Altro > Impostazioni > Notifiche** per personalizzare le notifiche.
+- Le notifiche sono [configurate dagli utenti](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d), e gli amministratori non possono modificare le impostazioni di notifica per conto degli utenti. Nella versione desktop di Teams, selezionare l'immagine del profilo in alto a destra in Teams, quindi selezionare Impostazioni>Notifiche attività.
 
-Per altre informazioni, vedere [Sei cose da sapere sulle notifiche](https://support.microsoft.com/it-IT/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4) e [Gestire le notifiche in Teams](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).
+- [Notifiche di risoluzione dei problemi per le app per dispositivi mobili di Teams](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c).
+
+- È possibile ricevere le notifiche in quattro modi: tramite il feed attività, la chat, i banner di notifica e la posta elettronica. Il messaggio dell'attività mancata è inviato quando l'utente è inattivo in Teams per un certo periodo. Vedere [Sei cose da sapere sulle notifiche](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) per altre informazioni
+
+Per altre informazioni sulle notifiche di Teams, vedere [Gestire le notifiche in Teams](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).
