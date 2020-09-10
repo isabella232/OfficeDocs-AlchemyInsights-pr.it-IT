@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 374aee5f3cc152d3fb03619c1748f7cc19b4ac44
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553277"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406510"
 ---
 # <a name="teams-meeting-invitations"></a>Inviti per le riunioni di Teams
 
-- Si vuole sapere come [creare un invito a una riunione di Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?
+Ti serve aiuto per personalizzare gli inviti alle riunioni di Teams per la tua organizzazione? Controlla [Personalizzare gli inviti alle riunioni](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).  
 
-- Al momento, **non è possibile personalizzare** gli inviti alle riunioni di Teams. È possibile [votare su UserVoice di Teams](https://microsoftteams.uservoice.com/) per aggiungere il problema alla roadmap.
+Per altre informazioni, vedi [Gestire le impostazioni delle riunioni in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).
