@@ -23,7 +23,7 @@ ms.locfileid: "45083992"
 
 Dopo aver aggiunto un dominio personalizzato usando [Aggiunta guidata dominio](https://portal.office.com/adminportal/home#/Domains/Wizard), il dominio personalizzato diventa il dominio predefinito per i nuovi utenti, mentre rimane invariato per gli utenti esistenti.
 
-- Per modificare il dominio predefinito con un dominio esistente, scegliere il dominio nella [pagina Domini](https://admin.microsoft.com/Adminportal/Home#/Domains), quindi selezionare **Imposta come predefinito**.
+- Per modificare il dominio predefinito con uno esistente, sceglierlo nella [pagina Domini](https://admin.microsoft.com/Adminportal/Home#/Domains), quindi selezionare **Imposta come predefinito**.
 
 - Per modificare il nome del dominio per gli utenti esistenti, nella [pagina Utenti attivi](https://admin.microsoft.com/Adminportal/Home#/users) selezionare più utenti, selezionare **...,** quindi **Modifica domini**.
 

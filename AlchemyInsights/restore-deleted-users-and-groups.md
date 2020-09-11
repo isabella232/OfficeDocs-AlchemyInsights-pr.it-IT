@@ -1,5 +1,5 @@
 ---
-title: Ripristina i gruppi e gli utenti eliminati
+title: Ripristinare i gruppi e gli utenti eliminati
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,7 +19,7 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 08/06/2020
 ms.locfileid: "46580931"
 ---
-# <a name="restore-deleted-users-and-groups"></a>Ripristina i gruppi e gli utenti eliminati
+# <a name="restore-deleted-users-and-groups"></a>Ripristinare i gruppi e gli utenti eliminati
 
 Per ripristinare un utente eliminato accidentalmente, vedere [Ripristinare o rimuovere un utente eliminato di recente tramite Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-restore?context=azure/active-directory/users-groups-roles/context/ugr-context).
 

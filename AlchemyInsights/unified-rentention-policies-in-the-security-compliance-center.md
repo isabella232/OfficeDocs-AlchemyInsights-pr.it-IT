@@ -21,7 +21,7 @@ ms.locfileid: "45083951"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>Criteri di conservazione unificati nel Centro sicurezza e conformità
 
-I criteri di conservazione consentono di gestire i contenuti dell'organizzazione usando le impostazioni di conservazione ed eliminazione. È possibile creare criteri di conservazione unificati nel Centro sicurezza e conformità Office 365 o nel Centro conformità Microsoft 365. 
+I criteri di conservazione consentono di gestire i contenuti dell'organizzazione usando le impostazioni di conservazione ed eliminazione. È possibile creare criteri di conservazione unificati nel Centro sicurezza e conformità di Office 365 o nel Centro conformità di Microsoft 365. 
 
 1. Nel [Centro sicurezza e conformità](https://go.microsoft.com/fwlink/p/?linkid=2077143) selezionare **Governance delle informazioni** > **Conservazione** > **+ Crea**. <br/>
     Nel [Centro conformità Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149) selezionare **Criteri** > **Dati > Conservazione > + Nuovi criteri di conservazione.**

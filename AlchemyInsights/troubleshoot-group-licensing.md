@@ -1,5 +1,5 @@
 ---
-title: Risoluzione dei problemi di licenza di gruppo
+title: Risoluzione dei problemi delle licenze per gruppi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,6 +19,6 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 08/06/2020
 ms.locfileid: "46580923"
 ---
-# <a name="troubleshoot-group-licensing"></a>Risoluzione dei problemi di licenza di gruppo
+# <a name="troubleshoot-group-licensing"></a>Risoluzione dei problemi delle licenze per gruppi
 
-Per identificare e risolvere i problemi di licenza di gruppo con le licenze basate sui gruppi di Azure Active Directory (Azure AD), vedere [Identificare e risolvere i problemi di assegnazione delle licenze per un gruppo in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/licensing-groups-resolve-problems).
+Per identificare e risolvere i problemi delle licenze per gruppi di Azure Active Directory (Azure AD), vedere [Identificare e risolvere i problemi di assegnazione delle licenze per un gruppo in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/licensing-groups-resolve-problems).

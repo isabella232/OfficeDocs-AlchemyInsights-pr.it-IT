@@ -1,5 +1,5 @@
 ---
-title: Risoluzione dei problemi di Azure AD ibrido join
+title: Risoluzione dei problemi di Aggiunta ad Azure AD ibrido
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,6 +19,6 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 08/06/2020
 ms.locfileid: "46580887"
 ---
-# <a name="troubleshoot-hybrid-azure-ad-join"></a>Risoluzione dei problemi di Azure AD ibrido join
+# <a name="troubleshoot-hybrid-azure-ad-join"></a>Risoluzione dei problemi di Aggiunta ad Azure AD ibrido
 
-Per risolvere i problemi più comuni con Azure Active Directory (AD) ibrido join, vedere [domande frequenti su Azure AD ibrido join](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).
+Per risolvere i problemi più comuni di Aggiunta ad Azure Active Directory (AD) ibrido, vedere le [domande frequenti su Aggiunta ad Azure AD ibrido](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).
