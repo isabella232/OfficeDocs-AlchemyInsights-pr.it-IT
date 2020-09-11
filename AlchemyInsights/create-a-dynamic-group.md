@@ -19,6 +19,6 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 08/06/2020
 ms.locfileid: "46580936"
 ---
-# <a name="create-a-dynamic-group"></a><span data-ttu-id="4e6eb-102">Creare un gruppo dinamico</span><span class="sxs-lookup"><span data-stu-id="4e6eb-102">Create a dynamic group</span></span>
+# <a name="create-a-dynamic-group"></a><span data-ttu-id="68e2d-102">Creare un gruppo dinamico</span><span class="sxs-lookup"><span data-stu-id="68e2d-102">Create a dynamic group</span></span>
 
-<span data-ttu-id="4e6eb-103">Per configurare una regola per un gruppo dinamico nel portale di Azure, vedere [Creare o aggiornare un gruppo dinamico in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-create-rule).</span><span class="sxs-lookup"><span data-stu-id="4e6eb-103">To set up a rule for a dynamic group in Azure portal, see [Create or update a dynamic group in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-create-rule).</span></span>
+<span data-ttu-id="68e2d-103">Per configurare una regola per un gruppo dinamico nel portale di Azure, vedere [Creare o aggiornare un gruppo dinamico in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-create-rule).</span><span class="sxs-lookup"><span data-stu-id="68e2d-103">To set up a rule for a dynamic group in Azure portal, see [Create or update a dynamic group in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/groups-create-rule).</span></span>
