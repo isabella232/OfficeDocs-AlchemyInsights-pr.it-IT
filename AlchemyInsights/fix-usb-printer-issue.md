@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 5d961d2f1ad68a22782cefb45d70cd23f6912f0a
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744652"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677499"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>Risolvere i problemi di connessione della stampante USB
 
@@ -30,13 +31,13 @@ Se il problema persiste, provare **a rimuovere e reinstallare la stampante USB**
 
 1. Rimuovere la stampante in impostazioni:
     1. Scollegare il cavo USB della stampante dal PC.
-    2. Selezionare **Start** > **Settings** > **Devices** > **Printers & scanner**.
-    3. In **stampanti & scanner**selezionare la stampante in cui si sta effettuando la risoluzione dei problemi. Selezionare **Rimuovi dispositivo**. Seguire le istruzioni riportate di seguito per rimuovere completamente la stampante.
+    2. Selezionare **Start**  >  **Settings**  >  **Devices**  >  **Printers & scanner**.
+    3. In **stampanti & scanner**selezionare la stampante in cui si sta effettuando la risoluzione dei problemi. Selezionare **Rimuovi dispositivo**. Seguire le istruzioni per rimuovere completamente la stampante.
 2. Rimuovere qualsiasi software di terze parti produttore della stampante:
-    1. Selezionare **Start** > **Settings** > **Apps**.
+    1. Selezionare **Start**  >  **Settings**  >  **Apps**.
     2. In **app & caratteristiche**, scorrere fino a trovare qualsiasi software installato dal produttore della stampante (ad esempio, HP, Canon o Epson).
     3. Selezionare il software e fare clic su **Disinstalla**.
 3. Spegnere e riavviare la stampante.<br>
-    1. Spegnere la stampante e scollegarne il cavo di alimentazione. Attendere 30 secondi. Inserire di nuovo la stampante.
+    1. Spegnere la stampante e scollegare il cavo di alimentazione. Attendere 30 secondi. Inserire di nuovo la stampante.
     2. Inserire di nuovo il cavo USB della stampante nel PC. Il PC dovrebbe registrare automaticamente che il dispositivo è stato collegato.
 4. Provare a stampare di nuovo.
