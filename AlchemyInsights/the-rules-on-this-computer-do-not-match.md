@@ -5,17 +5,18 @@ author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: c2feb6da651d8b3eb7af6a057335b28d26f9e7f6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44664250"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690967"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Errore: le regole del computer non corrispondono
 
@@ -27,5 +28,5 @@ Fino a quando non è disponibile la correzione, utilizzare la soluzione seguente
 
 **Soluzione**: nei rapporti recenti, si è verificato il problema per gli utenti che hanno creato solo le regole client in Outlook desktop. Se si continua a eseguire il problema, prendere in considerazione l'eliminazione delle regole e quindi creare e modificare le regole solo in OWA (Outlook Web App) fino a quando il problema non viene risolto.
 
-Se non è possibile eliminare le regole manualmente, è possibile eseguire un comando di Outlook all'avvio di Outlook eseguendo Outlook. exe/cleanrules. Questo eliminerà sia le regole client che quelle del server. Eliminerà tutte le regole per tutti gli account nel profilo di Outlook. Questo comando è ulteriormente documentato nell'articolo delle opzioni della riga di comando.
+Se non è possibile eliminare le regole manualmente, è possibile eseguire un comando di Outlook quando si avvia Outlook eseguendo Outlook.exe/cleanrules. Questo eliminerà sia le regole client che quelle del server. Eliminerà tutte le regole per tutti gli account nel profilo di Outlook. Questo comando è ulteriormente documentato nell'articolo delle opzioni della riga di comando.
 
