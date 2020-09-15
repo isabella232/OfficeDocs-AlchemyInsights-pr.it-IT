@@ -6,21 +6,22 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1051"
 - "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: 550b5ceadb2abcd0fea7e352b988bc740235722c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f5ee8db0239ad86501b175f069acf28211e3a323
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707987"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717581"
 ---
-# <a name="47500-access-denied-please-try-again-later"></a><span data-ttu-id="9f6b9-102">4.7.500 accesso negato, provare di nuovo in un secondo momento</span><span class="sxs-lookup"><span data-stu-id="9f6b9-102">4.7.500 Access denied, please try again later</span></span>
+# <a name="47500-access-denied-please-try-again-later"></a><span data-ttu-id="2e66c-102">4.7.500 accesso negato, provare di nuovo in un secondo momento</span><span class="sxs-lookup"><span data-stu-id="2e66c-102">4.7.500 Access denied, please try again later</span></span>
 
-<span data-ttu-id="9f6b9-103">Questo errore si verifica quando il volume del traffico di posta elettronica proveniente dall'indirizzo IP di origine supera il limite in base alla reputazione (o alla mancanza di reputazione) dell'indirizzo IP di origine.</span><span class="sxs-lookup"><span data-stu-id="9f6b9-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
+<span data-ttu-id="2e66c-103">Questo errore si verifica quando il volume del traffico di posta elettronica proveniente dall'indirizzo IP di origine supera il limite in base alla reputazione (o alla mancanza di reputazione) dell'indirizzo IP di origine.</span><span class="sxs-lookup"><span data-stu-id="2e66c-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
 
-<span data-ttu-id="9f6b9-104">Il blocco della posta elettronica dall'indirizzo IP di origine scadrà entro un'ora.</span><span class="sxs-lookup"><span data-stu-id="9f6b9-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="9f6b9-105">Se l'indirizzo IP di origine è un server di posta elettronica locale che appartiene all'utente, verificare la configurazione del connettore del flusso di posta.</span><span class="sxs-lookup"><span data-stu-id="9f6b9-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="9f6b9-106">Se il comportamento continua per più di un'ora, contattare il supporto tecnico per richiedere un'eccezione per l'indirizzo IP di origine.</span><span class="sxs-lookup"><span data-stu-id="9f6b9-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
+<span data-ttu-id="2e66c-104">Il blocco della posta elettronica dall'indirizzo IP di origine scadrà entro un'ora.</span><span class="sxs-lookup"><span data-stu-id="2e66c-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="2e66c-105">Se l'indirizzo IP di origine è un server di posta elettronica locale che appartiene all'utente, verificare la configurazione del connettore del flusso di posta.</span><span class="sxs-lookup"><span data-stu-id="2e66c-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="2e66c-106">Se il comportamento continua per più di un'ora, contattare il supporto tecnico per richiedere un'eccezione per l'indirizzo IP di origine.</span><span class="sxs-lookup"><span data-stu-id="2e66c-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
