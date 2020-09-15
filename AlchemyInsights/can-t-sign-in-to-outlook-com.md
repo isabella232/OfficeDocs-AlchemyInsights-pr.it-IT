@@ -6,6 +6,7 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -14,20 +15,20 @@ ms.custom:
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: 7b6fbc3e7667b8827c444b0b824ecb7f92bd75a8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c2406119592ea295f793570db4e95c43058e107e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711599"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683802"
 ---
-# <a name="i-cant-sign-in-or-forgot-my-password"></a><span data-ttu-id="edab4-102">Non è possibile accedere o non si è dimenticato la password</span><span class="sxs-lookup"><span data-stu-id="edab4-102">I can't sign in or forgot my password</span></span>
+# <a name="i-cant-sign-in-or-forgot-my-password"></a><span data-ttu-id="7df41-102">Non è possibile accedere o non si è dimenticato la password</span><span class="sxs-lookup"><span data-stu-id="7df41-102">I can't sign in or forgot my password</span></span>
 
-<span data-ttu-id="edab4-103">Se si verificano problemi di accesso a un altro account, l'account potrebbe essere temporaneamente bloccato perché si è verificato un po' di attività di accesso inusuale.</span><span class="sxs-lookup"><span data-stu-id="edab4-103">If you're having problems signing in to another account, the account might be temporarily blocked because we noticed some unusual sign-in activity.</span></span> <span data-ttu-id="edab4-104">Se l'account è bloccato, vedere [sbloccare l'account Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="edab4-104">If your account is blocked, see [Unblock my Outlook.com account](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="7df41-103">Se si verificano problemi di accesso a un altro account, l'account potrebbe essere temporaneamente bloccato perché si è verificato un po' di attività di accesso inusuale.</span><span class="sxs-lookup"><span data-stu-id="7df41-103">If you're having problems signing in to another account, the account might be temporarily blocked because we noticed some unusual sign-in activity.</span></span> <span data-ttu-id="7df41-104">Se l'account è bloccato, vedere [sbloccare l'account Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7df41-104">If your account is blocked, see [Unblock my Outlook.com account](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
-<span data-ttu-id="edab4-105">Se si è dimenticato la password, è possibile [reimpostare la password](https://go.microsoft.com/fwlink/p/?linkid=841909).</span><span class="sxs-lookup"><span data-stu-id="edab4-105">If you've forgotten your password, you can [reset you password](https://go.microsoft.com/fwlink/p/?linkid=841909).</span></span>
+<span data-ttu-id="7df41-105">Se si è dimenticato la password, è possibile [reimpostare la password](https://go.microsoft.com/fwlink/p/?linkid=841909).</span><span class="sxs-lookup"><span data-stu-id="7df41-105">If you've forgotten your password, you can [reset you password](https://go.microsoft.com/fwlink/p/?linkid=841909).</span></span>
   
-<span data-ttu-id="edab4-106">Se si sospetta che l'account di Outlook.com sia stato violato, vedere [il mio account Outlook.com è stato violato](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="edab4-106">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="7df41-106">Se si sospetta che l'account di Outlook.com sia stato violato, vedere [il mio account Outlook.com è stato violato](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7df41-106">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
-<span data-ttu-id="edab4-107">Per ulteriori informazioni, vedere [quando non è possibile accedere al proprio account Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842227).</span><span class="sxs-lookup"><span data-stu-id="edab4-107">Read more about [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=842227).</span></span>
+<span data-ttu-id="7df41-107">Per ulteriori informazioni, vedere [quando non è possibile accedere al proprio account Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842227).</span><span class="sxs-lookup"><span data-stu-id="7df41-107">Read more about [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=842227).</span></span>
   
