@@ -5,6 +5,7 @@ author: markjjo
 manager: lauraw
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 05c58bded5ba45aef8ae3bc1d33491e6e0365c18
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502431"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664030"
 ---
 # <a name="alert-policies"></a>Criteri di avviso
 
@@ -36,7 +37,7 @@ Per esaminare e agire su un avviso:
 
 È possibile eseguire un'azione su un avviso, ad esempio [la rimozione di una regola di posta in arrivo sospetta](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). In alternativa, è possibile chiudere l'avviso semplicemente facendo clic su **Risolvi** nella pagina riquadro a comparsa avvisi.
 
-Per ulteriori informazioni sulla configurazione e sulla gestione dei criteri di avviso, vedere [questo articolo](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
+Per ulteriori informazioni sulla configurazione e sulla gestione dei criteri di avviso, vedere  [questo articolo](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
 **Importante**: le notifiche di posta elettronica di avviso di Microsoft non richiederanno mai di eseguire le operazioni seguenti:
 
