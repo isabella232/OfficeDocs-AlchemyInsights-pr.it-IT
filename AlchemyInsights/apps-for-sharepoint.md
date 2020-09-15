@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5796"
-ms.openlocfilehash: 75439467c320bdd1d0aed61e60717e5915f7265c
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 5a8e374705d1d42bda96010e316859e801c234ed
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563493"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716465"
 ---
-# <a name="install-sharepoint-apps"></a><span data-ttu-id="fa62c-102">Installazione dell'app di SharePoint</span><span class="sxs-lookup"><span data-stu-id="fa62c-102">Install SharePoint Apps</span></span>
+# <a name="install-sharepoint-apps"></a><span data-ttu-id="6657b-102">Installazione dell'app di SharePoint</span><span class="sxs-lookup"><span data-stu-id="6657b-102">Install SharePoint Apps</span></span>
 
-<span data-ttu-id="fa62c-103">Le app per SharePoint sono applicazioni piccole, semplici da usare e autonome che eseguono attività o rispondono a specifiche esigenze aziendali.</span><span class="sxs-lookup"><span data-stu-id="fa62c-103">Apps for SharePoint are small, easy-to-use, stand-alone applications that perform tasks or address specific business needs.</span></span>
+<span data-ttu-id="6657b-103">Le app per SharePoint sono applicazioni piccole, semplici da usare e autonome che eseguono attività o rispondono a specifiche esigenze aziendali.</span><span class="sxs-lookup"><span data-stu-id="6657b-103">Apps for SharePoint are small, easy-to-use, stand-alone applications that perform tasks or address specific business needs.</span></span>
 
-- <span data-ttu-id="fa62c-104">[Aggiungere app](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb) dall'organizzazione o da siti Web di terze parti.</span><span class="sxs-lookup"><span data-stu-id="fa62c-104">[Add apps](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)  from your organization or from third-party websites.</span></span> <span data-ttu-id="fa62c-105">Nota: le app di terze parti non sono supportate da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="fa62c-105">Note, third-party apps are not supported by Microsoft.</span></span> <span data-ttu-id="fa62c-106">Per ulteriori informazioni, vedere [Guida su un'applicazione di SharePoint installata](https://support.office.com/article/get-help-for-a-sharepoint-app-you-installed-fd98af7f-6af0-4573-8360-8f5631c6ab21).</span><span class="sxs-lookup"><span data-stu-id="fa62c-106">For more info, see  [Get help for a SharePoint app you installed](https://support.office.com/article/get-help-for-a-sharepoint-app-you-installed-fd98af7f-6af0-4573-8360-8f5631c6ab21).</span></span>
--   <span data-ttu-id="fa62c-107">[Aggiungere un'app part a una pagina](https://support.microsoft.com/office/6f06c0b7-44b8-4c69-b4ad-85197eee8d78).</span><span class="sxs-lookup"><span data-stu-id="fa62c-107">[Add an app part to a page](https://support.microsoft.com/office/6f06c0b7-44b8-4c69-b4ad-85197eee8d78).</span></span>
--   <span data-ttu-id="fa62c-108">[Configurare le impostazioni di SharePoint Store](https://docs.microsoft.com/sharepoint/configure-sharepoint-store-settings) per qualsiasi acquisto di app, specificando se gli utenti possono scaricare app da SharePoint Store.</span><span class="sxs-lookup"><span data-stu-id="fa62c-108">[Configure SharePoint store settings](https://docs.microsoft.com/sharepoint/configure-sharepoint-store-settings)  for any app purchase, specifying whether users can get apps from the SharePoint Store.</span></span>
--   <span data-ttu-id="fa62c-109">Se si riscontrano problemi con l'app, è possibile provare a [rimuovere](https://support.microsoft.com/office/03198d1b-c33b-498d-9469-af641a587d6c) e [aggiungere di nuovo](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb) l'app.</span><span class="sxs-lookup"><span data-stu-id="fa62c-109">If you're encountering issues with the app, you can attempt to  [remove](https://support.microsoft.com/office/03198d1b-c33b-498d-9469-af641a587d6c)  and  [re-add](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)  the app.</span></span>
+- <span data-ttu-id="6657b-104">[Aggiungere app](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb) dall'organizzazione o da siti Web di terze parti.</span><span class="sxs-lookup"><span data-stu-id="6657b-104">[Add apps](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)  from your organization or from third-party websites.</span></span> <span data-ttu-id="6657b-105">Nota: le app di terze parti non sono supportate da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="6657b-105">Note, third-party apps are not supported by Microsoft.</span></span> <span data-ttu-id="6657b-106">Per ulteriori informazioni, vedere [Guida su un'applicazione di SharePoint installata](https://support.office.com/article/get-help-for-a-sharepoint-app-you-installed-fd98af7f-6af0-4573-8360-8f5631c6ab21).</span><span class="sxs-lookup"><span data-stu-id="6657b-106">For more info, see  [Get help for a SharePoint app you installed](https://support.office.com/article/get-help-for-a-sharepoint-app-you-installed-fd98af7f-6af0-4573-8360-8f5631c6ab21).</span></span>
+-   <span data-ttu-id="6657b-107">[Aggiungere un'app part a una pagina](https://support.microsoft.com/office/6f06c0b7-44b8-4c69-b4ad-85197eee8d78).</span><span class="sxs-lookup"><span data-stu-id="6657b-107">[Add an app part to a page](https://support.microsoft.com/office/6f06c0b7-44b8-4c69-b4ad-85197eee8d78).</span></span>
+-   <span data-ttu-id="6657b-108">[Configurare le impostazioni di SharePoint Store](https://docs.microsoft.com/sharepoint/configure-sharepoint-store-settings) per qualsiasi acquisto di app, specificando se gli utenti possono scaricare app da SharePoint Store.</span><span class="sxs-lookup"><span data-stu-id="6657b-108">[Configure SharePoint store settings](https://docs.microsoft.com/sharepoint/configure-sharepoint-store-settings)  for any app purchase, specifying whether users can get apps from the SharePoint Store.</span></span>
+-   <span data-ttu-id="6657b-109">Se si riscontrano problemi con l'app, è possibile provare a [rimuovere](https://support.microsoft.com/office/03198d1b-c33b-498d-9469-af641a587d6c) e [aggiungere di nuovo](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb) l'app.</span><span class="sxs-lookup"><span data-stu-id="6657b-109">If you're encountering issues with the app, you can attempt to  [remove](https://support.microsoft.com/office/03198d1b-c33b-498d-9469-af641a587d6c)  and  [re-add](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)  the app.</span></span>
 
-<span data-ttu-id="fa62c-110">Per ulteriori informazioni, vedere [Aggiungere un'app part a un sito](https://support.microsoft.com/office/f9c0dbd-7fe1-4715-a1b0-fe3bc81317cb).</span><span class="sxs-lookup"><span data-stu-id="fa62c-110">For more info, see  [Add an app to a site](https://support.microsoft.com/office/f9c0dbd-7fe1-4715-a1b0-fe3bc81317cb).</span></span>
+<span data-ttu-id="6657b-110">Per ulteriori informazioni, vedere [Aggiungere un'app part a un sito](https://support.microsoft.com/office/f9c0dbd-7fe1-4715-a1b0-fe3bc81317cb).</span><span class="sxs-lookup"><span data-stu-id="6657b-110">For more info, see  [Add an app to a site](https://support.microsoft.com/office/f9c0dbd-7fe1-4715-a1b0-fe3bc81317cb).</span></span>
