@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: aa61f1615b60d27cffad15f02f6ce5dbac1b607f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582851"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699739"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>Impossibile aggiungere il flusso di lavoro di approvazione 2010
 
@@ -35,9 +36,9 @@ Per risolvere il problema, attenersi alla seguente procedura:
   
 3. In un Web browser individuare il sito Web radice della raccolta siti e quindi accedere alle **Site Settings** \> **funzionalità di raccolta siti**delle impostazioni del sito. Attiva/disattiva la caratteristica **flussi di lavoro** : 
   
-· Se la funzionalità è *attivata* , fare clic su Disattiva **e quindi** su **attiva**. 
+· Se la funzionalità è  *attivata*  , fare clic su Disattiva **e quindi** su **attiva**. 
   
-· Se la funzionalità è *disattivata* , fare clic su **attiva**. 
+· Se la funzionalità è  *disattivata*  , fare clic su **attiva**. 
   
 Per ulteriori informazioni, vedere l' [articolo](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)seguente.
   
