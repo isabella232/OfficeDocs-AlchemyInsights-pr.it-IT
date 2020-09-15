@@ -14,18 +14,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765597"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665650"
 ---
 # <a name="enable-password-sync"></a>Abilitare la sincronizzazione delle password
 
 1.  Scegliere **stato dirsync** nella Home page dell'interfaccia di amministrazione di Microsoft 365. 
     
-     *In alternativa, è possibile accedere \> agli utenti **attivi** **degli utenti** , quindi nella pagina utenti attivi scegliere **altre** \> **sincronizzazione della directory.*** 
+     *In alternativa, è possibile accedere agli utenti attivi **degli utenti** \> **Active users**, quindi nella pagina utenti attivi scegliere **altre** \> **sincronizzazione della directory.*** 
     
 2. Nel riquadro di sincronizzazione della directory scegliere **Vai a gestione dirsync**. 
     
