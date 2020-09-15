@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "279"
 - "8000020"
 ms.assetid: 37fc1455-7324-4c76-9a94-085a45e94c51
-ms.openlocfilehash: 4796ada7092fc1a332e8444884239e14adb738d8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2e58b91e174df5f8ec66db293f7c03160e802a75
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43723500"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672204"
 ---
 # <a name="export-your-contacts-in-outlookcom"></a>Esportare i contatti in Outlook.com
 
@@ -26,6 +27,6 @@ ms.locfileid: "43723500"
 .
 2. Nella parte superiore della pagina, selezionare **Gestisci** \> **Esporta**.
 3. Scegliere se si desidera esportare tutti i contatti o solo i contatti da una cartella specifica e selezionare **Esporta**.
-4. Nella parte inferiore della pagina, selezionare **Salva** e "contatti. csv" verranno salvati nella cartella di download predefinita. Per scegliere il percorso in cui salvare il file. csv, selezionare la freccia accanto a Salva e selezionare **Salva con nome**.
+4. Nella parte inferiore della pagina, selezionare **Salva** e "contacts.csv" verrà salvato nella cartella di download predefinita. Per scegliere il percorso in cui salvare il file. csv, selezionare la freccia accanto a Salva e selezionare **Salva con nome**.
 
 Per ulteriori informazioni, vedere [esportare i contatti da Outlook.com in un file CSV](https://support.office.com/article/578cca22-3550-4c73-b3f0-9978cfeac83f?wt.mc_id=Office_Outlook_com_Alchemy).

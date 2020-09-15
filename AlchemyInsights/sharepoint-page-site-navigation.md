@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 6ecd33e81f9918c5b4baac8da264ad79773a20f9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d3af1cd3d4b22bf62c5748b16b605eaff225a5b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044207"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670692"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>Struttura del sito e della pagina in siti di SharePoint
 
@@ -23,7 +24,7 @@ I principi fondamentali e le procedure consigliate per la navigazione in un sito
 
  Per ulteriori informazioni sulle opzioni di navigazione, visitare i collegamenti riportati di seguito.
 
- - [Pianificare la navigazione nell’esperienza moderna di SharePoint  ](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
+ - [Pianificazione della struttura di spostamento per la moderna esperienza di SharePoint](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
 
 - [Personalizzare la struttura di spostamento del sito di SharePoint](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
 
