@@ -4,15 +4,16 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 22703dba5865cdac6c9df3e8c7ab2eeec44968cb
-ms.sourcegitcommit: 1361b2b37fd0201502a1a3547084961de284a3fc
+ms.openlocfilehash: 2bda15b7ebe4f3b71669b961a6e5bf36fd6260a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616830"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673790"
 ---
 # <a name="sync-a-users-profile-picture"></a>Sincronizzare l'immagine del profilo di un utente
 
@@ -33,7 +34,7 @@ Per aggiungere la foto del profilo a Microsoft 365 for business:
 Se un'immagine del profilo utenti è diversa in SharePoint rispetto ad altre applicazioni Microsoft, eseguire la procedura seguente:
 
 1. Aprire una sessione del browser privata (InPrivate/incognito).
-2. Vai a [https://www.office.com](https://www.office.com/).
+2. Passare a [https://www.office.com](https://www.office.com/).
 3. Selezionare l'icona di SharePoint.
 4. Passare a un sito o a una pagina in cui la foto non viene aggiornata o a una pagina in cui l'utente è incluso in una Web part utenti.
 
