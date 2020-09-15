@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062000"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687798"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Aggiungere, rimuovere o impedire agli utenti di modificare le foto dei profili
 
-- **Aggiunta di foto del profilo:** Le foto dei profili possono essere aggiunte da un amministratore dell'interfaccia di [amministrazione di Microsoft 365, dagli utenti attivi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) o dalla [Gestione utente di Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Se l'opzione "cambia foto" non è visualizzata, assicurarsi che sia assegnata una licenza a quell'utente. Le foto possono essere aggiunte o modificate da un utente nel proprio profilo utente da qualsiasi servizio Microsoft 365 facendo clic sulle iniziali/foto in alto a destra dello schermo. Per ulteriori informazioni sull'aggiunta di una foto del profilo, vedere [aggiungere la foto del profilo a Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+- **Aggiunta di foto del profilo:** Le foto dei profili possono essere aggiunte da un amministratore dell'interfaccia di [amministrazione di Microsoft 365, dagli utenti attivi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) o dalla  [Gestione utente di Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Se l'opzione "cambia foto" non è visualizzata, assicurarsi che sia assegnata una licenza a quell'utente. Le foto possono essere aggiunte o modificate da un utente nel proprio profilo utente da qualsiasi servizio Microsoft 365 facendo clic sulle iniziali/foto in alto a destra dello schermo. Per ulteriori informazioni sull'aggiunta di una foto del profilo, vedere [aggiungere la foto del profilo a Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
 - **Rimozione delle foto del profilo:** Le foto dei profili possono essere rimosse da un amministratore in [Azure Active Directory User Management](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) o da un utente nel proprio profilo utente di Microsoft teams.
 

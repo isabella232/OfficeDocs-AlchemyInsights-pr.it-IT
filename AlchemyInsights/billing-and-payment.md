@@ -5,18 +5,19 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 3d162003c34773f4764c12cc27554e451fec4c27
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225236"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686034"
 ---
 # <a name="billing-and-payment"></a>Fatturazione e pagamento
 
@@ -34,24 +35,24 @@ Se si paga con carta di credito o conto corrente bancario, il metodo di pagament
 
 Se è stata aggiunta una nuova scheda e si riceve un avviso di rifiuto sulla vecchia carta di credito, potrebbe essere necessario associare la nuova scheda alla sottoscrizione.
 
-1. Nell'interfaccia di amministrazione, accedere alla pagina dei metodi di pagamento per la **fatturazione**  >  **& pagamenti**  >  [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** > **Fatture e pagamenti** > [Modalità di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Selezionare la riga del metodo di pagamento da sostituire. Nel riquadro destro sono elencati tutti i profili di fatturazione e i singoli abbonamenti che utilizzano il metodo di pagamento selezionato.
+2. Selezionare la riga della modalità di pagamento da sostituire. Nel riquadro destro sono elencati tutti i profili di fatturazione e i singoli abbonamenti che usano la modalità di pagamento selezionata.
 
-3. Nel riquadro a destra, selezionare **Sostituisci metodo di pagamento per tutti gli elementi**.
+3. Nel riquadro destro selezionare **Sostituisci metodo di pagamento per tutti gli articoli**.
 
-4. Per utilizzare un metodo di pagamento esistente, sceglierne uno dall'elenco a discesa, quindi selezionare **Sostituisci**.
+4. Per usare una modalità di pagamento esistente, sceglierne una nell'elenco a discesa, quindi selezionare **Sostituisci**.
 
     > [!NOTE]
-    > Se si dispone di abbonamenti associati a un profilo di fatturazione, è possibile utilizzare solo una carta di credito o di debito per pagarli. Se si dispone di account bancari elencati nella pagina **metodi di pagamento** , non sono disponibili per la selezione nell'elenco a discesa.
+    > Se si hanno abbonamenti associati a un profilo di fatturazione, si può usare solo una carta di credito o di debito per il pagamento. Se nella pagina **Modalità di pagamento** sono elencati conti bancari, non sono disponibili per la selezione nell'elenco a discesa.
 
-5. Per aggiungere un nuovo metodo di pagamento, selezionare **Aggiungi metodo di pagamento**.
+5. Per aggiungere una nuova modalità di pagamento, selezionare **Aggiungi modalità di pagamento**.
 
-6. Nel riquadro **Aggiungi un metodo di pagamento** , immettere le informazioni sull'account, quindi selezionare **Salva**. È necessario utilizzare un metodo di pagamento proveniente dallo stesso paese del tenant.
+6. Nel riquadro **Aggiungi un metodo di pagamento** immetti le informazioni sull'account e scegli **Salva**. È necessario usare una modalità di pagamento dello stesso paese/area geografica del tenant.
 
-7. Il nuovo metodo di pagamento è già selezionato nell'elenco a discesa. Selezionare **Sostituisci**.
+7. La nuova modalità di pagamento è già selezionata nell'elenco a discesa. Selezionare **Sostituisci**.
 
-Per ulteriori informazioni, vedere [Manage Payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Per altre informazioni, vedere [Gestire i metodi di pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frequenza di fatturazione**
 
