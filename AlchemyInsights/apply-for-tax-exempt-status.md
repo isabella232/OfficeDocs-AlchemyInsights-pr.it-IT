@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 91b34fb686206bd3b5e215bb5ed7cb7847028929
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 0e84de8568adca684e4d2497438f54c9d31ea49e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286757"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716789"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Richiedere l'esenzione fiscale
 
-Preparare la documentazione seguente. È necessario [avviare una richiesta di assistenza](https://docs.microsoft.com/office365/admin/contact-support-for-business-products) per richiedere l'esenzione fiscale.
+Preparare la documentazione seguente. È necessario [avviare una richiesta di assistenza](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) per richiedere l'esenzione fiscale.
 
 - **Stati Uniti**: preparare il **Certificato di esenzione fiscale**.
 
@@ -32,4 +33,4 @@ Preparare la documentazione seguente. È necessario [avviare una richiesta di as
 
 - **Portorico**: preparare il **Certificado de Compras Exentas**.
 
-Per altre informazioni, vedere [Informazioni fiscali](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide).
+Per altre informazioni, vedere [Informazioni fiscali](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
