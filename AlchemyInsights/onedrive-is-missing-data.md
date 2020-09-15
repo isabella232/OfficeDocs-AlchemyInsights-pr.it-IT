@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002302"
 - "4464"
-ms.openlocfilehash: 3fb710a23e213b622f8f36fe0efea9ed7cc28c9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c9e2ed9668fbbe447d20855e280efe6912179fa6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761495"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672924"
 ---
-# <a name="onedrive-is-missing-data"></a><span data-ttu-id="cb235-102">Dati mancanti in OneDrive</span><span class="sxs-lookup"><span data-stu-id="cb235-102">OneDrive is missing data</span></span>
+# <a name="onedrive-is-missing-data"></a><span data-ttu-id="084e7-102">Dati mancanti in OneDrive</span><span class="sxs-lookup"><span data-stu-id="084e7-102">OneDrive is missing data</span></span>
 
-<span data-ttu-id="cb235-103">Se una grande quantità di file di OneDrive vengono eliminati, sovrascritti, danneggiati o infettati da un malware, offriamo una serie di opzioni per facilitare il loro recupero.</span><span class="sxs-lookup"><span data-stu-id="cb235-103">If lots of your OneDrive files get deleted, overwritten, corrupted, or infected by malware, we give users a variety of options to assist in the recovery process.</span></span>
+<span data-ttu-id="084e7-103">Se una grande quantità di file di OneDrive vengono eliminati, sovrascritti, danneggiati o infettati da un malware, offriamo una serie di opzioni per facilitare il loro recupero.</span><span class="sxs-lookup"><span data-stu-id="084e7-103">If lots of your OneDrive files get deleted, overwritten, corrupted, or infected by malware, we give users a variety of options to assist in the recovery process.</span></span>
 
-- [<span data-ttu-id="cb235-104">Trovare file persi o mancanti in OneDrive</span><span class="sxs-lookup"><span data-stu-id="cb235-104">Find lost or missing files in OneDrive</span></span>](https://go.microsoft.com/fwlink/?linkid=2125166)
+- [<span data-ttu-id="084e7-104">Trovare file persi o mancanti in OneDrive</span><span class="sxs-lookup"><span data-stu-id="084e7-104">Find lost or missing files in OneDrive</span></span>](https://go.microsoft.com/fwlink/?linkid=2125166)
