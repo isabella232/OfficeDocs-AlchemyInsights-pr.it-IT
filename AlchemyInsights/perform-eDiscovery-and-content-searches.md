@@ -6,6 +6,7 @@ manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ed9e19f590029267368f8d4dcce7e1a85283a26
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510180"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721450"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Come eseguire le ricerche di contenuto e le ricerche di eDiscovery
 
@@ -34,4 +35,4 @@ Utilizzare lo strumento di ricerca contenuto nel centro sicurezza & conformità 
 
 Per istruzioni dettagliate sulle ricerche di contenuto, sull'esportazione dei risultati e sulla creazione dei casi di eDiscovery per contenere i dati, vedere [Content search](https://docs.microsoft.com/microsoft-365/compliance/content-search) and [eDiscovery Cases](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Per ulteriori informazioni sulla ricerca di contenuto, vedere i [requisiti e i limiti](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) e [esaminare gli elementi parzialmente indicizzati e gli](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) altri risultati da tenere presenti.
+Per ulteriori informazioni sulla ricerca di contenuto, vedere i [requisiti e i limiti](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) e  [esaminare gli elementi parzialmente indicizzati e gli](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) altri risultati da tenere presenti.
