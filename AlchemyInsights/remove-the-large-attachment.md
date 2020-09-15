@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 382ce7702e4726457ec802d1eec658477505e44e
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44541991"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701683"
 ---
 # <a name="remove-the-large-attachment"></a>Rimuovere l'allegato di grandi dimensioni
 
@@ -26,7 +27,7 @@ ms.locfileid: "44541991"
 2. Nel riquadro di spostamento, selezionare **posta in uscita**. Da qui, è possibile: 
     - Eliminare il messaggio (selezionarlo e quindi fare clic su **Elimina**).
     - Trascinare il messaggio nella cartella bozze, fare doppio clic per aprirlo e rimuovere l'allegato selezionarlo e quindi scegliere **Elimina**.
-3. Se viene visualizzato un messaggio di errore che indica che Outlook sta tentando di trasmetterlo, chiudere Outlook. Potrebbe essere necessario qualche minuto per uscire. Se Outlook non si chiude, premere CTRL + ALT + CANC e selezionare **Avvia Gestione attività**. In Task Manager selezionare la scheda **processi** , scorrere verso il basso fino a Outlook. exe e selezionare **Termina processo**.
+3. Se viene visualizzato un messaggio di errore che indica che Outlook sta tentando di trasmetterlo, chiudere Outlook. Potrebbe essere necessario qualche minuto per uscire. Se Outlook non si chiude, premere CTRL + ALT + CANC e selezionare **Avvia Gestione attività**. In Task Manager, selezionare la scheda **processi** , scorrere verso il basso fino a outlook.exe e selezionare **Termina processo**.
 4. Dopo la chiusura di Outlook, riavviarlo e ripetere i passaggi 2 e 3. 
 5. Dopo aver rimosso l'allegato, fare clic su **Invia/Ricevi**  >  **lavoro offline** per riprendere a lavorare online. 
 

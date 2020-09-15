@@ -5,6 +5,7 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,16 +13,16 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 61016010133bf07fa321be1a5bdef1674bcc2550
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7db0963bd43115fbd6b793751219ab93640b8310
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054129"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700747"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Ripristinare gli elementi eliminati da SharePoint
 
-Quando si elimina un elemento o un sito da SharePoint, non viene rimosso immediatamente. Gli elementi eliminati vengono inseriti nel cestino per un determinato periodo di tempo. Durante tale periodo, è possibile ripristinare gli elementi eliminati nel percorso originale. Per ulteriori informazioni, visitare i collegamenti riportati di seguito.
+Quando si elimina un elemento o un sito da SharePoint, questo non viene immediatamente rimosso. Gli elementi eliminati vengono inseriti nel cestino per un certo periodo di tempo. Durante questo periodo, è possibile ripristinare gli elementi eliminati nel percorso originale. Per ulteriori informazioni, visitare i collegamenti riportati di seguito.
 
 - [Ripristinare elementi contenuti nel Cestino di un sito di SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
@@ -35,10 +36,10 @@ Quando si elimina un elemento o un sito da SharePoint, non viene rimosso immedia
 
 - [PNP di SharePoint Online](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
-**Caratteristica di ripristino dei file**
+**Funzionalità Ripristino di file**
 
 Se un numero elevato di file di OneDrive o di SharePoint vengono eliminati, sovrascritti, danneggiati o infettati da malware, è possibile ripristinare l'intera raccolta di OneDrive o di SharePoint in un momento precedente utilizzando la caratteristica di ripristino dei file.
 
-- [Ripristinare una raccolta OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [Ripristinare una raccolta di OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
 - [Ripristinare una raccolta documenti](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

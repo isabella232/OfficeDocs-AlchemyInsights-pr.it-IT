@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -17,12 +18,12 @@ ms.custom:
 - "5160"
 - "9002663"
 - "5168"
-ms.openlocfilehash: a0a9c43fe163fd8bbb45181394d3fcbba9d082f7
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: 605e4cd00287178455877c8652af2034147e1ade
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957982"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700495"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>Passare a un piano di Microsoft 365 per le aziende diverso
 
@@ -32,4 +33,4 @@ Il cambio di piano può essere completato nell'interfaccia di amministrazione di
 
 - In alcuni casi è disponibile il [pulsante Cambia piano](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button) per guidare l'utente nel processo.
 
-Per altre informazioni, vedere [Passare a un piano di Microsoft 365 per le aziende diverso](https://docs.microsoft.com/it-IT/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+Per altre informazioni, vedere [Passare a un piano di Microsoft 365 per le aziende diverso](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
