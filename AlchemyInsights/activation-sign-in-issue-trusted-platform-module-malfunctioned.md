@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: 914e07fd69523005fbd777d3c05c9cf1a8beb01c
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 13e6fcd18047e511452f0180dc2e4677466d4db3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581343"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697525"
 ---
 # <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Risoluzione delle app Microsoft 365 "il modulo della piattaforma trusted del computer non funziona correttamente" messaggio
 
 Per risolvere il problema, provare a eseguire le operazioni seguenti:
 
-1. Aprire un'app di Office e [disconnettersi](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) dagli account utente esistenti.   
+1. Aprire un'app Office e [disconnettersi](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) dagli account utente esistenti.   
 2. Utilizzo degli account **delle impostazioni**  >  **Accounts**  >  di Windows **& account di posta elettronica**, rimuovere gli account di lavoro esistenti. 
 3. Utilizzo degli **account delle impostazioni**  >  **Accounts**  >  di Windows**accedere a lavoro o a scuola**, disconnettere gli account esistenti. 
 4. Reimpostare lo stato di attivazione di Office. [Procedura](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
