@@ -6,23 +6,24 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: 3a8ca385a6cfdbbbd9ce5c61b4b2201359e3fd3e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e12b13d193a9cb381fd455ac4fc3c2170fa2f66c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43744551"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728939"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a><span data-ttu-id="3a40e-102">Outlook.com è pronto per la prima serata</span><span class="sxs-lookup"><span data-stu-id="3a40e-102">Outlook.com is ready for prime time</span></span>
+# <a name="outlookcom-is-ready-for-prime-time"></a><span data-ttu-id="92104-102">Outlook.com è pronto per la prima serata</span><span class="sxs-lookup"><span data-stu-id="92104-102">Outlook.com is ready for prime time</span></span>
 
-<span data-ttu-id="3a40e-103">Siamo consapevoli del fatto che alcuni clienti possono vedere il popup "Outlook.com è pronto per la prima volta" ogni volta che accedono e stiamo lavorando a una correzione.</span><span class="sxs-lookup"><span data-stu-id="3a40e-103">We're aware that some customers may see the "Outlook.com is ready for prime time" pop-up each time they sign-in, and we're working on a fix.</span></span>
+<span data-ttu-id="92104-103">Siamo consapevoli del fatto che alcuni clienti possono vedere il popup "Outlook.com è pronto per la prima volta" ogni volta che accedono e stiamo lavorando a una correzione.</span><span class="sxs-lookup"><span data-stu-id="92104-103">We're aware that some customers may see the "Outlook.com is ready for prime time" pop-up each time they sign-in, and we're working on a fix.</span></span>
 
-<span data-ttu-id="3a40e-104">Mi dispiace.</span><span class="sxs-lookup"><span data-stu-id="3a40e-104">Sorry about that.</span></span>
+<span data-ttu-id="92104-104">Mi dispiace.</span><span class="sxs-lookup"><span data-stu-id="92104-104">Sorry about that.</span></span>
 
-[<span data-ttu-id="3a40e-105">Per ulteriori informazioni, vedere il nuovo Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="3a40e-105">Learn more about the new Outlook.com.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[<span data-ttu-id="92104-105">Per ulteriori informazioni, vedere il nuovo Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="92104-105">Learn more about the new Outlook.com.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
