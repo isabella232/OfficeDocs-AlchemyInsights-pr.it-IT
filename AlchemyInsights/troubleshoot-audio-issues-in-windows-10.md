@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: f51fd233db5ae068e719f1cf3bc94a0dac82444f
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265020"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750311"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Risoluzione dei problemi relativi all'audio in Windows 10
 
@@ -24,13 +25,13 @@ ms.locfileid: "42265020"
 
 1.  Aprire le [impostazioni per la risoluzione dei problemi](ms-settings:troubleshoot).
 
-2.  Selezionare **riproduzione audio** > **eseguire la risoluzione dei problemi**.
+2.  Selezionare **riproduzione audio**  >  **eseguire la risoluzione dei problemi**.
 
 **Impostare il dispositivo predefinito**
 
 Se si sta effettuando la connessione a un dispositivo audio tramite USB o HDMI, potrebbe essere necessario impostare il dispositivo come predefinito:
 
-1. Aprire **** > **Sound**Start, quindi selezionare **Sound** o **Cambia suoni di sistema** dall'elenco dei risultati.
+1. Aprire **Start**  >  **Sound**Start, quindi selezionare **Sound** o **Cambia suoni di sistema** dall'elenco dei risultati.
 
 2.  Nella scheda **riproduzione** selezionare un dispositivo, selezionare **Imposta predefinito**, quindi fare clic su **OK**.
 
@@ -62,4 +63,4 @@ Se non è possibile eseguire l'aggiornamento tramite Gestione dispositivi o trov
 
 1. In gestione dispositivi fare clic con il pulsante destro del mouse (o tieni premuto) sul driver audio e scegliere **Disinstalla**. Riavviare il dispositivo e Windows tenterà di reinstallare il driver.
 
-2. Se la reinstallazione del driver non funziona, provare a utilizzare il driver audio generico fornito con Windows. In gestione dispositivi, fare clic con il pulsante destro del mouse (o tenere premuto) il driver audio > **aggiornare il software** > del driver**Sfoglia risorse del computer per il software** > driver**let me scegliere da un elenco di driver di dispositivo nel computer in**uso, selezionare **dispositivo audio ad alta definizione**, selezionare **Avanti**e seguire le istruzioni per installarlo.
+2. Se la reinstallazione del driver non funziona, provare a utilizzare il driver audio generico fornito con Windows. In gestione dispositivi, fare clic con il pulsante destro del mouse (o tenere premuto) il driver audio > **aggiornare il software del driver**  >  **Sfoglia risorse del computer per il software driver**  >  **let me scegliere da un elenco di driver di dispositivo nel computer in**uso, selezionare **dispositivo audio ad alta definizione**, selezionare **Avanti**e seguire le istruzioni per installarlo.
