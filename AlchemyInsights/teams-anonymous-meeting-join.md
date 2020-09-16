@@ -5,23 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 7424910b6d0ed41e3e1ad8cdcddd9a7ac10d2399
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474639"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669900"
 ---
 # <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Consentire o impedire agli utenti anonimi di partecipare alle riunioni di Teams
 
 È possibile controllare le impostazioni di partecipazione come utente anonimo alle riunioni nell'interfaccia di amministrazione di Teams.
 
-1.  Passare all'interfaccia di amministrazione all'indirizzo [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
+**Possono essere necessarie fino a 24 ore prima che la modifica diventi effettiva.**
+
+1.  Passare all'[interfaccia di amministrazione di Teams](https://admin.teams.microsoft.com)
 2.  Nel riquadro di spostamento sinistro, andare a **Riunioni**  >  **Impostazioni di riunione**.
 3.  In **Partecipanti**, attivare **Gli utenti anonimi possono partecipare a una riunione**.

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3c534ef21cdefd333d0d0305cd460a0542a63d4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722587"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699271"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Problemi noti di Visio e risoluzioni
 
@@ -30,7 +31,7 @@ Ecco alcuni argomenti richiesti di frequente relativi a Microsoft Visio:
 
 **Scaricare, installare e attivare Visio**
 
-- Perché un utente possa installare e attivare l'app desktop di Visio con Visio Online piano 2, deve essergli assegnata una [licenza di Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Perché un utente possa installare e attivare l'app desktop di Visio con Visio Online piano 2, deve essergli assegnata una [licenza di Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 - Se non è già installato, è necessario installare Visio dal portale dell'account personale. Per informazioni, vedere [Installare Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
 
@@ -40,7 +41,7 @@ Ecco alcuni argomenti richiesti di frequente relativi a Microsoft Visio:
 
 **Visio per Mac**
 
-Non esiste un'applicazione desktop di Visio per Mac. Tuttavia, gli utenti con una [licenza di Visio Online](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) valida possono [visualizzare, creare e modificare i diagrammi](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) in Visio Online in un Web browser.
+Non esiste un'applicazione desktop di Visio per Mac. Tuttavia, gli utenti con una [licenza di Visio Online](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) valida possono [visualizzare, creare e modificare i diagrammi](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) in Visio Online in un Web browser.
 
 **Diagrammi, modelli, forme e connettori**
 

@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 226eaa73b3934e266c1f53f73752ec142fdecdf5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784011"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698065"
 ---
 # <a name="activate-your-subscription"></a>Attivare l'abbonamento
 
 **Attivare un abbonamento**
 
-- Per consentire agli utenti l'accesso a un servizio, assegnare loro una licenza. Per istruzioni sull'assegnazione delle licenze, vedere [Assegnare licenze agli utenti](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Per consentire agli utenti l'accesso a un servizio, assegnare loro una licenza. Per istruzioni sull'assegnazione delle licenze, vedere [Assegnare licenze agli utenti](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 - Se è già stata assegnata una licenza, è possibile trovare le applicazioni da scaricare nella pagina [Account personale](https://portal.office.com/account/#installs). Questa pagina fornisce un elenco di applicazioni disponibili per il download in base alle licenze assegnate.
 
@@ -32,13 +33,13 @@ ms.locfileid: "43784011"
 
 Se l'abbonamento è scaduto, è stato disabilitato da Microsoft oppure è stato annullato durante il periodo di validità, è possibile riattivarlo nell'interfaccia di amministrazione di Microsoft 365.
 
-- Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina [Abbonamenti](https://go.microsoft.com/fwlink/p/?linkid=842054) o scegliere **Fatturazione > Abbonamenti**.
+- Nell'interfaccia di amministrazione di Microsoft 365, passare alla pagina **Fatturazione** > **[I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-- Selezionare l'abbonamento da riattivare e quindi fare clic su **Riattiva**. Se l'opzione **Riattiva** non è disponibile, [contattare il supporto](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) per riattivare l'abbonamento.
+- Selezionare l'abbonamento da riattivare e quindi fare clic su **Riattiva**. Se l'opzione **Riattiva** non è disponibile, [contattare il supporto](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) per riattivare l'abbonamento.
 
-- Immettere i dettagli sul pagamento. È anche possibile [aggiornare le attuali informazioni sul pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+- Immettere i dettagli sul pagamento. È anche possibile [aggiornare le attuali informazioni sul pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Per altre informazioni, vedere [Riattivare l'abbonamento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Per altre informazioni, vedere [Riattivare l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Attivare un nuovo abbonamento con un codice Product Key**
 
