@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002970"
 - "5683"
-ms.openlocfilehash: 58d882c7283ceac24f4306f474de5327fec03b64
-ms.sourcegitcommit: b196100759b29aecd62b693a2bfedbbd25a697c6
+ms.openlocfilehash: 32e600a4a3bb98fb5d31a7de4923b16c43db9205
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44320458"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741235"
 ---
 # <a name="recover-the-homeaspx-page"></a>Recuperare la pagina Home.aspx
 
 Se la home page del sito viene eliminata, può essere recuperata dal Cestino accedendo all'URL del Cestino.
 
-1. Passare a https://\<nometenant>.sharepoint.com/sites/\<nomesito>/_layouts/15/RecycleBin.aspx?, sostituendo <**nometenant**> con il nome del tenant e <**nomesito**> con il nome del sito.
+1. Passare a https://\<tenantname>.sharepoint.com/sites/\<sitename>/_layouts/15/RecycleBin.aspx?, sostituendo <**tenantname**> con il nome del tenant e <**sitename**> con il nome del sito.
 
 2. Selezionare la pagina da ripristinare.
 
