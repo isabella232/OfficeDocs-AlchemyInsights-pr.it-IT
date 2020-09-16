@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702778"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745591"
 ---
 # <a name="file-open-read-only"></a>File aperto di sola lettura
 
@@ -37,7 +38,7 @@ I file provenienti da Internet e da altri percorsi potenzialmente non sicuri pos
   
  **OneDrive è completo?**
   
-Se il file è archiviato su OneDrive e lo spazio di archiviazione di OneDrive è pieno, non sarà possibile salvare il documento finché non si è sotto lo spazio assegnato. È possibile controllare lo spazio disponibile su OneDrive facendo clic sull'icona di OneDrive nel centro notifiche e scegliendo Gestisci archiviazione oppure è possibile [https://onedrive.live.com](https://onedrive.live.com)accedere a, accedere e annotare la quantità di spazio utilizzato in basso a sinistra dello schermo.
+Se il file è archiviato su OneDrive e lo spazio di archiviazione di OneDrive è pieno, non sarà possibile salvare il documento finché non si è sotto lo spazio assegnato. È possibile controllare lo spazio disponibile su OneDrive facendo clic sull'icona di OneDrive nel centro notifiche e scegliendo Gestisci archiviazione oppure è possibile accedere a, [https://onedrive.live.com](https://onedrive.live.com) accedere e annotare la quantità di spazio utilizzato in basso a sinistra dello schermo.
   
  **Office è attivato?**
   
