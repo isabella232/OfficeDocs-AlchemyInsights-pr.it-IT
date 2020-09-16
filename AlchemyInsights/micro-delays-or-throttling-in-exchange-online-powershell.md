@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "5106"
-ms.openlocfilehash: 7ab4e7f18b7b8edf08098af8fe9674f66b1b81f4
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+ms.openlocfilehash: 55844747be27ea4ff8f538492e576195b3a5f0bb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947909"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743918"
 ---
-# <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a><span data-ttu-id="0f77f-102">Micro ritardi o limitazione in PowerShell per Exchange Online</span><span class="sxs-lookup"><span data-stu-id="0f77f-102">Micro delays or throttling in Exchange Online PowerShell</span></span>
+# <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a><span data-ttu-id="65bee-102">Micro ritardi o limitazione in PowerShell per Exchange Online</span><span class="sxs-lookup"><span data-stu-id="65bee-102">Micro delays or throttling in Exchange Online PowerShell</span></span>
 
-<span data-ttu-id="0f77f-103">Durante l'esecuzione di script e cmdlet in Exchange Online potrebbero verificarsi ritardi o potrebbero comparire avvisi "Applicato micro ritardo".</span><span class="sxs-lookup"><span data-stu-id="0f77f-103">You might see "Micro delay applied" warnings or delays when you run scripts and cmdlets in Exchange Online.</span></span> <span data-ttu-id="0f77f-104">Ecco due suggerimenti a questo proposito:</span><span class="sxs-lookup"><span data-stu-id="0f77f-104">Here are two suggestions related to this:</span></span>
+<span data-ttu-id="65bee-103">Durante l'esecuzione di script e cmdlet in Exchange Online potrebbero verificarsi ritardi o potrebbero comparire avvisi "Applicato micro ritardo".</span><span class="sxs-lookup"><span data-stu-id="65bee-103">You might see "Micro delay applied" warnings or delays when you run scripts and cmdlets in Exchange Online.</span></span> <span data-ttu-id="65bee-104">Ecco due suggerimenti a questo proposito:</span><span class="sxs-lookup"><span data-stu-id="65bee-104">Here are two suggestions related to this:</span></span>
 
-- <span data-ttu-id="0f77f-105">Provare a usare il [modulo PowerShell per Exchange Online v2](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps), che include CMDlet basati sull'API REST e nettamente più performanti.</span><span class="sxs-lookup"><span data-stu-id="0f77f-105">You might want to try using the [Exchange Online v2 PowerShell module](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps), which includes CMDlets that are based on REST API and are significantly more performant.</span></span> <span data-ttu-id="0f77f-106">Può essere un'ottima soluzione per molti CMDlet Get che vengono usati di frequente.</span><span class="sxs-lookup"><span data-stu-id="0f77f-106">This might be a great solution for a lot of Get- CMDlets that are frequently used.</span></span>
-- <span data-ttu-id="0f77f-107">Se è necessario usare CMDlet non ancora coperti dal modulo v2, vedere l'argomento relativo all'[esecuzione di cmdlet di PowerShell per un numero elevato di utenti in Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#), che illustra come ovviare ai limiti previsti di PowerShell in Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="0f77f-107">If you need to use CMDlets that are not covered in the v2 module yet, please see [Running PowerShell cmdlets for large numbers of users in Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#), which talks about how to get around expected PowerShell throttling limits in Exchange Online.</span></span>
+- <span data-ttu-id="65bee-105">Provare a usare il [modulo PowerShell per Exchange Online v2](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps), che include CMDlet basati sull'API REST e nettamente più performanti.</span><span class="sxs-lookup"><span data-stu-id="65bee-105">You might want to try using the [Exchange Online v2 PowerShell module](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps), which includes CMDlets that are based on REST API and are significantly more performant.</span></span> <span data-ttu-id="65bee-106">Può essere un'ottima soluzione per molti CMDlet Get che vengono usati di frequente.</span><span class="sxs-lookup"><span data-stu-id="65bee-106">This might be a great solution for a lot of Get- CMDlets that are frequently used.</span></span>
+- <span data-ttu-id="65bee-107">Se è necessario usare CMDlet non ancora coperti dal modulo v2, vedere l'argomento relativo all'[esecuzione di cmdlet di PowerShell per un numero elevato di utenti in Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#), che illustra come ovviare ai limiti previsti di PowerShell in Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="65bee-107">If you need to use CMDlets that are not covered in the v2 module yet, please see [Running PowerShell cmdlets for large numbers of users in Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#), which talks about how to get around expected PowerShell throttling limits in Exchange Online.</span></span>
