@@ -4,22 +4,22 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: de7d76564cabb0a5dd1a836984df6b1a63b2b218
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44542133"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732179"
 ---
 # <a name="creating-aip-label-policies"></a>Creazione di criteri per le etichette AIP
 
-Le etichette di Azure Information Protection (AIP) possono essere utilizzate con l'intera gamma di dati che un'organizzazione in genere crea e archivia, dalla classificazione più bassa dei dati personali, alla classificazione più elevata di dati altamente riservati. I criteri di protezione delle informazioni di Azure si applicano al client classico di Azure Information Protection (AIP) e non al [client di etichettatura AIP Unified](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). È possibile configurare più elementi in un criterio di AIP, incluse opzioni quali:
+Le etichette di Azure Information Protection (AIP) possono essere utilizzate con l'intera gamma di dati che un'organizzazione in genere crea e archivia, dalla classificazione più bassa dei dati personali, alla classificazione più elevata di dati altamente riservati. I criteri di protezione delle informazioni di Azure si applicano al client classico di Azure Information Protection (AIP) e non al  [client di etichettatura AIP Unified](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). È possibile configurare più elementi in un criterio di AIP, incluse opzioni quali:
 
 - Opzione per l'etichetta che consente agli amministratori o agli utenti di classificare e proteggere (facoltativamente) documenti e messaggi di posta elettronica
 - Opzione per applicare la classificazione quando gli utenti salvano documenti e inviano messaggi di posta elettronica
@@ -30,11 +30,11 @@ Per ulteriori informazioni e opzioni sui criteri di protezione delle informazion
 
 Per altre risorse utili sui criteri di AIP, vedere:
 
-- [Esercitazione: configurare le impostazioni del criterio di protezione delle informazioni di Azure e creare una nuova etichetta](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
-- [Configurazione dei criteri di protezione delle informazioni di Azure](https://docs.microsoft.com/azure/information-protection/configure-policy)  
+- [Tutorial: configurare le impostazioni dei criteri di Azure Information Protection e creare una nuova etichetta](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
+- [Configurazione dei criteri di Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy)  
 - [Creare e configurare etichette di riservatezza e i relativi criteri](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
-- [Procedure guidate per scenari comuni in cui viene utilizzata la protezione delle informazioni di Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
-- [Esaminare la documentazione relativa alla protezione delle informazioni di Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
-- [Requisiti per la protezione delle informazioni di Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
-- [Esercitazione introduttiva per la protezione delle informazioni di Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
-- [Scaricare il client Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Guide sulle procedure per scenari comuni che usano Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Consultare la documentazione di Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Requisiti di Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
+- [Guida introduttiva per Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
+- [Scaricare il client di Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)

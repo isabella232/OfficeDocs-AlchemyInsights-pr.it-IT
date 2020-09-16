@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: c0413d1a262d2b7c0245f0fae16b4b60d0a35e19
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 85aa158d917521fac871fd5c6687737fd22d736c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584517"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733439"
 ---
 # <a name="change-your-wi-fi-router-password"></a>Modificare la password del router Wi-Fi
 
 Per modificare la password del router Wi-Fi, attenersi alla seguente procedura:
 
-1. Selezionare **Start** > **Settings** > **Network & Internet** > **Network and Sharing Center**.
+1. Selezionare **Start**  >  **Settings**  >  **Network & Internet**  >  **Network and Sharing Center**.
 
 2. In **View your Active Networks**cercare la rete a cui si è connessi. Selezionare il collegamento blu accanto a **connessioni**.<br>
 
