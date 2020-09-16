@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 986e625e4b7ec5615d2b19927749e5efc627f691
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: 9951ca12fab132a7720a12d8cc9ea4a5695db9cd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225147"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47742027"
 ---
 # <a name="your-payment-was-declined"></a>Il pagamento è stato rifiutato
 
@@ -47,8 +48,8 @@ Microsoft proverà a effettuare un addebito sulla carta più volte nelle 3-4 set
 
 1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** > **Fatture e pagamenti** > [Modalità di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Selezionare la riga della modalità di pagamento da aggiornare. Nel riquadro destro selezionare **Modifica**.
+2. Selezionare la riga del metodo di pagamento da aggiornare. Nel riquadro destro, selezionare **Modifica**.
 
-3. Aggiornare le informazioni sulla modalità di pagamento, inclusi il nome sulla carta di credito o di debito, l'indirizzo di fatturazione o la data di scadenza e quindi selezionare **Salva**.
+3. Aggiornare le informazioni sul metodo di pagamento, inclusi il nome sulla carta di credito o di debito, l'indirizzo di fatturazione o la data di scadenza e quindi selezionare **Salva**.
 
 Per altre informazioni, vedere [Gestire i metodi di pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
