@@ -4,24 +4,25 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
 ms.custom:
 - "1591"
 - "5300012"
-ms.openlocfilehash: 0caa2a9d2e212a206694c6ec2f56d23f64fbe7ad
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 99e4cc09df3e7e687e192069c09af229202b55af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054093"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800792"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>Panoramica dei siti hub di SharePoint
 
 I siti hub di SharePoint consentono di soddisfare le esigenze dell'organizzazione collegando e organizzando siti basati su progetti, reparto, divisione, area geografica e così via, rendendo più semplice:
 
-- Individuare il contenuto correlato, ad esempio le notizie e altre attività del sito.
+- Individuare i contenuti correlati come notizie e altre attività del sito.
 
 - Applicare esplorazione comune e personalizzazione in tutti i siti associati. 
 
