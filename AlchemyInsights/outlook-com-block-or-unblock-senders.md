@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -15,28 +16,28 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
-ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
+ms.openlocfilehash: ba52dacf8e357b1910c4e3be8714128b96e9ad0e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43793959"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753695"
 ---
-# <a name="block-or-unblock-senders"></a><span data-ttu-id="841bf-102">Bloccare o sbloccare i mittenti</span><span class="sxs-lookup"><span data-stu-id="841bf-102">Block or unblock senders</span></span>
+# <a name="block-or-unblock-senders"></a><span data-ttu-id="246c2-102">Bloccare o sbloccare i mittenti</span><span class="sxs-lookup"><span data-stu-id="246c2-102">Block or unblock senders</span></span>
 
-<span data-ttu-id="841bf-103">I messaggi provenienti da indirizzi di posta elettronica o domini nell'elenco Mittenti bloccati non verranno visualizzati nella cassetta postale di Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="841bf-103">Messages from email addresses or domains on your blocked senders list will not come to your Outlook.com mailbox.</span></span>
+<span data-ttu-id="246c2-103">I messaggi provenienti da indirizzi di posta elettronica o domini nell'elenco Mittenti bloccati non verranno visualizzati nella cassetta postale di Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="246c2-103">Messages from email addresses or domains on your blocked senders list will not come to your Outlook.com mailbox.</span></span>
 
-<span data-ttu-id="841bf-104">**Dalla posta in arrivo:**</span><span class="sxs-lookup"><span data-stu-id="841bf-104">**From your inbox:**</span></span>
+<span data-ttu-id="246c2-104">**Dalla posta in arrivo:**</span><span class="sxs-lookup"><span data-stu-id="246c2-104">**From your inbox:**</span></span>
 
-- <span data-ttu-id="841bf-105">Nell'elenco dei messaggi selezionare il messaggio e quindi fare clic su**blocco**di **posta indesiderata** > .</span><span class="sxs-lookup"><span data-stu-id="841bf-105">In the message list, select the message and then select **Junk** > **Block**.</span></span>
+- <span data-ttu-id="246c2-105">Nell'elenco dei messaggi selezionare il messaggio e quindi fare clic su blocco di **posta indesiderata**  >  **Block**.</span><span class="sxs-lookup"><span data-stu-id="246c2-105">In the message list, select the message and then select **Junk** > **Block**.</span></span>
 
-<span data-ttu-id="841bf-106">**Dalle impostazioni:**</span><span class="sxs-lookup"><span data-stu-id="841bf-106">**From Settings:**</span></span>
+<span data-ttu-id="246c2-106">**Dalle impostazioni:**</span><span class="sxs-lookup"><span data-stu-id="246c2-106">**From Settings:**</span></span>
 
-1. <span data-ttu-id="841bf-107">Aprire le impostazioni della [posta indesiderata](https://outlook.live.com/mail/options/mail/junkEmail) .</span><span class="sxs-lookup"><span data-stu-id="841bf-107">Open [Junk email](https://outlook.live.com/mail/options/mail/junkEmail) settings.</span></span>
-2. <span data-ttu-id="841bf-108">In **mittenti e domini bloccati**selezionare **Aggiungi**.</span><span class="sxs-lookup"><span data-stu-id="841bf-108">Under **Blocked senders and domains**, select **Add**.</span></span>
-3. <span data-ttu-id="841bf-109">Digitare l'indirizzo di posta elettronica del dominio che si desidera bloccare e premere INVIO.</span><span class="sxs-lookup"><span data-stu-id="841bf-109">Type the email address of domain that you want to block and press Enter.</span></span>
-4. <span data-ttu-id="841bf-110">Selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="841bf-110">Select **Save**.</span></span>
+1. <span data-ttu-id="246c2-107">Aprire le impostazioni della [posta indesiderata](https://outlook.live.com/mail/options/mail/junkEmail) .</span><span class="sxs-lookup"><span data-stu-id="246c2-107">Open [Junk email](https://outlook.live.com/mail/options/mail/junkEmail) settings.</span></span>
+2. <span data-ttu-id="246c2-108">In **mittenti e domini bloccati**selezionare **Aggiungi**.</span><span class="sxs-lookup"><span data-stu-id="246c2-108">Under **Blocked senders and domains**, select **Add**.</span></span>
+3. <span data-ttu-id="246c2-109">Digitare l'indirizzo di posta elettronica del dominio che si desidera bloccare e premere INVIO.</span><span class="sxs-lookup"><span data-stu-id="246c2-109">Type the email address of domain that you want to block and press Enter.</span></span>
+4. <span data-ttu-id="246c2-110">Selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="246c2-110">Select **Save**.</span></span>
 
-<span data-ttu-id="841bf-111">Per sbloccare un mittente, selezionare l'icona del cestino accanto all'indirizzo di posta elettronica o al dominio che si desidera sbloccare.</span><span class="sxs-lookup"><span data-stu-id="841bf-111">To unblock a sender, select the trash icon next to the email address or domain you want to unblock.</span></span>
+<span data-ttu-id="246c2-111">Per sbloccare un mittente, selezionare l'icona del cestino accanto all'indirizzo di posta elettronica o al dominio che si desidera sbloccare.</span><span class="sxs-lookup"><span data-stu-id="246c2-111">To unblock a sender, select the trash icon next to the email address or domain you want to unblock.</span></span>
 
-<span data-ttu-id="841bf-112">Per ulteriori informazioni, vedere [bloccare i mittenti o contrassegnare la posta elettronica come posta indesiderata](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="841bf-112">To learn more, see [Block senders or mark email as junk](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="246c2-112">Per ulteriori informazioni, vedere [bloccare i mittenti o contrassegnare la posta elettronica come posta indesiderata](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="246c2-112">To learn more, see [Block senders or mark email as junk](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
