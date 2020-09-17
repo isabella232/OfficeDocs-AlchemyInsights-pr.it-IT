@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: ce9e160272d96f40a6ba30b1527bde1aed1b8d88
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600136"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783591"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Risolvere gli errori di apertura o salvataggio di file di Word
 
@@ -29,16 +30,16 @@ Se si verificano problemi durante l'apertura o il salvataggio di documenti di Wo
 
 Se è stato ricevuto un errore come uno dei seguenti, utilizzare il messaggio di [errore suggerimenti in Office quando un file è bloccato dalle impostazioni dei criteri del registro di sistema](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 
-- Si sta tentando di aprire un file bloccato dall'impostazione dei criteri del registro di sistema.
-- Si sta tentando di aprire un ** \<tipo\> ** di file di tipo file che è stato bloccato dalle impostazioni di blocco dei file nel centro protezione.
-- Si sta tentando di aprire un file creato in una versione precedente di Microsoft Office. Questo tipo di file è bloccato dall'apertura in questa versione dall'impostazione dei criteri del registro di sistema.
-- Si sta tentando di salvare un file bloccato dall'impostazione dei criteri del registro di sistema.
+- Si sta tentando di aprire un tipo di file bloccato dall'impostazione dei criteri del Registro di sistema.
+- Si sta tentando di aprire un tipo di file **\<File Type\>** bloccato dalle Impostazioni tipi file nel Centro protezione.
+- Si sta cercando di aprire un file che è stato creato in una versione precedente di Microsoft Office. L'impostazione dei criteri del Registro di sistema impedisce l'apertura di questo tipo di file in questa versione.
+- "Si sta tentando di salvare un tipo di file bloccato dall'impostazione dei criteri del Registro di sistema".
 - Si sta tentando di salvare un tipo di file che è stato bloccato dalle impostazioni di blocco dei file nel centro protezione.
 
-Se si verificano problemi nell'apertura di file di Office da raccolte documenti di SharePoint o OneDrive, provare a eseguire le operazioni seguenti:
+Se si verificano problemi durante l'apertura di file di Office da raccolte documenti di SharePoint o OneDrive, provare a eseguire le operazioni seguenti:
 
-- Controllare le limitazioni dei file in nomi di file [e tipi di file non validi in OneDrive, OneDrive for business e SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) per assicurarsi che il file sia supportato. 
+- Controllare le limitazioni dei file in [Nomi e tipi di file non validi in OneDrive, OneDrive for Business e SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) per verificare che il file sia supportato. 
 - [Eliminare la cache dei documenti di Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d
 ). 
 
-Per ulteriori informazioni, vedere [risolvere i problemi di apertura dei documenti nelle raccolte di SharePoint](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536).
+Per altre informazioni, vedere [Risolvere i problemi di apertura dei documenti nelle raccolte di SharePoint](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536).
