@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3047"
 - "9000592"
-ms.openlocfilehash: 260c9b74fdd99bb1ecef58307d1ac7629c05909a
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: c0bca112ea345dedc7fa5e9cfa4e65866e6a8aa6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554263"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812479"
 ---
 # <a name="common-issues-with-tables"></a>Problemi comuni relativi alle tabelle 
 
@@ -24,7 +25,7 @@ Di seguito sono riportati alcuni argomenti richiesti di frequente relativi all'u
 
 Vedere [aprire un documento dopo un errore di danneggiamento](https://support.office.com/article/47df9d48-2165-4411-a699-1786ac734bc3) di un file per ripristinare una tabella danneggiata in Word:
 
- 1. In Word, selezionare **file** > **Open** > **Browse**.
+ 1. In Word, selezionare **file**  >  **Open**  >  **Browse**.
  2. Selezionare il file con la tabella danneggiata.
  3. Selezionare la freccia accanto a **Apri**e quindi fare clic su **Apri e ripristina**.
 

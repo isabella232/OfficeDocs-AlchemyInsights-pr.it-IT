@@ -6,22 +6,23 @@ manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: 3ac582f65d00753d78ed75dc2362ed9ae3ac87c0
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 6e7f56498326b3fb4038fbb9cdc191ec4692ca65
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45083992"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815681"
 ---
 # <a name="change-default-domain"></a>Modificare il dominio predefinito
 
-Dopo aver aggiunto un dominio personalizzato usando [Aggiunta guidata dominio](https://portal.office.com/adminportal/home#/Domains/Wizard), il dominio personalizzato diventa il dominio predefinito per i nuovi utenti, mentre rimane invariato per gli utenti esistenti.
+Dopo aver aggiunto un dominio personalizzato usando [Aggiunta guidata dominio](https://admin.microsoft.com/Adminportal#/Domains/Wizard), il dominio personalizzato diventa il dominio predefinito per i nuovi utenti, mentre rimane invariato per gli utenti esistenti.
 
 - Per modificare il dominio predefinito con uno esistente, sceglierlo nella [pagina Domini](https://admin.microsoft.com/Adminportal/Home#/Domains), quindi selezionare **Imposta come predefinito**.
 

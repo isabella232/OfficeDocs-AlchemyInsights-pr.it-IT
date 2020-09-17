@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 1c677f6796340061fcdb06ed639cf05cc1266bcd
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1bfe006ff6111581ebf85f0c599e65961e8289c0
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049485"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815645"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Caricare file in OneDrive o SharePoint
 
@@ -29,6 +30,6 @@ ms.locfileid: "40049485"
 
 - [Risolvere i problemi di sincronizzazione di OneDrive](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [Risolvere i problemi relativi al caricamento dei file nel sito Web OneDrive](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
+- [Risolvere i problemi relativi al caricamento di file nel sito Web di OneDrive](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
 
-- [Massimizzare la velocità di caricamento e download](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [Ottimizzare la velocità di caricamento e download](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)

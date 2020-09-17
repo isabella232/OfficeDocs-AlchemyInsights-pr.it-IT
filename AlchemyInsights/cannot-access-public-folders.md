@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
-ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
+ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47341407"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812551"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook non è in grado di connettersi alle cartelle pubbliche
 
@@ -38,9 +39,9 @@ Se il problema persiste, eseguire la [procedura seguente](https://aka.ms/pfcte) 
 
 1.  Utilizzare Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true o $false  
       
-    $true: Consenti agli utenti di accedere alle cartelle pubbliche in Outlook  
+    $true: consente agli utenti di accedere alle cartelle pubbliche in Outlook  
       
-    $false: Impedisci l'accesso degli utenti alle cartelle pubbliche in Outlook. Questo è il valore predefinito.  
+    $false: consente agli utenti di accedere alle cartelle pubbliche in Outlook.  Questo è il valore predefinito.  
         
 2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
       
