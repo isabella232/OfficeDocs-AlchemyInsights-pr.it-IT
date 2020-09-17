@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 975609294a4fd564c99594269bb4c348ad1d4191
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 690935623685712959c6544752c5df06f7d9da01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579725"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778323"
 ---
 # <a name="manage-access-requests"></a>Gestire le richieste di accesso
 
@@ -28,7 +29,7 @@ Quando un utente tenta di accedere a un elemento in SharePoint e non dispone del
     
 3. Per assegnare l'autorizzazione utente singolarmente, fare clic su **approva** o **rifiuta**. Per selezionare un livello di autorizzazione specifico, fare clic sul pulsante con i puntini di sospensione (...) accanto al nome della persona. In alternativa, aggiungere l'utente a un gruppo che dispone dell'autorizzazione per il sito. Per i siti di comunicazione e i siti del team classico, è possibile eseguire questa operazione nella pagina Impostazioni sito. Per i siti appartenenti a un gruppo di Microsoft 365, è possibile aggiungere l'utente al gruppo.
     
-    [Gestire le richieste di accesso](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Gestire le richieste di accesso ](https://go.microsoft.com/fwlink/?linkid=2008747)
     
     [Altre informazioni sui livelli di autorizzazione](https://go.microsoft.com/fwlink/?linkid=867071)
     
