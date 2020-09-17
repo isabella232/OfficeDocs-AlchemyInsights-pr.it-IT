@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
-ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
+ms.openlocfilehash: 313c76df6b2d2739814f481917b4314363600af5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44797975"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812299"
 ---
-# <a name="common-issues-and-resolutions-for-adfs"></a><span data-ttu-id="49aae-102">Problemi noti e risoluzioni per ADFS</span><span class="sxs-lookup"><span data-stu-id="49aae-102">Common issues and resolutions for ADFS</span></span>
+# <a name="common-issues-and-resolutions-for-adfs"></a><span data-ttu-id="e94fc-102">Problemi noti e risoluzioni per ADFS</span><span class="sxs-lookup"><span data-stu-id="e94fc-102">Common issues and resolutions for ADFS</span></span>
 
-<span data-ttu-id="49aae-103">La configurazione del dominio federato può essere aggiornata come descritto nei seguenti articoli della Microsoft Knowledge Base.</span><span class="sxs-lookup"><span data-stu-id="49aae-103">The configuration of the federated domain can be updated as described in the following Microsoft Knowledge Base articles.</span></span>
+<span data-ttu-id="e94fc-103">La configurazione del dominio federato può essere aggiornata come descritto nei seguenti articoli della Microsoft Knowledge Base.</span><span class="sxs-lookup"><span data-stu-id="e94fc-103">The configuration of the federated domain can be updated as described in the following Microsoft Knowledge Base articles.</span></span>
 
-- [<span data-ttu-id="49aae-104">Scadenza del certificato di federazione ADFS</span><span class="sxs-lookup"><span data-stu-id="49aae-104">ADFS Federation Certificate Expiring</span></span>](adfs-federation-certificate-expiring.md)
+- [<span data-ttu-id="e94fc-104">Scadenza del certificato di federazione ADFS</span><span class="sxs-lookup"><span data-stu-id="e94fc-104">ADFS Federation Certificate Expiring</span></span>](adfs-federation-certificate-expiring.md)
 
-- <span data-ttu-id="49aae-105">[2713898](https://support.microsoft.com/help/2713898) Errore "Si è verificato un problema durante l'accesso al sito" in AD FS quando un utente federato accede a Microsoft 365, Azure o Intune.</span><span class="sxs-lookup"><span data-stu-id="49aae-105">[2713898](https://support.microsoft.com/help/2713898)  "There was a problem accessing the site" error from AD FS when a federated user signs in to Microsoft 365, Azure, or Intune.</span></span>
+- <span data-ttu-id="e94fc-105">[2713898](https://support.microsoft.com/help/2713898) Errore "Si è verificato un problema durante l'accesso al sito" in AD FS quando un utente federato accede a Microsoft 365, Azure o Intune.</span><span class="sxs-lookup"><span data-stu-id="e94fc-105">[2713898](https://support.microsoft.com/help/2713898)  "There was a problem accessing the site" error from AD FS when a federated user signs in to Microsoft 365, Azure, or Intune.</span></span>
 
-- <span data-ttu-id="49aae-106">[2535191](https://support.microsoft.com/help/2535191) Errore "Spiacenti. Impossibile autenticare l'utente." e "80048163" quando un utente federato prova ad accedere a Microsoft 365, Azure o Intune.</span><span class="sxs-lookup"><span data-stu-id="49aae-106">[2535191](https://support.microsoft.com/help/2535191) "Sorry, but we're having trouble signing you in" and "80048163" error when a federated user tries to sign in to Microsoft 365, Azure, or Intune.</span></span>
+- <span data-ttu-id="e94fc-106">[2535191](https://support.microsoft.com/help/2535191) Errore "Spiacenti. Impossibile autenticare l'utente." e "80048163" quando un utente federato prova ad accedere a Microsoft 365, Azure o Intune.</span><span class="sxs-lookup"><span data-stu-id="e94fc-106">[2535191](https://support.microsoft.com/help/2535191) "Sorry, but we're having trouble signing you in" and "80048163" error when a federated user tries to sign in to Microsoft 365, Azure, or Intune.</span></span>
 
-- <span data-ttu-id="49aae-107">[2647020](https://support.microsoft.com/help/2647020) Errore "Spiacenti. Impossibile autenticare l'utente." e "80041317" o "80043431" quando un utente federato prova ad accedere a Microsoft 365, Azure o Intune.</span><span class="sxs-lookup"><span data-stu-id="49aae-107">[2647020](https://support.microsoft.com/help/2647020)   "Sorry, but we're having trouble signing you in" and "80041317" or "80043431" error when a federated user tries to sign in to Microsoft 365, Azure, or Intune.</span></span>
+- <span data-ttu-id="e94fc-107">[2647020](https://support.microsoft.com/help/2647020) Errore "Spiacenti. Impossibile autenticare l'utente." e "80041317" o "80043431" quando un utente federato prova ad accedere a Microsoft 365, Azure o Intune.</span><span class="sxs-lookup"><span data-stu-id="e94fc-107">[2647020](https://support.microsoft.com/help/2647020)   "Sorry, but we're having trouble signing you in" and "80041317" or "80043431" error when a federated user tries to sign in to Microsoft 365, Azure, or Intune.</span></span>
 
-<span data-ttu-id="49aae-108">Per ulteriori informazioni, vedere [Aggiornare o ripristinare le impostazioni di un dominio federato in Microsoft 365, Azure o Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).</span><span class="sxs-lookup"><span data-stu-id="49aae-108">For more information, see [Update or repair the settings of a federated domain in Microsoft 365, Azure, or Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).</span></span>
+<span data-ttu-id="e94fc-108">Per ulteriori informazioni, vedere [Aggiornare o ripristinare le impostazioni di un dominio federato in Microsoft 365, Azure o Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).</span><span class="sxs-lookup"><span data-stu-id="e94fc-108">For more information, see [Update or repair the settings of a federated domain in Microsoft 365, Azure, or Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).</span></span>
