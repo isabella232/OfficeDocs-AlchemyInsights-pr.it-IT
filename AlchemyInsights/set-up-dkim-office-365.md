@@ -5,16 +5,17 @@ author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b34bfdafcab6229a4dd2e9d9f23103fa13556482
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509388"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47808711"
 ---
 # <a name="setup-dkim"></a>Setup DKIM
 
@@ -24,19 +25,19 @@ Di [seguito](https://docs.microsoft.com/microsoft-365/security/office-365-securi
 
    I record CNAME di DKIM per **ogni** dominio personalizzato utilizzano i formati seguenti:
 
-   - **Nome host**:`selector1._domainkey.<CustomDomain>`
+   - **Nome host**: `selector1._domainkey.<CustomDomain>`
 
-     **Punta all'indirizzo o al valore**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
-
-     **TTL**: 3600
-
-   - **Nome host**:`selector2._domainkey.<CustomDomain>`
-
-     **Punta all'indirizzo o al valore**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Punta all'indirizzo o al valore**: `selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\>è il testo a sinistra del `.mail.protection.outlook.com` record MX personalizzato per il dominio personalizzato, ad esempio `contoso-com` per il dominio contoso.com. \<InitialDomain\>è il dominio utilizzato per l'accesso a Microsoft 365 (ad esempio, contoso.onmicrosoft.com).
+   - **Nome host**: `selector2._domainkey.<CustomDomain>`
+
+     **Punta all'indirizzo o al valore**: `selector2-<DomainGUID>._domainkey.<InitialDomain>`
+
+     **TTL**: 3600
+
+   \<DomainGUID\> è il testo a sinistra del `.mail.protection.outlook.com` record MX personalizzato per il dominio personalizzato, ad esempio `contoso-com` per il dominio contoso.com. \<InitialDomain\> è il dominio utilizzato per l'accesso a Microsoft 365 (ad esempio, contoso.onmicrosoft.com).
 
 2. Dopo aver creato i record CNAME per i domini personalizzati, completare le seguenti istruzioni:
 
