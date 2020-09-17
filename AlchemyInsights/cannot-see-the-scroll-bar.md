@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002966"
 - "5671"
-ms.openlocfilehash: 538bc0e9248c1aee67186b747fd0391e54aca6a9
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: b4dbc0bc485068ad63b002131e62c6d040c40740
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44269133"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47805971"
 ---
-# <a name="cannot-see-the-scroll-bar"></a><span data-ttu-id="85de2-102">Impossibile visualizzare la barra di scorrimento</span><span class="sxs-lookup"><span data-stu-id="85de2-102">Cannot see the scroll bar</span></span>
+# <a name="cannot-see-the-scroll-bar"></a><span data-ttu-id="76b20-102">Impossibile visualizzare la barra di scorrimento</span><span class="sxs-lookup"><span data-stu-id="76b20-102">Cannot see the scroll bar</span></span>
 
-<span data-ttu-id="85de2-103">In Outlook.com, la barra di scorrimento diventa visibile solo se il mouse si trova nel riquadro delle cartelle.</span><span class="sxs-lookup"><span data-stu-id="85de2-103">In Outlook.com, the scroll bar only becomes visible when the mouse is in the folder pane.</span></span>
+<span data-ttu-id="76b20-103">In Outlook.com, la barra di scorrimento diventa visibile solo se il mouse si trova nel riquadro delle cartelle.</span><span class="sxs-lookup"><span data-stu-id="76b20-103">In Outlook.com, the scroll bar only becomes visible when the mouse is in the folder pane.</span></span>
 
 ![Posizionare il puntatore del mouse sulla barra di scorrimento della posta in arrivo](media/16353_mouse_over_inbox_scrollbar-225x292.gif)
