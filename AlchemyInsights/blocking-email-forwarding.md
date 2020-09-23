@@ -14,15 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 71ac34539a2eac6b308aa5f42520e7c764524d5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
+ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685458"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48219859"
 ---
-# <a name="block-email-forwarding"></a>Blocca inoltro della posta elettronica
+# <a name="blocking-or-unblocking-email-forwarding"></a>Blocco o sblocco dell'inoltro della posta elettronica
 
-Per disabilitare l'inoltro della posta elettronica per una cassetta postale specifica, vedere [Configure email forwarding](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Per abilitare o disabilitare l'inoltro della posta elettronica per una cassetta postale specifica, vedere [Configure email forwarding](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Per bloccare l'inoltro della posta elettronica per l'intera organizzazione, [i diversi modi per bloccare l'inoltro automatico della posta elettronica in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+A livello di tenant, il controllo dell'inoltro esterno viene effettuato utilizzando il criterio di protezione dalla posta indesiderata in uscita. Se è impostato su disattivato o automatico, potrebbe bloccare l'inoltro della posta elettronica con il messaggio di errore "550 5.7.520 Access Denied, l'organizzazione non consente l'inoltro esterno". Successivamente, se l'inoltro è stato impostato per essere bloccato, questo è l'errore che vedranno gli utenti.
+
+Se l'inoltro viene bloccato, verificare che i criteri siano configurati per abilitare l'inoltro AutoForward esterno. È possibile controllare il criterio del filtro della posta indesiderata in uscita dal centro sicurezza e conformità o eseguendo il comando Get-HostedOutboundSpamFilterPolicy | nome FL, AutoForwardingMode. Se si desidera configurare il blocco AutoForward, lo stesso comando diranno lo stato dei criteri ora.
+
+Nota: si consiglia di mantenere disattivata l'AutoForward esterno sui criteri di filtro della posta indesiderata in uscita predefiniti e di abilitarla solo per gli utenti che hanno bisogno di un inoltro esterno creando un criterio personalizzato per tali utenti. Per ulteriori informazioni, vedere [configurazione dell'inoltro della posta elettronica esterno in Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
