@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676994"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236129"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problemi di accesso a Microsoft 365 Apps
 
@@ -25,6 +25,8 @@ Per risolvere i problemi di accesso con le app di Microsoft 365, provare le opzi
 
 - Per Windows, vedere [consigli per la risoluzione dei problemi di accesso comuni](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Per Mac, vedere  [Impossibile accedere a un'app di Office 2016 per Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Suggerimento** Nei computer Windows, è possibile diagnosticare e risolvere automaticamente diversi problemi comuni di accesso di Office. Scaricare ed eseguire l'  **[Assistente di supporto e ripristino di Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** per utilizzare lo strumento automatizzato.
 
 **Nota:** La disabilitazione dell'autenticazione moderna (ADAL) o della gestione degli account Web (WAM) per la risoluzione dei problemi di accesso o di attivazione  **non è consigliata**. Se si verificano errori durante la connessione a Microsoft 365 con Office 2013, verificare che sia [abilitata l'autenticazione moderna](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  per il client di Office.
 
