@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b6945d7e8b201cfc37900bed11bfb64ad1838efc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e4fe5401663eaf7a332b7dac6a786a05656f63f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697993"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236057"
 ---
 # <a name="activating-microsoft-365-apps"></a>Attivazione delle app di Microsoft 365
 
@@ -34,7 +34,9 @@ Per risolvere i problemi di attivazione di Office, vedere:
 - Eseguire lo [strumento di risoluzione dei problemi di attivazione](https://aka.ms/SARA-OfficeActivation-Alchemy) e riavviare il computer.
 - [Errori di attivazione e di tipo Prodotto senza licenza in Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
-- [Cosa fare se non è possibile installare o attivare Microsoft Office per Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+- [Cosa fare se non è possibile installare o attivare Office per Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+
+**Suggerimento:** nei computer Windows è possibile diagnosticare e risolvere automaticamente diversi problemi comuni di accesso a Office. Scaricare ed eseguire l'**[Assistente supporto e ripristino di Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** per usare il tool automatizzato.
 
 Se non è possibile accedere alle app di Microsoft 365, seguire la procedura seguente:
 
