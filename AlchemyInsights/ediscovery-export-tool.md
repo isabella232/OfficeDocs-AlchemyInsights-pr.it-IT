@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711099"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277943"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Non è possibile installare o eseguire lo strumento di esportazione di eDiscovery?
 
@@ -47,4 +47,5 @@ Se non è possibile installare o eseguire lo strumento di esportazione di eDisco
 - Al centro sicurezza e conformità di Microsoft 365 è assegnato il ruolo Export &amp; . Per impostazione predefinita, questo ruolo viene assegnato solo al gruppo di ruoli eDiscovery Manager. Vedere [assegnare le autorizzazioni di eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Per ulteriori informazioni, vedere [Export content search results](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
-  
+
+Se si stanno esportando più di 100K cassette postali, è necessario utilizzare la seguente PowerShell per scaricare i risultati di esportazione:  [esportare i risultati da più di 100K cassette postali](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
