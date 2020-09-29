@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744630"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236093"
 ---
 # <a name="unable-to-activate-office"></a>Non è possibile attivare Office
 
@@ -26,6 +26,8 @@ ms.locfileid: "47744630"
 - Assicurarsi che l'utente acceda a Office con lo stesso account a cui è assegnata la licenza.
 - Controllare la [pagina sull'integrità dei servizi di Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) per verificare se sono presenti problemi noti con il servizio.
 - Controllare le impostazioni del firewall, del software antivirus e del proxy per confermare che non stanno bloccando l'accesso delle app di Microsoft 365 a Internet. Vedere [URL e intervalli di indirizzi IP per Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Intervalli di indirizzi IP e URL di Office 365").
+
+**Suggerimento:** nei computer Windows è possibile diagnosticare e risolvere automaticamente diversi problemi comuni di accesso a Office. Scaricare ed eseguire l'**[Assistente supporto e ripristino di Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** per usare il tool automatizzato.
 
 Utilizzare le seguenti opzioni di risoluzione dei problemi:
 
