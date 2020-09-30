@@ -2,8 +2,8 @@
 title: Come riattivare e gestire il rinnovo
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,37 +14,30 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: ef035f1e75756342cce48de7d00adfee7c74caf0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2d3daba78f9f33bb17219b8987689d5992dcdbe
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779559"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307058"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Come riattivare e gestire la fatturazione ricorrente
+# <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Come riattivare un abbonamento e gestire la fatturazione ricorrente
 
 Ha l'aspetto di un abbonamento scaduto. Se si desidera riattivarlo, ecco come fare.
   
-1. Nell'interfaccia di amministrazione, andare alla pagina **fatturazione** dei \> **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Nell'interfaccia di amministrazione passare alla pagina di **Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Nella scheda **prodotti** individuare la sottoscrizione che si desidera riattivare. Selezionare **altre azioni** (tre punti) e quindi selezionare **riattiva la sottoscrizione**.
+3. Nel riquadro **riattivare la sottoscrizione** , selezionare un metodo di pagamento nell'elenco a discesa oppure selezionare **Aggiungi metodo di pagamento**.
+4. Selezionare **Salva**.
 
-2. Trovare l'abbonamento da riattivare. Nella sezione **fatturazione** selezionare  **riattiva**.
+Per altre informazioni, vedere [Riattiva l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).
 
-    Se non si visualizza **riattivazione** come opzione, utilizzare il pulsante "serve aiuto" per comunicare con un tecnico del supporto per riattivare l'abbonamento.
-
-3. Confermare i dettagli sul pagamento. È possibile aggiornare le attuali informazioni sul pagamento. Quando hai finito di immettere il metodo di pagamento, seleziona **riattiva**.
-
-Per altre informazioni, vedere [Riattiva l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription). 
-
-Per gestire la fatturazione mensile o annuale è possibile attivare o disattivare la **fatturazione ricorrente** .
+Per gestire la fatturazione mensile o annuale si può attivare o disattivare la **Fatturazione ricorrente**.
   
-1. Nell'interfaccia di amministrazione, andare alla pagina **fatturazione** dei \> **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Scegliere l'abbonamento per cui si vuole gestire la fatturazione ricorrente.
-
-3. In **Fatturazione**, accanto a **Data rinnovo** o **Data scadenza** selezionare **modifica**.
-
-4. Nel riquadro **Impostazioni della fatturazione** ricorrente selezionare **Disattiva** per disattivarla. Se la fatturazione ricorrente è già disattivata, selezionare **Mensile** o **Una volta** per attivarla.
-
-5. Selezionare **Invia modifica**.
+1. Nell'interfaccia di amministrazione passare alla pagina**Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Nella scheda **prodotti** selezionare l'abbonamento che si desidera modificare.
+3. Nella pagina Dettagli abbonamento, in **Impostazioni abbonamento e pagamento**, selezionare **Modifica fatturazione ricorrente**.
+4. Nel riquadro **Modifica impostazioni fatturazione ricorrente**, selezionare **Attiva**, **Attiva, ma rinnova una volta**, oppure **Disattiva**.
+5. Selezionare **Salva**.
 
 Per altre informazioni, vedere [Attivare o disattivare la fatturazione ricorrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
