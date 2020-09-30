@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 4d4bee18d5ce8ff7ee56af00783c128566295a79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50b1060b46d09276629d8a30fc3c750f9faab648
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704958"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277896"
 ---
 # <a name="help-with-presence-in-microsoft-teams"></a>Assistenza con la presenza in Microsoft Teams
 
-La presenza è inclusa nel profilo degli utenti di Microsoft Teams e ovunque in Microsoft 365 oppure Office 365 e indica la disponibilità e lo stato correnti dell'utente. Per impostazione predefinita, tutti gli utenti dell'organizzazione che usano Teams possono vedere, praticamente in tempo reale, se gli altri utenti sono disponibili online.
+La presenza fa parte del profilo utente in Microsoft Teams (e in tutto Microsoft 365 o Office 365). Teams rileva automaticamente lo stato (disponibile, assente, occupato, in riunione, non disturbare) e aggiorna le informazioni sulla presenza. Per impostazione predefinita, tutti gli utenti dell'organizzazione che usano Teams possono vedere (praticamente in tempo reale) se gli altri utenti sono disponibili online.
 
-Per altre informazioni su come funziona la presenza configurata per le app, vedere [presenza degli utenti in Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
+Lo stato di presenza corrente cambia in **Assente** quando si blocca il computer o quando si attiva la modalità di sospensione. In un dispositivo mobile, lo stato di presenza viene impostato su **Assente** quando l'app Teams è in background.
 
-Per informazioni dettagliate su come funziona la presenza di Teams quando l'organizzazione usa anche Skype for business, vedere [Coesistenza con Skype for Business](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence#presence).
+Per altre informazioni sugli stati di presenza, vedere [Presenza dell’utente in Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
+
+Microsoft sta [implementando un importante aggiornamento](https://www.microsoft.com/microsoft-365/roadmap?filters=Microsoft%20Teams&searchterms=presence) sulla presenza per Microsoft Teams. È stata riprogettata la presenza per supportare gli aggiornamenti in tempo reale che consentiranno di migliorare l'affidabilità dell'indicatore di presenza.

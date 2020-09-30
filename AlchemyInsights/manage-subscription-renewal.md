@@ -1,8 +1,8 @@
 ---
 title: Gestire il rinnovo dell'abbonamento
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,20 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 0c85962d4c1f07a14cea0ef8896359c802fa499d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17ec34814ffe59ba6370ea046494db6345eff499
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777867"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286926"
 ---
 # <a name="manage-subscription-renewal"></a>Gestire il rinnovo dell'abbonamento
 
 Per gestire la fatturazione mensile o annuale si può attivare o disattivare la **Fatturazione ricorrente**.
 
-1. Nell'interfaccia di amministrazione passare alla pagina**Fatturazione** > **[I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Scegliere l'abbonamento per cui si vuole gestire la fatturazione ricorrente.
-
-3. In **Fatturazione**, accanto a **Data rinnovo** o **Data scadenza** fare clic su **modifica**.
-
-4. Nel riquadro **Impostazioni della fatturazione ricorrente** fare clic su **Disattiva** per disattivarla. Se la fatturazione ricorrente è già disattivata, fare clic su **Mensile** o **Una volta** per attivarla.
-
-5. Fare clic su **Invia modifica**.
+1. Nell'interfaccia di amministrazione passare alla pagina di **Fatturazione** > **[I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Nella scheda **Prodotti**, trovare l'abbonamento che si vuole gestire, selezionare **Altre azioni** (tre puntini), poi selezionare **Modifica fatturazione ricorrente**.
+3. Nel riquadro **Modifica fatturazione ricorrente**, selezionare **Attivata**, **Attivata, rinnova una volta** o **Disattivata**.
+4. Selezionare **Salva**.
 
 Per altre informazioni, vedere [Attivare o disattivare la fatturazione ricorrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

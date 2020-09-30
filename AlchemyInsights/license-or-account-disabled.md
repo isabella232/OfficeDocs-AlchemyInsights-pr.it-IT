@@ -1,8 +1,8 @@
 ---
 title: Licenza o account disabilitato
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "3764"
-ms.openlocfilehash: 465b61ad0319f533656effa2b6b09f0194260920
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14ce58da129f0a16b280d4fd85a0bc28c2c0282f
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676059"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286674"
 ---
 # <a name="license-or-account-disabled"></a>Licenza o account disabilitato
 
@@ -25,14 +25,11 @@ Se l'abbonamento è scaduto, è stato disabilitato da Microsoft oppure è stato 
 
 **Riattivare un abbonamento**
 
-1. Nell'interfaccia di amministrazione passare alla pagina di **fatturazione** > **[I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Trovare l'abbonamento da riattivare.
-
-3. Nella sezione **Fatturazione** fare clic su **Riattiva ora**. Se si è in visualizzazione **Schede**, fare clic sui puntini di sospensione tra il **Nome** e la **Quantità disponibile** e quindi scegliere **Riattiva** dal menu.
-
-**Nota**: se l'abbonamento che si sta cercando non viene visualizzato, potrebbe essere necessario modificare il filtro dello **Stato abbonamento** nella parte superiore della pagina impostandolo su **Tutto**.
-
-4. Confermare i dettagli del pagamento per aggiornare le informazioni di pagamento esistenti. Dopo aver immesso la modalità di pagamento, fare clic su **Riattiva**.
+1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Nella scheda **Prodotti**, trovare l'abbonamento da riattivare. Selezionare **Altre azioni** (tre puntini), poi **Riattiva l’abbonamento**.
+    > [!NOTE]
+    > Se non è possibile visualizzare **Riattiva l’abbonamento**, contattare il supporto.
+3. Nel riquadro **Riattiva l’abbonamento** selezionare una modalità di pagamento nell'elenco a discesa oppure selezionare **Aggiungi modalità di pagamento**.
+4. Selezionare **Salva**.
 
 Per altre informazioni, vedere [Riattivare l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
