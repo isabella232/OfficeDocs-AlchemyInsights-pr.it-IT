@@ -2,8 +2,8 @@
 title: Come riattivare e gestire il rinnovo
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,37 +14,30 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: ef035f1e75756342cce48de7d00adfee7c74caf0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2d3daba78f9f33bb17219b8987689d5992dcdbe
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779559"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307058"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a><span data-ttu-id="0b2c1-102">Come riattivare e gestire la fatturazione ricorrente</span><span class="sxs-lookup"><span data-stu-id="0b2c1-102">How to reactivate and manage recurring billing</span></span>
+# <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a><span data-ttu-id="110d0-102">Come riattivare un abbonamento e gestire la fatturazione ricorrente</span><span class="sxs-lookup"><span data-stu-id="110d0-102">How to reactivate a subscription and manage recurring billing</span></span>
 
-<span data-ttu-id="0b2c1-103">Ha l'aspetto di un abbonamento scaduto.</span><span class="sxs-lookup"><span data-stu-id="0b2c1-103">Looks like you have a subscription that has expired.</span></span> <span data-ttu-id="0b2c1-104">Se si desidera riattivarlo, ecco come fare.</span><span class="sxs-lookup"><span data-stu-id="0b2c1-104">If you would like to reactivate it, here's how.</span></span>
+<span data-ttu-id="110d0-103">Ha l'aspetto di un abbonamento scaduto.</span><span class="sxs-lookup"><span data-stu-id="110d0-103">Looks like you have a subscription that has expired.</span></span> <span data-ttu-id="110d0-104">Se si desidera riattivarlo, ecco come fare.</span><span class="sxs-lookup"><span data-stu-id="110d0-104">If you would like to reactivate it, here's how.</span></span>
   
-1. <span data-ttu-id="0b2c1-105">Nell'interfaccia di amministrazione, andare alla pagina **fatturazione** dei \> **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="0b2c1-105">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="110d0-105">Nell'interfaccia di amministrazione passare alla pagina di **Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="110d0-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="110d0-106">Nella scheda **prodotti** individuare la sottoscrizione che si desidera riattivare.</span><span class="sxs-lookup"><span data-stu-id="110d0-106">On the **Products** tab, find the subscription that you want to reactivate.</span></span> <span data-ttu-id="110d0-107">Selezionare **altre azioni** (tre punti) e quindi selezionare **riattiva la sottoscrizione**.</span><span class="sxs-lookup"><span data-stu-id="110d0-107">Select **More actions** (three dots), then select **Reactivate this subscription**.</span></span>
+3. <span data-ttu-id="110d0-108">Nel riquadro **riattivare la sottoscrizione** , selezionare un metodo di pagamento nell'elenco a discesa oppure selezionare **Aggiungi metodo di pagamento**.</span><span class="sxs-lookup"><span data-stu-id="110d0-108">In the **Reactivate this subscription** pane, select a payment method from the drop-down list, or select **Add payment method**.</span></span>
+4. <span data-ttu-id="110d0-109">Selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="110d0-109">Select **Save**.</span></span>
 
-2. <span data-ttu-id="0b2c1-106">Trovare l'abbonamento da riattivare.</span><span class="sxs-lookup"><span data-stu-id="0b2c1-106">Find the subscription that you want to reactivate.</span></span> <span data-ttu-id="0b2c1-107">Nella sezione **fatturazione** selezionare  **riattiva**.</span><span class="sxs-lookup"><span data-stu-id="0b2c1-107">In the **Billing** section, select  **Reactivate**.</span></span>
+<span data-ttu-id="110d0-110">Per altre informazioni, vedere [Riattiva l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="110d0-110">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).</span></span>
 
-    <span data-ttu-id="0b2c1-108">Se non si visualizza **riattivazione** come opzione, utilizzare il pulsante "serve aiuto" per comunicare con un tecnico del supporto per riattivare l'abbonamento.</span><span class="sxs-lookup"><span data-stu-id="0b2c1-108">If you do not see **Reactivate** as an option, use the "Need help" button to talk to a support engineer to reactivate your subscription.</span></span>
-
-3. <span data-ttu-id="0b2c1-109">Confermare i dettagli sul pagamento.</span><span class="sxs-lookup"><span data-stu-id="0b2c1-109">Confirm your payment details.</span></span> <span data-ttu-id="0b2c1-110">È possibile aggiornare le attuali informazioni sul pagamento.</span><span class="sxs-lookup"><span data-stu-id="0b2c1-110">You can update your existing payment information here.</span></span> <span data-ttu-id="0b2c1-111">Quando hai finito di immettere il metodo di pagamento, seleziona **riattiva**.</span><span class="sxs-lookup"><span data-stu-id="0b2c1-111">When you're finished entering your payment method, select **Reactivate**.</span></span>
-
-<span data-ttu-id="0b2c1-112">Per altre informazioni, vedere [Riattiva l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="0b2c1-112">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).</span></span> 
-
-<span data-ttu-id="0b2c1-113">Per gestire la fatturazione mensile o annuale è possibile attivare o disattivare la **fatturazione ricorrente** .</span><span class="sxs-lookup"><span data-stu-id="0b2c1-113">To manage monthly or yearly billing you can toggle **Recurring billing** on or off.</span></span>
+<span data-ttu-id="110d0-111">Per gestire la fatturazione mensile o annuale si può attivare o disattivare la **Fatturazione ricorrente**.</span><span class="sxs-lookup"><span data-stu-id="110d0-111">To manage monthly or yearly billing, you can toggle **Recurring billing** on or off.</span></span>
   
-1. <span data-ttu-id="0b2c1-114">Nell'interfaccia di amministrazione, andare alla pagina **fatturazione** dei \> **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="0b2c1-114">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="110d0-112">Nell'interfaccia di amministrazione passare alla pagina**Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="110d0-112">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="110d0-113">Nella scheda **prodotti** selezionare l'abbonamento che si desidera modificare.</span><span class="sxs-lookup"><span data-stu-id="110d0-113">On the **Products** tab, select the subscription that you want to change.</span></span>
+3. <span data-ttu-id="110d0-114">Nella pagina Dettagli abbonamento, in **Impostazioni abbonamento e pagamento**, selezionare **Modifica fatturazione ricorrente**.</span><span class="sxs-lookup"><span data-stu-id="110d0-114">On the subscription details page, under **Subscription and payment settings**, select **Edit recurring billing**.</span></span>
+4. <span data-ttu-id="110d0-115">Nel riquadro **Modifica impostazioni fatturazione ricorrente**, selezionare **Attiva**, **Attiva, ma rinnova una volta**, oppure **Disattiva**.</span><span class="sxs-lookup"><span data-stu-id="110d0-115">In the **Edit recurring billing settings** pane, select **On**, **On, but renew once**, or **Turn off**.</span></span>
+5. <span data-ttu-id="110d0-116">Selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="110d0-116">Select **Save**.</span></span>
 
-2. <span data-ttu-id="0b2c1-115">Scegliere l'abbonamento per cui si vuole gestire la fatturazione ricorrente.</span><span class="sxs-lookup"><span data-stu-id="0b2c1-115">Choose the subscription for which you want to manage recurring billing.</span></span>
-
-3. <span data-ttu-id="0b2c1-116">In **Fatturazione**, accanto a **Data rinnovo** o **Data scadenza** selezionare **modifica**.</span><span class="sxs-lookup"><span data-stu-id="0b2c1-116">Under **Billing**, next to **Renews on** or **Expiring on**, select **edit**.</span></span>
-
-4. <span data-ttu-id="0b2c1-117">Nel riquadro **Impostazioni della fatturazione** ricorrente selezionare **Disattiva** per disattivarla.</span><span class="sxs-lookup"><span data-stu-id="0b2c1-117">In the **Recurring billing settings** pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="0b2c1-118">Se la fatturazione ricorrente è già disattivata, selezionare **Mensile** o **Una volta** per attivarla.</span><span class="sxs-lookup"><span data-stu-id="0b2c1-118">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
-
-5. <span data-ttu-id="0b2c1-119">Selezionare **Invia modifica**.</span><span class="sxs-lookup"><span data-stu-id="0b2c1-119">Select **Submit change**.</span></span>
-
-<span data-ttu-id="0b2c1-120">Per altre informazioni, vedere [Attivare o disattivare la fatturazione ricorrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="0b2c1-120">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
+<span data-ttu-id="110d0-117">Per altre informazioni, vedere [Attivare o disattivare la fatturazione ricorrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="110d0-117">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>

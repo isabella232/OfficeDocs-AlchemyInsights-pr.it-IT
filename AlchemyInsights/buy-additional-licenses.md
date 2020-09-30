@@ -2,7 +2,7 @@
 title: Acquistare licenze aggiuntive
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,28 +13,23 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: c228e9e7ffea4c1858c2c17a813b90f064a242a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725555"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307201"
 ---
-# <a name="buy-additional-licenses"></a><span data-ttu-id="392fe-102">Acquistare licenze aggiuntive</span><span class="sxs-lookup"><span data-stu-id="392fe-102">Buy additional licenses</span></span>
+# <a name="buy-additional-licenses"></a><span data-ttu-id="afe93-102">Acquistare licenze aggiuntive</span><span class="sxs-lookup"><span data-stu-id="afe93-102">Buy additional licenses</span></span>
 
-1. <span data-ttu-id="392fe-103">Nell'interfaccia di amministrazione, andare alla pagina **fatturazione** dei \> **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="392fe-103">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="afe93-103">Nell'interfaccia di amministrazione passare alla pagina di **Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="afe93-103">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="afe93-104">Nella scheda **prodotti** individuare la sottoscrizione per la quale si desidera acquistare o rimuovere licenze.</span><span class="sxs-lookup"><span data-stu-id="afe93-104">On the **Products** tab, find the subscription for which you want to buy or remove licenses.</span></span> <span data-ttu-id="afe93-105">Selezionare **altre azioni** (tre punti), quindi selezionare **Acquista licenze**.</span><span class="sxs-lookup"><span data-stu-id="afe93-105">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
+3. <span data-ttu-id="afe93-106">Se si desidera ridurre il numero di licenze, nella parte superiore del riquadro **Acquista licenze** selezionare **Rimuovi licenze**.</span><span class="sxs-lookup"><span data-stu-id="afe93-106">If you want to decrease the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
+4. <span data-ttu-id="afe93-107">Per acquistare o rimuovere licenze, in **nuova quantità** nella casella **Totale licenze** immettere il numero totale di licenze desiderate per la sottoscrizione.</span><span class="sxs-lookup"><span data-stu-id="afe93-107">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="afe93-108">Ad esempio, se si dispone di 100 licenze e si desidera aggiungere altre 25, immettere 125.</span><span class="sxs-lookup"><span data-stu-id="afe93-108">For example, if you have 100 licenses and you want to add 25 more, enter 125.</span></span> <span data-ttu-id="afe93-109">Se si desidera rimuovere 25 licenze, immettere 75.</span><span class="sxs-lookup"><span data-stu-id="afe93-109">If you want to remove 25 licenses, enter 75.</span></span>
+5. <span data-ttu-id="afe93-110">Selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="afe93-110">Select **Save**.</span></span>
 
-2. <span data-ttu-id="392fe-104">Individuare l'abbonamento a cui si desidera aggiungere licenze, quindi selezionare **Aggiungi/Rimuovi licenze**.</span><span class="sxs-lookup"><span data-stu-id="392fe-104">Find the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
+<span data-ttu-id="afe93-111">Per ulteriori informazioni, vedere [acquistare licenze per l'abbonamento a Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="afe93-111">To learn more, see [Buy licenses for your Microsoft 365 for business subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
 
-    [<span data-ttu-id="392fe-105">Cosa fare se non si Visualizza il collegamento Aggiungi/Rimuovi?</span><span class="sxs-lookup"><span data-stu-id="392fe-105">What if I don't see the Add/Remove link?</span></span>](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+<span data-ttu-id="afe93-112">**Risorse aggiuntive**</span><span class="sxs-lookup"><span data-stu-id="afe93-112">**Additional Resources**</span></span>
 
-3. <span data-ttu-id="392fe-106">Nella casella **Totale licenze** immettere il numero totale di licenze necessarie per l'abbonamento e quindi scegliere **Invia modifica**.</span><span class="sxs-lookup"><span data-stu-id="392fe-106">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then choose **Submit change**.</span></span> <span data-ttu-id="392fe-107">Se, ad esempio, si hanno 100 licenze e occorre aggiungerne altre 5, immettere 105.</span><span class="sxs-lookup"><span data-stu-id="392fe-107">For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
-
-    > [!NOTE]
-    > <span data-ttu-id="392fe-108">Se il pagamento dell'abbonamento viene effettuato con carta di credito o conto corrente bancario, le nuove licenze acquistate sono disponibili subito dopo la ricezione della conferma dell'ordine.</span><span class="sxs-lookup"><span data-stu-id="392fe-108">If you pay for your subscription by credit card or bank account, any new licenses that you buy are available immediately after you receive an order confirmation.</span></span> <span data-ttu-id="392fe-109">Se si sceglie il pagamento con fattura, potrebbe essere necessario attendere la verifica del credito prima che le nuove licenze siano disponibili.</span><span class="sxs-lookup"><span data-stu-id="392fe-109">If you pay by invoice, you might have to wait for a credit check before your new licenses are available to use.</span></span>
-
-<span data-ttu-id="392fe-110">Per ulteriori informazioni, vedere [acquistare licenze per l'abbonamento a Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="392fe-110">To learn more, see [Buy licenses for your Microsoft 365 for business subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>  
-
-<span data-ttu-id="392fe-111">**Risorse aggiuntive**</span><span class="sxs-lookup"><span data-stu-id="392fe-111">**Additional Resources**</span></span>
-
-- [<span data-ttu-id="392fe-112">Assegnare licenze agli utenti in Microsoft 365 for business</span><span class="sxs-lookup"><span data-stu-id="392fe-112">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [<span data-ttu-id="afe93-113">Assegnare licenze agli utenti in Microsoft 365 for business</span><span class="sxs-lookup"><span data-stu-id="afe93-113">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
