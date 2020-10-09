@@ -4,7 +4,7 @@ title: "rapporto di mancato recapito con codice di errore" 554 5.2.2 Mailbox Ful
 - 3500007
 ---
 
-# <a name="ndr-with-error-code-554-522-mailbox-full"></a>Rapporto di mancato recapito con codice di errore "554 5.2.2 Mailbox Full"
+# <a name="ndr-with-error-code-554-522-mailbox-full"></a>Rapporto di mancato recapito con codice di errore 554 5.2.2 Mailbox Full
 
 Se si riceve un rapporto di mancato recapito con codice di errore "554 5.2.2 Mailbox Full", quando si inviano messaggi di posta elettronica a una cartella pubblica abilitata all'utilizzo  
 
