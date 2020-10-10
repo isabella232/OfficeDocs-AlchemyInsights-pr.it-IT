@@ -1,8 +1,8 @@
 ---
 title: Default Renew subsscription
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745863"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416623"
 ---
 # <a name="renewing-your-subscription"></a>Rinnovo dell'abbonamento
 
@@ -25,8 +25,10 @@ Se si paga con carta di credito o conto corrente bancario, la fatturazione ricor
 
 Se l'abbonamento è stato prepagato con un codice Product Key, l'abbonamento scadrà alla fine del periodo di sottoscrizione. È possibile abilitare la fatturazione ricorrente e fornire le informazioni sulla carta di credito o sul conto corrente bancario in modo che la sottoscrizione continuerà a essere addebitata ogni anno nel giorno in cui è stato sottoscritto.
 
-Per abilitare la fatturazione ricorrente su: 
+Per abilitare la fatturazione ricorrente su:
 
-1. Andare a **fatturazione**dei  >  **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Scegliere l'abbonamento per cui si desidera gestire la fatturazione ricorrente.
-3. In **fatturazione**, selezionare **modifica** e apportare le modifiche nella finestra **delle impostazioni di fatturazione ricorrente** . 
+1. Nell'interfaccia di amministrazione, passare alla pagina **Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Nella scheda **Prodotti**, selezionare l'abbonamento che si vuole cambiare.
+3. Nella pagina Dettagli abbonamento, in **Impostazioni abbonamento e pagamento**, selezionare **Modifica fatturazione ricorrente**.
+4. Nel riquadro **Modifica impostazioni fatturazione ricorrente**, selezionare **Attiva**, **Attiva, ma rinnova una volta**, oppure **Disattiva**.
+5. Selezionare **Salva**. 
