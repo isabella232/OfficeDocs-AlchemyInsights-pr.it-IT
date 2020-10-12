@@ -1,8 +1,8 @@
 ---
 title: Annullare l'abbonamento a Microsoft
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683262"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416470"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Annullare l'abbonamento a Microsoft
 
-1. Passare a [Servizi e abbonamenti](https://account.microsoft.com/services/) e accedere con l'account Microsoft usato per l'acquisto dell'abbonamento.
+Gli amministratori possono annullare l'abbonamento per la propria organizzazione nell'interfaccia di amministrazione di Microsoft 365.
 
-2. Trovare l'abbonamento e fare clic su **Gestisci**. Se viene visualizzato **Attiva la fatturazione ricorrente** anziché **Gestisci**, passare alla sezione Risoluzione dei problemi. In caso contrario, procedere al passaggio 3.
+1. Passare alla pagina **Fatturazione** \> [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Nella scheda **Prodotti**, trovare l'abbonamento da annullare. Selezionare **Altre azioni** (tre puntini), quindi selezionare **Annulla l’abbonamento**.
+3. Nel riquadro **Annulla abbonamento** scegliere un motivo per cui si vuole annullare l'abbonamento. Se si vuole, inviare un feedback.
+4. Selezionare **Salva**.
 
-3. Nella pagina successiva fare clic su **Annulla** o **Aggiorna o annulla**, a seconda del tipo di abbonamento.
-
-4. Seguire le istruzioni nella pagina per procedere con l'annullamento.
+**Rimborso:** eventuali crediti proporzionali verranno rimessi entro il successivo ciclo di fatturazione.
