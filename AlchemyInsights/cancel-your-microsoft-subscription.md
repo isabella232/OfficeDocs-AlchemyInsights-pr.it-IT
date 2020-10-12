@@ -1,8 +1,8 @@
 ---
 title: Annullare l'abbonamento a Microsoft
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683262"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416470"
 ---
-# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="7cada-102">Annullare l'abbonamento a Microsoft</span><span class="sxs-lookup"><span data-stu-id="7cada-102">Cancel your Microsoft subscription</span></span>
+# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="d452c-102">Annullare l'abbonamento a Microsoft</span><span class="sxs-lookup"><span data-stu-id="d452c-102">Cancel your Microsoft subscription</span></span>
 
-1. <span data-ttu-id="7cada-103">Passare a [Servizi e abbonamenti](https://account.microsoft.com/services/) e accedere con l'account Microsoft usato per l'acquisto dell'abbonamento.</span><span class="sxs-lookup"><span data-stu-id="7cada-103">Go to [Services & subscriptions](https://account.microsoft.com/services/), and sign in with the Microsoft account you used when purchasing your subscription.</span></span>
+<span data-ttu-id="d452c-103">Gli amministratori possono annullare l'abbonamento per la propria organizzazione nell'interfaccia di amministrazione di Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d452c-103">Admins can cancel the subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-2. <span data-ttu-id="7cada-104">Trovare l'abbonamento e fare clic su **Gestisci**.</span><span class="sxs-lookup"><span data-stu-id="7cada-104">Find your subscription and click **Manage**.</span></span> <span data-ttu-id="7cada-105">Se viene visualizzato **Attiva la fatturazione ricorrente** anziché **Gestisci**, passare alla sezione Risoluzione dei problemi. In caso contrario, procedere al passaggio 3.</span><span class="sxs-lookup"><span data-stu-id="7cada-105">If you see **Turn on recurring billing** instead of **Manage**, skip to the Troubleshooting section;  otherwise proceed to step 3.</span></span>
+1. <span data-ttu-id="d452c-104">Passare alla pagina **Fatturazione** \> [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="d452c-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="d452c-105">Nella scheda **Prodotti**, trovare l'abbonamento da annullare.</span><span class="sxs-lookup"><span data-stu-id="d452c-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="d452c-106">Selezionare **Altre azioni** (tre puntini), quindi selezionare **Annulla l’abbonamento**.</span><span class="sxs-lookup"><span data-stu-id="d452c-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="d452c-107">Nel riquadro **Annulla abbonamento** scegliere un motivo per cui si vuole annullare l'abbonamento.</span><span class="sxs-lookup"><span data-stu-id="d452c-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="d452c-108">Se si vuole, inviare un feedback.</span><span class="sxs-lookup"><span data-stu-id="d452c-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="d452c-109">Selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="d452c-109">Select **Save**.</span></span>
 
-3. <span data-ttu-id="7cada-106">Nella pagina successiva fare clic su **Annulla** o **Aggiorna o annulla**, a seconda del tipo di abbonamento.</span><span class="sxs-lookup"><span data-stu-id="7cada-106">On the next page, click **Cancel** or **Upgrade or Cancel**, depending on your subscription type.</span></span>
-
-4. <span data-ttu-id="7cada-107">Seguire le istruzioni nella pagina per procedere con l'annullamento.</span><span class="sxs-lookup"><span data-stu-id="7cada-107">Follow the instructions on the page to proceed with cancellation.</span></span>
+<span data-ttu-id="d452c-110">**Rimborso:** eventuali crediti proporzionali verranno rimessi entro il successivo ciclo di fatturazione.</span><span class="sxs-lookup"><span data-stu-id="d452c-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
