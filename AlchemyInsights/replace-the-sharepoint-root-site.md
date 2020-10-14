@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 47a8b8207a81bb4f22f1d739c963e5a9d468394e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f0c621d14c4dd5ca9bcd2dbbea0a9059ca55933
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692623"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451287"
 ---
 # <a name="replace-the-sharepoint-root-site"></a>Sostituire il sito radice di SharePoint
 Se si sta cercando di modernizzare il sito radice con un sito esistente o se si vuole semplicemente avere un altro sito a livello di sito radice, si può scegliere di sostituire (scambiare) i siti.
@@ -28,3 +28,4 @@ Se si sta cercando di modernizzare il sito radice con un sito esistente o se si 
 4. Specificare l'URL del sito esistente con cui effettuare la sostituzione. **Nota:** verrà indicato se il sito può essere usato come sito radice di sostituzione.
 
 Per altre informazioni sui requisiti, vedere [Modernizzare il sito radice](https://docs.microsoft.com/sharepoint/modern-root-site).
+

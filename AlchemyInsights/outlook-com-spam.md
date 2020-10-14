@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 882c2610502bdb67607a85a98c7aaa32aa77072b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f3587e5a53ea6ad7967fe4647952b4561f54e5d8
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728831"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452160"
 ---
 # <a name="spam-and-junk-email-in-outlookcom"></a>Posta indesiderata e messaggi indesiderati in Outlook.com
 
@@ -38,7 +38,7 @@ Se si sta ottenendo troppa posta indesiderata o posta indesiderata, provare ques
     1. In **mittenti e domini bloccati**selezionare **Aggiungi**.
     1. Digitare l'indirizzo di posta elettronica o il dominio che si desidera bloccare e premere INVIO.
     1. In **filtri**scegliere se si desidera considerare attendibili i messaggi di posta elettronica da indirizzi in mittenti attendibili e domini e liste di distribuzione sicure.
-    1. Selezionare **Salva**.
+    1. Seleziona **Salva**.
 
 1. **Creare una regola di posta in arrivo**
     1. Fare clic con il pulsante destro del mouse su un messaggio nell'elenco dei messaggi e scegliere **Crea regola**.
