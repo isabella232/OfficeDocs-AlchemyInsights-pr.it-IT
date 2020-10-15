@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
+ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724583"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466008"
 ---
 # <a name="microsoft-lists"></a>Microsoft Lists
 
@@ -26,11 +26,15 @@ Microsoft sta effettuando il primo rilascio di Microsoft Lists, un'app di Micros
   
 **Tempistiche**  
 
-- Implementazione avviata per le organizzazioni abilitate per il rilascio mirato.
-- Rilascio per tutte le organizzazioni entro metà ottobre 2020.
+- Implementazione completata per le organizzazioni abilitate per il rilascio mirato.
+- L'implementazione per le organizzazioni di rilascio standard è iniziato e verrà completato entro la fine di novembre 2020.
 
-Qualsiasi utente con una licenza di SharePoint può accedere all'icona Lists e iniziare a usare Microsoft Lists. La funzione al momento non può essere disabilitata dagli amministratori.
- 
-Nell'icona di avvio delle app di Microsoft 365 seleziona l'icona Lists. Crea un elenco da zero o con modelli predefiniti. È anche possibile creare nuovi elenchi da elenchi esistenti o importando i dati di Excel. Visualizza gli elenchi preferiti e recenti, inclusi gli elenchi che possiedi o che sono stati condivisi con te. È possibile creare sia elenchi personali che per team.  
+Qualsiasi utente con una licenza di SharePoint può accedere all'icona Lists e iniziare a usare Microsoft Lists.
+
+Un amministratore globale o di SharePoint in Microsoft 365 può controllare le impostazioni per Microsoft Lists. È possibile:
+
+Disabilitare la creazione di elenchi personali (impedire agli utenti di salvare nuovi elenchi in "Elenchi personali").
+Disabilitare i modelli di elenco predefiniti che non sono rilevanti per l'organizzazione.
+Vedi [Elenchi di controllo](https://docs.microsoft.com/sharepoint/control-lists)
 
 Per maggiori informazioni, visita [Microsoft Lists](https://aka.ms/microsoftlists).
