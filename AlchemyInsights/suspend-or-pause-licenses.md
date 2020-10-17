@@ -1,8 +1,8 @@
 ---
 title: Sospendere o congelare le licenze
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 7d92f1c7a03eb9eb5c195b0d3a866e1da003f45d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800180"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488921"
 ---
 # <a name="suspend-or-pause-licenses"></a>Sospendere o congelare le licenze
 
-Per sospendere temporaneamente o congelare le licenze utente, è possibile rimuovere le licenze dall'**interfaccia di amministrazione di Microsoft 365** e aggiungerle di nuovo in un secondo momento.
+Per sospendere o congelare temporaneamente l'utilizzo della licenza, è possibile rimuovere le licenze dall'interfaccia di amministrazione di Microsoft 365 e quindi aggiungerle nuovamente in un secondo momento.
 
-1. È necessario innanzitutto [rimuovere le licenze](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide) dagli utenti, prima di rimuoverle dall’abbonamento. 
+1. È necessario innanzitutto [rimuovere le licenze dagli utenti](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users), prima di rimuoverle dal proprio abbonamento. 
+2. Quindi, passare alla pagina **Fatturazione**  >  [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
+3. Nella scheda **Prodotti**, selezionare l'abbonamento che si vuole aggiornare.
+4. Nella pagina dei dettagli dell’abbonamento selezionare **Rimuovi licenze**.
+5. Nel riquadro **Rimuovi licenze**, nella casella **Licenze totali**, inserire il numero totale di licenze necessarie per l’abbonamento e quindi selezionare **Salva**. Ad esempio, se si hanno 100 licenze e si vuole sospendere o congelarne 25, immettere 75 come totale delle licenze per l'abbonamento.
 
-2. Poi passare a **Fatturazione > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-3. Nella pagina **I tuoi prodotti**, trovare l’abbonamento al quale si vogliono rimuovere le licenze, e fare clic su **Aggiungi/Rimuovi licenze**.
-
-4. Nella casella Totale licenze immettere il numero totale di licenze necessarie per l'abbonamento e quindi fare clic su **Invia modifica**. Ad esempio, se si hanno 100 licenze e si vuole sospendere o congelarne 50, immettere 50 come totale delle licenze per l'abbonamento.
-
-Per altre informazioni, vedere [Gestire le licenze di sottoscrizione](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).
+Per altre informazioni, vedere [Gestire le licenze di sottoscrizione](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
