@@ -2,8 +2,8 @@
 title: Come acquistare l'offerta per l'istruzione
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,26 +14,22 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f150066c21195f4d508755fcdea97c6f3b07e11b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703664"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489281"
 ---
-# <a name="how-to-purchase-education-offer"></a>Come acquistare l'offerta per l'istruzione
+# <a name="how-to-purchase-an-education-offer"></a>Come acquistare un'offerta didattica
 
 L'idoneità per Office 365 Education è stata approvata. Per acquistare:
   
-1. Nell'interfaccia di amministrazione, andare alla pagina **fatturazione** dei \> **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Scegliere la versione di valutazione per **studenti o docenti**.
-
-3. Nella sezione **licenze** scegliere **Acquista sottoscrizione**.
-
+1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Nella scheda **prodotti** selezionare la versione di valutazione per **studenti o docenti**.
+3. Nella sezione **licenza** della pagina Dettagli sottoscrizione selezionare **Acquista abbonamento a pagamento**.
 4. Seguire i passaggi rimanenti da estrarre.
 
-Se si desidera acquistare un abbonamento diverso da quello che è in fase di valutazione, andare alla **Billing** \> pagina [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) fatturazione e scegliere dall'elenco in piani di **formazione**.
+Se si desidera acquistare un abbonamento diverso rispetto alla sottoscrizione di valutazione, passare alla **Billing** \> pagina [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) per la fatturazione. In **piani di istruzione**selezionare il piano desiderato.
 
-Per ulteriori informazioni, vedere [acquistare lo stesso piano della versione di valutazione](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+Per ulteriori informazioni, vedere [acquistare un abbonamento dalla versione di valutazione gratuita](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
