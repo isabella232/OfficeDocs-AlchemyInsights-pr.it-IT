@@ -13,29 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: 1cc6173c1efcf46081781d5836b71ce19cfa7bc2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 144480dbed8b74f8b395b6b80c586038a1f12697
+ms.sourcegitcommit: e1d72cf118451ed62e975970e5a2faa4b13282f5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695075"
+ms.lasthandoff: 10/24/2020
+ms.locfileid: "48753675"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>Gestire le registrazioni delle riunioni per funzionalità didattiche
 
-A partire dal  **20 agosto 2020**, quando gli utenti con licenze A1 (comprese quelle A1 Plus) avvieranno una registrazione di una riunione con Teams, questa sarà disponibile per 21 giorni.
+A partire dal **20 agosto 2020** , quando gli utenti con licenze A1 (comprese quelle A1 Plus) avvieranno una registrazione di una riunione con Teams, questa sarà disponibile per 21 giorni.
 
 Per altre informazioni, incluso come salvare la riunione in un'altra posizione, vedere [Caricare una registrazione riunione di Microsoft Teams in Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
 
-È consigliabile che gli amministratori degli istituti di istruzione considerino l'uso di pacchetti di criteri per la sicurezza per gli educatori e per la sicurezza degli studenti ed educatori. Per altre informazioni, vedere:
+Ora è possibile archiviare le registrazioni delle riunioni di Microsoft Teams in OneDrive e SharePoint. Per altre informazioni e per acconsentire esplicitamente, vedere il post seguente del Centro messaggi:
 
-- [Pacchetti di criteri in Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
-    
-- [Criteri che è opportuno assegnare per la sicurezza degli studenti](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+[(Aggiornato) Microsoft Teams: registrazioni delle riunioni salvate in OneDrive e SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-- [Criteri che è opportuno assegnare agli educatori](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+Lo spostamento della posizione di archiviazione in OneDrive e SharePoint elimina il requisito precedente che nella propria area geografica sia disponibile Stream.
 
-Se si vuole gestire solo la possibilità di registrare le riunioni, vedere [attivare o disattivare la registrazione cloud](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).  
+Per informazioni su come **impedire o consentire** agli studenti di registrare riunioni in Teams, è consigliabile usare pacchetti di criteri per la sicurezza degli studenti e dei docenti. Per altre informazioni, vedere:
 
-**Nota**Le capacità di registrazione della riunione di Teams si basano sulle funzionalità regionali e nazionali di Stream. Se non riesci a registrare una riunione, vedere [Quali sono le aree geografiche in cui Microsoft Stream può ospitare i dati?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in) 
+[Pacchetti di criteri in Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).
+
+[Criteri che è opportuno assegnare per la sicurezza degli studenti](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+
+[Criteri che è opportuno assegnare agli educatori](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+
+Se si vuole gestire solo la possibilità di registrare le riunioni, vedere [attivare o disattivare la registrazione cloud](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
+
+**Nota** Se non si è ancora acconsentito esplicitamente a usare lo spazio di archiviazione di OneDrive e SharePoint per la registrazione delle riunioni di Teams, queste funzionalità si basano sulla disponibilità di Stream nel paese e nell'area geografica dell'utente. Se non riesci a registrare una riunione, vedere [Quali sono le aree geografiche in cui Microsoft Stream può ospitare i dati?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
 
 Per maggiori informazioni, vedere [Funzionalità aggiornata: controllo dello spazio di archiviazione regionale per le registrazioni cloud di Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).
