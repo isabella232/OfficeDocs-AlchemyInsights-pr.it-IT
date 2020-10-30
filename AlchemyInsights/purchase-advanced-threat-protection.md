@@ -1,5 +1,5 @@
 ---
-title: Acquistare Office 365 Advanced Threat Protection
+title: Acquistare Microsoft Defender per Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693559"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801151"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Acquistare Office 365 Advanced Threat Protection
+# <a name="purchase-microsoft-defender-for-office-365"></a>Acquistare Microsoft Defender per Office 365
 
-Office 365 Advanced Threat Protection (ATP) è incluso in alcuni abbonamenti, quali Microsoft 365 E5, Office 365 E5, Office 365 a5 e Microsoft 365 Business Premium. Se l'abbonamento non include Office 365 ATP, è possibile acquistare ATP [Plan 1o ATP Plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) come componente aggiuntivo di una sottoscrizione specifica. Per acquistare nell'interfaccia di amministrazione di Microsoft 365:
+Microsoft Defender per Office 365 (ATP) è incluso in alcuni abbonamenti, quali Microsoft 365 E5, Office 365 E5, Office 365 a5 e Microsoft 365 Business Premium. Se l'abbonamento non include Office 365 ATP, è possibile acquistare ATP [Plan 1o ATP Plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) come componente aggiuntivo di una sottoscrizione specifica. Per acquistare nell'interfaccia di amministrazione di Microsoft 365:
 
 1. Andare a **Billing**   >   [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433)fatturazione.
 2. Selezionare la pagina **componenti aggiuntivi**  da **altre categorie che potrebbero interessare.**

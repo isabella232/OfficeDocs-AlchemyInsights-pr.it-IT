@@ -14,12 +14,12 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 935508b3084aee0613d2bd1c2f26a437390f8640
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287349"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801519"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Rilevamento personalizzato per la ricerca avanzata
 
@@ -30,6 +30,6 @@ Se si utilizza Microsoft Defender ATP, vedere i seguenti argomenti per informazi
 - [Creare regole di rilevamento personalizzate](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [Visualizzazione e gestione delle regole di rilevamento personalizzate](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Se si utilizza Microsoft Threat Protection, vedere i seguenti argomenti per informazioni dettagliate: 
+Se si utilizza Microsoft 365 Defender, vedere i seguenti argomenti per informazioni dettagliate: 
 - [Panoramica dei rilevamenti personalizzati](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
 - [Creare e gestire le regole per i rilevamenti personalizzati](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)

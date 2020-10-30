@@ -1,5 +1,5 @@
 ---
-title: Office 365 Advanced Threat Protection
+title: Microsoft Defender per Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696625"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801231"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender per Office 365
 
-- Allegati sicuri, collegamenti sicuri e anti-phishing fanno parte di Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education a5 e Microsoft 365 Business Premium sono ATP. Tutti gli altri piani richiedono una sottoscrizione ATP del componente aggiuntivo.
+- Allegati sicuri, collegamenti sicuri e anti-phishing fanno parte di Microsoft Defender per Office 365 (ATP). Enterprise E5, Education a5 e Microsoft 365 Business Premium sono ATP. Tutti gli altri piani richiedono una sottoscrizione ATP del componente aggiuntivo.
 
 - Per proteggere gli utenti da Office 365 ATP, è necessario assegnare le licenze appropriate. Per istruzioni su come applicare le licenze agli utenti in blocco, vedere [questo argomento](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) .
 
-- Gli amministratori globali o gli amministratori della sicurezza possono accedere alle funzionalità ATP di Office 365 nel centro sicurezza & compliance in **Threat Managmeent** \> **policy**.
+- Gli amministratori globali o gli amministratori della sicurezza possono accedere alle funzionalità ATP di Office 365 nel centro sicurezza & compliance in **Threat Managmeent** \> **policy** .
 
 - Gli allegati sicuri e i criteri per i collegamenti sicuri possono essere inclusi nell'ambito dell'intera organizzazione, dei domini specifici o di gruppi di utenti più piccoli.
 
