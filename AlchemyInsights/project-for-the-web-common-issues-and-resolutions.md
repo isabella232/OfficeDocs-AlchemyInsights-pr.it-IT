@@ -12,21 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002603"
 - "5021"
-ms.openlocfilehash: e4d6e1955df0899279486d13d72f346bd8d89036
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b195b96ec80552c9564530d04bbb41a4ab974f7
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776742"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949785"
 ---
 # <a name="project-for-the-web-common-issues-and-resolutions"></a>Problemi noti di Project per il Web e risoluzioni
 
 Ecco alcuni argomenti relativi a Project per il Web richiesti di frequente:
 
-- Altre informazioni su [Project per il Web](https://support.microsoft.com/it-IT/office/what-is-project-for-the-web-c19b2421-3c9d-4037-97c6-f66b6e1d2eb5), disponibile in tutti e [tre gli abbonamenti a Project](https://products.office.com/project/compare-microsoft-project-management-software).
-- [Attivare o disattivare Project per il Web o Roadmap per gli utenti dell'organizzazione](https://docs.microsoft.com/project-for-the-web/turn-project-for-the-web-off). Gli amministratori possono controllare l'accesso a Project per il Web usando la pagina **Impostazioni di Project** nell'interfaccia di amministrazione di Microsoft.
-- Altre informazioni su [cosa è possibile fare](https://support.office.com/article/what-can-you-do-with-project-for-the-web-b30f5442-be5f-43d2-9072-c95bff778ea1) con Project per il Web.
-- Aiutare gli utenti a creare e sviluppare progetti con la [formazione su Project per il Web](https://support.office.com/article/get-started-with-project-for-the-web-50bf3e29-0f0d-4b7a-9d2c-7c78389b67ad).
-- Acquisire familiarità con [Limiti e restrizioni di Project per il Web](https://docs.microsoft.com/project-for-the-web/project-for-the-web-limits-and-boundaries).
-
-Per altre informazioni su Project per il Web, vedere la [Guida per l'amministratore di Project per il Web](https://docs.microsoft.com/project-for-the-web/projectforweb-admin-home).
+- Informazioni su [Project per il Web](https://support.microsoft.com/office/what-is-project-for-the-web-c19b2421-3c9d-4037-97c6-f66b6e1d2eb5), disponibile in tutte e [tre gli abbonamenti a Project](https://products.office.com/project/compare-microsoft-project-management-software) e nei [seguenti abbonamenti per l'accesso in sola lettura](https://docs.microsoft.com/project-for-the-web/office-365-user-view-access-to-project-and-roadmap).
+- Verificare che [applicazioni AAD obbligatorie siano abilitate](https://techcommunity.microsoft.com/t5/project-support-blog/roadmap-have-you-disabled-some-necessary-services/ba-p/815067) per evitare errori durante l'apertura o la creazione di un nuovo progetto o Roadmap.
+- [Attivare o disattivare Project per il Web o Roadmap per gli utenti dell'organizzazione](https://docs.microsoft.com/project-for-the-web/turn-project-for-the-web-off).
+- Usare l’[app Project o Roadmap in Teams](https://support.microsoft.com/office/2dc584e6-2f6c-4e2d-9008-0b3f6845eb52).
+- Introduzione a [Formazione Project per il Web](https://support.office.com/article/50bf3e29-0f0d-4b7a-9d2c-7c78389b67ad).
+- Project per il Web [limiti e restrizioni](https://docs.microsoft.com/project-for-the-web/project-for-the-web-limits-and-boundaries).

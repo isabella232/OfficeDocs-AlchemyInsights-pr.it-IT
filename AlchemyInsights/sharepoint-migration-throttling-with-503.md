@@ -13,28 +13,22 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: e46c39652db6a13a45d77d303102b4873e67a076
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7e0030670564eba15c89f7426e49283d44c3151
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720065"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947452"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>Limitazione della migrazione di SharePoint con 503 errori
 
-**Importante**: durante questi periodi senza precedenti, stiamo adottando misure per garantire che i servizi SharePoint Online e OneDrive rimangano disponibili. Per altre informazioni, vedere [Modifiche temporanee delle funzionalità di SharePoint Online](https://aka.ms/ODSPAdjustments).
+Viene visualizzato che si esegue la migrazione a SharePoint Online e si ricevono 503 errori. Seguire i passaggi riportati di seguito, in modo da potervi aiutare al più presto possibile.
 
-**503 errori durante la migrazione a SharePoint Online**
-
-Viene visualizzato che si esegue la migrazione a SharePoint Online e si ricevono 503 errori. Seguire i passaggi riportati di seguito, in modo da potervi aiutare al più presto possibile. 
-
-1. Fare clic su supporto per i **contatti**e quindi su **nuova richiesta di servizio**.
+1. Fare clic su supporto per i **contatti** e quindi su **nuova richiesta di servizio**.
 2. Per il titolo e la descrizione, digitare **limitazione della migrazione di SharePoint con 503**.
 3. Dopo aver inviato il ticket, aggiornarlo con le seguenti informazioni:
-    - La quantità di sinistra della migrazione (ad esempio, il numero di TBs?).
+    - Quanto resta della migrazione (ad esempio, il numero di TBs)?
     - Data iniziale e finale della migrazione.
-    - Descrivere la posizione in cui si esegue la migrazione del contenuto, ad esempio SharePoint Server, box, GDrive, condivisioni di file e così via.
-    - Stimare il numero di errori di limitazione (ad esempio, x Throttle all'ora?) e quando è stata eseguita la limitazione.
-    - Strumento di migrazione in uso (ad esempio, SPMT o ShareGate).
-
-
+    - Descrivere da dove provengono i contenuti di cui si vuole eseguire la migrazione, ad esempio SharePoint Server, Box, GDrive, condivisioni di file shares e così via.
+    - Stimare il numero di errori di limitazione (ad esempio, x Throttle all'ora) e quando è stata eseguita la limitazione.
+    - Quale strumento di migrazione è in uso (ad esempio, SPMT o ShareGate)?
