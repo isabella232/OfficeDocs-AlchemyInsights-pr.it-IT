@@ -2,8 +2,7 @@
 title: Annullare l'abbonamento a Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b663914963361d7a20f4b72b8a75bbdebe7e324c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e45350b88728ef803dba14900746c86e7403693e
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811861"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348633"
 ---
-# <a name="cancelling-your-microsoft-365-subscription"></a>Annullamento dell'abbonamento a Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Annullamento dell'abbonamento a Microsoft 365?
 
-Ci dispiace vederti andare, ma ecco le opzioni per annullare l'abbonamento:
+Ci dispiace vederlo andare, ma se si desidera annullare l'abbonamento, ecco le opzioni seguenti:
   
 - Se si è un cliente di prova, non c'è nulla da annullare. Gli abbonamenti di valutazione scadono automaticamente a meno che non venga fornito un metodo di pagamento.
+- Se si dispone di meno di 25 licenze assegnate, è possibile annullare la sottoscrizione online. Passare alla pagina **fatturazione** dei \> [prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054) e individuare l'abbonamento che si desidera annullare. Selezionare **Altre azioni** (tre puntini), quindi selezionare **Annulla l’abbonamento**.
+- Se si dispone di più di 25 licenze assegnate agli utenti, [contattare il supporto per annullare l'abbonamento](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
 
-- Se si dispone di meno di 25 licenze assegnate, è possibile annullare la sottoscrizione online. Andare a **fatturazione** dei \> **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Nella sezione **impostazioni & azioni** scegliere **Annulla sottoscrizione**.
+**Restituzione: ogni credito proporzionale verrà restituito all'utente entro il prossimo ciclo di fatturazione.**
 
-- Se si dispone di più di 25 licenze assegnate, è possibile rimuovere gli utenti fino a quando non si ha meno di 25 anni oppure utilizzare l'opzione "Let us Call" per comunicare con un tecnico di supporto.
+> [!NOTE]
+> Se l'opzione non viene visualizzata, selezionare la sottoscrizione per visualizzare la pagina dei dettagli. Nella sezione **impostazioni di sottoscrizione e pagamento** selezionare **Annulla sottoscrizione**.
 
 Per ulteriori informazioni, vedere [annullare l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
