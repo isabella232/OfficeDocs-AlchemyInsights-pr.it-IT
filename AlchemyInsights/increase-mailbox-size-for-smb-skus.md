@@ -2,7 +2,7 @@
 title: Aumentare le dimensioni delle cassette postali per SKU SMB
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: e4f4791358977133e2c94c70fb955304ebe80d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfb05ac9cafd0bafc0baf1afa39bb8374d725f18
+ms.sourcegitcommit: eb7cf60a8fef79b00675eb645b0d0d8d5f9744df
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778299"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49363687"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>Aggiornare i piani per aumentare le dimensioni delle cassette postali
 
-Se le dimensioni della cassetta postale sono pari a 50 GB, è possibile aumentarle fino a 100 GB passando al piano [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) o [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Di seguito sono riportati i passaggi per passare a un abbonamento diverso:
+Se la dimensione della cassetta postale è di 50 GB, è possibile aumentare le dimensioni delle cassette postali a 100 GB eseguendo l'aggiornamento a [office 365 E3](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab), [Microsoft 365 e3](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab), [office 365 E5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab)o [Microsoft 365 e5](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab). Di seguito sono riportati i passaggi da eseguire per eseguire l'aggiornamento a una sottoscrizione diversa:
   
-1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina **fatturazione**dei  >  [prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Nell'interfaccia di amministrazione, passare alla pagina **Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Nella scheda **prodotti** selezionare l'abbonamento che si desidera aggiornare.
+3. Nella sezione **Dettagli prodotto e aggiornamenti** della pagina Dettagli sottoscrizione selezionare **Visualizza gli aggiornamenti consigliati per l'organizzazione**.
+4. Nella pagina **aggiornamenti disponibili** individuare il nuovo piano desiderato e quindi fare clic su **Aggiorna**.
+5. Nella pagina **checkout** selezionare o aggiungere un metodo di pagamento, quindi selezionare **Ordina ordine**.
+6. Sul **è tutto pronto!** pagina, selezionare **lo stato dell'aggiornamento** oppure **continuare a configurare la sottoscrizione**.
 
-2. Selezionare la sottoscrizione da aggiornare, quindi selezionare la scheda **Aggiorna** per visualizzare l'elenco dei nuovi piani disponibili.
+Al termine del checkout, Microsoft 365 richiede alcuni minuti per completare l'opzione. È possibile iniziare subito a usare il nuovo abbonamento.
 
-3. Scegliere un piano per vedere il nuovo costo mensile totale. Leggere le **informazioni principali**, quindi scegliere **Avanti** per passare alla cassa.
-
-4. Al termine del checkout, Microsoft 365 richiede alcuni minuti per completare l'opzione. È possibile iniziare subito a usare il nuovo abbonamento.
-
-Per ulteriori informazioni, vedere [aggiornamento a un piano diverso](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+Per ulteriori informazioni, vedere [eseguire l'aggiornamento a un piano diverso](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
