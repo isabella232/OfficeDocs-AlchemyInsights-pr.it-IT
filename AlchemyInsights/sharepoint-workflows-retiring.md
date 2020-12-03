@@ -13,23 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: 4419482711541f238e01e81367a3c9cc69653069
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf85e4c45f1d88c3a643e298fac5d539cd127fdf
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758573"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477464"
 ---
-# <a name="sharepoint-workflows-retiring"></a><span data-ttu-id="2d777-102">Ritiro dei flussi di lavoro di SharePoint</span><span class="sxs-lookup"><span data-stu-id="2d777-102">SharePoint workflows retiring</span></span>
+# <a name="sharepoint-workflows-retiring"></a><span data-ttu-id="56ea3-102">Ritiro dei flussi di lavoro di SharePoint</span><span class="sxs-lookup"><span data-stu-id="56ea3-102">SharePoint workflows retiring</span></span>
 
-<span data-ttu-id="2d777-103">I flussi di lavoro di SharePoint 2010 saranno ritirati presto.</span><span class="sxs-lookup"><span data-stu-id="2d777-103">SharePoint 2010 workflows are being retired.</span></span> <span data-ttu-id="2d777-104">Si consiglia di eseguire la migrazione a [Power Automate](https://docs.microsoft.com/power-automate/getting-started) o altre soluzioni supportate.</span><span class="sxs-lookup"><span data-stu-id="2d777-104">We recommend migrating to [Power Automate](https://docs.microsoft.com/power-automate/getting-started) or another supported solution.</span></span> 
+<span data-ttu-id="56ea3-103">I flussi di lavoro di SharePoint 2010 saranno ritirati presto.</span><span class="sxs-lookup"><span data-stu-id="56ea3-103">SharePoint 2010 workflows retired.</span></span> <span data-ttu-id="56ea3-104">Si consiglia di eseguire la migrazione a [Power Automate](https://docs.microsoft.com/power-automate/getting-started) o altre soluzioni supportate.</span><span class="sxs-lookup"><span data-stu-id="56ea3-104">We recommend migrating to [Power Automate](https://docs.microsoft.com/power-automate/getting-started) or another supported solution.</span></span> 
 
-<span data-ttu-id="2d777-105">Date principali:</span><span class="sxs-lookup"><span data-stu-id="2d777-105">Key dates:</span></span>
+<span data-ttu-id="56ea3-105">Date principali:</span><span class="sxs-lookup"><span data-stu-id="56ea3-105">Key dates:</span></span>
 
-- <span data-ttu-id="2d777-106">Il 1° agosto 2020, i flussi di lavoro di SharePoint 2010 saranno **disattivati** per tutti i nuovi tenant creati.</span><span class="sxs-lookup"><span data-stu-id="2d777-106">August 1, 2020 SharePoint 2010 workflows are **turned off** for any newly created tenants.</span></span>
+- <span data-ttu-id="56ea3-106">Il 1° agosto 2020, i flussi di lavoro di SharePoint 2010 saranno **disattivati** per tutti i nuovi tenant creati.</span><span class="sxs-lookup"><span data-stu-id="56ea3-106">August 1, 2020 SharePoint 2010 workflows are **turned off** for any newly created tenants.</span></span>
 
-- <span data-ttu-id="2d777-107">Il 1° novembre 2020, i servizi dei flussi di lavoro di SharePoint 2010 saranno **rimossi** dai tenant esistenti.</span><span class="sxs-lookup"><span data-stu-id="2d777-107">November 1, 2020 SharePoint 2010 workflow services are **removed** from existing tenants.</span></span>
+- <span data-ttu-id="56ea3-107">Il 1° novembre 2020, i servizi dei flussi di lavoro di SharePoint 2010 saranno **rimossi** dai tenant esistenti.</span><span class="sxs-lookup"><span data-stu-id="56ea3-107">November 1, 2020 SharePoint 2010 workflow services are **removed** from existing tenants.</span></span>
 
-- <span data-ttu-id="2d777-108">Il 1° novembre 2020, i flussi di lavoro di SharePoint 2013 saranno **disattivati** per tutti i nuovi tenant creati.</span><span class="sxs-lookup"><span data-stu-id="2d777-108">November 1, 2020 SharePoint 2013 workflows are **turned off** for any newly created tenants.</span></span>
-
-<span data-ttu-id="2d777-109">Per altre informazioni, vedere [Supporto per i flussi di lavoro di SharePoint](https://aka.ms/sp-workflows-support).</span><span class="sxs-lookup"><span data-stu-id="2d777-109">For more info, see [SharePoint Workflows Support](https://aka.ms/sp-workflows-support).</span></span>
+<span data-ttu-id="56ea3-108">Per altre informazioni, vedere [Supporto per i flussi di lavoro di SharePoint](https://aka.ms/sp-workflows-support).</span><span class="sxs-lookup"><span data-stu-id="56ea3-108">For more info, see [SharePoint Workflows Support](https://aka.ms/sp-workflows-support).</span></span>
