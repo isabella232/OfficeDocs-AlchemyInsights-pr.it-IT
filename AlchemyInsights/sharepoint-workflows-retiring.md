@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: 4419482711541f238e01e81367a3c9cc69653069
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf85e4c45f1d88c3a643e298fac5d539cd127fdf
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758573"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477464"
 ---
 # <a name="sharepoint-workflows-retiring"></a>Ritiro dei flussi di lavoro di SharePoint
 
@@ -29,7 +29,5 @@ Date principali:
 - Il 1° agosto 2020, i flussi di lavoro di SharePoint 2010 saranno **disattivati** per tutti i nuovi tenant creati.
 
 - Il 1° novembre 2020, i servizi dei flussi di lavoro di SharePoint 2010 saranno **rimossi** dai tenant esistenti.
-
-- Il 1° novembre 2020, i flussi di lavoro di SharePoint 2013 saranno **disattivati** per tutti i nuovi tenant creati.
 
 Per altre informazioni, vedere [Supporto per i flussi di lavoro di SharePoint](https://aka.ms/sp-workflows-support).
