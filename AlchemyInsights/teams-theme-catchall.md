@@ -1,5 +1,5 @@
 ---
-title: Nuovo utente di Microsoft Teams
+title: Configurare Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750419"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576237"
 ---
-# <a name="new-to-microsoft-teams"></a>Nuovo utente di Microsoft Teams
+# <a name="set-up-microsoft-teams"></a>Configurare Microsoft Teams
 
-Vedere  [Introduzione a Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Assicurarsi di consultare i video di formazione per amministratori IT di Microsoft Teams, le presentazioni e altre informazioni.
+La  [Guida alla configurazione di Microsoft Teams](https://aka.ms/teamsguidance)  fornisce all'organizzazione le linee guida necessarie per configurare le aree di lavoro del team che ospitano conversazioni in tempo reale tramite messaggistica, chiamate e riunioni audio o video per comunicazioni private o nell'ambito del team. Riceverai istruzioni per determinare i requisiti di rete dell'organizzazione usando lo strumento Network Planner e l'Assistente per Teams nell'interfaccia di amministrazione di Teams. Una volta completata l'implementazione, la guida includerà risorse utili per iniziare a usare Teams.
 
-Se serve aiuto per distribuire Teams a supporto dei lavoratori a seguito dell'epidemia di COVID-19, vedere [Supporto per i lavoratori remoti con Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Inoltre, si potrebbe essere idonei per l'assistenza alla distribuzione nell'ambito del programma Microsoft 365 FastTrack. Visitare [FastTrack Center](https://www.microsoft.com/fasttrack) per inviare una richiesta.
-
-**Importante**: a causa di un recente aumento dell'utilizzo di Teams, quando si assegna una licenza di Teams a un utente, potrebbe essere necessario attendere circa 24 ore prima che la configurazione venga completata. Fino a quel momento, non sarà possibile assegnare criteri di Teams a tale utente, che potrebbe non avere accesso ad alcune funzionalità di Teams come chiamate e audioconferenze.
+Per altre informazioni, vedere [Introduzione a Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
