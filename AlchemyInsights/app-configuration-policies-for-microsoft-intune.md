@@ -23,7 +23,7 @@ ms.locfileid: "48366396"
 ---
 # <a name="app-configuration-policies-for-microsoft-intune"></a>Criteri di configurazione delle app per Microsoft Intune
 
-I criteri di configurazione delle app in Microsoft Intune sono usati per fornire impostazioni di configurazione per le applicazioni iOS o Android. Queste impostazioni di configurazione consentono di personalizzare le app. Notare che sono previste limitazioni per le versioni del sistema operativo e le applicazioni che supportano l’uso dei criteri di configurazione.
+I criteri di configurazione delle app in Microsoft Intune sono usati per fornire impostazioni di configurazione per le applicazioni iOS o Android. Queste impostazioni di configurazione consentono di personalizzare un'app. Notare che sono previste limitazioni per le versioni del sistema operativo e le applicazioni che supportano l’uso dei criteri di configurazione.
 
 Consultare la seguente documentazione per i dettagli
 

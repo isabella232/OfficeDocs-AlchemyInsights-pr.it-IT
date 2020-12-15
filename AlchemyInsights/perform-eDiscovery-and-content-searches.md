@@ -14,25 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5ed9e19f590029267368f8d4dcce7e1a85283a26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
+ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721450"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49668518"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Come eseguire le ricerche di contenuto e le ricerche di eDiscovery
 
-Utilizzare lo strumento di ricerca contenuto nel centro sicurezza & conformità per trovare rapidamente la posta elettronica nelle cassette postali di Exchange, i documenti nei siti di SharePoint e l'account OneDrive e le conversazioni di messaggistica istantanea in Skype for business. È inoltre possibile utilizzare lo strumento di ricerca contenuto per cercare messaggi di posta elettronica, documenti e conversazioni di messaggistica istantanea negli strumenti di collaborazione di Microsoft 365, ad esempio Microsoft teams e Microsoft 365 groups.
-
-**Per eseguire una ricerca di contenuto**
+**Per eseguire una ricerca di contenuto**:
 
 1. Accedere al [Centro sicurezza & conformità](https://protection.office.com) e accedere.
 2. Fare clic su **cerca > contenuto**.
 3. Fare clic su **nuova ricerca** per creare una nuova ricerca.
-4. Immettere le condizioni di ricerca richieste, tra cui parole chiave e percorsi di contenuto.  
+4. Immettere le condizioni di ricerca richieste, tra cui parole chiave e percorsi di contenuto.
 5. Fare clic su **salva & Esegui** per assegnare un nome alla ricerca, avviarla e quindi visualizzare in anteprima i risultati.
+
+> [!NOTE]
+> Nel **centro conformità di M365**, in **soluzioni**, scegliere Espandi **eDiscovery** e selezionare lo strumento di eDiscovery desiderato.
 
 Per istruzioni dettagliate sulle ricerche di contenuto, sull'esportazione dei risultati e sulla creazione dei casi di eDiscovery per contenere i dati, vedere [Content search](https://docs.microsoft.com/microsoft-365/compliance/content-search) and [eDiscovery Cases](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Per ulteriori informazioni sulla ricerca di contenuto, vedere i [requisiti e i limiti](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) e  [esaminare gli elementi parzialmente indicizzati e gli](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) altri risultati da tenere presenti.
+**Ulteriori informazioni**:
+
+- Per ulteriori informazioni sugli strumenti di eDiscovery in Microsoft 365, vedere [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Informazioni sulle autorizzazioni, i requisiti e i limiti necessari per eseguire le ricerche di eDiscovery dalle [autorizzazioni necessarie per le ricerche](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) e i requisiti di eDiscovery e i [relativi limiti](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search).
+- Se si desidera risolvere i problemi relativi a eDiscovery, vedere [eDiscovery risoluzione dei problemi comuni](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) e [analisi degli elementi parzialmente indicizzati](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
