@@ -34,5 +34,5 @@ Seguire le procedure consigliate e i passaggi descritti negli articoli seguenti:
 
 - Il comando **Apri con Esplora risorse** è supportato solo in Internet Explorer 11. Per ulteriori informazioni, vedere [Fine del supporto per IE11 con Microsoft 365 Apps](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy). **Apri con Esplora risorse** non funziona in Windows con Microsoft Edge, Google Chrome, Mozilla Firefox, né sulla piattaforma Mac. Per questo motivo, l'opzione di visualizzazione **Esplora risorse** potrebbe essere inattiva. 
 
-- Il pulsante **Apri con Esplora risorse** non è presente nella nuova esperienza Raccolta documenti. Fare clic sull'elenco a discesa **Visualizzazione** in alto a destra (il nome di questo elenco cambia a seconda della visualizzazione corrente) e poi selezionare **Visualizza in Esplora risorse**.
+- Il pulsante **Apri con Esplora risorse** non è presente nella nuova esperienza di libreria. Fare clic sull'elenco a discesa **Visualizzazione** in alto a destra (il nome di questo elenco cambia a seconda della visualizzazione corrente) e poi selezionare **Visualizza in Esplora risorse**.
 
