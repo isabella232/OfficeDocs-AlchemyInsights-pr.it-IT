@@ -24,5 +24,5 @@ ms.locfileid: "49002705"
 Esistono vari motivi per cui SharePoint potrebbe non funzionare più.
 
 1. Potrebbe essersi verificato un problema di integrità dei servizi con SharePoint. Per altre informazioni, vedere il [Dashboard sull'integrità dei servizi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).
-2. Le autorizzazioni potrebbero essere cambiate o essere state rimosse. Per altre informazioni vedere [Impossibile accedere a SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible).
+2. Le autorizzazioni potrebbero essere cambiate o essere state rimosse. Per altre informazioni vedere [Non è possibile accedere a SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible).
 3. Eventuali problemi del browser potrebbero impedire agli utenti di aprire SharePoint. Chiedere agli utenti di provare la modalità privata del browser per accedere di nuovo a SharePoint.

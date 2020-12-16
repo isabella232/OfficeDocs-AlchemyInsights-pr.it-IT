@@ -1,5 +1,5 @@
 ---
-title: Modificare un nome e un indirizzo di posta elettronica
+title: Modificare il nome e l'indirizzo di posta elettronica di un utente
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,16 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
-- "17"
+- "7601"
 - "4"
-ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
+ms.openlocfilehash: dec26ee6c3266feedc39a1c1a6af0b3f1a7a2413
 ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683906"
+ms.locfileid: "49683999"
 ---
-# <a name="change-a-name-and-email-address"></a>Modificare un nome e un indirizzo di posta elettronica
+# <a name="change-a-users-name-and-email-address"></a>Modificare il nome e l'indirizzo di posta elettronica di un utente
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1SJuc?autoplay=false]
 
 La modifica del nome e dell'indirizzo di posta elettronica di un utente in Microsoft 365 è facile. Passare alla pagina **utenti** \> [attivi](https://go.microsoft.com/fwlink/p/?linkid=834822) utenti e selezionare l'utente per modificare le relative informazioni. È inoltre possibile utilizzare questo articolo per istruzioni dettagliate:
   
