@@ -1,5 +1,5 @@
 ---
-title: Modificare il nome e l'indirizzo di posta elettronica di un utente
+title: Modificare un nome e un indirizzo di posta elettronica
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756935"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683906"
 ---
-# <a name="change-a-users-name-and-email-address"></a><span data-ttu-id="8469f-102">Modificare il nome e l'indirizzo di posta elettronica di un utente</span><span class="sxs-lookup"><span data-stu-id="8469f-102">Change a user's name and email address</span></span>
+# <a name="change-a-name-and-email-address"></a><span data-ttu-id="13dad-102">Modificare un nome e un indirizzo di posta elettronica</span><span class="sxs-lookup"><span data-stu-id="13dad-102">Change a name and email address</span></span>
 
-<span data-ttu-id="8469f-103">La modifica del nome e dell'indirizzo di posta elettronica di un utente in Microsoft 365 è facile.</span><span class="sxs-lookup"><span data-stu-id="8469f-103">Changing a user's name and email address in Microsoft 365 is easy.</span></span> <span data-ttu-id="8469f-104">Passare alla pagina **utenti** \> [attivi](https://go.microsoft.com/fwlink/p/?linkid=834822) utenti e selezionare l'utente per modificare le relative informazioni.</span><span class="sxs-lookup"><span data-stu-id="8469f-104">Go to the **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page and select the user to edit their information.</span></span> <span data-ttu-id="8469f-105">È inoltre possibile utilizzare questo articolo per istruzioni dettagliate:</span><span class="sxs-lookup"><span data-stu-id="8469f-105">You can also use this article for step-by-step instructions:</span></span>
+<span data-ttu-id="13dad-103">La modifica del nome e dell'indirizzo di posta elettronica di un utente in Microsoft 365 è facile.</span><span class="sxs-lookup"><span data-stu-id="13dad-103">Changing a user's name and email address in Microsoft 365 is easy.</span></span> <span data-ttu-id="13dad-104">Passare alla pagina **utenti** \> [attivi](https://go.microsoft.com/fwlink/p/?linkid=834822) utenti e selezionare l'utente per modificare le relative informazioni.</span><span class="sxs-lookup"><span data-stu-id="13dad-104">Go to the **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page and select the user to edit their information.</span></span> <span data-ttu-id="13dad-105">È inoltre possibile utilizzare questo articolo per istruzioni dettagliate:</span><span class="sxs-lookup"><span data-stu-id="13dad-105">You can also use this article for step-by-step instructions:</span></span>
   
-[<span data-ttu-id="8469f-106">Modificare un nome utente e un indirizzo di posta elettronica in Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="8469f-106">Change a user name and email address in Microsoft 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+[<span data-ttu-id="13dad-106">Modificare un nome utente e un indirizzo di posta elettronica in Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="13dad-106">Change a user name and email address in Microsoft 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
- <span data-ttu-id="8469f-107">**Nota**: se si modifica l'indirizzo di posta elettronica principale dell'utente, l'indirizzo di posta elettronica precedente sarà ancora valido per la ricezione della posta elettronica (questo accade automaticamente).</span><span class="sxs-lookup"><span data-stu-id="8469f-107">**Note**: If you change the user's main email address, their old email address will still be valid for receiving email (this happens automatically).</span></span> <span data-ttu-id="8469f-108">Inoltre, se l'organizzazione è nello stato ibrido, tutte le modifiche di posta elettronica e nome utente devono essere eseguite in Active Directory locale e quindi sincronizzate con il cloud.</span><span class="sxs-lookup"><span data-stu-id="8469f-108">Also, if your organization is in Hybrid state, all email and user name changes need to be done in on-premises Active Directory and then synced to the cloud.</span></span>
+ <span data-ttu-id="13dad-107">**Nota**: se si modifica l'indirizzo di posta elettronica principale dell'utente, l'indirizzo di posta elettronica precedente sarà ancora valido per la ricezione della posta elettronica (questo accade automaticamente).</span><span class="sxs-lookup"><span data-stu-id="13dad-107">**Note**: If you change the user's main email address, their old email address will still be valid for receiving email (this happens automatically).</span></span> <span data-ttu-id="13dad-108">Inoltre, se l'organizzazione è nello stato ibrido, tutte le modifiche di posta elettronica e nome utente devono essere eseguite in Active Directory locale e quindi sincronizzate con il cloud.</span><span class="sxs-lookup"><span data-stu-id="13dad-108">Also, if your organization is in Hybrid state, all email and user name changes need to be done in on-premises Active Directory and then synced to the cloud.</span></span>
