@@ -12,24 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 5940d1a96324c5ca77331485a115689abe547ef7
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947507"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724158"
 ---
 # <a name="comments-on-list-items"></a>Commenti sugli elementi di elenco
 
-Gli utenti saranno presto in grado di aggiungere ed eliminare commenti sugli elementi dell'elenco. Gli utenti possono visualizzare tutti i commenti su un elemento di elenco e filtrare tra le visualizzazioni che mostrano commenti o attività correlate a un elemento.
-
-**Tempistica** :
-
-**Rilascio mirato** : distribuzione graduale a metà ottobre e prevista per il completamento entro la metà di novembre
-
-**Standard Release** : graduale roll out a metà novembre e previsto per il completamento entro l'inizio di dicembre
-
-**Implementazione** : rilascio mirato per l'intera organizzazione
+Gli utenti possono visualizzare tutti i commenti su un elemento di elenco e filtrare tra le visualizzazioni che mostrano commenti o attività correlate a un elemento.
 
 Gli utenti devono tenere presente quanto segue prima di poter aggiungere ed eliminare commenti:
 
