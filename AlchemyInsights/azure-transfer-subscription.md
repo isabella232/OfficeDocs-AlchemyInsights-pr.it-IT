@@ -12,24 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: e9a1e74b321e2c2dda5f7a4f69681a0acf0635d5
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
+ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48840608"
+ms.lasthandoff: 12/29/2020
+ms.locfileid: "49736882"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Trasferire la proprietà della fatturazione di Azure
 
-Accede al [portale di Azure](https://portal.azure.com/) con il ruolo di Amministratore dell'account di fatturazione che include la sottoscrizione che si vuole trasferire. Se non si è certi di essere amministratori o se è necessario determinare l'amministratore, vedere [Determinare l'amministratore della fatturazione dell'account](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
+Accedere al [portale di Azure](https://portal.azure.com/) con il ruolo di Amministratore dell'account di fatturazione che include la sottoscrizione che si desidera trasferire. Se non si è certi di essere amministratori o se è necessario determinare chi sia l'amministratore, vedere [Determinare l'amministratore fatturazione dell'account](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-- Cercare in **Gestione costi e fatturazione**.
-- Selezionare **Sottoscrizioni** nel riquadro sinistro. A seconda del tipo di accesso, potrebbe essere necessario selezionare un ambito di fatturazione, poi **Sottoscrizioni** o **Sottoscrizioni di Azure**.
-- Selezionare **Trasferisci la proprietà della fatturazione** per la sottoscrizione che si vuole trasferire
-- Immettere l'indirizzo di posta elettronica dell'utente, già amministratore fatturazione dell'account, che diventerà il nuovo proprietario della sottoscrizione, poi selezionare **Invia richiesta di trasferimento**
-- L'utente riceverà un messaggio di posta elettronica con le istruzioni per verificare la richiesta di trasferimento. Per approvare la richiesta, l'utente deve selezionare il collegamento nel messaggio di posta elettronica e seguire le istruzioni.
+1. Cercare in _Gestione costi e fatturazione_.
+1. Selezionare **Sottoscrizioni** nel riquadro sinistro. A seconda del tipo di accesso, potrebbe essere necessario selezionare un ambito di fatturazione, quindi **Sottoscrizioni** o **Sottoscrizioni di Azure**.
+1. Selezionare **Trasferire la proprietà della fatturazione** per la sottoscrizione che si desidera trasferire.
+1. Immettere l'indirizzo di posta elettronica di un utente che sia amministratore fatturazione dell'account, che diventerà il nuovo proprietario della sottoscrizione, quindi selezionare **Invia richiesta di trasferimento**.
+1. L'utente riceverà un messaggio di posta elettronica con le istruzioni per verificare la richiesta di trasferimento. Per approvare la richiesta, è necessario che l'utente selezioni il collegamento nel messaggio di posta elettronica e segua le istruzioni.
 
-**Nota** : se si trasferisce la proprietà della fatturazione relativa alla sottoscrizione a un account utente di un altro tenant di Azure AD, tutte le assegnazioni di [Controllo accessi in base al ruolo (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) per la gestione delle risorse nella sottoscrizione verranno rimosse definitivamente. Solo il nuovo proprietario avrà accesso alla gestione delle risorse nella sottoscrizione. Per altre informazioni, vedere [Trasferimento di una sottoscrizione a un utente di un altro tenant di Azure AD](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+Si noti che trasferendo la proprietà della fatturazione relativa alla sottoscrizione a un account utente di un altro tenant di Azure AD, tutte le assegnazioni del [Controllo degli accessi in base al ruolo ](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) per la gestione delle risorse nella sottoscrizione verranno rimosse definitivamente. Solo il nuovo proprietario avrà accesso alla gestione delle risorse nella sottoscrizione. Per altre informazioni su come cambiare directory per una sottoscrizione, vedere [Trasferire una sottoscrizione a un utente in un altro tenant di Azure AD](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+
+_**Impatto importante sulle fatture**_: se è stata la trasferita la proprietà della fatturazione per una sottoscrizione Azure, gli addebiti saranno calcolati pro-rata. Sarà possibile accedere alle fatture seguendo questa procedura:  
+
+1. Selezionare la sottoscrizione nella  [Pagina sottoscrizioni](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) nel portale di Azure come  [utente con accesso alle fatture](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), quindi  **Fatture**.
+1. Fare clic su  **Scarica fattura**  per visualizzare una copia della fattura in formato PDF. Se è presente il messaggio  _Non disponibile_, vedere  [Perché non visualizzo la fattura per l'ultimo periodo di fatturazione?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+1. È possibile anche visualizzare il proprio uso giornaliero facendo clic sul **periodo di fatturazione** per ottenere un PDF della fattura e una copia del file relativo all'uso giornaliero dettagliato (.CSV). Per ulteriori informazioni, vedere [Ottenere dati su fatturazione e utilizzo](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Documenti consigliati**
 
