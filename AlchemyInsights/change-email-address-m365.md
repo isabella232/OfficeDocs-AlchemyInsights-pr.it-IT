@@ -1,5 +1,5 @@
 ---
-title: Cambiare l'indirizzo di posta elettronica di un gruppo di Microsoft 365
+title: Cambiare l'indirizzo di posta elettronica di un gruppo di Microsoft 365 o Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: f54ca5df09d0604f6d58c6c8a41dc907485e1f04
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: ff7abaf3d8e0ed977eba5712bdd19185738fa75c
+ms.sourcegitcommit: 8be59778b7d39213a27a471802eae7fc006eb1ff
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416696"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49756561"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a><span data-ttu-id="2fdb6-102">Cambiare l'indirizzo di posta elettronica di un gruppo di Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="2fdb6-102">Change email address of a Microsoft 365 group</span></span>
+# <a name="change-email-address-of-a-microsoft-365-group-or-microsoft-teams"></a><span data-ttu-id="77014-102">Cambiare l'indirizzo di posta elettronica di un gruppo di Microsoft 365 o Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="77014-102">Change email address of a Microsoft 365 group or Microsoft Teams</span></span>
 
-<span data-ttu-id="2fdb6-103">È possibile cambiare l'indirizzo di posta elettronica di un gruppo di Microsoft 365 tramite l'interfaccia di amministrazione.</span><span class="sxs-lookup"><span data-stu-id="2fdb6-103">You can change the email address of a Microsoft 365 group by using the admin center.</span></span> <span data-ttu-id="2fdb6-104">Basta selezionare il gruppo e poi selezionare @modifica indirizzo di posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="2fdb6-104">Just select the group and select @edit email address.</span></span>
+<span data-ttu-id="77014-103">È possibile cambiare l'indirizzo di posta elettronica di un gruppo di Microsoft 365 o Microsoft Teams tramite l'[interfaccia di amministrazione di Microsoft 365](https://admin.microsoft.com/).</span><span class="sxs-lookup"><span data-stu-id="77014-103">You can change the email address of a Microsoft 365 group or Microsoft Teams by using the [Microsoft 365 admin center](https://admin.microsoft.com/).</span></span> <span data-ttu-id="77014-104">Basta selezionare il gruppo e poi selezionare @modifica indirizzo di posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="77014-104">Just select the group and select @edit email address.</span></span>
 
-<span data-ttu-id="2fdb6-105">È anche possibile usare il comando EXO PowerShell per cambiare l'indirizzo SMTP principale di un gruppo di Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="2fdb6-105">You can also use following the EXO PowerShell command to change the primary SMTP address of a Microsoft 365 group:</span></span>
+<span data-ttu-id="77014-105">È anche possibile usare il comando EXO PowerShell seguente per cambiare l'indirizzo SMTP principale di un gruppo di Microsoft 365/Teams:</span><span class="sxs-lookup"><span data-stu-id="77014-105">You can also use the following EXO PowerShell command to change the primary SMTP address of a Microsoft 365 group/Teams:</span></span>
 
 `Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>`
 
-<span data-ttu-id="2fdb6-106">Esempio:</span><span class="sxs-lookup"><span data-stu-id="2fdb6-106">Example:</span></span>
+<span data-ttu-id="77014-106">Esempio:</span><span class="sxs-lookup"><span data-stu-id="77014-106">Example:</span></span>
 
-`et-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
+`Set-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
