@@ -1,5 +1,5 @@
 ---
-title: Passare al pagamento in fattura (assegno/bonifico)-WD legacy
+title: Passare a pagamento tramite fattura (assegno/bonifico bancario)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49722823"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755407"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Passare al pagamento in fattura (assegno/bonifico)-WD legacy
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Passare a pagamento tramite fattura (assegno/bonifico bancario)
+
+In base alla descrizione del problema, è stata trovata una soluzione per l'utente. La maggior parte dei clienti è stata in grado di risolvere il problema da solo dopo aver seguito la nostra documentazione.
 
 Se si cambia il pagamento tramite fattura, significa che la bolletta verrà pagata entro 30 giorni dalla data della fattura. Per diventare idoneo a pagare per la sottoscrizione di Azure tramite fattura, inviare una richiesta al supporto di Azure. Dopo che la richiesta è stata approvata, è possibile passare un abbonamento a pay fattura nel [portale di Azure](https://portal.azure.com/).
 

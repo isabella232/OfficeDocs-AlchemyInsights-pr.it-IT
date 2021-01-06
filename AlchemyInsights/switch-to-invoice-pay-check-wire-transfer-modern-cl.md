@@ -1,5 +1,5 @@
 ---
-title: Passare a retribuzione fatture (assegno/bonifico)-CL moderna
+title: Passare a pay per fattura (assegno/bonifico)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49693399"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755468"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Passare a retribuzione fatture (assegno/bonifico)-CL moderna
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Passare a pay per fattura (assegno/bonifico)
+
+In base alla descrizione del problema, è stata trovata una soluzione per l'utente. La maggior parte dei clienti è stata in grado di risolvere il problema da solo dopo aver seguito la nostra documentazione.
 
 Se si cambia il pagamento tramite fattura, significa che la bolletta verrà pagata entro 30 giorni dalla data della fattura. Per diventare idoneo a pagare per la sottoscrizione di Azure tramite fattura, inviare una richiesta al supporto di Azure. Dopo che la richiesta è stata approvata, è possibile passare un abbonamento a pay fattura nel portale di Azure.
 
