@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736882"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755551"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Trasferire la proprietà della fatturazione di Azure
 
 Accedere al [portale di Azure](https://portal.azure.com/) con il ruolo di Amministratore dell'account di fatturazione che include la sottoscrizione che si desidera trasferire. Se non si è certi di essere amministratori o se è necessario determinare chi sia l'amministratore, vedere [Determinare l'amministratore fatturazione dell'account](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-1. Cercare in _Gestione costi e fatturazione_.
+1. Cercare _Gestione costi e fatturazione_.
 1. Selezionare **Sottoscrizioni** nel riquadro sinistro. A seconda del tipo di accesso, potrebbe essere necessario selezionare un ambito di fatturazione, quindi **Sottoscrizioni** o **Sottoscrizioni di Azure**.
 1. Selezionare **Trasferire la proprietà della fatturazione** per la sottoscrizione che si desidera trasferire.
 1. Immettere l'indirizzo di posta elettronica di un utente che sia amministratore fatturazione dell'account, che diventerà il nuovo proprietario della sottoscrizione, quindi selezionare **Invia richiesta di trasferimento**.
