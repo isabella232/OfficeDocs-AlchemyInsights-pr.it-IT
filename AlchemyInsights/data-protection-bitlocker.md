@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731243"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768821"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Abilitazione della crittografia BitLocker con Intune
 
@@ -30,10 +30,12 @@ Per informazioni sulla risoluzione dei problemi relativi a BitLocker, vedere ris
  
 **Domande frequenti**
 
- D: quali edizioni di Windows supportano la crittografia del dispositivo utilizzando i criteri di protezione di endpoint?<br>
- A: le impostazioni dei criteri di protezione dell'endpoint di Intune vengono implementate tramite il [CSP di BitLocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Non tutte le edizioni o le build di Windows supportano il CSP di BitLocker. <br><br>
-      In questo momento sono supportate le seguenti edizioni di Windows: Enterprise, Education, mobile, Mobile Enterprise e Professional (Build 1809 e versioni successive).
- 
+D: quali edizioni di Windows supportano la crittografia del dispositivo utilizzando i criteri di protezione di endpoint?<br>
+A: le impostazioni dei criteri di protezione dell'endpoint di Intune vengono implementate tramite il [CSP di BitLocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Non tutte le edizioni o le build di Windows supportano il CSP di BitLocker. <br><br>
+
+D: come è possibile abilitare BitLocker nei dispositivi senza richiedere l'interazione dell'utente finale?<br>
+A: a condizione che vengano soddisfatti i prerequisiti necessari, è possibile abilitare BitLocker "Silent Encryption" tramite Intune. Vedere i dettagli dei requisiti del dispositivo e le impostazioni di criteri di esempio per abilitare la crittografia invisibile all'utente nel seguente documento: [abilitare la crittografia BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices)in modo invisibile all'utente. <br><br>
+
 D: se un dispositivo è già crittografato con BitLocker utilizzando le impostazioni predefinite del sistema operativo per il metodo di crittografia e la forza di cifratura (XTS-AES-128), l'applicazione di un criterio con impostazioni diverse attiverà automaticamente la ricrittografia dell'unità con le nuove impostazioni?<br>
 R: No. Per applicare le nuove impostazioni di crittografia, è necessario prima decrittografare l'unità.<br><br>
 **Nota:** Per i dispositivi che vengono registrati con Autopilot, la crittografia automatica che si verificherà durante la configurazione guidata non viene attivata fino a quando non viene valutato il criterio di Intune, che consente di utilizzare le impostazioni basate sui criteri al posto dei valori predefiniti del sistema operativo.
