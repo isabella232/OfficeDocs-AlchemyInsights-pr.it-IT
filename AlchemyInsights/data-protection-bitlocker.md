@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768821"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778197"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Abilitazione della crittografia BitLocker con Intune
 
- I criteri di protezione dell'endpoint di Intune possono essere utilizzati per configurare le impostazioni di crittografia di BitLocker per i dispositivi Windows. Per ulteriori informazioni, vedere [impostazioni di Windows 10 (e versioni successive) per proteggere i dispositivi che utilizzano Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+I criteri di protezione dell'endpoint di Intune possono essere utilizzati per configurare le impostazioni di crittografia di BitLocker per i dispositivi Windows. Per ulteriori informazioni, vedere [impostazioni di Windows 10 (e versioni successive) per proteggere i dispositivi che utilizzano Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+Oltre ai criteri di protezione endpoint esiste anche un rapporto di crittografia che fornisce una visualizzazione più dettagliata dello stato di crittografia per i dispositivi. È possibile accedere a questo report dal portale MEM in **dispositivi > monitor** e quindi in **configurazione** seleziona [rapporto di crittografia](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+Se si rileva che BitLocker non è abilitato come previsto o che il profilo utilizzato per abilitare BitLocker è in uno stato di errore, leggere il rapporto di crittografia per ottenere una migliore comprensione del motivo per cui il comportamento si sta verificando.
+
+Per ulteriori informazioni su come interpretare il report, inclusi i vari valori dello stato di crittografia, vedere [monitorare la crittografia dei dispositivi con Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 È necessario tenere presente che molti dispositivi più recenti che eseguono Windows 10 supportano la crittografia automatica di BitLocker, che viene attivata senza l'applicazione del criterio MDM. Questo può influire sull'applicazione dei criteri se sono configurate impostazioni non predefinite. Per ulteriori informazioni, vedere le domande frequenti seguenti.
- 
+
 Per informazioni sulla risoluzione dei problemi relativi a BitLocker, vedere risolvere i problemi [relativi ai criteri di BitLocker in Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
