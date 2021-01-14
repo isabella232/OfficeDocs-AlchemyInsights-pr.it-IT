@@ -1,0 +1,41 @@
+---
+title: Problemi con l'integrazione di SSO trasparente con le app locali
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 01/13/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004356"
+- "7798"
+ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49848774"
+---
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a><span data-ttu-id="c7126-102">Problemi con l'integrazione di SSO trasparente con le app locali</span><span class="sxs-lookup"><span data-stu-id="c7126-102">Issues with integrating Seamless SSO with my on-premises apps</span></span>
+
+<span data-ttu-id="c7126-103">Per risolvere i problemi relativi all'integrazione di SSO trasparente con le applicazioni locali, eseguire le operazioni seguenti:</span><span class="sxs-lookup"><span data-stu-id="c7126-103">To troubleshoot issues with integrating Seamless SSO with on-premises applications, do the following:</span></span>
+
+<span data-ttu-id="c7126-104">**Passaggi consigliati**</span><span class="sxs-lookup"><span data-stu-id="c7126-104">**Recommended steps**</span></span>
+
+1. <span data-ttu-id="c7126-105">Per configurare un' **applicazione locale** per il servizio **Single Sign-on tramite proxy di applicazione**, vedere [password vaulting for Single Sign-on with application proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).</span><span class="sxs-lookup"><span data-stu-id="c7126-105">To configure an **on-premises application** for **single sign-on through Application Proxy**, see [Password vaulting for single sign-on with Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).</span></span>
+1. <span data-ttu-id="c7126-106">**Risoluzione dei** problemi relativi ai proxy di applicazioni: si consiglia di iniziare con la revisione del flusso di risoluzione dei problemi, di [eseguire il debug del connettore del proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)di applicazione per determinare se i connettori proxy dell'applicazione sono configurati correttamente.</span><span class="sxs-lookup"><span data-stu-id="c7126-106">**Troubleshooting Application Proxy issues**: we recommend that you start with reviewing the troubleshooting flow, [Debug Application Proxy Connector issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), to determine if Application Proxy connectors are configured correctly.</span></span> <span data-ttu-id="c7126-107">Se si verificano ancora problemi di connessione all'applicazione, seguire la procedura per la risoluzione dei problemi relativi all'applicazione di [debug del proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps)di applicazione.</span><span class="sxs-lookup"><span data-stu-id="c7126-107">If you're still having trouble connecting to the application, follow the troubleshooting steps in [Debug Application Proxy application issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps).</span></span> <span data-ttu-id="c7126-108">È possibile [identificare i problemi di CORS](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) utilizzando gli strumenti di debug del browser seguenti:</span><span class="sxs-lookup"><span data-stu-id="c7126-108">You can [identify CORS issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) by using the following browser debug tools:</span></span>
+    1. <span data-ttu-id="c7126-109">Avviare il browser e passare all'app Web.</span><span class="sxs-lookup"><span data-stu-id="c7126-109">Launch the browser and browse to the web app.</span></span>
+    1. <span data-ttu-id="c7126-110">Premere **F12** per visualizzare la console di debug.</span><span class="sxs-lookup"><span data-stu-id="c7126-110">Press **F12** to bring up the debug console.</span></span>
+    1. <span data-ttu-id="c7126-111">Provare a riprodurre la transazione ed esaminare il messaggio della console.</span><span class="sxs-lookup"><span data-stu-id="c7126-111">Try to reproduce the transaction, and review the console message.</span></span> <span data-ttu-id="c7126-112">Una violazione di CORS genera un errore di console relativo all'origine.</span><span class="sxs-lookup"><span data-stu-id="c7126-112">A CORS violation produces a console error about origin.</span></span>
+    1. <span data-ttu-id="c7126-113">Alcuni problemi di CORS non possono essere risolti, ad esempio quando l'app reindirizza a login.microsoftonline.com per l'autenticazione e il token di accesso scade.</span><span class="sxs-lookup"><span data-stu-id="c7126-113">Some CORS issues can't be resolved, such as when your app redirects to login.microsoftonline.com to authenticate, and the access token expires.</span></span> <span data-ttu-id="c7126-114">La chiamata di CORS ha esito negativo.</span><span class="sxs-lookup"><span data-stu-id="c7126-114">The CORS call then fails.</span></span> <span data-ttu-id="c7126-115">Una soluzione alternativa per questo scenario consiste nell'estendere la durata del token di accesso, per impedirne la scadenza durante la sessione di un utente.</span><span class="sxs-lookup"><span data-stu-id="c7126-115">A workaround for this scenario is to extend the lifetime of the access token, to prevent it from expiring during a user’s session.</span></span> <span data-ttu-id="c7126-116">Per ulteriori informazioni su come eseguire questa operazione, vedere [durata dei token configurabili in Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).</span><span class="sxs-lookup"><span data-stu-id="c7126-116">For more information about how to do this, see [Configurable token lifetimes in Microsoft identity platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).</span></span>
+
+<span data-ttu-id="c7126-117">**Documenti consigliati**</span><span class="sxs-lookup"><span data-stu-id="c7126-117">**Recommended documents**</span></span>
+
+- [<span data-ttu-id="c7126-118">Come configurare il servizio Single Sign-on per un'applicazione proxy di applicazione</span><span class="sxs-lookup"><span data-stu-id="c7126-118">How to configure single sign-on to an Application Proxy application</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [<span data-ttu-id="c7126-119">Single Sign-On SAML per le applicazioni locali con proxy di applicazione</span><span class="sxs-lookup"><span data-stu-id="c7126-119">SAML single sign-on for on-premises applications with Application Proxy</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [<span data-ttu-id="c7126-120">Individuare e risolvere i problemi di CORS del proxy di applicazione di Azure Active Directory</span><span class="sxs-lookup"><span data-stu-id="c7126-120">Understand and solve Azure Active Directory Application Proxy CORS issues</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [<span data-ttu-id="c7126-121">Risoluzione dei problemi relativi alle configurazioni di delega vincolate Kerberos per il proxy di applicazione</span><span class="sxs-lookup"><span data-stu-id="c7126-121">Troubleshoot Kerberos constrained delegation configurations for Application Proxy</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
