@@ -13,16 +13,18 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801080"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847604"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Controllare le impostazioni di inoltro della posta elettronica per una cassetta postale
 
-È facile verificare le impostazioni di inoltro della posta elettronica in una cassetta postale di Microsoft 365. Basta seguire questa procedura.
+In primo luogo, l'inoltro della posta elettronica deve essere abilitato a livello di tenant. Se è stata configurata l'inoltro della posta elettronica su una cassetta postale, ma non funziona, vedere [controllare l'inoltro automatico esterno della posta elettronica in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+
+È facile verificare le impostazioni di inoltro della posta elettronica in una cassetta postale. Basta seguire questa procedura.
   
 > Se si tratta di una cassetta postale utente, **passare a utenti** \> **attivi** e selezionare l'utente di cui si sta inoltrando la cassetta postale. Nella scheda **posta** , selezionare **Gestisci inoltro della posta elettronica**.
 
