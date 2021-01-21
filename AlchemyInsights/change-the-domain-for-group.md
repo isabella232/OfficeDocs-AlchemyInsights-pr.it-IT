@@ -12,15 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 955797530f53d22c7c225ce0a32d686a00215219
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
+ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748248"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49911771"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Modificare il dominio per il gruppo Microsoft 365
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>Modificare il dominio per un gruppo di Microsoft 365
 
 Se si desidera modificare il dominio per un gruppo di Microsoft 365 durante la creazione, seguire la procedura descritta in [scegliere il dominio da utilizzare per la creazione dei gruppi di microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
 
-Dopo che il gruppo Microsoft 365 è già stato creato, non esiste alcun modo per modificare il dominio. L'unico modo per creare un nuovo gruppo di Microsoft 365 ed eliminare quello precedente, se necessario, è possibile aggiungere ulteriori indirizzi di posta elettronica tramite l'interfaccia di [amministrazione di Exchange](https://outlook.office365.com/ecp).
+Per modificare il dominio di un gruppo di Microsoft 365 esistente, come amministratore è possibile accedere all'interfaccia di amministrazione di Microsoft 365 https://admin.microsoft.com e quindi eseguire le operazioni seguenti:
+
+- Scegliere **gruppi** dal menu a sinistra
+- Cercare il gruppo di M365 che si desidera modificare e sceglierlo, quindi fare clic su **modifica** sotto **indirizzi di posta elettronica** quando nella scheda **generale** .
+- A questo punto, è possibile modificare il dominio dell'indirizzo di posta elettronica principale e aggiungere anche alias di posta elettronica.
+
+> [!IMPORTANT]
+> I gruppi di distribuzione regolari e i gruppi di sicurezza abilitati alla posta elettronica consentono di gestire le impostazioni meno dall'interfaccia di amministrazione di M365, sezione **gruppi** . Se si desidera gestire una maggiore parte dei dettagli, fare clic sulla scheda **Impostazioni** quando si modifica uno di essi nell'interfaccia di amministrazione di M365 e scegliere **Gestisci altre impostazioni nell'opzione dell'interfaccia di amministrazione di Exchange** .
