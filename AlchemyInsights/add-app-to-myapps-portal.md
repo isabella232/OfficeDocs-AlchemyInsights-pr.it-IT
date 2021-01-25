@@ -1,5 +1,5 @@
 ---
-title: Aggiungere applicazioni al portale Mie app
+title: Aggiungere applicazioni al portale App personali
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -20,6 +20,6 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 01/20/2021
 ms.locfileid: "49911584"
 ---
-# <a name="adding-applications-to-the-myapps-portal"></a><span data-ttu-id="c1805-102">Aggiunta di applicazioni al portale Mie app</span><span class="sxs-lookup"><span data-stu-id="c1805-102">Adding applications to the MyApps portal</span></span>
+# <a name="adding-applications-to-the-myapps-portal"></a><span data-ttu-id="736fa-102">Aggiunta di applicazioni al portale App personali</span><span class="sxs-lookup"><span data-stu-id="736fa-102">Adding applications to the MyApps portal</span></span>
 
-<span data-ttu-id="c1805-103">Se l'amministratore fornito l'autorizzazione, è possibile aggiungere una nuova app alla pagina **App**.</span><span class="sxs-lookup"><span data-stu-id="c1805-103">If your administrator has given you permission, you can add a new app to the **Apps** page.</span></span> <span data-ttu-id="c1805-104">Per altre informazioni, vedere [Aggiungere una nuova app al portale Mie app](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access#add-a-new-app-to-the-my-apps-portal).</span><span class="sxs-lookup"><span data-stu-id="c1805-104">For more information, see [Add a new app to the My Apps portal](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access#add-a-new-app-to-the-my-apps-portal).</span></span>
+<span data-ttu-id="736fa-103">Se l'amministratore ha fornito l'autorizzazione, è possibile aggiungere nuove app alla pagina **App**.</span><span class="sxs-lookup"><span data-stu-id="736fa-103">If your administrator has given you permission, you can add a new app to the **Apps** page.</span></span> <span data-ttu-id="736fa-104">Per altre informazioni, vedere [Aggiungere nuove app al portale App personali](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access#add-a-new-app-to-the-my-apps-portal).</span><span class="sxs-lookup"><span data-stu-id="736fa-104">For more information, see [Add a new app to the My Apps portal](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access#add-a-new-app-to-the-my-apps-portal).</span></span>
