@@ -1,5 +1,5 @@
 ---
-title: Aggiungere applicazioni al portale Mie app
+title: Aggiungere applicazioni al portale App personali
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -20,6 +20,6 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 01/20/2021
 ms.locfileid: "49911584"
 ---
-# <a name="adding-applications-to-the-myapps-portal"></a>Aggiunta di applicazioni al portale Mie app
+# <a name="adding-applications-to-the-myapps-portal"></a>Aggiunta di applicazioni al portale App personali
 
-Se l'amministratore fornito l'autorizzazione, è possibile aggiungere una nuova app alla pagina **App**. Per altre informazioni, vedere [Aggiungere una nuova app al portale Mie app](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access#add-a-new-app-to-the-my-apps-portal).
+Se l'amministratore ha fornito l'autorizzazione, è possibile aggiungere nuove app alla pagina **App**. Per altre informazioni, vedere [Aggiungere nuove app al portale App personali](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access#add-a-new-app-to-the-my-apps-portal).

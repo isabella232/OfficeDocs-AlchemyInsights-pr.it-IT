@@ -1,5 +1,5 @@
 ---
-title: Problemi relativi al portale Mie app
+title: Problemi relativi al portale App personali
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -20,13 +20,13 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 01/20/2021
 ms.locfileid: "49912042"
 ---
-# <a name="myapps-portal-issues"></a>Problemi relativi al portale Mie app
+# <a name="myapps-portal-issues"></a>Problemi relativi al portale App personali
 
-Per la risoluzione dei problemi che si verificano durante l'accesso o l'uso del portale Mie app, vedere [Risolvere i problemi relativi al portale Mie app](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot).
+Per la risoluzione dei problemi che si verificano durante l'accesso o l'uso del portale App personali, vedere [Risolvere i problemi relativi al portale App personali](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot).
 
 **Le applicazioni non vengono visualizzate nel riquadro di accesso all'applicazione come previsto**
 
-Per indicazioni sul motivo per cui le applicazioni non vengono visualizzate nel riquadro di accesso all'applicazione come previsto, vedere:
+Per indicazioni sui motivi per cui le applicazioni non vengono visualizzate nel riquadro di accesso all'applicazione come previsto, vedere:
 
 - [Motivi per cui un’app assegnata non viene visualizzata nel riquadro di accesso](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
      
@@ -40,9 +40,9 @@ Per la risoluzione dei problemi relativi al riquadro di accesso all'applicazione
 
 **Problemi nell’uso dell’estensione del browser del riquadro di accesso all'applicazione**
 
-Per la risoluzione dei problemi relativi all’estensione del browser del riquadro di accesso dell'applicazione, vedere:
+Per la risoluzione dei problemi relativi all’estensione del browser per il riquadro di accesso dell'applicazione, vedere:
 
-[Errore durante l’installazione dell’estensione del browser del riquadro di accesso dell'applicazione](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
+[Errore durante l’installazione dell’estensione del browser per il riquadro di accesso dell'applicazione](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
 **Problemi relativi alle funzionalità nel riquadro di accesso dell'applicazione**
 
@@ -52,15 +52,15 @@ Per la risoluzione dei problemi relativi alle funzionalità specifiche nel riqua
 
 - [Problema durante l'uso dell'accesso self-service alle applicazioni](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
-**Problemi durante la distribuzione o l'uso del portale Mie app**
+**Problemi durante la distribuzione o l'uso del portale App personali**
 
-Per la risoluzione dei problemi che si verificano durante la distribuzione o l'uso del portale Mie app, vedere:
+Per la risoluzione dei problemi che si verificano durante la distribuzione o l'uso del portale App personali, vedere:
 
-- [Creare raccolte nel portale Mie app](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
+- [Creare raccolte nel portale App personali](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
 - [Configurare l’assegnazione di app in modalità self-service](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
-- [Risoluzione dei problemi degli utenti finali nel portale Mie app](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+- [Risoluzione dei problemi degli utenti finali nel portale App personali](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
 
 
