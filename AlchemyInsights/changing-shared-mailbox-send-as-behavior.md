@@ -1,5 +1,5 @@
 ---
-title: Modifica del comportamento di invio delle cassette postali condivise
+title: Modifica del comportamento invia come cassetta postale condivisa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 6bb54112e775068e567b8cd22313189222287202
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2cc1d4139fb017da2e483ca5cbb7ed14a44f65a
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793654"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075865"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a>Modifica del comportamento di invio delle cassette postali condivise
+# <a name="changing-shared-mailbox-send-as-behavior"></a>Modifica del comportamento invia come cassetta postale condivisa
 
 Per impostazione predefinita, i messaggi inviati dalla cassetta postale condivisa non vengono salvati nella relativa cartella Posta inviata, bensì nella cartella Posta inviata della persona che ha inviato il messaggio.
   
-Se si desidera che tutti i membri visualizzino il messaggio di posta elettronica inviato, nell'interfaccia di amministrazione di Microsoft 365 modificare i dettagli della cassetta postale condivisa e scegliere modifica **elementi inviati** \> **Edit**.
+Se si desidera che tutti i membri vedano la posta elettronica inviata, nell'interfaccia di amministrazione di Microsoft 365 modificare i dettagli della cassetta postale condivisa e scegliere **Posta inviata** \> **modifica.**
   
-Per ulteriori informazioni, vedere [creare una cassetta postale condivisa](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Per ulteriori informazioni, vedere [Configurare le impostazioni della cassetta postale condivisa.](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies)
   
