@@ -1,31 +1,29 @@
 ---
 title: Cambiare la modalità di pagamento
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: f1076fdb94e051bb72b719ee5c8401dd49ce44da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681766"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152598"
 ---
 # <a name="change-payment-method-fromto"></a>Cambiare la modalità di pagamento da/a
 
 1. **Passare da fattura a carta di credito o conto corrente bancario**
 
-    - Quando si cambia la modalità di pagamento da fattura a carta di credito o conto corrente bancario, viene automaticamente creato un nuovo abbonamento in cui vengono spostati gli utenti, poi il vecchio abbonamento viene disabilitato. Gli utenti non subiranno alcuna interruzione del servizio e tutte le loro informazioni saranno disponibili tramite il nuovo abbonamento. 
-
-    - Seguire la procedura descritta in [Passare da fattura a carta di credito o conto corrente bancario](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - Non è possibile passare automaticamente dal pagamento tramite fattura a un metodo di pagamento diverso. È necessario invece [acquistare un altro abbonamento](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) con una carta di credito o debito o un conto corrente bancario, [spostare tutti gli utenti nel nuovo abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription), e infine [cancellare il vecchio abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Passare da carta di credito o conto corrente bancario a fattura**
 
@@ -33,6 +31,6 @@ ms.locfileid: "47681766"
 
     - Se il quantitativo dell'ordine è troppo elevato, potrebbe essere necessaria una verifica del credito. In tal caso, viene visualizzato il messaggio "Non idoneo per il cambiamento del metodo di pagamento tramite fattura. L'ordine richiede una verifica del credito ". In questo caso, è possibile cambiare la modalità di pagamento tramite fattura manualmente.
 
-    - Seguire la procedura descritta in [Passare dalla carta di credito o conto corrente bancario alla fattura ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice) per completare la modifica manuale.
+    - Seguire la procedura [Come si passa dalla carta di credito alla fattura per i pagamenti?](how-do-i-change-from-credit-card-payments-to-invoice.md) per completare la modifica manuale.
 
-Per altre informazioni, vedere [Cambiare la modalità di pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Per altre informazioni, vedere [Come pagare l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
