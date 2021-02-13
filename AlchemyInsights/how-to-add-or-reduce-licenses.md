@@ -12,28 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "319"
 - "1500007"
-ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 0b86937c48d7fe553436863e5f6ec70438652451
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 6b4e488ee10345955f41c7a7a9d4851b670898b9
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307274"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232443"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Aggiungere o rimuovere licenze per l'abbonamento
 
-Ecco come aggiungere o rimuovere licenze.
-  
-1. Nell'interfaccia di amministrazione passare alla pagina di **Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Nella scheda **prodotti** individuare la sottoscrizione per la quale si desidera acquistare o rimuovere licenze. Selezionare **altre azioni** (tre punti), quindi selezionare **Acquista licenze**.
-3. Se si desidera ridurre il numero di licenze, nella parte superiore del riquadro **Acquista licenze** selezionare **Rimuovi licenze**.
-4. Per acquistare o rimuovere licenze, in **nuova quantità** nella casella **Totale licenze** immettere il numero totale di licenze desiderate per la sottoscrizione. Ad esempio, se si dispone di 100 licenze e si desidera aggiungere altre 25, immettere 125. Se si desidera rimuovere 25 licenze, immettere 75.
+**GUARDARE un video** che illustra come eseguire questa operazione: [Acquistare nuove licenze](https://go.microsoft.com/fwlink/p/?linkid=2154857) o Rimuovere licenze [esistenti](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+
+1. Nell'interfaccia di amministrazione, passare alla pagina **Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Nella scheda **Prodotti** individuare l'abbonamento per il quale si desidera acquistare o rimuovere licenze. Seleziona **Altre azioni** (tre puntini), quindi seleziona Acquista **licenze.**
+3. Se si desidera ridurre il numero di licenze, nella parte superiore del riquadro **Acquista** licenze selezionare **Rimuovi licenze.**
+4. Per acquistare o rimuovere licenze,  **in** Nuova quantità nella casella Totale licenze immettere il numero totale di licenze desiderate per l'abbonamento. Ad esempio, se si hanno 100 licenze e si desidera aggiungervi altre 25, immettere 125. Se si desidera rimuovere 25 licenze, immettere 75.
 5. Selezionare **Salva**.
 
-Per informazioni su come assegnare le licenze, vedere [assegnare licenze agli utenti](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+Per informazioni su come assegnare licenze, vedere [Assegnare licenze agli utenti.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 **Risorse**
   
-- [Acquistare o rimuovere licenze dell'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Acquistare o rimuovere licenze](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 - [Annullare Microsoft 365 per le aziende](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Provare o acquistare un abbonamento a Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Provare o acquistare un abbonamento a Microsoft 365 per le aziende](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

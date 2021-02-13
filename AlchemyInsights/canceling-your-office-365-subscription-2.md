@@ -1,9 +1,8 @@
 ---
-title: Annullamento dell'abbonamento a Microsoft 365?
+title: Annullare l'abbonamento a Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 9ff327348002634bbef56ecce17c01caf58dd3f1
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416224"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232011"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Annullamento dell'abbonamento a Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Annullare l'abbonamento a Microsoft 365?
 
-Ci dispiace vederti andare!
+Siamo spiacenti di vederti andare.
   
-In base ai dati dell'organizzazione, riteniamo che tutti gli abbonamenti correnti dispongano di più di 25 licenze assegnate. Rimuovere le licenze dagli utenti finché non sono presenti meno di 25 utenti con licenza. Passare quindi alla pagina **fatturazione** dei \> [prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054) . Nella scheda **prodotti** individuare la sottoscrizione che si desidera annullare, selezionare **altre azioni** (tre punti) e quindi fare clic su **Annulla sottoscrizione**.
+In base ai dati dell'organizzazione, tutti gli abbonamenti correnti hanno più di 25 licenze assegnate. Prima di poter annullare:
 
-**Rimborso:** Qualsiasi credito prorated verrà restituito all'utente entro il prossimo ciclo di fatturazione.
+1. Rimuovere le licenze dagli utenti fino a quando non si hanno meno di 25 utenti con licenza.
+2. Vai alla pagina **Fatturazione** \> **[i tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054)** prodotti.
+3. Nella scheda **Prodotti** individuare l'abbonamento che si desidera annullare, selezionare **Altre** azioni (tre puntini), quindi **selezionare Annulla abbonamento.**
 
-Per ulteriori informazioni, vedere [annullare l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+**Rimborso:** eventuali crediti proporzionali verranno rimessi entro il successivo ciclo di fatturazione.
+
+Per ulteriori informazioni, vedere [Annullare l'abbonamento.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

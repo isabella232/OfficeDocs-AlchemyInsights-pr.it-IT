@@ -1,9 +1,8 @@
 ---
-title: Modificare la quantità di licenza dell'app
+title: Modificare la quantità di licenze dell'app
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,31 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 6c585e62a08a8784f379a9aa3801f49873b14982
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b4256c1bd466ced0ad8b9f1d8eb6ae160d9961b
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733943"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232263"
 ---
-# <a name="change-app-license-quantity"></a>Modificare la quantità di licenza dell'app
+# <a name="change-app-license-quantity"></a>Modificare la quantità di licenze dell'app
 
-È possibile visualizzare o modificare il numero di licenze disponibili e assegnarle agli utenti nell'interfaccia di amministrazione di Microsoft 365. 
+È possibile visualizzare o modificare il numero di licenze di cui si dispone e assegnarle agli utenti nell'interfaccia di amministrazione di Microsoft 365.
 
-## <a name="to-change-license-quantity"></a>Per modificare la quantità di licenza
+## <a name="to-change-license-quantity"></a>Per modificare la quantità di licenze
 
-1. Passare alla pagina **fatturazione**dei  >  **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** e quindi scegliere la scheda **app** .
+**GUARDARE un video** che illustra come eseguire questa operazione: [Acquistare nuove licenze](https://go.microsoft.com/fwlink/p/?linkid=2154857) o Rimuovere licenze [esistenti](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-2. Individuare e selezionare l'app che si desidera gestire.  
+1. Vai alla pagina **Fatturazione**  >  **[i tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054)** prodotti.
+2. Nella **sezione** App della  scheda Prodotti individuare l'app che si desidera gestire. Seleziona **Altre azioni** (tre puntini), quindi seleziona Acquista **licenze.**
+3. Se si desidera ridurre il numero di licenze, nella parte superiore del riquadro **Acquista** licenze selezionare **Rimuovi licenze.**
+4. Per acquistare o rimuovere licenze,  **in** Nuova quantità nella casella Totale licenze immettere il numero totale di licenze desiderate per l'abbonamento. Ad esempio, se si hanno 100 licenze e si desidera aggiungervi altre cinque, immettere 105. Se si desidera rimuoverli cinque, immettere 95.
+5. Selezionare **Salva**.
 
-3. Selezionare **Aggiungi/Rimuovi licenze**.
+## <a name="to-assign-app-licenses"></a>Per assegnare licenze per le app
 
-4. Immettere il nuovo numero di licenze necessarie. Ad esempio, se al momento si dispone di 5 licenze e solo 4, immettere 4 nella casella **Totale licenze** . Se al momento hai 5 licenze e hai bisogno di 10 licenze totali, immetti 10 nella casella **Totale licenze** .
-
-## <a name="to-assign-app-licenses"></a>Per assegnare le licenze per le app
-
-1. Passare alla pagina **fatturazione**dei  >  **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** e quindi scegliere la scheda **app** .
-
-2. Individuare e selezionare l'app che si desidera gestire.  
-
-3. In **impostazioni & azioni**selezionare il collegamento da **gestire nel portale di Publisher**.
+1. Vai alla pagina **Fatturazione**  >  **[i tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054)** prodotti.
+2. Nella **sezione** App della  scheda Prodotti individuare l'app che si desidera gestire.
+3. In **Impostazioni & azioni** selezionare il collegamento Gestisci nel portale **dell'autore.**

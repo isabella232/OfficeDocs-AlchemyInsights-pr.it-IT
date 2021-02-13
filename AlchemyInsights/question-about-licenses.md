@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "491"
 - "1500032"
-ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: c5dcc770bb8ce91c732171030431740ed387044c
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: ddbad5acf5ecc17ce8ee2193ba304ddd50aa610f
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287070"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231867"
 ---
-# <a name="questions-about-your-microsoft-365-license"></a>Domande sulla licenza Microsoft 365
+# <a name="questions-about-your-microsoft-365-license"></a>Domande sulla licenza di Microsoft 365
 
-Utilizzare questa procedura per scoprire quante licenze sono state acquistate o quante licenze vengono assegnate a un abbonamento.
+Seguire questa procedura per scoprire quante licenze sono state acquistate o quante licenze sono assegnate da un abbonamento.
   
-1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Nella scheda **prodotti** individuare la sottoscrizione di cui si desidera conoscere altre informazioni. È possibile visualizzare il numero di licenze che si sta pagando e quante sono attualmente assegnate.
+1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> **[I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Nella scheda **Prodotti** individuare l'abbonamento di cui si vogliono saperne di più. Puoi vedere il numero di licenze che stai pagando e il numero di licenze attualmente assegnate.
 
-Se si desidera aggiungere altre licenze o se si dispone di troppe, selezionare la sottoscrizione. Nella pagina dati sottoscrizione, selezionare **Acquista licenze** o **Rimuovi licenze** per regolare il numero totale di licenze per l'abbonamento.
+Se vuoi aggiungere altre licenze o se ne hai troppe, seleziona l'abbonamento. Nella pagina dei dati dell'abbonamento selezionare Acquista **licenze** o Rimuovi **licenze** per modificare il numero totale di licenze per l'abbonamento.
+
+**GUARDARE un video** che illustra come eseguire questa operazione: [Acquistare nuove licenze](https://go.microsoft.com/fwlink/p/?linkid=2154857) o Rimuovere licenze [esistenti](https://go.microsoft.com/fwlink/p/?linkid=2154938)
