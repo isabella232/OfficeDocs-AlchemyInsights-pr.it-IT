@@ -1,9 +1,8 @@
 ---
-title: Annullamento dell'abbonamento a Microsoft 365?
+title: Annullare l'abbonamento a Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 9ff327348002634bbef56ecce17c01caf58dd3f1
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416224"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232011"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="8cc59-102">Annullamento dell'abbonamento a Microsoft 365?</span><span class="sxs-lookup"><span data-stu-id="8cc59-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="8b302-102">Annullare l'abbonamento a Microsoft 365?</span><span class="sxs-lookup"><span data-stu-id="8b302-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="8cc59-103">Ci dispiace vederti andare!</span><span class="sxs-lookup"><span data-stu-id="8cc59-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="8b302-103">Siamo spiacenti di vederti andare.</span><span class="sxs-lookup"><span data-stu-id="8b302-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="8cc59-104">In base ai dati dell'organizzazione, riteniamo che tutti gli abbonamenti correnti dispongano di più di 25 licenze assegnate.</span><span class="sxs-lookup"><span data-stu-id="8cc59-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="8cc59-105">Rimuovere le licenze dagli utenti finché non sono presenti meno di 25 utenti con licenza.</span><span class="sxs-lookup"><span data-stu-id="8cc59-105">Remove licenses from users until you have fewer than 25 licensed users.</span></span> <span data-ttu-id="8cc59-106">Passare quindi alla pagina **fatturazione** dei \> [prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="8cc59-106">Next, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="8cc59-107">Nella scheda **prodotti** individuare la sottoscrizione che si desidera annullare, selezionare **altre azioni** (tre punti) e quindi fare clic su **Annulla sottoscrizione**.</span><span class="sxs-lookup"><span data-stu-id="8cc59-107">On the **Products** tab, find the subscription that you want to cancel, select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+<span data-ttu-id="8b302-104">In base ai dati dell'organizzazione, tutti gli abbonamenti correnti hanno più di 25 licenze assegnate.</span><span class="sxs-lookup"><span data-stu-id="8b302-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="8b302-105">Prima di poter annullare:</span><span class="sxs-lookup"><span data-stu-id="8b302-105">Before you can cancel:</span></span>
 
-<span data-ttu-id="8cc59-108">**Rimborso:** Qualsiasi credito prorated verrà restituito all'utente entro il prossimo ciclo di fatturazione.</span><span class="sxs-lookup"><span data-stu-id="8cc59-108">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+1. <span data-ttu-id="8b302-106">Rimuovere le licenze dagli utenti fino a quando non si hanno meno di 25 utenti con licenza.</span><span class="sxs-lookup"><span data-stu-id="8b302-106">Remove licenses from users until you have fewer than 25 licensed users.</span></span>
+2. <span data-ttu-id="8b302-107">Vai alla pagina **Fatturazione** \> **[i tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054)** prodotti.</span><span class="sxs-lookup"><span data-stu-id="8b302-107">Go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+3. <span data-ttu-id="8b302-108">Nella scheda **Prodotti** individuare l'abbonamento che si desidera annullare, selezionare **Altre** azioni (tre puntini), quindi **selezionare Annulla abbonamento.**</span><span class="sxs-lookup"><span data-stu-id="8b302-108">On the **Products** tab, find the subscription that you want to cancel, select **More actions** (three dots), then select **Cancel subscription**.</span></span>
 
-<span data-ttu-id="8cc59-109">Per ulteriori informazioni, vedere [annullare l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="8cc59-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="8b302-109">**Rimborso:** eventuali crediti proporzionali verranno rimessi entro il successivo ciclo di fatturazione.</span><span class="sxs-lookup"><span data-stu-id="8b302-109">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+
+<span data-ttu-id="8b302-110">Per ulteriori informazioni, vedere [Annullare l'abbonamento.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="8b302-110">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
