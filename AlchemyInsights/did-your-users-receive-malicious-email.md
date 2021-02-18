@@ -12,21 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002907"
 - "5594"
-ms.openlocfilehash: 238ec872acc8398aa3eaa3b1990e524cb7e1fe50
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- "3100017"
+- "2578"
+ms.openlocfilehash: 2197e7f195d789193798b80cb092d8046eb6e0be
+ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801123"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50291796"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Gli utenti hanno ricevuto messaggi pericolosi?
 
-- È ora possibile **segnalarlo a Microsoft** con facilità attraverso gli [Invii degli amministratori nel Centro sicurezza e conformità](https://protection.office.com/reportsubmission). 
+- Ora è possibile segnalare il messaggio di posta elettronica dannoso a Microsoft attraverso gli [Invii degli amministratori nel Centro sicurezza e conformità](https://sip.protection.office.com/reportsubmission).
 
-    - È anche possibile usare la funzionalità Invii degli amministratori, se non si è d'accordo con il verdetto finale sull’URL o il file contenuto in un messaggio di posta elettronica (bloccata rispetto a non bloccata).
+I messaggi segnalati negli [invii degli amministratori](https://sip.protection.office.com/reportsubmission) vengono analizzati e nel riquadro a comparsa **dettagli** vengono visualizzati i risultati seguenti:
 
-- **Rimuovere i messaggi pericolosi** dalla casella di Posta in arrivo dell’utente seguendo le istruzioni in [questo articolo](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization?view=o365-worldwide#more-information). 
+- Se si è verificato un errore nell'autenticazione della posta elettronica del mittente al momento del recapito.
+- Informazioni su eventuali riscontri dei criteri che potrebbero aver influenzato o sostituito il verdetto di un messaggio.
+- Risultati della detonazione correnti per verificare se gli URL o i file contenuti nel messaggio erano dannosi o meno.
+- Feedback da parte di valutatori
 
-    - I clienti con **Microsoft Defender per Office 365** possono usare [Esplora minacce per trovare o cancellare e-mail pericolose](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered?view=o365-worldwide#find-and-delete-suspicious-email-that-was-delivered).
+Se è stata trovata una sostituzione, la nuova analisi dovrebbe essere completata dopo alcuni minuti. Se non si è verificato un problema nell'autenticazione della posta elettronica o il recapito non è stato influenzato da una sostituzione, per il feedback da parte dei valutatori potrebbe essere necessario fino a un giorno.
 
-- **Proteggere** da file e URL dannosi seguendo le istruzioni fornite in [Protezione da URL e file dannosi](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats?view=o365-worldwide#part-2---protection-from-malicious-urls-and-files).
+Se non si è d'accordo con il risultato finale su un messaggio, un URL o un file (bloccato o non bloccato), inviare di nuovo il messaggio dopo un giorno per ripetere l'analisi. È molto probabile che il verdetto cambi dopo aver inviato di nuovo il messaggio.
+
+Nel frattempo, è possibile rimuovere il messaggio di posta elettronica dannoso dalla casella di Posta in arrivo dell'utente seguendo le istruzioni in [questo articolo](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
+
+- I clienti che hanno Microsoft Defender per Office 365 possono:
+    - usare [Esplora minacce per trovare ed eliminare i messaggi sospetti](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+    - [usare i collegamenti sicuri per bloccare l'accesso](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) a un URL dannoso
+    - tenere traccia degli utenti che hanno fatto clic ed eseguito l'accesso a URL dannosi: [Visualizzare l'URL di phishing e fare clic sui dati del verdetto](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-Url Track](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+    - [avviare manualmente una indagine automatizzata](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+
+Ci si può proteggere da file e URL dannosi anche seguendo le istruzioni fornite in [Protezione da URL e file dannosi](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats).
