@@ -21,7 +21,7 @@ ms.locfileid: "50152474"
 ---
 # <a name="payment-faq"></a>Domande frequenti sui pagamenti
 
-Gestire i pagamenti nell'**Interfaccia di amministrazione di Microsoft 365**.
+Gestire i pagamenti nell'**interfaccia di amministrazione di Microsoft 365**.
 
 - Passare a **Fatturazione > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** per assegnare o modificare i metodi di pagamento dell'abbonamento.
 - Passare a **Fatturazione > [Metodi di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806)** per aggiungere, aggiornare, sostituire o rimuovere metodi di pagamento.
