@@ -1,8 +1,8 @@
 ---
-title: Assegnare licenze avanzate di protezione dalle minacce
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Assegnare le licenze di Microsoft Defender per Office 365
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-ms.openlocfilehash: a877495be34c9403f63ebf96b0b83052f4c31491
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 6eb6529b4b2b73b0f8a599eb396d088e77e9516d
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801187"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469594"
 ---
-# <a name="assign-advanced-threat-protection-licenses"></a>Assegnare licenze avanzate di protezione dalle minacce
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Assegnare le licenze di Microsoft Defender per Office 365
 
 Microsoft Defender per Office 365 può essere assegnato agli utenti nell'interfaccia di amministrazione di Microsoft 365.
 
-1. Andare a **Billing**  >  [licenze](https://go.microsoft.com/fwlink/p/?linkid=842264)di fatturazione.
+1. Passare a **Licenze**  >  [di fatturazione.](https://go.microsoft.com/fwlink/p/?linkid=842264)
 2. Selezionare un prodotto di cui si vogliono assegnare le licenze.
-3. Fare clic su **Assegnare licenze** .
-4. Nel riquadro **assegna licenze agli utenti**  , iniziare a digitare il nome di un utente e quindi sceglierlo dai risultati. È possibile aggiungere fino a 20 utenti per volta.
-5. Fare clic **su attiva o disattiva le app e i servizi**  per assegnare o rimuovere.
-6. Fare clic su **assegna** e  **Chiudi** .
+3. Fare clic su **Assegnare licenze**.
+4. Nel riquadro **Assegna licenze agli**  utenti iniziare a digitare il nome di un utente e quindi sceglierlo tra i risultati. È possibile aggiungere fino a 20 utenti per volta.
+5. Fai **clic su Attiva o disattiva app e servizi**  per assegnare o rimuovere.
+6. Fare **clic su** Assegna e **chiudi.**
 
-Per acquistare altre licenze o rimuoverne, vedere [Aggiungere/rimuovere licenze per l’abbonamento](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Per acquistare altre licenze o rimuoverle, vedere [Acquistare o rimuovere licenze.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)

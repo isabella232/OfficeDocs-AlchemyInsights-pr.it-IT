@@ -1,8 +1,8 @@
 ---
 title: Acquistare Microsoft Defender per Office 365
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801151"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469810"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Acquistare Microsoft Defender per Office 365
 
-Microsoft Defender per Office 365 (ATP) è incluso in alcuni abbonamenti, quali Microsoft 365 E5, Office 365 E5, Office 365 a5 e Microsoft 365 Business Premium. Se l'abbonamento non include Office 365 ATP, è possibile acquistare ATP [Plan 1o ATP Plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) come componente aggiuntivo di una sottoscrizione specifica. Per acquistare nell'interfaccia di amministrazione di Microsoft 365:
+Microsoft Defender per Office 365 è incluso in alcuni abbonamenti, ad esempio Microsoft 365 E5, Office 365 E5, Office 365 A5 e Microsoft 365 Business Premium. Se l'abbonamento non include Microsoft Defender per Office 365, è possibile acquistare [Microsoft Defender per Office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) come componente aggiuntivo per determinati abbonamenti. Per acquistare nell'interfaccia di amministrazione di Microsoft 365:
 
-1. Andare a **Billing**   >   [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433)fatturazione.
-2. Selezionare la pagina **componenti aggiuntivi**  da **altre categorie che potrebbero interessare.**
-3. Selezionare il piano di protezione avanzata delle minacce che si desidera acquistare. Anche in questo caso, è possibile selezionare un piano di valutazione.
-4. Selezionare il numero di utenti che utilizzeranno Advanced Threat Protection.
+1. Nell'interfaccia di amministrazione passare alla pagina **Servizi**  >  [di acquisto della](https://go.microsoft.com/fwlink/p/?linkid=868433) fatturazione.
+2. Nella parte inferiore  della pagina Acquisto  di servizi, nella sezione Componenti aggiuntivi, trovare il componente aggiuntivo Microsoft Defender per Office 365 e selezionare **Dettagli.**
+3. Nella pagina dei dettagli del prodotto seleziona **Acquista.**
+4. Se necessario, completare eventuali altre informazioni sull'ordine. Queste informazioni possono includere la selezione della sottoscrizione a cui fa il componente aggiuntivo e il numero di utenti che lo utilizzeranno. Al termine, selezionare **Estrai ora.**
+5. Se necessario, esamina le informazioni sull'ordine e sui prezzi, quindi seleziona **Avanti.**
+6. Scegliere una modalità di pagamento o aggiungerne una nuova, quindi selezionare Place **order**  >  **Go to Admin Home.**
 
-Per assegnare le licenze agli utenti, vedere [assegnare licenze agli utenti](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+Per assegnare licenze agli utenti, vedere [Assegnare licenze agli utenti.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
 
-Per acquistare altre licenze o rimuoverne, vedere [Aggiungere/rimuovere licenze per l’abbonamento](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Per acquistare altre licenze o rimuoverle, vedere [Acquistare o rimuovere licenze.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
