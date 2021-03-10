@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4961"
-- commerce
-ms.openlocfilehash: 203f9899c2c3126878abb73c24ebbc031d867a6a
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: ec8e44bf634eb8393e26767dc153e7e404af54d1
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469653"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602044"
 ---
 # <a name="purchase-power-bi"></a>Acquistare Power BI
 
@@ -26,7 +25,7 @@ Power BI può essere acquistato nell'interfaccia di amministrazione di **Microso
 
 1. Passare alla pagina **Fatturazione > [acquisto di](https://go.microsoft.com/fwlink/p/?linkid=868433)** servizi.
 2. Usare la casella di ricerca per cercare "Power BI".
-3. Selezionare il piano Power BI che si desidera acquistare, selezionare **Dettagli** e quindi **Acquista.**
+3. Selezionare il piano Power BI che si desidera acquistare, selezionare **Dettagli** e quindi **Acquistare.**
 4. Immetti il numero di licenze necessarie e scegli se pagare ogni mese o per l'intero anno. Scegliere se assegnare automaticamente le licenze a tutti gli utenti che attualmente non dispongono di una licenza. Selezionare **estrai ora.**
 5. Esamina le informazioni sui prezzi e seleziona **Avanti.**
 6. Fornisci le informazioni di pagamento e quindi seleziona **Place order** Go to  >  **Admin Home.**

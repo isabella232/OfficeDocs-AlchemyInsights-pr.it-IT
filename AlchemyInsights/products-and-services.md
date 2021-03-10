@@ -9,19 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- commerce
 - "9001669"
 - "3736"
-ms.openlocfilehash: 3281144fb921fecb428d918e4f2996824b71f706
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: 33eef4182cce2f84275368b3cad88fa94db40e58
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152435"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602260"
 ---
 # <a name="your-products"></a>I tuoi prodotti
 
-Puoi trovare gli abbonamenti di proprietà dell'organizzazione nella **pagina Fatturazione**  >  [i tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054) prodotti. Ecco alcuni dei punti principali di questa pagina insieme ai collegamenti per ulteriori informazioni su ogni funzionalità:
+Puoi trovare gli abbonamenti di proprietà dell'organizzazione nella **pagina Fatturazione**  >  [i tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054) prodotti. Ecco alcune delle caratteristiche principali di questa pagina insieme ai collegamenti per ulteriori informazioni su ogni funzionalità:
 
 1. Visualizzare il numero di licenze assegnate e il numero di licenze acquistate per ogni abbonamento.
     > [!NOTE]

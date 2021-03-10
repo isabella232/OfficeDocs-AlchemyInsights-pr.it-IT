@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: fe3a13acb0ba5c8872d7c0bb8c3961d83f7d3526
-ms.sourcegitcommit: bd6a9cb5d357baee5134c0dea430afc2a035c810
+ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
+ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "50568581"
+ms.locfileid: "50585652"
 ---
 # <a name="problems-resetting-password"></a>Problemi durante la reimpostazione della password
 
@@ -26,12 +26,12 @@ Di seguito sono riportati alcuni dei problemi che potrebbero verificarsi durante
 
 **I'm having an issue with password reset not covered in the other categories**
 
--Verificare di essere autorizzati a reimpostare le password. Solo gli amministratori globali, delle password e degli utenti possono reimpostare le password degli utenti. Gli amministratori globali possono anche reimpostare le password di altri amministratori con privilegi.
+- Assicurarsi di essere autorizzati a reimpostare le password. Solo gli amministratori globali, delle password e degli utenti possono reimpostare le password degli utenti. Gli amministratori globali possono anche reimpostare le password di altri amministratori con privilegi.
 - Assicurarsi di comprendere i requisiti di licenza:
     - È necessario disporre di almeno una licenza assegnata nell'organizzazione
         - Utenti solo cloud - Qualsiasi SKU a pagamento di Office 365 (O365) o Azure AD Basic
         - Utenti cloud e/o locali : Azure AD Premium P1 o P2, Enterprise Mobility + Security (EMS) o Secure Productive Enterprise (SPE)
-        - Per altre informazioni sui requisiti di licenza, vedi l'articolo [Requisiti di licenza per la reimpostazione della password in modalità self-service di Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)
+        - Per altre informazioni sui requisiti di licenza, vedi l'articolo [Requisiti di licenza per la reimpostazione della password self-service di Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **I'm having problems testing the password reset policy I set**
 

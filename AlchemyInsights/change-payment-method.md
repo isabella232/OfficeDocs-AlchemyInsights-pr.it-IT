@@ -9,16 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152382"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601144"
 ---
 # <a name="change-payment-method"></a>Cambiare la modalità di pagamento
 
@@ -34,6 +33,6 @@ ms.locfileid: "50152382"
 6. Nel riquadro **Aggiungi un metodo di pagamento** immetti le informazioni sull'account e scegli **Salva**. È necessario usare una modalità di pagamento dello stesso paese/area geografica del tenant.
 7. La nuova modalità di pagamento è già selezionata nell'elenco a discesa. Selezionare **Sostituisci**.
 
-Per informazioni su come aggiungere, aggiornare, sostituire o eliminare metodi di pagamento, vedere [Gestire i metodi di pagamento.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Per informazioni su come aggiungere, aggiornare, sostituire o eliminare i metodi di pagamento, vedere [Gestire i metodi di pagamento.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 Per informazioni su come cambiare modalità di pagamento, vedere [Come pagare l'abbonamento.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
