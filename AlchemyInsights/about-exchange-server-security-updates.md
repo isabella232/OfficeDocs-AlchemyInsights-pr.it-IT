@@ -1,5 +1,5 @@
 ---
-title: Informazioni sugli Exchange Server della sicurezza
+title: Informazioni Exchange Server aggiornamenti della sicurezza
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,28 +15,21 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 87a5cf1ac4dfb96a5406f6b1431adb6ead074fd6
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
+ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50449098"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726531"
 ---
-# <a name="about-exchange-server-security-updates"></a>Informazioni sugli Exchange Server della sicurezza
+# <a name="about-exchange-server-security-updates"></a>Informazioni Exchange Server aggiornamenti della sicurezza
 
-Microsoft ha rilasciato una serie di aggiornamenti critici della sicurezza Exchange Server locale. Le versioni server interessate sono tutti i livelli di aggiornamento Exchange Server 2010, 2013, 2016 e 2019. Exchange Online NON è inciso, ma se si dispone di alcuni server Exchange locali a causa della configurazione ibrida, sono potenzialmente vulnerabili.
+Microsoft ha rilasciato una serie di aggiornamenti critici per la sicurezza Exchange Server locale. Le versioni del server interessate sono qualsiasi livello di aggiornamento Exchange Server 2010, 2013, 2016 e 2019. Exchange Online NON è inciso, ma se si dispone di alcuni server Exchange locali a causa della configurazione ibrida, questi sono potenzialmente vulnerabili.
 
-Per aggiornare i server locali, sarà necessario eseguire almeno le seguenti versioni di Exchange:
-
-- Exchange 2010 Service Pack 3
-- Exchange Server 2013 CU 23
-- Exchange Server 2016 CU 19 o CU 18
-- Exchange Server 2019 CU 8 o CU 7
-
-Vedere l'annuncio seguente per il percorso delle correzioni: [rilasciato: marzo 2021 Exchange Server aggiornamenti della sicurezza](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+Vedere l'annuncio seguente per la posizione delle correzioni: [rilasciato: marzo 2021 Exchange Server aggiornamenti della sicurezza](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
 
 **Note importanti:**
 
-L'installazione degli aggiornamenti non funzionerà se i server locali non eseguono le versioni di Exchange necessarie, come indicato nell'elenco precedente.
+Se si installano manualmente gli aggiornamenti, leggere la sezione "Problemi noti" degli articoli della Knowledge Base sugli aggiornamenti per informazioni importanti. Gli aggiornamenti della sicurezza DEVONO essere eseguiti dal prompt CMD/PowerShell con privilegi elevati.
 
-Se si installano manualmente gli aggiornamenti, leggere la sezione "Problemi noti" degli articoli della Knowledge Base sugli aggiornamenti per informazioni importanti. Gli aggiornamenti della sicurezza DEVONO essere eseguiti dal prompt cmd/PowerShell con privilegi elevati.
+Le informazioni sulla risoluzione dei problemi degli [aggiornamenti sono disponibili qui.](https://aka.ms/exupdatefaq)

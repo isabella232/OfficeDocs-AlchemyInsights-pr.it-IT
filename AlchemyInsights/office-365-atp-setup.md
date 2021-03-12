@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bd04535c1b740651196c0b40015a722ef0c922d5
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801079"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708642"
 ---
 # <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender per Office 365 (ATP)
 
-Office 365 ATP include [allegati sicuri](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [collegamenti sicuri](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [funzionalità di anti-phishing avanzate](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)e altro ancora. 
+Office 365 ATP include [allegati](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments)sicuri, [collegamenti sicuri,](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) [anti-phishing avanzato](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)e altro ancora. 
 
-ATP è incluso nelle sottoscrizioni, ad esempio Office 365 Enterprise E5, Office 365 Education a5 e Microsoft 365 Business Premium. Se l'abbonamento non include ATP, è possibile acquistare ATP come componente aggiuntivo. Per ulteriori informazioni, vedere [Descrizione del servizio ATP di Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+ATP è incluso negli abbonamenti, ad esempio Office 365 Enterprise E5, Office 365 Education A5 e Microsoft 365 Business Premium. Se l'abbonamento non include ATP, è possibile acquistare ATP come componente aggiuntivo. Per ulteriori informazioni, vedere [Descrizione del servizio Office 365 ATP.](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
 ## <a name="set-up-office-365-atp"></a>Configurare Office 365 ATP
 
-Affinché la protezione ATP sia attiva, è necessario configurare i criteri. Vedere [Guida introduttiva: configurare Microsoft Defender per Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Per l'applicazione della protezione ATP, è necessario configurare i criteri. Vedere [guida introduttiva: Configurare Microsoft Defender per Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
 
