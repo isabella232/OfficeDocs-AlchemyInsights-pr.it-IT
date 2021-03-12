@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 9026beac824ebc3849241dbb534c27b00ef1d0eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746763"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704646"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Creazione di criteri e profili di Intune
 
-In Intune, è possibile creare criteri e profili che fanno cose diverse.
+In Intune, è possibile creare criteri e profili che eservitino operazioni diverse.
 
-- **Profili di registrazione**: preconfigurare i dispositivi in base alla piattaforma, abilitare l'affinità degli utenti, utilizzare l'autenticazione a più fattori e altro ancora.
+- **Profili di registrazione:** preconfigurare i dispositivi in base alla piattaforma, abilitare l'affinità utente, usare l'autenticazione a più fattori e altro ancora.
 
-  [Che cos'è la registrazione dei dispositivi](https://docs.microsoft.com/intune/device-enrollment)e creare profili di registrazione per [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [MacOS](https://docs.microsoft.com/intune/macos-enroll)e [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) sono risorse valide.
+  [Che cos'è la registrazione](https://docs.microsoft.com/intune/device-enrollment)dei dispositivi e creare profili di registrazione per [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)e [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) sono buone risorse.
 
-- **Criteri di conformità**: definire le regole e le impostazioni che i dispositivi devono seguire per essere conformi. È inoltre possibile utilizzare i criteri di conformità per monitorare i dispositivi e notificare agli utenti la mancata conformità.
+- **Criteri di conformità:** definire le regole e le impostazioni che i dispositivi devono seguire per garantire la conformità. È inoltre possibile utilizzare i criteri di conformità per monitorare i dispositivi e notificare agli utenti la mancata conformità.
 
-  Introduzione ai [criteri di conformità dei dispositivi](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Criteri di accesso condizionale**: consente di proteggere le risorse dell'organizzazione, a seconda delle condizioni immesse. Ad esempio, per i dispositivi che non sono conformi, utilizzare l'accesso condizionale per limitare l'accesso alla posta elettronica e a SharePoint.
+  Introduzione ai criteri [di conformità dei dispositivi.](https://docs.microsoft.com/intune/device-compliance-get-started)
+- **Criteri di accesso condizionale:** consentono di proteggere le risorse dell'organizzazione, a seconda delle condizioni immesse. Ad esempio, per i dispositivi non conformi, utilizzare l'accesso condizionale per limitare l'accesso alla posta elettronica e a SharePoint.
 
-  [L'accesso condizionale](https://docs.microsoft.com/intune/conditional-access) e i [modi comuni per utilizzare l'accesso condizionale](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) sono risorse valide per iniziare.
+  [Quali sono l'accesso condizionale](https://docs.microsoft.com/intune/conditional-access) [e i modi comuni per usare l'accesso condizionale](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) sono buone risorse per iniziare.
 
-- **Profili di configurazione**: gestire le caratteristiche e le impostazioni dei dispositivi, incluse le impostazioni di posta elettronica, aggiungere una rete Wi-Fi, utilizzare i modelli incorporati, controllare le caratteristiche dei dispositivi iOS e MacOS e altro ancora.
+- **Profili di** configurazione: gestire le funzionalità e le impostazioni nei dispositivi, incluse le impostazioni di posta elettronica, aggiungere una rete WiFi, usare modelli predefiniti, controllare le funzionalità dei dispositivi iOS e macOS e altro ancora.
 
-  Iniziare a utilizzare i [profili di configurazione dei dispositivi](https://docs.microsoft.com/intune/device-profiles).
+  Introduzione ai profili [di configurazione dei dispositivi.](https://docs.microsoft.com/intune/device-profiles)
 
 Collegamenti utili:
 
 - [Domande, problemi e risoluzioni comuni con i criteri e i profili dei dispositivi in Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Risoluzione dei problemi relativi a criteri e profili in Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Risolvere i problemi relativi a criteri e profili in Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)

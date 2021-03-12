@@ -1,5 +1,5 @@
 ---
-title: Impostazioni di criteri per le riunioni
+title: Impostazioni dei criteri riunione
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794338"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704610"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Gestire i criteri di riunione in Microsoft Teams
 
-**Nota: per rendere effettive le modifiche ai criteri per gli utenti, è possibile richiedere fino a 24 ore.** Potrebbe non essere possibile apportare modifiche ai criteri appena creati immediatamente. attendere 4 ore e tentare di modificare nuovamente un criterio appena creato.
+**Nota: l'applicazione delle modifiche ai criteri per gli utenti può richiedere fino a 24 ore.** Potrebbe non essere possibile apportare immediatamente modifiche ai criteri appena creati. Attendere 4 ore e tentare di modificare di nuovo un criterio appena creato.
 
-I criteri di riunione vengono utilizzati per controllare le funzionalità disponibili per i partecipanti alla riunione per le riunioni pianificate dagli utenti dell'organizzazione. Alcune funzionalità dei criteri di riunione potrebbero non essere implementate nell'interfaccia di amministrazione di Teams (queste sono etichettate come "prossimamente" nella documentazione). In questo caso, o se si riceve un errore come "non è possibile aggiornare il criterio in questo momento, ma riprovare più tardi" nell'interfaccia di amministrazione di Microsoft teams, si consiglia di utilizzare PowerShell per creare o modificare i criteri di riunione dei team. 
+I criteri riunione vengono utilizzati per controllare le funzionalità disponibili per i partecipanti alle riunioni pianificate dagli utenti dell'organizzazione. Alcune funzionalità dei criteri riunione potrebbero non essere ancora implementate nell'interfaccia di amministrazione di Teams (queste sono etichettate "presto" nella documentazione). In questo caso, o se viene visualizzato un errore come "Non è possibile aggiornare il criterio in questo momento ma riprovare in un secondo momento" nell'interfaccia di amministrazione di Microsoft Teams, è consigliabile usare PowerShell per creare o modificare i criteri di riunione di Teams. 
 
-Per ulteriori informazioni sui criteri di riunione, vedere le risorse seguenti:
+Per ulteriori informazioni sui criteri riunione, vedere le risorse seguenti:
 
-- Per ulteriori informazioni sulla creazione di criteri, la modifica e l'assegnazione degli utenti ai criteri, vedere [Manage meeting Policies in teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- Per informazioni su come creare criteri, apportare modifiche e assegnare utenti ai criteri, vedere [Gestire i criteri riunione in Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
-- Per apportare modifiche ai criteri utilizzando i cmdlet di PowerShell, vedere [Teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - È necessario utilizzare il [modulo di PowerShell di Skype for business](https://www.microsoft.com/download/details.aspx?id=39366) per i criteri di riunione dei team. 
-    - Per ulteriori informazioni, vedere la [documentazione relativa ai cmdlet *-CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) .
+- Per apportare modifiche ai criteri tramite i cmdlet di PowerShell, vedere [Panoramica di PowerShell di Teams.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 
+    - È necessario usare il modulo [PowerShell di Skype for Business per](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) i criteri di riunione di Teams. 
+    - Per ulteriori informazioni, vedere la documentazione relativa ai [cmdlet *-CsTeamsMeetingPolicy.](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps)
 

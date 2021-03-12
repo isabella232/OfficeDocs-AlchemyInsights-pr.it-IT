@@ -1,5 +1,5 @@
 ---
-title: OCM da ritirarsi giugno 2020
+title: OCM to be retired June 2020
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 0b4094eadf77180c2f7d78d102a64dcafd262199
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 966a076c7b22a25a58e3513bc053c47b0eedaf4d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662761"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704826"
 ---
-# <a name="ocm-to-be-retired-june-2020"></a>OCM da ritirarsi giugno 2020
+# <a name="ocm-to-be-retired-june-2020"></a>OCM to be retired June 2020
 
 
-**2020 giugno 30**, il componente aggiuntivo di Outlook Customer Manager e l'app per dispositivi mobili verranno ritirati. È possibile  **esportare i dati**  da essa  **prima di questa data**.  
+A **partire dal 30 giugno 2020,** il componente aggiuntivo Outlook Customer Manager e l'app per dispositivi mobili verranno ritirati. È possibile **esportare i** dati **da quest'ultima prima di questa data.**  
 
-È possibile controllare gli utenti dell'organizzazione che hanno un piano di sottoscrizione Microsoft 365 business (in precedenza noto come Office 365 Business Premium) o Microsoft 365 Business Premium (precedentemente noto come Microsoft 365 business) con diritti su Outlook Customer Manager facendo clic [qui](https://admin.microsoft.com/AdminPortal/Home?ref=/users).
+È possibile controllare chi nell'organizzazione ha un piano di sottoscrizione a Microsoft 365 Business Standard (in precedenza noto come Office 365 Business Premium) o Microsoft 365 Business Premium (in precedenza noto come Microsoft 365 Business) con diritti per Outlook Customer Manager facendo clic [qui.](https://admin.microsoft.com/AdminPortal/Home?ref=/users)
 
-Per altre informazioni, vedere:
+Per ulteriori informazioni, vedere:
 
 - [Esportare o eliminare i dati di Outlook Customer Manager](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 
-- [Domande frequenti su gestione clienti di Outlook](https://support.office.com/article/88e127ca-43a1-4c9d-8d52-6ad3a80f9c32)
+- [Domande frequenti su Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-customer-manager/faq-frequently-asked-questions-about-outlook-customer-manager/m-p/29680)
