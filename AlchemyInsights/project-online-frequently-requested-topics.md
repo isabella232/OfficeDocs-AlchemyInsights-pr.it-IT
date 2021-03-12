@@ -1,5 +1,5 @@
 ---
-title: Argomenti di Project online richiesti frequentemente
+title: Argomenti richiesti di frequente su Project Online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 610f5b28bd557a67d45e85714d93e7074760452c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 847cfa73c98905dbd87004ea51b5005c59298545
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801692"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708138"
 ---
-# <a name="project-online-frequently-requested-topics"></a><span data-ttu-id="b2038-102">Argomenti di Project online richiesti frequentemente</span><span class="sxs-lookup"><span data-stu-id="b2038-102">Project Online Frequently Requested Topics</span></span>
+# <a name="project-online-frequently-requested-topics"></a><span data-ttu-id="6749c-102">Argomenti richiesti di frequente su Project Online</span><span class="sxs-lookup"><span data-stu-id="6749c-102">Project Online Frequently Requested Topics</span></span>
 
-<span data-ttu-id="b2038-103">Di seguito sono riportati alcuni argomenti con Project richiesti di frequente:</span><span class="sxs-lookup"><span data-stu-id="b2038-103">Here are some frequently requested topics with Project:</span></span>
+<span data-ttu-id="6749c-103">Ecco alcuni argomenti richiesti di frequente con Project:</span><span class="sxs-lookup"><span data-stu-id="6749c-103">Here are some frequently requested topics with Project:</span></span>
 
-<span data-ttu-id="b2038-104">Di seguito sono riportati gli argomenti richiesti per Project:</span><span class="sxs-lookup"><span data-stu-id="b2038-104">Here are frequently requested topics for Project:</span></span>
-1.  <span data-ttu-id="b2038-105">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="b2038-105">Getting started:</span></span> 
-    -   [<span data-ttu-id="b2038-106">Introduzione a Project Online</span><span class="sxs-lookup"><span data-stu-id="b2038-106">Get started with Project Online</span></span>](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
-    -   [<span data-ttu-id="b2038-107">Documentazione relativa all'amministratore di Project online</span><span class="sxs-lookup"><span data-stu-id="b2038-107">Project Online Admin Documentation</span></span>](https://docs.microsoft.com/projectonline/project-online) 
-    -   [<span data-ttu-id="b2038-108">Project Online: limiti del software</span><span class="sxs-lookup"><span data-stu-id="b2038-108">Project Online: software boundaries and limits</span></span>](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
-2.  [<span data-ttu-id="b2038-109">Aggiungere utenti, gruppi e risorse, quindi condividere Project online</span><span class="sxs-lookup"><span data-stu-id="b2038-109">Add people, groups, and resources, then share Project Online</span></span>](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
-3.  [<span data-ttu-id="b2038-110">Ottimizzare le prestazioni di Project Web App (PWA) in Project online</span><span class="sxs-lookup"><span data-stu-id="b2038-110">Tune Project Web App (PWA) performance in Project Online</span></span>](https://docs.microsoft.com/projectonline/tune-project-online-performance)
-4.  <span data-ttu-id="b2038-111">Connettersi con il [client desktop di Project Online](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)</span><span class="sxs-lookup"><span data-stu-id="b2038-111">Connect with the [Project Online Desktop client](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)</span></span> 
-5.  [<span data-ttu-id="b2038-112">Installare e utilizzare Project Professional</span><span class="sxs-lookup"><span data-stu-id="b2038-112">Install and use Project Professional</span></span>](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 
+<span data-ttu-id="6749c-104">Ecco gli argomenti richiesti di frequente per Project:</span><span class="sxs-lookup"><span data-stu-id="6749c-104">Here are frequently requested topics for Project:</span></span>
+1.  <span data-ttu-id="6749c-105">Guida introduttiva:</span><span class="sxs-lookup"><span data-stu-id="6749c-105">Getting started:</span></span> 
+    -   [<span data-ttu-id="6749c-106">Introduzione a Project Online</span><span class="sxs-lookup"><span data-stu-id="6749c-106">Get started with Project Online</span></span>](https://docs.microsoft.com/projectonline/get-started-with-project-online) 
+    -   [<span data-ttu-id="6749c-107">Documentazione per amministratori di Project Online</span><span class="sxs-lookup"><span data-stu-id="6749c-107">Project Online Admin Documentation</span></span>](https://docs.microsoft.com/projectonline/project-online) 
+    -   [<span data-ttu-id="6749c-108">Project Online: limiti del software</span><span class="sxs-lookup"><span data-stu-id="6749c-108">Project Online: software boundaries and limits</span></span>](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
+2.  [<span data-ttu-id="6749c-109">Aggiungere persone, gruppi e risorse, quindi condividere Project Online</span><span class="sxs-lookup"><span data-stu-id="6749c-109">Add people, groups, and resources, then share Project Online</span></span>](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
+3.  [<span data-ttu-id="6749c-110">Ottimizzare le prestazioni di Project Web App (PWA) in Project Online</span><span class="sxs-lookup"><span data-stu-id="6749c-110">Tune Project Web App (PWA) performance in Project Online</span></span>](https://docs.microsoft.com/projectonline/tune-project-online-performance)
+4.  <span data-ttu-id="6749c-111">Connettersi con [il client Desktop di Project Online](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)</span><span class="sxs-lookup"><span data-stu-id="6749c-111">Connect with the [Project Online Desktop client](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)</span></span> 
+5.  [<span data-ttu-id="6749c-112">Installare e usare Project Professional</span><span class="sxs-lookup"><span data-stu-id="6749c-112">Install and use Project Professional</span></span>](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 
