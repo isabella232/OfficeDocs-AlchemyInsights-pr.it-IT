@@ -1,5 +1,5 @@
 ---
-title: Import-Export-in-Outlook-per-Mac
+title: import-export-in-outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,27 +14,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667918"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708102"
 ---
 # <a name="importexport-in-outlook-for-mac"></a>Importazione/esportazione in Outlook per Mac 
 
-Esportazione
-1. Nella scheda **strumenti** scegliere **Esporta**.
-2. Nella casella **Salva con nome** , in **Preferiti**, scegliere la cartella **Downloads** e quindi fare clic su **Salva**.
-3. Quando viene visualizzata la notifica che l'esportazione è stata completata, selezionare **fine**.
+Esportare:
+1. Nella scheda **Strumenti** scegliere **Esporta.**
+2. Nella casella **Salva con nome,** in **Preferiti,** scegliere la **cartella Download** e selezionare **Salva.**
+3. Quando viene visualizzata la notifica che l'esportazione è stata completata, selezionare **Fine.**
 
-Importazione
-1. Nella scheda **strumenti** scegliere **Importa**.
-2. Selezionare **Outlook per il file di archivio di Windows (pst)**  >  **continuare**.
-3. Individuare il file. pst sul Mac e quindi scegliere **Importa**.
-4. Al termine del processo di importazione, scegliere **fine**.
-5. Gli elementi importati vengono visualizzati nel riquadro di spostamento in nel **computer**in cui si trova.
+Importa:
+1. Nella scheda **Strumenti** scegliere **Importa.**
+2. Select **Outlook for Windows archive file (.pst)**  >  **Continue**.
+3. Individuare il file .pst nel Mac e quindi scegliere **Importa.**
+4. Al termine del processo di importazione, scegliere **Fine.**
+5. Gli elementi importati vengono visualizzati nel riquadro di spostamento in **Risorse del computer.**
 
-Per le istruzioni di importazione ed esportazione complete per Outlook per Mac [, vedere Import ed Export Outlook e-mail, contatti e calendario](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+Per un set completo di istruzioni di importazione ed esportazione per Outlook per Mac, vedere Importare ed esportare posta [elettronica, contatti e calendario di Outlook.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac) 
 
-Per ricevere i problemi di supporto in-app per Outlook per Mac, aprire Outlook **e selezionare**  >  **supporto contatti**. Digita la tua domanda e un membro del team di supporto di Outlook per Mac ti contatterà. [Contattare il supporto tecnico in Outlook per Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Per ricevere supporto in-app per i problemi di Outlook per Mac, aprire Outlook e selezionare **Supporto**  >  **tecnico.** Digitare la domanda e un membro del team di supporto di Outlook per Mac verrà in contatto con l'utente. [Contattare il supporto tecnico in Outlook per Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

@@ -1,5 +1,5 @@
 ---
-title: Metodo di pagamento per l'aggiornamento
+title: Gestire la carta e il metodo di pagamento
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,43 +11,52 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003546"
-- "6461"
-ms.openlocfilehash: a8809cf77b0904596137a305fc3a8e05b988dc75
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+- "6462"
+ms.openlocfilehash: cfc4d84c8161c321a981eb5c4b0fb749c0c12047
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48785601"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707994"
 ---
-# <a name="updatedelete-payment-method"></a>Metodo di pagamento Update/Delete
+# <a name="manage-card-and-payment-method"></a>Gestire la carta e il metodo di pagamento
 
-Nel portale di Azure, come amministratore dell'account, è possibile aggiungere una nuova carta di credito, aggiornare una carta di credito esistente o eliminare una carta di credito che non si utilizza. Per il [Contratto clienti Microsoft](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement), i metodi di pagamento sono associati ai [profili di fatturazione](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Solo l'utente che ha eseguito l'accesso a Azure è in grado di aggiornare il metodo di pagamento.
+Nel portale di Azure, come amministratore dell'account, è possibile aggiungere una nuova carta di debito/credito, aggiornare una carta di debito/credito esistente o eliminare una carta di debito/credito che non si usa. Per [il Contratto per i clienti Microsoft,](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)i metodi di pagamento sono associati ai profili di [fatturazione.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile) Solo l'utente che si è connesso ad Azure può aggiornare la modalità di pagamento.
 
-**Aggiornare/modificare/rimuovere una carta di credito o di debito esistente**
+**Aggiungere una nuova carta di debito o di credito a una sottoscrizione di Azure**
 
-1.  Accedere al portale di [Azure](https://portal.azure.com/) come amministratore dell' [account](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Ricerca per la **gestione dei costi + fatturazione** .
-2.  Selezionare **metodi di pagamento** . Fare clic sulla carta di credito o di debito che si desidera modificare. Sul lato destro verrà visualizzato un modulo di carta di credito.
-3.  Aggiornare i dettagli della carta di credito o di debito. Seleziona **Salva** .
-4.  Per **rimuoverlo** , selezionare la casella accanto alla scheda che si desidera rimuovere.
-5.  Fare clic su **Elimina** .
+1. Accedere al portale [di Azure come](https://ms.portal.azure.com/) Amministratore [account.](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Selezionare **Gestione costi + Fatturazione.**
+2. Selezionare un abbonamento a cui si desidera aggiungere la carta di debito o di credito. Selezionare **Modalità di pagamento.**
+3. Nell'angolo superiore sinistro selezionare **+** per aggiungere una scheda. A destra verrà visualizzato un modulo di carta di debito/credito. Immetti i dettagli della carta di debito o di credito.
+4. Per impostare questa carta come metodo di  pagamento attivo, seleziona la casella accanto a Rendi questa la modalità di pagamento attiva sopra il modulo. Questa carta diventerà lo strumento di pagamento attivo per tutti gli abbonamenti che usano la stessa carta dell'abbonamento selezionato. Selezionare **Avanti**.
+5. Fare **clic su Imposta attivo.** 
+ 
+**Aggiornare/modificare/rimuovere una carta di debito o di credito esistente**
 
-**Nota** : non è possibile rimuovere la carta di credito se è associata ad altri abbonamenti Microsoft attivi. Sarà necessario rimuovere la carta di credito da tutti gli abbonamenti attivi di Microsoft e riprovare.
+1.  Accedere al portale [di Azure come](https://portal.azure.com/) Amministratore [account.](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Cercare Gestione **costi + Fatturazione.**
+2.  Selezionare **Modalità di pagamento.** Fare clic sulla carta di debito o di credito che si desidera modificare. A destra verrà visualizzato un modulo di carta di debito/credito.
+3.  Aggiornare i dettagli della carta di debito o di credito. Selezionare **Salva**.
+4.  Per **rimuovere**, selezionare la casella accanto alla scheda che si desidera rimuovere.
+5.  Fare clic su **Elimina**.
 
-Per ulteriori informazioni [, vedere Update, Change o Remove Payment methods](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support) .
+**Nota:** non puoi rimuovere la carta di debito/credito se è associata ad altri abbonamenti Microsoft attivi. Dovrai rimuovere la carta di debito/credito da tutti gli abbonamenti attivi disponibili con Microsoft e riprovare.
 
-**Risoluzione dei problemi relativi al pagamento**
+Per ulteriori informazioni, vedere [Aggiornare, modificare o rimuovere i metodi di pagamento](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Fare riferimento a [risoluzione dei problemi di pagamento/scenari di errore](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues) per verificare se il problema è stato risolto.
+**Risolvere i problemi di pagamento**
 
-Se è presente un pagamento in sospeso sulla carta poiché la scheda è stata negata dall'istituto finanziario, contattare il proprio **istituto finanziario** per risolvere il problema. Utilizzare i puntatori seguenti:
+Fare [riferimento alla sezione Risolvere i problemi di](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues) pagamento e gli scenari di errore per verificare se risolve il problema.
 
-- Potrebbe essere necessario controllare con la banca per vedere se la transazione internazionale è abilitata sulla scheda
-- Se la scheda ha un limite di credito per risolvere il saldo
-- Se il pagamento ricorrente è abilitato sulla scheda
+Se sulla carta è presente un pagamento in sospeso in seguito alla negazione  della carta da parte dell'istituto finanziario, contattare l'istituto finanziario per risolvere il problema. Usa i puntatori seguenti:
+
+- Potrebbe essere necessario rivolgersi alla banca per vedere: 
+    - Se la transazione internazionale è abilitata sulla carta
+    - Se la carta ha un limite di credito per liquidare il saldo
+    - Se il pagamento ricorrente è abilitato sulla carta
 
 **Documenti consigliati**
 
-- [Configurare la fatturazione](https://azure.microsoft.com/pricing/invoicing/)
-- [Cambiare il metodo di pagamento-domande frequenti](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Cambiare il metodo di pagamento per un profilo di fatturazione](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
-- [Controllare l'accesso a un contratto per i clienti Microsoft](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [Configurare la fatturazione](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice)
+- [Modificare la modalità di pagamento - Domande frequenti](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Modificare la modalità di pagamento per un profilo di fatturazione](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+- [Controllare l'accesso a un Contratto per i clienti Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)

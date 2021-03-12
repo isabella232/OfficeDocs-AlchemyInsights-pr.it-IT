@@ -14,15 +14,15 @@ ms.custom:
 - "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: a189e8d74efb869b1068accbe6e065a0aebd0b1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 527f90621fb8a15967259b58de673bf28025bd3c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697093"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707274"
 ---
 # <a name="adding-bookings-to-teams"></a>Aggiungere Bookings a Teams
 
 Microsoft Bookings è un'app di pianificazione di appuntamenti che consente di tenere traccia delle prenotazioni, del personale e dei clienti. Gli amministratori possono aggiungere Bookings come app alla barra dell'app di Microsoft Teams degli utenti tramite la [Gestione dei criteri di configurazione delle app in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies).
 
-Per informazioni o per risolvere problemi relativi all'app Bookings, vedere gli [articoli su Bookings](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).
+Per informazioni o per risolvere problemi relativi all'app Bookings, vedere gli [articoli su Bookings](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq).

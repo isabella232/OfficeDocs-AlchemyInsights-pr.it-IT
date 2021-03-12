@@ -13,41 +13,41 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0ed893420b5813d5d18639c2c226c12f0306a13f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f07e64c95675a4f6a0aeb6df110fe4e6a21d72f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679697"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707814"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP non funziona come previsto
 
 **Importante**: durante questi periodi senza precedenti, stiamo adottando misure per garantire che i servizi SharePoint Online e OneDrive rimangano disponibili. Per altre informazioni, vedere [Modifiche temporanee delle funzionalità di SharePoint Online](https://aka.ms/ODSPAdjustments).
 
- **Configurazione di DLP**
+ **Configurazione della prevenzione della perdita dei dati**
 
-Se si riscontrano problemi con la **prevenzione della perdita di dati (DLP)** in Office 365, non funziona come previsto? In caso affermativo, verificare che i **criteri DLP** siano configurati correttamente e che i dati contengano gli elementi desiderati dal **criterio DLP** quando viene valutato.
+Si verificano problemi con la prevenzione della perdita dei dati **(DLP)** in Office 365 non funziona come previsto? In tal caso, assicurarsi che il criterio **DLP** sia configurato correttamente e che i dati contengano ciò che il criterio **DLP** sta cercando durante la valutazione.
   
-I criteri DLP consentono di identificare e proteggere le informazioni riservate nell'organizzazione. Per configurare i criteri DLP, utilizzare le informazioni [qui](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+I criteri DLP consentono di identificare e proteggere le informazioni riservate nell'organizzazione. Per configurare i criteri DLP, utilizzare le informazioni [riportate di seguito.](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template)
   
- **Ricerca di criteri DLP**
+ **Ricerca dei criteri DLP**
   
-Quando si utilizzano i **tipi di informazioni riservate incorporate** nei centri sicurezza e conformità, i criteri DLP cercano modelli ed elementi specifici quando si individuano questi tipi riservati.
+Quando si utilizzano **i tipi** di informazioni riservate predefiniti nei Centri sicurezza e conformità, i criteri DLP ricercano modelli ed elementi specifici quando rilevano questi tipi di dati sensibili.
   
-- **Tipi di informazioni riservate incorporate**
+- **Tipi di informazioni riservate predefiniti**
 
-    Per informazioni sui tipi riservati incorporati e sull'aspetto di un criterio DLP per il rilevamento del tipo di dati sensibili, vedere: [cosa cercano i tipi di informazioni riservate](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+    Per informazioni sui tipi di informazioni sensibili predefiniti e sugli elementi cercati da un criterio DLP per rilevare il tipo di dati sensibili, vedere: Cosa vengono cercati i [tipi di informazioni riservate.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- **Tipi di informazioni riservate personalizzate**
+- **Tipi di informazioni sensibili personalizzati**
 
-    Se si sta tentando di creare tipi di informazioni riservate personalizzate, utilizzare l'articolo seguente per informazioni su come creare un tipo di riservatezza personalizzato: [creare un tipo di informazioni riservate personalizzato](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type).
+    Se si sta tentando di creare tipi di informazioni sensibili personalizzati, utilizzare l'articolo seguente per informazioni su come creare un tipo di informazioni sensibili personalizzato: Creare un tipo di [informazioni sensibili personalizzato.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
 
 **Testare un criterio DLP**
 
-Per testare i dati con un tipo di informazioni riservate incorporato o personalizzato, utilizzare l'opzione **tipo di test** in **classificazione**  >  **tipi di informazioni riservate**. Per ulteriori informazioni, vedere [testare i tipi di informazioni riservate personalizzate](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Per testare i dati con un tipo di informazioni sensibili predefinito o personalizzato, usare l'opzione Tipo di **test** in **Classificazioni**  >  **Tipi di informazioni sensibili.** Per ulteriori informazioni, vedere [Testare i tipi di informazioni sensibili personalizzati.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)
 
  **Report**
   
-- Ottenere Insight dei dati sensibili con i [report DLP.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
+- Ottenere informazioni dettagliate sui dati sensibili con [i report DLP.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
 
-- Per informazioni dettagliate sull'evento, vedere un [rapporto sulle operazioni](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports)non consentite.
+- Visualizzare dettagli specifici dell'evento con un [Rapporto operazioni non consentite.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports)
