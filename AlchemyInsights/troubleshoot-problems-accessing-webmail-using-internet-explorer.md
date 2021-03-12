@@ -1,5 +1,5 @@
 ---
-title: Risoluzione dei problemi relativi all'accesso alla posta elettronica
+title: Risolvere i problemi relativi all'accesso alla posta web
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003958"
 - "7014"
-ms.openlocfilehash: cc6fd9d874bb1a02a98d6d6c4c9991f0b02f91fb
-ms.sourcegitcommit: 77d16f186ac95e85be2528c4756f0dac9368fe92
+ms.openlocfilehash: 8711b33851e2dac4499f39e3bfbff955d3cb91e3
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49716595"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708030"
 ---
-# <a name="troubleshoot-problems-with-accessing-webmail"></a><span data-ttu-id="29c3f-102">Risoluzione dei problemi relativi all'accesso alla posta elettronica</span><span class="sxs-lookup"><span data-stu-id="29c3f-102">Troubleshoot problems with accessing webmail</span></span>
+# <a name="troubleshoot-problems-with-accessing-webmail"></a><span data-ttu-id="743c4-102">Risolvere i problemi relativi all'accesso alla posta web</span><span class="sxs-lookup"><span data-stu-id="743c4-102">Troubleshoot problems with accessing webmail</span></span>
 
-<span data-ttu-id="29c3f-103">Le impostazioni di data e ora non corrette sul PC possono causare problemi con l'accesso ai server di posta elettronica basati sul Web.</span><span class="sxs-lookup"><span data-stu-id="29c3f-103">Incorrect date and time settings on your PC can cause problems with accessing web-based email servers.</span></span> <span data-ttu-id="29c3f-104">Per assicurarsi che le impostazioni di data e ora siano corrette, eseguire la procedura seguente:</span><span class="sxs-lookup"><span data-stu-id="29c3f-104">To ensure that the date and time settings are correct, follow these steps:</span></span>
+<span data-ttu-id="743c4-103">Impostazioni di data e ora non corrette nel PC possono causare problemi con l'accesso ai server di posta elettronica basati sul Web.</span><span class="sxs-lookup"><span data-stu-id="743c4-103">Incorrect date and time settings on your PC can cause problems with accessing web-based email servers.</span></span> <span data-ttu-id="743c4-104">Per verificare che le impostazioni di data e ora siano corrette, attenersi alla seguente procedura:</span><span class="sxs-lookup"><span data-stu-id="743c4-104">To ensure that the date and time settings are correct, follow these steps:</span></span>
 
-1. <span data-ttu-id="29c3f-105">Selezionare **inizio**, digitare **data e ora**, quindi selezionare **data e ora**.</span><span class="sxs-lookup"><span data-stu-id="29c3f-105">Select **Start**, type **date and time**, and then select **Date and Time**.</span></span>
-2. <span data-ttu-id="29c3f-106">Nella finestra **data & ora** eseguire una delle operazioni seguenti:</span><span class="sxs-lookup"><span data-stu-id="29c3f-106">In the **Date & time** window, do one of the following:</span></span>
+1. <span data-ttu-id="743c4-105">Selezionare **Start,** digitare **data e ora** e quindi selezionare Data e **ora.**</span><span class="sxs-lookup"><span data-stu-id="743c4-105">Select **Start**, type **date and time**, and then select **Date and Time**.</span></span>
+2. <span data-ttu-id="743c4-106">**Nell'intervallo di &** data e ora eseguire una delle operazioni seguenti:</span><span class="sxs-lookup"><span data-stu-id="743c4-106">In the **Date & time** window, do one of the following:</span></span>
 
-    - <span data-ttu-id="29c3f-107">Attiva **automaticamente il tempo impostato** e **imposta il fuso orario automaticamente**.</span><span class="sxs-lookup"><span data-stu-id="29c3f-107">Turn on **Set time automatically** and **Set time zone automatically**.</span></span>
+    - <span data-ttu-id="743c4-107">Attivare Imposta ora **automaticamente e** **Imposta fuso orario automaticamente.**</span><span class="sxs-lookup"><span data-stu-id="743c4-107">Turn on **Set time automatically** and **Set time zone automatically**.</span></span>
 
-    - <span data-ttu-id="29c3f-108">Mantieni disattivata la configurazione automatica, ma seleziona il pulsante **Cambia** , seleziona le impostazioni di **Data** e **ora** nella finestra di dialogo **modifica data e ora** e quindi seleziona **Cambia**.</span><span class="sxs-lookup"><span data-stu-id="29c3f-108">Keep the auto-settings off but select the **Change** button, select the **Date** and **Time** settings in the **Change date and time** dialog box, and then select **Change**.</span></span>
+    - <span data-ttu-id="743c4-108">Disattivare le impostazioni automaticamente, ma selezionare  il  pulsante Cambia, selezionare le impostazioni di data e ora nella finestra di dialogo Modifica data e ora e quindi **selezionare Cambia.**  </span><span class="sxs-lookup"><span data-stu-id="743c4-108">Keep the auto-settings off but select the **Change** button, select the **Date** and **Time** settings in the **Change date and time** dialog box, and then select **Change**.</span></span>
 
-<span data-ttu-id="29c3f-109">Per ulteriori informazioni, vedere [risolvere i problemi relativi all'accesso alla posta elettronica tramite Internet Explorer](https://go.microsoft.com/fwlink/?linkid=2139414).</span><span class="sxs-lookup"><span data-stu-id="29c3f-109">To learn more, see [Troubleshoot problems accessing webmail using Internet Explorer](https://go.microsoft.com/fwlink/?linkid=2139414).</span></span>
+<span data-ttu-id="743c4-109">Per altre informazioni, vedi Risolvere [i problemi di accesso alla posta web tramite Internet Explorer.](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888)</span><span class="sxs-lookup"><span data-stu-id="743c4-109">To learn more, see [Troubleshoot problems accessing webmail using Internet Explorer](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888).</span></span>
