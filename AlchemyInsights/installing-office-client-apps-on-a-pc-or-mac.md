@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667846"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708354"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Installare le app client di Office in un PC o MAC
 
 Per installare le app client di Office, verificare di avere un abbonamento a Office 365 o Microsoft 365 che [includa le app client di Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), ad esempio Microsoft 365 Business Standard, Microsoft 365 Apps for business o Microsoft 365 Apps for enterprise.
 
-**Nota**: [Office Home and Business](https://products.office.com/home-and-business) è un prodotto [Office per utenti privati](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) e non fa parte di un abbonamento per le aziende. Project Online Essentials non include una versione desktop di Project, quindi non è necessaria alcuna installazione. Gli utenti di Visio - Piano 1 possono accedere a Visio per il Web, perché il piano non include l'app desktop Visio. Le app desktop di Project e Visio non sono disponibili per Mac.
+**Nota**: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) è un prodotto [Office per utenti privati](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) e non fa parte di un abbonamento per le aziende. Project Online Essentials non include una versione desktop di Project, quindi non è necessaria alcuna installazione. Gli utenti di Visio - Piano 1 possono accedere a Visio per il Web, perché il piano non include l'app desktop Visio. Le app desktop di Project e Visio non sono disponibili per Mac.
 
 Se si ha un abbonamento che include app di Microsoft 365 non viene visualizzata un'opzione per installarle, a meno che non si disponga di una [licenza assegnata](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). L'amministratore di Office 365 responsabile dell'assegnazione di licenze, può fare riferimento a [Assegnare licenze agli utenti](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). In più, usare le [impostazioni di download del software Office‎](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) per scegliere se gli utenti possono installare le app di ‎Office‎ nei propri dispositivi.
 
