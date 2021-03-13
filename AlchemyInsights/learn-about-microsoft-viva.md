@@ -1,5 +1,5 @@
 ---
-title: Informazioni su Microsoft Viva
+title: Altre informazioni su Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "8338"
 ms.openlocfilehash: b87a08b698de39f0b447c15845037abbc3c311c3
 ms.sourcegitcommit: 0f1e81498c68a5d1aba76a21fdae91a141b69f89
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 03/03/2021
 ms.locfileid: "50417120"
 ---
-# <a name="learn-about-microsoft-viva"></a>Informazioni su Microsoft Viva
+# <a name="learn-about-microsoft-viva"></a>Altre informazioni su Microsoft Viva
 
-Microsoft Viva offrirà a ogni dipendente il supporto per la nuova era digitale. Per altre informazioni, vedere:
+Microsoft Viva consentirà a ogni dipendente di affrontare al meglio l'era digitale. Per altre informazioni, vedere:
 
 - [Introduzione a Microsoft Viva](https://www.microsoft.com/microsoft-viva/overview)
-- [Informazioni su Viva Connections](https://aka.ms/VivaConnectionsBlog/)
-- [Informazioni su Viva Insights](https://aka.ms/VivaInsightsBlog)
-- [Informazioni su Viva Learning](https://aka.ms/VivaLearningBlog)
-- [Informazioni su Viva Topics](https://aka.ms/viva/topics/blog)
+- [Altre informazioni su Viva Connections](https://aka.ms/VivaConnectionsBlog/)
+- [Altre informazioni su Viva Insights](https://aka.ms/VivaInsightsBlog)
+- [Altre informazioni su Viva Learning](https://aka.ms/VivaLearningBlog)
+- [Altre informazioni su Viva Topics](https://aka.ms/viva/topics/blog)
 
-Per ulteriori informazioni, vedere [Microsoft Viva: Responsabilizzazione di ogni dipendente per la nuova era digitale.](https://www.microsoft.com/microsoft-365/blog/2021/02/04/microsoft-viva-empowering-every-employee-for-the-new-digital-age/)
+Per altre informazioni, vedere [Microsoft Viva: consentire a ogni dipendente di affrontare al meglio la nuova era digitale](https://www.microsoft.com/microsoft-365/blog/2021/02/04/microsoft-viva-empowering-every-employee-for-the-new-digital-age/).

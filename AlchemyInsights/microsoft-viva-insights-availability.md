@@ -14,7 +14,7 @@ ms.custom:
 - "8337"
 ms.openlocfilehash: 141a896fe181a554ae2b5ace46b6f09b6006692f
 ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 02/18/2021
 ms.locfileid: "50295469"
@@ -23,8 +23,8 @@ ms.locfileid: "50295469"
 
 Microsoft Viva Insights è ora disponibile in anteprima.
 
-[Download](https://aka.ms/InsightsDocumentation) Viva Insights in Microsoft Teams.
+[Scarica](https://aka.ms/InsightsDocumentation) Viva Insights in Microsoft Teams.
 
-[Scopri di più](https://aka.ms/VivaInsights) su come Viva Insights contribuisce a creare una cultura in cui persone e aziende possono crescere.
+[Altre informazioni](https://aka.ms/VivaInsights) su come Viva Insights consente di creare una cultura in cui persone e aziende possano prosperare.
 
-Per altre informazioni, vedere in che modo Microsoft Viva Insights aiuta le persone a promuovere il benessere [e a essere i migliori.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010)
+Per altre informazioni, vedere come [Microsoft Viva Insights consente alle persone di promuovere il benessere e sentirsi al meglio](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010).
