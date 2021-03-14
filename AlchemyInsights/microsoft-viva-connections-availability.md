@@ -14,13 +14,13 @@ ms.custom:
 - "8336"
 ms.openlocfilehash: b8bdb514949750f6041019bcbb725934b76e68f4
 ms.sourcegitcommit: 0fc6005bbe351a861be1805a2e15b52438c914c9
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 02/18/2021
 ms.locfileid: "50295069"
 ---
 # <a name="microsoft-viva-connections-availability"></a>Disponibilità di Microsoft Viva Connections
 
-Microsoft Viva Connections sarà disponibile per il desktop nella prima metà del 2021 e per i dispositivi mobili nell'estate del 2021. Ulteriori funzionalità verranno implementazioni nel corso del 2022.
+Microsoft Viva Connections sarà disponibile per il desktop nella prima metà del 2021 e per i dispositivi mobili nell'estate del 2021. Nel corso del 2022 le funzionalità verranno implementate.
 
-Per altre informazioni, vedere in che modo Microsoft Viva Connections consente a tutti [di rimanere coinvolti e informati.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)
+Per altre informazioni, vedere come [Microsoft Viva Connections aiuta tutti a rimanere motivati e informati](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009).
