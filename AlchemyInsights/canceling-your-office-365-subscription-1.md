@@ -1,10 +1,10 @@
 ---
-title: Annullamento dell'abbonamento a Microsoft 365?
+title: Annullare l'abbonamento a Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.date: ''
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757232"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837422"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Annullamento dell'abbonamento a Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Annullare l'abbonamento a Microsoft 365?
 
-Ci dispiace vederti andare, ma ecco le opzioni per annullare l'abbonamento:
-  
-- **In base ai dati dell'organizzazione, riteniamo che tutti gli abbonamenti correnti siano abbonamenti di valutazione. Non è necessario annullare esplicitamente una sottoscrizione di valutazione perché gli abbonamenti di valutazione non richiedono pagamenti e non vi sono obblighi dopo la fine del processo.**
+Siamo spiacenti di vederti andare, ecco i passaggi per annullare l'abbonamento:
 
-- Per ulteriori informazioni sull'annullamento di un abbonamento o per istruzioni dettagliate, vedere questo articolo: [annullare l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione**  >  **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** e quindi selezionare la **scheda** Prodotti.
+2. Trovare l'abbonamento da annullare. Selezionare **Altre azioni** (tre puntini), quindi selezionare **Annulla l’abbonamento**.
+3. Nel riquadro **Annulla abbonamento** scegliere un motivo per cui si vuole annullare l'abbonamento. Se si vuole, inviare un feedback.
+4. Selezionare **Salva**.
+
+Per ulteriori informazioni sull'annullamento di una sottoscrizione o opzioni, vedere [Annullare l'abbonamento.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
