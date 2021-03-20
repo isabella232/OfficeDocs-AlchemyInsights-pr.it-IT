@@ -13,13 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-- commerce
-ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
+ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837422"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50931652"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Annullare l'abbonamento a Microsoft 365?
 
@@ -31,3 +30,5 @@ Siamo spiacenti di vederti andare, ecco i passaggi per annullare l'abbonamento:
 4. Selezionare **Salva**.
 
 Per ulteriori informazioni sull'annullamento di una sottoscrizione o opzioni, vedere [Annullare l'abbonamento.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+
+Se si desidera continuare a usare l'abbonamento per tutta la durata della versione di valutazione, è possibile disattivare la fatturazione ricorrente per l'abbonamento. Per informazioni su come, vedere [Rinnovare Microsoft 365 per le aziende.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)
