@@ -1,5 +1,5 @@
 ---
-title: Problemi con l’esecuzione dell’onboarding di computer
+title: Problemi con l’onboarding delle macchine a Microsoft Defender per Endpoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676886"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901571"
 ---
-# <a name="issues-with-onboarding-machines"></a>Problemi con l’esecuzione dell’onboarding di computer
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Problemi con l’onboarding delle macchine a Microsoft Defender per Endpoint
 
-Potrebbero verificarsi problemi per eseguire l’onboarding di computer al servizio MDATP. Se è possibile accedere al computer dell'utente finale, effettuare i seguenti passaggi:
+Potrebbero verificarsi problemi con l’onboarding delle macchine al servizio MDE. Se è possibile accedere al computer dell'utente finale, effettuare i seguenti passaggi:
 
-1. Scaricare lo strumento di diagnostica [Client Connectivity Analyzer](https://aka.ms/mdatpanalyzer).
-2. Estrarre ed eseguire MDATPAnalyzer.cmd.
-3. Individuare il log di diagnostica nella cartella MDATPClientAnalyzerResult, la stessa cartella in cui è stato scaricato Analyzer.
-4. Controllare il file di log, MDATPClientAnalyzer.txt, per trovare problemi di connettività o di impostazioni proxy Internet.
+1. Scaricare la versione di anteprima più recente dello strumento di diagnostica [MDE Client Analyzer](https://aka.ms/betamdeanalyzer).
+2. Fare clic con il pulsante destro del mouse su **MDEClientAnalyzer.cmd** e selezionare “Esegui come amministratore”.
+3. Seguire tutte le indicazioni suggerite in **MDEClientAnalyzer.htm**.
+4. Per registri più dettagliati, rivedere la sottocartella creata denominata **MDEClientAnalyzerResult**.
+5. Se sono necessarie ulteriori indicazioni, contattare il [supporto di Microsoft Defender per Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) e fornire il file MDEClientAnalyzerResult.zip risultante per l’analisi.
