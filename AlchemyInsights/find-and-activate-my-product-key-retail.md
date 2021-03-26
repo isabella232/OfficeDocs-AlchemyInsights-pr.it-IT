@@ -1,5 +1,5 @@
 ---
-title: Trovare e attivare il codice Product Key
+title: Carta prepagata per la vendita al dettaglio
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 49a612831c416ca6767eeb47800bca535a3fc010
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: 1785cc69d00211cf025814e66ae317fc5b69e8bd
+ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 03/25/2021
-ms.locfileid: "51207601"
+ms.locfileid: "51217961"
 ---
-# <a name="find-and-activate-my-product-key"></a>Trovare e attivare il codice Product Key
+# <a name="retail-prepaid-card"></a>Carta prepagata per la vendita al dettaglio
 
 Se è stato acquistato Microsoft 365 Business Standard presso un punto vendita al dettaglio, eseguire la procedura seguente per estendere la data di scadenza o aggiungere una licenza a un abbonamento esistente.
 
