@@ -1,5 +1,5 @@
 ---
-title: Utilizzare le opzioni della riga di comando per configurare le impostazioni del proxy in Microsoft Edge
+title: Usare le opzioni della riga di comando per configurare le impostazioni proxy in Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,18 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004254"
+- "9004632"
 - "7561"
-ms.openlocfilehash: a54e30034cc0dbfe60a3d88f04ffe119ca451bb6
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+- "8363"
+ms.openlocfilehash: e8702c6ef6d4f723e314ad5b82ddcf554988b36f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49693400"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403423"
 ---
-# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a><span data-ttu-id="cc4c0-102">Utilizzare le opzioni della riga di comando per configurare le impostazioni del proxy in Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="cc4c0-102">Use command-line options to configure proxy settings in Microsoft Edge</span></span>
+# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a><span data-ttu-id="d599f-102">Usare le opzioni della riga di comando per configurare le impostazioni proxy in Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="d599f-102">Use command-line options to configure proxy settings in Microsoft Edge</span></span>
 
-<span data-ttu-id="cc4c0-103">In Microsoft Edge Versions 77 e versioni successive, lo stack di rete utilizza le impostazioni di rete del sistema per impostazione predefinita.</span><span class="sxs-lookup"><span data-stu-id="cc4c0-103">In Microsoft Edge versions 77 and later, the network stack uses the system's network settings by default.</span></span> <span data-ttu-id="cc4c0-104">Negli scenari ibridi in cui gli utenti richiedono un'alternativa, Microsoft Edge supporta le opzioni della riga di comando per la configurazione delle impostazioni del proxy personalizzato.</span><span class="sxs-lookup"><span data-stu-id="cc4c0-104">In hybrid scenarios where users request an alternative, Microsoft Edge supports command-line options for configuring custom proxy settings.</span></span> <span data-ttu-id="cc4c0-105">Per dettagli, vedere:</span><span class="sxs-lookup"><span data-stu-id="cc4c0-105">For details, see:</span></span>
+<span data-ttu-id="d599f-103">In Microsoft Edge versioni 77 e successive, lo stack di rete usa le impostazioni di rete del sistema per impostazione predefinita.</span><span class="sxs-lookup"><span data-stu-id="d599f-103">In Microsoft Edge versions 77 and later, the network stack uses the system's network settings by default.</span></span> <span data-ttu-id="d599f-104">Negli scenari ibridi in cui gli utenti richiedono un'alternativa, Microsoft Edge supporta le opzioni della riga di comando per la configurazione delle impostazioni proxy personalizzate.</span><span class="sxs-lookup"><span data-stu-id="d599f-104">In hybrid scenarios where users request an alternative, Microsoft Edge supports command-line options for configuring custom proxy settings.</span></span> <span data-ttu-id="d599f-105">Per dettagli, vedere:</span><span class="sxs-lookup"><span data-stu-id="d599f-105">For details, see:</span></span>
 
-1. [<span data-ttu-id="cc4c0-106">Impostazioni di rete del sistema</span><span class="sxs-lookup"><span data-stu-id="cc4c0-106">System network settings</span></span>](https://go.microsoft.com/fwlink/?linkid=2133962)
-2. [<span data-ttu-id="cc4c0-107">Opzioni della riga di comando per le impostazioni del proxy</span><span class="sxs-lookup"><span data-stu-id="cc4c0-107">Command-line options for proxy settings</span></span>](https://go.microsoft.com/fwlink/?linkid=2134292)
-3. [<span data-ttu-id="cc4c0-108">Impostazioni di configurazione avanzate e altre opzioni</span><span class="sxs-lookup"><span data-stu-id="cc4c0-108">Advanced configuration settings and other options</span></span>](https://go.microsoft.com/fwlink/?linkid=2134293)
+1. [<span data-ttu-id="d599f-106">Impostazioni di rete di sistema</span><span class="sxs-lookup"><span data-stu-id="d599f-106">System network settings</span></span>](https://go.microsoft.com/fwlink/?linkid=2133962)
+2. [<span data-ttu-id="d599f-107">Opzioni della riga di comando per le impostazioni proxy</span><span class="sxs-lookup"><span data-stu-id="d599f-107">Command-line options for proxy settings</span></span>](https://go.microsoft.com/fwlink/?linkid=2134292)
+3. [<span data-ttu-id="d599f-108">Impostazioni di configurazione avanzate e altre opzioni</span><span class="sxs-lookup"><span data-stu-id="d599f-108">Advanced configuration settings and other options</span></span>](https://go.microsoft.com/fwlink/?linkid=2134293)
