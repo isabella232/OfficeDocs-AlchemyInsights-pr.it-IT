@@ -1,5 +1,5 @@
 ---
-title: Il flusso di lavoro non inizia
+title: Flusso di lavoro non avviato
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,39 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e3b8777ed74b812b31338784999eea43a95d3456
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794771"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403747"
 ---
-# <a name="workflow-is-not-starting"></a>Il flusso di lavoro non inizia
+# <a name="workflow-is-not-starting"></a>Flusso di lavoro non avviato
 
 - I flussi di lavoro di SharePoint 2010 e SharePoint 2013 non vengono avviati.
 
-    - Se il flusso di lavoro non è avviato, potrebbe verificarsi un problema di servizio temporaneo in cui gli utenti potrebbero riscontrare ritardi intermittenti con lo stato del flusso di lavoro. Controllare il [Dashboard dell'integrità del servizio](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) per verificare se l'organizzazione ha un impatto.
+    - Se il flusso di lavoro non viene avviato, potrebbe verificarsi un problema temporaneo del servizio in cui gli utenti potrebbero subire ritardi intermittenti con l'avanzamento del flusso di lavoro. Controllare il [dashboard di integrità del](https://admin.microsoft.com/AdminPortal/Home/servicehealth) servizio per verificare se l'organizzazione è influenzata.
 
-    - Se sono passate più di 24 ore da quando hai visto questo problema, registra un ticket di supporto. In molti casi, stiamo già lavorando a una soluzione. Per completare una soluzione, è possibile fornirci almeno 24 ore.
+    - Se sono trascorse più di 24 ore dalla prima volta che hai visto questo problema, registra un ticket di supporto. In molti casi, stiamo già lavorando a una soluzione. Fornire almeno 24 ore per completare una soluzione.
 
-- I flussi di lavoro di SharePoint 2010 sono stati posticipati all'inizio.
+- Flussi di lavoro di SharePoint 2010 ritardati all'avvio.
 
-    - Questo problema si verifica se il flusso di lavoro viene attivato in batch di grandi dimensioni. ad esempio, quando vengono aggiunti contemporaneamente più elementi.
+    - Ciò si verifica se il flusso di lavoro viene attivato in batch di grandi dimensioni. (ad esempio, quando vengono aggiunti più elementi contemporaneamente).
 
-    - I flussi di lavoro non sono stati creati per l'esecuzione in tempo reale, quindi un ritardo è in base alla progettazione.
+    - I flussi di lavoro non sono progettati per l'esecuzione in tempo reale, quindi un ritardo è in base alla progettazione.
 
-   -  Se il flusso di lavoro è XMOL (Extensible Object Markup Language) complesso, la compilazione può essere lenta. Controllare [questo](https://support.microsoft.com//kb/3043697) articolo.
+   -  Se il flusso di lavoro è complesso XMOL (Extensible Object Markup Language), la compilazione può essere lenta. Controlla [questo](https://support.microsoft.com//kb/3043697) articolo.
 
-    - È consigliabile semplificare il flusso di lavoro o riprogettarlo utilizzando il tipo di piattaforma per flussi di lavoro di Microsoft SharePoint 2013.
+    - È consigliabile semplificare il flusso di lavoro o riprogettare il flusso di lavoro utilizzando il tipo di piattaforma flusso di lavoro di Microsoft SharePoint 2013.
 
-    - Se la cronologia del flusso di lavoro è cresciuta, potrebbe essere necessario eliminare gli elementi o creare un nuovo elenco di cronologia.
+    - Se la cronologia del flusso di lavoro è aumentata, è possibile eliminare gli elementi o creare un nuovo elenco della cronologia.
 
-        Ulteriori informazioni: [eliminare la cronologia dei flussi di lavoro](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Ulteriori informazioni : [Eliminazione della cronologia del flusso di lavoro](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Argomenti correlati
 Si desidera provare Microsoft Flow in SharePoint Online?
-- [Crea flusso](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint e flusso](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
-
-
+- [Create Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint e Flusso](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

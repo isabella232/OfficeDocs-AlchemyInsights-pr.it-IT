@@ -12,14 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6162"
+- "6158"
 - "9003244"
-ms.openlocfilehash: cb50ece43e36c81560aa07b6b892470d6ccd1981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9003246"
+ms.openlocfilehash: 18d0ce6bdf3df96e07cc6607b9ae6142d548dabe
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690283"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401911"
 ---
 # <a name="troubleshoot-hybrid-azure-ad-join"></a>Risoluzione dei problemi di Aggiunta ad Azure AD ibrido
+
+È consigliabile verificare che un dispositivo possa accedere agli endpoint di registrazione dispositivo nell'account di sistema usando lo [script di Test Device Registration Connectivity](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/).
+
+1. Se si stanno configurando le registrazioni dei dispositivi per la prima volta, è necessario rivedere [Introduzione alla gestione dei dispositivi in Azure Active Directory](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/) per informazioni su come impostare i dispositivi sotto il controllo di Azure AD.
+1. Se i dispositivi vengono registrati direttamente in Azure AD e si sta eseguendo l’iscrizione di questi in Intune, assicurarsi, prima di tutto, di aver [configurato Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) e avere le [licenze](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support).
+1. Assicurarsi di essere autorizzati a eseguire operazioni in Azure AD e Active Directory locale. Solo l’amministratore globale in Azure AD può gestire le impostazioni per la registrazione dei dispositivi. Inoltre, è necessario essere un amministratore di Active Directory e AD FS, se applicabile, se si stanno configurando le registrazioni automatiche in Active Directory locale.
+
+Per altre informazioni sulla risoluzione di potenziali problemi con l’aggiunta ibrida, vedere [Risoluzione dei problemi di aggiunta ibrida](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current). Per la configurazione di dispositivi aggiunti ad Azure AD ibrido e la gestione dei dispositivi tramite il portale di Azure AD, vedere [Configurare dispositivi aggiunti ad Azure AD ibrido (aggiunto a un dominio locale)](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan?WT.mc_id=Portal-Microsoft_Azure_Support) e [Gestire i dispositivi usando il portale di Azure](https://docs.microsoft.com/azure/active-directory/devices/device-management-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 Per risolvere i problemi più comuni di Aggiunta ad Azure Active Directory (AD) ibrido, vedere le [domande frequenti su Aggiunta ad Azure AD ibrido](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).

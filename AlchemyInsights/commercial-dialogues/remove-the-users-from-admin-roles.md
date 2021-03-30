@@ -3,7 +3,7 @@ title: Rimuovere gli utenti dai ruoli di amministratore
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: fc4bd22861fbc1d254d0fdd4d6c5fa46e63d550e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 23a6533f0ae759a7b8bc4a668f1f6d11e297da26
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464568"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403135"
 ---
 # <a name="remove-the-users-from-the-admin-roles"></a>Rimuovere gli utenti dai ruoli di amministratore
 
 Ecco come eseguire questa operazione:
 
-1. Nell'interfaccia di amministrazione selezionare **Utenti**  >  [**attivi.**](https://go.microsoft.com/fwlink/p/?linkid=834822)
+1. Nell'interfaccia di amministrazione, selezionare **Utenti**  >  [**Utenti attivi**](https://go.microsoft.com/fwlink/p/?linkid=834822).
 1. Selezionare l'utente il cui account è stato compromesso.
-1. Nel riquadro a comparsa visualizzato, selezionare **Modifica** per **Ruoli.** Rimuovere l'utente dai ruoli di amministratore fino a quando non si è certi che il suo account non sia più compromesso.
+1. Nel riquadro a comparsa visualizzato selezionare **Modifica per** **Ruoli**. Rimuovere l'utente da tutti i ruoli di amministratore finché non si è certi che l'account non sia più compromesso.
 

@@ -1,5 +1,5 @@
 ---
-title: Utilizzo di grafp per configurare le impostazioni del criterio Microsoft Edge su macOS
+title: Usare Jamf per configurare le impostazioni dei criteri di Microsoft Edge in macOS
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,16 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003852"
+- "9004632"
 - "6901"
-ms.openlocfilehash: 7874ce15417958cfe2e3b2ff068b3eb7241e6812
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8360"
+ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617547"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403459"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Utilizzo di grafp per configurare le impostazioni del criterio Microsoft Edge su macOS
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Usare Jamf per configurare le impostazioni dei criteri di Microsoft Edge in macOS
 
-Per configurare Microsoft Edge (stable Channel 81 o versione successiva) su macOS, utilizzare un file manifesto del criterio Microsoft Edge in grafp Pro 10,19.
+Per configurare Microsoft Edge (stable channel 81 o versione successiva) in macOS, usa un file manifesto dei criteri di Microsoft Edge in Jamf Pro 10.19.
 
-Per ulteriori informazioni, vedere [Configure Microsoft Edge Policy settings on MacOS with grafp](https://go.microsoft.com/fwlink/?linkid=2134761).
+Per altre informazioni, vedi Configurare le impostazioni dei [criteri di Microsoft Edge in macOS con Jamf.](https://go.microsoft.com/fwlink/?linkid=2134761)
