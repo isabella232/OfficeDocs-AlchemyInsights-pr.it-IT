@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002660"
 - "9422"
-ms.openlocfilehash: dec51a33f9801291765c48c11ec616e870f3e054
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: ecc1ecc0cede129cb66a788130d8d3bd7ab38ecf
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123081"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440863"
 ---
-# <a name="one-drive-announcement"></a><span data-ttu-id="a5acc-102">Annuncio di One Drive</span><span class="sxs-lookup"><span data-stu-id="a5acc-102">One Drive announcement</span></span>
+# <a name="one-drive-announcement"></a><span data-ttu-id="ebab3-102">Annuncio di One Drive</span><span class="sxs-lookup"><span data-stu-id="ebab3-102">One Drive announcement</span></span>
 
-<span data-ttu-id="a5acc-103">Eseguire automaticamente il backup di file e foto, in modo da avere sempre accesso a essi anche se il PC viene perso, danneggiato o rubato.</span><span class="sxs-lookup"><span data-stu-id="a5acc-103">Back up files and photos automatically, so you'll always have access to them even if your PC is lost, damaged, or stolen.</span></span> <span data-ttu-id="a5acc-104">Per ulteriori informazioni, vedere [Set up free OneDrive PC Folder back up](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup).</span><span class="sxs-lookup"><span data-stu-id="a5acc-104">For more information, see [Set up free OneDrive PC Folder back up](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup).</span></span>
+<span data-ttu-id="ebab3-103">Eseguire automaticamente il backup di file e foto, in modo da avere sempre accesso a essi anche se il PC viene perso, danneggiato o rubato.</span><span class="sxs-lookup"><span data-stu-id="ebab3-103">Back up files and photos automatically, so you'll always have access to them even if your PC is lost, damaged, or stolen.</span></span> <span data-ttu-id="ebab3-104">[Configurare il backup gratuito di OneDrive PC Folder](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup).</span><span class="sxs-lookup"><span data-stu-id="ebab3-104">[Set up free OneDrive PC Folder back up](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup).</span></span>
