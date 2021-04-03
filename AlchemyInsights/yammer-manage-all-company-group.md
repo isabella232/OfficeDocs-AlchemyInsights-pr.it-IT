@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688842"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505432"
 ---
 # <a name="all-company-group"></a>Tutti i gruppi aziendali
 
-Il gruppo **tutto l'azienda** viene creato automaticamente quando si crea una rete Yammer. Si tratta di un gruppo di sistema predefinito che non può essere rinominato o eliminato. Tutti possono inviare messaggi al gruppo di **tutti** gli utenti, ma solo gli amministratori di rete di Yammer possono inviare annunci al gruppo. Utilizzare **Insight di gruppo**per visualizzare le informazioni sull'impegno nel gruppo **tutto l'azienda** .
+La community All Company ora supporta funzionalità simili ad altre community in Yammer. Sono incluse opzioni come le foto di copertina e la denominazione. È anche possibile limitare tutti i post aziendali in Yammer. Per ulteriori informazioni, vedere [All Company now works like other Yammer communities.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
 
-Per ulteriori informazioni, vedere [gestire un gruppo in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
+## <a name="common-issues-and-solutions"></a>Problemi e soluzioni comuni
+
+- Tutte le restrizioni di personalizzazione o pubblicazione della società non sono disponibili per gli amministratori di rete. Aprire una richiesta di servizio per abilitare il gruppo All Company moderno.
+
+- Community Insights non mostra i dati vecchi. Ora che All Company è una community reale, i dati precedenti per la rete non vengono visualizzati.
+
+- Tutta la società sembra essere stata eliminata. Quando la community è connessa a un gruppo di Microsoft 365, tale gruppo può essere eliminato. Il gruppo di Microsoft 365 deve essere ripristinato nel tenant.
+

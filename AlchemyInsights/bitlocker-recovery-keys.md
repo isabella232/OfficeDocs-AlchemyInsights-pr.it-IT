@@ -1,5 +1,5 @@
 ---
-title: Chiavi di ripristino di BitLocker
+title: Chiavi di ripristino bitlocker
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685890"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505072"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Accesso alle chiavi di ripristino di BitLocker
+# <a name="accessing-bitlocker-recovery-keys"></a>Accesso alle chiavi di ripristino di Bitlocker
 
-Quando si configurano i criteri di protezione dell'endpoint di configurazione di BitLocker, è possibile definire se le informazioni di ripristino di BitLocker devono essere archiviate in Azure Active Directory.
+Quando si configurano le impostazioni di Bitlocker Intune Endpoint Protection Policy, è possibile definire se le informazioni di ripristino di Bitlocker devono essere archiviate in Azure Active Directory.
 
-Se tale impostazione è configurata, i dati di ripristino archiviati devono essere visibili a un amministratore di Intune come parte dei dati del record del dispositivo nel Blade dei dispositivi Intune in due modi:
+Se questa impostazione è configurata, i dati di ripristino archiviati devono essere visibili a un amministratore di Intune come parte dei dati del record del dispositivo nel pannello Dispositivi intune in due modi:
 
-Devices-Azure AD Devices-> "dispositivo" o dispositivi-> tutti i dispositivi-> "dispositivo"-tasti di ripristino >
+Dispositivi - Dispositivi Azure AD -> "Dispositivo" O Dispositivi -> Tutti i dispositivi -> "Dispositivo" -> chiavi di ripristino
 
-In alternativa, se è presente un accesso amministrativo al dispositivo stesso, il tasto di ripristino (password) può essere visualizzato eseguendo il comando seguente da un prompt dei comandi con privilegi elevati:
+In alternativa, se è disponibile l'accesso amministrativo al dispositivo stesso, è possibile visualizzare la chiave di ripristino (Password) eseguendo il comando seguente da un prompt dei comandi con privilegi elevati:
 
 ```
 manage-bde -protectors c: -get
@@ -43,8 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Se il dispositivo è stato crittografato prima dell'iscrizione in Intune, è possibile che la chiave di ripristino sia stata associata all'account Microsoft (MSA) utilizzato per accedere al dispositivo durante il processo di configurazione. In tal caso, l'accesso e la  https://onedrive.live.com/recoverykey firma di MSA devono mostrare i dispositivi per i quali sono state archiviate le chiavi di ripristino.
+Se il dispositivo è stato crittografato prima della registrazione in Intune, la chiave di ripristino potrebbe essere stata associata all'"account Microsoft" (MSA) usato per accedere al dispositivo durante il processo di configurazione guidata. In tal caso, l'accesso e l'accesso con tale servizio dovrebbero mostrare i dispositivi per i quali sono state archiviate  https://onedrive.live.com/recoverykey le chiavi di ripristino.
  
-Se il dispositivo è stato crittografato in seguito alla configurazione tramite criteri di gruppo basati sul dominio, è possibile che le informazioni di ripristino vengano archiviate in Active Directory locale.
- 
+Se il dispositivo è stato crittografato a seguito della configurazione tramite criteri di gruppo basati su dominio, le informazioni di ripristino possono essere archiviate in Active Directory locale.
+
+Se sono stati configurati criteri di Endpoint protection per archiviare la chiave di ripristino in Azure Active Directory ma la chiave per un dispositivo specifico non è stata caricata, è possibile attivare il caricamento ruotando la chiave di ripristino per tale dispositivo dalla console MEM. Per informazioni dettagliate, vedere [Rotate BitLocker recovery keys](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
 

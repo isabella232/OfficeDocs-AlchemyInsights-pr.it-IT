@@ -1,5 +1,5 @@
 ---
-title: Aggiungere un'estensione a Microsoft Edge dal Chrome Web Store
+title: Aggiungere un'estensione a Microsoft Edge dall'archivio Web di Chrome
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003868"
 - "6922"
-ms.openlocfilehash: b11a1304ce6c82c6182dfdcc13716d295ab802d3
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "8312"
+- "9004621"
+ms.openlocfilehash: 0b393d548ab8cf408c26c1548f29e02e61bd8695
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609598"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505030"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Aggiungere un'estensione a Microsoft Edge dal Chrome Web Store
+# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Aggiungere un'estensione a Microsoft Edge dall'archivio Web di Chrome
 
-Per aggiungere un'estensione a Microsoft Edge dal Chrome Web Store, eseguire la procedura seguente:
+Per aggiungere un'estensione a Microsoft Edge dall'archivio Web Chrome, completare la procedura seguente:
 
 1. Passare a Chrome Web Store.
-2. Nel banner nella parte superiore della pagina, selezionare **Consenti estensioni da altri archivi**.
-3. Selezionare l'estensione che si desidera aggiungere e quindi fare clic su **Aggiungi a Chrome**.
-4. Nella finestra di dialogo di conferma, esaminare attentamente le modifiche apportate dall'interno e quindi fare clic su **Aggiungi estensione**.
-La finestra di dialogo finale conferma che l'interno è stato aggiunto.
+2. Nel banner nella parte superiore della pagina seleziona **Consenti estensioni da altri archivi.**
+3. Seleziona l'estensione che vuoi aggiungere e quindi fai clic **su Aggiungi a Chrome.**
+4. Nella finestra di dialogo di conferma esaminare attentamente le modifiche che l'estensione potrebbe apportare e quindi fare clic **su Aggiungi estensione.**
+La finestra di dialogo finale confermerà che l'estensione è stata aggiunta.
