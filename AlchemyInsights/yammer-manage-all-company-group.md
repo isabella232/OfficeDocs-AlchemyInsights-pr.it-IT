@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688842"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505432"
 ---
-# <a name="all-company-group"></a><span data-ttu-id="fe35b-102">Tutti i gruppi aziendali</span><span class="sxs-lookup"><span data-stu-id="fe35b-102">All Company Group</span></span>
+# <a name="all-company-group"></a><span data-ttu-id="75417-102">Tutti i gruppi aziendali</span><span class="sxs-lookup"><span data-stu-id="75417-102">All Company Group</span></span>
 
-<span data-ttu-id="fe35b-103">Il gruppo **tutto l'azienda** viene creato automaticamente quando si crea una rete Yammer.</span><span class="sxs-lookup"><span data-stu-id="fe35b-103">The **All Company** group is automatically created when you create a Yammer network.</span></span> <span data-ttu-id="fe35b-104">Si tratta di un gruppo di sistema predefinito che non può essere rinominato o eliminato.</span><span class="sxs-lookup"><span data-stu-id="fe35b-104">It is a default system group that cannot be renamed or deleted.</span></span> <span data-ttu-id="fe35b-105">Tutti possono inviare messaggi al gruppo di **tutti** gli utenti, ma solo gli amministratori di rete di Yammer possono inviare annunci al gruppo.</span><span class="sxs-lookup"><span data-stu-id="fe35b-105">Everyone can post to the **All Company** group, but only Yammer network administrators can post announcements to the group.</span></span> <span data-ttu-id="fe35b-106">Utilizzare **Insight di gruppo**per visualizzare le informazioni sull'impegno nel gruppo **tutto l'azienda** .</span><span class="sxs-lookup"><span data-stu-id="fe35b-106">Use **Group Insights**to view information about engagement in the **All Company** group.</span></span>
+<span data-ttu-id="75417-103">La community All Company ora supporta funzionalità simili ad altre community in Yammer.</span><span class="sxs-lookup"><span data-stu-id="75417-103">The All Company community now supports similar capabilities to other communities in Yammer.</span></span> <span data-ttu-id="75417-104">Sono incluse opzioni come le foto di copertina e la denominazione.</span><span class="sxs-lookup"><span data-stu-id="75417-104">This includes options such as cover photos and naming.</span></span> <span data-ttu-id="75417-105">È anche possibile limitare tutti i post aziendali in Yammer.</span><span class="sxs-lookup"><span data-stu-id="75417-105">It's also possible to restrict All Company posts in Yammer.</span></span> <span data-ttu-id="75417-106">Per ulteriori informazioni, vedere [All Company now works like other Yammer communities.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)</span><span class="sxs-lookup"><span data-stu-id="75417-106">For more information, see [All Company now works like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).</span></span>
 
-<span data-ttu-id="fe35b-107">Per ulteriori informazioni, vedere [gestire un gruppo in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span><span class="sxs-lookup"><span data-stu-id="fe35b-107">For more information, see [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span></span>
+## <a name="common-issues-and-solutions"></a><span data-ttu-id="75417-107">Problemi e soluzioni comuni</span><span class="sxs-lookup"><span data-stu-id="75417-107">Common issues and solutions</span></span>
+
+- <span data-ttu-id="75417-108">Tutte le restrizioni di personalizzazione o pubblicazione della società non sono disponibili per gli amministratori di rete.</span><span class="sxs-lookup"><span data-stu-id="75417-108">All Company customization or posting restriction is not available to network admins.</span></span> <span data-ttu-id="75417-109">Aprire una richiesta di servizio per abilitare il gruppo All Company moderno.</span><span class="sxs-lookup"><span data-stu-id="75417-109">Open a service request to enable the modern All Company group.</span></span>
+
+- <span data-ttu-id="75417-110">Community Insights non mostra i dati vecchi.</span><span class="sxs-lookup"><span data-stu-id="75417-110">Community Insights doesn't show old data.</span></span> <span data-ttu-id="75417-111">Ora che All Company è una community reale, i dati precedenti per la rete non vengono visualizzati.</span><span class="sxs-lookup"><span data-stu-id="75417-111">Now that All Company is a real community, the previous data for the network is not shown.</span></span>
+
+- <span data-ttu-id="75417-112">Tutta la società sembra essere stata eliminata.</span><span class="sxs-lookup"><span data-stu-id="75417-112">All Company seems to be deleted.</span></span> <span data-ttu-id="75417-113">Quando la community è connessa a un gruppo di Microsoft 365, tale gruppo può essere eliminato.</span><span class="sxs-lookup"><span data-stu-id="75417-113">When the community is connected to an Microsoft 365 group, that group can be deleted.</span></span> <span data-ttu-id="75417-114">Il gruppo di Microsoft 365 deve essere ripristinato nel tenant.</span><span class="sxs-lookup"><span data-stu-id="75417-114">The Microsoft 365 group must be restored in the tenant.</span></span>
+
