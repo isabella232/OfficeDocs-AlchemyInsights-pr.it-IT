@@ -1,5 +1,5 @@
 ---
-title: Strumento di diagnostica dei servizi per il Desktop virtuale Windows
+title: Strumento di diagnostica dei servizi per Desktop virtuale Windows
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -20,9 +20,9 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 04/05/2021
 ms.locfileid: "51590301"
 ---
-# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Strumento di diagnostica dei servizi per il Desktop virtuale Windows
+# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Strumento di diagnostica dei servizi per Desktop virtuale Windows
 
-Il Desktop virtuale Windows (WVD) offre uno strumento di diagnostica che consente agli amministratori di identificare gli errori tramite un'unica interfaccia. Questo strumento registra le informazioni correlate alla diagnostica ogni volta che viene usato il WVD da un utente a cui è assegnato un ruolo WVD. Ogni log contiene informazioni sul ruolo WVD coinvolto nell'attività, i messaggi di errore visualizzati durante la sessione e le informazioni sul tenant e l'utente. Azure Log Analytics può essere configurato per acquisire il log attività creato dallo strumento di diagnostica tramite questa procedura:
+Desktop virtuale Windows offre agli amministratori uno strumento di diagnostica per identificare gli errori tramite un'unica interfaccia. Questo strumento registra le informazioni correlate alla diagnostica ogni volta che viene usato Desktop virtuale Windows da un utente a cui è assegnato un ruolo di Desktop virtuale Windows. Ogni log contiene informazioni sul ruolo Desktop virtuale Windows coinvolto nell'attività, i messaggi di errore visualizzati durante la sessione e le informazioni sul tenant e l'utente. Azure Log Analytics può essere configurato per acquisire il log attività creato dallo strumento di diagnostica tramite questa procedura:
 
 1. Creare un'area di lavoro Log Analytics tramite il [portale di Azure](https://go.microsoft.com/fwlink/?linkid=2129500) o [Azure PowerShell](https://go.microsoft.com/fwlink/?linkid=2129501).
 
@@ -32,4 +32,4 @@ Il Desktop virtuale Windows (WVD) offre uno strumento di diagnostica che consent
 
 1. [Identificare ed eseguire la diagnostica](https://docs.microsoft.com/azure/virtual-desktop/diagnostics-role-service#diagnose-issues-with-powershell) dei problemi interni o esterni in relazione al Desktop virtuale Windows.
 
-Per altre informazioni sulla configurazione dello strumento di diagnostica del servizio per WVD, vedere Uso di Log Analytics per la funzionalità di diagnostica.
+Per altre informazioni sulla configurazione dello strumento di diagnostica del servizio per Desktop virtuale Windows, vedere Uso di Log Analytics per la funzionalità di diagnostica.

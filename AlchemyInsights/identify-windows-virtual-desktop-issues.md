@@ -1,5 +1,5 @@
 ---
-title: Identificare i problemi del Desktop virtuale Windows
+title: Identificare i problemi di Desktop virtuale Windows
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -20,9 +20,9 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 04/05/2021
 ms.locfileid: "51590296"
 ---
-# <a name="identify-windows-virtual-desktop-issues"></a>Identificare i problemi del Desktop virtuale Windows
+# <a name="identify-windows-virtual-desktop-issues"></a>Identificare i problemi di Desktop virtuale Windows
 
-La diagnostica del Desktop virtuale di Windows usa un solo cmdlet di PowerShell ma contiene diversi parametri facoltativi che consentono di restringere e isolare i problemi. Per iniziare: 
+La diagnostica di Desktop virtuale di Windows usa un solo cmdlet di PowerShell ma contiene diversi parametri facoltativi che consentono di restringere e isolare i problemi. Per iniziare: 
 
 1. Scaricare e importare il modulo PowerShell per il Desktop virtuale Windows. Per informazioni dettagliate, vedere [Cmdlet del Desktop virtuale Windows per Windows PowerShell](https://docs.microsoft.com/powershell/windows-virtual-desktop/overview).
 
@@ -36,6 +36,6 @@ Per filtrare le attività di diagnostica per utente, eseguire il cmdlet seguente
 
 Esempio: `Get-RdsDiagnosticActivities -TenantName < tenantName > -UserName < UserUPN >`
 
-È disponibile un elenco di filtri che è possibile eseguire per la diagnosi dei problemi. Per altre informazioni sulla diagnostica dei problemi, vedere[Identificare e diagnosticare i problemi del Desktop virtuale Windows](https://docs.microsoft.com/azure/virtual-desktop/diagnostics-role-service#diagnose-issues-with-powershell).
+È disponibile un elenco di filtri che è possibile eseguire per la diagnosi dei problemi. Per altre informazioni sulla diagnostica dei problemi, vedere[Identificare e diagnosticare i problemi di Desktop virtuale Windows](https://docs.microsoft.com/azure/virtual-desktop/diagnostics-role-service#diagnose-issues-with-powershell).
 
 Per altre informazioni sugli errori comuni, vedere [Scenari di errori comuni](https://docs.microsoft.com/azure/virtual-desktop/diagnostics-role-service#common-error-scenarios).

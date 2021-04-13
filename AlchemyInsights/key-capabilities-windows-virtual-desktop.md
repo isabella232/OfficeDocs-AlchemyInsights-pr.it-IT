@@ -1,5 +1,5 @@
 ---
-title: Funzionalità principali del Desktop virtuale Windows
+title: Funzionalità principali di Desktop virtuale Windows
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -20,10 +20,10 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 04/05/2021
 ms.locfileid: "51590288"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>Funzionalità principali del Desktop virtuale Windows
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Funzionalità principali di Desktop virtuale Windows
 
 
-Desktop virtuale Windows è un servizio di virtualizzazione di desktop e app eseguito nel cloud. Ecco cosa si può fare quando si esegue il Desktop virtuale Windows in Azure:
+Desktop virtuale Windows è un servizio di virtualizzazione di desktop e app eseguito nel cloud. Ecco cosa si può fare quando si usa Desktop virtuale Windows in Azure:
 
 - Configurare una distribuzione in più sessioni di Windows 10 che offra un'esperienza completa e scalabile.
 
