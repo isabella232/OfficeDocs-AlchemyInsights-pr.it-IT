@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662509"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692470"
 ---
 # <a name="pstn-calling-plans"></a>Piani per chiamate PSTN
 
@@ -28,4 +28,4 @@ Se si vuole offrire agli utenti interni la possibilità di chiamare i normali te
 
 - Configurare [Crediti di comunicazione](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) per impedire agli utenti di **esaurire i minuti**. Vedere le tariffe [qui](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Per altre informazioni, vedere [Sistema telefonico e Piani di chiamata](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) oppure [Che cosa sono i crediti di comunicazione?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Per altre informazioni, vedere [Telefono di Microsoft Teams e piani di chiamata di Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) o [Cosa sono i crediti di comunicazione?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

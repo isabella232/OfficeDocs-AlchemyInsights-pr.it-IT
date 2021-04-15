@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "5613"
-ms.openlocfilehash: a7b8c6eb170c809b616abf63e2bf3fcd56ebee25
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 817aec945e037621dd2de3b32714eaab48aa8839
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707355"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692182"
 ---
 # <a name="get-phone-numbers"></a>Ottenere numeri di telefono
 
-Dopo aver acquistato le [licenze per il Sistema telefonico e il Piano per chiamate](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#step-2-buy-and-assign-phone-system-and-calling-plan-licenses)sarà necessario ottenere i numeri di telefono per gli utenti. Esistono tre modi per ottenere i numeri di telefono.
+Una volta acquistate le [licenze di Telefono di Microsoft Teams e dei Piani chiamata Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#step-2-buy-and-assign-phone-system-and-calling-plan-licenses), è necessario ottenere i numeri di telefono degli utenti. Esistono tre modi per ottenere i numeri di telefono.
 
 1. [Ottenere nuovi numeri usando l'interfaccia di amministrazione di Teams](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-user-phone-numbers-using-the-teams-admin-center).
 2. [Ottenere nuovi numeri non disponibili nell'interfaccia di amministrazione di Teams](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-numbers-that-arent-available-in-the-teams-admin-center).

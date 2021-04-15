@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002264"
 - "4385"
-ms.openlocfilehash: 93167e4bbbfe0ff87f26714f55c539d796ea5737
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ab3ee85866795b655d7838884658d6f4727503f
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797660"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692811"
 ---
 # <a name="set-up-a-conferencing-bridge-for-teams"></a>Configurare un bridge di conferenza per Teams
 
-È necessario configurare l'audioconferenza solo per gli utenti che intendono programmare o condurre riunioni. È disponibile una procedura dettagliata per completare la configurazione del sistema telefonico. Consultare [Configurazione di Sistema telefonico nella tua organizzazione](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).
+È necessario configurare l'audioconferenza solo per gli utenti che intendono programmare o condurre riunioni. È disponibile una procedura dettagliata per completare la configurazione del sistema telefonico. Vedi [Configurare Telefono di Microsoft Teams nell'organizzazione](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).

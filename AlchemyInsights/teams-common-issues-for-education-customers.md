@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737021"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692398"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Problemi comuni di Teams per i clienti del settore dell'istruzione
 
@@ -46,7 +46,7 @@ Se è necessaria assistenza per la distribuzione di Teams per il supporto dell'a
     6. Nell'interfaccia di amministrazione di Skype for Business fare clic su **Audioconferenza** e poi **Utenti**.
     7. Selezionare l'utente in questione e verificare che disponga di un numero a pagamento predefinito.
 
-    Per altre informazioni, vedere [Piani per chiamate](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o chiamare il team Microsoft Commerce Billing per ricevere assistenza con domande relative alla gestione delle licenze.
+    Per altre informazioni, vedere [Piani di chiamata Microsoft Teams](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o chiamare il team Microsoft Commerce Billing per ricevere assistenza con domande relative alla gestione delle licenze.
 
     Risorse aggiuntive
 

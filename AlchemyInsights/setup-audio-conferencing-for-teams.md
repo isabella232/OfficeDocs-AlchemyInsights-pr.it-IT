@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: 4cabc559d0f201fc2ad5004e459a871d0caaf545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1234963d16c011a010cf2b6c99be098edce2dfb6
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739613"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692686"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Configurare l'audioconferenza per Teams
 
@@ -43,4 +43,4 @@ Per verificare che l'utente disponga della licenza per Audioconferenza e di un n
 
 7. Selezionare l'utente in questione e verificare che disponga di un **numero a pagamento predefinito**.
 
-Per altre informazioni, vedere [Piani per chiamate per Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o chiamare il team Microsoft Commerce Billing per ricevere assistenza con domande relative alla gestione delle licenze.
+Per altre informazioni, vedere [Piani di chiamata di Microsoft Teams per Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o chiamare il team Microsoft Commerce Billing per ricevere assistenza con domande relative alla gestione delle licenze.

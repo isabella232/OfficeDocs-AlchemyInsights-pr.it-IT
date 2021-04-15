@@ -1,5 +1,5 @@
 ---
-title: Licenza di Sistema telefonico
+title: Una licenza di Microsoft Teams.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "4559"
-ms.openlocfilehash: 8e140f0542b332aee047cd8b71540e2b72d8e199
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7d68e01456a1a055d975a1d9a3f8bc35f5296c2
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776958"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692722"
 ---
-# <a name="phone-system-license"></a>Licenza di Sistema telefonico
+# <a name="microsoft-teams-phone-license"></a>Una licenza di Microsoft Teams.
 
-La **licenza di Sistema telefonico** è un componente aggiuntivo di **Microsoft Teams**. La licenza è disponibile per impostazione predefinita con [Office 365 Enterprise E5](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e5-business-software?rtc=1&activetab=pivot%3aoverviewtab) e deve essere acquistata come componente aggiuntivo per [Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software) o [E3](https://products.office.com/business/office-365-enterprise-e3-business-software).
+La **licenza di Telefono di Microsoft Teams** è un componente aggiuntivo di **Microsoft Teams**. La licenza è disponibile per impostazione predefinita con [Office 365 Enterprise E5](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e5-business-software?rtc=1&activetab=pivot%3aoverviewtab) e deve essere acquistata come componente aggiuntivo per [Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software) o [E3](https://products.office.com/business/office-365-enterprise-e3-business-software).
 
 1. Accedere all'interfaccia di amministrazione di Microsoft 365.
 
 2. Passare a **Fatturazione > Acquisto di servizi** Abbonamenti a componenti aggiuntivi. 
 
-3. Verrà visualizzato il componente aggiuntivo Sistema telefonico. Fare clic su **Acquista ora**.
+3. Verrà visualizzato il componente aggiuntivo Telefono di Teams. Fare clic su **Acquista ora**.
 
-Dopo aver acquistato una licenza di Sistema telefonico, verranno visualizzati il prezzo e l'opzione per acquistare un piano di chiamata.
+Dopo aver acquistato una licenza di Telefono di Teams, verranno visualizzati il prezzo e l'opzione per acquistare un piano di chiamata.
 
-**Note**: possono essere necessarie da 2 a 24 ore prima che le modifiche diventino effettive. Per altre informazioni, vedere [Configurare un sistema telefonico nell'organizzazione](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system). 
+**Note**: possono essere necessarie da 2 a 24 ore prima che le modifiche diventino effettive. Per altre informazioni, [Configurare un Telefono di Microsoft Teams nell'organizzazione](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system). 
 
