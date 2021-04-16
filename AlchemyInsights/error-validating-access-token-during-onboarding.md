@@ -1,8 +1,8 @@
 ---
-title: Si è verificato un errore durante la convalida dell'errore del token di accesso durante la fase di analisi del desktop
+title: Errore durante la convalida del token di accesso durante l'on-boarding di Desktop Analytics
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12e5906ba8cbc76ba1fd99dde1cf76396c3a6942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783555"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813692"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a><span data-ttu-id="68050-102">"Errore durante la convalida del token di accesso" durante l'onboarding di analisi desktop</span><span class="sxs-lookup"><span data-stu-id="68050-102">"There was an error validating access token" error during Desktop Analytics onboarding</span></span>
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a><span data-ttu-id="ebe4c-102">Errore "Errore durante la convalida del token di accesso" durante l'onboarding di Desktop Analytics</span><span class="sxs-lookup"><span data-stu-id="ebe4c-102">"There was an error validating access token" error during Desktop Analytics onboarding</span></span>
 
-<span data-ttu-id="68050-103">Questo errore viene generalmente osservato quando il token di autenticazione scade.</span><span class="sxs-lookup"><span data-stu-id="68050-103">This error is normally observed when the authentication token expires.</span></span> <span data-ttu-id="68050-104">In genere, l'aggiornamento della pagina Aggiorna il token.</span><span class="sxs-lookup"><span data-stu-id="68050-104">Usually, refreshing the page refreshes the token.</span></span> <span data-ttu-id="68050-105">Tuttavia, questo problema può persistere se sono stati applicati criteri di accesso condizionale all'account utilizzato per l'analisi desktop di bordo.</span><span class="sxs-lookup"><span data-stu-id="68050-105">However, this issue can persist if there are any Conditional Access policies applied to the account being used to on-board Desktop Analytics.</span></span> <span data-ttu-id="68050-106">È possibile esaminare i registri di accesso di Azure AD nel portale di Azure per verificare se sono presenti errori di accesso per l'account utilizzato per l'onboarding di analisi desktop.</span><span class="sxs-lookup"><span data-stu-id="68050-106">You can review the Azure AD Sign In logs in the Azure Portal to see if there are any sign-in failures for the account being used for Desktop Analytics onboarding.</span></span>
+<span data-ttu-id="ebe4c-103">Questo errore viene in genere rilevato alla scadenza del token di autenticazione.</span><span class="sxs-lookup"><span data-stu-id="ebe4c-103">This error is normally observed when the authentication token expires.</span></span> <span data-ttu-id="ebe4c-104">In genere, l'aggiornamento della pagina aggiorna il token.</span><span class="sxs-lookup"><span data-stu-id="ebe4c-104">Usually, refreshing the page refreshes the token.</span></span> <span data-ttu-id="ebe4c-105">Tuttavia, questo problema può persistere se all'account utilizzato per l'on-board Desktop Analytics sono applicati criteri di accesso condizionale.</span><span class="sxs-lookup"><span data-stu-id="ebe4c-105">However, this issue can persist if there are any Conditional Access policies applied to the account being used to on-board Desktop Analytics.</span></span> <span data-ttu-id="ebe4c-106">È possibile esaminare i log di accesso di Azure AD nel portale di Azure per verificare se sono presenti errori di accesso per l'account utilizzato per l'onboarding di Desktop Analytics.</span><span class="sxs-lookup"><span data-stu-id="ebe4c-106">You can review the Azure AD Sign In logs in the Azure Portal to see if there are any sign-in failures for the account being used for Desktop Analytics onboarding.</span></span>
 
-<span data-ttu-id="68050-107">Per ulteriori informazioni sull'accesso condizionale, vedere [pianificare la distribuzione dell'accesso condizionale](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).</span><span class="sxs-lookup"><span data-stu-id="68050-107">For more information about Conditional Access, visit [Plan your Conditional Access deployment](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).</span></span>
+<span data-ttu-id="ebe4c-107">Per ulteriori informazioni sull'accesso condizionale, vedere [Plan your Conditional Access deployment.](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)</span><span class="sxs-lookup"><span data-stu-id="ebe4c-107">For more information about Conditional Access, visit [Plan your Conditional Access deployment](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).</span></span>

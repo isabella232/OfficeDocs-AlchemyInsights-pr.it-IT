@@ -1,8 +1,8 @@
 ---
-title: Immettere numeri di porta IMAP
+title: Immettere i numeri di porta IMAP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479c4af8833fc4f1dbc66ef3c59a4e24290b83c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709443"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813836"
 ---
-# <a name="enter-imap-port-numbers"></a><span data-ttu-id="6f9bd-102">Immettere numeri di porta IMAP</span><span class="sxs-lookup"><span data-stu-id="6f9bd-102">Enter IMAP port numbers</span></span>
+# <a name="enter-imap-port-numbers"></a><span data-ttu-id="925ba-102">Immettere i numeri di porta IMAP</span><span class="sxs-lookup"><span data-stu-id="925ba-102">Enter IMAP port numbers</span></span>
 
-<span data-ttu-id="6f9bd-103">Eseguire l'accesso tramite la schermata Advance Setup e aggiungere i dettagli delle porte dietro a due punti in linea con gli indirizzi del server in entrata e in uscita.</span><span class="sxs-lookup"><span data-stu-id="6f9bd-103">Log in via the advance setup screen and add your port details behind a colon in line with your incoming and outgoing server addresses.</span></span> <span data-ttu-id="6f9bd-104">(È possibile ottenere questi dettagli dal provider di servizi di posta elettronica).</span><span class="sxs-lookup"><span data-stu-id="6f9bd-104">(You can get these details from your email service provider.)</span></span> 
+<span data-ttu-id="925ba-103">Accedi tramite la schermata di configurazione avanzata e aggiungi i dettagli della porta dietro i due punti in linea con gli indirizzi del server in ingresso e in uscita.</span><span class="sxs-lookup"><span data-stu-id="925ba-103">Log in via the advance setup screen and add your port details behind a colon in line with your incoming and outgoing server addresses.</span></span> <span data-ttu-id="925ba-104">È possibile ottenere questi dettagli dal provider di servizi di posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="925ba-104">(You can get these details from your email service provider.)</span></span> 
 
-<span data-ttu-id="6f9bd-105">Andare a **Impostazioni**  >  **Aggiungi account**  >  **IMAP** > e fare clic su **Mostra impostazioni avanzate**, quindi immettere i dettagli.</span><span class="sxs-lookup"><span data-stu-id="6f9bd-105">Go to **Settings** > **Add Account** > **IMAP** > and click **Show advanced settings**; then enter your details.</span></span> 
+<span data-ttu-id="925ba-105">Go to **Settings**  >  **Add Account**  >  **IMAP** > and click Show **advanced settings**; then enter your details.</span><span class="sxs-lookup"><span data-stu-id="925ba-105">Go to **Settings** > **Add Account** > **IMAP** > and click **Show advanced settings**; then enter your details.</span></span> 
 
-<span data-ttu-id="6f9bd-106">*Server di posta elettronica in arrivo*: IMAP.ServerName.com:000 (solitamente 993 o 143)</span><span class="sxs-lookup"><span data-stu-id="6f9bd-106">*Incoming mail server*: imap.servername.com:000 (usually 993 or 143)</span></span> 
+<span data-ttu-id="925ba-106">*Server posta in arrivo*: imap.servername.com:000 (in genere 993 o 143)</span><span class="sxs-lookup"><span data-stu-id="925ba-106">*Incoming mail server*: imap.servername.com:000 (usually 993 or 143)</span></span> 
 
-<span data-ttu-id="6f9bd-107">*Server di posta in uscita*: SMTP.ServerName.com:000 (solitamente 465 o 25)</span><span class="sxs-lookup"><span data-stu-id="6f9bd-107">*Outgoing mail server*: smtp.servername.com:000 (usually 465 or 25)</span></span> 
+<span data-ttu-id="925ba-107">*Server posta in uscita*: smtp.servername.com:000 (in genere 465 o 25)</span><span class="sxs-lookup"><span data-stu-id="925ba-107">*Outgoing mail server*: smtp.servername.com:000 (usually 465 or 25)</span></span> 
 
-<span data-ttu-id="6f9bd-108">Tenere presente che il colon è importante.</span><span class="sxs-lookup"><span data-stu-id="6f9bd-108">Keep in mind the colon is important.</span></span> 
+<span data-ttu-id="925ba-108">Tenere presente che i due punti sono importanti.</span><span class="sxs-lookup"><span data-stu-id="925ba-108">Keep in mind the colon is important.</span></span> 
