@@ -1,8 +1,8 @@
 ---
-title: Codice Product Key del server di report di Power BI
+title: Power BI Report Server Product Key
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801953"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800686"
 ---
 # <a name="power-bi-report-server-product-key"></a>Codice Product Key del server di report di Power BI
 
-Se si è acquistato Power BI Premium, nella scheda **Impostazioni avanzate** del portale di amministrazione di Power bi si ha accesso al codice Product Key del server di report Power bi. Questo è disponibile solo per gli amministratori globali o per gli utenti assegnati al ruolo di amministratore del servizio Power BI.
+Se è stato acquistato Power BI Premium, nella scheda **Impostazioni Premium** del portale di amministrazione di Power BI è possibile accedere al codice Product Key del server di report di Power BI. Questa opzione è disponibile solo per gli amministratori globali o gli utenti a cui è assegnato il ruolo di amministratore del servizio Power BI.
 
-Selezionando **Power bi report server Key** viene visualizzata una finestra di dialogo contenente il codice Product Key. È possibile copiarlo e utilizzarlo con l'installazione.
+Se si **seleziona il codice Server di report di Power BI,** verrà visualizzata una finestra di dialogo contenente il codice Product Key. È possibile copiarlo e usarlo con l'installazione.
 
-Se si dispone di un contratto SQL Server Enterprise SA, è possibile ottenere il codice Product Key dal [centro servizi per contratti multilicenza](https://www.microsoft.com/Licensing/servicecenter/).
+Se si dispone di un SQL Server Enterprise SA, è possibile ottenere il codice Product Key dal Centro servizi per contratti [multilicenza.](https://www.microsoft.com/Licensing/servicecenter/)
 
 Per ulteriori informazioni: https://docs.microsoft.com/power-bi/report-server/install-report-server
