@@ -2,7 +2,7 @@
 title: Memoria insufficiente
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2564"
 - "9000678"
-ms.openlocfilehash: 0729efa4c4662047c1a5103788ecf129bff2a4ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e717f355152bb58285d3c0e817d2e0c12907ba2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772590"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791128"
 ---
-# <a name="there-isnt-enough-memory-to-complete-this-action"></a>La memoria non è sufficiente per completare l'azione
+# <a name="there-isnt-enough-memory-to-complete-this-action"></a>Memoria insufficiente per completare l'azione
 
 Quando si utilizza un file di Microsoft Excel, viene visualizzato uno dei seguenti messaggi:
 
-- Excel non è in grado di completare questa attività con risorse disponibili. Scegliere meno dati o chiudere altre applicazioni.
+- Impossibile completare questa attività con le risorse disponibili. Scegliere meno dati o chiudere altre applicazioni.
 - Memoria insufficiente
 - Risorse di sistema non sufficienti per la visualizzazione completa
-- La memoria non è sufficiente per completare l'azione. Provare a utilizzare meno dati o a chiudere altre applicazioni. Per aumentare la disponibilità della memoria, prendere in considerazione: 
-    - Utilizzo di una versione di Microsoft Excel a 64 bit.
+- Memoria insufficiente per completare l'azione. Provare a usare meno dati o a chiudere altre applicazioni. Per aumentare la disponibilità della memoria, prendere in considerazione: 
+    - Utilizzo di una versione a 64 bit di Microsoft Excel.
     - Aggiunta di memoria al dispositivo.
 
-Per risolvere questi errori, vedere [la sezione relativa alla risoluzione degli errori di "risorse disponibili" in Excel](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).
+Per risolvere questi errori, vedere [Come risolvere gli errori di "risorse disponibili" in Excel.](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)
