@@ -1,8 +1,8 @@
 ---
-title: Come configurare Skype meeting broadcast
+title: Come configurare Skype Meeting Broadcast
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781467"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811028"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a><span data-ttu-id="58647-102">Non è possibile avviare o partecipare a una trasmissione di riunioni Skype?</span><span class="sxs-lookup"><span data-stu-id="58647-102">Can't start or join a Skype Meeting Broadcast?</span></span>
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a><span data-ttu-id="22a81-102">Non è possibile avviare o partecipare a Skype Meeting Broadcast?</span><span class="sxs-lookup"><span data-stu-id="22a81-102">Can't start or join a Skype Meeting Broadcast?</span></span>
 
-<span data-ttu-id="58647-103">Se si verificano problemi di avvio o di partecipazione a una conferenza di Skype Meeting come membro del team dell'evento (produttore di riunioni), accertarsi di controllare la configurazione.</span><span class="sxs-lookup"><span data-stu-id="58647-103">If you're having trouble starting or joining a Skype Meeting Broadcast as an Event Team Member (Meeting producer), be sure to double-check your configuration.</span></span> <span data-ttu-id="58647-104">Skype meeting broadcast richiede alcuni passaggi di installazione manuale.</span><span class="sxs-lookup"><span data-stu-id="58647-104">Skype Meeting Broadcast requires some manual setup steps.</span></span> <span data-ttu-id="58647-105">Seguire la procedura descritta in questo articolo per verificare che la rete e il portale di Skype for business online siano configurati correttamente e che l'utente in questione non venga bloccato da una licenza in conflitto:</span><span class="sxs-lookup"><span data-stu-id="58647-105">Follow the steps in this article to ensure that your network and Skype for Business Online portal are configured correctly, and that the affected user is not blocked by a conflicting license:</span></span>
+<span data-ttu-id="22a81-103">In caso di problemi durante l'avvio o la partecipazione a Skype Meeting Broadcast come membro del team di eventi (produttore della riunione), assicurati di controllare di nuovo la configurazione.</span><span class="sxs-lookup"><span data-stu-id="22a81-103">If you're having trouble starting or joining a Skype Meeting Broadcast as an Event Team Member (Meeting producer), be sure to double-check your configuration.</span></span> <span data-ttu-id="22a81-104">Skype Meeting Broadcast richiede alcuni passaggi di configurazione manuali.</span><span class="sxs-lookup"><span data-stu-id="22a81-104">Skype Meeting Broadcast requires some manual setup steps.</span></span> <span data-ttu-id="22a81-105">Seguire i passaggi descritti in questo articolo per verificare che la rete e il portale skype for business online siano configurati correttamente e che l'utente interessato non sia bloccato da una licenza in conflitto:</span><span class="sxs-lookup"><span data-stu-id="22a81-105">Follow the steps in this article to ensure that your network and Skype for Business Online portal are configured correctly, and that the affected user is not blocked by a conflicting license:</span></span>
 
-[<span data-ttu-id="58647-106">Configurare la rete per Skype Meeting Broadcast</span><span class="sxs-lookup"><span data-stu-id="58647-106">Set up your network for Skype Meeting Broadcast</span></span>](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[<span data-ttu-id="22a81-106">Configurare la rete per Skype Meeting Broadcast</span><span class="sxs-lookup"><span data-stu-id="22a81-106">Set up your network for Skype Meeting Broadcast</span></span>](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

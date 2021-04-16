@@ -1,8 +1,8 @@
 ---
-title: FIX Bluetooth printer
+title: Correggere Bluetooth stampante
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: bd419ca63d659167d7deccf34ce303ce29775099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26df4eca68b4e14bde56fc5015239ec0810beb0a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744918"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812900"
 ---
-# <a name="fix-bluetooth-printer-connection-issues"></a>Risolvere i problemi di connessione della stampante Bluetooth
+# <a name="fix-bluetooth-printer-connection-issues"></a><span data-ttu-id="82036-102">Risolvere i Bluetooth di connessione della stampante</span><span class="sxs-lookup"><span data-stu-id="82036-102">Fix Bluetooth printer connection issues</span></span>
 
-Provare questi passaggi per la risoluzione dei problemi per far funzionare di nuovo la stampante Bluetooth:
+<span data-ttu-id="82036-103">Prova questi passaggi per la risoluzione dei problemi per Bluetooth stampante:</span><span class="sxs-lookup"><span data-stu-id="82036-103">Try these troubleshooting steps to get your Bluetooth printer working again:</span></span>
 
 
-1. Verificare che il Bluetooth sia attivato:
-    1. Selezionare **Start**  >  **Settings**  >  **Devices**  >  **Bluetooth & altri dispositivi**.
-    2. Attiva l' **attivazione del dispositivo Bluetooth.**
-2. Eseguire lo strumento di risoluzione dei problemi Bluetooth. <br>
-    Fare clic su **Start**, digitare **risoluzione dei problemi**e quindi selezionare l'opzione **risoluzione dei problemi** . Selezionare **Bluetooth** dal menu ed **eseguire la risoluzione dei problemi**.
+1. <span data-ttu-id="82036-104">Verifica che la Bluetooth sia attivata:</span><span class="sxs-lookup"><span data-stu-id="82036-104">Check to make sure Bluetooth is turned on:</span></span>
+    1. <span data-ttu-id="82036-105">Seleziona **Start**  >  **Settings**  >  **Devices**  >  **Bluetooth & other devices**.</span><span class="sxs-lookup"><span data-stu-id="82036-105">Select **Start** > **Settings** > **Devices** > **Bluetooth & other devices**.</span></span>
+    2. <span data-ttu-id="82036-106">Attivare l'Bluetooth **attiva.**</span><span class="sxs-lookup"><span data-stu-id="82036-106">Turn the Bluetooth toggle **On**.</span></span>
+2. <span data-ttu-id="82036-107">Eseguire lo strumento Bluetooth risoluzione dei problemi.</span><span class="sxs-lookup"><span data-stu-id="82036-107">Run the Bluetooth troubleshooter.</span></span> <br>
+    <span data-ttu-id="82036-108">Seleziona **Start,** digita **impostazioni per la risoluzione dei** problemi e quindi seleziona l'opzione Risoluzione dei problemi **delle** impostazioni.</span><span class="sxs-lookup"><span data-stu-id="82036-108">Select **Start**, type **troubleshoot settings**, and then select the **Troubleshoot settings** option.</span></span> <span data-ttu-id="82036-109">Seleziona **Bluetooth** dal menu e **Esegui lo strumento di risoluzione dei problemi.**</span><span class="sxs-lookup"><span data-stu-id="82036-109">Select **Bluetooth** from the menu and **Run the troubleshooter**.</span></span>
 
-Se il problema persiste, provare a rimuovere e reinstallare la stampante Bluetooth:
+<span data-ttu-id="82036-110">Se non funziona, provare a rimuovere e reinstallare la Bluetooth stampante:</span><span class="sxs-lookup"><span data-stu-id="82036-110">If that doesn't work, try removing and reinstalling your Bluetooth printer:</span></span>
 
-1. Rimuovere la stampante in impostazioni:
-    1. Selezionare **Start**  >  **Settings**  >  **Devices**  >  **Printers & scanner**.
-    2. In **stampanti & scanner**selezionare la stampante in cui si sta effettuando la risoluzione dei problemi. Selezionare **Rimuovi dispositivo**. Seguire le istruzioni per rimuovere completamente la stampante.
-2. Rimuovere qualsiasi software di terze parti produttore della stampante:
-    1. Selezionare **Start**  >  **Settings**  >  **Apps**.
-    2. In **app & caratteristiche**, scorrere fino a trovare qualsiasi software installato dal produttore della stampante (ad esempio, HP, Canon o Epson).
-3. Spegnere e riavviare la stampante.
-   1. Spegnere la stampante e scollegare il cavo di alimentazione. Attendere 30 secondi. 
-   2. Ricollegare il cavo e riaccendere la stampante.
-4. Reinstallare la stampante in impostazioni:
-    1. Selezionare **Start**  >  **Settings**  >  **Devices**  >  **Printers & scanner**.
-    2. Selezionare il collegamento **Aggiungi stampante o scanner** nella parte superiore dello schermo e seguire le istruzioni riportate di seguito per reinstallare la stampante.
+1. <span data-ttu-id="82036-111">Rimuovere la stampante in Impostazioni:</span><span class="sxs-lookup"><span data-stu-id="82036-111">Remove the printer in Settings:</span></span>
+    1. <span data-ttu-id="82036-112">Selezionare **Start**  >  **Settings**  >  **Devices**  >  **Printers & scanner**.</span><span class="sxs-lookup"><span data-stu-id="82036-112">Select **Start** > **Settings** > **Devices** > **Printers & scanners**.</span></span>
+    2. <span data-ttu-id="82036-113">In **Stampanti & scanner** selezionare la stampante per la risoluzione dei problemi.</span><span class="sxs-lookup"><span data-stu-id="82036-113">Under **Printers & scanners**, select the printer you are troubleshooting.</span></span> <span data-ttu-id="82036-114">Seleziona **Rimuovi dispositivo.**</span><span class="sxs-lookup"><span data-stu-id="82036-114">Select **Remove device**.</span></span> <span data-ttu-id="82036-115">Seguire le istruzioni per rimuovere completamente la stampante.</span><span class="sxs-lookup"><span data-stu-id="82036-115">Follow the instructions to fully remove the printer.</span></span>
+2. <span data-ttu-id="82036-116">Rimuovere qualsiasi software del produttore della stampante di terze parti:</span><span class="sxs-lookup"><span data-stu-id="82036-116">Remove any third-party printer manufacturer software:</span></span>
+    1. <span data-ttu-id="82036-117">Selezionare **Start**  >  **Settings**  >  **Apps**.</span><span class="sxs-lookup"><span data-stu-id="82036-117">Select **Start** > **Settings** > **Apps**.</span></span>
+    2. <span data-ttu-id="82036-118">In **App &** funzionalità , scorrere per trovare qualsiasi software installato dal produttore della stampante (ad esempio HP, Canon o Epson).</span><span class="sxs-lookup"><span data-stu-id="82036-118">Under **Apps & features**, scroll to find any software installed from your printer’s manufacturer (such as HP, Canon, or Epson).</span></span>
+3. <span data-ttu-id="82036-119">Spegnere e riavviare la stampante.</span><span class="sxs-lookup"><span data-stu-id="82036-119">Turn off and restart your printer.</span></span>
+   1. <span data-ttu-id="82036-120">Spegnere la stampante e scollegare il cavo di alimentazione.</span><span class="sxs-lookup"><span data-stu-id="82036-120">Turn off your printer and unplug its power cable.</span></span> <span data-ttu-id="82036-121">Attendere 30 secondi.</span><span class="sxs-lookup"><span data-stu-id="82036-121">Wait 30 seconds.</span></span> 
+   2. <span data-ttu-id="82036-122">Ricollegare il cavo e riaccendere la stampante.</span><span class="sxs-lookup"><span data-stu-id="82036-122">Plug your printer back in and turn the printer back on.</span></span>
+4. <span data-ttu-id="82036-123">Reinstallare la stampante in Impostazioni:</span><span class="sxs-lookup"><span data-stu-id="82036-123">Reinstall your printer in Settings:</span></span>
+    1. <span data-ttu-id="82036-124">Selezionare **Start**  >  **Settings**  >  **Devices**  >  **Printers & scanner**.</span><span class="sxs-lookup"><span data-stu-id="82036-124">Select **Start** > **Settings** > **Devices** > **Printers & scanners**.</span></span>
+    2. <span data-ttu-id="82036-125">Selezionare il **collegamento Aggiungi stampante o scanner** nella parte superiore dello schermo e seguire le istruzioni per reinstallare la stampante.</span><span class="sxs-lookup"><span data-stu-id="82036-125">Select the **Add printer or scanner** link at the top of the screen and follow the instructions to reinstall your printer.</span></span>
