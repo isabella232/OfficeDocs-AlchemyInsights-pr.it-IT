@@ -1,8 +1,8 @@
 ---
-title: Recente esposizione ai dati
+title: Esposizione recente ai dati
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693235"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789364"
 ---
-# <a name="recent-data-exposure"></a>Recente esposizione ai dati
+# <a name="recent-data-exposure"></a>Esposizione recente ai dati
 
-Microsoft è stato informato da un ricercatore di terze parti che un database che ospitava i dati del supporto tecnico Microsoft era accessibile senza l'autenticazione. Il 31 dicembre 2019, Microsoft ha protetto il database.
+Microsoft è stata resa conto da un ricercatore di terze parti che un database che ospita i dati di supporto Microsoft redatti era accessibile senza autenticazione. Il 31 dicembre 2019 Microsoft ha protetto il database.
 
-Siamo impegnati per la privacy e la sicurezza dei nostri clienti e che stanno intervenendo per prevenire future occorrenze di questo problema. Sono state avviate notifiche ai clienti i cui dati erano presenti in questo database redatto. Per ulteriori informazioni, accedere alle [informazioni sulla sensibilizzazione dei clienti relative a una recente esposizione alle informazioni](https://aka.ms/privacyinfo).
+Ci impegniamo a tutelare la privacy e la sicurezza dei nostri clienti e stiamo prendendo misure per evitare future occorrenze di questo problema. Sono state avviate notifiche ai clienti i cui dati erano presenti in questo database redatto. Per altre informazioni, vai a [Informazioni sulla sensibilizzazione dei clienti relative a un'esposizione recente alle informazioni.](https://aka.ms/privacyinfo)
