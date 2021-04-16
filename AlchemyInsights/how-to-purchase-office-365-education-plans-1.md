@@ -1,8 +1,8 @@
 ---
-title: Informazioni su come acquistare piani di formazione per Office 365
+title: Come acquistare piani di Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 88cbd28f81b699088a1985f31873427998435428
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0808f542c460e83ab940954eeaaad8f5167b9a29
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703520"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810776"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="d81fb-102">Informazioni su come acquistare piani di formazione per Office 365</span><span class="sxs-lookup"><span data-stu-id="d81fb-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="22d21-102">Come acquistare piani di Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="22d21-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="d81fb-103">La richiesta è stata esaminata e l'organizzazione non è idonea come istituzione accademica Microsoft qualificata.</span><span class="sxs-lookup"><span data-stu-id="d81fb-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution.</span></span> <span data-ttu-id="d81fb-104">La tua attuale offerta di valutazione accademica scadrà alla fine del periodo di prova.</span><span class="sxs-lookup"><span data-stu-id="d81fb-104">Your current academic trial offers will expire at the end of the trial period.</span></span>
+<span data-ttu-id="22d21-103">Abbiamo esaminato la richiesta e abbiamo determinato che questa organizzazione non è idonea come Microsoft Qualified Academic Institution.</span><span class="sxs-lookup"><span data-stu-id="22d21-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution.</span></span> <span data-ttu-id="22d21-104">Le offerte di valutazione accademiche correnti scadranno alla fine del periodo di valutazione.</span><span class="sxs-lookup"><span data-stu-id="22d21-104">Your current academic trial offers will expire at the end of the trial period.</span></span>
   
-<span data-ttu-id="d81fb-105">Per acquistare Microsoft 365 commercialmente, vedere [offerte disponibili](https://go.microsoft.com/fwlink/p/?linkid=868433).</span><span class="sxs-lookup"><span data-stu-id="d81fb-105">To purchase Microsoft 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>  
+<span data-ttu-id="22d21-105">Per acquistare Microsoft 365 commercialmente, vedere [offerte disponibili.](https://go.microsoft.com/fwlink/p/?linkid=868433)</span><span class="sxs-lookup"><span data-stu-id="22d21-105">To purchase Microsoft 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>  
