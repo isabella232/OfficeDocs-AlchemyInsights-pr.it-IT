@@ -1,8 +1,8 @@
 ---
-title: Non è stato possibile creare il piano
+title: Impossibile creare il piano
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3157"
 - "9000727"
-ms.openlocfilehash: a5090d6d74a3e8f1cdaf52f54d420ccc7c90c107
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b5a2a88a82d837ae953f88866cf778fd74a2b6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782619"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813224"
 ---
-# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Errore "Impossibile creare il piano" quando si tenta di creare una scheda pianificazione in Microsoft Teams
+# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Errore "Impossibile creare il piano" quando si tenta di creare una scheda Planner in Microsoft Teams
 
-Se si riceve un messaggio di errore "Impossibile creare il piano" quando si tenta di creare una scheda pianificazione in Microsoft teams, verificare che l'amministratore sia membro del gruppo attenendosi alla procedura seguente:
+Se si riceve l'errore "Impossibile creare il piano" quando si tenta di creare una scheda Planner in Microsoft Teams, assicurarsi che l'amministratore sia membro del gruppo seguendo questi passaggi:
 
-1. Nell'interfaccia di amministrazione, andare a gruppi di **gruppi**  >  [Groups](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). 
+1. Nell'interfaccia di amministrazione passare a **Gruppi**  >  [Gruppi](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). 
 2. Selezionare il gruppo, quindi nella scheda **Membri** selezionare **Visualizza tutti e Gestisci membri**.
-3. Aggiungere il membro e fare clic su **Salva**.
+3. Aggiungi il membro e seleziona **Salva**.

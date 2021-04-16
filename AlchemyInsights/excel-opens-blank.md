@@ -1,8 +1,8 @@
 ---
-title: L'apertura di Excel è vuota
+title: Excel apre vuoto
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: a7f3bf370a9f200c158bfe505012136867578dea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e9761404b0f0ccd199d67c78c3f7c4cb445d41d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783447"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813584"
 ---
-# <a name="excel-opens-blank"></a>L'apertura di Excel è vuota
+# <a name="excel-opens-blank"></a>Excel apre vuoto
 
-Se viene avviato Excel ma viene visualizzata una schermata vuota in cui si prevede che il file venga visualizzato, vedere [risolvere i problemi di apertura di Excel vuota quando si fa doppio clic su un'icona o un nome di](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)file del file.
+Se Excel viene avviato ma viene visualizzata una schermata vuota in cui si prevede che il file venga visualizzato, vedere Risolvere i problemi relativi all'apertura di Excel vuota quando si fa doppio clic su un'icona o su un [nome di file.](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)

@@ -2,7 +2,7 @@
 title: Abilitare l'incorporamento delle finestre di dialogo legacy per aprire i report
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002931"
 - "5612"
-ms.openlocfilehash: 285933e607ac7e58256709f0c9cf2851250ce211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c8a5634d5d79cbd584284b675e5db4e448a0d157
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806439"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814268"
 ---
 # <a name="enable-embedding-legacy-dialogs-to-open-reports"></a>Abilitare l'incorporamento delle finestre di dialogo legacy per aprire i report
 
@@ -27,7 +27,7 @@ Gli utenti non possono aprire i report. “Si è verificato un errore. Controlla
 
 **Causa**
 
-I report non riescono a caricarsi in UCI con l'errore "Il descrittore di modulo è nullo o non definito." I report in UCI richiedono ancora le finestre di dialogo legacy, pertanto il sistema del cliente deve avere *allowlegacydialogsembedding*abilitato.
+I report non riescono a caricarsi in UCI con l'errore "Il descrittore di modulo è nullo o non definito." I report in UCI richiedono ancora le finestre di dialogo legacy, pertanto il sistema del cliente deve avere *allowlegacydialogsembedding* abilitato.
 
 **Soluzione**
 
