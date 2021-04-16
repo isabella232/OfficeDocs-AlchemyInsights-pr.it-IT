@@ -2,7 +2,7 @@
 title: Acquisto in modalità self-service di PowerShell
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739974"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797725"
 ---
 # <a name="self-service-purchase-of-powershell"></a>Acquisto in modalità self-service di PowerShell
 
-Per utilizzare il modulo di MSCommerce PowerShell, è necessario installarlo su un dispositivo Windows 10 con TLS 1,2 (autorizzazioni di amministratore locale necessarie).  Importare e connettersi al modulo MSCommerce.  Quando viene richiesto di eseguire l'accesso, sarà necessario utilizzare le credenziali del ruolo di amministratore globale o di fatturazione.  
+Per usare il modulo MSCommerce PowerShell, devi installarlo in un dispositivo Windows 10 con TLS 1.2 (sono necessarie autorizzazioni di amministratore locale).  Importare e connettersi al modulo MSCommerce.  Quando viene richiesto di eseguire l'accesso, è necessario utilizzare le credenziali del ruolo Global o Billing Admin.  
 
-Se non si dispone di TLS 1,2, è possibile che venga visualizzato il seguente messaggio di errore quando si tenta di ottenere o aggiornare il criterio:
+Se non si dispone di TLS 1.2, è possibile che venga visualizzato il seguente errore quando si tenta di ottenere o aggiornare il criterio:
 
-*ErrorMessage-la connessione sottostante è stata chiusa: si è verificato un errore imprevisto su un invio*.
+*ErrorMessage - La connessione sottostante è stata chiusa: si è verificato un errore imprevisto durante un invio.*
 
 
 
