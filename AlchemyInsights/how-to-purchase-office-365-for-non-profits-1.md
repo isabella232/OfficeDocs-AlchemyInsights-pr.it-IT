@@ -1,8 +1,8 @@
 ---
-title: 'Microsoft 365 per organizzazioni non profit approvate '
+title: 'Microsoft 365 per organizzazioni no profit - approvato '
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 98417cca5ac73ccdb1d3d0e726d0b9c9c62dd442
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779816"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810668"
 ---
-# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 per organizzazioni non profit approvate
+# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 per organizzazioni no profit - approvato
 
-Lo stato di un'organizzazione no profit Microsoft qualificata è stato approvato. È possibile completare l'acquisto dall'interfaccia di amministrazione di Microsoft 365.
+Il tuo stato di organizzazione no profit qualificata Microsoft è stato approvato. È possibile completare l'acquisto dall'interfaccia di amministrazione di Microsoft 365.
 
-1. Nell'interfaccia di amministrazione, andare alla **Billing** \> pagina [servizi di acquisto](https://go.microsoft.com/fwlink/p/?linkid=868433) per la fatturazione.
+1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [Servizi di acquisto.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Scegliere nell'elenco in **piani non profit**.
+2. Scegliere dall'elenco in **Piani non profit**.
 
-3. Posizionare il puntatore del mouse sull'abbonamento che si vuole acquistare e quindi scegliere **Acquista ora**.
+3. Posizionare il puntatore del mouse sull'abbonamento che si desidera acquistare e scegliere **Acquista ora.**
 
-Per altre informazioni, vedere [Microsoft 365 Resources for nonprofits](https://www.microsoft.com/nonprofits/microsoft-365) or [Contact Sales](https://www.microsoft.com/nonprofits/contact-us).
+Per altre info, vedi [Risorse di Microsoft 365 per organizzazioni no profit](https://www.microsoft.com/nonprofits/microsoft-365) o vendite di [contatti.](https://www.microsoft.com/nonprofits/contact-us)

@@ -2,7 +2,7 @@
 title: Reimpostare o modificare le password
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692155"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810200"
 ---
 # <a name="reset-or-change-passwords"></a>Reimpostare o modificare le password
 
-Un utente può modificare la propria password dall' **account**di  >  [sicurezza & privacy](https://portal.office.com/account/#security).
+Un utente può modificare la propria password da **Account personale** Sicurezza  >  [& privacy](https://portal.office.com/account/#security).
   
-Se l'utente ha dimenticato la password, un amministratore può reimpostare la password accedendo **agli utenti**  >  [attivi](https://portal.office.com/adminportal/home#/users), selezionare gli utenti e fare clic su **Reimposta password**.
+Se l'utente ha dimenticato la password, un amministratore può reimpostarla andando su **Utenti** Utenti utenti attivi, selezionare gli utenti e fare clic  >  [](https://portal.office.com/adminportal/home#/users)su **Reimposta password.**
   
 [Fare clic qui per ulteriori informazioni](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)o per consentire agli utenti di reimpostare le proprie password dimenticate.

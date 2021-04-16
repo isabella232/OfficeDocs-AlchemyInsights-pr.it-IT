@@ -2,7 +2,7 @@
 title: Inoltrare la posta elettronica con Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 180bae451941e4aaea94d285362794a797383eca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56936541c52e56d7aa9b0f5dad7b9a359c5b6185
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776490"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809659"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>Configurare un dispositivo multifunzione o un'applicazione per l'invio di posta elettronica
 
