@@ -1,8 +1,8 @@
 ---
-title: Domande su come utilizzare lo strumento di distribuzione di Office (ODT)
+title: Domande su come usare lo Strumento di distribuzione di Office (ODT)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,22 +10,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: c5b055989014b464d3136895702c8ea40e8eb701
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086160"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790336"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="d21e6-102">Domande su come utilizzare lo strumento di distribuzione di Office (ODT)</span><span class="sxs-lookup"><span data-stu-id="d21e6-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="aee5b-102">Domande su come usare lo Strumento di distribuzione di Office (ODT)</span><span class="sxs-lookup"><span data-stu-id="aee5b-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
 
-<span data-ttu-id="d21e6-103">Scaricare lo Strumento di distribuzione di Office dall'[Area download Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span><span class="sxs-lookup"><span data-stu-id="d21e6-103">Download the Office Deployment Tool from the [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
+<span data-ttu-id="aee5b-103">Scaricare lo Strumento di distribuzione di Office dall'[Area download Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span><span class="sxs-lookup"><span data-stu-id="aee5b-103">Download the Office Deployment Tool from the [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
   
-<span data-ttu-id="d21e6-104">Dopo il download del file, eseguire il file eseguibile autoestraente, che contiene l'eseguibile dello strumento di distribuzione di Office (setupodt.exe) e un file di configurazione di esempio (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="d21e6-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setupodt.exe) and a sample configuration file (configuration.xml).</span></span>
+<span data-ttu-id="aee5b-104">Dopo il download del file, eseguire il file eseguibile autoestraente, che contiene il file eseguibile dello Strumento di distribuzione di Office (setup.exe) e un file di configurazione di esempio (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="aee5b-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span>
   
- <span data-ttu-id="d21e6-105">**Per escludere o rimuovere le app Microsoft 365 per i prodotti Enterprise dai computer client:**</span><span class="sxs-lookup"><span data-stu-id="d21e6-105">**To exclude or remove Microsoft 365 Apps for enterprise products from client computers:**</span></span>
+ <span data-ttu-id="aee5b-105">**Per escludere o rimuovere i prodotti Microsoft 365 Apps for enterprise dai computer client:**</span><span class="sxs-lookup"><span data-stu-id="aee5b-105">**To exclude or remove Microsoft 365 Apps for enterprise products from client computers:**</span></span>
   
-<span data-ttu-id="d21e6-106">Quando si installano le app di Microsoft 365 per Enterprise, è possibile escludere prodotti specifici.</span><span class="sxs-lookup"><span data-stu-id="d21e6-106">When installing Microsoft 365 Apps for enterprise, you can exclude specific products.</span></span> <span data-ttu-id="d21e6-107">A questo scopo, seguire i passaggi per installare Office con lo strumento ODT, ma includere l'elemento ExcludeApp nel file di configurazione.</span><span class="sxs-lookup"><span data-stu-id="d21e6-107">To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file.</span></span> <span data-ttu-id="d21e6-108">Ad esempio, questo file di configurazione consente di installare tutte le app Microsoft 365 per i prodotti Enterprise ad eccezione di Publisher:</span><span class="sxs-lookup"><span data-stu-id="d21e6-108">For example, this configuration file installs all the Microsoft 365 Apps for enterprise products except Publisher:</span></span>
+<span data-ttu-id="aee5b-106">Quando si installa Microsoft 365 Apps for enterprise, è possibile escludere prodotti specifici.</span><span class="sxs-lookup"><span data-stu-id="aee5b-106">When installing Microsoft 365 Apps for enterprise, you can exclude specific products.</span></span> <span data-ttu-id="aee5b-107">A questo scopo, seguire i passaggi per installare Office con lo strumento ODT, ma includere l'elemento ExcludeApp nel file di configurazione.</span><span class="sxs-lookup"><span data-stu-id="aee5b-107">To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file.</span></span> <span data-ttu-id="aee5b-108">Ad esempio, questo file di configurazione installa tutti i prodotti Microsoft 365 Apps for enterprise ad eccezione di Publisher:</span><span class="sxs-lookup"><span data-stu-id="aee5b-108">For example, this configuration file installs all the Microsoft 365 Apps for enterprise products except Publisher:</span></span>
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -36,6 +36,6 @@ ms.locfileid: "49086160"
 </Add>
 ```
 
-[<span data-ttu-id="d21e6-109">Panoramica dello Strumento di distribuzione di Office</span><span class="sxs-lookup"><span data-stu-id="d21e6-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[<span data-ttu-id="aee5b-109">Panoramica dello Strumento di distribuzione di Office</span><span class="sxs-lookup"><span data-stu-id="aee5b-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 
