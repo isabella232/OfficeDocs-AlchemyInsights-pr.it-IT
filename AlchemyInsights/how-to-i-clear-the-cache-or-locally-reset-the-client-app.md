@@ -1,8 +1,8 @@
 ---
-title: Come cancellare la cache o reimpostare/aggiornare localmente il client/App?
+title: Come posso cancellare la cache o reimpostare/aggiornare localmente il client/app?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e48bc08ac8098d8783bdf884aaf618feb1967327
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780279"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795952"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Come cancellare la cache o reimpostare/aggiornare localmente il client/App?
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Come posso cancellare la cache o reimpostare/aggiornare localmente il client/app?
 
-Se si vedono dati incompleti o non corretti, tentare di forzare la chiusura e riaprire l'app.  
+Se vengono visualizzati dati incompleti o non corretti, prova a forzare la chiusura e la riapertura dell'app.  
 
-Se non funziona, è possibile provare a reimpostare l'account sul dispositivo.
+Se non funziona, puoi provare a reimpostare l'account nel dispositivo.
  
-Apri l'app, vai a **Impostazioni**, seleziona l'account di posta elettronica e scegli **Reimposta account**.
+Apri l'app, vai a **Impostazioni,** seleziona l'account di posta elettronica e scegli **Reimposta account.**
