@@ -1,8 +1,8 @@
 ---
-title: Come cancellare la cache o reimpostare/aggiornare localmente il client/App?
+title: Come posso cancellare la cache o reimpostare/aggiornare localmente il client/app?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e48bc08ac8098d8783bdf884aaf618feb1967327
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780279"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795952"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a><span data-ttu-id="f5c02-102">Come cancellare la cache o reimpostare/aggiornare localmente il client/App?</span><span class="sxs-lookup"><span data-stu-id="f5c02-102">How do I clear the cache or locally reset/refresh the client/app?</span></span>
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a><span data-ttu-id="38810-102">Come posso cancellare la cache o reimpostare/aggiornare localmente il client/app?</span><span class="sxs-lookup"><span data-stu-id="38810-102">How do I clear the cache or locally reset/refresh the client/app?</span></span>
 
-<span data-ttu-id="f5c02-103">Se si vedono dati incompleti o non corretti, tentare di forzare la chiusura e riaprire l'app.</span><span class="sxs-lookup"><span data-stu-id="f5c02-103">If you are seeing incomplete or incorrect data, try to force close and reopen the app.</span></span>  
+<span data-ttu-id="38810-103">Se vengono visualizzati dati incompleti o non corretti, prova a forzare la chiusura e la riapertura dell'app.</span><span class="sxs-lookup"><span data-stu-id="38810-103">If you are seeing incomplete or incorrect data, try to force close and reopen the app.</span></span>  
 
-<span data-ttu-id="f5c02-104">Se non funziona, è possibile provare a reimpostare l'account sul dispositivo.</span><span class="sxs-lookup"><span data-stu-id="f5c02-104">If that doesn't work, you can try to reset the account on the device.</span></span>
+<span data-ttu-id="38810-104">Se non funziona, puoi provare a reimpostare l'account nel dispositivo.</span><span class="sxs-lookup"><span data-stu-id="38810-104">If that doesn't work, you can try to reset the account on the device.</span></span>
  
-<span data-ttu-id="f5c02-105">Apri l'app, vai a **Impostazioni**, seleziona l'account di posta elettronica e scegli **Reimposta account**.</span><span class="sxs-lookup"><span data-stu-id="f5c02-105">Open the app, go to **Settings**, select the email account, and choose **Reset Account**.</span></span>
+<span data-ttu-id="38810-105">Apri l'app, vai a **Impostazioni,** seleziona l'account di posta elettronica e scegli **Reimposta account.**</span><span class="sxs-lookup"><span data-stu-id="38810-105">Open the app, go to **Settings**, select the email account, and choose **Reset Account**.</span></span>
