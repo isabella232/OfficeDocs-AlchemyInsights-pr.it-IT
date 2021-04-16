@@ -2,7 +2,7 @@
 title: Verificare il dominio con Bluehost
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 5b4b6fdfa90d0ddf9dec28276f406801feb114aa
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 6ad9405cedd498c75d6993a084f91130b877e1ed
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816293"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807670"
 ---
 # <a name="verify-your-domain-with-bluehost"></a>Verificare il dominio con Bluehost
 
-Per verificare il dominio, è necessario aggiungere un record TXT al registrar per verificare che si è proprietari del dominio. 
+Per verificare il dominio, è necessario aggiungere un record TXT al registrar per verificare di essere proprietari del dominio. 
 
-Per prima cosa, seguire la [procedura guidata Aggiungi dominio](https://admin.microsoft.com/Adminportal#/Domains) selezionando domini **delle impostazioni** \> **Domains**, quindi **Aggiungi dominio**.
+Per prima cosa, seguire [la procedura guidata Aggiungi](https://admin.microsoft.com/Adminportal#/Domains) dominio selezionando **Impostazioni** \> **Domini** e quindi **Aggiungi dominio.**
   
-Per istruzioni dettagliate, vedere [create DNS Records at BlueHost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost) .
+Per [istruzioni dettagliate, vedere Create DNS records at Bluehost for Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost)
