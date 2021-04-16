@@ -1,8 +1,8 @@
 ---
-title: Serve assistenza con il mio account Outlook.com
+title: Serve assistenza per l'account Outlook.com personale
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803285"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792388"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a><span data-ttu-id="c9a43-102">Serve assistenza con il mio account Outlook.com</span><span class="sxs-lookup"><span data-stu-id="c9a43-102">Need help with my Outlook.com account</span></span>
+# <a name="need-help-with-my-outlookcom-account"></a><span data-ttu-id="56e56-102">Serve assistenza per l'account Outlook.com personale</span><span class="sxs-lookup"><span data-stu-id="56e56-102">Need help with my Outlook.com account</span></span>
 
-<span data-ttu-id="c9a43-103">Se si ha bisogno di assistenza per il servizio Outlook.com, è stato dedicato aiuto per assisterla.</span><span class="sxs-lookup"><span data-stu-id="c9a43-103">If you need help with the Outlook.com service, we have dedicated help to assist you.</span></span> <span data-ttu-id="c9a43-104">Per ottenere il supporto direttamente nell'app Web:</span><span class="sxs-lookup"><span data-stu-id="c9a43-104">To get support directly on the web app:</span></span> 
+<span data-ttu-id="56e56-103">Se hai bisogno di assistenza con il Outlook.com, abbiamo dedicato assistenza.</span><span class="sxs-lookup"><span data-stu-id="56e56-103">If you need help with the Outlook.com service, we have dedicated help to assist you.</span></span> <span data-ttu-id="56e56-104">Per ottenere supporto direttamente nell'app Web:</span><span class="sxs-lookup"><span data-stu-id="56e56-104">To get support directly on the web app:</span></span> 
 
-1. <span data-ttu-id="c9a43-105">Fare clic sul pulsante?</span><span class="sxs-lookup"><span data-stu-id="c9a43-105">Click on the ?</span></span> <span data-ttu-id="c9a43-106">sull'icona in alto a destra dello schermo.</span><span class="sxs-lookup"><span data-stu-id="c9a43-106">icon on the top right of the screen.</span></span> 
+1. <span data-ttu-id="56e56-105">Fare clic sul pulsante ?</span><span class="sxs-lookup"><span data-stu-id="56e56-105">Click on the ?</span></span> <span data-ttu-id="56e56-106">nella parte superiore destra dello schermo.</span><span class="sxs-lookup"><span data-stu-id="56e56-106">icon on the top right of the screen.</span></span> 
 
-2. <span data-ttu-id="c9a43-107">Digitare gli elementi necessari per assistenza nella finestra della Guida visualizzata nel riquadro pop up e fare clic su **Invia**.</span><span class="sxs-lookup"><span data-stu-id="c9a43-107">Type what you need assistance with on the help box displayed on the pop up panel and click **submit**.</span></span> 
+2. <span data-ttu-id="56e56-107">Digitare l'assistenza necessaria nella casella della Guida visualizzata nel riquadro popup e fare clic su **Invia.**</span><span class="sxs-lookup"><span data-stu-id="56e56-107">Type what you need assistance with on the help box displayed on the pop up panel and click **submit**.</span></span> 
 
-3. <span data-ttu-id="c9a43-108">Se una soluzione non viene presentata, scorrere verso il basso nel riquadro laterale e fare clic su **inviaci una e-mail**.</span><span class="sxs-lookup"><span data-stu-id="c9a43-108">If a solution is not presented, please scroll down the side panel and click **email us**.</span></span>
+3. <span data-ttu-id="56e56-108">Se non viene presentata una soluzione, scorri verso il basso nel pannello laterale e fai clic su **Inviaci un'e-mail.**</span><span class="sxs-lookup"><span data-stu-id="56e56-108">If a solution is not presented, please scroll down the side panel and click **email us**.</span></span>

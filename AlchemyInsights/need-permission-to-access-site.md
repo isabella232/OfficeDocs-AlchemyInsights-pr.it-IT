@@ -1,8 +1,8 @@
 ---
-title: È necessario disporre dell'autorizzazione per accedere al sito
+title: Autorizzazioni necessarie per accedere al sito
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: dba40636895dda775884c9f720c8c60e2c815019
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2363ff72348b53a73d06bcedbd875ebf3341c3b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772699"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792316"
 ---
-# <a name="you-need-permission-to-access-this-site"></a><span data-ttu-id="9ad83-102">È necessario disporre dell'autorizzazione per accedere a questo sito</span><span class="sxs-lookup"><span data-stu-id="9ad83-102">You Need Permission to Access This Site</span></span>
+# <a name="you-need-permission-to-access-this-site"></a><span data-ttu-id="e2808-102">È necessaria l'autorizzazione per accedere a questo sito</span><span class="sxs-lookup"><span data-stu-id="e2808-102">You Need Permission to Access This Site</span></span>
 
-[<span data-ttu-id="9ad83-103">"Accesso negato", "è necessario disporre dell'autorizzazione per accedere a questo sito" o "utente non trovato nella directory" errori in SharePoint Online e OneDrive for business</span><span class="sxs-lookup"><span data-stu-id="9ad83-103">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+[<span data-ttu-id="e2808-103">Errori "Accesso negato", "È necessaria l'autorizzazione per accedere a questo sito" o "Utente non trovato nella directory" in SharePoint Online e OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="e2808-103">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
