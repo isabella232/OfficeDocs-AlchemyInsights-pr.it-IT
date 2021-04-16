@@ -1,8 +1,8 @@
 ---
-title: Risolvere i problemi relativi alla stampante
+title: Risolvere i problemi della stampante
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: c8bdc9ff2ce61af24e886559bd78ecb99ce56921
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4700ba896d5101562bd78cf76ec61e47da29894
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677680"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812684"
 ---
 # <a name="troubleshoot-your-printer"></a>Risoluzione dei problemi della stampante
 
-Se si verificano problemi di stampa, provare a eseguire un **ciclo di alimentazione della stampante**. Procedere come segue:
+In caso di problemi di stampa, provare prima a eseguire un ciclo **di alimentazione della stampante.** Procedere come segue:
 
 1. Spegnere la stampante e scollegare il cavo di alimentazione.
 2. Attendere 30 secondi.
 3. Ricollegare il cavo e riaccendere la stampante.
 
-Se il problema persiste, eseguire lo **strumento di risoluzione**dei problemi della stampante eseguendo l'  >  aggiornamento**delle impostazioni**  >  **&** la  >  **risoluzione dei problemi relativi**alla sicurezza. Selezionare **stampante**e quindi **eseguire la risoluzione dei problemi**.
+Se il problema non è stato risolto, eseguire lo strumento di risoluzione dei problemi della stampante andando su **Start**  >  **Settings**  >  **Update & Security**  >  **Troubleshoot**. Selezionare **Stampante** e quindi Eseguire **lo strumento di risoluzione dei problemi.**

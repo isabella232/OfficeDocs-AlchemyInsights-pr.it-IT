@@ -1,8 +1,8 @@
 ---
-title: Come consentire agli utenti di Skype for business di comunicare con gli utenti di Skype
+title: Come consentire agli utenti di Skype for Business di comunicare con gli utenti Skype
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: 6702f64f70f752667167b41e79c510367f95bfb7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e43ecf3af5311c6361b058918a4260c2cf8ef1be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781935"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811316"
 ---
 # <a name="let-skype-for-business-users-add-skype-contacts"></a>Consentire agli utenti di Skype for Business di aggiungere contatti Skype
 
-Con Skype for business, gli utenti possono cercare e inviare messaggi istantanei con tutti coloro che usano Skype, l'app gratuita! In questo articolo vengono illustrate le operazioni necessarie affinché possano aggiungere contatti Skype.
+Con Skype for Business, gli utenti possono cercare e messaggistica istantanea con tutti coloro che utilizzano Skype, l'app gratuita! Questo articolo spiega cosa è necessario fare per poter aggiungere contatti Skype.
 
 [Consentire agli utenti di Skype for Business di aggiungere contatti Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)

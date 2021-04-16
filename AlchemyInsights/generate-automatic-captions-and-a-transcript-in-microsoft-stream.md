@@ -2,7 +2,7 @@
 title: Generare didascalie automatiche e una trascrizione in Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707787"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812395"
 ---
 # <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Generare didascalie automatiche e una trascrizione in Microsoft Stream
 
-Stream può generare automaticamente didascalie tramite la tecnologia di riconoscimento vocale automatico ed è possibile visualizzare una finestra della trascrizione di scorrimento per spostarsi facilmente e seguire insieme al contenuto parlato di un video.
+Stream può generare automaticamente didascalie utilizzando la tecnologia di riconoscimento vocale automatico ed è possibile visualizzare una finestra di trascrizione a scorrimento per spostarsi e seguire facilmente insieme al contenuto parlato di un video.
 
-- [Generare didascalie automatiche e una trascrizione per i video di Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Genera sottotitoli automatici ed una trascrizione per i tuoi video Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Visualizzazione di una finestra della trascrizione di scorrimento per un video in Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Visualizzare una finestra di trascrizione a scorrimento per un video in Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)

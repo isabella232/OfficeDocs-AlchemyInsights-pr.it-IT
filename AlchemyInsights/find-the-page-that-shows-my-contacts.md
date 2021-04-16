@@ -1,8 +1,8 @@
 ---
-title: Trovare la pagina in cui vengono visualizzati i contatti personali
+title: Trovare la pagina che mostra i contatti personali
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff3fca5a12c08314388fdb494c598c3e03d5db8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745278"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812990"
 ---
-# <a name="find-the-page-that-shows-my-contacts"></a>Trovare la pagina in cui vengono visualizzati i contatti personali
+# <a name="find-the-page-that-shows-my-contacts"></a>Trovare la pagina che mostra i contatti personali
 
-È possibile cercare i propri contatti nello stesso modo in cui si cercano i messaggi di posta elettronica.
+È possibile cercare i contatti nello stesso modo in cui si ricercano i messaggi di posta elettronica.
  
-Toccare l'icona di ricerca di lente di ingrandimento e quindi digitare la richiesta di ricerca dei contatti nella casella nella parte superiore dello schermo. (**Protip**: è possibile fare doppio tap sulla lente di ingrandimento per portare lo stato attivo alla casella di ricerca.) I risultati verranno visualizzati nella sezione contatti.
+Tocca l'icona di ricerca della lente di ingrandimento, quindi digita la richiesta di ricerca dei contatti nella casella nella parte superiore dello schermo. (**Suggerimento**: È possibile toccare due volte la lente di ingrandimento per spostare lo stato attivo sulla casella di ricerca. I risultati verranno visualizzati nella sezione Contatti.
