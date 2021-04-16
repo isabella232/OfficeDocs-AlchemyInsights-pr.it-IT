@@ -1,8 +1,8 @@
 ---
-title: Utilizzare lo schizzo & snip per acquisire, contrassegnare e condividere immagini
+title: Usare Snip & Sketch per acquisire, contrassegnare e condividere immagini
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773203"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770815"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Utilizzare lo schizzo & snip per acquisire, contrassegnare e condividere immagini
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Usare Snip & Sketch per acquisire, contrassegnare e condividere immagini
 
-Lo schizzo dello schermo è ora denominato **Snip & sketch**. **Per prendere rapidamente un snip**:
+Lo schizzo dello schermo è **ora denominato Snip & Sketch**. **Per eseguire rapidamente un'enip:**
 
-1. Premere il **tasto logo Windows + MAIUSC + S**. Vedrai il tuo schermo scurire e il cursore visualizzato come una croce. 
+1. Premere il **tasto WINDOWS + MAIUSC + S**. Vedrai lo schermo scuro e il cursore visualizzato come una croce. 
 
-2. Scegliere un punto in corrispondenza del bordo dell'area che si desidera copiare e fare clic con il pulsante sinistro del mouse sul cursore. 
+2. Scegliere un punto sul bordo dell'area che si desidera copiare e fare clic con il pulsante sinistro del mouse sul cursore. 
 
-3. Spostare il cursore per evidenziare l'area che si desidera acquisire. L'area acquisita verrà visualizzata sullo schermo.
+3. Spostare il cursore per evidenziare l'area che si desidera acquisire. L'area che acquisisci verrà visualizzata sullo schermo.
 
    ![immagine della selezione evidenziata](media/snipone.png)
 
-L'immagine che tagliato viene salvata negli Appunti, pronta per l'incollatura in un messaggio di posta elettronica o un documento. 
+L'immagine copiata viene salvata negli Appunti, pronta per essere incollata in un messaggio di posta elettronica o in un documento. 
 
-**Se si desidera modificare o visualizzare l'immagine**: 
+**Se si desidera modificare o visualizzare l'immagine:** 
 
-- Fare clic sull'icona notifiche all'estrema destra della barra delle applicazioni. Fare quindi clic sull'immagine appena acquisita. L'applicazione snip viene aperta nell'app di sketch di & snip.
+- Fai clic sull'icona delle notifiche all'estrema destra della barra delle applicazioni; quindi fare clic sull'immagine appena acquisita. Il tuo snip viene aperto nell'app Snip & Sketch.
 
-   ![immagine della visualizzazione dell'immagine nell'app di cattura](media/sniptwo.png)
+   ![immagine dell'immagine visualizzata nell'app di cattura](media/sniptwo.png)
