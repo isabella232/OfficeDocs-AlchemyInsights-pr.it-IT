@@ -2,7 +2,7 @@
 title: Leggere la fattura
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791532"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782695"
 ---
 # <a name="understand-billing-amount"></a>Comprendere l'importo di fatturazione
 
