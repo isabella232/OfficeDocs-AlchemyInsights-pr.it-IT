@@ -1,8 +1,8 @@
 ---
-title: Aggiornare le informazioni sul profilo o modificare l'immagine
+title: Aggiornare le informazioni del profilo o modificare l'immagine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796940"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834447"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Aggiornare le informazioni sul profilo o modificare l'immagine
+# <a name="update-my-profile-information-or-change-my-picture"></a>Aggiornare le informazioni del profilo o modificare l'immagine
 
-Attualmente, non è possibile modificare e aggiornare le informazioni del profilo direttamente da Outlook per iOS, ma è possibile modificare queste informazioni altrove. 
+Attualmente, non è possibile modificare e aggiornare le informazioni del profilo direttamente da Outlook per iOS, ma è possibile modificarle altrove. 
 
-È possibile rendere gli aggiornamenti al profilo in Outlook per Windows o Outlook sul Web (OWA). 
+È possibile apportare aggiornamenti al profilo in Outlook per Windows o Outlook sul Web (OWA). 
 
 **Outlook per Windows**: 
 
-- **File**  >  **Account**  >  di Office **Informazioni utente**  >  **About me** (la porta a Microsoft 365 profile online) > **profilo di aggiornamento** oppure fare clic sull'icona della videocamera per modificare la foto  
+- **File**  >  Account di **Office**  >  **Informazioni utente**  >  **Informazioni su di me** (consente di accedere al profilo di Microsoft 365 online) > **Update Profile** o fare clic sull'icona della fotocamera per modificare la foto  
   
 **Outlook sul Web (OWA)**: 
 
-- **Immagine**  >  del profilo **Profilo personale**  >  **Profilo di aggiornamento**
+- **Immagine del profilo**  >  **Profilo personale**  >  **Aggiorna profilo**

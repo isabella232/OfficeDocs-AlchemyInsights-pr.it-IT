@@ -2,7 +2,7 @@
 title: Configurare un monitor esterno
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773914"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835527"
 ---
 # <a name="set-up-one-monitor"></a>Configurare un monitor
 
 **Controllare le impostazioni del progetto del PC**
 
-1. Aprire le impostazioni del progetto premendo contemporaneamente i tasti seguenti: tasto Windows (pulsante Start logo Windows) + P.
-2. Scegliere solo **Duplica**, **Estendi**o **secondo schermo**, in base alle preferenze.
+1. Apri le impostazioni del progetto premendo i tasti seguenti contemporaneamente: tasto Windows (pulsante Start logo Windows) + P.
+2. Scegli **Duplica,** **Estendi** **o Solo seconda schermata,** a seconda delle tue preferenze.
 
-**Nota:** Se il PC dispone di una sola porta di visualizzazione, ad esempio HDMI o VGA, è necessario disporre di una docking station o di un adattatore USB per configurare più monitor.
+**Nota:** Se il PC ha una sola porta di visualizzazione (ad esempio HDMI o VGA), per configurare più monitor è necessaria un'alloggiamento di espansione o una scheda USB.
 
-Inoltre, se è possibile configurare un monitor ma non più, il PC potrebbe non essere compatibile con più monitor. Controllare i documenti originali del PC per altre info.
+Inoltre, se puoi configurare un monitor ma non più monitor, il PC potrebbe non essere compatibile con più monitor. Controlla i documenti originali del PC per altre info.
