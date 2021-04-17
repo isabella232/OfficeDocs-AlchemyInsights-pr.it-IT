@@ -2,7 +2,7 @@
 title: Aggiunta di contatti esterni
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: 9156ca73831e6c286fc616f9303309dc05d3232c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb29d04fe8de94af863ae062a76a158ae2f5b4d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697057"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822135"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>Abilitare le comunicazioni esterne e aggiungere contatti
 
-In Skype for business, è possibile aggiungere utenti all'elenco dei contatti in modo che siano a un solo clic di distanza. Tutti i contatti aggiunti vengono assegnati come membri di uno o più gruppi di contatti. Recensione [aggiungere un contatto in Skype for business](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) per ulteriori informazioni. 
+In Skype for Business, puoi aggiungere persone all'elenco Contatti in modo che siano a un semplice clic. Tutti i contatti aggiunti vengono assegnati come membri di uno o più gruppi di contatti. Per altre informazioni, vedere Aggiungere un contatto [in Skype for Business.](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) 
 
-Assicurarsi che l'amministratore del tenant abbia seguito i passaggi necessari per [consentire comunicazioni esterne](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+Verificare che l'amministratore tenant abbia seguito la procedura per [Consentire comunicazioni esterne.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-Si desidera consentire solo agli utenti di contattare gli utenti di Skype consumer? Vedere [consentire agli utenti di Skype for business di aggiungere contatti Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+Vuoi solo consentire agli utenti di contattare gli utenti consumer Skype? Vedi [Consentire agli utenti di Skype for Business di aggiungere contatti Skype.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 

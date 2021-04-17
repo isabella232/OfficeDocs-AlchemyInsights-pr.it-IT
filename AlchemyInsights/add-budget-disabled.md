@@ -1,8 +1,8 @@
 ---
-title: Perché il pulsante Aggiungi budget è disabilitato per l'utente?
+title: Perché il pulsante Aggiungi budget è disabilitato?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,85 +12,85 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 18edad73f617ba180cb08576ee6e5fa8faf07128
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
+ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48769590"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822639"
 ---
-# <a name="why-is-the-add-budget-button-disabled-for-me"></a>Perché il pulsante Aggiungi budget è disabilitato per l'utente?
+# <a name="why-is-the-add-budget-button-disabled-for-me"></a>Perché il pulsante Aggiungi budget è disabilitato?
 
-Per creare un budget, è necessario disporre di una delle autorizzazioni seguenti:
+Per creare un budget, è necessaria una delle autorizzazioni seguenti:
 
-- Gruppo di gestione, sottoscrizione, ambiti di gruppi di risorse
-- Collaboratore per la gestione dei costi
+- Gruppi di gestione, sottoscrizione, ambiti di gruppi di risorse
+- Collaboratore gestione costi
 - Proprietario
 - Collaboratore
-- Solo cliente aziendale: registrazione, reparto, ambiti degli account
-- Amministratore di registrazione (impostare il budget nell'ambito di registrazione)
-- Amministratore del reparto (impostare il budget nell'ambito del reparto)
+- Solo cliente aziendale: registrazione, reparto, ambiti account
+- Amministratore registrazione (impostare il budget nell'ambito di registrazione)
+- Amministratore reparto (impostare il budget nell'ambito del reparto)
 - Proprietario dell'account (impostare il budget nell'ambito dell'account)
-- Solo contratto clienti moderno: account di fatturazione, profilo di fatturazione, ambiti sezione fattura
+- Solo contratto cliente moderno: account di fatturazione, profilo di fatturazione, ambiti della sezione fattura
 - Creatore della sottoscrizione di Azure
 
-**Ho creato un budget quando il costo per il mese corrente era già troppo preventivo. Perché non si riceve un avviso?**  
-Se si è già superato un determinato limite di costi quando si crea un budget che l'avviso non verrà attivato. Una volta che inizia un nuovo ciclo, se si viola la soglia, l'avviso verrà attivato.
+**È stato creato un budget quando il costo per il mese corrente era già troppo elevato. Perché non ho ricevuto un avviso?**  
+Se hai già superato una determinata soglia di costo quando crei un budget che non genera l'avviso. Una volta avviato un nuovo ciclo, se si supera la soglia, l'avviso verrà generato.
 
-**Quando si desidera ricevere un avviso dopo aver superato una delle soglie di avviso definite per il budget?**  
-I budget vengono valutati ogni 4 ore. Per ottenere i dati di utilizzo per il sistema dei budget, è necessario un minimo di 8 ore. Dato questo, gli avvisi possono richiedere fino a 12 ore dopo aver superato una soglia.
+**Quando devo aspettarmi di ricevere un avviso dopo aver superato una delle soglie di avviso del budget definite?**  
+I budget vengono valutati ogni 4 ore. Sono necessari almeno 8 ore prima che i dati di utilizzo raggiungano il sistema di budget. In questo caso, gli avvisi possono richiedere fino a 12 ore dopo il superamento di una soglia.
 
-**Perché il pulsante Data di inizio è disabilitato quando si seleziona il mese o il periodo di reimpostazione del mese di fatturazione?**  
-I budget sono allineati al mese di calendario corrente o al periodo di fatturazione corrente, nel caso in cui sia selezionato il mese di fatturazione. Di conseguenza, il valore viene prepopolato per l'utente.
+**Perché il pulsante Data inizio è disabilitato quando si seleziona un periodo di reimpostazione mese o fatturazione?**  
+I budget sono allineati al mese di calendario corrente o al periodo di fatturazione corrente (nel caso in cui sia selezionato Mese fatturazione). Pertanto, precompimo questo valore automaticamente.
 
 **Perché non viene visualizzato un grafico dei costi nell'esperienza di creazione del budget?**  
-È necessario un minimo di 2 mesi di dati di costo prima di poter eseguire il rendering di un grafico per facilitare la creazione del budget.
+Abbiamo bisogno di almeno 2 mesi di dati sui costi prima di poter eseguire il rendering di un grafico per agevolare la creazione del budget.
 
-**Perché non è possibile impostare un budget per un abbonamento appena creato?**  
-Dopo la creazione di un abbonamento, i dati devono essere elaborati per 24-48 ore prima di impostare un preventivo su di esso.
+**Perché non è possibile impostare un budget per una sottoscrizione appena creata?**  
+Dopo la creazione di una sottoscrizione, l'elaborazione dei dati richiede 24-48 ore prima di impostare un budget.
 
-**Risorse dell'API di budget**
+**Risorse API preventivo**
 
-- [Budgets API V1](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support): fornisce operazioni per la creazione e l'aggiornamento di budget. Utilizzando l'API budgets, è possibile impostare una soglia di budget e configurare più avvisi in modo che vengano attivati quando si accede a tale soglia. Gli avvisi possono attivare un messaggio di posta elettronica o un gruppo di azione di Azure per eseguire l'automazione. Nota: il filtro per l'API non è allineato al filtro/dimensioni API di query.
-- [Probudgets API v2](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json): creare budget con funzionalità di filtraggio dei costi maggiori rispetto alla V1. Il filtro Allinea al contratto utilizzato nelle API di query e dimensioni. Si tratta dell'API per i budget consigliata per l'utilizzo di Moving Forward.
-- [Dimensions](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support): fornisce operazioni per ottenere dimensioni supportate per l'utilizzo in una vasta gamma di ambiti. Utilizzando l'API Dimensions, è possibile recuperare un elenco di dimensioni che possono essere utilizzate come input per la generazione di query con l'API di query.
-- [Query](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support): fornisce operazioni per ottenere i dati di utilizzo e costo aggregati in base alla query fornita. Utilizzando l'API di query, è possibile specificare il filtro, l'ordinamento e il raggruppamento desiderati per tutte le dimensioni disponibili (a cui si accede dall'API Dimensions).
+- [API budget v1](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support): fornisce le operazioni per creare e aggiornare i budget. Usando l'API Budgets, puoi impostare una soglia di budget e configurare più avvisi in modo che si attivino quando ti avvicini a tale soglia. Gli avvisi possono attivare un messaggio di posta elettronica o un gruppo di azioni di Azure per eseguire l'automazione. Nota: il filtro per questa API non è allineato al filtro/dimensioni dell'API di query.
+- [API budget v2](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json): creare budget con funzionalità di filtro dei costi maggiori rispetto alla v1. Il filtro è allineato al contratto usato nelle API Query e Dimensioni. Questa è l'API di budget consigliata per l'uso in futuro.
+- [Dimensioni](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support): fornisce operazioni per ottenere le dimensioni supportate per l'utilizzo in un'ampia gamma di ambiti. Usando l'API Dimensions, puoi recuperare un elenco di dimensioni che possono essere usate come input per generare query con l'API query.
+- [Query](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support): fornisce operazioni per ottenere dati aggregati sui costi e sull'utilizzo in base alla query fornita. Usando l'API query, puoi specificare il filtro, l'ordinamento e il raggruppamento desiderati in tutte le dimensioni disponibili (a cui è possibile accedere dall'API Dimensions).
 
 **Costi previsti**
 
-**Perché non vengono visualizzate le previsioni per i costi per l'analisi dei costi?**  
-Per l'analisi dei costi, alcuni dei motivi per cui potrebbe mancare la proiezione di previsione sono diversi:
+**Perché non vengono visualizzati i costi previsti nell'analisi dei costi?**  
+Esistono diversi motivi per cui la proiezione di previsione potrebbe non essere presente nell'analisi dei costi, alcuni dei quali sono i seguenti:
 
-1. Se i dati relativi ai costi sono inferiori a 10 giorni, il grafico previsione non verrà caricato. Il modello richiede almeno 10 giorni di dati di costo recenti per proiezioni accurate
-2. Se sono state selezionate date storiche, il grafico previsione non sarà visibile. Selezionare un intervallo di date con le date future per il grafico previsione da visualizzare
-3. Se il tuo account ha più valute, il grafico previsto consentirà solo i costi del progetto per "tutti i costi in USD"
+1. Se i dati relativi ai costi hanno meno di 10 giorni, il grafico delle previsioni non verrà caricato. Il modello richiede almeno 10 giorni di dati sui costi recenti per proiezioni accurate
+2. Se sono state selezionate date storiche, il grafico delle previsioni non sarà visibile. Selezionare un intervallo di date con date future per il grafico delle previsioni da visualizzare
+3. Se l'account ha più valute, il grafico delle previsioni includerà solo i costi di progetto per "Tutti i costi in USD"
 
-**Perché non viene modificata la previsione quando si apportano modifiche alle risorse personali?**  
-Il modello di previsione richiede un paio di giorni per tenere conto delle modifiche apportate all'account e non rende immediate le proiezioni in base alla modifica delle risorse  
-Per i passaggi maggiori di aumento o diminuzione delle risorse, il modello richiederà un tempo leggermente più lungo per adattarsi a queste modifiche in modo da tenere conto delle anomalie
+**Perché la previsione non cambia quando si apportano modifiche alle risorse?**  
+Il modello previsionale richiede un paio di giorni per prendere in considerazione le modifiche dell'account e non effettua proiezioni immediate basate sul cambiamento delle risorse  
+Per passaggi più grandi di aumento o riduzione delle risorse, il modello richiederà un po' di più per adattarsi a queste modifiche per prendere in considerazione le anomalie
 
-**Perché la previsione aumenta dopo aver effettuato una prenotazione o un acquisto sul mercato?**  
-Il modello di previsione considera il ' costo effettivo ' e non tiene conto dell'utilizzo e dell'acquisto separatamente. Per un acquisto di una tantum, il modello diminuirà le proiezioni dopo 10 giorni per rendere conto dell'improvviso aumento dei costi.
+**Perché le previsioni aumentano dopo aver fatto una prenotazione o un acquisto marketplace?**  
+Il modello previsionale considera il "Costo effettivo" e non considera l'utilizzo e l'acquisto separatamente. Per un acquisto una sola volta, il modello ridurrà le proiezioni dopo 10 giorni per conto dell'improvviso aumento dei costi
 
-**Voglio vedere le previsioni per una singola dimensione (es. Indicatore**  
-La previsione attualmente supporta le proiezioni dei costi totali e non i singoli contatori. Pertanto, quando ' raggruppato per ' una dimensione, le proiezioni saranno per il totale di tutti gli elementi nella dimensione
+**Si desidera visualizzare le previsioni per una singola dimensione (ad esempio. Meter)**  
+La previsione attualmente supporta proiezioni di costo totale e non per singoli metri. Di conseguenza, quando viene "raggruppato per" una dimensione, le proiezioni saranno per il totale di tutti gli elementi nella dimensione
 
 **Documenti consigliati**
 
 - [Che cos'è Azure Cost Management?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Procedure consigliate per la gestione dei costi di Azure](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Analisi dei costi e della spesa](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Analizzare i costi e le spese](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Esplorare e analizzare i costi con l'analisi dei costi](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Gestione dei costi di Azure: prezzi](https://azure.microsoft.com/services/cost-management/#pricing)
 - [Esaminare i costi nell'analisi dei costi](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support#review-costs-in-cost-analysis)
-- [Video tutorial: creare un budget nel portale di Azure](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
+- [Esercitazione video: Creare un budget nel portale di Azure](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
 - [Prerequisiti per la visualizzazione e la personalizzazione dei budget](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#prerequisites)
-- [Creare e gestire i budget](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#create-a-budget-in-the-azure-portal)
-- [Configurare l'automazione con i gruppi di azione di Azure e i budget API](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
-- [Utilizzare gli avvisi sui costi per monitorare l'utilizzo e la spesa](https://docs.microsoft.com/azure/cost-management/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Creare e gestire budget](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#create-a-budget-in-the-azure-portal)
+- [Configurare l'automazione con i gruppi di azioni di Azure e l'API budget](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
+- [Usare gli avvisi costi per monitorare l'utilizzo e la spesa](https://docs.microsoft.com/azure/cost-management/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Procedure consigliate per la gestione dei costi](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Video sull'esercitazione**
+**Video sulle esercitazioni**
 
 - [Creare un budget nel portale di Azure](https://go.microsoft.com/fwlink/?linkid=2146761)
-- [Gestire i costi con l'API per i budget e i gruppi di azione](https://go.microsoft.com/fwlink/?linkid=2147038)
+- [Gestire i costi con l'API Budgets e i gruppi di azioni](https://go.microsoft.com/fwlink/?linkid=2147038)

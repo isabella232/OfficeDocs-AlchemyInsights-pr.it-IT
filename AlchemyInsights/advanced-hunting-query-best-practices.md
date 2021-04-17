@@ -2,7 +2,7 @@
 title: Procedure consigliate per query in Ricerca avanzata
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8469e712d68a15f51503081c8bb283713173adde
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696661"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821739"
 ---
 # <a name="advanced-hunting-query-best-practices"></a>Procedure consigliate per query in Ricerca avanzata
 
-Consultare l'articolo completo [procedure](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) consigliate per la ricerca di informazioni dettagliate su:
+Vedere l'articolo completo Procedure consigliate [per la ricerca avanzata di query](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) per suggerimenti dettagliati e indicazioni su:
 - Ottimizzazione delle prestazioni delle query.
-- Suggerimenti e insidie di query.
-- Esegue una query con le righe di comando.
+- Suggerimenti e insidie per le query.
+- Query con righe di comando.
 
 
