@@ -2,7 +2,7 @@
 title: Modificare i server dei nomi in MyDomain
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5862"
 - "14"
-ms.openlocfilehash: f3c2750f77b88b94d2eeadfe3740d325c3d39e23
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9bbdf761d3a52bbbff3255730524dbd7defdb71d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682272"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818724"
 ---
-# <a name="change-nameservers-at-mydomain"></a><span data-ttu-id="2d1c0-102">Modificare i server dei nomi in MyDomain</span><span class="sxs-lookup"><span data-stu-id="2d1c0-102">Change nameservers at MyDomain</span></span>
+# <a name="change-nameservers-at-mydomain"></a><span data-ttu-id="f8560-102">Modificare i server dei nomi in MyDomain</span><span class="sxs-lookup"><span data-stu-id="f8560-102">Change nameservers at MyDomain</span></span>
 
-[<span data-ttu-id="2d1c0-103">Modificare i server dei nomi per configurare Microsoft 365 con MyDomain</span><span class="sxs-lookup"><span data-stu-id="2d1c0-103">Change nameservers to setup Microsoft 365 with MyDomain</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-mydomain?view=o365-worldwide)
+[<span data-ttu-id="f8560-103">Modificare i server dei nomi per configurare Microsoft 365 con MyDomain</span><span class="sxs-lookup"><span data-stu-id="f8560-103">Change nameservers to setup Microsoft 365 with MyDomain</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-mydomain?view=o365-worldwide)
 
-<span data-ttu-id="2d1c0-104">Per altri problemi relativi al dominio, provare le [Domande frequenti sui domini](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="2d1c0-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="f8560-104">Per altri problemi relativi al dominio, provare le [Domande frequenti sui domini](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="f8560-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
