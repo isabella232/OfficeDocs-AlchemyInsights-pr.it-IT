@@ -2,7 +2,7 @@
 title: Creare una relazione organizzativa per consentire agli utenti di collaborare con un'altra organizzazione
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: a7ec7b4a8020cfe9a24d1f18af89b02400e6d45e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712737"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816132"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Creare una relazione organizzativa per consentire agli utenti di collaborare con un'altra organizzazione
 
@@ -31,7 +31,7 @@ ms.locfileid: "47712737"
 Per impostare il livello di accesso alle informazioni sulla disponibilità, selezionare una delle seguenti operazioni:
 
 - **Informazioni sulla disponibilità in calendario, solo con data/ora**
-- **   Informazioni sulla disponibilità con ora, oggetto e posizione**  
+- **Informazioni sulla disponibilità con ora, oggetto e posizione**  
 
  Per impostare quali utenti condivideranno le informazioni sulla disponibilità, selezionare una delle voci seguenti:
 

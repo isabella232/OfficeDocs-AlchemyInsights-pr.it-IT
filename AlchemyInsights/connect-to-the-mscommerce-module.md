@@ -1,8 +1,8 @@
 ---
-title: Connettersi al modulo di MSCommerce
+title: Connettersi al modulo MS Commerce
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 41dd044d99d14f25ea15699bfb74f7c37e3928c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e77c6a329ac99a4cea4f143dcb3c661b6a518e35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713242"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817032"
 ---
-# <a name="connect-to-the-mscommerce-module"></a>Connettersi al modulo di MSCommerce
+# <a name="connect-to-the-mscommerce-module"></a>Connettersi al modulo MS Commerce
 
-Per poter visualizzare o impostare il criterio AllowSelfServicePurchase, è necessario essere connessi al modulo MSCommerce.  
+Per poter visualizzare o impostare il criterio AllowSelfServicePurchase, è necessario essere connessi al modulo MS Commerce.  
 
-Per connettersi al modulo MSCommerce, al prompt di PowerShell (PS C: \) , immettere il comando seguente:
+Per connettersi al modulo MS Commerce, al prompt di PowerShell (PS C: \) , immettere il comando seguente:
 
 `Connect-MSCommerce`
 
-Verrà aperta una finestra di dialogo di accesso. Immettere il nome utente e la password per l'accesso.
+Verrà aperta una finestra di dialogo di accesso. Immetti il nome utente e la password per l'accesso.
 
-**Nota:** &nbsp; &nbsp; L'account utilizzato per l'accesso deve essere una società o un amministratore di fatturazione.
+**NOTA:** &nbsp; &nbsp; L'account utilizzato per accedere deve essere un amministratore della società o della fatturazione.

@@ -1,8 +1,8 @@
 ---
-title: Eliminazione degli utenti
+title: Eliminazione dei dati degli utenti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: b14c1f32ccfb5eda2345b302edeef1ff817cfe42
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b1de72c37e53ed91000b2c7fc95fc27c5b9a8942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679886"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815439"
 ---
-# <a name="deleting-users"></a>Eliminazione degli utenti
+# <a name="deleting-users"></a>Eliminazione dei dati degli utenti
 
-Se si desidera bloccare immediatamente l'accesso degli utenti e mantenere le proprie informazioni, vedere [bloccare l'accesso di un ex dipendente ai dati di Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data).
+Se si desidera bloccare immediatamente l'accesso degli utenti ed è necessario conservare le informazioni, vedere Bloccare l'accesso di un ex dipendente ai dati [di Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data)
   
-Se si desidera semplicemente eliminare l'utente e non si è interessati ad alcuno dei suoi dati, vedere [eliminare un utente dall'organizzazione](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). In questo modo verrà immediatamente liberata la licenza.
+Se si desidera semplicemente eliminare l'utente e non si è interessati ad alcun dato, vedere [Eliminare un utente dall'organizzazione.](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) In questo modo verrà immediatamente liberata la licenza.
   

@@ -1,8 +1,8 @@
 ---
-title: Ricerca contenuto nessun risultato
+title: Ricerca contenuto Nessun risultato
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0267286ca5967ee891e65343d49adf776f0322a6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680651"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816852"
 ---
-# <a name="no-results-from-content-searchexports"></a>Nessun risultato dalla ricerca contenuto/esportazioni
+# <a name="no-results-from-content-searchexports"></a>Nessun risultato da Ricerca/Esportazioni contenuto
 
-Problemi relativi alla ricerca di contenuto/esportazioni la mancata restituzione di dati potrebbe essere dovuta a un determinato filtro di sicurezza di conformità che è stato configurato da un amministratore specifico e che non lo ha comunicato a tutti gli amministratori.
+I problemi relativi alla ricerca/esportazione del contenuto che non restituiscono dati potrebbero essere dovuti a determinati filtri di sicurezza della conformità che sono stati impostati da un amministratore specifico e che non lo comunicano a tutti gli amministratori.
 
-Per risolvere il problema, verificare se sono presenti filtri di sicurezza per la conformità che potrebbero causare questo problema:
-1. Connettersi a PowerShell per Centro sicurezza e conformità
-2. Eseguire le seguenti commandlets:
+Per risolvere il problema, verificare se sono presenti filtri di sicurezza di conformità che potrebbero causare questo problema:
+1. Connettersi a Powershell per Centro sicurezza e conformità
+2. Eseguire i seguenti commandlet:
 <br>$org = "yourdomain.com"
-<br>Get-ComplianceSecurityFilter-Organization $org
+<br>Get-ComplianceSecurityFilter -Organization $org

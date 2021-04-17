@@ -1,8 +1,8 @@
 ---
-title: 'Protezione antimanomissione del client Defender '
+title: 'Defender Client Tamper Protection '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680508"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815583"
 ---
-# <a name="defender-tamper-protection"></a>Protezione antimanomissione del difensore 
+# <a name="defender-tamper-protection"></a>Defender Tamper Protection 
 
-Con la protezione antimanomissione, le app dannose impediscono di intraprendere azioni come queste:
+Con Protezione manomissione, alle app dannose non viene impedito di eseguire azioni come queste:
 
-- Disabilitazione del virus e della protezione dalle minacce
+- Disabilitazione della protezione da virus e minacce
 - Disabilitazione della protezione in tempo reale
 - Disattivazione del monitoraggio del comportamento
-- Disabilitazione di antivirus (ad esempio IOfficeAntivirus (IOAV))
-- Disabilitazione della protezione recapitata dal cloud
-- Rimozione degli aggiornamenti di intelligence sulla sicurezza
+- Disabilitazione dell'antivirus (ad esempio IOfficeAntivirus (IOAV))
+- Disabilitazione della protezione recapitata nel cloud
+- Rimozione degli aggiornamenti delle funzionalità di intelligence per la sicurezza
 
-Per ulteriori informazioni, vedere [Protect Security Settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).
+Per ulteriori dettagli, vedere [Protect security settings with Tamper Protection.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)

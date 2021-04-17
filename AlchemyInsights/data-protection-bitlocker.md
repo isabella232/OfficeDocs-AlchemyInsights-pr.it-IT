@@ -1,8 +1,8 @@
 ---
-title: DataProtection-BitLocker
+title: DataProtection - Bitlocker
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,44 +12,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
-ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
+ms.openlocfilehash: 8166a055d7a967faab83484619b443cc98239c7c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49778197"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815619"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Abilitazione della crittografia BitLocker con Intune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Abilitazione della crittografia Bitlocker con Intune
 
-I criteri di protezione dell'endpoint di Intune possono essere utilizzati per configurare le impostazioni di crittografia di BitLocker per i dispositivi Windows. Per ulteriori informazioni, vedere [impostazioni di Windows 10 (e versioni successive) per proteggere i dispositivi che utilizzano Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+I criteri di Intune Endpoint Protection possono essere usati per configurare le impostazioni di crittografia Bitlocker per i dispositivi Windows. Per altre informazioni, vedi [Impostazioni di Windows 10 (e versioni successive)](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)per proteggere i dispositivi con Intune.
 
-Oltre ai criteri di protezione endpoint esiste anche un rapporto di crittografia che fornisce una visualizzazione più dettagliata dello stato di crittografia per i dispositivi. È possibile accedere a questo report dal portale MEM in **dispositivi > monitor** e quindi in **configurazione** seleziona [rapporto di crittografia](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+Oltre ai criteri di Endpoint Protection, è disponibile anche un rapporto sulla crittografia che fornisce una visualizzazione più dettagliata dello stato di crittografia per i dispositivi. È possibile accedere a questo report dal portale MEM in **Dispositivi > Monitor** e quindi in Configurazione selezionare Report [crittografia](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport). 
 
-Se si rileva che BitLocker non è abilitato come previsto o che il profilo utilizzato per abilitare BitLocker è in uno stato di errore, leggere il rapporto di crittografia per ottenere una migliore comprensione del motivo per cui il comportamento si sta verificando.
+Se si trova che Bitlocker non viene abilitato come previsto o che il profilo utilizzato per abilitare Bitlocker è in uno stato di errore, esaminare il report di crittografia per comprendere meglio il motivo per cui si verifica il comportamento.
 
-Per ulteriori informazioni su come interpretare il report, inclusi i vari valori dello stato di crittografia, vedere [monitorare la crittografia dei dispositivi con Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+Per informazioni dettagliate su come interpretare il report, inclusi i vari valori di stato della crittografia, vedi [Monitorare la crittografia dei dispositivi con Intune.](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)
 
-È necessario tenere presente che molti dispositivi più recenti che eseguono Windows 10 supportano la crittografia automatica di BitLocker, che viene attivata senza l'applicazione del criterio MDM. Questo può influire sull'applicazione dei criteri se sono configurate impostazioni non predefinite. Per ulteriori informazioni, vedere le domande frequenti seguenti.
+Tenere presente che molti dispositivi più nuovi che eseguono Windows 10 supportano la crittografia Bitlocker automatica, che viene attivata senza l'applicazione dei criteri MDM. Ciò può influire sull'applicazione dei criteri se sono configurate impostazioni non predefinite. Per ulteriori dettagli, vedere le domande frequenti seguenti.
 
-Per informazioni sulla risoluzione dei problemi relativi a BitLocker, vedere risolvere i problemi [relativi ai criteri di BitLocker in Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
+Per informazioni sulla risoluzione dei problemi relativi a BitLocker, vedere [Risoluzione dei problemi relativi ai criteri di BitLocker in Microsoft Intune.](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)
  
  
 **Domande frequenti**
 
-D: quali edizioni di Windows supportano la crittografia del dispositivo utilizzando i criteri di protezione di endpoint?<br>
-A: le impostazioni dei criteri di protezione dell'endpoint di Intune vengono implementate tramite il [CSP di BitLocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Non tutte le edizioni o le build di Windows supportano il CSP di BitLocker. <br><br>
+D: Quali edizioni di Windows supportano la crittografia dei dispositivi usando i criteri di Endpoint Protection?<br>
+A: Le impostazioni in Intune Endpoint Protection Policy vengono implementate usando il [CSP Bitlocker.](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) Non tutte le edizioni o le build di Windows supportano il CSP Bitlocker. <br><br>
 
-D: come è possibile abilitare BitLocker nei dispositivi senza richiedere l'interazione dell'utente finale?<br>
-A: a condizione che vengano soddisfatti i prerequisiti necessari, è possibile abilitare BitLocker "Silent Encryption" tramite Intune. Vedere i dettagli dei requisiti del dispositivo e le impostazioni di criteri di esempio per abilitare la crittografia invisibile all'utente nel seguente documento: [abilitare la crittografia BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices)in modo invisibile all'utente. <br><br>
+D: Come è possibile abilitare Bitlocker nei dispositivi senza richiedere l'interazione dell'utente finale?<br>
+A: Purché siano soddisfatti i prerequisiti necessari, è possibile abilitare Bitlocker "Silent Encryption" tramite Intune. Vedi i dettagli dei requisiti del dispositivo e le impostazioni dei criteri di esempio per abilitare la crittografia invisibile all'utente nel documento seguente: Abilitare in modo invisibile all'utente [Crittografia Bitlocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
 
-D: se un dispositivo è già crittografato con BitLocker utilizzando le impostazioni predefinite del sistema operativo per il metodo di crittografia e la forza di cifratura (XTS-AES-128), l'applicazione di un criterio con impostazioni diverse attiverà automaticamente la ricrittografia dell'unità con le nuove impostazioni?<br>
-R: No. Per applicare le nuove impostazioni di crittografia, è necessario prima decrittografare l'unità.<br><br>
-**Nota:** Per i dispositivi che vengono registrati con Autopilot, la crittografia automatica che si verificherà durante la configurazione guidata non viene attivata fino a quando non viene valutato il criterio di Intune, che consente di utilizzare le impostazioni basate sui criteri al posto dei valori predefiniti del sistema operativo.
+D: Se un dispositivo è già crittografato con Bitlocker usando le impostazioni predefinite del sistema operativo per il metodo di crittografia e la forza di crittografia (XTS-AES-128), l'applicazione di un criterio con impostazioni diverse attiverà automaticamente una nuova crittografia dell'unità con le nuove impostazioni?<br>
+R: No. Per applicare le nuove impostazioni di crittografia, l'unità deve prima essere decrittografata.<br><br>
+**Nota:** Per i dispositivi registrati con Autopilot, la crittografia automatica che si verificherebbe durante la configurazione guidata non viene attivata fino a quando non viene valutato il criterio di Intune, che consente di usare le impostazioni basate su criteri al posto delle impostazioni predefinite del sistema operativo.
  
-D: se un dispositivo viene crittografato a causa dell'applicazione dei criteri di Intune, verrà decrittografato quando il criterio viene rimosso?<br>
-A: la rimozione dei criteri correlati alla crittografia non comporta la decrittografia delle unità configurate.
+D: Se un dispositivo viene crittografato come risultato dell'applicazione dei criteri di Intune, verrà decrittografato quando tale criterio viene rimosso?<br>
+A: La rimozione dei criteri relativi alla crittografia NON comporta la decrittografia delle unità configurate.
  
-D: perché i criteri di conformità di Intune mostrano che il dispositivo non dispone di BitLocker abilitato, anche se lo è?<br>
-A: l'impostazione "BitLocker Enabled" nel criterio di conformità di Intune utilizza il client di attestazione integrità del dispositivo di Windows (DHA). Questo client misura solo lo stato del dispositivo al momento dell'avvio. Pertanto, se un dispositivo non è stato riavviato dopo che la crittografia BitLocker è stata completata, il servizio client DHA non segnalerà BitLocker come attivo.
+D: Perché i criteri di conformità di Intune mostrano che nel dispositivo non è abilitato Bitlocker, anche se lo è?<br>
+A: L'impostazione "Bitlocker abilitato" nei criteri di conformità di Intune utilizza il client DHA (Windows Device Health Attestation). Questo client misura solo lo stato del dispositivo al momento dell'avvio. Pertanto, se un dispositivo non è stato riavviato dopo il completamento della crittografia Bitlocker, il servizio client DHA non segnala Bitlocker come attivo.
  
  

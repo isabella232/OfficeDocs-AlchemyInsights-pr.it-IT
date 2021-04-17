@@ -2,7 +2,7 @@
 title: Eliminare l'immagine dell'account
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7baa3267d62ae1bef64b9f7c91b5f8aedfcbc8e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730955"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815547"
 ---
-# <a name="delete-an-account-picture-in-windows-10"></a>Eliminare un'immagine di un account in Windows 10
+# <a name="delete-an-account-picture-in-windows-10"></a>Eliminare un'immagine dell'account in Windows 10
 
-Windows è stato creato per consentire di passare da una delle tre immagini più recenti. Se è necessario eliminare una delle immagini dell'account:
+Windows è progettato per consentire di passare tra le tre immagini più recenti. Se devi eliminare una delle immagini del tuo account:
 
-1. Aprire Esplora file dalla barra delle applicazioni. Se non si visualizza Esplora file (icona della cartella) sulla barra delle applicazioni, selezionare **Avvia** e digitare **Esplora file**.
+1. Apri Esplora file dalla barra delle applicazioni. Se esplora file (l'icona della cartella) non è visualizzato sulla barra delle applicazioni, seleziona **Start** e digita **Esplora file.**
 
-2. Passare a C:\Users \\ *yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
+2. Passare a C:\Users \\ *nomeutente*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
     - Sostituire *yourname* con il nome dell'account.
-    - Se non è possibile trovare la cartella AppData in Esplora file, potrebbe essere nascosta. Selezionare l'impostazione **Visualizza** e selezionare la casella di controllo **elementi nascosti** per visualizzare tutti gli elementi in una cartella.
+    - Se non è possibile trovare la cartella AppData in Esplora file, è possibile che sia nascosta. Selezionare **l'impostazione** Visualizza e selezionare la **casella di controllo Elementi** nascosti per visualizzare tutti gli elementi in una cartella.
 
 3. Eliminare l'immagine dell'account che non si desidera più utilizzare.
  

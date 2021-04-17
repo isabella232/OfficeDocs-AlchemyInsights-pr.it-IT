@@ -1,8 +1,8 @@
 ---
-title: Conversione del gruppo Microsoft 365 e delle cassette postali condivise
+title: Conversione delle cassette postali condivise e del gruppo di Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "624"
 - "3500003"
-ms.openlocfilehash: 950c162276afb321774b58893271ab9ca654c705
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 4a8fecc830ac559a3c2ff62c9a120ac165153d0c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815996"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816564"
 ---
-# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Conversione del gruppo Microsoft 365 e delle cassette postali condivise
+# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Conversione delle cassette postali condivise e del gruppo di Microsoft 365
 
-Attualmente non esiste alcun modo per eseguire la conversione tra la cassetta postale del gruppo Microsoft 365 e una cassetta postale condivisa.
+Attualmente non è possibile eseguire la conversione tra la cassetta postale del gruppo di Microsoft 365 e una cassetta postale condivisa.
 
 Si prega di contribuire a votare per questa funzionalità [qui](https://aka.ms/M365GroupToShared).
