@@ -2,7 +2,7 @@
 title: 'Planner: come funzionano le notifiche'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3809"
 - "9001716"
-ms.openlocfilehash: 6349d0a04934495b1f6992af68231a5a0402e014
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b549fe9e625752718aa9cce0f5a730cd60039a24
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701863"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826851"
 ---
-# <a name="planner-how-notifications-work"></a><span data-ttu-id="d0ba6-102">Planner: come funzionano le notifiche</span><span class="sxs-lookup"><span data-stu-id="d0ba6-102">Planner: How notifications work</span></span>
+# <a name="planner-how-notifications-work"></a><span data-ttu-id="73703-102">Planner: come funzionano le notifiche</span><span class="sxs-lookup"><span data-stu-id="73703-102">Planner: How notifications work</span></span>
 
-<span data-ttu-id="d0ba6-103">Microsoft Planner consente di impostare notifiche tramite posta elettronica e notifiche sulle app per dispositivi mobili.</span><span class="sxs-lookup"><span data-stu-id="d0ba6-103">Microsoft Planner can set email notifications as well as mobile apps notifications.</span></span>
+<span data-ttu-id="73703-103">Microsoft Planner consente di impostare notifiche tramite posta elettronica e notifiche sulle app per dispositivi mobili.</span><span class="sxs-lookup"><span data-stu-id="73703-103">Microsoft Planner can set email notifications as well as mobile apps notifications.</span></span>
 
-- <span data-ttu-id="d0ba6-104">Per informazioni sui tipi di notifiche ricevute da membri del piano o proprietari del gruppo, vedere [Tenere sotto controllo le attività e i piani con la posta elettronica e le notifiche](https://support.office.com/article/Stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859).</span><span class="sxs-lookup"><span data-stu-id="d0ba6-104">For information on the types of notifications a plan member or a group owner will receive, see [Stay on top of tasks and plans with email and notifications](https://support.office.com/article/Stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859).</span></span>
+- <span data-ttu-id="73703-104">Per informazioni sui tipi di notifiche ricevute da membri del piano o proprietari del gruppo, vedere [Tenere sotto controllo le attività e i piani con la posta elettronica e le notifiche](https://support.office.com/article/Stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859).</span><span class="sxs-lookup"><span data-stu-id="73703-104">For information on the types of notifications a plan member or a group owner will receive, see [Stay on top of tasks and plans with email and notifications](https://support.office.com/article/Stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859).</span></span>
 
-- <span data-ttu-id="d0ba6-105">Per modificare le impostazioni di notifica, vedere [Proprietari del gruppo: Attivare o disattivare i messaggi di posta elettronica del gruppo riguardo le azioni di un piano](https://support.office.com/article/group-owners-turn-group-emails-about-task-activity-on-or-off-for-a-plan-f1b0d681-2aa6-4ce5-9703-4614607d4cd0) e [Membri del piano: Gestire i messaggi di posta elettronica del gruppo per i piani di Planner](https://support.office.com/article/plan-members-manage-group-emails-for-your-planner-plans-46f989a0-a34d-4db9-993b-dd596af7a5d2).</span><span class="sxs-lookup"><span data-stu-id="d0ba6-105">To change notification settings, check out [Group owners: turn group emails about task activity on or off for a plan](https://support.office.com/article/group-owners-turn-group-emails-about-task-activity-on-or-off-for-a-plan-f1b0d681-2aa6-4ce5-9703-4614607d4cd0) and [Plan members: manage group emails for your Planner plans](https://support.office.com/article/plan-members-manage-group-emails-for-your-planner-plans-46f989a0-a34d-4db9-993b-dd596af7a5d2).</span></span>
+- <span data-ttu-id="73703-105">Per modificare le impostazioni di notifica, vedere [Proprietari del gruppo: Attivare o disattivare i messaggi di posta elettronica del gruppo riguardo le azioni di un piano](https://support.office.com/article/group-owners-turn-group-emails-about-task-activity-on-or-off-for-a-plan-f1b0d681-2aa6-4ce5-9703-4614607d4cd0) e [Membri del piano: Gestire i messaggi di posta elettronica del gruppo per i piani di Planner](https://support.office.com/article/plan-members-manage-group-emails-for-your-planner-plans-46f989a0-a34d-4db9-993b-dd596af7a5d2).</span><span class="sxs-lookup"><span data-stu-id="73703-105">To change notification settings, check out [Group owners: turn group emails about task activity on or off for a plan](https://support.office.com/article/group-owners-turn-group-emails-about-task-activity-on-or-off-for-a-plan-f1b0d681-2aa6-4ce5-9703-4614607d4cd0) and [Plan members: manage group emails for your Planner plans](https://support.office.com/article/plan-members-manage-group-emails-for-your-planner-plans-46f989a0-a34d-4db9-993b-dd596af7a5d2).</span></span>
 
-- <span data-ttu-id="d0ba6-106">Vedere l'articolo sul [funzionamento di Microsoft Planner funziona](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736#M703) per informazioni sugli scenari che possono impedire ai membri del piano di ricevere notifiche.</span><span class="sxs-lookup"><span data-stu-id="d0ba6-106">Review [How Microsoft Planner works](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736#M703) for scenarios that would prevent plan members from receiving notifications.</span></span>
+- <span data-ttu-id="73703-106">Vedere l'articolo sul [funzionamento di Microsoft Planner funziona](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736#M703) per informazioni sugli scenari che possono impedire ai membri del piano di ricevere notifiche.</span><span class="sxs-lookup"><span data-stu-id="73703-106">Review [How Microsoft Planner works](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736#M703) for scenarios that would prevent plan members from receiving notifications.</span></span>
