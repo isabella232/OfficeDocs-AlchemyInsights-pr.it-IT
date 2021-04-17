@@ -1,8 +1,8 @@
 ---
-title: Modificare l'indirizzo di fatturazione o le notifiche tramite posta elettronica fatturazione
+title: Modificare l'indirizzo di fatturazione o le notifiche di posta elettronica di fatturazione
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,33 +13,33 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: 4a280eb646270bf5597e4e390be9c73bf3c357d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 013fd35e4c299d78504adbb59675a22df301c503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793546"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819192"
 ---
-# <a name="change-billing-address-or-billing-email-notifications"></a>Modificare l'indirizzo di fatturazione o le notifiche tramite posta elettronica fatturazione
+# <a name="change-billing-address-or-billing-email-notifications"></a>Modificare l'indirizzo di fatturazione o le notifiche di posta elettronica di fatturazione
 
-**Modificare l'indirizzo di fatturazione**
+**Modificare l'Bill-To indirizzo**
 
-1. Nell'interfaccia di amministrazione, accedere alla pagina **pagamenti > [pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** .
+1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione > [Metodi di](https://go.microsoft.com/fwlink/p/?linkid=2018806)** pagamento.
 
 2. Selezionare la carta di credito o il conto corrente bancario che si desidera modificare.
 
-3. Nella pagina dei **Dettagli del metodo di pagamento** , fare clic su **modifica**.
+3. Nella pagina **Dettagli metodo di pagamento** fare clic su **Modifica.**
 
-4. Aggiornare l'indirizzo di fatturazione, quindi fare clic su **salva > completata**.
+4. Aggiorna l'indirizzo di fatturazione, quindi fai clic su **Salva > fatto**.
 
 **Modificare l'indirizzo di posta elettronica alternativo a cui vengono inviate le notifiche di fatturazione** 
 
-1. Fare clic sull' **icona dell'utente**e quindi su **account personale**.
+1. Fare clic **sull'icona Utente** e quindi su **Account personale.**
 
-2. Fare clic su **informazioni personali**.
+2. Fai **clic su Informazioni personali.**
 
-3. Nella casella **Dettagli contatto** fare clic su **modifica**.
+3. Nella casella **Dettagli contatto** fare clic su **Modifica.**
 
-4. Nella casella **posta elettronica alternativa** , digitare l'indirizzo di posta elettronica alternativo che si desidera utilizzare, quindi fare clic su **Salva**.
+4. Nella casella **Indirizzo di posta elettronica** alternativo digitare l'indirizzo di posta elettronica alternativo che si desidera utilizzare, quindi fare clic su **Salva.**
 
-Per ulteriori informazioni sulle modifiche relative all'indirizzo e alla notifica, vedere [Change Your billing address for Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Per altre info sulle modifiche all'indirizzo e alle notifiche, vedi [Modificare gli indirizzi di fatturazione per Microsoft 365 per le aziende.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)

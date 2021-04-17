@@ -1,8 +1,8 @@
 ---
-title: Lobby di bypass
+title: Bypass lobby
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684954"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820038"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Impostazioni della lobby di controllo e livello di partecipazione nei team
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Controllare le impostazioni della sala di attesa e il livello di partecipazione in Teams
 
-Se si desidera consentire a tutti, compresi gli utenti con accesso esterno, esterni e anonimi, di **ignorare la lobby**, utilizzare PowerShell per eseguire questa attività. Di seguito è riportato un esempio di modifica del criterio di riunione globale per l'organizzazione.
+Se si desidera consentire a tutti, inclusi gli utenti di accesso esterno, esterno e anonimo, di ignorare la **sala** di attesa, utilizzare PowerShell per eseguire questa attività. Ecco un esempio di modifica dei criteri di riunione globali per l'organizzazione.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Questo cmdlet richiede attualmente l'utilizzo del modulo di Windows PowerShell per Skype for business. Per ottenere la configurazione per l'utilizzo di questo cmdlet, vedere [Managing policys tramite PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Questo cmdlet richiede attualmente l'uso del modulo di PowerShell di Skype for Business. Per configurare l'utilizzo di questo cmdlet, vedere [Managing policies via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Dopo aver configurato un criterio, è necessario applicarlo agli utenti. in alternativa, se è stato modificato il criterio globale, verrà applicato automaticamente agli utenti. Per eventuali modifiche ai criteri, è necessario attendere almeno **4 ore fino a 24 ore** per rendere effettive le condizioni. 
+Dopo aver configurato un criterio, è necessario applicarlo agli utenti. oppure, se è stato modificato il criterio Globale, verrà applicato automaticamente agli utenti. Per qualsiasi modifica dei criteri, è necessario attendere almeno 4 ore fino a **24 ore** per l'applicazione dei criteri. 
 
-Assicurarsi di esaminare la documentazione seguente prima di apportare queste modifiche per comprendere esattamente cosa può essere consentito.
+Leggere la documentazione seguente prima di apportare queste modifiche per comprendere esattamente cosa consente.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Informazioni sui controlli dei criteri di lobby riunione dei team
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Informazioni sui controlli dei criteri di sala di attesa per le riunioni di Teams
 
-Queste impostazioni controllano quali partecipanti alla riunione attendono nell'atrio prima che vengano ammessi alla riunione e il livello di partecipazione consentito in una riunione. È possibile utilizzare PowerShell per aggiornare le impostazioni dei criteri per le riunioni che non sono state ancora implementate (contrassegnate come "prossimamente") nell'interfaccia di amministrazione dei team. Per un esempio di cmdlet di PowerShell che consente a tutti gli utenti di ignorare la lobby, vedere di seguito.
+Queste impostazioni controllano quali partecipanti alla riunione devono attendere nella sala di attesa prima di essere ammessi alla riunione e il livello di partecipazione consentito in una riunione. È possibile utilizzare PowerShell per aggiornare le impostazioni dei criteri riunione che non sono ancora state implementate (etichettate "presto") nell'interfaccia di amministrazione di Teams. Vedere di seguito per un esempio di cmdlet di PowerShell che consente a tutti gli utenti di ignorare la sala di attesa.
 
-- [Ammetti automaticamente](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) che la gente è un criterio per organizzatore che controlla se gli utenti partecipano a una riunione direttamente o attendono nella lobby finché non vengono ammessi da un utente autenticato.
+- [Ammettere automaticamente le](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) persone è un criterio per organizzatore che controlla se le persone aderiscono direttamente a una riunione o aspettano nella sala di attesa finché non vengono ammesse da un utente autenticato.
 
-- [Consenti agli utenti anonimi di avviare una riunione](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) è un criterio per ogni organizzatore che controlla se la gente anonima, inclusi i clienti B2B e federati, è in grado di partecipare alla riunione dell'utente senza un utente autenticato proveniente dall'organizzazione.
+- [Consentire](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) agli utenti anonimi di avviare una riunione è un criterio per organizzatore che controlla se gli utenti anonimi, inclusi gli utenti B2B e federati, possono partecipare alla riunione dell'utente senza un utente autenticato dell'organizzazione in presenza.
 
-- [Consenti agli utenti con accesso esterno di ignorare la lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**prossimamente**) è un criterio per ogni organizzatore che controlla se le persone che accedono tramite telefono accedono alla riunione direttamente o attendono nella lobby, indipendentemente dall'impostazione di **ammetti persone automaticamente** .
+- Consenti [agli](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) utenti con accesso remoto di ignorare la sala di attesa **(** presto disponibile ) è un criterio per organizzatore che controlla se le persone che aderiscono telefonicamente alla riunione direttamente o aspettano nella sala di attesa indipendentemente dall'impostazione Ammetti automaticamente le persone. 
 
-- [Consenti agli organizzatori di ignorare le impostazioni di lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**presto disponibile**) è un criterio per ogni organizzatore che controlla se l'organizzatore della riunione può ignorare le impostazioni della lobby che un amministratore ha impostato in modo **automatico** **per consentire agli utenti di accesso esterno di ignorare la lobby** quando pianificano una nuova riunione.
+- Consenti agli organizzatori di ignorare le impostazioni della [sala](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) di attesa **(** presto disponibile ) è un criterio per organizzatore che controlla se l'organizzatore della riunione può ignorare le impostazioni della sala di attesa impostate da un amministratore **in** Ammetti automaticamente le persone e Consenti agli utenti con accesso remoto di ignorare la **sala** di attesa quando pianificano una nuova riunione.
 
-**Nota:** Leggere [Manage meeting Policy in teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) per una panoramica completa dei criteri di riunione di Microsoft teams.
+**Nota:** Leggere [Gestire i criteri riunione in Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) per una panoramica completa dei criteri di riunione di Microsoft Teams.

@@ -2,7 +2,7 @@
 title: Annullamento dell'abbonamento ad Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: f85608446c8b230753dccd06ee5b5ea36aed7802
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791465"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819588"
 ---
 # <a name="cancel-subscription"></a>Annullare l'abbonamento
 
@@ -25,13 +25,13 @@ Solo l'amministratore dell'account o il proprietario dispongono dei diritti sull
 
 1. Selezionare l’abbonamento dalla [pagine degli abbonamenti nel portale di Azure](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Selezionare l'abbonamento che si vuole annullare.
-3. Selezionare **Panoramica** ed infine **Annulla abbonamento** .
+3. Selezionare **Panoramica** ed infine **Annulla abbonamento**.
 
 **Cosa succede dopo l'annullamento dell'abbonamento?**
 
 Dopo l'annullamento, la fatturazione viene interrotta immediatamente. Tuttavia, possono essere necessari fino a 10 minuti prima che l'annullamento venga visualizzato nel portale. Se si annulla nel corso del periodo di fatturazione, la fattura finale verrà inviata nella data prevista, dopo la fine di tale periodo.
 
-Dopo l'annullamento, i servizi sono disabilitati. Ciò significa verrà rimossa l’allocazione delle macchine virtuali, gli indirizzi IP temporanei verranno liberati e lo spazio di archiviazione sarà di sola lettura.
+Dopo l'annullamento, i servizi sono disabilitati. Ciò significa che verrà rimossa l’allocazione delle macchine virtuali, gli indirizzi IP temporanei verranno liberati e lo spazio di archiviazione sarà di sola lettura.
 
 Dopo l'annullamento dell'abbonamento, Microsoft attende 30-90 giorni prima dell'eliminazione definitiva dei dati, nel caso in cui sia necessario accedervi o si cambia idea. Non viene addebitato alcun costo per la conservazione dei dati. Per altre informazioni, vedere [Gestione dei dati in Microsoft](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
 
