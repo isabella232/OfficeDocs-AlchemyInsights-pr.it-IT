@@ -2,7 +2,7 @@
 title: Rimuovere l'account utente in Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 58f18a2ef8f685b4ebb4b274f506e2de03bb0807
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801332"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835779"
 ---
 # <a name="remove-an-account-in-windows-10"></a>Rimuovere un account in Windows 10
 
 Ecco come rimuovere un account da Windows 10:
 
-1. Andare a **Start**  >  **Settings**  >  **account**  >  **famiglia & altre persone** (o **altre persone**, se si utilizza Windows 10 Enterprise).
-2. Selezionare l'account che si desidera rimuovere, fare clic su **Rimuovi**, quindi selezionare **Elimina account e dati**.
+1. Vai a **Impostazioni Start** Famiglia di & altre persone (o Altre persone , se  >    >    >   stai usando Windows 10 Enterprise). 
+2. Selezionare l'account che si desidera rimuovere, selezionare **Rimuovi** e quindi **selezionare Elimina account e dati**.
  
-**Nota:** Non è possibile eliminare un account a cui si è attualmente connessi.  Se è necessario sostituire l'account a cui è stato effettuato l'accesso:
+**Nota:** Non è possibile eliminare un account a cui si è attualmente effettuato l'accesso.  Se devi sostituire l'account a cui hai eseguito l'accesso:
 
 1. Aggiungere un nuovo account utente.
-2. Rendere il nuovo account utente un amministratore nel PC.
-3. Eliminare l'account utente precedente. Quando si elimina un account utente, vengono perse definitivamente tutte le impostazioni, i file e i dati associati a quell'utente. Eseguire [la procedura seguente per eseguire il backup di tutto ciò che si desidera salvare](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore).
+2. Rendi il nuovo account utente un amministratore nel PC.
+3. Eliminare il vecchio account utente. Quando elimini un account utente, perderai definitivamente tutte le impostazioni, i file e i dati associati a tale utente. [Seguire questa procedura per eseguire il backup di tutto ciò che si desidera salvare.](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore)
