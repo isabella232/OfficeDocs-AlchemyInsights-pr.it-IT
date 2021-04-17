@@ -2,7 +2,7 @@
 title: Attivazione di abbonamenti a Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002307"
 - "4480"
-ms.openlocfilehash: 6259b1a7a87e62ca3ce7b3bf4d26fe7832fb99d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87bf872bd35a0e7cf67bb1fd3795d578b63adbe2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697921"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822963"
 ---
-# <a name="activating-windows-10-subscriptions"></a><span data-ttu-id="0ed0a-102">Attivazione di abbonamenti a Windows 10</span><span class="sxs-lookup"><span data-stu-id="0ed0a-102">Activating Windows 10 subscriptions</span></span>
+# <a name="activating-windows-10-subscriptions"></a><span data-ttu-id="00c3b-102">Attivazione di abbonamenti a Windows 10</span><span class="sxs-lookup"><span data-stu-id="00c3b-102">Activating Windows 10 subscriptions</span></span>
 
-<span data-ttu-id="0ed0a-103">Microsoft 365 Business, Education ed Enterprise forniscono licenze digitali per Windows 10 come parte dell'abbonamento.</span><span class="sxs-lookup"><span data-stu-id="0ed0a-103">Microsoft 365 Business, Education, and Enterprise provide digital licenses for Windows 10 as part of the subscription.</span></span> <span data-ttu-id="0ed0a-104">Per attivare l'abbonamento, è necessario che per il dispositivo sia già stato attivato Windows 10 Pro (1703 o versioni successive).</span><span class="sxs-lookup"><span data-stu-id="0ed0a-104">To activate the subscription, your device must already have activated Windows 10 Pro (1703 or later).</span></span> <span data-ttu-id="0ed0a-105">Per un elenco completo dei requisiti per l'attivazione di un abbonamento a Windows 10, vedere [Requisiti di attivazione dell'abbonamento a Windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).</span><span class="sxs-lookup"><span data-stu-id="0ed0a-105">For a full list of requirements for activating a Windows 10 subscription, see [Windows 10 Subscription Activation Requirements](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).</span></span>
+<span data-ttu-id="00c3b-103">Microsoft 365 Business, Education ed Enterprise forniscono licenze digitali per Windows 10 come parte dell'abbonamento.</span><span class="sxs-lookup"><span data-stu-id="00c3b-103">Microsoft 365 Business, Education, and Enterprise provide digital licenses for Windows 10 as part of the subscription.</span></span> <span data-ttu-id="00c3b-104">Per attivare l'abbonamento, è necessario che per il dispositivo sia già stato attivato Windows 10 Pro (1703 o versioni successive).</span><span class="sxs-lookup"><span data-stu-id="00c3b-104">To activate the subscription, your device must already have activated Windows 10 Pro (1703 or later).</span></span> <span data-ttu-id="00c3b-105">Per un elenco completo dei requisiti per l'attivazione di un abbonamento a Windows 10, vedere [Requisiti di attivazione dell'abbonamento a Windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).</span><span class="sxs-lookup"><span data-stu-id="00c3b-105">For a full list of requirements for activating a Windows 10 subscription, see [Windows 10 Subscription Activation Requirements](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).</span></span>
