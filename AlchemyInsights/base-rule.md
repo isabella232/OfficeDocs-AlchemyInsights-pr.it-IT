@@ -2,7 +2,7 @@
 title: Regola di base
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e423e489d64bce211495b21e58cf74cbc7dc10df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686358"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820506"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Risoluzione dei problemi relativi all'autorità MDM in Microsoft Intune
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Risolvere i problemi con l'autorità MDM in Microsoft Intune
 
-Di seguito sono riportati alcuni articoli utili sulla Guida introduttiva a Intune:
+Ecco alcuni articoli utili su come iniziare a usare Intune:
 
 - [Informazioni su Intune](https://docs.microsoft.com/intune/what-is-intune)
 - [Come configurare Intune per la prima volta](https://docs.microsoft.com/intune/setup-steps)
-- [Utilizzo e esplorazione di Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
+- [Uso ed esplorazione di Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-Se si verificano problemi con l'autorità MDM, fare riferimento a per [modificare l'autorità MDM](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).
+Se si verificano problemi con l'autorità MDM, vedere Modificare l'autorità [MDM di Intune.](https://docs.microsoft.com/alchemyinsights/change-mdm-authority)

@@ -2,7 +2,7 @@
 title: 'Configurare le risposte automatiche per una cassetta postale '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 03c530e7ce5f00fce2222cf9993930b97e5a2818
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60af581e7fe508ab9644a53873bcd551b3aacff1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715133"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820938"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Configurare le risposte automatiche per la cassetta postale dell'utente
 
@@ -39,7 +39,7 @@ ms.locfileid: "47715133"
 
 3. Fare clic sull'immagine nell'angolo in alto a destra, fare clic su **Altro utente** e poi selezionare la cassetta postale utente che si vuole modificare.
 
-4. A sinistra, selezionare **Opzioni**, fare clic su **Organizza posta elettronica**e poi fare clic su **Risposte automatiche.**
+4. A sinistra, selezionare **Opzioni**, fare clic su **Organizza posta elettronica** e poi fare clic su **Risposte automatiche.**
 
 **Metodo 3**
 
