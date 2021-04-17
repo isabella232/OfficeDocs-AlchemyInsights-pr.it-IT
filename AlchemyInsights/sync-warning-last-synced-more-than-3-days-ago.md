@@ -1,8 +1,8 @@
 ---
-title: 'Avviso di sincronizzazione: ultima sincronizzazione di più di 3 giorni fa'
+title: 'Avviso di sincronizzazione: ultima sincronizzazione da più di 3 giorni'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: 0263dd1e7490e5fecb461fecaff875194acb9e60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 786178b1cea84d1e01a43ce4c84df0a3846953c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737093"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831090"
 ---
-# <a name="sync-warning-last-synced-more-than-3-days-ago"></a>Avviso di sincronizzazione: ultima sincronizzazione di più di 3 giorni fa
+# <a name="sync-warning-last-synced-more-than-3-days-ago"></a>Avviso di sincronizzazione: ultima sincronizzazione da più di 3 giorni
 
-Per ulteriori problemi, vedere [risolvere i problemi relativi alla sincronizzazione della directory](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).
+Per ulteriori informazioni sulla risoluzione dei problemi, vedere [Risoluzione dei problemi relativi alla sincronizzazione della directory.](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization)
 
-È possibile controllare lo stato di sincronizzazione nel portale di amministrazione di Office attenendosi alle istruzioni riportate in [View Directory Synchronization Status](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).
+È possibile controllare lo stato di sincronizzazione nel portale di amministrazione di Office seguendo le istruzioni in [View directory synchronization status](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).
 

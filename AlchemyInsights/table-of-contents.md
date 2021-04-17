@@ -2,7 +2,7 @@
 title: Sommario
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: b3e78ae5f7f6bc79b46993d7f67a57114282edd3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c44e18d349624d9fed172bc3ffecc59b41717dda
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758033"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831054"
 ---
 # <a name="table-of-contents"></a>Sommario
 
-Per informazioni sulla creazione di un sommario in Word, vedere [inserire un sommario](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)o scaricare l' [esercitazione Sommario](https://go.microsoft.com/fwlink/?linkid=2065106).
+Per informazioni sulla creazione di un sommario in Word, vedere [Inserire](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)un sommario o scaricare l'esercitazione [sul sommario.](https://go.microsoft.com/fwlink/?linkid=2065106)
 
-**Soluzioni ai problemi comuni**
+**Soluzioni a problemi comuni**
 
-- Il sommario non contiene l'intestazione appena aggiunta al documento.
-  1. Selezionare il testo del titolo, passare **Home**a  >  **stili**di abitazione e verificare che sia applicato uno stile all'intestazione.
-  2. Andare a **References**  >  **Update Table** per aggiornare il sommario.
+- Il sommario non contiene il titolo appena aggiunto al documento.
+  1. Selezionare il testo del titolo, passare a **Stili** home e verificare che al titolo  >  sia applicato uno stile.
+  2. Passare alla **tabella**  >  **References Update** per aggiornare il sommario.
 
-- Il Sommario Visualizza troppo testo. 
-  1. Selezionare il testo del paragrafo e quindi passare a **Home**  >  **stili**di abitazione.
-  2. Selezionare uno stile, ad esempio **Normal**, che non sia incluso nel sommario.
+- Il sommario visualizza troppo testo. 
+  1. Selezionare il testo del paragrafo e quindi passare a **Stili**  >  **pagina iniziale.**
+  2. Selezionare uno stile, ad esempio **Normale,** non incluso nel sommario.
