@@ -1,8 +1,8 @@
 ---
-title: Lasciare una richiesta di funzionalità o commenti e suggerimenti sulla progettazione delle app
+title: Lasciare una richiesta di funzionalità o un feedback sulla progettazione dell'app
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676526"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836535"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Lasciare una richiesta di funzionalità o commenti e suggerimenti sulla progettazione delle app
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Lasciare una richiesta di funzionalità o un feedback sulla progettazione dell'app
 
-Apprezziamo la condivisione dei tuoi pensieri man mano che continuiamo a lavorare su Outlook. *UserVoice* è un forum in cui è possibile lasciare commenti e suggerimenti sulle idee altrui.  
+Ti ringraziamo per aver condiviso i tuoi pensieri mentre continuiamo a lavorare su Outlook. *UserVoice* è un forum in cui è possibile lasciare feedback e votare le idee degli altri.  
 
 Per lasciarci un'idea: 
 
-**Le impostazioni > consentono & commenti e suggerimenti > suggerire una funzionalità > inviare un'idea** 
+**Impostazioni > Guida & feedback > suggerire una funzionalità > inserire un'idea** 
 
-**Come viene visualizzato il nome/la posta elettronica?**
+**Ti interessa come viene visualizzato il tuo nome/e-mail?**
 
-Quando si aggiunge un commento a una richiesta di funzionalità esistente, l'app compilerà automaticamente il nome o l'indirizzo di posta elettronica dall'account primario configurato nell'app. Per scegliere il nome visualizzato, è necessario inviare una **nuova** richiesta di funzionalità. 
+Quando aggiungi un commento a una richiesta di funzionalità esistente, l'app popolerà automaticamente il nome o l'indirizzo di posta elettronica dall'account principale configurato nell'app. Per scegliere il nome visualizzato, è necessario inviare una **nuova richiesta** di funzionalità. 
 
-L'invio di una richiesta è un semplice processo in tre passaggi. Nella terza e ultima pagina verrà visualizzata una riga per l'indirizzo di posta elettronica (obbligatorio) e una riga per il proprio nome. In questa sezione è possibile scegliere la modalità di visualizzazione del nome oppure inviare l'idea in modo anonimo. 
+L'invio di una richiesta è un semplice processo in 3 passaggi. Nella terza e ultima pagina verrà visualizzata una riga per l'indirizzo di posta elettronica (obbligatorio) e una riga per il proprio nome. Qui puoi scegliere come verrà visualizzato il tuo nome oppure puoi inviare l'idea in modo anonimo. 
 
-**Nota:** Potrebbe anche essere necessario modificare l'indirizzo di posta elettronica che viene popolato automaticamente in questa pagina. Se il nome è configurato in un determinato modo all'interno delle impostazioni del client di posta elettronica, la modifica dell'invio di commenti e suggerimenti a Anonymous può essere ignorata dalle impostazioni. 
+**Nota:** Potrebbe inoltre essere necessario modificare l'indirizzo di posta elettronica popolato automaticamente in questa pagina. Se il tuo nome è configurato in un certo modo nelle impostazioni del client di posta elettronica, la modifica dell'invio di feedback in anonimo potrebbe essere ignorata dalle impostazioni. 
