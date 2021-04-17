@@ -1,8 +1,8 @@
 ---
-title: Analisi e report dei team nell'interfaccia di amministrazione di Teams
+title: Analisi e report di Teams nell'interfaccia di amministrazione di Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 1e5f2529e0f7206ebac3b5ca2b5d9ff746f98916
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9eed4a489b7308cbd1cb10d102a672831ae27b05
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670152"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826311"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Analisi e report dei team nell'interfaccia di amministrazione di Teams
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Analisi e report di Teams nell'interfaccia di amministrazione di Teams
 
-Nell'interfaccia di amministrazione dei team sono disponibili diversi **rapporti di utilizzo e attività** , tra cui l'attività dell'utente, l'utilizzo del dispositivo e l'utilizzo di eventi in tempo reale. Per informazioni dettagliate, vedere [Microsoft teams Analytics and Reporting](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference).
+Nell'interfaccia di  amministrazione di Teams sono disponibili diversi report sull'utilizzo e sulle attività, tra cui l'attività degli utenti, l'utilizzo dei dispositivi e l'utilizzo di eventi live. Per informazioni dettagliate, vedere [Analisi e creazione di report di Microsoft Teams.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
 
-**Tenere presente** quanto segue: Nell'interfaccia di amministrazione di Microsoft 365 sono disponibili ulteriori rapporti di utilizzo e attività dei team. Vedere [come visualizzare i report dei team nel dashboard report](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
+**Tenere presente che:** Nell'interfaccia di amministrazione di Microsoft 365 sono disponibili ulteriori report sull'utilizzo e sulle attività di Teams. Vedere [Come visualizzare i report di Teams nel dashboard dei report.](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard)
 
-Se si cercano relazioni o analisi relative alle **chiamate** o alla **qualità della chiamata**, vedere [Implement QoS and Monitor Call Quality in Microsoft teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) for related Documentation.
+Se si desiderano report o  analisi relative alle chiamate o alla qualità delle **chiamate,** vedere [Implementare QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) e Monitorare la qualità delle chiamate in Microsoft Teams per la documentazione correlata.
 

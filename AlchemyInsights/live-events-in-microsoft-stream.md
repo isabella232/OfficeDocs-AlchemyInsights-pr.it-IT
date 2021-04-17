@@ -1,8 +1,8 @@
 ---
-title: Eventi dinamici in Microsoft Stream
+title: Eventi live in Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001511"
 - "3571"
-ms.openlocfilehash: ee67c5ccd7c8745785ef8a04bab535cbb6416995
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef42a8156a1c120b23f89969d9debd1c25c49309
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675518"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825555"
 ---
-# <a name="live-events-in-microsoft-stream"></a>Eventi dinamici in Microsoft Stream
+# <a name="live-events-in-microsoft-stream"></a>Eventi live in Microsoft Stream
 
-È possibile creare eventi dinamici utilizzando Microsoft Stream all'interno dell'organizzazione. È possibile pianificare, produrre e distribuire eventi in tempo reale per una serie di scenari, ad esempio eventi a livello di azienda, aggiornamenti della leadership e altro ancora.
+Puoi creare eventi live con Microsoft Stream nell'organizzazione. È possibile pianificare, produrre e distribuire eventi live per diversi scenari, ad esempio eventi a livello aziendale, aggiornamenti della leadership e altro ancora.
 
-- [Creare un evento Live in Microsoft Stream](https://docs.microsoft.com/stream/live-create-event)
-- [Iniziare a utilizzare gli eventi di Microsoft teams Live](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
-- [Configurare i codificatori per il flusso Live in Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)
+- [Creare un evento live in Microsoft Stream](https://docs.microsoft.com/stream/live-create-event)
+- [Introduzione agli eventi live di Microsoft Teams](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
+- [Configurare codificatori per lo streaming live in Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)

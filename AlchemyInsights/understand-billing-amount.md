@@ -2,7 +2,7 @@
 title: Informazioni sugli importi della fatturazione
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791537"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827868"
 ---
 # <a name="understand-billing-amount"></a>Informazioni sugli importi della fatturazione
 
@@ -28,7 +28,7 @@ ms.locfileid: "48791537"
 - Informazioni sulle condizioni di addebito per l'utilizzo di Azure: [Illustrazione delle condizioni di utilizzo](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Per ottenere un PDF della fattura e una copia del file relativo all'utilizzo quotidiano dettagliato (.CSV): [Ottenere la fattura e i dati di utilizzo](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Nota** : se si annulla la sottoscrizione o la risorsa durante il ciclo di fatturazione, potrebbe essere ancora visualizzato un addebito per l'utilizzo nel mese precedente. Ad esempio, se il ciclo di fatturazione è compreso tra il 26 del mese e il 25 del mese successivo e che la sottoscrizione è stata sospesa il 23, ossia il ventottesimo giorno del ciclo di fatturazione di giugno, potrebbe essere visualizzato un addebito per i 28 giorni di utilizzo. Se viene visualizzato un addebito nonostante l'annullamento di una sottoscrizione, verificare di non avere altri piani di supporto che causano l'addebito. In tal caso, procedere con l'annullamento del piano.
+**Nota**: se si annulla la sottoscrizione o la risorsa durante il ciclo di fatturazione, potrebbe essere ancora visualizzato un addebito per l'utilizzo nel mese precedente. Ad esempio, se il ciclo di fatturazione è compreso tra il 26 del mese e il 25 del mese successivo e che la sottoscrizione è stata sospesa il 23, ossia il ventottesimo giorno del ciclo di fatturazione di giugno, potrebbe essere visualizzato un addebito per i 28 giorni di utilizzo. Se viene visualizzato un addebito nonostante l'annullamento di una sottoscrizione, verificare di non avere altri piani di supporto che causano l'addebito. In tal caso, procedere con l'annullamento del piano.
 
 **Contratto del cliente Microsoft (MCA):**
 
@@ -51,10 +51,10 @@ ms.locfileid: "48791537"
 
 Controllare le fattura per l'eccedenza del servizio:
 
-- Accedere al **Portale Enterprise** . Selezionare **Report**
+- Accedere al **Portale Enterprise**. Selezionare **Report**
 - Nell'angolo superiore destro della scheda cambiare la visualizzazione da **M** a **C** e controllare la corrispondenza del periodo nella fattura
 - L'importo di **utilizzo** complessivo deve corrispondere all'importo **esteso** complessivo della fattura per l'eccedenza del servizio.
-- Per altre informazioni sugli addebiti passare a **Scarica utilizzo > Download report avanzato** **Nota** : il report non include le imposte, gli addebiti per le prenotazioni o le spese nel marketplace
+- Per altre informazioni sugli addebiti passare a **Scarica utilizzo > Download report avanzato** **Nota**: il report non include le imposte, gli addebiti per le prenotazioni o le spese nel marketplace
 
 **Azure Marketplace**
 
@@ -64,10 +64,10 @@ Controllare le fatture relative al Marketplace:
 
 Confrontare l'importo totale di Azure Marketplace su Report > Riepilogo utilizzo nel portale Enterprise con la fattura nel Marketplace. La fattura relativa al Marketplace è disponibile solo per gli acquisti e l'utilizzo di Azure Marketplace. Gli importi del Riepilogo sull'utilizzo non includono le imposte.
 
-- Accedere al **Portale Enterprise** . Selezionare **Report**
+- Accedere al **Portale Enterprise**. Selezionare **Report**
 - Nell'angolo superiore destro della scheda cambiare la visualizzazione da **M** a **C** e controllare la corrispondenza del periodo nella fattura
 - L'importo totale di **Azure Marketplace** deve corrispondere al **Totale vendita** nella fattura Marketplace
-- Per altre informazioni sugli addebiti in base all'utilizzo, passare a **Scarica utilizzo** . In **Addebiti Marketplace** , selezionare **Scarica** **Nota** : questo report non include le imposte o l'acquisto di una copia unica
+- Per altre informazioni sugli addebiti in base all'utilizzo, passare a **Scarica utilizzo**. In **Addebiti Marketplace**, selezionare **Scarica** **Nota**: questo report non include le imposte o l'acquisto di una copia unica
 
 **Microsoft Cloud Solution Provider (CSP)**
 

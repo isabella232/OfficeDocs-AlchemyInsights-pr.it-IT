@@ -2,7 +2,7 @@
 title: Scadenza e rinnovo del team in Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6666"
 - "9003760"
-ms.openlocfilehash: 4514f06282f33a5dc360c2214cedf714633b34f0
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 8b82ef216903502e589c6b01cd7fe946e84cd54c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334186"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827904"
 ---
 # <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Scadenza e rinnovo del team in Microsoft Teams
 
-La scadenza e il rinnovo del team in Microsoft teams consentono di gestire i team inutilizzati. Come amministratore, è possibile utilizzare i  [criteri di scadenza del gruppo Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  per pulire automaticamente i team inutilizzati. Poiché i team sono stati sottoposti a backup per gruppi, i criteri di scadenza del gruppo si applicano automaticamente anche ai team.
+La scadenza e il rinnovo del team in Microsoft Teams possono aiutare a gestire i team inutilizzati. Gli amministratori possono usare i criteri di scadenza dei gruppi di  [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  per pulire automaticamente i team inutilizzati. Poiché i team sono supportati da gruppi, i criteri di scadenza dei gruppi si applicano automaticamente anche ai team.
 
-Per impedire l'eliminazione accidentale, il rinnovo automatico è abilitato automaticamente per un team nel criterio di scadenza del gruppo. Quando viene impostato il criterio di scadenza del gruppo, tutti i team che dispongono di almeno una visita di canale da qualsiasi membro del team prima della data di scadenza vengono rinnovati automaticamente senza alcun intervento manuale da parte del proprietario del team.  
+Per impedire l'eliminazione accidentale, il rinnovo automatico viene abilitato automaticamente per un team nei criteri di scadenza del gruppo. Quando vengono impostati i criteri di scadenza del gruppo, tutti i team che hanno almeno una visita al canale da qualsiasi membro del team prima della data di scadenza vengono rinnovati automaticamente senza alcun intervento manuale da parte del proprietario del team.  
 
-Per ulteriori informazioni, vedere  [scadenza e rinnovo del team in Microsoft teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  .
+Per [ulteriori informazioni, vedere Scadenza e rinnovo del team in Microsoft Teams.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)

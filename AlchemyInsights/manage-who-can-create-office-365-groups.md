@@ -1,8 +1,8 @@
 ---
-title: Gestire gli utenti autorizzati a creare i gruppi di Microsoft 365
+title: Gestire chi può creare gruppi in Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: eb2018389b995460d60f955c8294807e9e17516b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e0730388da7b2688da254fa48e37f473b86b354
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694749"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827040"
 ---
-# <a name="manage-who-can-create-microsoft-365-groups"></a>Gestire gli utenti autorizzati a creare i gruppi di Microsoft 365
+# <a name="manage-who-can-create-microsoft-365-groups"></a>Gestire chi può creare gruppi in Microsoft 365
 
 Per impostazione predefinita, tutti gli utenti dell'organizzazione possono creare gruppi di O365.
   
-Se si desidera modificare la procedura, è possibile creare un gruppo di sicurezza con PowerShell che limiti la creazione di gruppi a un sottoinsieme di utenti.
+Se si desidera modificarlo, è possibile creare un gruppo di sicurezza con PowerShell che limita la creazione del gruppo a un sottoinsieme di utenti.
   
-Seguire le istruzioni dettagliate qui: [gestire gli utenti che possono creare gruppi di Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
+Seguire le istruzioni dettagliate qui: Gestire chi può creare i gruppi di [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
   
 

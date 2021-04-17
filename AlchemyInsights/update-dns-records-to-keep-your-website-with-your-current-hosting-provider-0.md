@@ -2,7 +2,7 @@
 title: Aggiornare i record DNS per mantenere il proprio sito Web con l'attuale provider di hosting
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 89bce2aa5931c0c20706efabd42d2351be43938b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815789"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827526"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Aggiornare i record DNS per mantenere il proprio sito Web con l'attuale provider di hosting
 
-1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina **installazione**  >  [domini](https://admin.microsoft.com/Adminportal#/Domains) e nell'elenco dei domini selezionare il dominio che si sta utilizzando per il sito Web.
+1. Nell'interfaccia di amministrazione di Microsoft 365 passare alla pagina **Setup** Domains e nell'elenco dei domini selezionare il dominio in uso  >  [](https://admin.microsoft.com/Adminportal#/Domains) per il sito Web.
 
 2. Selezionare **+ Nuovo record personalizzato** e immettere quanto segue:
 
