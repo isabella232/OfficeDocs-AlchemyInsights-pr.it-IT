@@ -2,7 +2,7 @@
 title: Come installare Office in un iPad
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.custom:
 - "649"
 - "2000016"
-ms.openlocfilehash: 8b1c4d70adec883b8b17ea57c38d3c599677438f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 917c4354ccabe48a1e7a32855dd5bc7e21630a4e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779955"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829273"
 ---
 # <a name="how-to-install-office-on-an-ipad"></a>Come installare Office in un iPad
 
-- L'utente deve [toccare il collegamento di download](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) dal proprio dispositivo mobile, per Word, Excel, PowerPoint e OneNote.
+- Fare in modo [che l'utente](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) tocchi il collegamento di download dal dispositivo mobile, per Word, Excel, PowerPoint e OneNote.
 
-- Avviare l'applicazione dall'utente, toccare Accedi e immettere le credenziali del proprio lavoro o dell'Istituto **di** istruzione.
+- Fai in modo che l'utente avvia l'app, tocca **Accedi** e immetti le credenziali dell'istituto di istruzione o dell'istituto di istruzione.
