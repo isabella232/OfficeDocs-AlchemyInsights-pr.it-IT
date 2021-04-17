@@ -1,8 +1,8 @@
 ---
-title: Gestione degli utenti sincronizzati
+title: Gestire l'utente sincronizzato
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 7bf7d3f00308ff6bc973cd52e09ca51c5fd0f45b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 0dc2ecfa0bb5703c619dc1b2d6b4d517f999da0d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451404"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823971"
 ---
-# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Impossibile impostare l'indirizzo di posta elettronica principale, modificare gli attributi degli utenti o rimuovere/eliminare un utente sincronizzato
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Impossibile impostare l'indirizzo di posta elettronica principale, modificare gli attributi utente o rimuovere/eliminare un utente sincronizzato
 
-Se la sincronizzazione della directory è abilitata per l'ambiente, non è possibile modificare gli attributi di un utente o di un oggetto utilizzando l'interfaccia di amministrazione di Microsoft 365.
+Se la sincronizzazione della directory è abilitata per l'ambiente, alcuni attributi utente o oggetto non possono essere modificati tramite l'interfaccia di amministrazione di Microsoft 365.
 
-Per gestire completamente gli utenti sincronizzati e tutti gli attributi, utilizzare la console di gestione di utenti e gruppi di Active Directory locale (ADSIEdit. msc).  
+Per gestire completamente gli utenti sincronizzati e tutti i relativi attributi, utilizzare la console di gestione utenti e gruppi di Active Directory locale (adsiedit.msc).  
 
 In alternativa, è possibile modificare singoli utenti o attributi per gli utenti sincronizzati tramite PowerShell, come illustrato negli esempi comuni seguenti:
 

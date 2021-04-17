@@ -1,8 +1,8 @@
 ---
-title: Bloccato in posta in uscita a causa di allegati di grandi dimensioni
+title: Bloccato nella posta in uscita a causa di allegati di grandi dimensioni
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 2185c1439d84a3beea00fe6849c1dae456131b96
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: f2342e99544f475b24181e0571ccd0a7c6fdc8b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451836"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825015"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Risoluzione dei messaggi bloccati nella posta in uscita con SaRA
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Correggere i messaggi bloccati nella posta in uscita con SaRA
 
-Si consiglia di iniziare eseguendo lo scenario "si [verificano problemi di invio, ricezione o individuazione dei messaggi di posta elettronica"](https://aka.ms/SaRA-OutlookSendReceive) nel computer eseguito dallo strumento [Microsoft Support and Recovery Assistant (Sara)](https://diagnostics.office.com/#/) .
+È consigliabile iniziare eseguendo lo scenario "Si verificano problemi durante [l'invio,](https://aka.ms/SaRA-OutlookSendReceive) la ricezione o la ricerca di messaggi di posta elettronica" nel computer utilizzato dallo strumento [Microsoft Support and Recovery Assistant (SaRa).](https://diagnostics.office.com/#/)

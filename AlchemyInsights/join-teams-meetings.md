@@ -2,7 +2,7 @@
 title: Partecipare alle riunioni di Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772915"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824007"
 ---
-# <a name="join-a-meeting-in-teams"></a>Partecipare a una riunione in teams
+# <a name="join-a-meeting-in-teams"></a>Partecipare a una riunione in Teams
 
-Per partecipare a una riunione di teams, impostare First meeting Policies, quindi indirizzare gli utenti a partecipare ai propri dispositivi preferiti:
+Per partecipare a una riunione di Teams, imposta prima i criteri di riunione e quindi indirizza gli utenti a partecipare dai dispositivi preferiti:
 
-- Impostare i criteri di riunione che controllano gli utenti che saranno in grado di partecipare alla riunione come [partecipanti o clienti](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
+- Impostare i criteri di riunione che controllano chi potrà partecipare alla riunione [come partecipanti o guest.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- Utilizzare i cmdlet di Microsoft teams [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) per apportare modifiche ai criteri.    
+- Utilizzare i cmdlet di Microsoft Teams [PowerShell per](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) apportare modifiche ai criteri.    
 
-**Nota:** Per rendere effettive le modifiche ai criteri, è possibile richiedere fino a 24 ore.
+**Nota:** L'applicazione delle modifiche ai criteri può richiedere fino a 24 ore.

@@ -2,7 +2,7 @@
 title: Verificare il dominio con Hostgator
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: e364551f50e8c8efdee74842be2fb4fab734bb71
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: c333322ff791a288607e4f6a090d655106e93420
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816401"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824295"
 ---
 # <a name="verify-your-domain-with-hostgator"></a>Verificare il dominio con Hostgator
 
-Per verificare il dominio, è necessario aggiungere un record TXT al registrar per verificare che si è proprietari del dominio. 
+Per verificare il dominio, è necessario aggiungere un record TXT al registrar per verificare di essere proprietari del dominio. 
 
-Per prima cosa, seguire la [procedura guidata Aggiungi dominio](https://admin.microsoft.com/Adminportal#/Domains) selezionando domini **delle impostazioni** \> **Domains**, quindi **Aggiungi dominio**.
+Per prima cosa, seguire [la procedura guidata Aggiungi](https://admin.microsoft.com/Adminportal#/Domains) dominio selezionando **Impostazioni** \> **Domini** e quindi **Aggiungi dominio.**
   
-Per istruzioni dettagliate, vedere [creare record DNS in Hostgator per Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) .
+Per [istruzioni dettagliate, vedere Create DNS records at Hostgator for Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator)

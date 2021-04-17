@@ -1,8 +1,8 @@
 ---
-title: Attivazione di Microsoft Forms
+title: Attivare Microsoft Forms
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2544"
 - "9000672"
-ms.openlocfilehash: a93ba91178ac35c7ff73ee6a820b4e5d22fc5d50
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6b13382a6b33ffe5753f79fea93ad072a201262
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698561"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823179"
 ---
-# <a name="activate-microsoft-forms-for-an-organization"></a>Attivazione di Microsoft Forms per un'organizzazione
+# <a name="activate-microsoft-forms-for-an-organization"></a>Attivare Microsoft Forms per un'organizzazione
 
-Un amministratore può abilitare o disattivare i moduli Microsoft per la propria organizzazione. Informazioni su come [controllare l'attivazione delle licenze e lo stato del CollabDBService di Azure](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43) per il tenant.
+Un amministratore può attivare o disattivare Microsoft Forms per l'organizzazione. Informazioni sul [controllo dell'attivazione della licenza e sullo stato di Azure CollabDBService](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43) per il tenant.

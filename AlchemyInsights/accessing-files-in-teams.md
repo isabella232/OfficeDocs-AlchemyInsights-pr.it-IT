@@ -1,8 +1,8 @@
 ---
-title: Accesso ai file nei team
+title: Accesso ai file in Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2675"
 - "9000710"
-ms.openlocfilehash: a00a39954737287b4888b833b66d98e9b5e711b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c6766c318f0058e66950dbd0ca2953b149579a5c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668531"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823359"
 ---
 # <a name="accessing-files-in-microsoft-teams"></a>Accesso ai file in Microsoft Teams
 
-Se gli utenti hanno difficoltà a accedere a un file in Microsoft teams, determinare innanzitutto se il file è collegato a una chat privata o a una conversazione di canale. I canali del team sono luoghi in cui tutti i membri del team possono avere conversazioni apertamente. Le chat private sono visibili solo a quelle persone nella chat (e i file che Condividi in una chat sono archiviati in OneDrive for business).
+Se gli utenti hanno difficoltà ad accedere a un file in Microsoft Teams, determinare innanzitutto se il file è allegato a una chat privata o a una conversazione di canale. I canali del team sono luoghi in cui tutti i membri del team possono avere conversazioni apertamente. Le chat private sono visibili solo a quelle persone nella chat (e i file condivisi in una chat sono archiviati in OneDrive for Business).
 
-Quando gli utenti condividono i file nelle chat private, il file viene archiviato nell'OneDrive for business dell'utente di condivisione. Se un utente è stato aggiunto a una chat privata esistente, non sarà in grado di accedere ai file, a meno che il proprietario originale non ricondivida il file.    
+Quando gli utenti condividono file in chat private, il file viene archiviato in OneDrive for Business dell'utente che condivide. Se un utente è stato aggiunto a una chat privata esistente, non sarà in grado di accedere ai file a meno che il proprietario originale non condivide nuovamente il file.    
 
 **Per le conversazioni di canale:**
 
-- La [condivisione di file in Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) si basa sulle impostazioni configurate in SharePoint o OneDrive. 
-- Esaminare [collaborare ai file con il team](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae) per ulteriori informazioni su come i team consentono all'organizzazione di condividere e collaborare sui file. 
-- Se i nuovi membri del team avvertono un ritardo nell'accesso ai file, attendere almeno **4 ore** prima di aprire un ticket di supporto per consentire il completamento della replica. 
+- [La condivisione di file in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) si basa sulle impostazioni configurate in SharePoint o OneDrive. 
+- Esaminare [Collaborare ai file con il team per](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae) ulteriori informazioni su come Teams consente all'organizzazione di condividere e collaborare ai file. 
+- Se i nuovi membri del team verificano un ritardo nell'accesso ai file, attendere almeno **4** ore prima di aprire un ticket di supporto per consentire il completamento della replica. 
 
-Se gli utenti potevano accedere in precedenza ai file tramite la scheda file in un canale del team e si riceve un errore "questi file non sono più disponibili", verificare se il sito o la raccolta documenti di SharePoint è stata rinominata. La ridenominazione dei siti di SharePoint e delle raccolte documenti per i team non è ancora supportata. Per risolvere il problema, aprire il sito del team utilizzato per il team e rinominare la raccolta in "documenti condivisi".
+Se in precedenza gli utenti potevano accedere ai file tramite la scheda File in un canale del team e viene visualizzato l'errore "Questi file non sono più disponibili", verificare se il sito di SharePoint o la raccolta documenti è stata rinominata. La ridenominazione di siti e raccolte documenti di SharePoint per Teams non è ancora supportata. Per risolvere questo problema, aprire il sito del team utilizzato per questo team e rinominare di nuovo la raccolta in "Documenti condivisi".
