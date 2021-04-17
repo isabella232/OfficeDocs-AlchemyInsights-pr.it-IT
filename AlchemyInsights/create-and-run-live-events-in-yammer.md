@@ -2,7 +2,7 @@
 title: Creare ed eseguire eventi live in Yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002495"
 - "4834"
-ms.openlocfilehash: 4740806182c73f9f0530a240d074e5100131d721
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c51e3a53f89489ffd25a2c222055be1eff5f23c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712701"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816060"
 ---
-# <a name="create-and-run-live-events-in-yammer"></a><span data-ttu-id="501aa-102">Creare ed eseguire eventi live in Yammer</span><span class="sxs-lookup"><span data-stu-id="501aa-102">Create and run live events in Yammer</span></span>
+# <a name="create-and-run-live-events-in-yammer"></a><span data-ttu-id="91add-102">Creare ed eseguire eventi live in Yammer</span><span class="sxs-lookup"><span data-stu-id="91add-102">Create and run live events in Yammer</span></span>
 
-<span data-ttu-id="501aa-103">**Informazioni sugli eventi live in Yammer**</span><span class="sxs-lookup"><span data-stu-id="501aa-103">**About Live Events in Yammer**</span></span>
+<span data-ttu-id="91add-103">**Informazioni sugli eventi live in Yammer**</span><span class="sxs-lookup"><span data-stu-id="91add-103">**About Live Events in Yammer**</span></span>
 
-<span data-ttu-id="501aa-104">Gli amministratori dei gruppi di Yammer possono [ospitare un evento video live, incluse le conversazioni di Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-live-events), prima, durante e dopo l'evento.</span><span class="sxs-lookup"><span data-stu-id="501aa-104">Yammer group admins can [host a live video event including Yammer conversations](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-live-events) before, during, and after the event.</span></span> <span data-ttu-id="501aa-105">Gli eventi live possono essere pianificati dagli amministratori di gruppo di un gruppo connesso in Yammer.</span><span class="sxs-lookup"><span data-stu-id="501aa-105">Live events can be scheduled by the group admins of a connected group in Yammer.</span></span> <span data-ttu-id="501aa-106">Questi eventi possono essere prodotti con Microsoft Teams da un computer o con un codificatore esterno se si usa una configurazione A/V professionale.</span><span class="sxs-lookup"><span data-stu-id="501aa-106">These events can be produced using Microsoft Teams from a computer, or an external encoder if it is using a professional A/V setup.</span></span>
+<span data-ttu-id="91add-104">Gli amministratori dei gruppi di Yammer possono [ospitare un evento video live, incluse le conversazioni di Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-live-events), prima, durante e dopo l'evento.</span><span class="sxs-lookup"><span data-stu-id="91add-104">Yammer group admins can [host a live video event including Yammer conversations](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-live-events) before, during, and after the event.</span></span> <span data-ttu-id="91add-105">Gli eventi live possono essere pianificati dagli amministratori di gruppo di un gruppo connesso in Yammer.</span><span class="sxs-lookup"><span data-stu-id="91add-105">Live events can be scheduled by the group admins of a connected group in Yammer.</span></span> <span data-ttu-id="91add-106">Questi eventi possono essere prodotti con Microsoft Teams da un computer o con un codificatore esterno se si usa una configurazione A/V professionale.</span><span class="sxs-lookup"><span data-stu-id="91add-106">These events can be produced using Microsoft Teams from a computer, or an external encoder if it is using a professional A/V setup.</span></span>
 
-<span data-ttu-id="501aa-107">**Ottenere assistenza aggiuntiva per la preparazione di un evento imminente**</span><span class="sxs-lookup"><span data-stu-id="501aa-107">**Get extra help to prepare for an upcoming event**</span></span>
+<span data-ttu-id="91add-107">**Ottenere assistenza aggiuntiva per la preparazione di un evento imminente**</span><span class="sxs-lookup"><span data-stu-id="91add-107">**Get extra help to prepare for an upcoming event**</span></span>
 
-<span data-ttu-id="501aa-108">Il [team di assistenza per gli eventi live](https://aka.ms/AA87gbh) può aiutare gli utenti a preparare e ospitare un evento live.</span><span class="sxs-lookup"><span data-stu-id="501aa-108">Our [Live Events Assistance team](https://aka.ms/AA87gbh) can help you prepare and host a successful live event.</span></span> <span data-ttu-id="501aa-109">Il team risponderà alle domande sulla configurazione, aiuterà a risolvere eventuali problemi e potrà offrire assistenza per gli aumenti della capacità per eventi di grandi dimensioni.</span><span class="sxs-lookup"><span data-stu-id="501aa-109">They will work with you to answer questions on getting set up, help with any issues, and can assist with capacity increases for large-scale events.</span></span>
+<span data-ttu-id="91add-108">Il [team di assistenza per gli eventi live](https://aka.ms/AA87gbh) può aiutare gli utenti a preparare e ospitare un evento live.</span><span class="sxs-lookup"><span data-stu-id="91add-108">Our [Live Events Assistance team](https://aka.ms/AA87gbh) can help you prepare and host a successful live event.</span></span> <span data-ttu-id="91add-109">Il team risponderà alle domande sulla configurazione, aiuterà a risolvere eventuali problemi e potrà offrire assistenza per gli aumenti della capacità per eventi di grandi dimensioni.</span><span class="sxs-lookup"><span data-stu-id="91add-109">They will work with you to answer questions on getting set up, help with any issues, and can assist with capacity increases for large-scale events.</span></span>
 
-<span data-ttu-id="501aa-110">**Altri articoli e risorse**</span><span class="sxs-lookup"><span data-stu-id="501aa-110">**Additional articles and resources**</span></span>
+<span data-ttu-id="91add-110">**Altri articoli e risorse**</span><span class="sxs-lookup"><span data-stu-id="91add-110">**Additional articles and resources**</span></span>
 
-- [<span data-ttu-id="501aa-111">Domande frequenti sugli eventi live</span><span class="sxs-lookup"><span data-stu-id="501aa-111">Live event FAQ</span></span>](https://support.office.com/article/43bbd59d-a734-4c8f-923d-6a239d137d34)
-- [<span data-ttu-id="501aa-112">Generare coinvolgimento in un evento live di Yammer</span><span class="sxs-lookup"><span data-stu-id="501aa-112">Drive engagement in a Yammer live event</span></span>](https://support.office.com/article/drive-engagement-in-a-yammer-live-event-c0244ad8-6dcb-419c-add9-2e4a00543412?ui=en-US&rs=en-US&ad=US)
-- <span data-ttu-id="501aa-113">[Gruppi di Yammer e Office 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) (prerequisito importante per gli eventi live in Yammer)</span><span class="sxs-lookup"><span data-stu-id="501aa-113">[Yammer and Office 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) (an important prerequisite for Live Events in Yammer)</span></span>
-- [<span data-ttu-id="501aa-114">Playbook su come ospitare un evento live in Yammer</span><span class="sxs-lookup"><span data-stu-id="501aa-114">How to Host a Live Event in Yammer Playbook</span></span>](https://aka.ms/LiveEventsinYammerplaybook)
-- [<span data-ttu-id="501aa-115">Risorse e modelli per gli eventi live</span><span class="sxs-lookup"><span data-stu-id="501aa-115">Resources and Templates for your Live Events</span></span>](https://aka.ms/LiveEventYammerTemplates)
+- [<span data-ttu-id="91add-111">Domande frequenti sugli eventi live</span><span class="sxs-lookup"><span data-stu-id="91add-111">Live event FAQ</span></span>](https://support.office.com/article/43bbd59d-a734-4c8f-923d-6a239d137d34)
+- [<span data-ttu-id="91add-112">Generare coinvolgimento in un evento live di Yammer</span><span class="sxs-lookup"><span data-stu-id="91add-112">Drive engagement in a Yammer live event</span></span>](https://support.office.com/article/drive-engagement-in-a-yammer-live-event-c0244ad8-6dcb-419c-add9-2e4a00543412?ui=en-US&rs=en-US&ad=US)
+- <span data-ttu-id="91add-113">[Gruppi di Yammer e Office 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) (prerequisito importante per gli eventi live in Yammer)</span><span class="sxs-lookup"><span data-stu-id="91add-113">[Yammer and Office 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) (an important prerequisite for Live Events in Yammer)</span></span>
+- [<span data-ttu-id="91add-114">Playbook su come ospitare un evento live in Yammer</span><span class="sxs-lookup"><span data-stu-id="91add-114">How to Host a Live Event in Yammer Playbook</span></span>](https://aka.ms/LiveEventsinYammerplaybook)
+- [<span data-ttu-id="91add-115">Risorse e modelli per gli eventi live</span><span class="sxs-lookup"><span data-stu-id="91add-115">Resources and Templates for your Live Events</span></span>](https://aka.ms/LiveEventYammerTemplates)
