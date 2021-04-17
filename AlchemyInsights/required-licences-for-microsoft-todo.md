@@ -2,7 +2,7 @@
 title: Licenze necessarie per Microsoft ToDo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,50 +14,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 490f1b2284c99d5f6b90b1cd3ac9ad526bda97d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692299"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828768"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a><span data-ttu-id="c1415-102">Licenze necessarie per Microsoft ToDo</span><span class="sxs-lookup"><span data-stu-id="c1415-102">Required licenses for Microsoft ToDo</span></span>
+# <a name="required-licenses-for-microsoft-todo"></a><span data-ttu-id="09a6b-102">Licenze necessarie per Microsoft ToDo</span><span class="sxs-lookup"><span data-stu-id="09a6b-102">Required licenses for Microsoft ToDo</span></span>
 
-[<span data-ttu-id="c1415-103">Licenze necessarie per Microsoft ToDo</span><span class="sxs-lookup"><span data-stu-id="c1415-103">Required licenses for Microsoft ToDo</span></span>](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[<span data-ttu-id="09a6b-103">Licenze necessarie per Microsoft ToDo</span><span class="sxs-lookup"><span data-stu-id="09a6b-103">Required licenses for Microsoft ToDo</span></span>](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-<span data-ttu-id="c1415-104">Un utente deve disporre di una delle licenze seguenti per l'utilizzo di Microsoft ToDo:</span><span class="sxs-lookup"><span data-stu-id="c1415-104">A user must have one of the following licenses to use Microsoft ToDo:</span></span>
+<span data-ttu-id="09a6b-104">Per utilizzare Microsoft ToDo, un utente deve disporre di una delle licenze seguenti:</span><span class="sxs-lookup"><span data-stu-id="09a6b-104">A user must have one of the following licenses to use Microsoft ToDo:</span></span>
   
-- <span data-ttu-id="c1415-105">Business Essentials</span><span class="sxs-lookup"><span data-stu-id="c1415-105">Business Essentials</span></span>
+- <span data-ttu-id="09a6b-105">Business Essentials</span><span class="sxs-lookup"><span data-stu-id="09a6b-105">Business Essentials</span></span>
 
-- <span data-ttu-id="c1415-106">Business Premium</span><span class="sxs-lookup"><span data-stu-id="c1415-106">Business Premium</span></span>
+- <span data-ttu-id="09a6b-106">Business Premium</span><span class="sxs-lookup"><span data-stu-id="09a6b-106">Business Premium</span></span>
 
-- <span data-ttu-id="c1415-107">Microsoft 365 FIRSTLINE F1</span><span class="sxs-lookup"><span data-stu-id="c1415-107">Microsoft 365 Firstline F1</span></span>
+- <span data-ttu-id="09a6b-107">Microsoft 365 Firstline F1</span><span class="sxs-lookup"><span data-stu-id="09a6b-107">Microsoft 365 Firstline F1</span></span>
 
-- <span data-ttu-id="c1415-108">Qualsiasi piano di Office 365 Enterprise</span><span class="sxs-lookup"><span data-stu-id="c1415-108">Any Office 365 Enterprise plan</span></span>
+- <span data-ttu-id="09a6b-108">Qualsiasi piano di Office 365 Enterprise</span><span class="sxs-lookup"><span data-stu-id="09a6b-108">Any Office 365 Enterprise plan</span></span>
 
-- <span data-ttu-id="c1415-109">Garantire un'attività produttiva sicura</span><span class="sxs-lookup"><span data-stu-id="c1415-109">Secure Productive Business</span></span>
+- <span data-ttu-id="09a6b-109">Proteggere le aziende produttive</span><span class="sxs-lookup"><span data-stu-id="09a6b-109">Secure Productive Business</span></span>
 
-- <span data-ttu-id="c1415-110">Secure Productive Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="c1415-110">Secure Productive Enterprise E3</span></span>
+- <span data-ttu-id="09a6b-110">Secure Productive Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="09a6b-110">Secure Productive Enterprise E3</span></span>
 
-- <span data-ttu-id="c1415-111">Secure Productive Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="c1415-111">Secure Productive Enterprise E5</span></span>
+- <span data-ttu-id="09a6b-111">Secure Productive Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="09a6b-111">Secure Productive Enterprise E5</span></span>
 
-- <span data-ttu-id="c1415-112">Qualsiasi piano di istruzione di Office 365</span><span class="sxs-lookup"><span data-stu-id="c1415-112">Any Office 365 Education plan</span></span>
+- <span data-ttu-id="09a6b-112">Qualsiasi piano di Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="09a6b-112">Any Office 365 Education plan</span></span>
 
-- <span data-ttu-id="c1415-113">Microsoft 365 A3</span><span class="sxs-lookup"><span data-stu-id="c1415-113">Microsoft 365 A3</span></span>
+- <span data-ttu-id="09a6b-113">Microsoft 365 A3</span><span class="sxs-lookup"><span data-stu-id="09a6b-113">Microsoft 365 A3</span></span>
 
-- <span data-ttu-id="c1415-114">Microsoft 365 A5</span><span class="sxs-lookup"><span data-stu-id="c1415-114">Microsoft 365 A5</span></span>
+- <span data-ttu-id="09a6b-114">Microsoft 365 A5</span><span class="sxs-lookup"><span data-stu-id="09a6b-114">Microsoft 365 A5</span></span>
 
-<span data-ttu-id="c1415-115">Oltre a una licenza di prodotto valida, è necessaria una delle seguenti versioni di Exchange Online perché ToDo sia in grado di sincronizzare i dati degli utenti:</span><span class="sxs-lookup"><span data-stu-id="c1415-115">In addition to a valid product license, one of the following versions of Exchange Online is needed for ToDo to be able to sync user data:</span></span>
+<span data-ttu-id="09a6b-115">Oltre a una licenza valida per il prodotto, è necessaria una delle seguenti versioni di Exchange Online per poter sincronizzare i dati degli utenti con ToDo:</span><span class="sxs-lookup"><span data-stu-id="09a6b-115">In addition to a valid product license, one of the following versions of Exchange Online is needed for ToDo to be able to sync user data:</span></span>
   
-- <span data-ttu-id="c1415-116">Exchange Online Piano 1</span><span class="sxs-lookup"><span data-stu-id="c1415-116">Exchange Online Plan 1</span></span>
+- <span data-ttu-id="09a6b-116">Exchange Online Piano 1</span><span class="sxs-lookup"><span data-stu-id="09a6b-116">Exchange Online Plan 1</span></span>
 
-- <span data-ttu-id="c1415-117">Exchange Online, piano 2</span><span class="sxs-lookup"><span data-stu-id="c1415-117">Exchange Online Plan 2</span></span>
+- <span data-ttu-id="09a6b-117">Exchange Online, piano 2</span><span class="sxs-lookup"><span data-stu-id="09a6b-117">Exchange Online Plan 2</span></span>
 
-- <span data-ttu-id="c1415-118">Elementi essenziali di Exchange</span><span class="sxs-lookup"><span data-stu-id="c1415-118">Exchange Essentials</span></span>
+- <span data-ttu-id="09a6b-118">Exchange Essentials</span><span class="sxs-lookup"><span data-stu-id="09a6b-118">Exchange Essentials</span></span>
 
-- <span data-ttu-id="c1415-119">Chiosco Exchange Online</span><span class="sxs-lookup"><span data-stu-id="c1415-119">Exchange Online Kiosk</span></span>
+- <span data-ttu-id="09a6b-119">Chiosco Exchange Online</span><span class="sxs-lookup"><span data-stu-id="09a6b-119">Exchange Online Kiosk</span></span>
 
-- <span data-ttu-id="c1415-120">POP Exchange Online</span><span class="sxs-lookup"><span data-stu-id="c1415-120">Exchange Online POP</span></span>
+- <span data-ttu-id="09a6b-120">Exchange Online POP</span><span class="sxs-lookup"><span data-stu-id="09a6b-120">Exchange Online POP</span></span>
 
-[<span data-ttu-id="c1415-121">Assegnare le licenze agli account utente con Office 365 PowerShell</span><span class="sxs-lookup"><span data-stu-id="c1415-121">Assign licenses to user accounts with Office 365 PowerShell</span></span>](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[<span data-ttu-id="09a6b-121">Assegnare le licenze agli account utente con Office 365 PowerShell</span><span class="sxs-lookup"><span data-stu-id="09a6b-121">Assign licenses to user accounts with Office 365 PowerShell</span></span>](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

@@ -2,7 +2,7 @@
 title: Configurare Skype for Business online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002393"
 - "4666"
-ms.openlocfilehash: a054546c0422632334030b7767328502e0e44597
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d555dc9f2f6d0fe26f05c1b8b2435f185182df6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691759"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828552"
 ---
-# <a name="set-up-skype-for-business-online"></a><span data-ttu-id="6f4e7-102">Configurare Skype for Business online</span><span class="sxs-lookup"><span data-stu-id="6f4e7-102">Set up Skype for Business Online</span></span>
+# <a name="set-up-skype-for-business-online"></a><span data-ttu-id="7b622-102">Configurare Skype for Business online</span><span class="sxs-lookup"><span data-stu-id="7b622-102">Set up Skype for Business Online</span></span>
 
-<span data-ttu-id="6f4e7-103">Skype for Business Online verrà ritirato il 31 luglio 2021.</span><span class="sxs-lookup"><span data-stu-id="6f4e7-103">Skype for Business Online will be retired on July 31, 2021.</span></span> <span data-ttu-id="6f4e7-104">[Leggere altre informazioni sul ritiro e la migrazione a Microsoft Teams](https://docs.microsoft.com/microsoftteams/skype-for-business-online-retirement).</span><span class="sxs-lookup"><span data-stu-id="6f4e7-104">[Learn more about retirement and migration to Microsoft Teams](https://docs.microsoft.com/microsoftteams/skype-for-business-online-retirement).</span></span>
+<span data-ttu-id="7b622-103">Skype for Business Online verrà ritirato il 31 luglio 2021.</span><span class="sxs-lookup"><span data-stu-id="7b622-103">Skype for Business Online will be retired on July 31, 2021.</span></span> <span data-ttu-id="7b622-104">[Leggere altre informazioni sul ritiro e la migrazione a Microsoft Teams](https://docs.microsoft.com/microsoftteams/skype-for-business-online-retirement).</span><span class="sxs-lookup"><span data-stu-id="7b622-104">[Learn more about retirement and migration to Microsoft Teams](https://docs.microsoft.com/microsoftteams/skype-for-business-online-retirement).</span></span>
 
-<span data-ttu-id="6f4e7-105">Skype for Business fa parte della famiglia di prodotti di Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="6f4e7-105">Skype for Business is part of the Microsoft 365 suite of products.</span></span> <span data-ttu-id="6f4e7-106">[Altre informazioni su come installare Skype for Business Online](https://support.office.com/article/Install-Skype-for-Business-Online-8a618bc4-3fc8-4d5f-9d62-cf93a0494800).</span><span class="sxs-lookup"><span data-stu-id="6f4e7-106">[Learn how to install Skype for Business Online](https://support.office.com/article/Install-Skype-for-Business-Online-8a618bc4-3fc8-4d5f-9d62-cf93a0494800).</span></span>
+<span data-ttu-id="7b622-105">Skype for Business fa parte della famiglia di prodotti di Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="7b622-105">Skype for Business is part of the Microsoft 365 suite of products.</span></span> <span data-ttu-id="7b622-106">[Altre informazioni su come installare Skype for Business Online](https://support.office.com/article/Install-Skype-for-Business-Online-8a618bc4-3fc8-4d5f-9d62-cf93a0494800).</span><span class="sxs-lookup"><span data-stu-id="7b622-106">[Learn how to install Skype for Business Online](https://support.office.com/article/Install-Skype-for-Business-Online-8a618bc4-3fc8-4d5f-9d62-cf93a0494800).</span></span>
