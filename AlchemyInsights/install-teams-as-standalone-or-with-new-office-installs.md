@@ -2,7 +2,7 @@
 title: Installare Team in versione autonoma o tramite le nuove installazioni di Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "5706"
-ms.openlocfilehash: 8b84f160f0be2c6a36f677a8f737a582d95020d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8ae6d0dbf25cfa482cdcbc93fe55a03c0dbaced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703123"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832026"
 ---
-# <a name="install-teams-as-standalone-or-with-new-office-installs"></a><span data-ttu-id="f7b9b-102">Installare Team in versione autonoma o tramite le nuove installazioni di Office</span><span class="sxs-lookup"><span data-stu-id="f7b9b-102">Install Teams as standalone or with new office installs</span></span>
+# <a name="install-teams-as-standalone-or-with-new-office-installs"></a><span data-ttu-id="e02a1-102">Installare Team in versione autonoma o tramite le nuove installazioni di Office</span><span class="sxs-lookup"><span data-stu-id="e02a1-102">Install Teams as standalone or with new office installs</span></span>
 
-<span data-ttu-id="f7b9b-103">Per informazioni su come distribuire Teams nell'organizzazione, vedere [qui](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs).</span><span class="sxs-lookup"><span data-stu-id="f7b9b-103">Please see [here](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) for information on how to deploy Teams in your organization.</span></span>
+<span data-ttu-id="e02a1-103">Per informazioni su come distribuire Teams nell'organizzazione, vedere [qui](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs).</span><span class="sxs-lookup"><span data-stu-id="e02a1-103">Please see [here](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) for information on how to deploy Teams in your organization.</span></span>
