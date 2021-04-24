@@ -1,5 +1,5 @@
 ---
-title: I criteri di conservazione nell'interfaccia di amministrazione di Exchange non funzionano
+title: Criteri di conservazione nell'interfaccia di amministrazione di Exchange non funzionanti
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,55 +13,35 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740514"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952232"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a><span data-ttu-id="583a1-102">Criteri di conservazione nell'interfaccia di amministrazione di Exchange</span><span class="sxs-lookup"><span data-stu-id="583a1-102">Retention Policies in Exchange Admin Center</span></span>
+# <a name="retention-policies-in-exchange-admin-center"></a><span data-ttu-id="9a0ff-102">Criteri di conservazione nell'interfaccia di amministrazione di Exchange</span><span class="sxs-lookup"><span data-stu-id="9a0ff-102">Retention Policies in Exchange Admin Center</span></span>
 
-<span data-ttu-id="583a1-103">Se si desidera che vengano eseguiti controlli automatici per le impostazioni indicate di seguito, selezionare il pulsante indietro <--nella parte superiore di questa pagina e quindi immettere l'indirizzo di posta elettronica dell'utente che ha problemi con i criteri di conservazione.</span><span class="sxs-lookup"><span data-stu-id="583a1-103">If you want us to run automated checks for the settings mentioned below, select the back button <-- at the top of this page, and then enter the email address of the user who has problems with retention policies.</span></span>
+<span data-ttu-id="9a0ff-103">Se si desidera eseguire controlli automatizzati per le impostazioni indicate di seguito, selezionare il pulsante Indietro <, nella parte superiore di questa pagina, quindi immettere l'indirizzo di posta elettronica dell'utente che ha problemi con i criteri di conservazione.</span><span class="sxs-lookup"><span data-stu-id="9a0ff-103">If you want us to run automated checks for the settings mentioned below, select the back button <-- at the top of this page, and then enter the email address of the user who has problems with retention policies.</span></span>
 
- <span data-ttu-id="583a1-104">**Problema:** I criteri di conservazione appena creati o aggiornati nell'interfaccia di amministrazione di Exchange non vengono applicati alle cassette postali o gli elementi non vengono spostati nella cassetta postale di archiviazione o sono stati eliminati.</span><span class="sxs-lookup"><span data-stu-id="583a1-104">**Issue:** Newly created or updated retention policies in the Exchange Admin Center are not applying to mailboxes or items are not moved to the archive mailbox or deleted.</span></span> 
-  
- <span data-ttu-id="583a1-105">**Cause principali:**</span><span class="sxs-lookup"><span data-stu-id="583a1-105">**Root Causes:**</span></span>
-  
-- <span data-ttu-id="583a1-106">Questo può essere dovuto al fatto che l' **Assistente cartelle gestite** non ha elaborato la cassetta postale dell'utente.</span><span class="sxs-lookup"><span data-stu-id="583a1-106">This may be because the **Managed Folder Assistant** has not processed the user's mailbox.</span></span> <span data-ttu-id="583a1-107">L'Assistente cartelle gestite tenta di elaborare tutte le cassette postali nell'organizzazione basata su cloud una volta ogni sette giorni.</span><span class="sxs-lookup"><span data-stu-id="583a1-107">The Managed Folder Assistant tries to process every mailbox in your cloud-based organization once every seven days.</span></span> <span data-ttu-id="583a1-108">Se si modifica un tag di conservazione o si applica un criterio di conservazione diverso a una cassetta postale, è possibile attendere che la cartella gestita contribuisca a elaborare la cassetta postale o che sia possibile eseguire il cmdlet Start-ManagedFolderAssistant per avviare l'Assistente cartelle gestite per elaborare una cassetta postale specifica.</span><span class="sxs-lookup"><span data-stu-id="583a1-108">If you change a retention tag or apply a different retention policy to a mailbox, you can wait until the Managed Folder Assist processes the mailbox, or you can run the Start-ManagedFolderAssistant cmdlet to start the Managed Folder Assistant to process a specific mailbox.</span></span> <span data-ttu-id="583a1-109">L'esecuzione di questo cmdlet è utile per testare o risolvere i problemi relativi a un criterio di conservazione o a un tag di conservazione.</span><span class="sxs-lookup"><span data-stu-id="583a1-109">Running this cmdlet is useful for testing or troubleshooting a retention policy or retention tag settings.</span></span> <span data-ttu-id="583a1-110">Per ulteriori informazioni, vedere [eseguire l'Assistente cartelle gestite](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).</span><span class="sxs-lookup"><span data-stu-id="583a1-110">For more information, visit [Run the Managed Folder Assistant](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).</span></span>
-    
-  - <span data-ttu-id="583a1-111">**Soluzione:** Eseguire il seguente comando per avviare l'Assistente cartelle gestite per una cassetta postale specifica:</span><span class="sxs-lookup"><span data-stu-id="583a1-111">**Solution:** Run the following command to start the Managed Folder Assistant for a specific mailbox:</span></span>
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+<span data-ttu-id="9a0ff-104">Se si verificano problemi con i criteri di conservazione nell'interfaccia di amministrazione di Exchange che non si applicano alle cassette postali o agli elementi che non si spostano nella cassetta postale di archiviazione, controllare quanto segue:</span><span class="sxs-lookup"><span data-stu-id="9a0ff-104">If you have problems with retention policies in the Exchange Admin Center not applying to mailboxes or items not moving to the archive mailbox, check the following:</span></span>
 
-- <span data-ttu-id="583a1-112">Questo può verificarsi anche se **RetentionHold** è stato **abilitato** sulla cassetta postale.</span><span class="sxs-lookup"><span data-stu-id="583a1-112">This may also be occur if **RetentionHold** has been **enabled** on the mailbox.</span></span> <span data-ttu-id="583a1-113">Se la cassetta postale è stata inserita in una RetentionHold, i criteri di conservazione nella cassetta postale non verranno elaborati in quel periodo.</span><span class="sxs-lookup"><span data-stu-id="583a1-113">If the mailbox has been placed on a RetentionHold, the retention policy on the mailbox will not be processed during that time.</span></span> <span data-ttu-id="583a1-114">Per ulteriori informazioni sull'impostazione RetentionHold, vedere: [conservazione delle cassette postali](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).</span><span class="sxs-lookup"><span data-stu-id="583a1-114">For more informaton on the RetentionHold setting see: [Mailbox Retention Hold](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).</span></span>
-    
-    <span data-ttu-id="583a1-115">**Soluzione**</span><span class="sxs-lookup"><span data-stu-id="583a1-115">**Solution:**</span></span>
-    
-  - <span data-ttu-id="583a1-116">Controllare lo stato dell'impostazione RetentionHold nella cassetta postale specifica in [Exo PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):</span><span class="sxs-lookup"><span data-stu-id="583a1-116">Check the status of the RetentionHold setting on the specific mailbox in [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):</span></span>
-    
-  ```
-  Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
-  ```
+<span data-ttu-id="9a0ff-105">**Cause radice:**</span><span class="sxs-lookup"><span data-stu-id="9a0ff-105">**Root Causes:**</span></span>
 
-  - <span data-ttu-id="583a1-117">Per **disabilitare** RetentionHold in una cassetta postale specifica, eseguire il comando seguente:</span><span class="sxs-lookup"><span data-stu-id="583a1-117">Run the following command to **disable** RetentionHold on a specific mailbox:</span></span>
-    
-  ```
-  Set-Mailbox -RetentionHoldEnabled $false
-  ```
+- <span data-ttu-id="9a0ff-106">**L'Assistente cartelle** gestite non ha elaborato la cassetta postale dell'utente.</span><span class="sxs-lookup"><span data-stu-id="9a0ff-106">**Managed Folder Assistant** has not processed the user's mailbox.</span></span> <span data-ttu-id="9a0ff-107">L'Assistente cartelle gestite tenta di elaborare ogni cassetta postale nell'organizzazione basata su cloud una volta ogni sette giorni.</span><span class="sxs-lookup"><span data-stu-id="9a0ff-107">The Managed Folder Assistant tries to process every mailbox in your cloud-based organization once every seven days.</span></span>
 
-  - <span data-ttu-id="583a1-118">A questo punto, eseguire di nuovo l'Assistente cartelle gestite:</span><span class="sxs-lookup"><span data-stu-id="583a1-118">Now, re-run the Managed folder Assistant:</span></span>
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+  <span data-ttu-id="9a0ff-108">**Soluzione:** Eseguire l'Assistente cartelle gestite.</span><span class="sxs-lookup"><span data-stu-id="9a0ff-108">**Solution:** Run the Managed Folder Assistant.</span></span>
 
- <span data-ttu-id="583a1-119">**Nota:** Se una cassetta postale è inferiore a 10 MB, l'Assistente cartelle gestite non elaborerà automaticamente la cassetta postale.</span><span class="sxs-lookup"><span data-stu-id="583a1-119">**Note:** If a mailbox is smaller than 10 MB, the Managed Folder Assistant will not automatically process the mailbox.</span></span>
+- <span data-ttu-id="9a0ff-109">**RetentionHold** è stato **abilitato** nella cassetta postale.</span><span class="sxs-lookup"><span data-stu-id="9a0ff-109">**RetentionHold** has been **enabled** on the mailbox.</span></span> <span data-ttu-id="9a0ff-110">Se la cassetta postale è stata impostata su RetentionHold, il criterio di conservazione sulla cassetta postale non verrà elaborato durante tale periodo.</span><span class="sxs-lookup"><span data-stu-id="9a0ff-110">If the mailbox has been placed on a RetentionHold, the retention policy on the mailbox will not be processed during that time.</span></span>
+
+  <span data-ttu-id="9a0ff-111">**Soluzione:** Controllare lo stato dell'impostazione del blocco di conservazione e aggiornare in base alle esigenze.</span><span class="sxs-lookup"><span data-stu-id="9a0ff-111">**Solution:** Check status of Retention Hold setting and update as needed.</span></span> <span data-ttu-id="9a0ff-112">Per informazioni dettagliate, vedere [Mailbox Retention Hold](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).</span><span class="sxs-lookup"><span data-stu-id="9a0ff-112">For details, see [Mailbox Retention Hold](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).</span></span>
  
-<span data-ttu-id="583a1-120">Per ulteriori informazioni sui criteri di conservazione nell'interfaccia di amministrazione di Exchange, vedere:</span><span class="sxs-lookup"><span data-stu-id="583a1-120">For more info on retention policies in the Exchange Admin Center, see:</span></span>
-- [<span data-ttu-id="583a1-121">Tag di conservazione e criteri di conservazione</span><span class="sxs-lookup"><span data-stu-id="583a1-121">Retention tags and retention policies</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [<span data-ttu-id="583a1-122">Applicazione dei criteri di conservazione alle cassette postali</span><span class="sxs-lookup"><span data-stu-id="583a1-122">Apply a retention policy to mailboxes</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [<span data-ttu-id="583a1-123">Aggiungere o rimuovere tag di conservazione</span><span class="sxs-lookup"><span data-stu-id="583a1-123">Add or remove retention tags</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [<span data-ttu-id="583a1-124">Come identificare il tipo di blocco applicato a una cassetta postale</span><span class="sxs-lookup"><span data-stu-id="583a1-124">How to identify the type of hold placed on a mailbox</span></span>](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+<span data-ttu-id="9a0ff-113">**Nota:** Se una cassetta postale è inferiore a 10 MB, l'Assistente cartelle gestite non eelaborare automaticamente la cassetta postale.</span><span class="sxs-lookup"><span data-stu-id="9a0ff-113">**Note:** If a mailbox is smaller than 10 MB, the Managed Folder Assistant will not automatically process the mailbox.</span></span>
+ 
+<span data-ttu-id="9a0ff-114">Per altre info sui criteri di conservazione nell'interfaccia di amministrazione di Exchange, vedi:</span><span class="sxs-lookup"><span data-stu-id="9a0ff-114">For more info on retention policies in the Exchange Admin Center, see:</span></span>
+
+- [<span data-ttu-id="9a0ff-115">Tag di conservazione e criteri di conservazione</span><span class="sxs-lookup"><span data-stu-id="9a0ff-115">Retention tags and retention policies</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+
+- <span data-ttu-id="9a0ff-116">[Applicare un criterio di conservazione alle cassette postali](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) o Aggiungere o rimuovere tag di [conservazione](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)</span><span class="sxs-lookup"><span data-stu-id="9a0ff-116">[Apply a retention policy to mailboxes](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) or [Add or remove retention tags](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)</span></span>
+
+- [<span data-ttu-id="9a0ff-117">Come identificare il tipo di blocco applicato a una cassetta postale</span><span class="sxs-lookup"><span data-stu-id="9a0ff-117">How to identify the type of hold placed on a mailbox</span></span>](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
