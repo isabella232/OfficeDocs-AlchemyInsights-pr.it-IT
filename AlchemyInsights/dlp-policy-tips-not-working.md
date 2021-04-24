@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
+ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679589"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51958706"
 ---
-# <a name="dlp-policy-tip-issues"></a>Problemi relativi ai suggerimenti per i criteri DLP
+# <a name="dlp-policy-tip-issues"></a>Problemi relativi al suggerimento per i criteri DLP
 
 **Importante**: durante questi periodi senza precedenti, stiamo adottando misure per garantire che i servizi SharePoint Online e OneDrive rimangano disponibili. Per altre informazioni, vedere [Modifiche temporanee delle funzionalità di SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Suggerimenti per i criteri DLP**
+Per configurare i suggerimenti per i criteri sul criterio DLP nel Centro sicurezza & conformità in modalità di applicazione completa, eseguire le operazioni seguenti:
 
-Quando si utilizzano i **criteri DLP**, gli utenti possono ricevere la notifica di una violazione dei criteri con suggerimenti per i **criteri**. Gli amministratori possono configurare Suggerimenti per i criteri da visualizzare durante il testing del criterio DLP o quando il criterio è in modalità di applicazione completa.
-  
-Per configurare i suggerimenti per i criteri per i criteri DLP nel centro sicurezza e conformità in modalità di applicazione completa, eseguire le operazioni seguenti:
-  
-- Verificare che i suggerimenti per i criteri siano stati **abilitati** nella regola DLP utilizzando i passaggi riportati di [seguito](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- Verificare che i suggerimenti per i criteri **siano** stati abilitati nella regola DLP. Per la procedura, vedere [Send email notifications and show policy tips for DLP policies](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-- Verificare che il **contenuto corrisponda** a ciò che è **necessario** per attivare la regola descritta in [questo articolo.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- Verificare che il contenuto corrisponda a quello necessario per attivare la regola descritta in [Definizioni di](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)entità del tipo di informazioni riservate .
 
-- I suggerimenti per i criteri vengono visualizzati sia in OWA che in Outlook. Tuttavia, quando si utilizza **Outlook 2013 o versione successiva**, i suggerimenti per i criteri vengono visualizzati solo in determinate condizioni. Queste condizioni sono elencate di seguito: [condizioni supportate per Outlook 2013 o versioni successive per la visualizzazione dei suggerimenti per i criteri](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- I suggerimenti per i criteri vengono visualizzati sia in OWA che in Outlook. Tuttavia, quando si utilizza Outlook 2013 o versione successiva, i suggerimenti per i criteri vengono visualizzati solo in determinate condizioni. Per l'elenco delle condizioni specifiche, vedere [Condizioni supportate per Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)o versioni successive per la visualizzazione dei suggerimenti per i criteri.
 
-Per ulteriori informazioni sui suggerimenti per i criteri DLP, vedere: [Mostra suggerimenti per i criteri per](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips) il criterio DLP
-  
+Per informazioni sui suggerimenti per i criteri DLP, vedere [Dlp Policy Tips Reference](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) e Support Matrix for DLP Policy [tips.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
