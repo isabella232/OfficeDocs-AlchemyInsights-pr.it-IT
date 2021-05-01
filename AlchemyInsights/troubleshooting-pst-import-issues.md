@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 07609b39149c003b029f3ea5669f4044af43c25d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
+ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826167"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52059819"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Risoluzione dei problemi di importazione PST
 
-- Se si sta eseguendo l'importazione nel client Outlook, vedere [Risolvere i problemi di importazione di un file PST di Outlook](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+- Se stai eseguendo l'importazione nel client di Outlook stesso, vedi [Risolvere i problemi importando un file PST in Outlook](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
 
-- Se si usa il servizio di importazione e si è bloccato, tenere presente che le dimensioni di ogni file PST caricato nella posizione di archiviazione di Azure non devono essere superiori a 20 GB. I file PST più grandi di 20 GB possono influire sulle prestazioni del processo di importazione PST.
+- Se il servizio di importazione si è bloccato durante l'uso, considera che ogni file PST caricato nei percorsi di Archiviazione di Azure non deve essere più grande di 20 GB. I file PST più grandi di 20 GB possono influire sulle prestazioni del processo di importazione PST. Per altre informazioni sui processi di risoluzione dei problemi bloccati, vedi [Problemi che condizionano i processi di importazione dei file PST](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 
-- Se si vuole verificare lo stato di uno specifico processo di importazione, è possibile usare [Get-MailboxImportRequest-BatchName](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
+- Se vuoi verificare lo stato di uno specifico processo di importazione, usa [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
 
-- Per informazioni complete sul servizio di importazione, vedere [Panoramica dell'importazione di file PST dell'organizzazione](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide).
+- Per informazioni complete sul servizio di importazione, vedere [Panoramica sull'importazione di file PST dell'organizzazione](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide).
