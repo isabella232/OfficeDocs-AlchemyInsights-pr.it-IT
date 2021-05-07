@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52107530"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233538"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Distribuzione di componenti aggiuntivi per Microsoft 365 Apps
 
 La distribuzione centralizzata è il modo consigliato per distribuire Office componenti aggiuntivi a utenti e gruppi all'interno dell'organizzazione. Per distribuire i componenti aggiuntivi, attenersi alla procedura seguente:
 
-**Nota:** Per installare i componenti aggiuntivi per Office come singolo utente, vedere Visualizzare, gestire e installare i componenti aggiuntivi [nei Office applicazioni.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Assicurati inoltre che sia abilitata l'acquisizione Office componenti aggiuntivi dello Store. 
+**Nota:** Per installare i componenti aggiuntivi per Office come singolo utente, vedere Visualizzare, gestire e installare i componenti aggiuntivi [nei Office applicazioni.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Assicurati inoltre che sia abilitata l'acquisizione Office componenti aggiuntivi dello Store. Per informazioni dettagliate, vedere [Prevent add-in downloads by turning off the Office Store across all clients (Except Outlook)](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook).
 
 1. Verificare che l'ambiente soddisfi i requisiti per la distribuzione di componenti aggiuntivi tramite distribuzione centralizzata. Per informazioni dettagliate, vedere [Requirements](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
 2. Vai a **Impostazioni**  >  **App integrate** Ottieni  >  **app** nell'Microsoft 365 di amministrazione per distribuire i componenti aggiuntivi. 
@@ -41,7 +41,7 @@ Note:
 
 - Se si verificano problemi di distribuzione dei componenti aggiuntivi tramite le app integrate, provare a eseguire la distribuzione utilizzando [Componenti aggiuntivi](https://admin.microsoft.com/AdminPortal/Home?#/Settings/AddIns).
 
-Per altre informazioni, vedere:
+Per ulteriori informazioni, vedere:
 
 [Distribuire componenti aggiuntivi nell'interfaccia di amministrazione](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [Gestire i componenti aggiuntivi nell'interfaccia di amministrazione](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 

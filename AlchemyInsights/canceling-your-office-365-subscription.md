@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.openlocfilehash: d4c5fcf5140f079bfb6ae0f76ec2d080c6befd0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1c9c57be405b6bfd530cebc801671fd017df859b
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896871"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261596"
 ---
 # <a name="canceling-your-subscription"></a>Annullare l'abbonamento?
 
 Siamo spiacenti di vederti andare, ma se vuoi annullare l'abbonamento, ecco le opzioni disponibili:
   
 - Se hai meno di 25 licenze assegnate, puoi annullare l'abbonamento online. Vai alla **pagina Fatturazione** i \> **[tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054)** prodotti e trova l'abbonamento che vuoi annullare. Selezionare **Altre azioni** (tre puntini), quindi selezionare **Annulla l’abbonamento**.
-- Se agli utenti sono assegnate più di 25 licenze, chiamare [il supporto tecnico per annullare l'abbonamento.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
+- Se agli utenti sono assegnate più di 25 licenze, chiamare [il supporto tecnico per annullare l'abbonamento.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
   
 **Rimborso: qualsiasi credito rievato verrà restituito all'utente entro il ciclo di fatturazione successivo.**
 
