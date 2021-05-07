@@ -1,5 +1,5 @@
 ---
-title: Contratto multilicenza enterprise attivato con un account errato
+title: Contratto enterprise con contratti multilicenza attivato con un account errato
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "463"
 - "1500021"
-ms.openlocfilehash: e8414dbbe27ee6c2e19c5d562e3a82a6abba43ef
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 7f0bd783afac9726e223de74c7ef286a4d971d02
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602584"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261848"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="fe9f9-102">Contratto multilicenza enterprise attivato nell'account sbagliato o trasferimento di licenze da un account a un altro</span><span class="sxs-lookup"><span data-stu-id="fe9f9-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="6402d-102">Contratto enterprise con contratti multilicenza attivato nell'account sbagliato o trasferimento di licenze da un account a un altro</span><span class="sxs-lookup"><span data-stu-id="6402d-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
 
-<span data-ttu-id="fe9f9-103">Se gli abbonamenti acquistati tramite un **Contratto Enterprise** per contratti multilicenza sono stati attivati nel **tenant** errato o si desidera trasferire le licenze da un tenant a un altro, contattare il [supporto.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) </span><span class="sxs-lookup"><span data-stu-id="fe9f9-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please [contact support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).</span></span>
+<span data-ttu-id="6402d-103">Se le sottoscrizioni acquistate tramite un **Enterprise Agreement** per contratti multilicenza sono state attivate nel **tenant** sbagliato o si desidera trasferire le licenze da un tenant a un altro, contattare il [supporto.](/microsoft-365/admin/contact-support-for-business-products) </span><span class="sxs-lookup"><span data-stu-id="6402d-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please [contact support](/microsoft-365/admin/contact-support-for-business-products).</span></span>
