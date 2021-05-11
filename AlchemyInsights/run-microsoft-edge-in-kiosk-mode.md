@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708534"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312408"
 ---
 # <a name="run-microsoft-edge-in-kiosk-mode"></a>Eseguire Microsoft Edge in modalità tutto schermo
 
-È possibile configurare la modalità tutto schermo in Microsoft Edge versioni 77 e successive, nonché nelle versioni legacy di Microsoft Edge 45 e versioni precedenti.
+È possibile configurare la modalità tutto schermo in Microsoft Edge versioni 87 e successive, nonché nelle Versione legacy di Microsoft Edge 45 e versioni precedenti. Per ulteriori informazioni, vedere [Configure Microsoft Edge kiosk mode](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode).
 
-Puoi configurare i dispositivi eseguiti in Windows 10 per l'esecuzione in modalità tutto schermo con una singola app o [più app.](https://go.microsoft.com/fwlink/?linkid=2133659)
+Puoi configurare i dispositivi eseguiti in Windows 10 per l'esecuzione in modalità tutto schermo a app singola o [multiapp.](https://go.microsoft.com/fwlink/?linkid=2133659)
 
-Per altre informazioni sulla configurazione della modalità tutto schermo nella versione più recente del canale Stable di Microsoft Edge e nella versione legacy di Microsoft Edge, vedere:
+Per altre informazioni sulla configurazione della modalità tutto schermo nella versione più recente del canale Stable di Microsoft Edge e in Versione legacy di Microsoft Edge, vedi:
 
 - [Microsoft Edge con accesso assegnato](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
-- [Parametro della riga di comando "--kiosk" di Microsoft Edge](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
-- [Supporto per la modalità tutto schermo della versione legacy di Microsoft Edge](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
+- [Microsoft Edge Parametro della riga di comando "--kiosk"](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [Supporto per la Versione legacy di Microsoft Edge tutto schermo](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
