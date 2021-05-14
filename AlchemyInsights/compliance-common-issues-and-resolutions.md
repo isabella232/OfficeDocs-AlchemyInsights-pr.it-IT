@@ -12,27 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 128209e31b5697a3ab9252f339c9de3c3169e5c6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 010d9e6b3a4bedb5b8649ece6eaa3d857883c729
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817356"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470207"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Problemi noti di conformità e risoluzioni
 
+Per aiuto sulla visualizzazione degli avvisi, vedere [Criteri di avviso nel Centro sicurezza e conformità](/microsoft-365/compliance/alert-policies.md).
+
 Ecco alcuni argomenti richiesti di frequente relativi alla conformità:
 
-- Come configurare un archivio e i messaggi che non vengono spostati in modo automatico nell'archivio: è necessario [Abilitare un archivio, configurare un criterio di archiviazione](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes?view=o365-worldwide) e [Aumentare le dimensioni dell'archivio](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide).
+- Come configurare un archivio e i messaggi che non vengono spostati in modo automatico nell'archivio: è necessario [Abilitare un archivio, configurare un criterio di archiviazione](/microsoft-365/compliance/enable-archive-mailboxes.md) e [Aumentare le dimensioni dell'archivio](/microsoft-365/compliance/enable-unlimited-archiving.md).
 
-- Criteri di conservazione: domande relative al [Calcolo del periodo di conservazione](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-age), [Aggiungere o rimuovere tag di conservazione](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags), [Uso dei criteri di conservazione nel centro sicurezza e conformità](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide) per conservare o eliminare i contenuti.
+- Criteri di conservazione: domande relative al [Calcolo del periodo di conservazione](/exchange/security-and-compliance/messaging-records-management/retention-age.md), [Aggiungere o rimuovere tag di conservazione](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags.md), [Uso dei criteri di conservazione nel centro sicurezza e conformità](/microsoft-365/compliance/retention-policies.md) per conservare o eliminare i contenuti.
 
-- Configurare eDiscovery oltre alla ricerca ed esportazione di contenuti: [Ricerca contenuti](https://docs.microsoft.com/microsoft-365/compliance/search-for-content?view=o365-worldwide) e [Esportazione dei risultati della ricerca](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide).
+- Configurare eDiscovery oltre alla ricerca ed esportazione di contenuti: [Ricerca contenuti](/microsoft-365/compliance/search-for-content.md) e [Esportazione dei risultati della ricerca](/microsoft-365/compliance/export-search-results.md).
 
-- Controllo in Office 365: [Ricerca dei log di controllo in Office 365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide).
+- Controllo in Office 365: [Ricerca dei log di controllo in Office 365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance.md).
 
-- Prevenzione della perdita dei dati: per altre informazioni vedere [Panoramica della prevenzione della perdita dei dati](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide).
+- Prevenzione della perdita dei dati: per altre informazioni vedere [Panoramica della prevenzione della perdita dei dati](/microsoft-365/compliance/data-loss-prevention-policies.md).
  
-- Etichette di riservatezza : per altre informazioni, si veda [Creare e configurare etichette di riservatezza e i relativi criteri](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
+- Etichette di riservatezza : per altre informazioni, si veda [Creare e configurare etichette di riservatezza e i relativi criteri](/microsoft-365/compliance/create-sensitivity-labels.md).
 
 **Nota**: per una risposta più specifica ai problemi di conformità, provare a riformulare brevemente la domanda e includere gli errori visualizzati o le funzionalità in uso.
