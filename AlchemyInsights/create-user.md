@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 742ff857141d08031302fdcff7e49b3eef90e0f7
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 800baae2d748708d8cb7a5fb0e73fce5dcf455cb
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50718196"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569735"
 ---
 # <a name="create-user"></a>Create user
 
 **ANNUNCIO:**
 
-- [Deprecato il supporto per l'accesso a WebView da Google a partire dal 4 gennaio 2021.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Verifica se le tue app potrebbero essere interessate seguendo le [indicazioni di Google](https://go.microsoft.com/fwlink/?linkid=2157323) per testare la compatibilità.
-- Assicurati di usare la webview di sistema o il browser di sistema per l'accesso degli utenti con account Google consumer. Per ulteriori informazioni, vedere [Problemi durante l'accesso alle applicazioni solo tramite il browser Chrome](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
+- [Deprecation of WebView sign-in support from Google starting January 4, 2021](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) . Verifica se le tue app potrebbero essere interessate seguendo le indicazioni [di Google](https://go.microsoft.com/fwlink/?linkid=2157323) per testare la compatibilità.
+- Assicurati di usare la visualizzazione Web di sistema o il browser di sistema per accedere agli utenti con account Google consumer. Per ulteriori informazioni, vedere [Problemi durante l'accesso alle applicazioni solo tramite il browser Chrome](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
 
 **Impossibile creare un nuovo utente nella directory Azure AD**
 
@@ -37,5 +37,5 @@ ms.locfileid: "50718196"
 1. Vedere i [nomi di dominio](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) per la propria istanza di Azure AD.
 1. Rivedere [Log di audit](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) per ulteriori informazioni su un utente creato o eliminato di recente, come chi abbia eseguito un'azione e quando.
 1. Per altre informazioni sull'aggiunta di nuovi utenti, vedi [Usare il portale di Azure per creare un nuovo utente in Azure AD.](/azure/active-directory/active-directory-users-create-azure-portal)
-1. [Ruoli amministrativi di Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): autorizzazioni del ruolo di amministratore in Azure Active Directory
-1. È inoltre possibile [utilizzare Azure AD PowerShell per creare un nuovo utente.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. [Ruoli amministrativi di Azure AD](/azure/active-directory/active-directory-assign-admin-roles): autorizzazioni del ruolo di amministratore in Azure Active Directory
+1. È inoltre possibile [usare Azure AD PowerShell per creare un nuovo utente.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
