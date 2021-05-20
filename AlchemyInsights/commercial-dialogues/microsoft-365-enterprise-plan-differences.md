@@ -1,5 +1,5 @@
 ---
-title: Differenze dei piani di Microsoft 365 Enterprise
+title: Microsoft 365 Enterprise del piano
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736548"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539756"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>Differenze dei piani di Microsoft 365 Enterprise
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise del piano
 
 Microsoft 365 Enterprise E5 include tutte le funzionalità di Microsoft 365 Enterprise E3, oltre a misure di sicurezza avanzate come:
 
-- Advanced Threat Protection (ATP)
+- Protezione dalle minacce
 - Governance dei dati avanzata
 - Customer Lockbox
 - Microsoft 365 Cloud App Security
@@ -31,7 +31,7 @@ Microsoft 365 Enterprise E5 include tutte le funzionalità di Microsoft 365 Ente
 - Rights Management Services
 - Azure Key Vault
 
-Microsoft 365 Enterprise E5 include anche potenti funzionalità vocali e di analisi, ad esempio:
+Microsoft 365 Enterprise E5 include anche potenti funzionalità di analisi e vocali, ad esempio:
 
 - Dashboard live
 - Report con Power BI
@@ -39,8 +39,8 @@ Microsoft 365 Enterprise E5 include anche potenti funzionalità vocali e di anal
 - Audioconferenza
 - Riunioni online
 
-Per ulteriori informazioni su Microsoft 365 Enterprise E5 o per iscriversi a una sottoscrizione di valutazione, vedere Provare o acquistare un abbonamento [a Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2099673)
+Per ulteriori informazioni su Microsoft 365 Enterprise E5 o per iscriversi a una sottoscrizione di valutazione, vedere [Try or buy a Microsoft 365 subscription](https://go.microsoft.com/fwlink/?linkid=2099673).
 
-Per confrontare le funzionalità tra i piani Enterprise, vedere [Compare Enterprise plans.](https://go.microsoft.com/fwlink/?linkid=2097200)
+Per confrontare le funzionalità tra Enterprise, vedere [Compare Enterprise plans](https://go.microsoft.com/fwlink/?linkid=2097200).
 
 Apprezziamo il tuo feedback, quindi seleziona Sì/No alla domanda visualizzata e quindi valuta la tua esperienza.
