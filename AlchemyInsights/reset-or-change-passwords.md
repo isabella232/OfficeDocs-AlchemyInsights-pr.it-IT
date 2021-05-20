@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810200"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569655"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="44a4c-102">Reimpostare o modificare le password</span><span class="sxs-lookup"><span data-stu-id="44a4c-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="bb734-102">Reimpostare o modificare le password</span><span class="sxs-lookup"><span data-stu-id="bb734-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="44a4c-103">Un utente può modificare la propria password da **Account personale** Sicurezza  >  [& privacy](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="44a4c-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="bb734-103">Un utente può modificare la propria password selezionando la foto o le iniziali dell'utente > **account Visualizza.**</span><span class="sxs-lookup"><span data-stu-id="bb734-103">A user can change their own password by selecting their user photo or initials > **View account**.</span></span>
   
-<span data-ttu-id="44a4c-104">Se l'utente ha dimenticato la password, un amministratore può reimpostarla andando su **Utenti** Utenti utenti attivi, selezionare gli utenti e fare clic  >  [](https://portal.office.com/adminportal/home#/users)su **Reimposta password.**</span><span class="sxs-lookup"><span data-stu-id="44a4c-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
+<span data-ttu-id="bb734-104">Se l'utente ha dimenticato la password, un amministratore può reimpostarla andando su **Utenti** Utenti utenti attivi, selezionare gli utenti e fare clic  >  [](https://portal.office.com/adminportal/home#/users)su **Reimposta password.**</span><span class="sxs-lookup"><span data-stu-id="bb734-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="44a4c-105">[Fare clic qui per ulteriori informazioni](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)o per consentire agli utenti di reimpostare le proprie password dimenticate.</span><span class="sxs-lookup"><span data-stu-id="44a4c-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="bb734-105">Per ulteriori informazioni sulle password e per consentire agli utenti di reimpostare le proprie password, vedere [Reimpostare le password.](/microsoft-365/admin/add-users/reset-passwords)</span><span class="sxs-lookup"><span data-stu-id="bb734-105">To learn more about passwords and allowing users to reset their own passwords, see [Reset passwords](/microsoft-365/admin/add-users/reset-passwords).</span></span>
