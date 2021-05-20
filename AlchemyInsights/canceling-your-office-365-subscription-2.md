@@ -1,5 +1,5 @@
 ---
-title: Annullare l'abbonamento a Microsoft 365?
+title: Annullare l'Microsoft 365 abbonamento?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 43c70e34ea89f5579309bb831b2c20db0d9e7d7d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232011"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543221"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Annullare l'abbonamento a Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Annullare l'Microsoft 365 abbonamento?
 
-Siamo spiacenti di vederti andare.
+Siamo spiacenti di vederti andare!
   
 In base ai dati dell'organizzazione, tutti gli abbonamenti correnti hanno più di 25 licenze assegnate. Prima di poter annullare:
 
-1. Rimuovere le licenze dagli utenti fino a quando non si hanno meno di 25 utenti con licenza.
-2. Vai alla pagina **Fatturazione** \> **[i tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054)** prodotti.
-3. Nella scheda **Prodotti** individuare l'abbonamento che si desidera annullare, selezionare **Altre** azioni (tre puntini), quindi **selezionare Annulla abbonamento.**
+1. Rimuovi le licenze dagli utenti fino a quando non hai meno di 25 utenti con licenza.
+2. Vai alla **pagina Fatturazione** i \> **[tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054)** prodotti.
+3. Nella scheda **Prodotti** individuare l'abbonamento che si desidera annullare, selezionare i tre punti (altre azioni), quindi **selezionare Annulla sottoscrizione.**
 
 **Rimborso:** eventuali crediti proporzionali verranno rimessi entro il successivo ciclo di fatturazione.
 
-Per ulteriori informazioni, vedere [Annullare l'abbonamento.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Per ulteriori informazioni, vedere [Annullare l'abbonamento.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

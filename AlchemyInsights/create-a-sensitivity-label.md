@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: d90645758100e3ff29d77dd09848b36f33c3f526
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233394"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543653"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Come creare un'etichetta di riservatezza
 
@@ -30,8 +30,8 @@ ms.locfileid: "52233394"
 
     Per altre informazioni sull’etichettatura automatica, vedere [Applicare automaticamente un’etichetta di riservatezza al contenuto](https://go.microsoft.com/fwlink/?linkid=2105837).
 
-1. Ripetere la procedura per creare altre etichette. Se invece si vuole creare un'etichetta secondaria, selezionare innanzitutto l'etichetta padre, poi **...** per **Altre azioni**, quindi selezionare **Aggiungi etichetta secondaria**.
+1. Ripetere la procedura per creare altre etichette. Se invece si vuole creare un'etichetta secondaria, selezionare innanzitutto l'etichetta padre, quindi selezionare i tre puntini (Altre azioni) e infine selezionare **Aggiungi etichetta secondaria**.
 
-1. Dopo aver creato tutte le etichette desiderate, rivedere l'ordine e, se necessario, spostarle verso l'alto o verso il basso. 
+1. Dopo aver creato tutte le etichette desiderate, esaminarne l'ordine e, se necessario, spostarle verso l'alto o verso il basso. 
     
-    Per modificare l'ordine di un'etichetta, selezionare **...** per **Altre azioni**, quindi selezionare **Sposta su** o **Sposta giù**.
+    Per modificare l'ordine di un'etichetta, selezionare i tre puntini (Altre azioni) e quindi selezionare **Sposta su** o **Sposta giù**.

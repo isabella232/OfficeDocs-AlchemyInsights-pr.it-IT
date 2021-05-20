@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 4a5fd418e59e9aa56522e9cef17bb72e6c8b8bd8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0fb43292dfa446c829dd41c8513c05285fbd79e0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736488"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539720"
 ---
 # <a name="publish-sensitivity-labels"></a>Pubblicare le etichette di riservatezza
 
@@ -34,7 +34,7 @@ Per pubblicare le etichette di riservatezza, attenersi alla seguente procedura:
 6. Esaminare le etichette selezionate. Per apportare eventuali modifiche, fare clic **Modifica**, in caso contrario fare clic su **Avanti**.
 7. Seguire le istruzioni visualizzate per configurare le impostazioni del criterio.
 8. Ripetere questi passaggi se sono necessarie impostazioni del criterio diverse per utenti o percorsi diversi. Ad esempio, possono essere necessarie altre etichette per un gruppo di utenti oppure un'etichetta predefinita diversa per un sottoinsieme di utenti.
-9. Se si creano più criteri di etichetta che potrebbero comportare un conflitto per un utente o un percorso, rivedere l'ordine dei criteri e, se necessario, spostarli verso l'alto o verso il basso. Per modificare l'ordine di un criterio di etichetta selezionare **...** per **Altre azioni**, quindi selezionare **Sposta su** o **Sposta giù**.
+9. Se si creano più criteri di etichetta che potrebbero comportare un conflitto per un utente o un percorso, rivedere l'ordine dei criteri e, se necessario, spostarli verso l'alto o verso il basso. Per modificare l'ordine di un criterio di etichetta, selezionare i tre puntini (Altre azioni) e quindi selezionare **Sposta su** o **Sposta giù**.
 
 Quando si completa la procedura guidata, il criterio dell'etichetta viene pubblicato automaticamente.
 

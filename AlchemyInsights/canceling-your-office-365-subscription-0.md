@@ -1,5 +1,5 @@
 ---
-title: Annullamento dell'abbonamento a Microsoft 365?
+title: Annullare l'Microsoft 365 abbonamento?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "86"
 - "1400001"
-ms.openlocfilehash: 0541c68ffc71503cccba47501f318939fc9e0a53
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 85ce33aaf5fbcde6a8c32c692977647f4f44c953
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416352"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543293"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Annullamento dell'abbonamento a Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Annullare l'Microsoft 365 abbonamento?
 
-Ci dispiace vederti andare!
+Siamo spiacenti di vederti andare!
   
-In base ai dati dell'organizzazione, riteniamo che tutti gli abbonamenti correnti abbiano meno di 25 seggi. Per annullare l'abbonamento online, andare alla pagina **fatturazione** dei \> [prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054) . Nella scheda **prodotti** individuare la sottoscrizione che si desidera annullare, selezionare **altre azioni** (tre punti) e quindi fare clic su **Annulla sottoscrizione**.
+In base ai dati dell'organizzazione, riteniamo che tutte le sottoscrizioni correnti hanno meno di 25 postazioni. Per annullare l'abbonamento online, passare alla **pagina Fatturazione** \> [prodotti.](https://go.microsoft.com/fwlink/p/?linkid=842054) Nella scheda **Prodotti** individuare l'abbonamento che si desidera annullare, selezionare i tre punti (altre azioni), quindi **selezionare Annulla sottoscrizione.**
   
-**Rimborso:** Qualsiasi credito prorated verrà restituito all'utente entro il prossimo ciclo di fatturazione.
+**Rimborso:** eventuali crediti proporzionali verranno rimessi entro il successivo ciclo di fatturazione.
 
-Per ulteriori informazioni, vedere [annullare l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Per ulteriori informazioni, vedere [Annullare l'abbonamento.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
