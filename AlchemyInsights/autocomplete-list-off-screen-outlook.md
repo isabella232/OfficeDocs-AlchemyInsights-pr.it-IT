@@ -13,17 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: afc84866a3dd9ecb30562bd185239c3d1695fd10
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 17e25e4d017f8a829c18a7987dfa332783efc0b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261904"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543785"
 ---
-# <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a><span data-ttu-id="1f314-102">L'elenco di completamento automatico scorre sullo schermo in Outlook Desktop</span><span class="sxs-lookup"><span data-stu-id="1f314-102">AutoComplete list scrolls off the screen in Outlook Desktop</span></span>
+# <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a><span data-ttu-id="e6be8-102">L'elenco di completamento automatico scorre sullo schermo in Outlook Desktop</span><span class="sxs-lookup"><span data-stu-id="e6be8-102">AutoComplete list scrolls off the screen in Outlook Desktop</span></span>
 
-<span data-ttu-id="1f314-103">Dopo l'aggiornamento Outlook Desktop versione 2104 (Build 13929.20296), l'elenco di completamento automatico si alza in modo imprevisto e potrebbe scorrere lo schermo.</span><span class="sxs-lookup"><span data-stu-id="1f314-103">After updating to Outlook Desktop version 2104 (Build 13929.20296), the AutoComplete list unexpectedly goes up and may scroll off the screen.</span></span> <span data-ttu-id="1f314-104">Potresti non visualizzare tutte le voci di Completamento automatico nell'elenco e non puoi scorrere verso l'alto per accedervi.</span><span class="sxs-lookup"><span data-stu-id="1f314-104">You might not see all the AutoComplete entries in the list and can't scroll up to access them.</span></span>
+<span data-ttu-id="e6be8-103">Questo problema è stato risolto nella versione 2104 Build 13929.20386.</span><span class="sxs-lookup"><span data-stu-id="e6be8-103">This issue is fixed in Version 2104 Build 13929.20386.</span></span> <span data-ttu-id="e6be8-104">L'aggiornamento con la build fissa dovrebbe passare alla produzione del Canale corrente la settimana del 17 maggio.</span><span class="sxs-lookup"><span data-stu-id="e6be8-104">The update with the fixed build is expected to go to Current Channel production the week of May 17.</span></span> 
 
-<span data-ttu-id="1f314-105">**STATO: ANALISI**  Il team Outlook sta analizzando il problema e aggiornerà questo articolo quando saranno disponibili ulteriori informazioni.</span><span class="sxs-lookup"><span data-stu-id="1f314-105">**STATUS: INVESTIGATING**  The Outlook team is investigating the issue and will update this article when more information is available.</span></span>
-
-<span data-ttu-id="1f314-106">Per lo stato più recente, vedi [Scorrimento dell'elenco](https://support.microsoft.com/office/autocomplete-list-scrolls-off-the-screen-in-outlook-0247f165-697f-4238-b424-b03cd2582e2d?ui=en-US&rs=en-US&ad=US)di completamento automatico fuori dalla schermata in Outlook .</span><span class="sxs-lookup"><span data-stu-id="1f314-106">For the latest status, see [AutoComplete list scrolls off the screen in Outlook](https://support.microsoft.com/office/autocomplete-list-scrolls-off-the-screen-in-outlook-0247f165-697f-4238-b424-b03cd2582e2d?ui=en-US&rs=en-US&ad=US).</span></span>
+<span data-ttu-id="e6be8-105">Per verificare quando la build fissa è disponibile, vedere Cronologia degli aggiornamenti per Microsoft 365 Apps [(elencata per data)](/officeupdates/update-history-microsoft365-apps-by-date).</span><span class="sxs-lookup"><span data-stu-id="e6be8-105">To confirm when the fixed build is available, see [Update history for Microsoft 365 Apps (listed by date)](/officeupdates/update-history-microsoft365-apps-by-date).</span></span>

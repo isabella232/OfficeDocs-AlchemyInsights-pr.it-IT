@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6030"
 - "9001222"
-ms.openlocfilehash: 1f8c52b4de1e5972c52428e947aac72bfd25426d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ceba944c8aba183d0622f528658ead8430faa2c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757688"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545416"
 ---
-# <a name="unable-to-access-the-microsoft-defender-atp-portal"></a><span data-ttu-id="b87c4-102">Non è possibile accedere al portale Microsoft Defender ATP</span><span class="sxs-lookup"><span data-stu-id="b87c4-102">Unable to access the Microsoft Defender ATP portal</span></span>
+# <a name="unable-to-access-the-microsoft-defender-atp-portal"></a><span data-ttu-id="90359-102">Non è possibile accedere al portale Microsoft Defender ATP</span><span class="sxs-lookup"><span data-stu-id="90359-102">Unable to access the Microsoft Defender ATP portal</span></span>
 
-<span data-ttu-id="b87c4-103">Se si riceve il messaggio, **Non sei autorizzato ad accedere al portale**, tenere presente che Microsoft Defender ATP è un prodotto di monitoraggio della sicurezza, indagine sugli incidenti e risposta e l'accesso è limitato e controllato dall'utente.</span><span class="sxs-lookup"><span data-stu-id="b87c4-103">If you receive the message, **You are not authorized to access the portal**, be aware that Microsoft Defender ATP is a security monitoring, incident investigation and response product, and access is restricted and controlled by the user.</span></span> 
+<span data-ttu-id="90359-103">Se si riceve il messaggio, **Non sei autorizzato ad accedere al portale**, tenere presente che Microsoft Defender ATP è un prodotto di monitoraggio della sicurezza, indagine sugli incidenti e risposta e l'accesso è limitato e controllato dall'utente.</span><span class="sxs-lookup"><span data-stu-id="90359-103">If you receive the message, **You are not authorized to access the portal**, be aware that Microsoft Defender ATP is a security monitoring, incident investigation and response product, and access is restricted and controlled by the user.</span></span> 
 
-<span data-ttu-id="b87c4-104">Per altre informazioni, vedere [Assegnare accesso utente a Microsoft Defender Security Center](https://docs.microsoft.com/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection).</span><span class="sxs-lookup"><span data-stu-id="b87c4-104">For more information, see [Assign user access to Microsoft Defender Security Center](https://docs.microsoft.com/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection).</span></span>
+<span data-ttu-id="90359-104">Per altre informazioni, vedere [Assegnare accesso utente a Microsoft Defender Security Center](/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection).</span><span class="sxs-lookup"><span data-stu-id="90359-104">For more information, see [Assign user access to Microsoft Defender Security Center](/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection).</span></span>
