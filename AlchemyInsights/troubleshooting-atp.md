@@ -1,5 +1,5 @@
 ---
-title: Risoluzione dei problemi relativi a Microsoft Defender per Office 365
+title: Risoluzione dei problemi di Microsoft Defender per Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801447"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545272"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Risoluzione dei problemi relativi a Microsoft Defender per Office 365
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Risoluzione dei problemi di Microsoft Defender per Office 365
 
-- Si notano ritardi nel recapito del messaggio? Utilizzare l'opzione per il [recapito dinamico](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) nel criterio degli allegati sicuri di ATP. In questo modo si eviteranno ritardi nei messaggi proteggendo i destinatari da file dannosi.
+- **Si nota un ritardo nel recapito dei messaggi?** Usa [l'opzione Recapito](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) dinamico in Microsoft Defender per Office 365 allegati sicuri. Ciò consente di evitare ritardi nei messaggi proteggendo i destinatari da file dannosi.
 
-- Si desidera segnalare falsi positivi o falsi negativi a Microsoft? Utilizzare questo [collegamento](https://www.microsoft.com/wdsi/filesubmission/) per inviare i file per l'analisi.
+- **Si desidera segnalare falsi positivi o falsi negativi a Microsoft?** Usa [Esplora invii](https://protection.office.com/reportsubmission).
 
-- Lo sapevate che è possibile abilitare la protezione dei collegamenti sicuri per la posta elettronica interna inviata tra i destinatari all'interno dell'organizzazione? attenersi alla seguente procedura:
+-** Si è verificato che è possibile abilitare la protezione dei collegamenti sicuri per la posta elettronica interna inviata tra destinatari all'interno dell'organizzazione?** Eseguire la procedura seguente:
 
-  1. Accedere a [https://protection.office.com](https://protection.office.com) e accedere con un account di amministratore globale o amministratore di sicurezza.
+  1. Accedere a [https://protection.office.com](https://protection.office.com) e accedere con un account amministratore globale o amministratore della sicurezza.
 
-  2. Nel riquadro di spostamento a sinistra in **gestione minacce** scegliere **Policy** \> **collegamenti sicuri** per i criteri.
+  2. Nel riquadro di spostamento a sinistra in **Gestione delle minacce** scegliere Collegamenti **sicuri** per i \> **criteri.**
 
-  3. Nei **criteri che si applicano all'intera sezione organizzazione** selezionare il criterio e fare clic su **modifica** .
+  3. Nella sezione **Criteri applicabili all'intera organizzazione** selezionare il criterio e fare clic su **Modifica.**
 
-  4. In **Impostazioni** , abilitare **applica collegamenti sicuri ai messaggi inviati all'interno dell'organizzazione** .
+  4. In **Impostazioni**, abilitare **Applica collegamenti sicuri ai messaggi inviati all'interno dell'organizzazione**.

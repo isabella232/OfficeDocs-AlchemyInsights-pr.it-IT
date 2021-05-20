@@ -13,17 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: afc84866a3dd9ecb30562bd185239c3d1695fd10
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 17e25e4d017f8a829c18a7987dfa332783efc0b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261904"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543785"
 ---
 # <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>L'elenco di completamento automatico scorre sullo schermo in Outlook Desktop
 
-Dopo l'aggiornamento Outlook Desktop versione 2104 (Build 13929.20296), l'elenco di completamento automatico si alza in modo imprevisto e potrebbe scorrere lo schermo. Potresti non visualizzare tutte le voci di Completamento automatico nell'elenco e non puoi scorrere verso l'alto per accedervi.
+Questo problema è stato risolto nella versione 2104 Build 13929.20386. L'aggiornamento con la build fissa dovrebbe passare alla produzione del Canale corrente la settimana del 17 maggio. 
 
-**STATO: ANALISI**  Il team Outlook sta analizzando il problema e aggiornerà questo articolo quando saranno disponibili ulteriori informazioni.
-
-Per lo stato più recente, vedi [Scorrimento dell'elenco](https://support.microsoft.com/office/autocomplete-list-scrolls-off-the-screen-in-outlook-0247f165-697f-4238-b424-b03cd2582e2d?ui=en-US&rs=en-US&ad=US)di completamento automatico fuori dalla schermata in Outlook .
+Per verificare quando la build fissa è disponibile, vedere Cronologia degli aggiornamenti per Microsoft 365 Apps [(elencata per data)](/officeupdates/update-history-microsoft365-apps-by-date).

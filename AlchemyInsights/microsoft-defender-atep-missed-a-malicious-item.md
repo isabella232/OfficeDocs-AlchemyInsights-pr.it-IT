@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3203"
 - "9001221"
-ms.openlocfilehash: 634f6804a7b2bfe5ffde62e972bff541fdf3ff68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c06e9b017170fd23b12b11cf0aac98b2bf53db0d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725195"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544040"
 ---
 # <a name="microsoft-defender-atp-missed-a-malicious-item"></a>Microsoft Defender ATP non ha rilevato un elemento dannoso
 
 - Inviare il file dannoso a Microsoft per l'analisi sul [Microsoft Defender Response Portal](https://www.microsoft.com/wdsi/filesubmission/). 
 - Se è stato eseguito l'accesso, trovare la cronologia di invio di un file in [Microsoft Defender Response Portal](https://www.microsoft.com/wdsi/submissionhistory).
-- Per altre informazioni, vedere [Inviare file per l'analisi](https://docs.microsoft.com/windows/security/threat-protection/intelligence/submission-guide).
+- Per altre informazioni, vedere [Inviare file per l'analisi](/windows/security/threat-protection/intelligence/submission-guide).

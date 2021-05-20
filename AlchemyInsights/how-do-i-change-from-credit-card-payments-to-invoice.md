@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "433"
 - "1500001"
-ms.openlocfilehash: 4358c7ea329b86b49fae7c412d8387a2da7ffe88
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: c34dc93f7ad091c08f23f11cdf0dddea6afb9a04
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602368"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544474"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Come posso passare dai pagamenti con carta di credito alla fattura?
 
 > [!NOTE]
-> È possibile passare al pagamento tramite fattura solo se l'abbonamento è superiore a un determinato importo. È necessario prima pagare qualsiasi saldo in sospeso sulla carta di credito o di debito o sul conto corrente bancario prima di poter passare al pagamento tramite fattura.
+> Il pagamento tramite fattura può essere modificato solo se il costo dell'abbonamento è superiore a un determinato importo. Prima di passare al pagamento tramite fattura, è necessario innanzitutto pagare gli eventuali saldi in sospeso sulla carta di credito o di debito o sul conto corrente bancario.
 
 1. Nell'interfaccia di amministrazione, passare alla pagina **Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Nella scheda **Prodotti** individuare l'abbonamento che si desidera pagare con la modalità di pagamento alternativa.
-3. Seleziona **Altre azioni** (tre puntini), quindi seleziona Sostituisci metodo di **pagamento.**
-4. Nel riquadro **Sostituisci metodo di pagamento** selezionare Aggiungi modalità di **pagamento.**
+2. Nella scheda **Prodotti** trovare l'abbonamento che si vuole pagare con la modalità di pagamento alternativo.
+3. Seleziona i tre puntini (altre azioni), quindi seleziona **Sostituisci metodo di pagamento.**
+4. Nel riquadro **Sostituisci metodo di pagamento** seleziona Aggiungi metodo di **pagamento.**
 5. Nel riquadro **Aggiungi metodo di pagamento** selezionare Fattura o **bonifico bancario.**
-6. Immetti nome, indirizzo e numero di telefono. È inoltre possibile aggiungere un numero di ordine d'acquisto da visualizzare nella fattura.
-7. Al termine, selezionare **Salva.**
+6. Immetti il nome, l'indirizzo e il numero di telefono. È inoltre possibile aggiungere un numero di ordine di acquisto da visualizzare nella fattura.
+7. Al termine, scegli **Salva**.
 
-Per altre informazioni, vedere [Come pagare l'abbonamento.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Per ulteriori informazioni, vedere [Come pagare l'abbonamento.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

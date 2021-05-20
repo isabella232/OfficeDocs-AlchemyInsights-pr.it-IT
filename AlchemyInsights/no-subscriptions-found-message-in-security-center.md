@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 01117bc535df14533e426fd2d31c336fccc75611
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 777fb9b09aa26d166f9971589bda464ccb90f4be
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "49768526"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544112"
 ---
 # <a name="no-subscriptions-found-message-in-the-security-center"></a>Messaggio che informa che non è stato trovato alcun abbonamento nel Security Center
 
-Se durante l'accesso al Microsoft Defender Security Center viene visualizzato il messaggio "Non è stato trovato alcun abbonamento", significa che Azure Active Directory (AAD) usato per far accedere l'utente al portale non dispone di una licenza di Microsoft Defender ATP.  
+Se durante l'accesso a Microsoft Defender Security Center viene visualizzato il messaggio "Nessuna sottoscrizione trovata", l'istanza di Azure Active Directory (AAD) usata per consentire all'utente di accedere al portale non include una licenza di Microsoft Defender ATP.  
 
 Le licenze di Windows E5 e Office E5 sono licenze distinte.
 

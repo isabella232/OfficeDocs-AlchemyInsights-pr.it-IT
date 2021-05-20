@@ -15,23 +15,23 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 9218a6611bf830341b125d331d496a52bc782553
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: bde53301b351359012394304a2236f526a478a32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307418"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544438"
 ---
 # <a name="reactivate-your-subscription"></a>Riattivare l'abbonamento
 
 Se l'abbonamento è scaduto, è stato disabilitato da Microsoft oppure è stato annullato durante il periodo di validità, è possibile riattivarlo nell'interfaccia di amministrazione.
 
 1. Nell'interfaccia di amministrazione, passare alla pagina **Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Nella scheda **Prodotti**, trovare l'abbonamento da riattivare. Selezionare **Altre azioni** (tre puntini), poi **Riattiva l’abbonamento**.
-3. Nel riquadro **Riattiva l’abbonamento** selezionare una modalità di pagamento nell'elenco a discesa oppure selezionare **Aggiungi modalità di pagamento**.
+2. Nella scheda **Prodotti** trovare l'abbonamento che si vuole riattivare. Selezionare i tre puntini (Altre azioni), quindi selezionare **Riattiva l'abbonamento**.
+3. Nel riquadro **Riattiva l’abbonamento**, selezionare una modalità di pagamento nell'elenco a discesa oppure selezionare **Aggiungi modalità di pagamento**.
 4. Selezionare **Salva**.
 
-Per altre informazioni, vedere [Riattiva l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Per altre informazioni, vedere [Riattiva l'abbonamento](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Gestire il rinnovo dell'abbonamento**
 
@@ -43,4 +43,4 @@ Per gestire la fatturazione mensile o annuale si può attivare o disattivare la 
 4. Nel riquadro **Modifica impostazioni fatturazione ricorrente**, selezionare **Attiva**, **Attiva, ma rinnova una volta**, oppure **Disattiva**.
 5. Selezionare **Salva**.
 
-Per altre informazioni, vedere [Attivare o disattivare la fatturazione ricorrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Per altre informazioni, vedere [Attivare o disattivare la fatturazione ricorrente](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

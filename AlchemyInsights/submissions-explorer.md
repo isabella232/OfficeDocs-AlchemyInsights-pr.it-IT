@@ -1,5 +1,5 @@
 ---
-title: 2554 nuova funzionalità per la diagnosi di EOP e ATP
+title: 2554 Nuova funzionalità per diagnosticare EOP e Microsoft Defender per Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: 991b51f6b304f8c9a0ad53ea8f32d70237a0919f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a0ee90b71f54b9b440cdac227243eb64e2b3d1b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726526"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544906"
 ---
-# <a name="new-feature-to-help-diagnose-eop-and-atp"></a>Nuova funzionalità che consente di diagnosticare EOP e ATP
+# <a name="new-feature-to-help-diagnose-eop-and-microsoft-defender-for-office-365"></a>Nuova funzionalità per diagnosticare EOP e Microsoft Defender per Office 365
 
-In qualità di amministratore, è ora possibile segnalare facilmente messaggi di posta elettronica sospetti, URL e contenuti a Microsoft nell' [esploratore invii](https://protection.office.com/reportsubmission). È anche possibile utilizzarlo per comprendere il motivo per cui un messaggio legittimo è stato contrassegnato in modo errato. Per ulteriori informazioni, vedere questo [annuncio](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
+Gli amministratori possono ora segnalare facilmente messaggi di posta elettronica sospetti, URL e contenuto a Microsoft in [Esplora invii.](https://protection.office.com/reportsubmission) È anche possibile utilizzarlo per comprendere perché un messaggio legittimo è stato contrassegnato in modo non corretto. Per ulteriori informazioni, vedere questo [annuncio.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)

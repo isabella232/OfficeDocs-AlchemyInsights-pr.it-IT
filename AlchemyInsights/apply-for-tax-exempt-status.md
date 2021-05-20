@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: a5cb61f750b0233a8b73a36aa35f26d4b3640e1d
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 9f5bdb508f2e1ab884cb199914885ccb6103f2fb
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261753"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543896"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Richiedere l'esenzione fiscale
 
-Preparare la documentazione seguente. È necessario [avviare una richiesta di assistenza](/microsoft-365/admin/contact-support-for-business-products) per richiedere l'esenzione fiscale.
+Preparare la documentazione seguente. È necessario [avviare una richiesta di assistenza](https://go.microsoft.com/fwlink/p/?linkid=518322) per richiedere l'esenzione fiscale.
 
 - **Stati Uniti**: preparare il **Certificato di esenzione fiscale**.
 
@@ -33,4 +33,4 @@ Preparare la documentazione seguente. È necessario [avviare una richiesta di as
 
 - **Portorico**: preparare il **Certificado de Compras Exentas**.
 
-Per altre informazioni, vedere [Informazioni fiscali](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
+Per altre informazioni, vedere [Informazioni fiscali](/microsoft-365/commerce/billing-and-payments/tax-information).
