@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286854"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539972"
 ---
-# <a name="subscription-recurring-billing"></a><span data-ttu-id="f5e62-102">Fatturazione ricorrente della sottoscrizione</span><span class="sxs-lookup"><span data-stu-id="f5e62-102">Subscription recurring billing</span></span>
+# <a name="subscription-recurring-billing"></a><span data-ttu-id="fa501-102">Fatturazione ricorrente della sottoscrizione</span><span class="sxs-lookup"><span data-stu-id="fa501-102">Subscription recurring billing</span></span>
 
-<span data-ttu-id="f5e62-103">Se si desidera sapere quando viene addebitato l'abbonamento mensile o annuale (se la **fatturazione ricorrente** è attivata) o quando scade (se la **fatturazione ricorrente** è disattivata), attenersi alla procedura seguente:</span><span class="sxs-lookup"><span data-stu-id="f5e62-103">If you want to know when your monthly or yearly subscription is billed (if **Recurring billing** is turned on) or when it expires (if **Recurring billing** is turned off), use the following steps:</span></span>
+<span data-ttu-id="fa501-103">Se si desidera sapere quando viene fatturata la  sottoscrizione mensile o annuale (se la fatturazione  ricorrente è attivata) o quando scade (se la fatturazione ricorrente è disattivata), eseguire la procedura seguente:</span><span class="sxs-lookup"><span data-stu-id="fa501-103">If you want to know when your monthly or yearly subscription is billed (if **Recurring billing** is turned on) or when it expires (if **Recurring billing** is turned off), use the following steps:</span></span>
   
-1. <span data-ttu-id="f5e62-104">Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="f5e62-104">In the admin center, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="f5e62-105">Nella scheda **prodotti** individuare la sottoscrizione di cui si desidera conoscere altre informazioni.</span><span class="sxs-lookup"><span data-stu-id="f5e62-105">On the **Products** tab, find the subscription that you want to know more about.</span></span> <span data-ttu-id="f5e62-106">La colonna **stato sottoscrizione** Visualizza la data di rinnovo o di scadenza.</span><span class="sxs-lookup"><span data-stu-id="f5e62-106">The **Subscription status** column shows the renewal or expiration date.</span></span>
-3. <span data-ttu-id="f5e62-107">Per apportare una modifica, selezionare **altre azioni** (tre punti), quindi selezionare **modifica fatturazione ricorrente**.</span><span class="sxs-lookup"><span data-stu-id="f5e62-107">To make a change, select **More actions** (three dots), then select **Edit recurring billing**.</span></span>
-4. <span data-ttu-id="f5e62-108">Nel riquadro **modifica fatturazione ricorrente** **selezionare attiva, attiva** **, rinnova una volta**o **disattivata**.</span><span class="sxs-lookup"><span data-stu-id="f5e62-108">In the **Edit recurring billing** pane, select **On**, **On, renew once**, or **Off**.</span></span>
-5. <span data-ttu-id="f5e62-109">Selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="f5e62-109">Select **Save**.</span></span>
+1. <span data-ttu-id="fa501-104">Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="fa501-104">In the admin center, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="fa501-105">Nella scheda **Prodotti** individuare l'abbonamento di cui si desiderano altre informazioni.</span><span class="sxs-lookup"><span data-stu-id="fa501-105">On the **Products** tab, find the subscription that you want to know more about.</span></span> <span data-ttu-id="fa501-106">Nella **colonna Stato sottoscrizione** viene visualizzata la data di rinnovo o di scadenza.</span><span class="sxs-lookup"><span data-stu-id="fa501-106">The **Subscription status** column shows the renewal or expiration date.</span></span>
+3. <span data-ttu-id="fa501-107">Per apportare una modifica, selezionare i tre puntini (altre azioni), quindi **selezionare Modifica fatturazione ricorrente.**</span><span class="sxs-lookup"><span data-stu-id="fa501-107">To make a change, select the three dots (more actions), then select **Edit recurring billing**.</span></span>
+4. <span data-ttu-id="fa501-108">Nel riquadro **Modifica fatturazione ricorrente** selezionare **On,** **On, Renew once** o **Off.**</span><span class="sxs-lookup"><span data-stu-id="fa501-108">In the **Edit recurring billing** pane, select **On**, **On, renew once**, or **Off**.</span></span>
+5. <span data-ttu-id="fa501-109">Selezionare **Salva**.</span><span class="sxs-lookup"><span data-stu-id="fa501-109">Select **Save**.</span></span>
 
-<span data-ttu-id="f5e62-110">Per altre informazioni, vedere [Attivare o disattivare la fatturazione ricorrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="f5e62-110">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).</span></span>
+<span data-ttu-id="fa501-110">Per altre informazioni, vedere [Attivare o disattivare la fatturazione ricorrente](/microsoft-365/commerce/subscriptions/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="fa501-110">To learn more, see [Turn recurring billing off or on](/microsoft-365/commerce/subscriptions/renew-your-subscription).</span></span>
