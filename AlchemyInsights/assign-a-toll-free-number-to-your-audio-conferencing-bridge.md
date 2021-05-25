@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821118"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626081"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Assegnare un numero verde al bridge di audioconferenza
 
 Per assegnare il nuovo numero di telefono al bridge di audioconferenza:
 
-1. Accedere a Office 365 con l'account aziendale.
-2. Passare all'**interfaccia di amministrazione di Microsoft 365 > Interfacce di amministrazione > Teams e Skype > Voce >Numeri di telefono**.
-3. Selezionare il numero di telefono dall'elenco e nel riquadro **Azioni** fare clic su **Assegna**.
-4. Nella pagina **Assegna** fare clic su **Salva**.
+1. Accedere all'interfaccia di amministrazione di Microsoft Teams.
+1. Nel riquadro di spostamento sinistro, passare a **Riunioni** > **Bridge di conferenza**.
+1. Evidenziare il numero a pagamento del servizio che si vuole configurare come predefinito.
+1. Selezionare **Imposta come predefinito**.
 
-Per altre informazioni, vedere [Cambiare i numeri di telefono del bridge di audioconferenza](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
+Per altre informazioni, vedere [Cambiare i numeri di telefono del bridge di audioconferenza](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).

@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: fb2ade4eff0e62d8c4d57202fd4420d564e5cc86
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 639f7d824f6fe84b8ac469106458355c40c6bdb3
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830658"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626153"
 ---
 # <a name="self-service-password-reset-sspr"></a>Reimpostazione della password self-service
 
 - [Pianificare una distribuzione della reimpostazione della password self-service](https://go.microsoft.com/fwlink/?linkid=2142944)  
 
     oppure
-- [Registrare le informazioni di contatto della Reimpostazione della password self-service](https://go.microsoft.com/fwlink/?linkid=849451), che è abilitata per impostazione predefinita per gli amministratori
+- [Registrare le informazioni di contatto della Reimpostazione della password self-service](https://mysignins.microsoft.com/security-info), che è abilitata per impostazione predefinita per gli amministratori
 
     Per ulteriori informazioni, vedere:
 
-    Configurazione di base della reimpostazione della password self-service - [Consentire agli utenti di reimpostare le loro password](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)
+    Configurazione di base della reimpostazione della password self-service - [Consentire agli utenti di reimpostare le loro password](/microsoft-365/admin/add-users/let-users-reset-passwords)
 
-    [Domande frequenti sulla reimpostazione della password self-service](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
+    [Domande frequenti sulla reimpostazione della password self-service](/azure/active-directory/authentication/active-directory-passwords-faq)
 
-    [Risoluzione dei problemi correlati alla reimpostazione della password self-service](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
+    [Risoluzione dei problemi correlati alla reimpostazione della password self-service](/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
