@@ -1,5 +1,5 @@
 ---
-title: Problemi durante la migrazione dei dati in SharePoint Online
+title: Problemi durante la migrazione dei dati a SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700891"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694780"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemi durante la migrazione dei dati in SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemi durante la migrazione dei dati a SharePoint Online
 
-**Migrazione su 100TB di dati**
+**Migrazione di oltre 100 TB di dati**
 
-Viene visualizzato che si sta eseguendo la migrazione su 100TB di dati in SharePoint Online. Seguire i passaggi riportati di seguito, in modo da potervi aiutare al più presto possibile. 
+Sembra che si sta eseguendo la migrazione di oltre 100 TB di dati a SharePoint Online. Segui i passaggi seguenti in modo che possiamo assisterti il prima possibile. 
 
-1. Selezionare una **nuova richiesta di servizio**e quindi una **nuova richiesta di servizio**. 
-2. Lasciare il titolo e la descrizione come **migrazione di SharePoint su 100TB**.
-3. Dopo aver inviato il ticket, aggiornarlo con le seguenti informazioni: 
+1. Selezionare **Contatta il supporto** e quindi Nuova richiesta di **servizio.** 
+2. Lasciare il titolo e la descrizione **SharePoint migrazione oltre 100 TB.**
+3. Una volta inviato il ticket, aggiornarlo con le informazioni seguenti: 
 
     - Le dimensioni stimate della migrazione.
     - Una stima di quando si desidera avviare e completare la migrazione.
-    - Descrivere la posizione in cui si esegue la migrazione del contenuto, ad esempio SharePoint Server, box, GDrive, condivisioni di file e così via.
+    - Descrivere da dove eseguire la migrazione del contenuto, ad esempio SharePoint Server, Box, GDrive, condivisioni file e così via.

@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733853"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696962"
 ---
 # <a name="11-call-recording"></a>Registrazione delle chiamate 1:1
 
-Gli amministratori devono intervenire ora per continuare a consentire agli utenti di registrare le chiamate 1:1.
- 
-A partire dal 12 aprile 2021, inizieremo ad applicazione di una nuova opzione dei criteri di chiamata di Teams *AllowCloudRecordingForCalls.* 
+Se il **pulsante Avvia** registrazione è disattivato in una chiamata 1:1, è necessario modificare le impostazioni dei criteri per l'utente che ha subito l'impatto.   
 
-Attualmente le funzionalità di registrazione delle chiamate 1:1 sono controllate dall'opzione *AllowCloudRecording* in Criteri riunione di Teams. Se gli utenti sono autorizzati a registrare riunioni di Teams, possono anche registrare chiamate 1:1.
+A partire dal 31 maggio 2021, inizieremo a far rispettare un nuovo Teams criteri di chiamata *AllowCloudRecordingForCalls.* Prima di questa modifica, la registrazione delle chiamate 1:1 è controllata dal criterio *AllowCloudRecording* Teams Riunione. Questa modifica è documentata nel post del Centro messaggi: [(Aggiornato) 1:1 Introduzione ai](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)criteri di registrazione delle chiamate .  
 
-Se si preferisce impedire a tutti gli utenti di registrare chiamate 1:1, non è necessario eseguire alcuna azione. L'opzione del criterio di chiamata *AllowCloudRecordingForCalls* $False per impostazione predefinita.
+*AllowCloudRecordingForCalls*   l'opzione dei criteri di chiamata è **$False** per impostazione predefinita. Se si preferisce impedire a tutti gli utenti di registrare chiamate 1:1, non è necessario eseguire alcuna azione.  
 
-Questa modifica è documentata nel post del Centro messaggi seguente: (Aggiornato) Introduzione ai criteri di registrazione delle chiamate [1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Per impostare l'opzione Criteri di chiamata di Teams, è necessario utilizzare [Teams PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-install)
+Per abilitare la registrazione delle chiamate per tutti gli utenti nelle chiamate 1:1, utilizzare Teams PowerShell per eseguire il cmdlet seguente: 
 
-Per abilitare la registrazione delle chiamate nelle chiamate **1:1:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-**Per disabilitare la registrazione delle chiamate in chiamate 1:1:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+In alternativa, puoi creare un nuovo criterio e impostare **-AllowCloudRecordingForCalls** su **$true** e assegnare tale criterio agli utenti. 
 
+Per ulteriori informazioni, vedere [1:1 Call Recording Policy Controls Are (Almost!) Qui](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).
