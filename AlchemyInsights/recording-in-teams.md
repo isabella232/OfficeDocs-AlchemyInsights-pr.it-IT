@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809767"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697034"
 ---
 # <a name="recording-in-teams"></a>Registrazione in Teams
 
-Ora è possibile archiviare le registrazioni delle riunioni di Microsoft Teams in OneDrive o SharePoint. Per altre informazioni e per acconsentire esplicitamente, vedere il post seguente del Centro messaggi: [(Aggiornato) Microsoft Teams: registrazioni delle riunioni salvate in OneDrive e SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+Se in una riunione in Teams il pulsante **Avvia registrazione** dell’utente appare in grigio o è mancante, provare a eseguire la diagnostica della registrazione della riunione digitando **Diag: registrazione riunione** nella casella qui sopra. 
 
-Lo spostamento della posizione di archiviazione in OneDrive o SharePoint elimina il requisito precedente che nella propria area geografica sia disponibile Stream.
+Le registrazioni delle riunioni di Teams possono ora essere archiviate in OneDrive e SharePoint. Spostando il percorso archivio su OneDrive e SharePoint si risolve il problema per cui le registrazioni delle riunioni non funzionavano perché Stream non è disponibile nell'area dell'utente. Per altre informazioni, vedere le [Domande frequenti su Microsoft Stream](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
 
-Per informazioni su come **abilitare e configurare la funzionalità di registrazione** in Teams per l'organizzazione, **tra cui i controlli per abilitare o disabilitare la registrazione della riunione per specifici utenti**, vedere [Registrazione della riunione di Teams nel cloud](https://docs.microsoft.com/microsoftteams/cloud-recording).
+Per ulteriori informazioni sul salvataggio delle registrazioni delle riunioni, vedere l’articolo sul Centro messaggi: [(Aggiornato) Microsoft Teams: registrazioni delle riunioni salvate in OneDrive e Sharepoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640).
 
-Se **non si riesce a effettuare una registrazione in Teams o se si vuole capire come registrare** in Teams, provare con le indicazioni contenute negli articoli seguenti:
+Per informazioni su come abilitare e configurare la funzionalità di registrazione in Teams per l'organizzazione, tra cui i controlli per abilitare o disabilitare la registrazione della riunione per specifici utenti, vedere  [Registrazione della riunione di Teams nel cloud](/microsoftteams/cloud-recording). 
 
-- Se non si è ancora acconsentito esplicitamente a usare lo spazio di archiviazione di OneDrive o SharePoint per la registrazione delle riunioni di Teams, queste funzionalità si basano sulla disponibilità di Stream nel paese e nell'area geografica dell'utente. Se non si riesce a registrare una riunione assicurarsi che [Stream sia disponibile nel proprio paese o area geografica](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Per altre informazioni, vedere il post del Centro messaggi seguente nel portale di amministrazione: [Funzionalità aggiornata: controllo dello spazio di archiviazione regionale per le registrazioni cloud di Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+Se non si riesce ancora a effettuare una registrazione in Teams o se si vuole capire come registrare in Teams, vedere: 
 
-- Registrazione della riunione in Teams [richiede l'assegnazione di licenze e criteri specifici](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), tra cui le licenze di Stream per caricare o scaricare la registrazioni.
+[Funzionalità aggiornata: controllo dello spazio di archiviazione regionale per le registrazioni cloud di Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- Dopo aver verificato che tutti i requisiti siano soddisfatti, incluse le licenze, i criteri e la disponibilità regionale di Stream, vedere [Registrare una riunione in Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+La registrazione della riunione in Teams richiede specifiche licenze e criteri assegnati, tra cui le licenze di Stream per caricare o scaricare la registrazioni su Microsoft Stream. Per ulteriori informazioni, vedere [Prerequisiti per la registrazione delle riunioni di Teams nel cloud](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording).
+
+Dopo aver verificato che tutti i requisiti siano soddisfatti, incluse le licenze, i criteri e la disponibilità regionale di Stream, vedere  [Registrare una riunione in Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24). 
