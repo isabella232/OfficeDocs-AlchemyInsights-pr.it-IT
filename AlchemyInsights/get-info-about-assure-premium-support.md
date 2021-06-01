@@ -13,22 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: 5a796eb736c995eac9be390593096a4a6c006f7f
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 56a5b3a452a353044807792a86a76b7e6e33c1b0
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426843"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702058"
 ---
-# <a name="get-info-about-assure-and-premium-assisted-software-support"></a>Ottenere informazioni sul Supporto software assistito Assure e Premium
+# <a name="get-info-about-premium-assisted-software-support"></a>Ottenere informazioni sul Supporto software assistito Premium
 
-Microsoft offre diverse opzioni individuali per il supporto assistito per software Windows e Office:
+Microsoft offre opzioni individuali per il supporto assistito per software Windows e Office:
 
-- **Supporto software Assure**: un anno di supporto software Office e Windows
 - **Supporto tecnico Windows Premium**: supporto una tantum per software Windows
+
 - **Supporto tecnico Office Premium**: supporto una tantum per software Office
 
-Per altre informazioni, vedere [Opzioni di supporto software assistito: Assure e Premium](https://support.microsoft.com/help/4467230/assisted-software-support-options-assure-premium).
-
-Se è già stato acquistato un abbonamento ad Assure ed è necessaria ulteriore assistenza, digitare **parla con un operatore** nel riquadro chat sottostante e indicare al rappresentante che si dispone di un abbonamento ad Assure.
+**Nota:** se si è già sottoscritto un abbonamento Assure, tenere presente che non è più disponibile come opzione di supporto. L'abbonamento corrente rimane valido per la durata dell'acquisto, ma non può essere rinnovato.
 
