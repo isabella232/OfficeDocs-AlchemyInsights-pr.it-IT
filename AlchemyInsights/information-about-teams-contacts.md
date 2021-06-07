@@ -13,26 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: 49f813e7ae4942c11033260d5abd62827a92da1b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c855ce4df75cd169719d51f380de2e3f0a348394
+ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898316"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "52783117"
 ---
 # <a name="information-about-teams-contacts"></a>Informazioni sui contatti di Teams
-
-Se i contatti non vengono sincronizzati per uno o più utenti, eseguire le operazioni seguenti:
-- Verificare che la cassetta postale di Exchange dell'utente sia ospitata online (non in locale). Per altre informazioni, vedere [Interazione tra Exchange e Microsoft Teams](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
-- Assicurarsi che il numero di telefono del contatto sia aggiunto alle informazioni di contatto.
 
 Teams usa questi contatti:
 
 - Contatti nell'ambiente Active Directory dell'organizzazione
 - Contatti aggiunti alla cartella predefinita di Outlook dell'utente
 
-Gli utenti di Teams possono comunicare con chiunque nell’istanza di Active Directory dell'organizzazione e aggiungere chiunque nell’istanza di Active Directory dell'organizzazione come contatto e al proprio elenco di contatti passando a **Chat > Contatti o Chiamate > Contatti**.
+Se i contatti non sono completi o non vengono sincronizzati per uno o più utenti, eseguire le operazioni seguenti:
 
-Gli utenti di Teams possono anche aggiungere come contatto una persona non presente nell’istanza di Active Directory dell'organizzazione passando a **Chiamate > Contatti**.
+- Verificare che la cassetta postale di Exchange dell'utente sia ospitata online (non in locale). Per altre informazioni, vedere [Interazione tra Exchange e Microsoft Teams](/microsoftteams/exchange-teams-interact).
+- Assicurarsi che il numero di telefono del contatto sia aggiunto alle informazioni di contatto.
+- Cercare il messaggio di posta elettronica del contatto nella barra **Cerca**. I contatti recuperati vengono sincronizzati con l'elenco Contatti.
 
 
