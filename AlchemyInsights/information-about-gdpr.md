@@ -1,5 +1,5 @@
 ---
-title: Informazioni su GDPR
+title: Informazioni sul GDPR
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,25 +12,27 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 9c879512c5fbdfafe6162490cafacd0f409792db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
+ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755665"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52853873"
 ---
-# <a name="information-about-gdpr"></a>Informazioni su GDPR
+# <a name="information-about-gdpr"></a>Informazioni sul GDPR
 
-- Iniziare a utilizzare il [Service Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- [GDPR semplificato: Una guida per la tua piccola impresa](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- Per qualsiasi elemento relativo al **contratto di elaborazione dei dati** (DPA), vedere:
+- Informazioni di base con Service [Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
-  - [Risorse per la protezione dei dati](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+- Per qualsiasi elemento correlato al **DPA (Data Processing Agreement),** esaminare:
+
+  - [Risorse di protezione dei dati](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
   - [Report di controllo](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Le informazioni sulle **richieste del soggetto dei dati** (DSR)-Discover, Access, rettifica, Restrict, DELETE, Export sono [qui.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Information on **Data Subject Requests** (DSR): individuare, accedere, rettificare, limitare, eliminare, esportare è [qui.](/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Sono disponibili informazioni sulla **notifica di violazione dei dati** [.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- Informazioni sulla **notifica di violazione dei dati** sono disponibili [qui.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
-- Sono disponibili informazioni sulle **posizioni dei dati** [.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Le informazioni **sulle posizioni dei dati** sono disponibili [qui.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
