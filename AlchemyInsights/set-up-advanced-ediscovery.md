@@ -2,6 +2,7 @@
 title: Configurare Advanced eDiscovery
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: f3a74bf74fb0786227e3f6c9bd53af1c8bebe098
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
+ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795536"
+ms.lasthandoff: 06/10/2021
+ms.locfileid: "52882693"
 ---
 # <a name="set-up-advanced-ediscovery"></a>Configurare Advanced eDiscovery
 
-Advanced eDiscovery consente di analizzare i dati non strutturati per contribuire a ridurre i costi di eDiscovery. È possibile applicare analisi del testo, apprendimento automatico e pertinenza/codifica predittiva.  La funzionalità Advanced eDiscovery richiede una delle opzioni seguenti:
+Con Advanced eDiscovery, è possibile applicare l’analisi del testo, l’apprendimento automatico e la pertinenza/codifica predittiva. La funzionalità Advanced eDiscovery richiede una delle opzioni seguenti:
 
 - Abbonamento a Microsoft 365 E5 o a Office 365 E5
 
@@ -39,4 +40,6 @@ Di seguito è riportata una panoramica generale dei passaggi per la configurazio
 
 **4. Creare un caso di eDiscovery**
 
-Per informazioni sui passaggi necessari per configurare Advanced eDiscovery, vedere la [guida introduttiva a Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide).
+Per informazioni sui passaggi necessari per configurare Advanced eDiscovery, vedere la [guida introduttiva a Advanced eDiscovery](/microsoft-365/compliance/get-started-with-advanced-ediscovery).
+
+Per informazioni su come creare e gestire i casi, vedere [Creare e gestire casi di Advanced eDiscovery in Microsoft 365](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case).
