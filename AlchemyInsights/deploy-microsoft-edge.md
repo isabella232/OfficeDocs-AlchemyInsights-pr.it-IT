@@ -12,13 +12,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9139"
+- "11088"
 - "9005291"
-ms.openlocfilehash: ad2c42ad77cd4a4606365bc616547846ae3c2c65
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
+- "9006490"
+ms.openlocfilehash: 9a51b0cbf6ccb0254ea2ef162530067bbfb5f215
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50529361"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989757"
 ---
 # <a name="deploy-microsoft-edge"></a>Distribuzione di Microsoft Edge
 
@@ -26,8 +28,8 @@ Dopo aver definito i criteri e aver terminato i test di compatibilità delle app
 
 Per la distribuzione di Microsoft Edge, sono disponibili gli strumenti seguenti:
 
-- [Microsoft Intune per Windows](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge) o [Microsoft Intune per macOS](https://docs.microsoft.com/mem/intune/apps/apps-edge-macos)
-- [Configuration Manager](https://docs.microsoft.com/DeployEdge/deploy-edge-with-configuration-manager)
+- [Microsoft Intune per Windows](/mem/intune/apps/apps-windows-edge) o [Microsoft Intune per macOS](/mem/intune/apps/apps-edge-macos)
+- [Configuration Manager](/DeployEdge/deploy-edge-with-configuration-manager)
 - Un altro strumento che usa il [file MSI per Microsoft Edge](https://www.microsoft.com/edge/business/download)
 
 **Convalidare la distribuzione**
@@ -39,5 +41,5 @@ Dopo la distribuzione del gruppo pilota, è consigliabile acquisire feedback deg
 
 **Distribuzione ampia di Microsoft Edge**
 
-Dopo aver distribuito il progetto pilota e aggiornato il piano di distribuzione con le informazioni apprese, è tutto pronto per eseguire una distribuzione completa di Microsoft Edge a tutti gli utenti. Congratulazioni.
+Dopo aver distribuito il progetto pilota e aggiornato il piano di distribuzione con le informazioni apprese, è tutto pronto per eseguire una distribuzione completa di Microsoft Edge a tutti gli utenti. Congratulazioni!
 
