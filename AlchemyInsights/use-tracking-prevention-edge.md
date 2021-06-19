@@ -12,20 +12,22 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "8328"
+- "10979"
 - "9004625"
-ms.openlocfilehash: 09e9a7303063328cd7bd0a0fcbf9629a3b38ebb5
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
+- "9006450"
+ms.openlocfilehash: beaa5dcc7f2e07ca3b2339fe43a759acf3a342b0
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408788"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989865"
 ---
 # <a name="use-tracking-prevention-in-microsoft-edge-chromium"></a>Usare la prevenzione del rilevamento in Microsoft Edge (Chromium)
 
-La prevenzione del rilevamento in Microsoft Edge limita la possibilità di un tracker di accedere all'archiviazione basata su browser e alla rete. La funzionalità è stata progettata per sostenere il nostro impegno ad aiutare gli utenti a rimanere al sicuro sul Web con Microsoft Edge. Per altre informazioni, vedere [Prevenzione del rilevamento in Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135435) e [La nostra promessa sulla privacy del browser](https://go.microsoft.com/fwlink/?linkid=2135350).
+Alcuni siti Web usano i tracker per raccogliere le informazioni del browser. Sono state integrate protezioni per limitare l'accesso alle informazioni basate su browser e offrire opzioni aggiuntive per personalizzare il livello di sicurezza.
 
-Microsoft Edge offre tre livelli di prevenzione del rilevamento (che possono essere selezionati in edge://settings/privacy):
+- **Di base**. È il livello meno restrittivo e progettato per gli utenti che amano gli annunci pubblicitari personalizzati e non si preoccupano di essere tracciati sul Web. Il livello minimo protegge gli utenti da tracker dannosi, come fingerprinter e cryptominer.
+- **Bilanciato**. È il livello predefinito e progettato per gli utenti che vogliono vedere meno annunci pubblicitari che li seguono sul Web. Un livello bilanciato blocca non solo i tracker dai siti con cui gli utenti non interagiscono mai ma anche riduce al minimo il rischio di problemi di compatibilità.
+- **Restrittivo**. È il livello più restrittivo e progettato per gli utenti che non si preoccupano di sacrificare la compatibilità del sito Web per la massima privacy.
 
-- **Livello minimo** è il livello meno restrittivo e progettato per gli utenti che amano gli annunci pubblicitari personalizzati e non si preoccupano di essere tracciati sul Web. Il livello minimo protegge gli utenti solo da tracker dannosi, come fingerprinter e cryptominer.
-- **Bilanciato** è il livello predefinito e progettato per gli utenti che vogliono vedere meno annunci pubblicitari che li seguono sul Web. Un livello bilanciato mira non solo a bloccare i tracker dai siti con cui gli utenti non interagiscono mai ma anche a ridurre al minimo il rischio di problemi di compatibilità.
-- **Restrittivo** è il livello più restrittivo e progettato per gli utenti che non si preoccupano di sacrificare la compatibilità del sito Web per la massima privacy.
+Se vuoi aggiornare le impostazioni di privacy, nel browser Edge vai a **Impostazioni** > **Privacy, ricerca e servizi**. È possibile aggiornare le impostazioni di prevenzione del rilevamento, bloccare i tracker, cancellare i dati di esplorazione ed esplorare altre opzioni di privacy e sicurezza per proteggere i dati. Per ulteriori informazioni, vedere [Prevenzione del rilevamento in Microsoft Edge](/microsoft-edge/web-platform/tracking-prevention). 

@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721640"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023107"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Import service
 
@@ -29,9 +29,9 @@ Per accedere al servizio di importazione e avviare il processo di importazione:
 
 1. Nel riquadro sinistro del Centro conformità M365 in **Soluzioni** selezionare **Importa governance**  >  **delle informazioni**.
 
-1. Nella pagina **Importa** selezionare **Nuovo processo di importazione.**
+1. Nella pagina **Importa** selezionare **Nuovo processo di importazione.** Immettere il nome di un processo e selezionare **Avanti.**
 
-1. Per completare i passaggi della procedura guidata, vedere [Use network upload to import your organization's PST files to Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
+1. Selezionare **Upload i dati per** utilizzare l'opzione di caricamento di rete per il tipo di processo di **importazione.** Per la procedura dettagliata, vedere [Use network upload to import your organization's PST files to Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
 
 Per accedere **alla pagina** Importa, assicurarsi di disporre delle autorizzazioni appropriate. Per altre info, vedi [Uso del caricamento di rete per importare file PST.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
