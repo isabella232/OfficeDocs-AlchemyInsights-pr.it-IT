@@ -1,5 +1,5 @@
 ---
-title: Abilitare lo strumento di esportazione di Office 365 eDiscovery in Microsoft Edge
+title: Abilitare Office 365 strumento di esportazione eDiscovery in Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576460"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023179"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a><span data-ttu-id="b3718-102">Abilitare lo strumento di esportazione di Office 365 eDiscovery in Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="b3718-102">Enable Office 365 eDiscovery Export Tool in Microsoft Edge</span></span>
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a><span data-ttu-id="de8f1-102">Abilitare Office 365 strumento di esportazione eDiscovery in Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="de8f1-102">Enable Office 365 eDiscovery Export Tool in Microsoft Edge</span></span>
 
-<span data-ttu-id="b3718-103">Il supporto per ClickOnce non è più abilitato in Microsoft Edge per impostazione predefinita.</span><span class="sxs-lookup"><span data-stu-id="b3718-103">Support for ClickOnce is no longer enabled in Microsoft Edge by default.</span></span> <span data-ttu-id="b3718-104">Per continuare a utilizzare lo strumento di esportazione di Microsoft Office 365 eDiscovery, è necessario utilizzare Microsoft Internet Explorer o abilitare l'opzione di supporto ClickOnce in Microsoft Edge basato su cromo, come indicato di seguito:</span><span class="sxs-lookup"><span data-stu-id="b3718-104">To continue using the Microsoft Office 365 eDiscovery Export Tool, you'll need to use Microsoft Internet Explorer or enable the ClickOnce Support option in Chromium-based Microsoft Edge, as follows:</span></span>
+<span data-ttu-id="de8f1-103">Per impostazione predefinita, il supporto per ClickOnce non è più abilitato in Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="de8f1-103">Support for ClickOnce is no longer enabled in Microsoft Edge by default.</span></span> <span data-ttu-id="de8f1-104">Per continuare a utilizzare lo strumento di esportazione di eDiscovery di Microsoft Office 365, è necessario utilizzare Microsoft Internet Explorer o abilitare l'opzione supporto ClickOnce in Chromium-based Microsoft Edge, come indicato di seguito:</span><span class="sxs-lookup"><span data-stu-id="de8f1-104">To continue using the Microsoft Office 365 eDiscovery Export Tool, you'll need to use Microsoft Internet Explorer or enable the ClickOnce Support option in Chromium-based Microsoft Edge, as follows:</span></span>
 
-1. <span data-ttu-id="b3718-105">Andare a edge://flags/#edge-fare clic-una volta.</span><span class="sxs-lookup"><span data-stu-id="b3718-105">Go to edge://flags/#edge-click-once.</span></span>
-1. <span data-ttu-id="b3718-106">Per l'opzione di **supporto ClickOnce** , modificare il valore **predefinito** o **disabilitato** su **abilitato**.</span><span class="sxs-lookup"><span data-stu-id="b3718-106">For the **ClickOnce Support** option, change the value from **Default** or **Disabled** to **Enabled**.</span></span>
-1. <span data-ttu-id="b3718-107">Nella parte inferiore della finestra del browser fare clic su **Riavvia**.</span><span class="sxs-lookup"><span data-stu-id="b3718-107">At the bottom of the browser window, click **Restart**.</span></span> <span data-ttu-id="b3718-108">La modifica avrà effetto dopo aver riavviato Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="b3718-108">The change will take effect after you restart Microsoft Edge.</span></span>
+1. <span data-ttu-id="de8f1-105">Vai a edge://flags/#edge-click-once.</span><span class="sxs-lookup"><span data-stu-id="de8f1-105">Go to edge://flags/#edge-click-once.</span></span>
+1. <span data-ttu-id="de8f1-106">Per **l'ClickOnce supporto** tecnico, modificare il valore da **Predefinito** o **Disabilitato a** **Abilitato.**</span><span class="sxs-lookup"><span data-stu-id="de8f1-106">For the **ClickOnce Support** option, change the value from **Default** or **Disabled** to **Enabled**.</span></span>
+1. <span data-ttu-id="de8f1-107">Nella parte inferiore della finestra del browser fare clic su **Riavvia**.</span><span class="sxs-lookup"><span data-stu-id="de8f1-107">At the bottom of the browser window, click **Restart**.</span></span> <span data-ttu-id="de8f1-108">La modifica verrà applicata al riavvio di Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="de8f1-108">The change will take effect after you restart Microsoft Edge.</span></span>
 
-<span data-ttu-id="b3718-109">Per ulteriori informazioni, vedere [utilizzare lo strumento di esportazione di eDiscovery di Office 365 in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).</span><span class="sxs-lookup"><span data-stu-id="b3718-109">To learn more, see [Use the Office 365 eDiscovery Export Tool in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).</span></span>
+<span data-ttu-id="de8f1-109">Per ulteriori informazioni, vedere [Use the Office 365 eDiscovery Export Tool in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).</span><span class="sxs-lookup"><span data-stu-id="de8f1-109">To learn more, see [Use the Office 365 eDiscovery Export Tool in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).</span></span>
