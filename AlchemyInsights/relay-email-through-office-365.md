@@ -13,18 +13,24 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 56936541c52e56d7aa9b0f5dad7b9a359c5b6185
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3b07dd4ccc8570e77a9ce30df48f9ac987a1db71
+ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809659"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53117987"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>Configurare un dispositivo multifunzione o un'applicazione per l'invio di posta elettronica
 
-Per informazioni sulle opzioni e le procedure, vedere [Come configurare un dispositivo multifunzione o un'applicazione per l'invio di posta elettronica con Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
+Per informazioni sulle opzioni e le procedure, vedere [Come configurare un dispositivo multifunzione o un'applicazione per l'invio di posta elettronica con Microsoft 365](/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
   
-**Nota:** se si dispone di un dispositivo o di un'applicazione che di recente ha smesso di funzionare, tenere presente che da qualche tempo è stata avviata la [disattivazione della crittografia 3DES](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption) come previsto. Per vedere i dispositivi interessati, andare al [Report sui client di autenticazione SMTP](https://protection.office.com/mailflow/dashboard). Gli errori più comuni riguardano autenticazione, TLS, algoritmo di crittografia, algoritmo non corrispondente o connessione interrotta. Per risolvere il problema:
+Se di recente un dispositivo o un'applicazione ha smesso di funzionare, i motivi più comuni sono:
 
- - **Windows Server 2003 IIS SMTP smetteranno di funzionare ed è necessaria una versione più recente di Windows.**  
- - Contattare il fornitore dell'applicazione o del dispositivo per verificare se è supportata una crittografia moderna o se è disponibile un aggiornamento.
+- **Errori correlati all'autenticazione durante l'utilizzo dell'invio del client di autenticazione SMTP**: di recente sono state apportate alcune modifiche relative al funzionamento dell'autenticazione SMTP. Per altre informazioni su come risolvere i problemi, vedere la sezione relativa alle autenticazioni non riuscite di [Risolvere i problemi relativi a stampanti, scanner e applicazioni line-of-business che inviano messaggi di posta elettronica tramite Microsoft 365 o Office 365](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off#error-authentication-unsuccessful).
+- **Microsoft accetta solo la versione TLS 1.2 durante la connessione sicura a Office 365**: se si usa la connessione protetta (TLS), verificare che il dispositivo dell'applicazione supporti TLS 1.2. Per altre informazioni, vedere [Preparazione per TLS 1.2 in Office 365 e Office 365 GCC](/microsoft-365/compliance/prepare-tls-1.2-in-office-365).
+ 
+Per altri problemi e soluzioni, vedere [Risolvere i problemi relativi a stampanti, scanner e applicazioni line-of-business che inviano posta elettronica usando Microsoft 365 o Office 365](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off).
+
+Per vedere i dispositivi interessati, passare al [Report sui client di autenticazione SMTP](https://protection.office.com/mailflow/dashboard).
+
+**Nota**: Exchange Online non supporta gli scenari di invio di posta elettronica in blocco. Per inviare messaggi di posta elettronica commerciali in blocco, ad esempio newsletter per i clienti, è necessario usare provider di terze parti specializzati per questi servizi.
