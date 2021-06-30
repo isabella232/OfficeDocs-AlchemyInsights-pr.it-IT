@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d5db78a8427c45c272a72435f2bf1e485a3a366b
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544834"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195524"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Si riceve troppo phish o posta indesiderata nella cassetta postale?
 
@@ -27,3 +27,7 @@ Come amministratore Microsoft 365, il modo migliore per determinare il motivo pe
 Per renderlo più semplice, puoi consentire agli utenti di segnalare direttamente a Microsoft tramite il componente aggiuntivo [Segnala messaggio.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
 **Lo sai?**: ora puoi inviare gli esempi direttamente da [Traccia](https://security.microsoft.com/messagetrace) messaggi e I clienti di E5/Microsoft Defender per Office 365 Piano 2 possono inviare campioni da [Threat Explorer.](/microsoft-365/security/office-365-security/threat-explorer)
+
+Per ulteriori informazioni sull'invio di messaggi per l'analisi nel portale Microsoft 365 Defender, vedere il video [Submitting samples for analysis](https://go.microsoft.com/fwlink/?linkid=2166435).
+
+Per altre informazioni sull'analisi dei falsi negativi in Microsoft Defender per Office 365, vedi il video [False negative strategy](https://go.microsoft.com/fwlink/?linkid=2166434).
