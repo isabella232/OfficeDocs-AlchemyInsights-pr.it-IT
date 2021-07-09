@@ -1,5 +1,5 @@
 ---
-title: Supporto di Microsoft Edge per la protezione delle applicazioni Microsoft Defender
+title: Microsoft Edge supporto di Microsoft Defender Application Guard
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576548"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346066"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Supporto di Microsoft Edge per la protezione delle applicazioni Microsoft Defender
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge supporto di Microsoft Defender Application Guard
 
-Progettata per Windows 10 e Microsoft Edge, Application Guard utilizza un approccio di isolamento hardware che consente a un utente di accedere a un sito non attendibile dall'interno di un contenitore isolato, Hyper-V abilitato, separato dal sistema operativo host.
+Microsoft Defender for Identity offre una posizione centrale in cui gli amministratori possono identificare, rilevare e analizzare le minacce di identità locali. 
 
-Un amministratore dell'organizzazione definisce un elenco di siti attendibili, risorse cloud e reti interne. Quando un utente visita un sito non presente nell'elenco, Microsoft Edge aprirà il sito nel contenitore. Ciò significa che se il sito risulta essere dannoso, il PC host rimarrà protetto e l'utente malintenzionato non otterrà i dati dell'organizzazione.
+Usa la [guida alla configurazione di Microsoft Defender for Identity](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) per verificare di aver soddisfatto tutti i prerequisiti dell'ambiente; creare un'istanza, connettersi ad Active Directory e installare il sensore. 
 
-L'installazione delle estensioni nel contenitore è supportata da Microsoft Edge versione 81 e può essere controllata tramite un criterio. L'indirizzo updateURL utilizzato nei criteri di ExtensionInstallForcelist deve essere aggiunto come risorsa neutra nei criteri di isolamento della rete utilizzati dalla protezione dell'applicazione.
-
-Per altre informazioni, vedere [supporto Microsoft Edge per Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2134229).
+Al termine, le identità degli utenti vengono monitorate e può essere intrapresa un'azione immediata contro qualsiasi attività dannosa che compromette l'organizzazione.
