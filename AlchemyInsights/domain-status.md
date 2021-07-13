@@ -13,16 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: f5b3a07f05b31b05e2105fb1f6efbe23fb630179
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 66fae5b5602dd67954ac9208b26bc2005adda0e3
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52107527"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389185"
 ---
 # <a name="domain-status---no-services-selected"></a>Stato dominio - Nessun servizio selezionato
 
-Uno stato di integrità del dominio è disponibile dopo aver connesso il dominio direttamente a Microsoft 365 servizi, ad esempio Exchange. A tale scopo, accedere all'Microsoft 365 di amministrazione e selezionare **Record DNS**  >  **Manage DNS**.
+**Nessun servizio** selezionato significa che non hai selezionato alcun servizio Microsoft 365 come Exchange Online, Skype for Business o Intune e Gestione dispositivi mobili per Microsoft 365 da usare con il dominio personalizzato. Se si usa Exchange ibrido (Exchange locale con Exchange Online) o il filtro posta indesiderata esterno con Exchange e nessun altro servizi Microsoft, è possibile ignorare questo messaggio. Lo stato di integrità del dominio è disponibile solo per i domini connessi direttamente al servizio.
 
-Se non è possibile connettere il dominio direttamente ai Microsoft 365, lo stato di integrità del dominio non è disponibile. Ad esempio, quando si utilizza il routing DNS personalizzato per la posta elettronica, i servizi di filtro della posta indesiderata esterni o si utilizzano sia Exchange locale che Exchange Online (denominata anche distribuzione ibrida).
+Per selezionare i servizi per il dominio:
+
+1. Da **Impostazioni**, selezionare la casella accanto al dominio con  >  [](https://admin.microsoft.com/Adminportal/Home)il messaggio di stato Nessun **servizio selezionato.**
+1. Selezionare **Gestisci DNS per** avviare l'Installazione guidata dominio.
+    - Se si sceglie **Aggiungi record DNS personalizzati,** assicurarsi di selezionare un servizio quando richiesto. Altri servizi potrebbero essere disponibili in **Opzioni avanzate.**
+    - Se si sceglie **Consenti a Microsoft di aggiungere** i record DNS o Altre opzioni Configura i miei servizi online per me tutti i servizi disponibili vengono suggeriti   >   e selezionati automaticamente.
+1. Continuare con la procedura guidata per completare la configurazione DNS e le scelte del servizio.
+ 
+Per ulteriori informazioni sulla configurazione del dominio, vedere [Add DNS records to connect your domain](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
