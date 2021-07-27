@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539648"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532259"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Come pubblicare un'etichetta di riservatezza
 
-1. Passare a Centro sicurezza e conformità di Office 365 > **Classificazione** > **Etichette di riservatezza**.
+1. Passare a Centro conformità Microsoft 365 > **Protezione delle informazioni** > **Criteri delle etichette**.
 
-1. Nella pagina Etichette di riservatezza, selezionare la scheda **Criteri delle etichette** quindi selezionare **Pubblica etichette**.
+1. Selezionare **+ Pubblica etichetta** per avviare la procedura guidata Nuova etichetta di riservatezza.
 
 1. Selezionare **Scegliere le etichette di riservatezza da pubblicare**. Selezionare le etichette che si vogliono rendere disponibili nelle app e per i servizi e quindi selezionare **Aggiungi**.
 

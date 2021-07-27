@@ -2,41 +2,40 @@
 title: Sincronizzare l'immagine del profilo di un utente
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 2bda15b7ebe4f3b71669b961a6e5bf36fd6260a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5b55402dc3c6eb4826451ee2b4076db26773318
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673790"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532151"
 ---
 # <a name="sync-a-users-profile-picture"></a>Sincronizzare l'immagine del profilo di un utente
 
-È possibile aggiungere o modificare la foto del profilo in Microsoft 365 da Office.com o durante l'utilizzo di applicazioni Microsoft nel computer o in un browser sul telefono. La foto viene visualizzata ovunque vi sia un cerchio foto profilo in Microsoft 365.
+Puoi aggiungere o modificare la foto del profilo in Microsoft 365 da Office.com o usando le applicazioni Microsoft nel computer o in un browser nel telefono. La foto viene visualizzata ovunque sia presente un cerchio di foto del profilo Microsoft 365.
 
-Per aggiungere la foto del profilo a Microsoft 365 for business:
+Per aggiungere la foto del profilo a Microsoft 365 per le aziende:
 
-1. Trovare una foto che si desidera utilizzare e archiviarla nel computer, in OneDrive o in un'altra posizione a cui è possibile accedere.
+1. Trova una foto che vuoi usare e archiviala nel computer, OneDrive o in un'altra posizione a cui puoi accedere.
 
-2. Accedere a Microsoft 365 con l'account aziendale o dell'Istituto di istruzione su [Office.com](https://www.office.com).
+2. Accedi Microsoft 365 con il tuo account aziendale o dell'istituto di istruzione [all'indirizzo office.com](https://www.office.com).
 
-3. Selezionare il cerchio nell'angolo in alto a destra della pagina in cui vengono visualizzate le iniziali o un'icona di una persona.
+3. Seleziona il cerchio nell'angolo superiore destro della pagina che mostra le iniziali o un'icona di una persona.
 
-4. Nel riquadro account personali, selezionare il cerchio che visualizza le iniziali o un'icona di una persona. Modificare la foto nella finestra popup visualizzata.
+4. Nel riquadro Account personali selezionare il cerchio che mostra le iniziali o un'icona di una persona. Modifica la foto nel popup visualizzato.
 
-**Note** Se è già stata caricata un'immagine, è consigliabile provare a selezionare il riquadro di SharePoint o OneDrive per risincronizzare l'immagine.
+**Nota:** se un'immagine del profilo degli utenti è diversa SharePoint rispetto ad altre applicazioni Microsoft, fare in modo che l'utente completi questi passaggi:
 
-Se un'immagine del profilo utenti è diversa in SharePoint rispetto ad altre applicazioni Microsoft, eseguire la procedura seguente:
+1. Aprire una sessione del browser privata (InPrivate/in incognito).
+1. Vai a [Microsoft Office 365](https://www.office.com).
+1. Selezionare l SharePoint a icona.
+1. Passare a un sito o a una pagina in cui la foto non viene aggiornata o a una pagina in cui l'utente è incluso in una web part Utenti.
 
-1. Aprire una sessione del browser privata (InPrivate/incognito).
-2. Passare a [https://www.office.com](https://www.office.com/).
-3. Selezionare l'icona di SharePoint.
-4. Passare a un sito o a una pagina in cui la foto non viene aggiornata o a una pagina in cui l'utente è incluso in una Web part utenti.
-
-Per ulteriori informazioni, vedere [informazioni sulla sincronizzazione delle immagini dei profili in Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
+Per ulteriori informazioni, vedere [Informazioni sulla sincronizzazione delle immagini del profilo in Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
 
