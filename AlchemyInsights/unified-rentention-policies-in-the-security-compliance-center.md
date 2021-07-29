@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669215"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630145"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>Criteri di conservazione unificati nel Centro sicurezza e conformità
 
@@ -31,6 +31,6 @@ I criteri di conservazione consentono di gestire i contenuti dell'organizzazione
       
 Per ulteriori dettagli sui criteri di conservazione per contenuti come la posta di Exchange, i contenuti di OneDrive, SharePoint e Teams, vedere [Panoramica dei criteri di conservazione](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Se si usano i criteri di conservazione affiancati nell'interfaccia di amministrazione di Exchange e nel Centro sicurezza e conformità, vedere questo consiglio per [usare i criteri di conservazione anziché funzionalità precedenti](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+Se si usano i criteri di conservazione affiancati nell'interfaccia di amministrazione di Exchange e nel Centro sicurezza e conformità, vedere questo consiglio per [usare i criteri di conservazione anziché funzionalità precedenti](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features).  
     
-Per informazioni specifiche sulla conservazione in Teams, vedere [Criteri di conservazione in Teams](https://docs.microsoft.com/microsoftteams/retention-policies).
+Per informazioni specifiche sulla conservazione in Teams, vedere [Criteri di conservazione in Teams](/microsoftteams/retention-policies).
