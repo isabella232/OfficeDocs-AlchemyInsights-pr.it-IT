@@ -1,6 +1,6 @@
 ---
 title: Ottenere i log di controllo
-ms.author: pebuam
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/16/2021
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "10964"
 - "3100005"
-ms.openlocfilehash: ec772e925436aff4924889211f2219f255bb57f1
-ms.sourcegitcommit: 974bf19f4262841ab2bfd81c10a243eab05484c4
+ms.openlocfilehash: 49743b1e9158319ecb80f0a007d8d73930888df1
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51871435"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630109"
 ---
 # <a name="retrieve-the-audit-logs"></a>Ottenere i log di controllo
 
 Quando si apre per la prima volta un log di controllo, questo è vuoto. È necessario effettuare una ricerca per analizzare il contenuto. Ecco come eseguire una ricerca generale per tutte le attività:
 
-1. Andare alla pagina di ricerca dei log di controllo (o Interfacce di amministrazione > **Centro sicurezza e conformità** > **Ricerca e indagine** > **Ricerca log di controllo**).
+1. Andare alla pagina di Ricerca log di audit (o Interfacce di amministrazione > **Centro conformità Microsoft 365** > **Ricerca e indagine** > **Ricerca log di audit**).
 
 1. Nella casella **Attività**, accettare **Mostra risultati per tutte le attività**, l'impostazione predefinita.
 
