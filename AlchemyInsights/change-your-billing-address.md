@@ -3,6 +3,8 @@ title: Modificare l'indirizzo di fatturazione
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, tugu
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,15 +13,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
+- commerce_billing
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 4addf495f0879376ee7b40e2c57ac6e72aa41455
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 88af5b4a2ef679307189c4eef5ada86965bc799e
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818212"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685414"
 ---
 # <a name="change-your-billing-address"></a>Modificare l'indirizzo di fatturazione
 
@@ -32,7 +35,7 @@ La fattura contiene tre indirizzi.
 3. Nella pagina **Dettagli metodo di pagamento** fare clic su **Modifica.**
 4. Aggiorna l'indirizzo di fatturazione, quindi fai clic su **Salva > fatto**.
 
-Per altre info sulle modifiche all'indirizzo e alle notifiche, vedi [Modificare gli indirizzi di fatturazione per Microsoft 365 per le aziende.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)
+Per altre info sulle modifiche all'indirizzo e alle notifiche, vedi Modificare gli indirizzi di fatturazione [per Microsoft 365 per le aziende.](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
 **Modificare le informazioni sull'account di fatturazione**
 

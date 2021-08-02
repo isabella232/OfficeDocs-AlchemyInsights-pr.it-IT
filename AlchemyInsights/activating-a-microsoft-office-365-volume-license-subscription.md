@@ -1,9 +1,9 @@
 ---
-title: Attivazione di un abbonamento a contratti multilicenza Microsoft
+title: Attivazione di una sottoscrizione con contratti multilicenza Microsoft
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,23 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: b98f8c2da22e07c6e99e04c7e7e06f4d9b1fbcc7
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.date: 04/21/2020
+ms.openlocfilehash: f00526f507826cf4e58967531fff73183461e3b9
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307181"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685810"
 ---
-# <a name="activating-a-microsoft-volume-license-subscription"></a>Attivazione di un abbonamento a contratti multilicenza Microsoft
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Attivazione di una sottoscrizione con contratti multilicenza Microsoft
 
-1. Accedere al [portale VLSC (Volume Licensing Service Center)](https://go.microsoft.com/fwlink/p/?LinkId=329762).
-2. Passare alla sottoscrizione e scegliere **attiva**.
-3. Viene inviato un messaggio di posta elettronica al contatto dei servizi online (OLS).
-4. Il messaggio di posta elettronica di attivazione fornisce due opzioni: **Iscriviti**o **Accedi**. Se in precedenza è stata creata una versione di valutazione, scegliere **Accedi**. Se non si dispone ancora di un tenant Microsoft 365, scegliere **Iscriviti**.
-5. Accedere all'interfaccia di amministrazione di Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) utilizzando le credenziali di amministratore esistenti. Dopo aver effettuato l'accesso, si riceverà un altro messaggio di posta elettronica che conferma l'acquisto.
-6. Dopo aver effettuato l'accesso, passare alla pagina **fatturazione** dei \> [prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054) per verificare che le sottoscrizioni acquistate siano attive. 
+1. Accedi al portale del Centro servizi per contratti [multilicenza (VLSC).](https://go.microsoft.com/fwlink/p/?LinkId=329762)
+2. Passare all'abbonamento e scegliere **Attiva**.
+3. Un messaggio di posta elettronica viene inviato al contatto dei Servizi online (OLS).
+4. Il messaggio di posta elettronica di attivazione offre due **opzioni:** Iscriviti o **Accedi.** Se in precedenza hai creato una versione di valutazione, scegli **Accedi.** Se non si dispone ancora di un tenant Microsoft 365, scegliere **Iscriviti.**
+5. Accedere al interfaccia di amministrazione di Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) utilizzando le credenziali di amministratore esistenti. Dopo aver eseguito correttamente l'accesso, riceverai un altro messaggio di posta elettronica che conferma l'acquisto.
+6. Dopo aver effettuato l'accesso, vai alla pagina **Fatturazione** i tuoi prodotti per verificare che le sottoscrizioni acquistate \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) siano ora attive. 
     > [!NOTE]
-    > È inoltre possibile scegliere la scheda **sottoscrizione** in VLSC per visualizzare i dettagli per verificare che l'abbonamento sia stato attivato.
+    > È inoltre possibile scegliere la **scheda** Sottoscrizione in VLSC per visualizzare i dettagli che verificano che l'abbonamento sia stato attivato.

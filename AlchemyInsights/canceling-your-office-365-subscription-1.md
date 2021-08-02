@@ -3,6 +3,7 @@ title: Annullare l'Microsoft 365 abbonamento?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 audience: Admin
 ms.topic: article
@@ -11,21 +12,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 485bfab1afac5f025cb28204638b987440dfaab2
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 33c0aaca36aab200c98aedf1bae7785520166e65
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543257"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688078"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Annullare l'Microsoft 365 abbonamento?
 
 Siamo spiacenti di vederti andare, ecco i passaggi per annullare l'abbonamento:
 
 1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione**  >  **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** e quindi selezionare la **scheda** Prodotti.
-2. Trovare l'abbonamento da annullare. Seleziona i tre punti (altre azioni), quindi seleziona **Annulla sottoscrizione.**
+2. Trovare l'abbonamento da annullare. Selezionare i tre puntini (Altre azioni) e quindi **Annulla abbonamento**.
 3. Nel riquadro **Annulla abbonamento** scegliere un motivo per cui si vuole annullare l'abbonamento. Se si vuole, inviare un feedback.
 4. Selezionare **Salva**.
 

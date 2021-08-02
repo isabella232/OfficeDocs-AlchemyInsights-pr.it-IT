@@ -3,6 +3,7 @@ title: Sottoscrizione scaduta
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 23deea0e03b1d9a2208de38d16018a3679e8add3
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544186"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686782"
 ---
 # <a name="expired-subscription"></a>Sottoscrizione scaduta
 
@@ -27,7 +29,7 @@ Sembra che tu abbia una o più sottoscrizioni scadute. Se si desidera continuare
 **Riattivare**
   
 1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Nella scheda **Prodotti**, trovare l'abbonamento da riattivare. Seleziona i tre punti (altre azioni), quindi seleziona **Riattiva questa sottoscrizione.**
+2. Nella scheda **Prodotti** trovare l'abbonamento che si vuole riattivare. Selezionare i tre puntini (Altre azioni), quindi selezionare **Riattiva l'abbonamento**.
     > [!NOTE]
     > Se l'opzione Riattiva **questa sottoscrizione** non è visualizzata, chiamare il supporto tecnico.
 3. Nel riquadro **Riattiva l’abbonamento**, selezionare una modalità di pagamento nell'elenco a discesa oppure selezionare **Aggiungi modalità di pagamento**.

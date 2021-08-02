@@ -1,5 +1,5 @@
 ---
-title: È necessario spostare un numero di telefono da un provider a Microsoft?
+title: È necessario spostare un numero Telefono da un provider a Microsoft?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,19 +11,21 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1e5837034130f7d03220d28c1da1fa619b6fe64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712152"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689410"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Trasferire numeri di telefono esistenti in Teams
 
-Se attualmente si ha un provider o un gestore di servizi telefonici e sono già stati assegnati numeri di telefono per utenti o servizi, è necessario creare un "ordine di trasferimento" per trasferire tali numeri in Microsoft Teams.
+Se attualmente si ha un provider o un gestore di servizi telefonici e sono già stati assegnati numeri di telefono per utenti o servizi, è necessario creare un "ordine di trasferimento" per trasferire tali numeri in Microsoft Teams.  
 
-- Per informazioni su come completare il trasferimento, vedere [Trasferire numeri di telefono in Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams). 
+Per creare un nuovo ordine di porta o per verificarne uno esistente, attenersi alla seguente procedura: 
 
-- Per informazioni su come gestire i numeri di telefono, consultare [Gestire i numeri di telefono per la propria organizzazione](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). 
+1. Passare [all'Teams di amministrazione per](https://admin.teams.microsoft.com/phone-numbers) aprire la pagina Telefono numeri di telefono. 
 
-Per altre informazioni, vedere la [panoramica sull'ordine di trasferimento](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
+1. Seleziona **Ottieni il collegamento di supporto per il numero di telefono**. 
+
+Per accedere direttamente al supporto dei numeri di telefono, [vedere Telefono Number Service Center](https://pstnsd.powerappsportals.com/).  
