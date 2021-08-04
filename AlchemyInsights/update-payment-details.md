@@ -3,6 +3,8 @@ title: Aggiornare le informazioni sulla carta di credito
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8aa177ed01fbd6c3b5c3e99ce5300111b19c76d5
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830325"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685522"
 ---
 # <a name="update-credit-card-information"></a>Aggiornare le informazioni sulla carta di credito
 
@@ -41,4 +44,4 @@ ms.locfileid: "51830325"
 
 Se si verificano problemi durante il caricamento delle pagine, provare ad aprire la pagina Web in un browser diverso oppure in una finestra del browser privata, ad esempio una finestra InPrivate di Microsoft Edge o una finestra di navigazione in incognito in Google Chrome. 
 
-Per altre informazioni, vedere [Gestire i metodi di pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Per altre informazioni, vedere [Gestire i metodi di pagamento](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

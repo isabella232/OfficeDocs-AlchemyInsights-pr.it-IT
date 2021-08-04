@@ -3,6 +3,8 @@ title: Regolare manualmente un saldo insoluto
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +12,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001506"
 - "9147"
 - "1500012"
 - "9689"
 - "1500018"
 - "9690"
-ms.openlocfilehash: c2b9f6142772f4afa9146b79fb9797acba611cff
-ms.sourcegitcommit: 1e00da0b3665f54e377cbe28809b2d1e1db4bd4b
+ms.openlocfilehash: a08036976b7f9c962a68e782d9b5a11df14dceeb
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51451694"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688510"
 ---
 # <a name="manually-pay-an-outstanding-balance"></a>Regolare manualmente un saldo insoluto
 
@@ -32,4 +35,4 @@ Alcuni cambiamenti nelle normative bancarie relative alle transazioni ricorrenti
 3. Nel pannello a destra, scegliere il metodo di pagamento corrente, selezionare un altro metodo di pagamento o aggiungere un nuovo metodo di pagamento, quindi selezionare **Regola saldo**.
 4. Se la banca lo richiedesse, sarà necessario fornire ulteriori informazioni di sicurezza e autenticazione.
 
-Per altre informazioni, consultare [Gestisci i metodi di pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)e [Pagamento dell'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Per altre informazioni, consultare [Gestisci i metodi di pagamento](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)e [Pagamento dell'abbonamento](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
