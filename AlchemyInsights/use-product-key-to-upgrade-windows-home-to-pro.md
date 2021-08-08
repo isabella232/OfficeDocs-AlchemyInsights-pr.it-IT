@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10116"
 - "9005600"
-ms.openlocfilehash: 473cea5752dcbfcd7687b17c8e026d53bfe2022e
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: e1afdf755e6b8cd8a65ba753a6a9d2f2bf064d8fb7fbb1543848f29ac499d17a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908390"
 ---
 # <a name="use-a-product-key-to-upgrade-windows-10-home-to-windows-10-pro"></a>Usare un codice Product Key per aggiornare Windows 10 Home a Windows 10 Pro
 
@@ -37,4 +37,4 @@ Se Windows 10 Pro è già stato installato e attivato sul dispositivo, si dispor
     - Se si dispone di una licenza digitale per Windows 10 Pro e Windows 10 Home al momento è attivato sul dispositivo, selezionare **Vai al Microsoft Store** e verrà richiesto se eseguire l'aggiornamento gratuito a Windows 10 Pro.
     - Se si dispone di una licenza digitale per Windows 10 Pro e Windows 10 Home al momento non è attivato sul dispositivo, selezionare **Risoluzione dei problemi**, quindi seguire i passaggi per eseguire l'aggiornamento a Windows 10 Pro.
 
-**Nota**: per ulteriori informazioni sull'attivazione in Windows 10, vedere[Attivare Windows 10](https://support.microsoft.com/windows/activate-windows-10-c39005d4-95ee-b91e-b399-2820fda32227).
+**Nota**: per ulteriori informazioni sull'attivazione in Windows 10, vedere [Attivare Windows 10](https://support.microsoft.com/windows/activate-windows-10-c39005d4-95ee-b91e-b399-2820fda32227).

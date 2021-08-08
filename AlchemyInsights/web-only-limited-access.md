@@ -1,5 +1,5 @@
 ---
-title: Web-Only accesso limitato
+title: Accesso limitato solo online
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004169"
 - "7314"
-ms.openlocfilehash: 9f53219bd504425295302500965dc526cbf75106
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1f62a3fff61dd005423574e77c70cedb4e3516d3012c69b0095246aa194154e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907922"
 ---
-# <a name="web-only-limited-access"></a>Web-Only accesso limitato
+# <a name="web-only-limited-access"></a>Accesso limitato solo online
 
-Web-Only accesso limitato è una variante del livello di autorizzazione ' accesso limitato ' che consente l'accesso degli utenti solo all'oggetto Web.
+Web-Only Accesso limitato è una variante del livello di autorizzazione "Accesso limitato" che consente solo l'accesso degli utenti all'oggetto Web.
 
-Per ulteriori informazioni, vedere [livelli di autorizzazione predefiniti](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels).
+Per ulteriori informazioni, vedere [Livelli di autorizzazione predefiniti.](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels)

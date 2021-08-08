@@ -1,5 +1,5 @@
 ---
-title: File bloccati per la modifica
+title: I file sono bloccati per la modifica
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,24 +14,24 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664498"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907814"
 ---
 # <a name="why-cant-i-edit-files"></a>Perché non è possibile modificare i file?
 
 Ecco alcuni motivi per cui [potrebbe non essere possibile modificare il file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Se si dispone di raccolte con le colonne o i metadati di **checkout, required** o **Validation** o quando la **bozza di sicurezza degli elementi** è impostata su **solo gli utenti che possono modificare** o **solo gli utenti autorizzati ad approvare gli elementi** nelle impostazioni della versione della raccolta:
+Se si dispone di raccolte  con colonne o  metadati Di  estrazione, Obbligatorio o  Convalida o quando La sicurezza elementi bozza è impostata su Solo gli utenti che possono modificare o Solo gli utenti che possono approvare gli elementi nella versione Impostazioni della raccolta: 
 
-- Per le raccolte documenti di SharePoint, questi elementi verranno sincronizzati come di sola lettura.
+- Per SharePoint raccolte documenti, questi elementi verranno sincronizzati in sola lettura.
 
-- Per le raccolte di OneDrive, OneDrive mostrerà un'icona di blocco (OneDrive file bloccato) accanto allo stato di sincronizzazione e l'utente non sarà in grado di sincronizzare la raccolta fino a quando le impostazioni citate non sono state rimosse. 
+- Per le raccolte OneDrive, OneDrive mostrerà un'icona di blocco ( icona bloccata file OneDrive ) accanto allo stato di sincronizzazione e l'utente non sarà in grado di sincronizzare la raccolta fino a quando le impostazioni menzionate non saranno state rimosse. 
 
-Per ulteriori informazioni sui file bloccati per Word o Excel, fare riferimento agli articoli riportati di seguito.
+Per ulteriori informazioni sui file bloccati per Word o Excel, fare riferimento agli articoli seguenti.
 
 - [Durante la modifica di un file di Office viene visualizzato il messaggio di errore "Caricamento non riuscito" o "Non è stato possibile salvare automaticamente".](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 

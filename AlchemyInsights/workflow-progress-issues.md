@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 77f7f3b68ea4c99f39049b90f3feaf2f7f9b1364
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f5fa5f8afdfacbefb071f6899b75c397b26705379d11bb1958c3d7f7be499b1f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664462"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907778"
 ---
-# <a name="intermittent-delays-with-workflow-progress"></a>Ritardi intermittenti con lo stato del flusso di lavoro
+# <a name="intermittent-delays-with-workflow-progress"></a>Ritardi intermittenti con l'avanzamento del flusso di lavoro
 
-Se il flusso di lavoro non è avviato, potrebbe verificarsi un problema di servizio temporaneo in cui gli utenti potrebbero riscontrare ritardi intermittenti con lo stato del flusso di lavoro. Controllare il [Dashboard dell'integrità del servizio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) per verificare se l'organizzazione ha un impatto. 
+Se il flusso di lavoro non viene avviato, potrebbe verificarsi un problema temporaneo del servizio in cui gli utenti potrebbero subire ritardi intermittenti con l'avanzamento del flusso di lavoro. Controllare il [dashboard di integrità del](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) servizio per verificare se l'organizzazione è influenzata. 
 
-Se sono passate più di 24 ore da quando hai visto questo problema, registra un ticket di supporto. In molti casi, stiamo già lavorando a una soluzione. Per completare una soluzione, è possibile fornirci almeno 24 ore.
+Se sono trascorse più di 24 ore dalla prima volta che hai visto questo problema, registra un ticket di supporto. In molti casi, stiamo già lavorando a una soluzione. Fornire almeno 24 ore per completare una soluzione.
 
 
   

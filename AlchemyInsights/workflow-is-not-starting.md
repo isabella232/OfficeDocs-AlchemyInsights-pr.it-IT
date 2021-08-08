@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 77a3c022a9a3a82041b4a4a70c72c2e0940c0fba27f296f07881e3abebf1e464
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907742"
 ---
 # <a name="workflow-is-not-starting"></a>Flusso di lavoro non avviato
 
-- I flussi di lavoro di SharePoint 2010 e SharePoint 2013 non vengono avviati.
+- SharePoint 2010 e SharePoint 2013 non vengono avviati.
 
     - Se il flusso di lavoro non viene avviato, potrebbe verificarsi un problema temporaneo del servizio in cui gli utenti potrebbero subire ritardi intermittenti con l'avanzamento del flusso di lavoro. Controllare il [dashboard di integrità del](https://admin.microsoft.com/AdminPortal/Home/servicehealth) servizio per verificare se l'organizzazione è influenzata.
 
     - Se sono trascorse più di 24 ore dalla prima volta che hai visto questo problema, registra un ticket di supporto. In molti casi, stiamo già lavorando a una soluzione. Fornire almeno 24 ore per completare una soluzione.
 
-- Flussi di lavoro di SharePoint 2010 ritardati all'avvio.
+- SharePoint flussi di lavoro 2010 ritardati all'avvio.
 
     - Ciò si verifica se il flusso di lavoro viene attivato in batch di grandi dimensioni. (ad esempio, quando vengono aggiunti più elementi contemporaneamente).
 
@@ -36,7 +36,7 @@ ms.locfileid: "51403747"
 
    -  Se il flusso di lavoro è complesso XMOL (Extensible Object Markup Language), la compilazione può essere lenta. Controlla [questo](https://support.microsoft.com//kb/3043697) articolo.
 
-    - È consigliabile semplificare il flusso di lavoro o riprogettare il flusso di lavoro utilizzando il tipo di piattaforma flusso di lavoro di Microsoft SharePoint 2013.
+    - È consigliabile semplificare il flusso di lavoro o riprogettare il flusso di lavoro utilizzando il tipo di piattaforma Microsoft SharePoint 2013 Workflow.
 
     - Se la cronologia del flusso di lavoro è aumentata, è possibile eliminare gli elementi o creare un nuovo elenco della cronologia.
 
@@ -44,6 +44,6 @@ ms.locfileid: "51403747"
 
 
 ## <a name="related-topics"></a>Argomenti correlati
-Si desidera provare Microsoft Flow in SharePoint Online?
-- [Create Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint e Flusso](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Vuoi provare a Microsoft Flow in SharePoint Online?
+- [Creare Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint e Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
