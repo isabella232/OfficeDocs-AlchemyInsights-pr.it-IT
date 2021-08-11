@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: a025ff3684fdd453130e73c0f023a6b321d4209c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4f899b44fd3e2daf7291c95bb72779eb7d4940f21894dae50e7f3a82c6b3ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909938"
 ---
 # <a name="solutions-for-error-30016-4"></a>Soluzioni per l'errore 30016-4
 
-Quando si tenta di disinstallare Microsoft 365 Apps for Enterprise da un computer e si riceve il messaggio di errore, **qualcosa è andato storto 30016-4**, significa che l'unità **% Temp%** è mappata a un'unità diversa da **% ProgramFiles%**.
+Quando si tenta di disinstallare Microsoft 365 Apps for enterprise da un computer e viene visualizzato il messaggio di errore, Si è verificato un problema **30016-4,** significa che l'unità **%temp%** è mappata a un'unità diversa da **%ProgramFiles%**.
   
-Per correggere, scaricare e installare l' [Assistente di supporto e ripristino](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+Per risolvere il problema, scaricare e [installare il Assistente supporto e ripristino](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Quando viene aperto, da **Disinstalla prodotti Office** selezionare la versione che si desidera disinstallare e selezionare **Avanti**.
+1. All'apertura, da **Disinstalla Office prodotti selezionare** la versione che si desidera disinstallare e selezionare **Avanti**.
 
 2. Continuare a scorrere le schermate e riavviare il computer quando richiesto.
 
-    Dopo aver riavviato, l'Assistente di supporto e ripristino viene riaperto automaticamente per completare il processo di disinstallazione.
+    Dopo il riavvio, il Assistente supporto e ripristino si riapre automaticamente per completare il processo di disinstallazione.
 
 3. Seguire le istruzioni rimanenti e [reinstallare Office](https://portal.office.com/OLS/MySoftware.aspx) o chiudere l'assistente.

@@ -1,5 +1,5 @@
 ---
-title: Onboard dei dispositivi a Microsoft Defender for Endpoint
+title: Aggiungere dispositivi a Microsoft Defender per endpoint
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736527"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967481"
 ---
-# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Onboard dei dispositivi a Microsoft Defender for Endpoint
+# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Aggiungere dispositivi a Microsoft Defender per endpoint
 
-Microsoft Defender for Endpoint offre un'esperienza operativa di sicurezza centralizzata per le piattaforme Windows e non Windows. Ti aiuta a proteggere la rete dell'organizzazione e a usare Microsoft Defender Security Center per esaminare gli avvisi di vari sistemi operativi supportati:
+Microsoft Defender for Endpoint offre un'esperienza operativa di sicurezza centralizzata per Windows e non Windows. Consente di proteggere la rete dell'organizzazione e di usare Microsoft Defender Security Center per esaminare gli avvisi di vari sistemi operativi supportati:
 
-- Per **i computer Windows 10,** vedi Strumenti e metodi di [onboarding per i dispositivi Windows 10.](https://go.microsoft.com/fwlink/?linkid=2143460)
-- Per **i server Windows,** vedere [Onboard server to the Microsoft Defender for Endpoint service](https://go.microsoft.com/fwlink/?linkid=2143627).
-- Per **gli endpoint non Windows,** verifica che il sistema soddisfi i requisiti per [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) o [Linux](https://go.microsoft.com/fwlink/?linkid=2143462)e quindi passa [all'onboarding.](https://go.microsoft.com/fwlink/?linkid=2143628)
+- Per **Windows 10,** vedi Strumenti e metodi [di onboarding per Windows 10 dispositivi](https://go.microsoft.com/fwlink/?linkid=2143460).
+- Per **Windows server**, vedere [Onboard server to the Microsoft Defender for Endpoint service](https://go.microsoft.com/fwlink/?linkid=2143627).
+- Per **gli endpoint non Windows**, verificare che il sistema soddisfi i requisiti per [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) o [Linux](https://go.microsoft.com/fwlink/?linkid=2143462)e quindi procedere con [l'onboarding.](https://go.microsoft.com/fwlink/?linkid=2143628)
