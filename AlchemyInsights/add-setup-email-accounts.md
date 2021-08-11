@@ -1,5 +1,5 @@
 ---
-title: 764 aggiungere/configurare gli account di posta elettronica
+title: 764 Aggiungere/configurare account di posta elettronica
 ms.author: pdigia
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: b33bbb346fdbfe3a27512b3dfaf6e3c07e5a7b04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d7e015bd79addc9a1abe1a9a7973fe923c934bf60c2891f4454c13622a2b8a9f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935521"
 ---
 # <a name="set-up-email-accounts"></a>Configurare gli account di posta elettronica
 
-1. In Outlook fare clic **File**su  >  **Info**  >  **Aggiungi account**informazioni file.
+1. In Outlook, fare clic **su File**  >  **Info**  >  **Aggiungi account.**
 
-2. Immettere l'indirizzo di posta elettronica e quindi fare clic su **Connetti**.
+2. Immetti l'indirizzo di posta elettronica e quindi fai clic **su Connessione**.
 
-3. Immettere la password e fare clic su **OK**.
+3. Immettere la password e fare clic su **OK.**
 
 4. È possibile ripetere questi passaggi per aggiungere più account.
 
-**Nota**: alcuni account di posta elettronica, ad esempio Gmail, Yahoo e iCloud, richiedono di configurare l'autenticazione a due fattori per poter utilizzare Outlook per inviare e ricevere posta elettronica. Per ulteriori informazioni, vedere [aggiungere un account di posta elettronica a Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
+**Nota:** alcuni account di posta elettronica, ad esempio Gmail, Yahoo e iCloud, richiedono di configurare l'autenticazione a due fattori per usare Outlook per inviare e ricevere posta elettronica. Per [ulteriori informazioni, vedere Add an email account to Outlook.](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)
   

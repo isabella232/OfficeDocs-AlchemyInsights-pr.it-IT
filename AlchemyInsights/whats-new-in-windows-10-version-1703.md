@@ -1,5 +1,5 @@
 ---
-title: Novità di Windows 10, versione 1703
+title: Novità di Windows 10 versione 1703
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003894"
 - "6948"
-ms.openlocfilehash: b2b8882a3a4c2b527c1a6eb8300b810a539599c8
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 0e4dea85d86d768fce69f3c1aa5269a84d5103f6c908c72928d39bfc9143dd76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970695"
 ---
-# <a name="whats-new-in-windows-10-version-1703"></a>Novità di Windows 10, versione 1703
+# <a name="whats-new-in-windows-10-version-1703"></a>Novità di Windows 10 versione 1703
 
-Ecco cosa c'è di nuovo nelle caratteristiche di tecnologia IT (Information Technology) Pro in Windows 10, versione 1703, noto anche come aggiornamento dei creatori:
+Ecco le novità delle funzionalità di Information Technology (IT) pro in Windows 10 versione 1703, nota anche come Creators Update:
 
 1. [Configurazione](https://go.microsoft.com/fwlink/?linkid=2114188)
 1. [Distribuzione](https://go.microsoft.com/fwlink/?linkid=2114365)    
 1. [Sicurezza](https://go.microsoft.com/fwlink/?linkid=2114366)
 1. [Aggiornamento](https://go.microsoft.com/fwlink/?linkid=2114189)
 1. [Gestione](https://go.microsoft.com/fwlink/?linkid=2114367)
-1. [Miglioramenti di Windows 10 per dispositivi mobili](https://go.microsoft.com/fwlink/?linkid=2114368)
-1. [Miracast su rete wireless o LAN esistente](https://go.microsoft.com/fwlink/?linkid=2114190)
+1. [Windows 10 Mobile miglioramenti](https://go.microsoft.com/fwlink/?linkid=2114368)
+1. [Miracast rete wireless o LAN esistente](https://go.microsoft.com/fwlink/?linkid=2114190)
