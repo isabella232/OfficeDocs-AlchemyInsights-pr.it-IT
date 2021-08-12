@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: cc09331d58503f5f44d8b942d81a00235ddf1585
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2d3b906de6ebc9190acc947846f8c3f260f8ccd2197dd5cb04daa9c2dffbac97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834771"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955898"
 ---
 # <a name="managing-microsoft-stream-licenses"></a>Gestione delle licenze di Microsoft Stream
 
@@ -25,4 +25,4 @@ ms.locfileid: "51834771"
 
 Devi essere un amministratore globale o un amministratore di Gestione utenti. Per ulteriori informazioni, vedere [Informazioni sui ruoli di amministratore.](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)
 
-È possibile [assegnare licenze agli account utente con PowerShell di Office 365.](https://go.microsoft.com/fwlink/p/?linkid=850410)
+È possibile [assegnare licenze agli account utente con Office 365 PowerShell.](https://go.microsoft.com/fwlink/p/?linkid=850410)

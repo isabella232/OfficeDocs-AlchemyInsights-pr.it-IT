@@ -1,5 +1,5 @@
 ---
-title: Creazione di regole di posta in arrivo per cassette postali condivise
+title: Creazione di regole di Posta in arrivo per cassette postali condivise
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -13,16 +13,16 @@ ms.custom:
 - "1800021"
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: 6398367ac94a1d3cf4f03165c4d4decb7ff9beb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e5e4a0aabb76123ea98b91f84a76d56132695c2361f125b769a6f7fff7bdbaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732233"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929273"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a>Creazione di regole di posta in arrivo per cassette postali condivise
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a>Creazione di regole di Posta in arrivo per cassette postali condivise
 
-È possibile aggiungere regole a una cassetta postale condivisa a cui è consentito l'accesso in modo analogo a come si aggiungono regole al proprio account.
+È possibile aggiungere regole su una cassetta postale condivisa a cui si ha accesso in modo analogo a come si aggiungono regole al proprio account.
   
-Assicurarsi di essere un membro della cassetta postale condivisa in questione e quindi seguire la procedura descritta in questo articolo: [aggiungere regole a una cassetta postale condivisa](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)
+Assicurarsi di essere membri della cassetta postale condivisa in questione e quindi seguire la procedura descritta in questo articolo: Aggiungere regole [a una cassetta postale condivisa](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)
   
