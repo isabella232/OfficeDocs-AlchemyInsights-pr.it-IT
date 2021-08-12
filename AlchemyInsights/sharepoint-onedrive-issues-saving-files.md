@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 02297639c9fcc16e4e622547ebd3085b1a8f0c15
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31688d9a091780cfc7df30ddaf56626015c13d97ba6d6d344cf93b3536c2e0e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670944"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910514"
 ---
-# <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a>Non è possibile salvare i documenti di Office in raccolte documenti di SharePoint o OneDrive
+# <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a>Impossibile salvare Office documenti in SharePoint o OneDrive documenti
 
-In caso di problemi durante il salvataggio di documenti di Office in raccolte documenti di SharePoint o OneDrive, Ecco alcune informazioni utili.
+In caso di problemi durante il salvataggio Office documenti in SharePoint o OneDrive raccolte documenti, ecco alcune informazioni utili.
 
 [Salvare un file (copia)](https://support.office.com/article/save-a-file-in-microsoft-office-a7f0a209-ad22-4212-bb53-6cd8e801a6fb)
 
@@ -32,6 +32,6 @@ In caso di problemi durante il salvataggio di documenti di Office in raccolte do
 
 [Eseguire un ripristino in Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-Per ulteriori informazioni o dettagli, vedere l'articolo [risolvere i problemi relativi all'apertura o al salvataggio dei documenti nelle raccolte di SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
+Per ulteriori informazioni o dettagli, vedere l'articolo Risolvere i problemi di apertura o [salvataggio di documenti in SharePoint raccolte](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
 
 

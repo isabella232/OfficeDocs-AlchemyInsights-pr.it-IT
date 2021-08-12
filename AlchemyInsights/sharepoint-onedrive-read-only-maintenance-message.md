@@ -1,5 +1,5 @@
 ---
-title: Di sola lettura per il messaggio di manutenzione quando si tenta di utilizzare SharePoint o OneDrive
+title: Read-Only per il messaggio manutenzione quando si tenta di utilizzare SharePoint o OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670836"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910550"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Di sola lettura per il messaggio di manutenzione quando si tenta di utilizzare SharePoint o OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only per il messaggio manutenzione quando si tenta di utilizzare SharePoint o OneDrive
 
-Gli utenti possono ricevere un messaggio di **sola lettura per la manutenzione** quando si tenta di utilizzare SharePoint o OneDrive per uno degli scenari seguenti. 
+Gli utenti potrebbero ricevere **un messaggio** di sola lettura per manutenzione quando tentano di utilizzare SharePoint o OneDrive per uno degli scenari seguenti. 
 
--   Attività di manutenzione pianificata o attiva.  Verificarne la navigazione verso il [centro messaggi](https://portal.office.com/adminportal/home#/messagecenter).
--   Incidente di servizio attivo ad alta priorità che potrebbe verificarsi. Controllare se sono presenti avvisi o eventi indesiderati per l'esplorazione dell' [integrità del servizio](https://portal.office.com/adminportal/home#/servicehealth).
--   Uno scenario di ripristino di correzione automatica secondario che potrebbe verificarsi a causa di eventuali eventi imprevisti nei server che potrebbero durare meno di 30 minuti. 
+-   Attività di manutenzione pianificata o attiva.  Controllarli accedendo al [Centro messaggi](https://portal.office.com/adminportal/home#/messagecenter).
+-   Un evento imprevisto di servizio attivo ad alta priorità che potrebbe verificarsi. Controllare eventuali avvisi/eventi imprevisti accedendo a [Integrità servizio](https://portal.office.com/adminportal/home#/servicehealth).
+-   Uno scenario di ripristino con correzione automatica secondario che potrebbe verificarsi a causa di eventi imprevisti nei server che potrebbero durare meno di 30 minuti o meno. 
     
-    Non sono disponibili messaggi di centro messaggi o di integrità dei servizi per questi rilevamenti di minore entità, ma è consigliabile tornare alla normalità molto presto.
+    Non ci sono post del Centro messaggi o integrità del servizio per questi recuperti minori, ma dovresti tornare alla normalità molto presto.
 
-In pochissime occasioni è stato osservato che uno dei tre scenari sopra elencati è stato la causa e il servizio è stato ripristinato, ma la cache del browser degli utenti non è stata cancellata.
+In pochissime occasioni è stato rilevato che uno dei tre scenari sopra elencati è stato la causa e che il servizio è stato ripristinato, ma la cache del browser degli utenti non è stata cancellata.
 
-Provare a cancellare la cache del browser prima di passare al sito.
+Tentare di cancellare la cache del browser prima di passare al sito.
 
-1. Nel browser Microsoft Edge, selezionare **Impostazioni**, quindi selezionare **privacy e sicurezza**.
-2. In **Pulisci esplorazione**, seleziona **Scegli cosa cancellare**.
-3. Selezionare **cookie e dati del sito Web salvati**e selezionare **Annulla**.
-
->[!Note] 
-> Questa procedura può essere diversa quando si utilizzano altri browser come Mozilla Firefox o Google Chrome.
+1. Nel browser Microsoft Edge, selezionare **Impostazioni** e quindi **selezionare Privacy e sicurezza.**
+2. In **Cancella esplorazione** selezionare Scegli cosa **cancellare.**
+3. Selezionare **Cookie e dati del sito Web salvati** e selezionare **Cancella.**
 
 >[!Note] 
-> Un'altra opzione consiste nell'aprire il sito di SharePoint o OneDrive in una nuova finestra di InPrivate.
+> Questi passaggi possono essere diversi quando si utilizzano altri browser, ad esempio Mozilla Firefox o Google Chrome.
+
+>[!Note] 
+> Un'altra opzione potrebbe essere aprire il SharePoint o OneDrive in una nuova finestra inPrivate.

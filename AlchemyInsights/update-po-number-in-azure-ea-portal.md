@@ -1,5 +1,5 @@
 ---
-title: Aggiornare il numero di PO in Azure EA Portal-procedura consigliata
+title: Aggiornare il numero di po nel portale di Azure EA - passaggi consigliati
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49707885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007182"
 ---
-# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Aggiornare il numero di PO in Azure EA Portal-procedura consigliata
+# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Aggiornare il numero di po nel portale di Azure EA - passaggi consigliati
 
-Le modifiche apportate all'ID IVA o al numero di ordine di acquisto (PO) avranno effetto sulla fattura successiva. Per modificare il numero di ID o IVA in una fattura già generata, aprire un ticket di supporto. In caso di problemi relativi all'ID IVA, contattare il partner per la gestione delle licenze Microsoft (partner o un consulente software). Contatterà il Regional Operations Center (ROC) per domande relative all'ID IVA. 
+Le modifiche apportate all'ID IVA o al numero dell'ordine di acquisto avranno effetto sulla fattura successiva. Per modificare l'ID IVA o il numero di ordine di acquisto in una fattura già generata, aprire un ticket di supporto. In caso di problemi relativi alla partita IVA/PARTITA IVA, contattare il partner di gestione delle licenze Microsoft (partner o consulente software). Contattano il Centro operativo regionale (ROC) per domande relative all'ID IVA. 
 
-Il portale di Azure EA genera automaticamente un numero di ordine di acquisto predefinito a meno che l'amministratore di EA non ne imposti uno prima della data della fattura. In qualità di amministratore EA (registrazione diretta)/partner Administrator (iscrizione indiretta), è possibile aggiornare il numero di PO nel portale di Azure EA. È possibile aggiornare il numero di PO in qualsiasi momento prima che venga generata la fattura per il periodo di fatturazione corrente e fino a sette giorni dopo la ricezione della posta elettronica di notifica della fattura automatizzata.    
+Il portale di Azure EA genera automaticamente un numero di ordine di acquisto predefinito a meno che l'amministratore di EA non ne imposta uno prima della data della fattura. In quanto amministratore di EA (registrazione diretta) /amministratore partner (registrazione indiretta), è possibile aggiornare il numero di ordine di acquisto nel portale di Azure EA. È possibile aggiornare il numero dell'ordine fornitore in qualsiasi momento prima che la fattura venga generata per il periodo di fatturazione corrente e fino a sette giorni dopo aver ricevuto l'e-mail di notifica automatica della fattura.    
 
-Per aggiornare il numero di ordine di acquisto:
+Per aggiornare il numero dell'ordine fornitore:
 
-1. Accedere al [portale EA](https://ea.azure.com/).
-1. Nel riquadro sinistro fare clic su **report**.
-1. Nella parte superiore della pagina fare clic su **Riepilogo utilizzo** e selezionare la casella di controllo Seleziona il periodo pertinente dall'elenco a discesa.
-1. Fare clic su **Visualizza/modifica numeri di ordine di acquisto**.
-1. Immettere il nuovo numero di PO e fare clic su **Salva**.
+1. Accedere al [portale di EA](https://ea.azure.com/).
+1. Nel riquadro sinistro fare clic su **Report.**
+1. Nella parte superiore della pagina fai clic su **Riepilogo utilizzo** e seleziona il periodo pertinente nell'elenco a discesa.
+1. Fare **clic su Visualizza/Modifica numeri di ordine di acquisto.**
+1. Immettere il nuovo numero di ordine di acquisto e fare clic su **Salva.**
 
 **Documenti consigliati** 
 
 - [Fatture di registrazione di Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- [Comprendere la bolletta di Azure Enterprise Agreement](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
-- [Informazioni sui ruoli di Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
-- [Creare un altro amministratore dell'organizzazione (EA Admin)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
+- [Informazioni sulla fattura Enterprise Agreement Azure](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- [Informazioni su Ruoli Enterprise Azure](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
+- [Creare un altro amministratore dell'organizzazione (amministratore di EA)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 

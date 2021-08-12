@@ -1,5 +1,5 @@
 ---
-title: Incidente di servizio in corso
+title: Evento imprevisto del servizio in corso
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -19,19 +19,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: d2f3d1f75c61100b3b3892d286db7af91a618ba2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ea17addde1b98b6f8b33909e126078266992a55e7eb6932443fc8f9d213c04a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751391"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061364"
 ---
-# <a name="service-incident-in-progress"></a>Incidente di servizio in corso
+# <a name="service-incident-in-progress"></a>Evento imprevisto del servizio in corso
 
-Potrebbe essere influenzato da un incidente di servizio o da una consulenza attualmente in fase di analisi. È possibile controllare lo stato più recente accedendo alla pagina [integrità del servizio](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+È possibile che l'utente sia interessato da un evento imprevisto del servizio o da un avviso attualmente in fase di analisi. È possibile controllare lo stato più recente andando alla [pagina Integrità dei](https://admin.microsoft.com/adminportal/home#/servicehealth) servizi.
   
-Per comodità, è possibile trovare un riepilogo di questo incidente di seguito:
+Per comodità, è possibile trovare un riepilogo di questo evento imprevisto di seguito:
   
-> **Numero incidente:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Numero evento imprevisto:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Descrizione dell'impatto: {ImpactDescription}
+> Descrizione impatto: {ImpactDescription}
