@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: d5480389c3bf50cee9fe30f7ec8d8ff28ef694ca
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6df196fc0bde37c962e3aa84dd602ee414dad3d329addfd16cb6e3dcc40fc2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809443"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943379"
 ---
 # <a name="restore-a-deleted-public-folder"></a>Ripristinare una cartella pubblica eliminata
 
 **Per ripristinare gli elementi eliminati da una cartella pubblica:**
 
-- Vedere Non è possibile recuperare gli elementi eliminati da una cartella pubblica non di posta [elettronica in Outlook 2016.](https://aka.ms/pfrec)
+- Vedere [Non è possibile recuperare gli elementi eliminati da una cartella](https://aka.ms/pfrec)pubblica non di posta elettronica in Outlook 2016 .
  
 **Per ripristinare una cartella pubblica eliminata (di qualsiasi tipo):** 
 
