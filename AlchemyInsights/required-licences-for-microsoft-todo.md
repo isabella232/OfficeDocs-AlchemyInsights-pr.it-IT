@@ -14,12 +14,12 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232aa6ea3f4dae92b84436ef2441be095c858a3b65ca33e754d802f39edc2097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828768"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972981"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Licenze necessarie per Microsoft ToDo
 
@@ -33,7 +33,7 @@ Per utilizzare Microsoft ToDo, un utente deve disporre di una delle licenze segu
 
 - Microsoft 365 Firstline F1
 
-- Qualsiasi piano di Office 365 Enterprise
+- Qualsiasi Office 365 Enterprise piano
 
 - Proteggere le aziende produttive
 
@@ -41,13 +41,13 @@ Per utilizzare Microsoft ToDo, un utente deve disporre di una delle licenze segu
 
 - Secure Productive Enterprise E5
 
-- Qualsiasi piano di Office 365 Education
+- Qualsiasi Office 365 Education piano
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-Oltre a una licenza valida per il prodotto, è necessaria una delle seguenti versioni di Exchange Online per poter sincronizzare i dati degli utenti con ToDo:
+Oltre a una licenza di prodotto valida, è necessaria una delle seguenti versioni di Exchange Online todo per poter sincronizzare i dati degli utenti:
   
 - Exchange Online Piano 1
 

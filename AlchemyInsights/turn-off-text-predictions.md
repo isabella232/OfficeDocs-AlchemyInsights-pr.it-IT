@@ -1,5 +1,5 @@
 ---
-title: Disattiva le stime del testo
+title: Disattivare le previsioni di testo
 ms.author: v-smandalika
 author: v-smandalika
 manager: v-aiyengar
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000059"
 - "6217"
-ms.openlocfilehash: 3ee4aecabb8fc534bc45d40a7546928eee679bc8
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: df62814d3fcd843faf6c6e1a227963a5c682cb1799498433ade15ab1b9e9a6fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49371809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920255"
 ---
-# <a name="turn-off-text-predictions"></a>Disattiva le stime del testo
+# <a name="turn-off-text-predictions"></a>Disattivare le previsioni di testo
 
-1. Selezionare **impostazioni > Visualizza tutte le impostazioni di Outlook > Mail > comporre e rispondere**.
-2. In **stime del testo**, deselezionare **Suggerisci parole di frasi mentre digito**.
+1. Selezionare **Impostazioni > Visualizza tutte Outlook impostazioni > posta > Scrivi e rispondi**.
+2. In **Previsioni di testo** deselezionare Suggerisci parole di frasi durante la **digitazione.**
 
-Per ulteriori informazioni, vedere [use Intelligent Technology in Outlook sul Web e Outlook.com](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70).
+Per ulteriori informazioni, vedere [Use intelligent technology in Outlook sul web and Outlook.com](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70).

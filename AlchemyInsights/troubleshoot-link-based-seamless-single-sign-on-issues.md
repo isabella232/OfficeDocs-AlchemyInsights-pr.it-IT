@@ -1,5 +1,5 @@
 ---
-title: 'Risolvere i problemi di Single #A0 (SSO) basati su collegamenti'
+title: 'Risolvere i problemi di Single #A0 (SSO) basati su collegamento'
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9372"
-ms.openlocfilehash: 7f8b9247176df7f561ba89f8d75cbdc74155fcd3
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 95883de91a78f4a2821e50102be153e08f0d5cfb569d9d86c71d87fe5e28e149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50530053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972864"
 ---
-# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Risolvere i problemi di Single #A0 (SSO) basati su collegamenti
+# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Risolvere i problemi di Single #A0 (SSO) basati su collegamento
 
-La maggior parte degli utenti è in grado di risolvere il problema SSO (Seamless Single Sign-On) basato su collegamenti utilizzando la procedura seguente:
+La maggior parte degli utenti è in grado di risolvere il problema SSO (Seamless Single Sign-On) basato su link utilizzando la procedura seguente:
 
-Informazioni su **SSO** [collegato:](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) informazioni sull'accesso collegato: l'opzione Collegata consente di configurare la posizione di destinazione quando un utente seleziona l'app nel portale App personali o Office 365 dell'organizzazione. In questo articolo vengono fornite informazioni più dettagliate sull'opzione collegata.
+**Informazioni su SSO** collegato [:](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) informazioni sull'accesso collegato - L'opzione Collegata consente di configurare la posizione di destinazione quando un utente seleziona l'app nel portale app personali o Office 365 dell'organizzazione. In questo articolo vengono fornite informazioni più dettagliate sull'opzione collegata.
 
-**Configurare SSO collegato**: [Configura collegamento](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
+**Configure Linked SSO**: [Configure link](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
 
-**Guida**: Domande e [risposte di Microsoft&-](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) Inviare richieste di funzionalità e domande tecniche su Single #A0 (SSO) basato su collegamenti in Azure Active Directory & sviluppo.
+**Richiesta supporto**: [Domande](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) frequenti su Microsoft&A - Inviare richieste di funzionalità e domande tecniche su Single Sign-On (SSO) basato su collegamento in Azure Active Directory & sviluppo.
