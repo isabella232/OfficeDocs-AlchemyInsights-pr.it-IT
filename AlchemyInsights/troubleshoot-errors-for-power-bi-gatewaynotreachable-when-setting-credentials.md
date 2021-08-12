@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1321"
 - "2500002"
-ms.openlocfilehash: 8d02ff9db70a8c8db82b573121cb52c031899fd4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bda457a8b8960e884bf378a919da096ad44752da447d346be7f0b1c435a9dcb0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939419"
 ---
 # <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable quando si impostano le credenziali
 
-È possibile che si verifichi gatewayNotReachable quando si tenta di impostare le credenziali per un'origine dati all'interno del servizio Power BI. Questo potrebbe essere il risultato di un gateway obsoleto. Installare il gateway più recente e riprovare.
+È possibile che si verifichi gatewayNotReachable quando si tenta di impostare le credenziali per un'origine dati all'interno Power BI servizio. Questo potrebbe essere il risultato di un gateway obsoleto. Installare il gateway più recente e riprovare.
 
 Per ulteriori informazioni: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
