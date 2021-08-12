@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9e2b7ec560d92c7a74437723f0c33da9009624c7aabb5bb4cf4b3906d916051a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790408"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944171"
 ---
 # <a name="private-channels-in-microsoft-teams"></a>Canali privati in Microsoft Teams
 
-I canali privati in Microsoft Teams creano spazi mirati per la collaborazione all'interno dei team. Solo gli utenti proprietari del team o membri del canale privato possono accedere al canale. Tutti gli utenti, inclusi gli utenti guest, possono essere aggiunti come membri a un canale privato, purché siano già membri del team.
+I canali privati in Microsoft Teams spazi mirati per la collaborazione all'interno dei team. Solo gli utenti proprietari del team o membri del canale privato possono accedere al canale. Tutti gli utenti, inclusi gli utenti guest, possono essere aggiunti come membri a un canale privato, purché siano già membri del team.
 
-Per ulteriori informazioni, iniziare con [Canali privati in Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/private-channels) Sono incluse informazioni quali la creazione e l'appartenenza di canali [privati](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [e i siti di SharePoint del canale privato.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
+Per ulteriori informazioni, iniziare con [Canali privati in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Sono incluse informazioni quali la [creazione e l'appartenenza](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) di canali privati e i siti SharePoint [privati.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
 **Serve un nuovo proprietario del team?**
 
