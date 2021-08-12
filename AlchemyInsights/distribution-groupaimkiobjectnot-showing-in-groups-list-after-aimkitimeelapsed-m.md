@@ -9,16 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: bd7e5d71dd2832e253df508fe8819c137c9411aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 10001493ee25a08d53aaf00f53e6008a35fdff3589f25a1d348547de08a6fd3a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815070"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948059"
 ---
 # <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Gruppo di distribuzione "{AimKIObject}" non visualizzato nell'elenco Gruppi dopo {AimKITimeElapsed} minuti
 
 Il gruppo "{AimKIObject}" è stato creato {AimKITimeElapsed} minuti fa. In genere non sono più di 60 minuti che il nuovo gruppo di distribuzione venga visualizzato nell'interfaccia di amministrazione.
   
-Potrebbe essere possibile utilizzare la funzionalità Destinatari > Gruppi nell'interfaccia di amministrazione di [Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) per gestire il gruppo oppure utilizzare l'opzione "Consenti chiamata" per parlare con un tecnico del supporto. 
+Potresti essere in grado di usare la funzionalità Destinatari > Gruppi nell'interfaccia di amministrazione di [Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) per gestire il gruppo ora oppure usare l'opzione "Consenti chiamata" per parlare con un tecnico del supporto. 
   

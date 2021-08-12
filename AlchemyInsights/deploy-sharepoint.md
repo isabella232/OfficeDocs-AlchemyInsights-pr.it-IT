@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007063"
 - "11926"
-ms.openlocfilehash: 6a1da198d8672b382eddb0a3b0e4830307b1721c
-ms.sourcegitcommit: 270a1ca9c35b50b8be6b06f432c9c90e4090fb57
+ms.openlocfilehash: 12bd9e75a8623fd0c0f93b803c3d78d26acf131f831e8032651461fe80914c57
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53339987"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914043"
 ---
 # <a name="deploy-sharepoint-in-microsoft-365"></a>Distribuire SharePoint in Microsoft 365
 
@@ -26,7 +26,7 @@ Per valutare SharePoint risorse utili per la distribuzione, vedere [Introduction
 
 Risorse aggiuntive: 
 
-- Per informazioni sui servizi di onboarding e adozione di FastTrack o per trovare un partner certificato SharePoint, vedere Vedere cosa stanno facendo i partner con [SharePoint](/microsoft-365/sharepoint/sharepoint-partners-sharepoint-support)o visitare la [community di SharePoint](https://techcommunity.microsoft.com/t5/sharepoint/ct-p/SharePoint). 
+- Per informazioni su FastTrack di onboarding e adozione o per trovare un partner certificato SharePoint, vedere Vedere cosa stanno facendo i nostri partner con [SharePoint](/microsoft-365/sharepoint/sharepoint-partners-sharepoint-support)o visitare la [community di SharePoint](https://techcommunity.microsoft.com/t5/sharepoint/ct-p/SharePoint). 
 - Per altre informazioni sullo spostamento di contenuti e conoscenze e app di collaborazione dell'organizzazione in SharePoint, vedi Introduzione a SharePoint [in Microsoft 365](/sharepoint/introduction#migration). 
 - Per ulteriori informazioni sull'introduzione alle opzioni di collaborazione, sulla creazione di una intranet intelligente moderna e sulla formazione degli utenti, vedere Introduzione a SharePoint [in Microsoft 365](/sharepoint/introduction#collaboration). 
 - Per informazioni sull'aggiunta di app o licenze per app, vedi Gestire le licenze [delle app per un SharePoint locale.](/sharepoint/manage-app-licenses) 

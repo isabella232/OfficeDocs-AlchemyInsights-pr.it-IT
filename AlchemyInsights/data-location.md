@@ -1,5 +1,5 @@
 ---
-title: Posizione dei dati
+title: Posizione dati
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,15 +11,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b42fd2380fc1a98d33443aa8cacdb23e55fa8832
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 848285b940c19e3d6bb2b42483f01d39bce3952f42aa723d51b1a6392f0f1dcc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914619"
 ---
-# <a name="data-location"></a>Posizione dei dati
+# <a name="data-location"></a>Posizione dati
 
-È possibile visualizzare la posizione del tenant nell'interfaccia di amministrazione passando alla pagina del profilo dell' [ **organizzazione** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) e selezionando **percorso dati**.
+È possibile visualizzare la posizione del tenant nell'interfaccia di amministrazione accedendo alla [ **pagina Profilo**](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) organizzazione e selezionando **Posizione dati**.
 
-Per le applicazioni di cui non si è abbonati, vedere [dove sono archiviati i dati del cliente Microsoft 365](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
+Per le applicazioni a cui non si è abbonati, vedere Dove vengono archiviati i dati Microsoft 365 [dei clienti.](https://docs.microsoft.com/office365/enterprise/o365-data-locations)
