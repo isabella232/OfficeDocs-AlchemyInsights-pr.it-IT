@@ -1,5 +1,5 @@
 ---
-title: Piani che consentono di aggiungere Microsoft Defender per Office 365
+title: Piani che ti consentono di aggiungere Microsoft Defender per Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 48e6f55c35a1a0af04453c17bb8dfe9cce194b5c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 890f55e87048d62121aaa07db24a518faddfe89db9c7162c593ef240de83f1b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916131"
 ---
-# <a name="plans-that-let-you-add-microsoft-defender-for-office-365"></a>Piani che consentono di aggiungere Microsoft Defender per Office 365
+# <a name="plans-that-let-you-add-microsoft-defender-for-office-365"></a>Piani che ti consentono di aggiungere Microsoft Defender per Office 365
 
-Se si dispone di uno dei piani seguenti, è possibile aggiungervi Microsoft Defender per Office 365:
+Se si dispone di uno dei piani seguenti, è possibile aggiungere Microsoft Defender Office 365 ad esso:
 
 - Exchange Online Piano 1 o 2
 - Chiosco Exchange Online

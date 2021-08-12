@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "9200"
-ms.openlocfilehash: 23fed786e7b33adf0b6c76fc71a7e69f2cfcceb7
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 078f5798533dfbbf97858f305729f103663644fee3590cdcc877233041adae81
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379831"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932065"
 ---
 # <a name="api-permissions-and-consent-process"></a>Autorizzazioni API e processo di consenso
 
-Per consentire all'app di accedere ai dati in Microsoft Graph, l'utente o l'amministratore deve concedervi le autorizzazioni corrette tramite un processo di consenso. [Le informazioni di riferimento sulle](https://docs.microsoft.com/graph/permissions-reference) autorizzazioni di Microsoft Graph elencano le autorizzazioni associate a ogni set principale di API di Microsoft Graph. Vengono inoltre fornite indicazioni su come utilizzare le autorizzazioni.
+Per consentire all'app di accedere ai dati in Microsoft Graph, l'utente o l'amministratore deve concedervi le autorizzazioni corrette tramite un processo di consenso. [Microsoft Graph di riferimento sulle](https://docs.microsoft.com/graph/permissions-reference) autorizzazioni elenca le autorizzazioni associate a ogni set principale di API microsoft Graph. Vengono inoltre fornite indicazioni su come utilizzare le autorizzazioni.
 
 **Configurare o aggiornare l'entità servizio**
 
 - [Create serviceprincipal](https://docs.microsoft.com/graph/api/serviceprincipal-post-serviceprincipals) : in questo articolo viene illustrato come creare un nuovo oggetto servicePrincipal.
-- Creare un'entità servizio & app Azure AD nel portale- Questo articolo illustra come creare una nuova applicazione Azure Active Directory (Azure AD) e [un'entità](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) servizio che può essere usata con il controllo di accesso basato sui ruoli.
-- [App & entità](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) servizio in Azure AD - Questo articolo descrive la registrazione dell'applicazione, gli oggetti applicazione e le entità servizio in Azure Active Directory: cosa sono, come vengono usate e come sono correlate tra loro.
+- [Create an Azure AD app & service principal in the portal](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) - In questo articolo viene illustrato come creare una nuova applicazione Azure Active Directory (Azure AD) e un'entità servizio che può essere usata con il controllo di accesso basato sui ruoli.
+- App & entità servizio [in Azure AD-](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) Questo articolo descrive la registrazione dell'applicazione, gli oggetti applicazione e le entità servizio in Azure Active Directory: cosa sono, come vengono usate e come sono correlate tra loro.
 
 **Aggiungere o aggiornare la registrazione dell'app e fornire il consenso dell'amministratore**
 

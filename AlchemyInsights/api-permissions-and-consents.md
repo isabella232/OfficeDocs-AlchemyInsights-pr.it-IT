@@ -1,5 +1,5 @@
 ---
-title: Autorizzazioni e autorizzazione API
+title: Autorizzazioni API e consenso
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49951895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932101"
 ---
-# <a name="api-permissions-and-consent"></a>Autorizzazioni e autorizzazione API
+# <a name="api-permissions-and-consent"></a>Autorizzazioni API e consenso
 
-Le applicazioni che si integrano con Microsoft Identity Platform seguono un modello di autorizzazione che consente agli utenti e agli amministratori di controllare il modo in cui è possibile accedere ai dati. L'implementazione del modello di autorizzazione è stata aggiornata sull'endpoint della piattaforma Microsoft Identity. Viene modificato il modo in cui un'app deve interagire con la piattaforma Microsoft Identity. Le [autorizzazioni e il consenso nell'endpoint della piattaforma Microsoft Identity](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) riguardano i concetti di base di questo modello di autorizzazione, compresi gli ambiti, le autorizzazioni e il consenso.
+Le applicazioni che si integrano con Microsoft Identity Platform seguono un modello di autorizzazione che consente a utenti e amministratori di controllare la modalità di accesso ai dati. L'implementazione del modello di autorizzazione è stata aggiornata nell Microsoft Identity Platform endpoint. Cambia il modo in cui un'app deve interagire con il Microsoft Identity Platform. [Le autorizzazioni e il consenso nell Microsoft Identity Platform endpoint](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) illustrano i concetti di base di questo modello di autorizzazione, inclusi ambiti, autorizzazioni e consenso.
 
-Il [Framework di consenso di Azure Active Directory (Azure ad)](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) semplifica lo sviluppo di applicazioni Web multi-tenant e native client. Queste applicazioni consentono l'accesso da parte degli account utente da un tenant di Azure AD diverso da quello in cui è registrata l'applicazione. Potrebbe anche essere necessario accedere alle API Web, ad esempio l'API di Microsoft Graph (per accedere a Azure AD, Intune e servizi in Microsoft 365) e altre API dei servizi Microsoft, oltre alle proprie API Web.
+Il [framework Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) semplifica lo sviluppo di applicazioni client web e native multi-tenant. Queste applicazioni consentono l'accesso da parte di account utente da un tenant di Azure AD diverso da quello in cui l'applicazione è registrata. Potrebbe anche essere necessario accedere alle API Web, ad esempio l'API di Microsoft Graph (per accedere ad Azure AD, Intune e ai servizi in Microsoft 365) e altre API di servizi Microsoft, oltre alle API Web.
 

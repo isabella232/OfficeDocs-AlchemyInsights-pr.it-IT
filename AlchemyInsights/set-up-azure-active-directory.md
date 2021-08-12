@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004192"
 - "7373"
-ms.openlocfilehash: 94078246562112709eee303fa13d4ac2aa651b12
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 92fadd9c98494af1a9ead97c414f3d417d37f57c77affdb9c9b3568dff4b889d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617290"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958193"
 ---
 # <a name="set-up-azure-active-directory"></a>Configurare Azure Active Directory
 
-La [Guida alla configurazione di Azure ad](https://go.microsoft.com/fwlink/?linkid=2134390) fornisce informazioni per garantire che l'organizzazione disponga di una solida base di sicurezza. In questa guida verrà impostata la funzionalità iniziale, ad esempio il controllo di accesso basato sui ruoli di Azure (Azure RBAC) per gli amministratori, Azure AD Connect per la directory locale e Azure AD Connect Health, in modo da poter monitorare l'integrità dell'identità ibrida durante le sincronizzazioni automatiche.
+La [guida alla configurazione di Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) fornisce informazioni per garantire che l'organizzazione abbia una solida base di sicurezza. In questa guida verranno impostate funzionalità iniziali, come il controllo dell'accesso basato sui ruoli di Azure (RBAC di Azure) per gli amministratori, Azure AD Connessione per la directory locale e Azure AD Connessione Health, in modo da poter monitorare l'integrità dell'identità ibrida durante le sincronizzazioni automatizzate.
 
-Include inoltre informazioni essenziali su come abilitare la reimpostazione della password in modalità self-service, l'accesso condizionale e la possibilità di accedere a terze parti integrata, inclusa la protezione avanzata delle identità e l'automazione di provisioning degli utenti.
+Include inoltre informazioni essenziali sull'abilitazione delle reimpostazioni delle password self-service, sull'accesso condizionale e sull'accesso integrato di terze parti, tra cui la protezione avanzata delle identità facoltativa e l'automazione del provisioning degli utenti.
