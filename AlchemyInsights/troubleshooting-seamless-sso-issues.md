@@ -1,5 +1,5 @@
 ---
-title: Risoluzione dei problemi relativi a SSO facile
+title: Risoluzione dei problemi SSO senza problemi
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7808"
-ms.openlocfilehash: 954b4490fd7d93767b4cc2b026ff4ac3d0edf80e
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 2bde7ed51c9f086b395f620ff062df718cd12badf5a6933bd60ca0f81d6501eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707706"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920867"
 ---
-# <a name="troubleshooting-seamless-single-sign-on-issues"></a>Risoluzione dei problemi di single Sign-On facile
+# <a name="troubleshooting-seamless-single-sign-on-issues"></a>Risoluzione dei problemi relativi ai singoli Sign-On senza problemi
 
-1. Chiedere o cercare risposte alle domande di [Microsoft Q&A.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports)
-1. Per i problemi comuni relativi all'accesso Single #A0 (SSO), consultare le guide seguenti per risolvere il problema:
+1. Chiedere o cercare le risposte alle domande su [Microsoft Q&A](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports).
+1. Per problemi comuni con SSO (Seamless Single Sign-On), consultare le guide seguenti per risolvere il problema:
     - [Risolvere i problemi relativi all'aggiunta di app](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) 
-    - [Risolvere i problemi relativi all'accesso Single #A0 basato su password in Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) 
-    - [Risolvere i problemi relativi all'accesso Single #A0 basato su SAML in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-saml-based-sso) 
+    - [Risolvere i problemi relativi al single sign-on basato su password in Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) 
+    - [Risolvere i problemi relativi all'accesso Single #A0 basato su SAML Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-saml-based-sso) 
     - [Eseguire il debug dell'accesso Single #A0 basato su SAML alle applicazioni in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) 
-    - Video: [Procedure consigliate per l'accesso Single #A0 per azure Active Directory e gli account Microsoft](https://azure.microsoft.com/resources/videos/ignite-2018-single-sign-on-best-practices-for-azure-active-directory-and-microsoft-accounts/) 
+    - Video: [Procedure consigliate per single sign-on per Azure Active Directory e account Microsoft](https://azure.microsoft.com/resources/videos/ignite-2018-single-sign-on-best-practices-for-azure-active-directory-and-microsoft-accounts/) 
     - [Trovare report attività nel portale di Azure](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports)
