@@ -1,5 +1,5 @@
 ---
-title: 122 è necessario creare una firma in Outlook sul Web?
+title: 122 È necessario creare una firma in Outlook sul web?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 122
 ms.assetid: 9468585d-e98e-4774-9176-44be073c54d0
-ms.openlocfilehash: 956b120a97b3266173ceaf0d385af13f931708e5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ddf1d17afbc3f1167637d711afd5fe490aa44e4b158262cc891f0632c81c8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799604"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986049"
 ---
 # <a name="need-to-create-an-email-signature"></a>È necessario creare una firma di posta elettronica?
 
-Se si ha un account di Outlook o un account di Outlook sul Web (lavoro o scuola), è possibile creare una firma e aggiungerla automaticamente a tutti i messaggi in uscita oppure aggiungerla in modo selettivo a specifici messaggi in uscita. Si noti che la firma di posta elettronica è diversa in Outlook e Outlook sul Web. Per creare la firma di posta elettronica, vedere [creare e aggiungere una firma ai messaggi in Outlook](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) o [creare e aggiungere una firma di posta elettronica in Outlook sul Web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx).
+Se si dispone di un account Outlook o di un account Outlook sul web (aziendale o dell'istituto di istruzione), è possibile creare una firma e aggiungerla automaticamente a tutti i messaggi in uscita o aggiungerla in modo selettivo a specifici messaggi in uscita. Si noti che la firma di posta elettronica è diversa in Outlook e Outlook sul web. Per creare la firma di posta elettronica, vedere [Create and add a signature to messages in Outlook](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) oppure Create and add an email signature in [Outlook sul web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx).
 

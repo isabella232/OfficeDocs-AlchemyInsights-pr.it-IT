@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 827db0139d2793a5e4d850aeb5463dab272e4d64
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 13a75338e3784d3df2ec93e8096380f85494317b7161040c7ad60ad830f9211d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813620"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978093"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Risolvere gli errori di apertura o salvataggio dei file di Word
 
 Se si verificano problemi durante l'apertura o il salvataggio di documenti di Word, provare a eseguire le operazioni seguenti:
 
-- [Installare gli aggiornamenti di Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Per un elenco degli ultimi aggiornamenti di Office, vedere [Aggiornamenti più recenti.](https://docs.microsoft.com/officeupdates/office-updates-msi)
+- [Installare Office aggiornamenti](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Per un elenco degli aggiornamenti Office più recenti, vedere [Aggiornamenti più recenti.](https://docs.microsoft.com/officeupdates/office-updates-msi)
 - [Risolvere i problemi relativi ai documenti danneggiati in Word.](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)
-- [Ripristinare un'applicazione di Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- [Ripristinare un'Office applicazione .](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 - Se il documento contiene revisioni, utilizzare i suggerimenti in [Word](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) per rallentare o bloccarsi in caso di revisioni o commenti eccessivi per risolvere il problema.
 
-Se è stato visualizzato un errore simile a uno dei seguenti, utilizzare i suggerimenti in Messaggio di errore in Office quando un file viene bloccato [dalle impostazioni dei](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)criteri del Registro di sistema :
+Se è stato ricevuto un errore simile a uno dei seguenti, utilizzare i suggerimenti in Messaggio di errore in Office quando un file viene bloccato dalle impostazioni dei criteri del Registro [di sistema](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 
 - Si sta tentando di aprire un tipo di file bloccato dall'impostazione dei criteri del Registro di sistema.
 - Si sta tentando di aprire un tipo di file **\<File Type\>** bloccato dalle Impostazioni tipi file nel Centro protezione.

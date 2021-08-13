@@ -1,5 +1,5 @@
 ---
-title: Offboard dei dispositivi Windows 10 da Microsoft Defender Advanced Threat Protection
+title: Offboard Windows 10 dispositivi da Microsoft Defender Advanced Threat Protection
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 560e6772e810d9ef0d8aa9b17cf14cb6f4fe9ed8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 31c772ba868cf793093b22a29971d63d8bd3ff3370f70834319a86691d62597e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967661"
 ---
-# <a name="offboard-windows-10-devices-from-microsoft-defender-advanced-threat-protection"></a>Offboard dei dispositivi Windows 10 da Microsoft Defender Advanced Threat Protection
+# <a name="offboard-windows-10-devices-from-microsoft-defender-advanced-threat-protection"></a>Offboard Windows 10 dispositivi da Microsoft Defender Advanced Threat Protection
 
 Vedere quanto segue:
 
 - [Dispositivi offboard con uno script locale](https://go.microsoft.com/fwlink/?linkid=2143465)
 - [Dispositivi offboard con Criteri di gruppo](https://go.microsoft.com/fwlink/?linkid=2143632)
 - [Dispositivi offboard con strumenti di gestione dei dispositivi mobili](https://go.microsoft.com/fwlink/?linkid=2143633)
-- [Offboard dei dispositivi Windows 10](https://go.microsoft.com/fwlink/?linkid=2143629)
+- [Offboard Windows 10 dispositivi](https://go.microsoft.com/fwlink/?linkid=2143629)

@@ -1,5 +1,5 @@
 ---
-title: Spostare le cartelle pubbliche tra le cassette postali delle cartelle pubbliche
+title: Spostare cartelle pubbliche tra cassette postali di cartelle pubbliche
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "7983"
-ms.openlocfilehash: 5edcff180bb8599b882630b09f3bbff7c4a07c06
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: fc2a7de297b0c85046490b8e9147ea739f3c9a7f259a723d1c5ab95d57006fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50029993"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986229"
 ---
-# <a name="move-public-folders-between-public-folder-mailboxes"></a>Spostare le cartelle pubbliche tra le cassette postali delle cartelle pubbliche
+# <a name="move-public-folders-between-public-folder-mailboxes"></a>Spostare cartelle pubbliche tra cassette postali di cartelle pubbliche
 
-Le cartelle pubbliche di Exchange Online possono essere spostate tra le cassette postali delle cartelle pubbliche utilizzando Outlook per il client desktop di Windows.
+Le cartelle pubbliche in Exchange online possono essere spostate tra le cassette postali delle cartelle pubbliche utilizzando Outlook client desktop di Windows.
 
-Se si sta tentando di spostare le cartelle pubbliche da Exchange locale a Exchange Online, vedere gli articoli seguenti:
+Se si sta tentando di spostare le cartelle pubbliche da Exchange locale a Exchange online, fare riferimento agli articoli seguenti:
 
-[Eseguire la migrazione delle cartelle pubbliche di Exchange Server 2013, 2016 e 2019 a Exchange Online](https://aka.ms/ModernPFToEXO)
+[Eseguire Exchange Server 2013.2016.2019 a Exchange online](https://aka.ms/ModernPFToEXO)
 
-[Eseguire la migrazione delle cartelle pubbliche di Exchange Server 2010 a Exchange Online](https://aka.ms/LegacyPFToEXO)
+[Eseguire Exchange Server 2010 cartelle pubbliche a Exchange Online](https://aka.ms/LegacyPFToEXO)
