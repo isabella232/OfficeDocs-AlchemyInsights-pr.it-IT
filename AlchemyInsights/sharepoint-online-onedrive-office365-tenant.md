@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online o OneDrive ' impostazione '
+title: SharePoint Online o OneDrive 'Configurazione'
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093602"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online o OneDrive "configurazione"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online o OneDrive "Configurazione"
 
-Quando un utente viene aggiunto a un tenant esistente, è possibile che vengano visualizzate le icone di SharePoint Online o OneDrive for business elencate come "impostazione" o "stiamo ancora lavorando alla configurazione dei file" finché non è stato completato il processo di provisioning. Per ulteriori informazioni, vedere la [Guida alla risoluzione dei problemi](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) .
+Quando un utente viene aggiunto a un tenant esistente, potrebbe visualizzare le icone di SharePoint Online o OneDrive for Business elencate come "Configurazione" o "Stiamo ancora lavorando per ottenere la configurazione dei file" fino al completamento del processo di provisioning. Seguire questa [guida alla risoluzione dei problemi](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) per assistenza.
 
-Se sono passate più di 24 ore dalla prima volta che si è visto questo problema, è necessario registrare un caso di supporto.
+Se sono trascorse più di 24 ore dalla prima volta che hai visto questo problema, registra un caso di supporto.
 
-Ci rendiamo conto che 24 ore può sembrare molto. In molti casi, stiamo già lavorando a una soluzione. Per completare una soluzione, è possibile fornirci almeno 24 ore.
+Ci rendiamo conto che 24 ore può sembrare molto. In molti casi, stiamo già lavorando a una soluzione. Fornire almeno 24 ore per completare una soluzione.

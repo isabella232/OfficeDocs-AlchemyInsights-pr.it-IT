@@ -1,5 +1,5 @@
 ---
-title: Utilizzo dei profili personalizzati in Intune
+title: Usare profili personalizzati in Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: c3c2233dab60d58438068c6c61a0567b8f68e022
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4c4665f36c5d7158a92b6b6104942b6b169a18370dfe34d0f6da42b78cc96c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971091"
 ---
-# <a name="using-custom-policy-in-intune"></a>Utilizzo di criteri personalizzati in Intune
+# <a name="using-custom-policy-in-intune"></a>Uso di criteri personalizzati in Intune
 
-Intune ha molte impostazioni predefinite per i dispositivi Android, iOS, macOS e Windows. È inoltre possibile creare un profilo personalizzato e quindi distribuire queste impostazioni personalizzate nei dispositivi utilizzando Intune. I profili personalizzati sono stati creati per aggiungere le impostazioni e le funzionalità del dispositivo che non sono state integrate in Intune.
+Intune ha molte impostazioni predefinite per dispositivi Android, iOS, macOS e Windows dispositivi. Puoi anche creare un profilo personalizzato e quindi distribuire queste impostazioni personalizzate nei dispositivi usando Intune. I profili personalizzati sono progettati per aggiungere le impostazioni del dispositivo e le funzionalità non integrate in Intune.
 
 [Impostazioni personalizzate per i dispositivi Android in Intune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Impostazioni personalizzate per i dispositivi Android Enterprise in Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Impostazioni personalizzate per dispositivi Android Enterprise intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
 [Impostazioni personalizzate per i dispositivi iOS in Intune](https://docs.microsoft.com/intune/custom-settings-ios)
 
 [Impostazioni personalizzate per i dispositivi macOS in Intune](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Impostazioni personalizzate per i dispositivi Windows 10 in Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Impostazioni personalizzate per Windows 10 dispositivi in Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Impostazioni personalizzate per i dispositivi Windows olografici per le aziende in Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Impostazioni personalizzate per Windows Holographic for Business dispositivi in Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
