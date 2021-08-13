@@ -1,5 +1,5 @@
 ---
-title: uguale al nome del file è la migliore
+title: come filename è la soluzione migliore
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664138"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918899"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"L'intestazione di alchimia necessaria H1, H2's non funziona".
-Procedure consigliate e linee guida per la creazione di alchimia:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Required Alchemy Header H1, H2's don's don's work."
+Procedure consigliate e linee guida per la creazione di alchimie:
 
-1. **Non annidare Insights alchimia nelle cartelle**-questo si romperà la struttura URL. Stiamo cercando di risolvere la cosa.
-1. I file presenti nella cartella **AlchemyInsights** devono avere nomi filecaratteri minuscoli con trattini per gli spazi ex. ***How-to-Enable-controversia legale-*** conservazione.
-    1. Includere l'ID della regola o l'ID del bucket dal [portale del partner di Alchemy](https://alchemyportal.azurewebsites.net) nel campo ms. Custom. ex. ***ms. Custom: 100021***
-1. Utilizzare il resto dei metadati nella parte superiore del file come modello.
-1. Nel [portale del partner Alchemy](https://alchemyportal.azurewebsites.net), passare alla sezione **Customer Insight title:** e utilizzarlo come punto di partenza per il titolo H1 per Insight. 
+1. **Non annidare Alchemy Insights cartelle,** in modo da interrompere la struttura dell'URL. Stiamo cercando di risolvere questo problema.
+1. I file nella **cartella AlchemyInsights** devono contenere nomi di file minuscoli con trattini per spazi ex. **_how-to-enable-litigation-hold_**.
+    1. Includere l'ID regola o l'ID bucket dal [portale di Alchemy Partner](https://alchemyportal.azurewebsites.net) nel campo ms.custom. ex. ***ms.custom: 100021***
+1. Usa il resto dei metadati nella parte superiore di questo file come modello.
+1. Nel [portale per i partner di Alchemy](https://alchemyportal.azurewebsites.net)passare alla sezione **Customer Insight Title:** e usarlo come punto di partenza per il titolo H1 per le informazioni dettagliate. 
     > [!NOTE]
-    > L'alchimia Insights deve avere solo un singolo H1 nella parte superiore o si romperà in produzione. Non è possibile eseguire il rendering di H2s in modo da utilizzare convenzioni **audaci** o altre per indicare sezioni separate.
-1. Successivamente, inserire il testo del corpo usando il materiale bozza nella sezione Customer Insights della pagina della regola di alchimia
-    1. Gli elenchi puntati sono ottimali
-    1. Elenchi numerati troppo
-    1. **Grassetto** e *corsivo* sono a-OK
-    1. I collegamenti devono essere sempre **"collegamenti al Web"/External** o **collegamenti profondi a elementi dell'interfaccia utente**, non collegamenti interni.
-    1. Le immagini non sono supportate ufficialmente in questo momento, ma sono presenti nella roadmap.
+    > L'Insights deve avere solo un singolo H1 nella parte superiore o si interromperà in produzione. H2s non esegue il rendering, quindi usa **il grassetto** o altre convenzioni per indicare sezioni separate.
+1. Compilare quindi il corpo del testo utilizzando il materiale della bozza nella Customer Insights della pagina Regola di alchimia
+    1. Gli elenchi puntati sono a posto
+    1. Elenchi numerati
+    1. **Grassetto** e *corsivo* sono a-ok
+    1. I collegamenti devono sempre essere **"collegamenti al Web"/collegamenti** diretti o esterni a elementi dell'interfaccia **utente** e non collegamenti interni.
+    1. Al momento le immagini non sono ufficialmente supportate, ma sono sulla roadmap.
 
-E questo è già un po' troppo lungo. La procedura consigliata è di circa 400 caratteri---------------------------------
+E questo è già un po' troppo lungo. La procedura consigliata è di circa 400 caratteri ---------------------------------
 
-Una volta che il contenuto è pronto, tirarlo sul ramo Live. Passare quindi al portale del [partner di alchimia](https://alchemyportal.azurewebsites.net) e immettere il nome del file nel campo URL. 
+Quando il contenuto è pronto, trascinalo nel ramo live. Quindi, vai al [portale di Alchemy Partner](https://alchemyportal.azurewebsites.net) e immetti il nome del file nel campo url. 

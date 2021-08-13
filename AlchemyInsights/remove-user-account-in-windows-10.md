@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e994388f685f1f9980c10daac48ca4facb0ca542ea352e8fbd31bf451cff305
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094610"
 ---
 # <a name="remove-an-account-in-windows-10"></a>Rimuovere un account in Windows 10
 
 Ecco come rimuovere un account da Windows 10:
 
-1. Vai a **Impostazioni Start** Famiglia di & altre persone (o Altre persone , se  >    >    >   stai usando Windows 10 Enterprise). 
+1. Vai a **Start Impostazioni** Account Family & altre persone (o Altre persone , se si usa  >    >    >   Windows 10 Enterprise). 
 2. Selezionare l'account che si desidera rimuovere, selezionare **Rimuovi** e quindi **selezionare Elimina account e dati**.
  
 **Nota:** Non è possibile eliminare un account a cui si è attualmente effettuato l'accesso.  Se devi sostituire l'account a cui hai eseguito l'accesso:

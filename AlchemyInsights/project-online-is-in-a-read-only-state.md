@@ -1,5 +1,5 @@
 ---
-title: Project online è in uno stato di sola lettura
+title: Project Online è in stato di sola lettura
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1776"
 - "9000205"
-ms.openlocfilehash: ad2a9f95bf30708772edb166945f3f42e0f1f503
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 988d87ca43f5394728b77561edd8e26fa0668f4ad876a5fcd09cf739092a4d6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063020"
 ---
-# <a name="project-online-is-in-a-read-only-state"></a>Project online è in uno stato di sola lettura
+# <a name="project-online-is-in-a-read-only-state"></a>Project Online è in stato di sola lettura
 
-Esistono tre motivi comuni per cui Project online può raggiungere uno stato di sola lettura:
+Esistono tre motivi comuni per cui Project Online uno stato di sola lettura:
 
-1. Le organizzazioni hanno solo una licenza di Project Online Essentials. Questo non è sufficiente per mantenere il sito attivo e verrà infine visualizzato il provisioning.Il sito viene posizionato in modalità di sola lettura, in modo che gli amministratori sappiano che qualcosa non è corretto e che possono acquisire le licenze corrette. Gli amministratori dovranno aggiungere una licenza di Project Online Professional e/o Premium. Il sito uscirà di sola lettura in quel punto. Per altre informazioni, vedere [confrontare le soluzioni di gestione dei progetti](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. È stata raggiunta la quota assegnata. Per altre informazioni, vedere [quota di Project Web App](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota). Controllare la [configurazione del rollup dei dati di report rapportati alla scala cronologica in Project Online](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) per vedere come la granularità delle relazioni può influire sull'utilizzo
-3. La sola lettura può essere una condizione molto temporanea che può verificarsi durante la manutenzione. La maggior parte delle operazioni di manutenzione non è ancora nota ai clienti e non è possibile vederla spesso, ma in alcuni casi sono presenti periodi brevi di sola lettura.
+1. Le organizzazioni hanno solo Project Online Essentials licenze. Questo non è sufficiente per mantenere attivo il sito e alla fine verrà eseguito il de-provisioning. Inseriamo il sito in uno stato di sola lettura in modo che gli amministratori sappiano che qualcosa non va e possono acquisire le licenze corrette. Gli amministratori dovranno aggiungere una Project Online Professional e/o Premium licenza. Il sito non sarà più di sola lettura a quel punto. Per altre info, vedi [Confronto tra Project soluzioni di gestione.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. È stata raggiunta la quota assegnata. Per altre info, vedi quota [Project Web App.](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota) Selezionare [Configura rollup dei dati di report rapportati alla scala Project Online](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) per vedere in che modo la granularità dei report può influire sull'utilizzo della quota.
+3. La sola lettura può essere una condizione molto temporanea che può verificarsi durante la manutenzione. La maggior parte delle attività di manutenzione non viene nemmeno notata dai clienti e non si noterà spesso, ma in alcuni casi si verificano brevi periodi di sola lettura.

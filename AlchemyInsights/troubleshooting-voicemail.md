@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972387"
 ---
 # <a name="troubleshooting-voicemail"></a>Risoluzione dei problemi relativi alla segreteria telefonica
 
-Verificare che la funzionalità occupato su occupato sia intenzionale.
+Verificare che la funzionalità Occupato su occupato sia intenzionale.
 
-Se questa funzionalità non è necessaria per l'utente:
+Se questa funzionalità non è necessaria per questo utente:
 
-1. Accedere a [Teams Admin Center](https://admin.teams.microsoft.com/policies/calling).
-1. Sul binario sinistro, i **Voice** criteri  >  di **chiamata** vocale  >  **gestiscono** i criteri nel criterio di **chiamata**.
+1. Passare a [Teams di amministrazione](https://admin.teams.microsoft.com/policies/calling).
+1. Sul binario sinistro esplorare **Criteri di**  >  **chiamata vocale** Gestisci  >  **criteri** nel **criterio chiamante**.
 1. Selezionare **Gestisci utenti**.
-1. La ricerca di un utente e la modifica del criterio di chiamata su uno che è **occupato su occupato sono disponibili quando si effettua una chiamata** a **disattivata**.
+1. Cercare l'utente e modificare il criterio di chiamata in uno che ha occupato occupato è **disponibile quando in una chiamata a** **Off**.
 1. Fare clic su **Applica**.
 > [!NOTE]
-> Le modifiche apportate ai criteri possono richiedere fino a 24 ore per la replica.
+> La replica delle modifiche ai criteri può richiedere fino a 24 ore.
 
-Per ulteriori informazioni su questa funzionalità, vedere: [busy on busy è disponibile mentre è in una chiamata](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+Per ulteriori informazioni su questa funzionalità, vedere: [Busy on Busy is available while in a call](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
