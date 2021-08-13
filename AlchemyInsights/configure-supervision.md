@@ -11,22 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807519"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915447"
 ---
 # <a name="configure-supervision-policies"></a>Configurare i criteri di supervisione
 
-I criteri di supervisione in Microsoft 365 consentono di monitorare la posta elettronica di Exchange, Skype for business online, Microsoft teams e le comunicazioni di terze parti inviate all'interno e all'esterno dell'organizzazione. I revisori designati possono esaminare i messaggi monitorati per assicurarsi che siano conformi ai criteri dell'organizzazione, alla gestione dei rischi e agli standard di conformità normativi e a risolverli con un tipo di classificazione.
+I criteri di supervisione Microsoft 365 Exchange consentono di monitorare la posta elettronica, Skype for Business Online, Microsoft Teams e le comunicazioni di terze parti inviate all'interno e all'esterno dell'organizzazione. I revisori designati possono esaminare i messaggi monitorati per verificare che siano conformi ai criteri, alla gestione dei rischi e agli standard di conformità normativi dell'organizzazione e risolverli con un tipo di classificazione.
 
 Per utilizzare i criteri di supervisione nell'organizzazione, è necessario:
 
 - Determinare le comunicazioni da monitorare.
-- Decidere chi eseguirà la revisione della comunicazione.
-- Criteri di supervisione dell'installazione
+- Decidere chi eseguirà la revisione delle comunicazioni.
+- Configurare i criteri di supervisione
 
 Ulteriori informazioni:
 

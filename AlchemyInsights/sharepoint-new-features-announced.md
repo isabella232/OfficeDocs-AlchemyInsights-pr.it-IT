@@ -1,5 +1,5 @@
 ---
-title: Nuove funzionalità di SharePoint annunciate
+title: SharePoint nuove funzionalità annunciate
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: c54f2dd93d129db21a279de65096dfe9b3f17646
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31d6370b3f9232efa282426799293a08a45c638077ef60ad00bd11140e4c3d1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093920"
 ---
-# <a name="sharepoint-new-features-announced"></a>Nuove funzionalità di SharePoint annunciate
+# <a name="sharepoint-new-features-announced"></a>SharePoint nuove funzionalità annunciate
 
-Alla conferenza Ignite 2018, Microsoft ha annunciato nuove innovazioni per SharePoint, incluse nuove funzionalità per i portali moderni, nuove Web part, numerosi miglioramenti per i siti hub, il collegamento di notizie, l'assegnazione di destinatari, la disponibilità di nuove app per dispositivi mobili, la connessione con i team e altro ancora...
+Durante la conferenza Ignite 2018, Microsoft ha annunciato nuove innovazioni per SharePoint, tra cui nuove funzionalità per portali moderni, nuove web part, numerosi miglioramenti ai siti hub, collegamenti alle notizie, targeting del pubblico, disponibilità di nuove app per dispositivi mobili, connessione con Teams e altro ancora...
   
-Per ulteriori informazioni su queste funzionalità, vedere il post del Blog le [nuove innovazioni in SharePoint &amp; Microsoft 365 offrono potenza e semplicità per la collaborazione tra i contenuti.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Per ulteriori informazioni su queste funzionalità, vedere il post di blog Nuove innovazioni in SharePoint Microsoft 365 offrire potenza e semplicità [per la collaborazione dei &amp; contenuti.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-L'organizzazione può partecipare al programma di rilascio di destinazione per accedere in modo tempestivo alle nuove funzionalità. Vedere [configurare le opzioni di rilascio standard o di destinazione in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
+L'organizzazione può partecipare al programma Targeted Release per avere accesso anticipato alle nuove funzionalità. Vedi [Configurare le opzioni di rilascio Standard o Mirato in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
