@@ -1,5 +1,5 @@
 ---
-title: Modificare le autorizzazioni per un elenco o una raccolta di SharePoint
+title: Modificare le autorizzazioni per un SharePoint o una raccolta
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 445f1edcae5a2581cf340898c823257e9e857ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b012606e5dadd0ea71eb68de9bc278faea41adbc99e662bfa3eea6653548c1a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681815"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979461"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Modificare le autorizzazioni per un elenco o una raccolta di SharePoint
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Modificare le autorizzazioni per un SharePoint o una raccolta
 
-1. Accedere al sito di SharePoint in un Web browser e aprire l'elenco o la raccolta.
+1. Passare al sito SharePoint in un Web browser e aprire l'elenco o la raccolta.
     
-2. Fare clic sull'icona delle impostazioni in alto a destra, quindi fare clic su impostazioni **raccolta** o **Impostazioni elenco**. Se il comando non viene visualizzato, scegliere la scheda **raccolta** o **elenco** per aprire la barra multifunzione e quindi fare clic su impostazioni **raccolta** o impostazioni **elenco** sulla barra multifunzione. 
+2. Fare clic Impostazioni'icona a forma di Impostazioni in alto a destra e quindi fare clic su **Impostazioni raccolta** o **Impostazioni elenco.** Se il comando non è visualizzato,  scegliere  la scheda Raccolta o Elenco per aprire la barra multifunzione e quindi fare clic su Raccolta **Impostazioni** o Elenco **Impostazioni** sulla barra multifunzione. 
     
-3. In **autorizzazioni e gestione**fare clic su **autorizzazioni per l'elenco** o le **autorizzazioni per la raccolta documenti**.
+3. In **Autorizzazioni e gestione** fare clic su Autorizzazioni per questo **elenco** o Autorizzazioni per la raccolta **documenti.**
     
-Si noti che per impostazione predefinita, gli elenchi e le raccolte di SharePoint ereditano le autorizzazioni dal sito. Se si interrompe l'ereditarietà delle autorizzazioni, le autorizzazioni correnti verranno copiate nell'elenco o nella raccolta e tutto il contenuto. Se le autorizzazioni per il sito sono state modificate in un secondo momento, le modifiche non verranno applicate all'elenco o alla raccolta e agli elementi al suo interno.
+Si noti che per impostazione predefinita, SharePoint elenchi e raccolte ereditano le autorizzazioni dal sito. Se si interrompe l'ereditarietà delle autorizzazioni, le autorizzazioni correnti verranno copiate nell'elenco o nella raccolta e in tutto il contenuto. Se le autorizzazioni per il sito vengono modificate in un secondo momento, le modifiche non verranno applicate all'elenco o alla raccolta e agli elementi al suo interno.
   
 

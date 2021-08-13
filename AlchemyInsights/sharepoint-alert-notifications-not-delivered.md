@@ -1,5 +1,5 @@
 ---
-title: Notifiche di avviso di SharePoint non recapitate
+title: SharePoint notifiche di avviso non recapitate
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957905"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Notifiche di avviso di SharePoint non recapitate
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint notifiche di avviso non recapitate
 
-Controlla la cartella posta indesiderata nel tuo messaggio di posta elettronica, perché a volte gli avvisi potrebbero andarci.
+Controlla la cartella POSTA INDESIDERATA nel tuo messaggio di posta elettronica, perché a volte potrebbero esserci avvisi.
 
-Determinare se **tutti gli avvisi non vengono recapitati** o se **un singolo avviso** di un file o di una raccolta specifico non viene recapitato.
+Determinare **se tutti gli avvisi non vengono recapitati** **o** se non viene recapitato un singolo avviso da un file o una raccolta specifica.
 
-- Gli **avvisi singoli non vengono recapitati**: se un singolo avviso di un file o di una raccolta specifico non viene recapitato, è possibile tentare di eliminarlo e ricrearlo. Per ricreare l'avviso [, vedere gestire, visualizzare o eliminare gli avvisi di SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
-- **Tutti gli avvisi non vengono recapitati**: se tutti gli avvisi provenienti da più file o raccolte non vengono recapitati, visitare il [dashboard di integrità del servizio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) per controllare eventuali avvisi/incidenti che potrebbero verificarsi con SharePoint o Exchange. Il problema potrebbe essere relativo alla funzionalità di avviso di SharePoint o ai ritardi nei messaggi di posta elettronica tramite Exchange. Sarà anche importante notare se viene recapitato un altro messaggio di posta elettronica e, in caso contrario, è probabile che il problema sia ritardi di Exchange.
+- **I singoli avvisi non vengono recapitati:** se non viene recapitato un singolo avviso da un file o una raccolta specifica, è possibile tentare di eliminarlo e ricrearlo. Vedere [Gestire, visualizzare o eliminare SharePoint avvisi per](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) ricreare l'avviso.
+- Tutti gli avvisi non vengono recapitati: se non vengono recapitati tutti gli avvisi di più file o raccolte, visitare il [dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) integrità dei servizi per verificare la presenza di avvisi/eventi imprevisti che potrebbero verificarsi con SharePoint o Exchange. Il problema potrebbe essere relativo alla funzionalità SharePoint di avviso o ai ritardi nei messaggi di posta elettronica tramite Exchange. Sarà anche importante notare se altri messaggi di posta elettronica vengono recapitati e, in caso contrario, il problema è probabilmente con Exchange ritardi.
 
 Domande frequenti sugli avvisi:
 
-- Non è possibile inviare avvisi al gruppo di distribuzione, sono supportati solo i gruppi di sicurezza e di O365.
-- Non è possibile personalizzare i modelli di posta elettronica di avviso. per ottenere tali risultati, è necessario utilizzare il flusso di lavoro Microsoft FLOW o SharePoint Designer.
+- Non è possibile inviare avvisi al gruppo di distribuzione, sono supportati solo i gruppi Di sicurezza e O365.
+- Non è possibile personalizzare i modelli di messaggio di posta elettronica degli avvisi. è necessario utilizzare Microsoft FLOW o il flusso di lavoro SharePoint designer per ottenere tali risultati.
 
 ## <a name="related-topics"></a>Argomenti correlati
 
-Si desidera provare Microsoft Flow in SharePoint Online?
+Vuoi provare a Microsoft Flow in SharePoint Online?
 
-- [Crea flusso](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Creare Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint e flusso](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint e Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)
