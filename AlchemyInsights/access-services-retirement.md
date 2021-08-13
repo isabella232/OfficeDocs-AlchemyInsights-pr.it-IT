@@ -1,5 +1,5 @@
 ---
-title: Pensionamento dei servizi di accesso
+title: Ritiro dei servizi di accesso
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,26 +11,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 943066d5ac76c0630554ee724bbab9a94086fae4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32da879de230dc0ed99563ad881ab5b2479b8453933a127961a26d619e108ab9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938699"
 ---
-# <a name="access-services-retirement"></a>Pensionamento dei servizi di accesso
+# <a name="access-services-retirement"></a>Ritiro dei servizi di accesso
 
-Come annunciato originariamente in MC97576, nel marzo 2017, e ha continuato a comunicare negli ultimi anni, i servizi di accesso vengono ritirati. La fase successiva di questo processo sarà la rimozione dei database di Access Web che utilizzano gli elenchi di SharePoint come archivio dati sottostante.
+Come abbiamo annunciato in origine in MC97576, a marzo 2017, e abbiamo continuato a comunicare nell'ultimo anno Access Services sono stati ritirati. La fase successiva di questo processo sarà la rimozione dei database Web di Access che utilizzano SharePoint come archivio dati sottostante.
 
-**In che modo questo ha effetto su di me?**
+**In che modo ciò influisce su di me?**
 
-A partire da giugno 2019, si smetterà di creare nuovi database di Access in SharePoint Online e arrestare il servizio e le eventuali app restanti entro il 2020 aprile.
+A partire da giugno 2019, verrà interrotta la creazione di nuovi database di Access in SharePoint Online e il servizio e tutte le altre app verranno arrestate entro aprile 2020.
 
-**Che cosa è necessario fare per prepararsi a questa modifica?**
+**Cosa è necessario fare per prepararsi a questa modifica?**
 
-Si consiglia di creare un piano di transizione per i database Web di Access dell'organizzazione. Gli amministratori possono utilizzare lo [scanner app di SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) per ottenere un inventario delle app di Access utilizzate dai siti.
+Si consiglia di creare un piano di transizione per i database Web di Access dell'organizzazione. Gli amministratori possono usare lo [scanner SharePoint App Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) per ottenere un inventario delle app access utilizzate nei siti.
 
-Esistono diversi modi per eseguire la migrazione dei dati di Access Web database:
+Esistono diversi modi per eseguire la migrazione dei dati dei database Web di Access:
 
-- Importazione in un database di Access locale (. ACCDB) o in un file di Excel.
+- Importazione in un database di Access locale (. ACCDB) o a un Excel file.
 - È inoltre consigliabile esplorare Microsoft PowerApps come piattaforma alternativa per creare soluzioni aziendali senza codice per dispositivi mobili e Web.

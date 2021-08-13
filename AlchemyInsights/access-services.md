@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: c5edb5d3e1cc19b2286adc50cc1a5b1d9cf3649f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d95687db675b05fa9580aec4d444ab916e26ff73221ca289791b80807ca62f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668495"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938663"
 ---
 # <a name="access-services"></a>Access Services
 
-La funzionalità di Access Services in SharePoint Online è in fase di ritirata. Non è più possibile creare nuove applicazioni Web basate su Access e database Web e le app Web e i database Web esistenti verranno chiusi entro aprile 2018. I database di Access Desktop (con estensione accdb) non sono interessati da questa modifica. È consigliabile Microsoft PowerApps come alternativa per accedere alle app Web e ai database Web. 
+La Access Services in SharePoint Online è stata ritirata. Non è più possibile creare nuove app Web e database Web basati su Access e le app Web e i database Web esistenti verranno arrestati entro aprile 2018. I database desktop di Access (con estensione accdb) non sono influenzati da questa modifica. È consigliabile Microsoft PowerApps come alternativa alle app Web e ai database Web di Access. 
   
 [Informazioni su Microsoft PowerApps](https://powerapps.microsoft.com/)
   

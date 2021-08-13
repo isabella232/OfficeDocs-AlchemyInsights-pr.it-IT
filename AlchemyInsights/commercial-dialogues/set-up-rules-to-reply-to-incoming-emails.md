@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 49b8aafe77aa6e31f8d724046c6fc0996294cc5d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 3164959f33a42e518002e4c222a344d4f638d17a32a4959db2f903ce5cb14d81
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915627"
 ---
 # <a name="set-up-rules-to-reply-to-incoming-emails"></a>Configurare le regole per rispondere ai messaggi di posta elettronica in arrivo
 
 Utilizzare la procedura seguente per creare un modello per rispondere ai messaggi e quindi configurare Outlook per rispondere a ogni messaggio ricevuto.
 
-1. In Outlook, creare un nuovo messaggio di posta elettronica e immettere un oggetto e un corpo del messaggio per il modello fuori sede.
+1. In Outlook creare un nuovo messaggio di posta elettronica e immettere un oggetto e un corpo del messaggio per il modello fuori sede.
 2. Selezionare **File > Salva con nome**.
-3. **Nell'elenco a** discesa Tipo  file della finestra di dialogo Salva con nome selezionare Modello di **Outlook (*.oft).** Assegnargli un nome appropriato e quindi fare clic su **Salva.**
+3. **Nell'elenco a** discesa Tipo  file della finestra di dialogo Salva con nome selezionare Outlook **modello (*.oft).** Assegnargli un nome appropriato e quindi fare clic su **Salva.**
 4. Selezionare la **casella di** controllo Gestisci regole  >  **& avvisi**.
 5. Nella scheda **Regole di** posta elettronica della finestra di dialogo **Regole** e avvisi fare clic su **Nuova regola.**
 6. Nella finestra **di dialogo Creazione** guidata Regole, in Inizia da una regola **vuota,** **selezionare** Applica regola ai messaggi ricevuti e quindi fare clic su **Avanti.**
