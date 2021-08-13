@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 46e491c51cdceaf8b46e97fbec2754f94d7ee66e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b1a5ca296c62956ef0a8a95ed8ea9c967d268bcedb9cd5122b39a9678ba1f152
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737020"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967193"
 ---
 # <a name="recall-or-replace-email-message"></a>Richiamare o sostituire un messaggio di posta elettronica
 
 È possibile richiamare o sostituire solo i messaggi inviati agli indirizzi dell'organizzazione. I messaggi inviati a un indirizzo Gmail, ad esempio, non possono essere richiamati.
 
-1. Nel riquadro delle cartelle a sinistra della finestra di Outlook scegliere la **cartella Posta** inviata.
+1. Nel riquadro delle cartelle a sinistra della finestra Outlook, scegliere la **cartella Posta** inviata.
 2. Aprire il messaggio che si desidera richiamare. È necessario fare doppio clic per aprire il messaggio. Se si seleziona il messaggio in modo che venga visualizzato nel riquadro di lettura, non sarà possibile richiamare il messaggio.
 3. Nella scheda **Messaggio** selezionare **Azioni**  >  **Richiama questo messaggio**.
 4. Fare **clic su Elimina copie non** lette del messaggio o Elimina copie non **lette** e sostituisci con un nuovo messaggio e quindi fare clic su **OK.**

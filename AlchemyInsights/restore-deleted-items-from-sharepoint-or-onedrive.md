@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d015b6a479e6045eac59c13a430ca903c497a84b12ddaeaa22aeec9fae88f4e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922307"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Ripristinare gli elementi eliminati da SharePoint o OneDrive
 
-1. Accedere a OneDrive o al sito di SharePoint.
+1. Passare al sito OneDrive o SharePoint sito.
     
-2. Fare clic su **Cestino** nel riquadro sinistro. 
+2. Fare **clic su Cestino** nel riquadro sinistro. 
     
 3. Fare clic a sinistra degli elementi o dei file che si desidera ripristinare.
     
 4. Fare clic su **Ripristina**. 
     
-Quando file, cartelle, raccolte, elenchi ed elementi di elenco vengono eliminati da un sito di SharePoint, passano al Cestino, in cui vengono conservati per 93 giorni, a meno che non vengano eliminati da questo cestino. Se sono stati eliminati da questo cestino (denominato Cestino del sito), passano al cestino della raccolta siti per il tempo rimanente e quindi vengono eliminati definitivamente. I siti eliminati e le raccolte siti passano direttamente al cestino della raccolta siti per i 93 giorni.
+Quando file, cartelle, raccolte, elenchi ed elementi di elenco vengono eliminati da un sito di SharePoint, vengono eliminati nel Cestino, dove vengono conservati per 93 giorni, a meno che qualcuno non li elimini dal Cestino. Se vengono eliminati da questo Cestino (denominato Cestino del sito), passano al Cestino della raccolta siti per il tempo rimanente e quindi vengono eliminati definitivamente. I siti e le raccolte siti eliminati passano direttamente al Cestino della raccolta siti per i 93 giorni.
   
-[Ripristinare gli elementi nel cestino della raccolta siti](https://go.microsoft.com/fwlink/?linkid=867800) (amministratori della raccolta siti) 
+[Ripristinare gli elementi nel Cestino della raccolta](https://go.microsoft.com/fwlink/?linkid=867800) siti (amministratori della raccolta siti) 
   
-[Ripristinare le raccolte siti eliminate](https://go.microsoft.com/fwlink/?linkid=867660) (globali o amministratori di SharePoint in Microsoft 365) 
+[Ripristinare le raccolte siti](https://go.microsoft.com/fwlink/?linkid=867660) eliminate (amministratori globali o SharePoint in Microsoft 365) 
   
-Per i siti appartenenti a un gruppo di Microsoft 365, è necessario ripristinare il gruppo in modo che ripristini il sito. Vedere [ripristino di un gruppo di Microsoft 365 eliminato](https://go.microsoft.com/fwlink/?linkid=867802) (amministratore globale) 
+Per i siti che appartengono a Microsoft 365 gruppo, è necessario ripristinare il gruppo per ripristinare il sito. Vedere [Restore a deleted Microsoft 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin) 
   
 

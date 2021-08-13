@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fac10d862611cab95933576fde59bdaf1eb58e572d6781b087c48d2c332e205d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977697"
 ---
 # <a name="external-sharing-with-a-team-site"></a>Condivisione esterna con un sito del team
 
-Per abilitare la condivisione degli utenti esterni per i siti del team, eseguire la procedura seguente: 
+Per attivare la condivisione degli utenti esterni per i siti del team, attenersi alla seguente procedura: 
   
-1. Nella nuova interfaccia di amministrazione di SharePoint, fare clic su **siti attivi**.
+1. Nella nuova interfaccia SharePoint di amministrazione fare clic su **Siti attivi.**
   
-2. Selezionare un sito con un modello di **sito del team** . 
+2. Selezionare un sito con un modello **Sito del** team. 
   
-3. Selezionare il pulsante di **condivisione** dal menu in alto. 
+3. Seleziona il **pulsante** Condivisione nel menu in alto. 
   
- **Nota**: per impostazione predefinita, quando viene creato un sito del team moderno, l'opzione di condivisione esterna viene impostata su utenti esterni nuovi ed esistenti. 
+ **Nota:** per impostazione predefinita, quando viene creato un sito del team moderno, l'opzione Condivisione esterna verrà impostata su Utenti esterni nuovi ed esistenti. 
   
- **Nota:** Se si dispone di più di un sito selezionato, il pulsante di **condivisione** verrà visualizzato disabilitato. Selezionare un solo sito. 
+ **Nota:** Se sono selezionati più siti, il **pulsante Condivisione** verrà visualizzato disabilitato. Selezionare un solo sito. 
   
 

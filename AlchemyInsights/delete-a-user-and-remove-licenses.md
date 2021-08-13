@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "7438"
-ms.openlocfilehash: 1867556cc85a0f7ed0c7cdb22061a63d559fbb4b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 7437a9b1ffd483244222c7bda192e25e76efc8088f3bf92facfb27ee5bf0e503
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560612"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948224"
 ---
 # <a name="delete-a-user-and-remove-licenses"></a>Eliminare un utente e rimuovere licenze
 
-L'eliminazione di un utente consente inoltre di annullare l'assegnazione delle licenze utente, rendendole disponibili per gli altri utenti. 
-1. Nell'interfaccia di amministrazione, passare a **utenti** > utenti attivi.
-1. Selezionare l'utente o gli utenti da eliminare e fare clic su **Elimina utente**.
+L'eliminazione di un utente annulla anche l'assegnazione delle licenze utente, rendendole disponibili per altri utenti. 
+1. Nell'interfaccia di amministrazione passare a **Utenti** > utenti attivi.
+1. Selezionare l'utente o gli utenti da eliminare e fare clic **su Elimina utente.**
 
-Per altre informazioni, vedere [eliminare un utente dall'organizzazione](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). 
+Per altre info, vedi [Eliminare un utente dall'organizzazione.](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) 

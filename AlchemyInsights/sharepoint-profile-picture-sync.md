@@ -11,24 +11,24 @@ ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: 9ee728fa9eefc882d220d8484c8c92d4d8c9af4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d07d8e9206b4b7d0756277409d48b0cd299e5cf0fd7261e6c0ad75dfe8648f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957437"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Quando il mio profilo cambia la sincronizzazione con l'applicazione profilo utente di SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Quando vengono sincronizzate le modifiche al profilo SharePoint'applicazione profilo utente?
 
-La sincronizzazione delle immagini dei profili in SharePoint Online richiede un'azione dell'utente per avviare la sincronizzazione della foto. Non è disponibile alcuna sincronizzazione automatica delle foto in SharePoint Online. SharePoint Online Sincronizza solo le foto da Exchange Online, non da Azure Active Directory.
+La sincronizzazione delle immagini del profilo in SharePoint Online richiede l'azione di un utente per avviare la sincronizzazione della propria foto. Non esiste alcuna sincronizzazione automatica delle foto SharePoint Online. SharePoint Online sincronizza solo le foto Exchange Online, non Azure Active Directory.
 
-Se un utente non ha mai eseguito un'azione che richiede una sincronizzazione o che ha aggiornato la propria immagine del profilo e la nuova non viene visualizzata in SharePoint Online, potrebbe essere necessario richiederne la sincronizzazione. Ecco come è possibile eseguire questa operazione:
+Se un utente non ha mai eseguito un'azione che richiederebbe una sincronizzazione o se ha aggiornato l'immagine del profilo e la nuova non viene visualizzata in SharePoint Online, potrebbe essere necessario richiederne la sincronizzazione. Ecco come possono eseguire questa operazione:
 
-1. Aprire un Web browser in una sessione privata o in incognito e [passare a Office.com](https://www.office.com/).
+1. Aprire un Web browser in una In-Private o in incognito e passare a [Office.com](https://www.office.com/).
 
-2. Accedere con il proprio account aziendale o dell'Istituto di istruzione, quindi fare clic sul riquadro OneDrive o SharePoint.
+2. Accedi con l'account aziendale o dell'istituto di istruzione e fai clic sul riquadro OneDrive o SharePoint aziendale.
 
-3. [Aggiungere la foto del profilo a Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+3. [Aggiungi la foto del profilo a Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
-[Informazioni sulla sincronizzazione delle immagini dei profili in Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
+[Informazioni sulla sincronizzazione delle immagini del profilo in Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 

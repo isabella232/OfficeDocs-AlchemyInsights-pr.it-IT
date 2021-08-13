@@ -12,16 +12,16 @@ ms.assetid: 32314f8a-aaec-4d01-9fd3-009bfdcecd12
 ms.custom:
 - "26"
 - "11"
-ms.openlocfilehash: c1891d3ce5e7605ec7c0dec8a249e922aff364ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf7dc36779bf920b721d67d15b7925d72a5d657b67b105165f37f170023ad764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701539"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922343"
 ---
 # <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Rimuovere il dominio GoDaddy da Microsoft 365
 
-Non è possibile rimuovere il dominio GoDaddy da Microsoft 365 per l'utente. Chiamare il [servizio clienti GoDaddy](https://aka.ms/contact-godaddy) per assistenza.
+Non è possibile rimuovere il dominio GoDaddy da Microsoft 365 per te. Per assistenza, chiama il [servizio clienti GoDaddy.](https://aka.ms/contact-godaddy)
   
-Se il nome dell'organizzazione non contiene "NETORG" o non è stato acquistato da GoDaddy, rimuovere il dominio attenendosi alla procedura seguente: [rimuovere un dominio da Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
+Se il nome dell'organizzazione non contiene "NETORG" o non è stato acquistato da GoDaddy, rimuovere il dominio seguendo questa procedura Rimuovere un dominio da [Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
   
