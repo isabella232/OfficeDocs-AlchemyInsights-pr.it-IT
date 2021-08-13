@@ -1,5 +1,5 @@
 ---
-title: Recuperare un elemento che non è più presente nella cartella Posta eliminata
+title: Ripristinare un elemento che non si trova più nella cartella Posta eliminata
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,38 +13,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: b6ac084ead88b090d6caab1405d5d96f24890ea7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 81a7a2e9623c788743fad99e15c4d771bb12a6c1c81f35a9d2a6a0729ecf8db7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560712"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062354"
 ---
-# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Recuperare un elemento che non è più presente nella cartella Posta eliminata
+# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Ripristinare un elemento non più presente nella cartella Posta eliminata
 
-Se non è possibile trovare un elemento nella cartella Posta eliminata, la posizione successiva è la cartella elementi ripristinabili. Si tratta di una cartella nascosta in cui gli elementi vengono spostati quando:
-- Sono stati eliminati dalla cartella Posta eliminata.
-- La cartella Posta eliminata viene svuotata da un utente o da un criterio impostato dall'amministratore IT.
-- Per eliminare un elemento, selezionarlo e premere **MAIUSC + CANC**.
+Se non è possibile trovare un elemento nella cartella Posta eliminata, la posizione successiva da cercare è la cartella Elementi ripristinabili. Si tratta di una cartella nascosta in cui vengono spostati gli elementi quando:
+- Vengono eliminati dalla cartella Posta eliminata.
+- La cartella Posta eliminata viene svuotata dall'utente o da un criterio impostato dall'amministratore IT.
+- Per eliminare un elemento, selezionarlo e premere **MAIUSC+CANC.**
 
-Per visualizzare e recuperare gli elementi spostati nella cartella elementi ripristinabili:
-1. In un Web browser accedere a Outlook Web App con l'URL fornito dalla persona che gestisce la posta elettronica per l'organizzazione. Immettere il nome utente e la password, quindi selezionare **Accedi**.
-1. Nell'elenco delle cartelle di posta elettronica fare clic con il pulsante destro del mouse su **elementi eliminati** e quindi scegliere **Recupera elementi eliminati.**
-1. Se necessario, utilizzare la casella di ricerca per individuare l'elemento che si desidera ripristinare.
-1. Quando si trova l'elemento, selezionarlo e fare clic su **Ripristina**.
-   Gli elementi recuperati vengono spostati nel percorso predefinito per ogni tipo di elemento.
-    - I messaggi passano alla posta in arrivo.
-    - Gli elementi del calendario passano al calendario.
-    - I contatti passano alla cartella contatti.
-    - Le attività passano alla cartella attività.
+Per visualizzare e ripristinare gli elementi spostati nella cartella Elementi ripristinabili:
+1. In un Web browser accedere a Outlook Web App con l'URL fornito dalla persona che gestisce la posta elettronica per l'organizzazione. Immettere il nome utente e la password, quindi selezionare **Accedi.**
+1. Nell'elenco delle cartelle di posta elettronica fare clic con il pulsante destro del mouse su **Posta eliminata,** quindi selezionare **Recupera elementi eliminati...**.
+1. Se necessario, utilizzare la casella di ricerca per trovare l'elemento che si desidera ripristinare.
+1. Quando si trova l'elemento, selezionarlo e fare clic su **recupera**.
+   Gli elementi recuperati vengono spostati nella posizione predefinita per ogni tipo di elemento.
+    - I messaggi vengono inviati alla posta in arrivo.
+    - Gli elementi del calendario vengono visualizzati nel calendario.
+    - I contatti passano alla cartella Contatti.
+    - Le attività passano alla cartella Attività.
 
-**Suggerimenti per il ripristino degli elementi nella cartella elementi ripristinabili**
+**Suggerimenti per il ripristino degli elementi nella cartella Elementi ripristinabili**
 
-- La data di eliminazione per un elemento nella cartella elementi ripristinabili è quella in cui l'elemento è stato spostato nella cartella Posta eliminata. Non è la data in cui l'elemento è stato spostato nella cartella elementi ripristinabili.
-- Gli elementi nella cartella elementi ripristinabili non dispongono di icone, in modo che siano tutti molto simili.
-    - Se stai cercando un contatto, Cerca un elemento con il nome della persona, ma non la riga dell'oggetto.
-    - Se stai cercando un appuntamento del calendario, Cerca un elemento che non ha il nome di una persona o una riga dell'oggetto.
-    - Se stai cercando un contatto, un appuntamento del calendario o un'attività Cerca il testo di quell'elemento.
-- Per recuperare più elementi, posizionare il puntatore del mouse su ogni elemento e selezionare la casella di controllo accanto a essa, fare clic su **Ripristina**. È inoltre possibile recuperare più elementi adiacenti selezionando la casella di controllo per il primo elemento, tenendo premuto il tasto **MAIUSC** e quindi selezionando la casella di controllo relativa all'ultimo elemento. Quando tutti gli elementi sono selezionati, selezionare **Ripristina**.
-- È possibile eliminare gli elementi dall'elenco **Recupera elementi eliminati** . Seleziona l'elemento e quindi seleziona **Elimina**. Se si elimina un elemento, non sarà possibile utilizzare recuperare gli elementi eliminati per recuperarli. L'eliminazione di un messaggio non viene rimossa da qualsiasi backup eseguito prima di eliminarlo.
-- È possibile che l'organizzazione abbia specificato la durata della disponibilità degli elementi nella cartella elementi ripristinabili per il ripristino. Ad esempio, potrebbe essere presente un criterio che elimina tutto ciò che è stato nella cartella Posta eliminata per 30 giorni e un altro criterio che consente di ripristinare gli elementi nella cartella elementi ripristinabili per un massimo di 14 giorni.
+- La data di eliminazione di un elemento nella cartella Elementi ripristinabili è quando l'elemento è stato spostato nella cartella Posta eliminata. Non è la data in cui l'elemento è stato spostato nella cartella Elementi ripristinabili.
+- Gli elementi nella cartella Elementi ripristinabili non hanno icone, quindi hanno un aspetto molto simile.
+    - Se si sta cercando un contatto, cercare un elemento con il nome della persona, ma senza oggetto.
+    - Se si sta cercando un appuntamento del calendario, cercare un elemento che non abbia il nome di una persona o una riga dell'oggetto.
+    - Se si sta cercando un contatto, un appuntamento del calendario o un'attività, cercare il testo di tale elemento.
+- Per recuperare più elementi, posizionare il puntatore del mouse su ogni elemento e selezionare la casella di controllo accanto a esso, fare clic su **recupera**. È inoltre possibile recuperare più elementi adiacenti selezionando la  casella di controllo per il primo elemento, tenendo premuto MAIUSC e quindi selezionando la casella di controllo per l'ultimo elemento. Quando tutti gli elementi sono selezionati, selezionare **recupera**.
+- È possibile eliminare gli elementi **dall'elenco Recupera elementi eliminati.** Basta selezionare l'elemento e quindi **selezionare Elimina**. Se si elimina un elemento, non sarà possibile utilizzare Recupera elementi eliminati per recuperarlo. L'eliminazione di un messaggio non lo rimuoverà dai backup evasi prima di essere eliminato.
+- È possibile che l'organizzazione abbia specificato per quanto tempo gli elementi nella cartella Elementi ripristinabili sono disponibili per il ripristino. Ad esempio, potrebbe essere presente un criterio che elimina tutti gli elementi presenti nella cartella Posta eliminata per 30 giorni e un altro criterio che consente di ripristinare gli elementi nella cartella Elementi ripristinabili per un massimo di 14 giorni.

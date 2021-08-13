@@ -1,5 +1,5 @@
 ---
-title: Le note di contatto non sono modificabili
+title: Le note contatto non sono modificabili
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: ea4e9f4f41629f4207be6ff56f3ff8f7a4989cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f48e158e8ddf682df8d8748b929b3d4d687d5b183254c64116834210a238020d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680940"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915339"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Non è possibile modificare il campo note per un contatto in Outlook
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Impossibile modificare il campo note per un contatto in Outlook
 
-Si tratta di un problema noto. Per risolvere il caso, è possibile visualizzare lo stato più recente in [Impossibile modificare il campo note per un contatto](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+Si tratta di un problema noto. Stiamo lavorando per risolvere il problema ed è possibile visualizzare lo stato più recente in Non è possibile modificare il campo [note per un contatto.](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)
 
-**Soluzione**: se si utilizza un account di Microsoft 365 o Outlook.com, è possibile modificare i contatti utilizzando il Web. Se si utilizza un account IMAP o POP, non è disponibile alcuna soluzione in questo momento.
+**Soluzione** alternativa: se si utilizza un Microsoft 365 o un account Outlook.com, è possibile modificare i contatti utilizzando il Web. Se si utilizza un account IMAP o POP, al momento non è disponibile alcuna soluzione alternativa.
