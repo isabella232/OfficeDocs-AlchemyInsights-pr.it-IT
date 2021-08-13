@@ -1,5 +1,5 @@
 ---
-title: Configurare le audioconferenze con accesso esterno PSTN in Skype for Business online
+title: Configurare le audioconferenze con accesso esterno PSTN in Skype for Business Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f88489850f30efd31af5f9ccb67edb309f45cb8e123c94befc70fdd72ee98450
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835491"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094394"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Configurare le audioconferenze con accesso esterno PSTN in Skype for Business online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Configurare le audioconferenze con accesso esterno PSTN in Skype for Business Online
 
-Se si desidera configurare l'audioconferenza per Skype for Business online, è necessario eseguire alcune operazioni. 
+Se si desidera configurare l'audioconferenza per Skype for Business Online, è necessario eseguire alcune operazioni. 
 
 - Scopri se l'audioconferenza è disponibile nel tuo paese/area geografica.
 
@@ -30,4 +30,4 @@ Se si desidera configurare l'audioconferenza per Skype for Business online, è n
 
 - Ottenere e assegnare numeri di servizio.
 
-- Completare l'elenco di controllo in [Configurare audioconferenza per Skype for Business.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)
+- Completare l'elenco di controllo in [Set up Audio Conferencing for Skype for Business](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
