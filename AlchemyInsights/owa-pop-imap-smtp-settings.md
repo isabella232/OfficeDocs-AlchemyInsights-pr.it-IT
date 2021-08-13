@@ -1,5 +1,5 @@
 ---
-title: Impostazioni POP, IMAP e SMTP in Outlook sul Web
+title: Impostazioni POP, IMAP e SMTP in Outlook sul web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,23 +10,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: a3f717754a5ebe5c73624553521241d57b38a7da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2932a7cf3c6681e00455f8292716b46d911010a4d2c84d519f90b2ffa971b35f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960983"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>Impostazioni POP, IMAP & SMTP per Outlook sul Web
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>Impostazioni POP, IMAP & SMTP per Outlook sul web
 
-Se si desidera aggiungere l'account Microsoft 365 a un'altra app di posta elettronica che supporta POP, IMAP o SMTP, ecco le impostazioni del server manuale necessarie:
+Se vuoi aggiungere il tuo account Microsoft 365 a un'altra app di posta che supporta POP, IMAP o SMTP, ecco le impostazioni manuali del server necessarie:
   
-- **Nome server IMAP:** Outlook.office365.com
+- **Nome server IMAP:** outlook.office365.com
 - **Porta IMAP:** 993
 - **Metodo di crittografia IMAP:** SSL/TLS
-- **Nome server pop:** Outlook.office365.com  
-- **Porta pop:** 995  
-- **Metodo di crittografia pop:** SSL/TLS  
-- **Nome server SMTP:** SMTP.office365.com
+- **Nome server POP:** outlook.office365.com  
+- **Porta POP:** 995  
+- **Metodo di crittografia POP:** SSL/TLS  
+- **Nome server SMTP:** smtp.office365.com
 - **Porta SMTP:** 587
 - **Metodo di crittografia SMTP:** STARTTLS

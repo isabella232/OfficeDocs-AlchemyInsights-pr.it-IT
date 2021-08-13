@@ -1,5 +1,5 @@
 ---
-title: Modifica delle autorizzazioni per le cartelle pubbliche
+title: Modifica delle autorizzazioni delle cartelle pubbliche
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -12,27 +12,27 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: a2a902e8fdfd8628772364c173979c633d25a169
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c2fb89f8dd256afb7e922ca74976097501173bf605e6c5fccc73019a71edcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950192"
 ---
-# <a name="changing-public-folder-permissions"></a>Modifica delle autorizzazioni per le cartelle pubbliche
+# <a name="changing-public-folder-permissions"></a>Modifica delle autorizzazioni delle cartelle pubbliche
 
-Le autorizzazioni per le cartelle pubbliche possono essere modificate da utenti e amministratori in Outlook. Gli amministratori possono anche controllare le autorizzazioni dall'interfaccia di amministrazione di Exchange (EAC), eseguendo le operazioni seguenti:
+Le autorizzazioni per le cartelle pubbliche possono essere modificate da utenti e amministratori in Outlook. Gli amministratori possono anche controllare le autorizzazioni dall'Exchange Admin Center (EAC), eseguendo le operazioni seguenti:
   
-1. Nell'interfaccia di amministrazione di Microsoft 365 accedere a interfaccia di **Amministrazione** di \> **Exchange**.
+1. Nell'interfaccia di amministrazione di Microsoft 365, passare a **Interfaccia di amministrazione** \> **Exchange**.
 
-2. Selezionare **cartelle pubbliche**.
+2. Selezionare **Cartelle pubbliche**.
 
-3. Da qui, è possibile modificare le autorizzazioni per le singole cartelle pubbliche assegnando i gruppi di sicurezza alle autorizzazioni. Affinché un utente finale modifichi le autorizzazioni per le cartelle pubbliche, l'utente deve disporre dei diritti di proprietario per la cartella.
+3. Da qui, è possibile modificare le autorizzazioni per singole cartelle pubbliche assegnando gruppi di sicurezza alle autorizzazioni. Per fare in modo che un utente finale cambi le autorizzazioni per le cartelle pubbliche, l'utente deve disporre dei diritti di proprietario per la cartella.
 
-Seguire la procedura illustrata in [come diagnosticare e risolvere i problemi di autorizzazione delle cartelle pubbliche per la](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) risoluzione dei problemi relativi alle autorizzazioni per le cartelle pubbliche.
+Seguire la procedura descritta in [How to diagnose and fix public folder permission issues](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) to troubleshoot public folder permission issues.
 
-**Nota**: esistono diversi problemi noti che possono verificarsi quando si tenta di modificare le autorizzazioni per le cartelle pubbliche. Per ulteriori informazioni, vedere gli articoli seguenti.
+**Nota:** esistono diversi problemi noti che possono verificarsi quando si tenta di modificare le autorizzazioni per le cartelle pubbliche. Per ulteriori informazioni, vedere gli articoli seguenti.
 
-- [Non è possibile applicare le autorizzazioni per le sottocartelle di cartelle pubbliche in EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+- [Impossibile applicare le autorizzazioni alle sottocartelle delle cartelle pubbliche in EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
 
-- ["Errore della cassetta postale nella foresta locale" quando si accede alle cartelle pubbliche](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+- [Errore "La cassetta postale non viene trovata nella foresta locale" quando si accede alle cartelle pubbliche](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)

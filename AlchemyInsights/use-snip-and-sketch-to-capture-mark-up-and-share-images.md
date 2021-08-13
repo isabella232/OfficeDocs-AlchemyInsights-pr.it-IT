@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7a165a0fc5fb7baa7b02f3093f784ca17de2fc0d59332d2e70fb0f507bfeb221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770815"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980345"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Usare Snip & Sketch per acquisire, contrassegnare e condividere immagini
 
 Lo schizzo dello schermo è **ora denominato Snip & Sketch**. **Per eseguire rapidamente un'enip:**
 
-1. Premere il **tasto WINDOWS + MAIUSC + S**. Vedrai lo schermo scuro e il cursore visualizzato come una croce. 
+1. Premere il **Windows logo + MAIUSC + S**. Vedrai lo schermo scuro e il cursore visualizzato come una croce. 
 
 2. Scegliere un punto sul bordo dell'area che si desidera copiare e fare clic con il pulsante sinistro del mouse sul cursore. 
 
