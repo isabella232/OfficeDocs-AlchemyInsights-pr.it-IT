@@ -1,5 +1,5 @@
 ---
-title: 124 ottenere un errore di autorizzazione quando si accede a una cassetta postale condivisa in OWA?
+title: 124 Errore di autorizzazione durante l'accesso a una cassetta postale condivisa in OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: ed3e94ba400a2683c2e023a1832bbd16a1e24b65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5281445378814dc9a50760420ae05815fc90836f5e66a14c00993afbb1921d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706707"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913503"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Ottenere un errore di autorizzazione all'apertura di una cassetta postale condivisa in Outlook sul Web?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Ottenere un errore di autorizzazione quando si apre una cassetta postale condivisa in Outlook sul web?
 
-Se viene visualizzato un errore, è possibile che **qualcosa sia andato storto. Non si dispone dell'autorizzazione necessaria per aprire la cassetta postale.** Quando si tenta di aprire una cassetta postale condivisa in Outlook sul Web, è possibile che l'account non disponga delle autorizzazioni per accedere alla cassetta postale condivisa. L'amministratore dell'organizzazione può assegnare le autorizzazioni per l'account alla cassetta postale condivisa attenendosi alle istruzioni riportate nell'argomento [creare una cassetta postale condivisa](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Se viene visualizzato l'errore **Si è verificato un problema. Non si dispone dell'autorizzazione per aprire questa cassetta postale.** quando si tenta di aprire una cassetta postale condivisa in Outlook sul web, l'account potrebbe non disporre dell'autorizzazione per accedere alla cassetta postale condivisa. L'amministratore dell'organizzazione può assegnare le autorizzazioni dell'account alla cassetta postale condivisa seguendo le istruzioni nell'argomento [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
   

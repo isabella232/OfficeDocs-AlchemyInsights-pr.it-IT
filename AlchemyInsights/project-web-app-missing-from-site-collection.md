@@ -1,5 +1,5 @@
 ---
-title: Project Web App non è presente nella raccolta siti di SharePoint
+title: Project Web App non è presente SharePoint raccolta siti
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82487c13bfc763387d3f433f31e4dc895d6ce3c04f6d8b6426e999a8b5f4b79f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973089"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App non è presente nella raccolta siti di SharePoint
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App non è presente nella raccolta SharePoint siti
 
-È possibile che Project Web App non sia presente nella raccolta siti di SharePoint per i motivi seguenti:
+Project Web App potrebbe non essere presente nella raccolta SharePoint siti per i motivi seguenti:
 
-1. Le organizzazioni hanno solo una licenza di Project Online Essentials. Gli amministratori dovranno aggiungere una licenza di Project Online Professional e/o Premium. Il sito uscirà di sola lettura in quel punto. Per altre informazioni, vedere [confrontare le soluzioni di gestione dei progetti](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Il tenant ha riscontrato un problema di provisioning in cui il provisioning del sito di Project Web App è stato ritardato. Se sono passate più di 24 ore e si verifica ancora il problema, registrare un ticket di supporto. Ci rendiamo conto che 24 ore può sembrare molto. In molti casi, stiamo già lavorando a una soluzione. Per completare una soluzione, è possibile fornirci almeno 24 ore.
+1. Le organizzazioni hanno solo Project Online Essentials licenze. Gli amministratori dovranno aggiungere una Project Online Professional e/o Premium licenza. Il sito non sarà più di sola lettura a quel punto. Per altre info, vedi [Confronto tra Project soluzioni di gestione.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. Il tenant ha riscontrato un problema di provisioning in cui il provisioning Project Web App sito è stato ritardato. Se sono trascorse più di 24 ore e il problema persiste, registrare un ticket di supporto. Ci rendiamo conto che 24 ore può sembrare molto. In molti casi, stiamo già lavorando a una soluzione. Fornire almeno 24 ore per completare una soluzione.

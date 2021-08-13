@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7304"
-ms.openlocfilehash: 8a8a13956237fe146340ff19024a626981138a43
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 17cd75fb3eacd35a5177affc0308c4864359b35ace3aebe317c0c126092b6bba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980973"
 ---
 # <a name="transfer-a-domain-to-microsoft"></a>Trasferire un dominio a Microsoft
 
-La registrazione di un dominio e la fatturazione non possono essere trasferiti a Microsoft.
+La registrazione e la fatturazione dei domini non possono essere trasferite a Microsoft.
 
-Per aggiungere un dominio già in possesso, seguire la [procedura guidata Aggiungi dominio](https://admin.microsoft.com/Adminportal/Domains/Wizard)oppure andare a **Impostazioni**  >  **domini**  >  **Aggiungi dominio**.
+Per aggiungere un dominio già proprietario, seguire [la](https://admin.microsoft.com/Adminportal/Domains/Wizard)procedura guidata Aggiungi dominio o passare a Impostazioni   >  **Domini**  >  **Aggiungi dominio**.
 
-Per ulteriori informazioni sulle modifiche DNS necessarie per la verifica del dominio, vedere [Add DNS Records to Connect Your Domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Per ulteriori informazioni sulle modifiche DNS necessarie per verificare il dominio, vedere [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
-Per qualsiasi domanda relativa ai domini, vedere [domande frequenti sui domini](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Per eventuali domande sui domini, vedere [Domande frequenti sui domini.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)

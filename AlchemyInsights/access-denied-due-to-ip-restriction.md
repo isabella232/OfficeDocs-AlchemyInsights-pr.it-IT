@@ -15,14 +15,14 @@ ms.custom:
 - "6830"
 - "9000150"
 - "7303"
-ms.openlocfilehash: 4447bacc7784496f449f6f7577a13b562e51349d
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: fb316fad5d7550f4449312e2ed3bc418d504b405bf01cd8bf0a180bac10379d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477680"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955385"
 ---
 # <a name="access-denied-due-to-ip-restriction"></a>Accesso negato a causa di restrizioni IP
 
-In qualità di amministratore IT, è possibile controllare l'accesso alle risorse di SharePoint e OneDrive in Microsoft 365 in base a percorsi di rete definiti attendibili. In questo caso si parla di criteri basati sulla posizione. Per ulteriori informazioni, vedere [controllare l'accesso in base al percorso di rete](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location).
+Gli amministratori IT possono controllare l'accesso alle risorse SharePoint e OneDrive in Microsoft 365 in base a percorsi di rete definiti attendibili. In questo caso si parla di criteri basati sulla posizione. Per ulteriori informazioni, vedere [Controllare l'accesso in base al percorso di rete.](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 

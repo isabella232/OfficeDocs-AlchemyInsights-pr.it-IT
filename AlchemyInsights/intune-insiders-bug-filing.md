@@ -1,5 +1,5 @@
 ---
-title: Archiviazione bug Insider di Intune
+title: Archiviazione dei bug di Intune Insider
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667630"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925925"
 ---
-# <a name="intune-insider-bug-filing"></a>Archiviazione bug Insider di Intune
+# <a name="intune-insider-bug-filing"></a>Archiviazione dei bug di Intune Insider
 
-Vi ringrazio per il vostro interesse per il programma Insiders di Intune. Se si è già onboarded per il programma Intune Insiders ed è necessario presentare una richiesta di supporto, eseguire le operazioni seguenti:
+Grazie per l'interesse per il programma Intune Insiders. Se si è già stati onboarded per il programma Intune Insiders ed è necessario determinare una richiesta di supporto, eseguire le seguenti attività:
 
 1. Descrivere il problema nel campo precedente.
-2. Creare una nuova richiesta di servizio utilizzando le opzioni riportate di seguito.
+2. Crea una nuova richiesta di servizio usando le opzioni seguenti.
 
-Un tecnico del supporto di Intune vi contatterà.
+Un tecnico del supporto di Intune ti contatta.
 
-Se non si è nel programma Intune Insiders, vi ringrazio per il vostro interesse. Attualmente non vengono reclutati nuovi partecipanti.
+Se non sei nel programma Intune Insiders, grazie per il tuo interesse. Al momento non vengono assunti nuovi partecipanti.
