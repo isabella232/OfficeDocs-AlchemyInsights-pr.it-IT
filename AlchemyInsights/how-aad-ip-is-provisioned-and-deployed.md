@@ -1,5 +1,5 @@
 ---
-title: Come viene eseguito il provisioning e la distribuzione di Azure Active Directory Identity Protection
+title: Modalità Azure Active Directory provisioning e distribuzione di Identity Protection
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927863"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Come viene eseguito il provisioning e la distribuzione di Azure Active Directory Identity Protection?
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Come Azure Active Directory viene eseguito il provisioning e la distribuzione di Identity Protection?
 
-Per impostazione predefinita, le caratteristiche di Azure Active Directory Identity Protection sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant.
+Per impostazione predefinita, le funzionalità di Azure Active Directory Identity Protection sono abilitate a livello di tenant per tutti gli utenti all'interno del tenant.
 
-Per ulteriori informazioni, vedere [che cos'è Azure Active Directory Identity Protection?](https://go.microsoft.com/fwlink/?linkid=2130395)
+Per ulteriori informazioni, vedere [What is Azure Active Directory Identity Protection?](https://go.microsoft.com/fwlink/?linkid=2130395)
