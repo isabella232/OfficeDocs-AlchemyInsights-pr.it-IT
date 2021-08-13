@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1263662184948ed1e77e3abacd17babf4aa033ed1ecec29b4c4afc26d6da56f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954675"
 ---
 # <a name="why-is-the-add-budget-button-disabled-for-me"></a>Perché il pulsante Aggiungi budget è disabilitato?
 
@@ -27,7 +27,7 @@ Per creare un budget, è necessaria una delle autorizzazioni seguenti:
 - Collaboratore gestione costi
 - Proprietario
 - Collaboratore
-- Solo cliente aziendale: registrazione, reparto, ambiti account
+- Enterprise Solo cliente: registrazione, reparto, ambiti account
 - Amministratore registrazione (impostare il budget nell'ambito di registrazione)
 - Amministratore reparto (impostare il budget nell'ambito del reparto)
 - Proprietario dell'account (impostare il budget nell'ambito dell'account)

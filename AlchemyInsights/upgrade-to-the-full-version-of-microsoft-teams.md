@@ -12,19 +12,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb507bedd059b6baf23b471b0fc2d75234cfab4e41eba655a83a645c65669680
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808351"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919607"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Eseguire l'aggiornamento alla versione completa di Microsoft Teams
 
-È necessario eseguire l'aggiornamento dalla versione completa gratuita di Microsoft Teams? Vedere [upgrade Microsoft teams Free to microsoft 365 Subscription Version](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+È necessario eseguire l'aggiornamento dalla versione gratuita alla versione completa di Microsoft Teams? Vedere [Aggiornamento Microsoft Teams versione Microsoft 365 abbonamento](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-È necessario soddisfare i requisiti seguenti:
+Dovrai soddisfare questi requisiti:
 
-- Sei la persona che si è iscritta alla versione gratuita corrente dei team.
-- Se si dispone di un proprio dominio, non può essere già associato ad Azure Active Directory.
-- Per trasferire i dati durante l'aggiornamento, è necessario eseguire la sottoscrizione durante il processo di aggiornamento. Se si è acquistato un abbonamento al di fuori del processo di aggiornamento, non è possibile trasferire i dati.
+- Sei la persona che ha effettuato l'accesso alla versione gratuita corrente di Teams.
+- Se si dispone di un proprio dominio, non può essere già associato a Azure Active Directory.
+- Per trasferire i dati durante l'aggiornamento, è necessario sottoscrivere durante il processo di aggiornamento. Se è stata acquistata una sottoscrizione al di fuori del processo di aggiornamento, non è possibile trasferire i dati.

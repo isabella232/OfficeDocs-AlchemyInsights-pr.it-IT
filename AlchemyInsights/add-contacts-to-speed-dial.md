@@ -1,5 +1,5 @@
 ---
-title: Aggiungere contatti a Speed Dial
+title: Aggiungere contatti alla composizione rapida
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6658"
 - "9003570"
-ms.openlocfilehash: aed240e9d7cdfdf4263093472cc9b66c95a837e6
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: d40b9f116efb1d4e929f2d5a90625751cf647c5a153eef74fe49ae09f1202263
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334179"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954557"
 ---
-# <a name="add-contacts-to-speed-dial"></a>Aggiungere contatti a Speed Dial
+# <a name="add-contacts-to-speed-dial"></a>Aggiungere contatti alla composizione rapida
 
-1. Nelle  **chiamate**, passare a  **contatti**.
-2. Se viene visualizzata una scheda per la persona che si desidera aggiungere a Speed Dial, selezionare  **altre opzioni**  (tre punti) sulla propria scheda e selezionare  **Aggiungi a Speed Dial**.
+1. In  **Chiamate** passare a  **Contatti**.
+2. Se viene visualizzata una scheda per la persona che si desidera aggiungere alla composizione veloce, selezionare Altre opzioni **(tre** puntini) sulla scheda e selezionare Aggiungi **a composizione veloce.**
 
-Se la persona non viene visualizzata, selezionare  **Aggiungi chiamata**  rapida in alto a destra dello schermo, iniziare a digitare il nome, selezionare la persona e quindi fare clic su  **Aggiungi**.
+Se la persona non è  visualizzata, selezionare Aggiungi composizione veloce in alto a destra dello schermo, iniziare a digitare il nome, selezionare la persona e quindi **selezionare Aggiungi**.

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0aa1c016f229399f451655f691486c4618fce55d2952ea677edb902349dd270
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836103"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944387"
 ---
 # <a name="permanently-delete-an-email-in-outlook"></a>Eliminare definitivamente un messaggio di posta elettronica in Outlook
 
 - Dalla visualizzazione Posta in arrivo, premere a lungo un messaggio e verrà visualizzata l'icona del cestino. Toccare questa icona per eliminare il messaggio.
 
-- Puoi anche impostare "elimina" come opzione di scorrimento rapido (**Impostazioni -> Opzioni scorrimento rapido**); quindi usa il dito per scorrere il messaggio di posta che vuoi eliminare. 
+- Puoi anche impostare "elimina" come opzione scorrimento rapido (**Impostazioni -> Opzioni scorrimento rapido**); quindi usa il dito per scorrere il messaggio di posta che vuoi eliminare. 
 
 - Per eliminare un messaggio da una visualizzazione di posta elettronica aperta, toccare l'icona del cestino nella parte superiore dello schermo. I messaggi eliminati verranno spostati nella cartella Cestino. 
 
