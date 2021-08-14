@@ -1,5 +1,5 @@
 ---
-title: 604 categorie di risoluzione dei problemi
+title: 604 Troubleshooting Categories
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 4c06a6e1ddd333fff147912ac37a339574da4c9a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2ca842df04a7d4b702606d57757192ffe328cad79f3f5a07abc450f8ff92288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972531"
 ---
-# <a name="outlook-categories"></a>Categorie di Outlook
+# <a name="outlook-categories"></a>Outlook categorie
 
-Le categorie sono valide solo per gli elementi del calendario. Se si applica una categoria di colori a una convocazione di riunione o a una riunione ricevuta da un'altra persona, la categoria di colore verrà visualizzata solo nel calendario.  Se si applica una categoria di colori in una cassetta postale condivisa, delegare cassetta postale, cassetta postale di gruppo, cassetta postale sala e così via la categoria colore influisce solo sulla visualizzazione.
+Le categorie si applicano solo agli elementi del calendario. Se si applica una categoria a colori a una convocazione di riunione o a una riunione ricevuta da un'altra persona, tale categoria a colori verrà mostrata solo nel calendario.  Se si applica una categoria a colori a una cassetta postale condivisa, una cassetta postale delegata, una cassetta postale di gruppo, una cassetta postale sala e così via, la categoria a colori influisce solo sulla visualizzazione.
 
-Per ulteriori informazioni: [assegnare una categoria di colori a un appuntamento, una riunione o un evento del calendario](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
+Per ulteriori informazioni: [Assegnare una categoria a colori a un appuntamento, una riunione o un evento del calendario](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
