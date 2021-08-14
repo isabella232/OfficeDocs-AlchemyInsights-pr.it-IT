@@ -1,5 +1,5 @@
 ---
-title: Impostazione dell'inoltro a più indirizzi di posta elettronica
+title: Configurazione dell'inoltro a più indirizzi di posta elettronica
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,19 +12,19 @@ ms.custom:
 - "837"
 - "1200004"
 ms.assetid: 81205bed-e32a-468d-9d4c-9e881622908b
-ms.openlocfilehash: 0b44d1e8f7f8c3674666b3ff6a8b515d2f2d66b3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 964285715720ee852ddb537ddfbaf1c6fb6bd3363eec83ffadc881b741035cad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798848"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958121"
 ---
-# <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Impostazione dell'inoltro a più indirizzi di posta elettronica
+# <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Configurazione dell'inoltro a più indirizzi di posta elettronica
 
-Se è necessario configurare l'inoltro della posta elettronica a un gruppo di utenti, creare una lista di distribuzione, aggiungervi più utenti e quindi configurare l'inoltro a quell'elenco. In primo luogo, nell'interfaccia di amministrazione, **passare a gruppi gruppo**  >  [Groups](https://portal.office.com/adminportal/home#/groups).
+Se è necessario configurare l'inoltro della posta elettronica a un gruppo di utenti, creare una lista di distribuzione, aggiungervi più utenti e quindi configurare l'inoltro a tale elenco. Innanzitutto, nell'interfaccia di amministrazione, passare a **Gruppi**  >  [Gruppi](https://portal.office.com/adminportal/home#/groups).
   
 1. Creare un gruppo.
 
 2. Aggiungere più utenti.
 
-3. Configurare l'inoltro delle cassette postali al gruppo.
+3. Configurare l'inoltro delle cassette postali a tale gruppo.

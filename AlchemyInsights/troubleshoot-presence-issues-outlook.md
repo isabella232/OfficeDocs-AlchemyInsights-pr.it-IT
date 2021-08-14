@@ -6,8 +6,8 @@ title: "Risolvere i problemi di presenza in Outlook" ms.author: pebaum author: p
 
 # <a name="troubleshoot-presence-issues-in-outlook"></a>Risolvere i problemi di presenza in Outlook
 
-Per diagnosticare e correggere i problemi relativi allo stato di presenza di un utente in Outlook, scaricare ed eseguire Assistente supporto e ripristino Microsoft > [Scenario presenza di Teams.](https://aka.ms/SaRA-TeamsPresenceScenario)
+Per diagnosticare e correggere i problemi relativi allo stato di presenza di un utente in Outlook, scaricare ed eseguire Microsoft Assistente supporto e ripristino > [Teams Presence Scenario](https://aka.ms/SaRA-TeamsPresenceScenario).
 
-Per risolvere manualmente un problema relativo alla presenza in Outlook, seguire la procedura descritta in Problemi relativi allo stato della presenza [dell'utente in Outlook.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
+Per risolvere manualmente un problema relativo alla presenza in Outlook, seguire i passaggi descritti in Problemi relativi allo stato della presenza [dell'utente in Outlook](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook).
 
-Se lo stato di presenza non viene aggiornato in Teams, vedere Lo stato di presenza effettivo non [si riflette in Teams.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
+Se lo stato di presenza non viene aggiornato in Teams, vedere Lo stato di presenza effettivo non si riflette [in Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).

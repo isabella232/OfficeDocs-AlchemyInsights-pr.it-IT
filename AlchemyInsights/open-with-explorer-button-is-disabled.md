@@ -1,5 +1,5 @@
 ---
-title: Apri con il pulsante Esplora è disabilitato
+title: Il pulsante Apri con Esplora risorse è disabilitato
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 4bfb877c52bab26eb3e43c95901857ef731d0bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff4d8a16cbb92aa36f165f9a6525ccba7dedff49ccc1805097206dbab43ce40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944603"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>Il pulsante Apri con Esplora è disabilitato
+# <a name="the-open-with-explorer-button-is-disabled"></a>Il pulsante Apri con Esplora risorse è disabilitato
 
-- Passare al percorso di SharePoint o OneDrive in Internet Explorer 10 o Internet Explorer 11. Il pulsante non è compatibile con altri Web browser.
+- Passare al percorso SharePoint o OneDrive in Internet Explorer 10 o Internet Explorer 11. Il pulsante non è compatibile con altri Web browser.
     
 > [!NOTE]
-> L'apertura di una raccolta in Esplora file è utile se è necessario copiare o spostare più file e cartelle una sola volta, ma se si desidera lavorare regolarmente nella raccolta, è consigliabile sincronizzarla. Per ulteriori informazioni e per la risoluzione di altri problemi relativi all'apertura in Esplora file, vedere [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Per informazioni su come configurare la sincronizzazione, vedere [sincronizzare i file di SharePoint con il nuovo client di sincronizzazione di OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> L'apertura di una raccolta in Esplora file è utile se è necessario copiare o spostare più file e cartelle una sola volta, ma se si desidera lavorare regolarmente nella raccolta, è consigliabile sincronizzarla. Per altre informazioni e per risolvere altri problemi relativi all'apertura in Esplora file, [vedi Aprire in Esplora file.](https://go.microsoft.com/fwlink/?linkid=871665) Per info sulla configurazione della sincronizzazione, vedi [Sincronizzare SharePoint file con il nuovo client sincronizzazione OneDrive.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

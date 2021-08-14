@@ -1,5 +1,5 @@
 ---
-title: Configurazione del progetto
+title: Configurazione Project
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Destinazione non più di 500 parole per un articolo.
-ms.openlocfilehash: 4d3ca7c415227b8f299e4ae280c7e35c24a5e7db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Selezionare come destinazione non più di 500 parole per un articolo.
+ms.openlocfilehash: 1dc306a480cdc920b9f756090f972a844b434a3ba475e40a1fbb08c89f625c51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798776"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958013"
 ---
-# <a name="setting-up-project"></a>Configurazione del progetto
+# <a name="setting-up-project"></a>Configurazione Project
 
- Per configurare Microsoft Project, seguire la procedura descritta in [questo articolo](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).
+ Per configurare Microsoft Project, seguire i passaggi descritti in [questo articolo.](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)
 
-**Avviso per gli utenti Mac:** Il prodotto del progetto non è disponibile per MacOS in questo momento. 
+**Avviso per gli utenti Mac:** Il Project non è attualmente disponibile per MacOS. 
   
-Se si verificano errori durante l'installazione, [installare Project utilizzando l'Assistente di supporto e ripristino](https://aka.ms/SaRA-ProjectSetupScenario).
+Se si verificano errori durante l'installazione, [installare Project utilizzando il](https://aka.ms/SaRA-ProjectSetupScenario)Assistente supporto e ripristino .
