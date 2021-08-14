@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: eab7f1434160b8b2b3a754235b4ea58870dc0003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd25e36817a9c5193a483a34d9aea1f209e8e7971c180772b32a9552ee67222
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095978"
 ---
 # <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemi con la posta indesiderata che dichiara di essere da LinkedIn
 
-Siamo consapevoli che alcuni utenti ricevono messaggi di posta indesiderata che pretende di essere da LinkedIn.
+Siamo consapevoli del fatto che alcuni utenti ricevono posta indesiderata che dichiara di essere da LinkedIn.
 
-È consigliabile utilizzare una regola di posta in arrivo per filtrare tali messaggi di posta elettronica.
+È consigliabile usare una regola di Posta in arrivo per filtrare questi messaggi di posta elettronica.
 
-Per ulteriori informazioni, vedere come [utilizzare le regole di posta in arrivo in Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).
+Per ulteriori informazioni, vedere come utilizzare le regole di [Posta in arrivo in Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).

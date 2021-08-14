@@ -1,5 +1,5 @@
 ---
-title: Criteri di autorizzazione delle app
+title: Criteri di autorizzazione app
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477681"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951677"
 ---
-# <a name="app-permission-policies"></a>Criteri di autorizzazione delle app
+# <a name="app-permission-policies"></a>Criteri di autorizzazione app
 
-Con i [criteri di autorizzazione delle app](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies), è possibile eseguire le operazioni seguenti:
-- In qualità di amministratore, è possibile gestire i criteri di configurazione delle app nell'interfaccia di [amministrazione di Microsoft teams](https://admin.teams.microsoft.com/policies/app-permission).
-- Controllare quali app sono disponibili per gli utenti di Microsoft teams nell'organizzazione utilizzando criteri globali o [creare e assegnare criteri personalizzati](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) per personalizzare e controllare l'accesso utente alle app. 
+Con [i criteri di autorizzazione dell'app](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)puoi eseguire le operazioni seguenti:
+- Gli amministratori possono gestire i criteri di configurazione delle app [nell'Microsoft Teams di amministrazione.](https://admin.teams.microsoft.com/policies/app-permission)
+- Controlla quali app sono disponibili per Microsoft Teams utenti dell'organizzazione usando criteri globali o crea e assegna criteri personalizzati per personalizzare e controllare l'accesso degli utenti alle app. [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) 
 > [!NOTE]
-> Le impostazioni delle app a livello di organizzazione eseguono l'override dei criteri globali e di tutti i criteri personalizzati creati e assegnati agli utenti.
-- È possibile utilizzare i [criteri di installazione delle app](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) per personalizzare Microsoft teams per evidenziare le app più importanti per gli utenti. 
+> Le impostazioni dell'app a livello di organizzazione sostituiscono i criteri globali e gli eventuali criteri personalizzati creati e assegnati agli utenti.
+- Puoi usare i [criteri di configurazione delle app](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) per personalizzare Microsoft Teams per evidenziare le app più importanti per gli utenti. 
 
 
-Per ulteriori informazioni sulla creazione dei criteri delle app per il tenant, vedere:
-- [Gestire le app nell'interfaccia di amministrazione di Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+Per altre informazioni sulla creazione di criteri app per il tenant, vedi:
+- [Gestire le app nell'Microsoft Teams di amministrazione](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
 - [Gestire i criteri di autorizzazione delle app in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Gestire le impostazioni e i criteri delle app personalizzati in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+- [Gestire i criteri e le impostazioni delle app personalizzate in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
