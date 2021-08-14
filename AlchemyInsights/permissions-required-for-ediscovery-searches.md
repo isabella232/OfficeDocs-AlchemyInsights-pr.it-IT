@@ -1,5 +1,5 @@
 ---
-title: 1489-Permissions-required-for-eDiscovery-Searches
+title: 1489-permissions-required-for-ediscovery-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973845"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Autorizzazioni necessarie per le ricerche di eDiscovery
+# <a name="permissions-required-for-ediscovery-searches"></a>Autorizzazioni necessarie per le ricerche eDiscovery
 
-Per eseguire ricerche di contenuto nel centro sicurezza & Compliance, un utente deve essere almeno membro del gruppo di ruoli eDiscovery Manager, che consente di eseguire ricerche e mantenere le esenzioni nelle cassette postali, nei siti di SharePoint e nelle posizioni di OneDrive. I membri possono anche creare e gestire i casi di eDiscovery, aggiungere e rimuovere membri in un caso, creare e modificare ricerche di contenuto e accedere ai dati del caso in Advanced eDiscovery.
+Per eseguire ricerche di contenuto nel Centro sicurezza e conformità &, un utente deve essere almeno membro del gruppo di ruoli Manager eDiscovery, che consente di eseguire ricerche e di inserire blocchi nelle cassette postali, nei siti di SharePoint e nelle posizioni OneDrive. I membri possono anche creare e gestire casi di eDiscovery, aggiungere e rimuovere membri a un caso, creare e modificare ricerche contenuto e accedere ai dati dei casi in Advanced eDiscovery.
 
-Per eseguire ricerche eDiscovery sul posto nell'interfaccia di amministrazione di Exchange (EAC), l'utente deve essere membro del gruppo di ruoli Gestione individuazione in Exchange Online.
+Per eseguire In-Place ricerche eDiscovery nell'interfaccia di amministrazione di Exchange (EAC), l'utente deve essere membro del gruppo di ruoli Gestione individuazione in Exchange Online.
 
 Per ulteriori informazioni sulle autorizzazioni di eDiscovery, vedere: 
 
-- [Assegnare le autorizzazioni di eDiscovery nel centro sicurezza & Compliance](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- [Assegnare le autorizzazioni di eDiscovery nel Centro sicurezza e conformità](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 - [Assegnare le autorizzazioni di eDiscovery di Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Nota**: dopo aver assegnato le autorizzazioni di eDiscovery, potrebbe essere necessario attendere qualche minuto affinché le autorizzazioni vengano propagate.
+**Nota:** dopo aver assegnato le autorizzazioni di eDiscovery, potrebbe essere necessario attendere alcuni minuti per la propagazione delle autorizzazioni.

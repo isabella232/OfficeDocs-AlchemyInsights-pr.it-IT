@@ -1,5 +1,5 @@
 ---
-title: Schema XML del modulo Dynamics 365
+title: XML Schema del modulo dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: a8ece1151885f6905b00dbd0daf7b18fdff60b29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d8d652e991c0ebaae6a79230a5fd0fcacf8ce6bbdf2622dfdcc448cc7e2353c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711315"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947267"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Limitazioni relative alle risorse Web (HTML)
+# <a name="webpage-html-web-resources-limitations"></a>Limitazioni delle risorse Web (HTML) delle pagine Web
 
-* Una risorsa Web HTML non può contenere codice che deve essere eseguito sul server. Le pagine di ASP.NET non possono essere caricate come risorse Web HTML.
+* Una risorsa Web HTML non può contenere codice che deve essere eseguito sul server. ASP.NET le pagine non possono essere caricate come risorse Web HTML.
 
-* Le risorse Web HTML possono accettare solo un numero limitato di parametri della stringa di query. Ulteriori informazioni: [passare parametri alle risorse Web HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* Le risorse Web HTML possono accettare solo un numero limitato di parametri della stringa di query. Ulteriori informazioni: [Passare parametri alle risorse Web HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Risorse Web (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Risorse Web web (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

@@ -1,5 +1,5 @@
 ---
-title: Impedire l'avvio automatico dei team
+title: Impedisci Teams'avvio automatico
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: cc5951a271173d1f6849df0d9d2b67df8b776bdc
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 0e35a182fb8ffbb48e5c3bff72881c2cd14d778f83c759efc99c372900de6991
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923798"
 ---
-# <a name="prevent-teams-from-starting-automatically"></a>Impedire l'avvio automatico dei team
+# <a name="prevent-teams-from-starting-automatically"></a>Impedisci Teams'avvio automatico
 
-Per impostazione predefinita, i team vengono aperti automaticamente quando si avvia il dispositivo.
+Per impostazione predefinita, Teams si apre automaticamente all'avvio del dispositivo.
 
-Per modificare questa impostazione, selezionare l'immagine del profilo teams e quindi selezionare **Impostazioni**  >   **generali**. In  **applicazione**, deselezionare applicazione di  **avvio automatico**.
+Per modificare questa impostazione, selezionare l'immagine Teams profilo e quindi selezionare **Impostazioni**  >   **Generale.** In  **Applicazione** deselezionare Avvia  **automaticamente applicazione**.
 
-Per ulteriori informazioni, vedere  [Change Settings in teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).
+Per ulteriori informazioni, vedere [Modificare le impostazioni in Teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).

@@ -1,5 +1,5 @@
 ---
-title: Recuperare i video di Stream eliminati dal Cestino
+title: Recuperare i video stream eliminati dal Cestino
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "8282"
-ms.openlocfilehash: 173df399f90ed2bae9b4b91d0f731bee7984c9ab
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 48e3aa2ac47b031f8380c6a03b43eb22419ba89eb149b98a0b63b71f3713ca0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50257601"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959435"
 ---
-# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Recuperare i video di Stream eliminati dal Cestino
+# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Recuperare i video stream eliminati dal Cestino
 
 Quando i video vengono eliminati in Microsoft Stream, vengono eliminati in un Cestino di 30 giorni.
 
