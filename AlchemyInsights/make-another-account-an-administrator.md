@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 94a5d0347172ace52a874ada19b20e61f48f8cc43e5f849d4a8400a2288aeb88
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993213"
 ---
 # <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Modificare un account utente standard in un amministratore in Windows 10
 
 Ecco come modificare un account utente standard in un amministratore in Windows 10:
 
-1. Vai a **Impostazioni Start** Famiglia di & altre persone (o Altre persone , se  >    >    >   stai usando Windows 10 Enterprise). 
+1. Vai a **Start Impostazioni** Account Family & altre persone (o Altre persone , se si usa  >    >    >   Windows 10 Enterprise). 
 2. Selezionare l’account che si vuole impostare come amministratore e selezionare **Modifica account**.
 3. In **Tipo di account**, selezionare **Amministratore**, quindi scegliere **OK**.
 

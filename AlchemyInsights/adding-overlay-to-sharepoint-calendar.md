@@ -1,5 +1,5 @@
 ---
-title: Aggiunta di una sovrimpressione a un calendario di SharePoint
+title: Aggiunta di una sovrimpressione a SharePoint calendario
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ceed47bf94350b52da3633da5afbff1a70a8ca6d651576bc1d89acdbaf7af65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953021"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Aggiunta di una sovrimpressione a un calendario di SharePoint
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Aggiunta di una sovrimpressione a SharePoint calendario
 
-I calendari di SharePoint sono tipi di elenco classici che a volte vengono confusi con i calendari di gruppo di Microsoft 365.
+SharePoint I calendari sono tipi di elenco classici che a volte vengono confusi Microsoft 365 calendari di gruppo.
  
-Se si utilizza un calendario di SharePoint nel sito, è possibile sovrapporvi il proprio calendario di Exchange per creare una visualizzazione calendario combinata. In alternativa, è possibile sovrapporre un altro calendario di SharePoint purché entrambi i calendari di SharePoint siano nella stessa raccolta siti.
+Se si utilizza un SharePoint calendario personalizzato nel sito, è possibile sovrapporvi il proprio Exchange calendario per creare una visualizzazione calendario combinata. In alternativa, è possibile sovrapporre un altro SharePoint calendario a SharePoint nella stessa raccolta siti.
  
-Per aggiungere una sovrimpressione a un calendario di SharePoint classico, seguire i passaggi descritti in Sovrimpressione di un calendario di SharePoint con un [calendario di Exchange o SharePoint.](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)
+Per aggiungere una sovrimpressione a un calendario SharePoint classico, seguire i passaggi descritti in Overlay [a SharePoint calendar with a calendar from Exchange or SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).

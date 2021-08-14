@@ -1,5 +1,5 @@
 ---
-title: URL e indirizzi IP di Microsoft 365
+title: Microsoft 365 URL e indirizzi IP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,16 +15,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 9f16418ca2aa9c21e320b4263987621a0b1cfb50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 89611ac0a3f39e7317df9719d1ea4a0ab2b9fe13da0ec634bb83190870fe5874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51802603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985509"
 ---
 # <a name="microsoft-365-urls-and-ip-address-ranges"></a>URL e intervalli di indirizzi IP per Microsoft 365
 
 Microsoft 365 richiede la connettività a Internet tramite indirizzi IP specifici denominati *endpoint.*
-Per un elenco degli endpoint che devono essere raggiungibili, vedere URL e intervalli di indirizzi IP di [Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+Per un elenco degli endpoint che devono essere raggiungibili, vedere Microsoft 365 URL e [intervalli di indirizzi IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
 
-Il servizio Web Indirizzo IP e URL di Microsoft 365 consente di identificare e differenziare meglio il traffico di rete di Microsoft 365, semplificando la valutazione, la configurazione e il rimanere aggiornati con le modifiche. Vedere Servizio Web URL e indirizzo [IP di Microsoft 365](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).
+Il servizio Web Microsoft 365 INDIRIZZO IP e URL consente di identificare e differenziare meglio il traffico di rete di Microsoft 365, semplificando la valutazione, la configurazione e il rimanere aggiornati con le modifiche. Vedere [Microsoft 365 servizio Web indirizzo IP e URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).

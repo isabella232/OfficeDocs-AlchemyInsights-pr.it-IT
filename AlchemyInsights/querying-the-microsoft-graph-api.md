@@ -1,5 +1,5 @@
 ---
-title: Esecuzione di query nell'API di Microsoft Graph
+title: Esecuzione di query sull'API di Microsoft Graph
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,95 +12,95 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: 527e88c7b3cb1cc4f5535e3b0d2bc4d8d1163336
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950715"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923243"
 ---
-# <a name="querying-the-microsoft-graph-api"></a>Esecuzione di query nell'API di Microsoft Graph
+# <a name="querying-the-microsoft-graph-api"></a>Esecuzione di query sull'API di Microsoft Graph
 
-Questo argomento potrebbe essere valido anche per gli sviluppatori che utilizzano ancora Azure AD Graph API. Tuttavia, **è consigliabile utilizzare** Microsoft Graph per tutti gli scenari di gestione delle directory, delle identità e degli accessi.
+Questo argomento può essere applicabile anche agli sviluppatori che usano ancora l'API Graph Azure AD. È tuttavia consigliabile **utilizzare** Microsoft Graph per tutti gli scenari di gestione di directory, identità e accessi.
 
 **Problemi di autenticazione o autorizzazione**
 
-- Se l'app **non è in grado di acquisire token** per chiamare Microsoft Graph, scegli **un problema con la categoria ottenere un token di accesso (autenticazione)** di Microsoft Graph per ottenere assistenza e supporto più specifici su questo argomento.
-- Se l'app **riceve gli errori di autorizzazione 401 o 403** quando si chiama Microsoft Graph, scegliere la categoria **ottenere un errore di accesso negato (autorizzazione)** Microsoft Graph API per ottenere assistenza e supporto più specifiche su questo argomento.
+- Se la tua app non è in grado di acquisire **token** per chiamare Microsoft Graph, seleziona Problema con il recupero di un token di accesso **(autenticazione)** categoria Microsoft Graph per ottenere assistenza e supporto più specifici su questo argomento.
+- Se l'app riceve errori di autorizzazione **401 o 403** durante la chiamata a Microsoft Graph, seleziona la categoria Ottenere un errore di accesso negato **(autorizzazione)** API di Microsoft Graph per ottenere assistenza e supporto più specifici su questo argomento.
 
-**Si desidera utilizzare Microsoft Graph, ma non si è certi da dove iniziare**
+**Voglio usare Microsoft Graph, ma non so da dove iniziare**
 
 Per ulteriori informazioni su Microsoft Graph, vedere:
 
 - [Panoramica di Microsoft Graph](https://docs.microsoft.com/graph/overview)
 - [Panoramica della gestione delle identità e degli accessi in Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Guida introduttiva alla creazione di app di Microsoft Graph](https://docs.microsoft.com/graph/)
-- **Microsoft Graph Explorer** -testare le API di Microsoft Graph nel tenant o un tenant demo
+- [Introduzione alla creazione di app Graph Microsoft](https://docs.microsoft.com/graph/)
+- **Microsoft Graph Explorer** - Testare le API di Microsoft Graph nel tenant o in un tenant demo
 
-**Si desidera utilizzare Microsoft Graph, ma supporta le API della directory v 1.0 di cui ho bisogno?**
+**Voglio usare Microsoft Graph, ma supporta le API della directory v1.0 necessarie?**
 
-Microsoft Graph è l'API consigliata per la gestione delle directory, dell'identità e degli accessi. Tuttavia, vi sono ancora alcuni spazi vuoti tra ciò che è possibile fare in Azure AD Graph e Microsoft Graph. Esaminare gli articoli seguenti, in cui vengono evidenziate le differenze più aggiornate per facilitare la scelta:
+Microsoft Graph è l'API consigliata per la gestione di directory, identità e accessi. Tuttavia, esistono ancora alcune lacune tra ciò che è possibile in Azure AD Graph e Microsoft Graph. Leggere gli articoli seguenti, che evidenziano le differenze più aggiornate per agevolare la scelta:
 
 - [Differenze tra i tipi di risorse tra Azure AD Graph e Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [Differenze tra le proprietà tra Azure AD Graph e Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [Differenze di proprietà tra Azure AD Graph e Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
 - [Differenze di metodo tra Azure AD e Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-**Quando si esegue una query sull'oggetto *utente* , molte delle relative proprietà sono mancanti**
+**Quando si esegue una query *sull'oggetto* utente, molte delle relative proprietà sono mancanti**
 
-`GET https://graph.microsoft.com/v1.0/users` restituisce solo 11 proprietà, in quanto Microsoft Graph seleziona automaticamente un insieme predefinito di proprietà *utente* da restituire. Se sono necessarie altre proprietà *degli utenti* , utilizzare $Select per scegliere le proprietà necessarie per l'applicazione. Provare in **Microsoft Graph Explorer** per primo.
+`GET https://graph.microsoft.com/v1.0/users`restituisce solo 11 proprietà, poiché Microsoft Graph automaticamente un set predefinito *di* proprietà utente da restituire. Se sono necessarie altre *proprietà utente,* utilizzare $select per selezionare le proprietà necessarie per l'applicazione. Provalo prima in **Microsoft Graph Explorer.**
 
-**Alcuni valori delle proprietà utente sono *null* anche se sono stati impostati**
+**Alcuni valori delle proprietà utente *sono null* anche se sono impostati**
 
-La spiegazione più probabile è che all'applicazione sia stata concessa l'autorizzazione *User. ReadBasic. All* . In questo modo l'applicazione può leggere un insieme limitato di proprietà dell'utente, restituendo tutte le altre proprietà come null anche se sono stati precedentemente impostati. Provare a concedere invece l'autorizzazione *User. Read. All* dell'applicazione.
+La spiegazione più probabile è che all'applicazione sia stata concessa *l'autorizzazione User.ReadBasic.All.* In questo modo l'applicazione può leggere un set limitato di proprietà utente, restituisce tutte le altre proprietà come null anche se sono state impostate in precedenza. Provare invece a concedere *all'applicazione l'autorizzazione User.Read.All.*
 
-Per ulteriori informazioni, vedere [autorizzazioni utente di Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
+Per ulteriori informazioni, vedere [Microsoft Graph autorizzazioni utente.](https://docs.microsoft.com/graph/permissions-reference#user-permissions)
 
-**Si verificano problemi con i parametri di query OData per filtrare i dati nelle richieste personali**
+**I'm having trouble using OData query parameters to filter data in my requests**
 
-Mentre Microsoft Graph supporta una vasta gamma di parametri di query OData, molti di questi parametri non sono completamente supportati dai servizi directory (risorse che ereditano da *directoryObject*) in Microsoft Graph. Le stesse limitazioni presenti in Azure AD Graph persistono per la maggior parte in Microsoft Graph:
+Sebbene Microsoft Graph supporti un'ampia gamma di parametri di query OData, molti di questi parametri non sono completamente supportati dai servizi directory (risorse che ereditano da *directoryObject*) in Microsoft Graph. Le stesse limitazioni presenti in Azure AD Graph persistono per la maggior parte in Microsoft Graph:
 
-1. **Non supportato**: $count, $search e $Filter su valori *null* o *non null*
-2. **Non supportato**: $Filter su determinate proprietà (vedere Resource topics on quali proprietà sono filtrabili)
-3. **Non supportato**: paging, filtro e ordinamento allo stesso tempo
-4. **Non supportato**: filtro su una relazione. Ad esempio, trovare tutti i membri del gruppo di ingegneri che si trovano nel Regno Unito.
-5. **Supporto parziale**: $OrderBy su *utente* (solo DisplayName e userPrincipalName) e *gruppo*
-6. **Supporto parziale**: $Filter (supporta solo il supporto di *EQ*, *StartsWith* *o* *, e e limitate*), $Expand (l'espansione delle relazioni di un singolo oggetto restituisce tutte le relazioni, ma l'espansione di una raccolta di relazioni degli oggetti è *limitata)*
+1. **Non supportato:**$count, $search e $filter valori *null* o *non Null*
+2. **Non supportato:**$filter su determinate proprietà (vedere gli argomenti relativi alle risorse in cui è possibile filtrare le proprietà)
+3. **Non supportato:** paging, filtro e ordinamento contemporaneamente
+4. **Non supportato:** filtro in base a una relazione. Ad esempio, trovare tutti i membri del gruppo di progettazione che si trovano nel Regno Unito.
+5. **Supporto parziale:**$orderby su *utente* (solo displayName e userPrincipalName) e *gruppo*
+6. **Supporto** parziale: $filter (supporta solo il supporto *eq* *,* *startswith* *o*, e limited *any),*$expand (l'espansione delle relazioni di un singolo oggetto restituisce tutte le relazioni, ma l'espansione di un insieme di relazioni degli oggetti è limitata)
 
-Per ulteriori informazioni, vedere [Customize Responses with query parameters](https://docs.microsoft.com/graph/query-parameters).
+Per ulteriori informazioni, vedere [Personalizzare le risposte con i parametri di query.](https://docs.microsoft.com/graph/query-parameters)
 
-**L'API che chiamo non funziona-dove è possibile eseguire altre operazioni di testing?**
+**L'API che chiamo non funziona: dove posso eseguire altri test?**
 
-**Microsoft Graph Explorer** -testare le API di Microsoft Graph nel tenant o un tenant demo e consultare anche le **query di esempio** in Esplora risorse di Microsoft Graph.
+**Microsoft Graph Explorer** - Testare le API di Microsoft Graph nel tenant o in un tenant demo e consultare anche le query di esempio **in** Microsoft Graph Explorer.
 
-**Quando si esegue una query per i dati, sembra che venga restituito un set di dati incompleto**
+**Quando si esegue una query per i dati, sembra che si otterrà un set di dati incompleto**
 
-Se si esegue una query su un insieme (come *gli utenti*), Microsoft Graph utilizza limiti di pagina sul fianco del server in modo che i risultati vengano sempre restituiti con una dimensione di pagina predefinita. L'app dovrebbe sempre aspettarsi di passare alla pagina tramite gli insiemi restituiti dal servizio.
-
-Per altre informazioni, vedere:
-
-- [Procedure consigliate di Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Paging dei dati di Microsoft Graph nell'app](https://docs.microsoft.com/graph/paging)
-
-**L'app è troppo lenta e viene anche strozzata. Quali miglioramenti è possibile apportare?**
-
-A seconda dello scenario, sono disponibili diverse opzioni per rendere l'applicazione più performante e, in alcuni casi, meno incline a essere strozzata dal servizio (quando si effettuano troppe chiamate).
+Se si esegue una query su una raccolta , ad esempio gli utenti *,* Microsoft Graph utilizza i limiti delle pagine sul lato server in modo che i risultati siano sempre restituiti con dimensioni di pagina predefinite. L'app deve sempre prevedere di scorrere le raccolte restituite dal servizio.
 
 Per altre informazioni, vedere:
 
-- [Procedure consigliate di Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Richieste di batch](https://docs.microsoft.com/graph/json-batching)
-- [Registrare le modifiche tramite la query Delta](https://docs.microsoft.com/graph/delta-query-overview)
-- [Ricevere una notifica delle modifiche tramite webhook](https://docs.microsoft.com/graph/webhooks)
-- [Linee guida per la limitazione](https://docs.microsoft.com/graph/throttling)
+- [Procedure consigliate Graph Microsoft](https://docs.microsoft.com/graph/best-practices-concept)
+- [Paging dei dati Graph Microsoft nella tua app](https://docs.microsoft.com/graph/paging)
 
-**Dove è possibile trovare ulteriori informazioni sugli errori e sui problemi noti?**
+**L'app è troppo lenta e viene anche limitato. Quali miglioramenti è possibile apportare?**
 
-- [Informazioni sulla risposta di errore di Microsoft Graph](https://docs.microsoft.com/graph/errors)
-- [Problemi noti relativi a Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
+A seconda dello scenario, sono disponibili diverse opzioni per rendere l'applicazione più performante e, in alcuni casi, meno inclini a essere limitate dal servizio (quando si effettuano troppe chiamate).
 
-**Dove è possibile controllare lo stato della disponibilità e della connettività del servizio?**
+Per altre informazioni, vedere:
 
-La disponibilità del servizio e la connettività dei servizi sottostanti a cui è possibile accedere tramite Microsoft Graph possono influire sulla disponibilità complessiva e sulle prestazioni di Microsoft Graph.
+- [Procedure consigliate Graph Microsoft](https://docs.microsoft.com/graph/best-practices-concept)
+- [Invio in batch delle richieste](https://docs.microsoft.com/graph/json-batching)
+- [Tenere traccia delle modifiche tramite query delta](https://docs.microsoft.com/graph/delta-query-overview)
+- [Ricevere notifiche delle modifiche tramite webhook](https://docs.microsoft.com/graph/webhooks)
+- [Linee guida sulla limitazione](https://docs.microsoft.com/graph/throttling)
 
-- Per l'integrità dei servizi di Azure Active Directory, controllare lo stato di **Security + Identity** Services elencato nella [pagina di stato di Azure](https://azure.microsoft.com/status/).
-- Per i servizi di Office che contribuiscono a Microsoft Graph, controllare lo stato dei servizi elencati nel [dashboard di integrità del servizio di Office](https://portal.office.com/adminportal/home#/servicehealth).
+**Dove è possibile trovare ulteriori informazioni su errori e problemi noti?**
+
+- [Informazioni sulla risposta Graph errore di Microsoft](https://docs.microsoft.com/graph/errors)
+- [Problemi noti con Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
+
+**Dove è possibile verificare lo stato della disponibilità e della connettività del servizio?**
+
+La disponibilità e la connettività dei servizi sottostanti accessibili tramite Microsoft Graph possono influire sulla disponibilità e sulle prestazioni complessive di Microsoft Graph.
+
+- Per Azure Active Directory integrità del servizio, controllare lo stato dei servizi di sicurezza **e** identità elencati nella pagina [stato di Azure.](https://azure.microsoft.com/status/)
+- Per Office servizi che contribuiscono a Microsoft Graph, controllare lo stato dei servizi elencati nel dashboard Office [Service Health Dashboard](https://portal.office.com/adminportal/home#/servicehealth).
