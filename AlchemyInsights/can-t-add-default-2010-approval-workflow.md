@@ -1,5 +1,5 @@
 ---
-title: Non è possibile aggiungere il flusso di lavoro predefinito 2010 approvazione
+title: Impossibile aggiungere il flusso di lavoro di approvazione 2010 predefinito
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "1403"
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: ddc49a027a8d98cf31e6a319383d73d2680e6508
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8cfb02e13ab13f1307ba75215df30537f1d58f124c5c3c015037eae2b00c35c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931309"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a>Non è possibile aggiungere il flusso di lavoro predefinito 2010 approvazione
+# <a name="cant-add-default-2010-approval-workflow"></a>Impossibile aggiungere il flusso di lavoro di approvazione 2010 predefinito
 
-In una raccolta siti di Microsoft SharePoint non è possibile aggiungere un flusso di lavoro riutilizzabile a livello globale, ad esempio "approvazione-SharePoint 2010", a un elenco o una raccolta. Il flusso di lavoro di approvazione potrebbe essere mancante. Per risolvere il problema, fare riferimento a [non è possibile aggiungere un flusso di lavoro riutilizzabile a livello globale a un elenco o una raccolta di SharePoint](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
+In una raccolta siti di Microsoft SharePoint, non è possibile aggiungere un flusso di lavoro riutilizzabile a livello globale (ad esempio "Approvazione - SharePoint 2010") a un elenco o a una raccolta. Il flusso di lavoro di approvazione potrebbe non essere presente. Per risolvere questo problema, vedere Impossibile aggiungere un flusso di lavoro riutilizzabile a livello globale a un [SharePoint o una raccolta.](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library)
 
-Per ulteriori informazioni sulle approvazioni dei flussi di lavoro, vedere [tutto sui flussi di lavoro di approvazione](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
+Per altre info sui flussi di lavoro Approvazioni, vedi [Tutte le informazioni sui flussi di lavoro di approvazione.](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742) 
  
-Per ulteriori informazioni sulle [approvazioni moderne](https://flow.microsoft.com/blog/introducing-modern-approvals), vedere Flow. 
+Per ulteriori [informazioni, vedere Modern Approvazioni in Flow](https://flow.microsoft.com/blog/introducing-modern-approvals). 
   
