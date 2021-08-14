@@ -17,12 +17,12 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 47e00c8390c52dfe4ba1d8643601c113eea5591bed1248f8db6fe6d20cfa13c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e38733ee55b39424c65867ff23deb5282b5de114fc3e2a11a830be2dfba09eeb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501460"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868494"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Come acquistare Office 365 Education piani
 
@@ -38,4 +38,4 @@ L'idoneità per Office 365 Education è stata approvata.  Per acquistare:
 
 - Vedere [Insegnamento e apprendimento remoto in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) per le indicazioni più aggiornate su come configurare l'istituto di istruzione, pianificare le lezioni, creare riunioni virtuali e condividere contenuti con gli studenti.
 
-- Altre indicazioni per l'IT sono disponibili in [Introduzione a Microsoft Teams per l'apprendimento a distanza](/MicrosoftTeams/remote-learning-edu) e [Passaggio all'apprendimento remoto](https://www.microsoft.com/education/remote-learning).
+- Altre indicazioni per l'IT sono disponibili in [Introduzione a Microsoft Teams per l'apprendimento a distanza](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) e [Passaggio all'apprendimento remoto](https://www.microsoft.com/education/remote-learning).

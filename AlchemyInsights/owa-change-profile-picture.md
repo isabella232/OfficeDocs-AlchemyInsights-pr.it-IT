@@ -1,5 +1,5 @@
 ---
-title: Modificare l'immagine del profilo in Outlook sul Web
+title: Modificare l'immagine del profilo in Outlook sul web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,20 +10,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 07e53a48a6846adc9f73eb5905ff6e6ee9744f53
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: b57d5fc7085d38c2f844a56e6d06ea6dcae3026360a8288cb73baed5d1280a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095330"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Modificare l'immagine del profilo in Outlook sul Web
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Modificare l'immagine del profilo in Outlook sul web
 
-1. Nella parte superiore della pagina, seleziona il tuo nome o l'immagine del profilo.
-1. Nel riquadro **account personale** , selezionare l'immagine del profilo.
-1. Nella finestra di dialogo **modifica foto** fare clic su **carica una nuova foto**.
-1. Scegliere una foto da caricare e selezionare **applica**.
+1. Nella parte superiore della pagina selezionare il nome o l'immagine del profilo.
+1. Nel riquadro **Account personale** selezionare l'immagine del profilo.
+1. Nella finestra **di dialogo Cambia** foto seleziona Upload una nuova **foto.**
+1. Scegli una foto da caricare e seleziona **Applica.**
 
 *Nota:* La nuova foto verrà visualizzata al successivo accesso a Microsoft 365.
 
-Per ulteriori informazioni, vedere [Change Your Photo and account information in Outlook sul Web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Per altre informazioni, vedi [Modificare le informazioni sulla foto e sull'account in Outlook sul web.](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)

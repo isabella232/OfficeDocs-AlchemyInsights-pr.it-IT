@@ -1,5 +1,5 @@
 ---
-title: Crittografare automaticamente alcuni messaggi di posta elettronica di Office 365
+title: Crittografare automaticamente alcuni Office 365 di posta elettronica
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: e4b2f4ffcacf03e145b4c6d5ff6e73a75cb7c184
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736825"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949571"
 ---
-# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Crittografare automaticamente alcuni messaggi di posta elettronica di Office 365
+# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Crittografare automaticamente alcuni Office 365 di posta elettronica
 
 È possibile crittografare automaticamente i messaggi inviati dagli utenti a determinate persone o organizzazioni esterne. A tale scopo, eseguire la procedura seguente:
 
-1. [Nell'interfaccia di amministrazione di Exchange](https://outlook.office365.com/ecp/)scegliere flusso di posta > **regole.** 
-2. Fare clic **sull'icona Nuovo (+)** e quindi su Applica crittografia messaggi di **Office 365 e** protezione dei diritti ai messaggi .
+1. [Nell'Exchange di amministrazione scegliere](https://outlook.office365.com/ecp/)flusso di posta > **regole.** 
+2. Fare clic **sull'icona Nuovo (+)** e quindi su Applica Office 365 Message Encryption **protezione dei diritti ai messaggi**.
 3. In **Nome** immettere un nome per la regola, ad esempio *Crittografa* i messaggi inviati a DrToniRamos@gmail.com .
 4. In **Applica questa regola se**, scegliere Il **destinatario > è questa persona.** 
 5. Nella finestra **Seleziona membri** selezionare il nome della persona a cui si desidera applicare la regola di crittografia e quindi fare clic su **Aggiungi.** 

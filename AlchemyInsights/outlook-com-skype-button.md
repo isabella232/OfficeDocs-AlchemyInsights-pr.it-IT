@@ -1,5 +1,5 @@
 ---
-title: 8000049 icona Skype mancante in Outlook.com
+title: 8000049 Skype'icona mancante in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: 6ff0c00245c8f6121b688e306fd56179f6cdf862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6864ffb57acf80ad3732826618bc2e2c0dc8823a9fc91593be0a3697cd110ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802241"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063524"
 ---
-# <a name="skype-icon-missing"></a>Icona Skype mancante
+# <a name="skype-icon-missing"></a>Skype'icona mancante
 
-L'icona di Skype è stata temporaneamente rimossa da Outlook.com come parte di un aggiornamento della funzionalità e del servizio di modifica del progetto che è possibile implementare. Apprezziamo la vostra pazienza mentre prepariamo un'esperienza nuova e migliorata.
+Abbiamo rimosso temporaneamente l'icona Skype da Outlook.com come parte di un aggiornamento della progettazione e di funzionalità, siamo felici di essere in fase di implementazione. Apprezziamo la tua pazienza mentre prepariamo un'esperienza nuova e migliorata per te.
 
-È comunque possibile usare Skype tramite il browser all' [Web.Skype.com](https://web.skype.com).
+È comunque possibile utilizzare Skype tramite il browser [all'indirizzo web.skype.com](https://web.skype.com).
