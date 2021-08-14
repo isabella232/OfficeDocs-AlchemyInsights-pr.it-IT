@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8b94898e703a14fdfa4903565a680e7d5dea0f1cafedc59412d425b4ff9bbb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717725"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932779"
 ---
 # <a name="anonymous-sharing"></a>Condivisione anonima
 
- **Abilitazione dell'accesso anonimo**
+ **Abilitare l'accesso anonimo**
   
-Nella nuova interfaccia di amministrazione di SharePoint fare clic su **condivisione** nel riquadro sinistro. 
+Nella nuova interfaccia SharePoint di amministrazione fare clic su **Condivisione** nel riquadro sinistro. 
   
-- Selezionare le opzioni seguenti: **Consenti condivisione a utenti esterni autenticati e utilizzo dell'accesso anonimo.**
+- Selezionare quanto segue: **Consentire la condivisione agli utenti esterni autenticati e l'utilizzo dell'accesso anonimo.**
   
-(Facoltativamente, è possibile impostare la scadenza dei collegamenti in un numero specifico di giorni e selezionare la modalità con cui i destinatari possono utilizzare i collegamenti).
+Facoltativamente, è possibile impostare i collegamenti in modo che scadano in un determinato numero di giorni e selezionare la modalità di utilizzo dei collegamenti da parte dei destinatari.
     
- **Condivisione di un file o di una cartella in modo anonimo**
+ **Condividere un file o una cartella in modo anonimo**
   
-- Selezionare il file o la cartella che si desidera condividere e quindi fare clic su **Condividi**. 
+- Selezionare il file o la cartella che si desidera condividere e quindi fare clic su **Condividi.** 
     
-- A chi si desidera utilizzare questo collegamento? fare clic su **nessuno.**
+- Who si desidera che questo collegamento funzioni? fare **clic su Chiunque.**
   
- **Nota**: **chiunque** crea un collegamento che può essere utilizzato da chiunque per accedere al documento o alla cartella, anche se non è stato eseguito l'accesso a Microsoft 365 o OneDrive. Utilizzarlo per condividerlo con chiunque, all'interno o all'esterno dell'azienda. Questo collegamento può anche essere inoltrato a tutti gli utenti. 
+ **Nota:** **chiunque** crea un collegamento che chiunque può usare per accedere al documento o alla cartella, anche se non è connesso a Microsoft 365 o OneDrive. Usa questa opzione per condividerla con chiunque, all'interno o all'esterno dell'azienda. Questo collegamento può anche essere inoltrato a chiunque. 
     
 

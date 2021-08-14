@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001219"
 - "4375"
-ms.openlocfilehash: 6a3f02b69d160c7dce68ed03df59c0d7d1f32f0f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7881d6837cb7d99180d2cc1b28d327ce12e4b836d33e4fca099569d4f72510fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819957"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989595"
 ---
 # <a name="calendar-icon-not-showing-in-teams-client"></a>L'icona del calendario non viene visualizzata nel client di Teams
 
@@ -27,6 +27,6 @@ Se l'utente ha una cassetta postale valida in Exchange Online, ma non riesce anc
 
 Infine, controllare in [App di Teams - Criteri di installazione app](https://admin.teams.microsoft.com/policies/app-setup) che l'app Calendario non sia stata rimossa dal criterio applicato all'utente (probabilmente il criterio **Globale** predefinito a livello di organizzazione).
 
-Se gli utenti sono ospitati in locale, è necessario verificare che l'integrità della configurazione ibrida. Usare la [Configurazione ibrida guidata](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) per la risoluzione dei problemi.
+Se gli utenti sono ospitati in locale, è necessario verificare che l'integrità della configurazione ibrida. Usare la [Configurazione guidata ibrida](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) per la risoluzione dei problemi.
 
 Si noti che [Teams richiede Exchange 2016 CU3 o versione successiva](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
