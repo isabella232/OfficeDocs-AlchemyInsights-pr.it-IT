@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630073"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868422"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Log di controllo per i messaggi di posta elettronica eliminati
 
@@ -34,6 +34,6 @@ A partire da gennaio 2019, Microsoft attiva la registrazione di controllo delle 
 
 Nei risultati selezionare un record di controllo. Nel riquadro a comparsa dei dettagli fare clic **su Altre informazioni.** Ulteriori informazioni sull'elemento eliminato, ad esempio la riga dell'oggetto e la posizione dell'elemento al momento dell'eliminazione, vengono visualizzate nel **campo AffectedItems.** La **proprietà ClientInfoString** mostrerà se l'eliminazione si è verificata in Outlook, Outlook sul web (in precedenza noto come Outlook Web App) o in qualsiasi altro dispositivo.
 
-Per ulteriori informazioni, vedere [Determining who set up email forwarding for a mailbox](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
+Per ulteriori informazioni, vedere [Determining who set up email forwarding for a mailbox](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 
 **Nota:** non è possibile recuperare gli elementi eliminati utilizzando la funzionalità del log di controllo. Per recuperare i messaggi eliminati in Outlook sul web, vedere [Recover deleted items in Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
