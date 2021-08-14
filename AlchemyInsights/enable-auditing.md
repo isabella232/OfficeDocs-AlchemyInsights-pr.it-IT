@@ -1,5 +1,5 @@
 ---
-title: Abilitazione e log di controllo di ricerca
+title: Abilitare e cercare il log di controllo
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,38 +13,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd451a8f08f50b7b4bff7b08ec5b54b57adc1f000eb8224112d84a4fb20e4359
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806583"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003648"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Abilitazione e ricerca nel registro di controllo
+# <a name="enable-and-search-the-audit-log"></a>Abilitare ed eseguire ricerche nel log di controllo
 
 **Microsoft 365**
 
-Per eseguire una ricerca nel registro di controllo di Microsoft 365, attenersi alla [seguente procedura](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Per eseguire una ricerca nel Microsoft 365 di controllo, attenersi [alla seguente procedura.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 
 **Exchange**
 
-- Per impostazione predefinita, le attività di amministrazione di Exchange vengono controllate.
+- Exchange le attività di amministrazione vengono controllati per impostazione predefinita.
 
 - Il controllo delle cassette postali è abilitato per impostazione predefinita in Microsoft 365. Per ulteriori informazioni, vedere  [questo articolo](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
 
-- Le cassette postali del gruppo Microsoft 365 e le cassette postali delle cartelle pubbliche in Exchange Online non supportano la registrazione.
+- Microsoft 365 Le cassette postali di gruppo e le cassette postali delle Exchange Online non supportano la registrazione di controllo.
 
 **SharePoint e OneDrive**
 
 - Non è necessaria alcuna configurazione aggiuntiva per abilitare il controllo per SharePoint e OneDrive.
 
-- SharePoint e OneDrive supportano il controllo dei tipi di attività seguenti:
+- SharePoint e OneDrive supportano il controllo dei seguenti tipi di attività:
 
-    - Attività di file, cartelle e pagine
+    - Attività su file, cartelle e pagine
     - Attività di richiesta di accesso e condivisione
     - Attività di amministrazione siti
     - Attività di sincronizzazione dei file
 
-- Per informazioni sulle attività controllate in altri servizi, vedere  [la tabella in questo articolo](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Per informazioni sulle attività di controllo in altri servizi, vedere [la tabella in questo articolo.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)
 
-- Ecco un elenco [di domande frequenti sulle domande](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) frequenti relative alla ricerca nel registro di controllo.
+- Di seguito è riportato un elenco delle domande frequenti [sulla](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) ricerca nel log di controllo.

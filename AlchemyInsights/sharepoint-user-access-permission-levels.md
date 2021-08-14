@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 7db5e4c84f16e58b69be88f93e01aa57c75c52e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7dc21b2ae82809e02fe46d3f2410498b0ef3b6c6d75baaae1361b29a4d387d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795392"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022770"
 ---
 # <a name="user-permissions-in-sharepoint"></a>Autorizzazioni utente in SharePoint
 
-Dopo aver creato un sito di SharePoint, può essere opportuno fornire o limitare l'accesso degli utenti al sito o al relativo contenuto. Il modo più semplice per gestire le autorizzazioni consiste nell'utilizzare i gruppi e i livelli di autorizzazione [predefiniti](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) forniti, in cui vengono illustrati gli scenari più comuni. Se necessario, però, è possibile impostare autorizzazioni specifiche oltre ai livelli predefiniti. Per ulteriori informazioni, vedere informazioni [sui livelli di autorizzazione in SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Dopo aver creato un sito di SharePoint, può essere opportuno fornire o limitare l'accesso degli utenti al sito o al relativo contenuto. Il modo più semplice per utilizzare [](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) le autorizzazioni è usare i gruppi e i livelli di autorizzazione predefiniti forniti, che riguardano gli scenari più comuni. Se necessario, però, è possibile impostare autorizzazioni specifiche oltre ai livelli predefiniti. Per ulteriori informazioni, vedere [Understanding permission levels in SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-Per ulteriori informazioni sulla gestione dei livelli di autorizzazione specifici, visitare i collegamenti seguenti:
+Per ulteriori informazioni sulla gestione di livelli di autorizzazione specifici, visitare i collegamenti seguenti:
 
 - [Modificare e gestire le autorizzazioni per un elenco o una raccolta di SharePoint](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
@@ -32,6 +32,6 @@ Per ulteriori informazioni sulla gestione dei livelli di autorizzazione specific
 
 - [Modificare le autorizzazioni in una sottocartella](https://support.office.com/article/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6)
 
-- [Condividere file o cartelle di SharePoint in Microsoft 365](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Condividere SharePoint file o cartelle in Microsoft 365](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
 - [Condividere un sito](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
