@@ -13,15 +13,15 @@ ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: ca62ad165bbb629323727928916720c6a2eab291
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 59c1309f60e03eda587c7a1f7bb5849f69b12a13d4365bcd6ca4e862d0e53e2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997750"
 ---
 # <a name="wipe-corporate-data-from-intune-managed-apps"></a>Cancellare i dati aziendali dalle app gestite da Intune
 
-Intune supporta la rimozione dei dati aziendali dalle applicazioni gestite del criterio di protezione dell'applicazione. 
+Intune supporta la rimozione dei dati aziendali dalle applicazioni gestite app (Application Protection Policy). 
 
-Per ulteriori informazioni su come cancellare, eliminare o rimuovere dati aziendali da queste app, vedere [How to wipe only corporate data from Intune-Managed Apps](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe).
+Per altre informazioni sulla cancellazione, l'eliminazione o la rimozione di dati aziendali da queste app, vedi Come cancellare solo i dati aziendali dalle app [gestite da Intune.](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)

@@ -1,5 +1,5 @@
 ---
-title: Power BI Report Server Product Key
+title: Server di report di Power BI Product Key
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bdc5b186e8de2c2b7c4f84ebd852520ac28274eb3f1baf0dba568cdb6d10e579
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973269"
 ---
-# <a name="power-bi-report-server-product-key"></a>Codice Product Key del server di report di Power BI
+# <a name="power-bi-report-server-product-key"></a>Server di report di Power BI product key
 
-Se è stato acquistato Power BI Premium, nella scheda **Impostazioni Premium** del portale di amministrazione di Power BI è possibile accedere al codice Product Key del server di report di Power BI. Questa opzione è disponibile solo per gli amministratori globali o gli utenti a cui è assegnato il ruolo di amministratore del servizio Power BI.
+Se hai acquistato Power BI Premium, nella scheda **Premium** impostazioni del portale di amministrazione di Power BI hai accesso al codice Product Key Server di report di Power BI licenza. Questa opzione è disponibile solo per gli amministratori globali o gli utenti assegnati Power BI ruolo di amministratore del servizio.
 
-Se si **seleziona il codice Server di report di Power BI,** verrà visualizzata una finestra di dialogo contenente il codice Product Key. È possibile copiarlo e usarlo con l'installazione.
+Selezionando **Server di report di Power BI viene visualizzata** una finestra di dialogo contenente il codice Product Key. È possibile copiarlo e usarlo con l'installazione.
 
 Se si dispone di un SQL Server Enterprise SA, è possibile ottenere il codice Product Key dal Centro servizi per contratti [multilicenza.](https://www.microsoft.com/Licensing/servicecenter/)
 

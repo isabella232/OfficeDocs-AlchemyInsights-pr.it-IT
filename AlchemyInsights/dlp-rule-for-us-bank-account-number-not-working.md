@@ -13,12 +13,12 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d19b2dcc29e23fab522159945496165338a117a47bfcfcadf0b93e4e5f14464f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005022"
 ---
 # <a name="dlp-issues-with-us-bank-account-numbers"></a>Problemi DLP con i numeri di conto corrente bancario statunitense
 
@@ -26,25 +26,25 @@ ms.locfileid: "47679300"
 
 **Problemi DLP con i numeri di conto corrente bancario statunitense**
 
-Se si riscontrano problemi con la **prevenzione della perdita di dati (DLP),** non funziona per il contenuto contenente un **numero di conto corrente bancario statunitense** quando si utilizza un tipo di informazioni riservate DLP in O365? In caso affermativo, verificare che il contenuto contenga le informazioni necessarie per la ricerca del criterio DLP quando viene valutato.
+Si verificano problemi con la prevenzione della perdita dei dati **(DLP)** che non funziona per il contenuto contenente un **numero** di conto corrente bancario statunitense quando si utilizza un tipo di informazioni riservate DLP in O365? In tal caso, verificare che il contenuto contenga le informazioni necessarie per la ricerca del criterio DLP quando viene valutato.
   
-Ad esempio, per un criterio del **numero di conto corrente bancario statunitense** configurato con un livello di probabilità pari a 85%, vengono valutati e devono essere rilevati i seguenti elementi per attivare la regola:
+Ad esempio, per un criterio **numero** di conto corrente bancario statunitense configurato con un livello di probabilità dell'85%, vengono valutati gli elementi seguenti e devono essere rilevati per l'attivazione della regola:
   
 - **[Formato:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 cifre
 
-- **[Pattern:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 cifre consecutive.
+- **[Motivo:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 cifre consecutive.
 
-- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** No, non c'è nessun checksum
+- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** No, non esiste alcun checksum
 
-- **[Definizione:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** Un criterio DLP è 75% fiducioso di aver rilevato questo tipo di informazioni riservate se, entro 300 caratteri:
+- **[Definizione:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** Un criterio DLP è sicuro al 75% che sia stato rilevato questo tipo di informazioni riservate se, entro una prossimità di 300 caratteri:
 
   - L'espressione regolare Regex_usa_bank_account_number trova contenuto che corrisponde al modello
 
   - Viene trovata una parola chiave da Keyword_usa_Bank_Account.
 
-    Ad esempio, il seguente esempio verrebbe attivato per i criteri del **numero di conto corrente bancario statunitense** : checking account 78344011
+    Ad esempio, l'esempio seguente viene attivato per il criterio **Numero di conto** corrente bancario statunitense: Controllo dell'account 78344011
 
-Per ulteriori informazioni su ciò che è necessario per il numero di un **conto corrente bancario statunitense** da rilevare per il contenuto, vedere la sezione seguente di questo articolo: [che cosa i tipi di informazioni riservate cercano il numero di conto corrente bancario statunitense](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
+Per ulteriori informazioni su ciò  che è necessario per il rilevato numero di conto corrente bancario statunitense per il contenuto, vedere la sezione seguente in questo articolo: Informazioni sui tipi di informazioni riservate per il numero di conto corrente [bancario statunitense](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
   
-Se si utilizza un tipo di informazioni riservate predefinito diverso, vedere l'articolo seguente per informazioni su ciò che è necessario per gli altri tipi: [che cosa cercano i tipi di informazioni riservate](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Utilizzando un diverso tipo di informazioni riservate predefinito, vedere l'articolo seguente per informazioni su ciò che è necessario per altri tipi: cosa ricercano i tipi di [informazioni riservate](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
