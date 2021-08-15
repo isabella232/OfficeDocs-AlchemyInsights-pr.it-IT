@@ -1,5 +1,5 @@
 ---
-title: Utilizzare l'API di Microsoft Graph per gestire i gruppi
+title: Usare l'API di Microsoft Graph per gestire i gruppi
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7847"
-ms.openlocfilehash: ef5f5002aa2d624a586dab7b5b5b1ae7b73962ba
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 95c3b2344a125a63740f7b365f6b43c99098b337aaf6a72086786ce6a7cb505d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49936230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038044"
 ---
-# <a name="use-microsoft-graph-api-to-manage-groups"></a>Utilizzare l'API di Microsoft Graph per gestire i gruppi
+# <a name="use-microsoft-graph-api-to-manage-groups"></a>Usare l'API di Microsoft Graph per gestire i gruppi
 
-I gruppi sono insiemi di utenti e altre entità che condividono l'accesso alle risorse in servizi Microsoft o nell'app. In Microsoft Graph sono disponibili API che è possibile utilizzare per creare e gestire diversi tipi di gruppi e funzionalità di gruppo in base allo scenario. Tutte le operazioni relative al gruppo in Microsoft Graph richiedono il consenso dell'amministratore. Per ulteriori informazioni, vedere [utilizzo di gruppi in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/groups-overview).
+I gruppi sono raccolte di utenti e altre entità che condividono l'accesso alle risorse servizi Microsoft o nella tua app. Microsoft Graph fornisce API che puoi usare per creare e gestire diversi tipi di gruppi e funzionalità di gruppo in base allo scenario. Tutte le operazioni correlate al gruppo in Microsoft Graph il consenso dell'amministratore. Per ulteriori informazioni, vedere [Utilizzo dei gruppi in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/groups-overview).

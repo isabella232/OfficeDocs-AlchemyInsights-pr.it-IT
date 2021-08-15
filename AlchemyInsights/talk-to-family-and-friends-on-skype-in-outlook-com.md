@@ -1,5 +1,5 @@
 ---
-title: 8000049 parlare con parenti e amici su Skype in Outlook.com
+title: 8000049 parlare con familiari e amici su Skype in Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
-ms.openlocfilehash: e6eaf11337a580395a116e8f4a8efee799c6094a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f1f7e8d0aa59fa3951ae9b3b974a42935976dbff1fbeda7d58fcc52bb39de98a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659134"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956735"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Contattare la famiglia e gli amici su Skype in Outlook.com
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Parlare con familiari e amici su Skype in Outlook.com
 
-I clienti di Outlook.com possono parlare con gli amici e la famiglia con le funzionalità chat, vocali e video in Skype. Quando si [uniscono gli account Microsoft e Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), è possibile accedere automaticamente a Skype sul web in Outlook.com.
+Outlook.com i clienti possono parlare con amici e familiari con le funzionalità di chat, voce e video in Skype. Quando si [uniscono gli](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409)account Microsoft e Skype , si ha automaticamente accesso a Skype sul Web in Outlook.com.
   
-Ulteriori informazioni su come [parlare con amici e familiari su Skype in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
+Altre informazioni su come [parlare con familiari e amici su Skype in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Messaggio di errore durante la condivisione di file da Esplora risorse
+title: Messaggio di errore durante la condivisione di file da Windows Explorer
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516f72930765cfc5a48ad4f9182b1e90f342d8866ecb03767772f47676911d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783843"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030096"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Messaggio di errore durante la condivisione di file da Esplora risorse
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Messaggio di errore durante la condivisione di file da Windows Explorer
 
-Quando si tenta di condividere da Esplora risorse, è possibile che venga visualizzato il messaggio di errore seguente:
+Quando si tenta di condividere da Windows Explorer, è possibile che venga visualizzato il seguente messaggio di errore:
   
-"Non è possibile accedere al server in questo momento. Riprova più tardi "
+"Spiacenti, non è possibile raggiungere il server in questo momento. Riprovare più tardi"
   
-Per risolvere il messaggio di errore, da Internet Explorer vai a **strumenti** \> **Internet Options** \> fare clic sulla scheda **Avanzate** , quindi deseleziona la casella di controllo intitolata non **salvare pagine crittografate su disco**.
+Per risolvere il messaggio di errore, da Internet Explorer vai **a** Strumenti Opzioni Internet fai clic sulla scheda Avanzate e quindi deseleziona la casella di controllo intitolata Non salvare le pagine crittografate \>  \> su **disco.** 
   
- **Nota**: potrebbe essere necessario riavviare il browser per rendere effettive le impostazioni. Per ulteriori informazioni, vedere [il messaggio di errore "Impossibile raggiungere il server subito" durante la condivisione dei file](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Nota:** potrebbe essere necessario riavviare il browser per l'applicazione dell'impostazione. Per ulteriori informazioni, vedere il messaggio di errore "Impossibile raggiungere il server in questo [momento" durante la condivisione dei file.](https://go.microsoft.com/fwlink/?linkid=2022914)
   

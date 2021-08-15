@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 15943bdc6e8d69e6a48cc0dd081afdee150e95a34823657156fd9abe111824d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817392"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978777"
 ---
 # <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Modifiche all'estrazione del nome della società in SharePoint Online
 
-A partire dal 15 novembre 2019, verrà rimosso estrazione nome società [da SharePoint Online.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) L'estrazione dei nomi di società in SharePoint consente al sistema di ricerca di estrarre i nomi delle società dal contenuto in un set specifico di condizioni utilizzando un dizionario precompilato o utilizzando gli elenchi Inclusioni società o Esclusioni società. Anche se l'estrazione dei nomi di società è diventata una soluzione basata su base per derivare uno o più nomi di società dal contenuto in SharePoint Online, sia il dizionario che il relativo set di funzionalità sottostanti sono diventati obsoleti.
+A partire dal 15 novembre 2019, verrà rimosso [Company Name Extraction da SharePoint Online.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) L'estrazione dei nomi di società in SharePoint consente al sistema di ricerca di estrarre i nomi delle società dal contenuto in un set specifico di condizioni utilizzando un dizionario precompilato o utilizzando gli elenchi Inclusioni società o Esclusioni società. Anche se l'estrazione dei nomi di società è diventata una soluzione basata su base per derivare uno o più nomi di società dal contenuto in SharePoint Online, sia il dizionario che il relativo set di funzionalità sottostanti sono diventati obsoleti.
 
 - [Come è possibile sapere se l'estrazione dei nomi di società è abilitata per una proprietà?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
