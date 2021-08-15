@@ -1,5 +1,5 @@
 ---
-title: Caricare file in OneDrive o SharePoint
+title: Upload file da OneDrive o SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 1bfe006ff6111581ebf85f0c599e65961e8289c0
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: ace337c536b7691edafbed72115b10904eb5f6943434ad716e6d7d948e625a47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815645"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038224"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Caricare file in OneDrive o SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Upload file da OneDrive o SharePoint
 
-È possibile caricare file in una raccolta documenti in SharePoint Online semplicemente trascinandole dal computer e rilasciandoli nella raccolta documenti. Con OneDrive, è possibile sincronizzare i file tra il computer e il cloud, in modo da poter accedere ai file da qualsiasi luogo. È inoltre possibile utilizzare i file sincronizzati direttamente in Esplora file e accedere ai file anche quando si è in modalità non in linea. Per ulteriori informazioni sul caricamento e sulla sincronizzazione, visitare i collegamenti riportati di seguito.
+È possibile caricare file in una raccolta documenti in SharePoint Online semplicemente trascinandoli dal computer e rilasciandoli nella raccolta documenti. Con OneDrive, è possibile sincronizzare i file tra il computer e il cloud, in modo da poter accedere ai file da qualsiasi luogo. Puoi anche usare i file sincronizzati direttamente in Esplora file e accedere ai file anche quando sei offline. Per ulteriori informazioni sul caricamento e la sincronizzazione, visitare i collegamenti seguenti.
 
-- [Caricare una cartella o un file in una raccolta](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+- [Upload una cartella o file in una raccolta](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
 
-- [Caricamento tramite sincronizzazione](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [Upload la sincronizzazione](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
 
-- [Limiti dei file (caratteri non validi, dimensioni del caricamento dei file, lunghezza del percorso e così via)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [Limiti dei file (caratteri non validi, dimensioni di caricamento dei file, lunghezze del percorso e così via)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
 - [Risolvere i problemi di sincronizzazione di OneDrive](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 

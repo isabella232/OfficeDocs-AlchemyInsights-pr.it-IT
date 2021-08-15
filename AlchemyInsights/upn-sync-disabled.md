@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc163fae4d348d7c7cf117bd457f999b42f96bec7c1eb9aa1435e346131d06de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782155"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038116"
 ---
 # <a name="upn-sync-disabled"></a>Sincronizzazione UPN disabilitata
 
@@ -27,6 +27,6 @@ Se è stata avviata la sincronizzazione con Azure AD prima del 30 marzo 2016, es
   
 UpN soft match is automatically turned on for organizations that started syncing to Azure AD on or after March 30, 2016.
   
-Per altre informazioni sull'abilitazione della corrispondenza soft su UPN e altre funzionalità di sincronizzazione, vedere Funzionalità del servizio di sincronizzazione di [Azure AD Connect.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
+Per altre informazioni sull'abilitazione della corrispondenza soft su UPN e altre funzionalità di sincronizzazione, vedere Funzionalità del servizio di sincronizzazione di [Azure AD Connessione.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Ricevute di lettura in Outlook.com
+title: Conferme di lettura in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 1aae4246168f76c1c9f263d99359c223a55a7bfc
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: e83f74c7d362578dff21b7fb1f6474d13911d006a8f32f85ae30bce73bf8fd52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452088"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983421"
 ---
-# <a name="read-receipts"></a>Ricevute di lettura
+# <a name="read-receipts"></a>Conferme di lettura
 
-Non è possibile richiedere una conferma di lettura in Outlook.com, ma puoi richiedere le conferme di lettura per i messaggi Outlook.com inviati utilizzando Outlook per Windows. Per informazioni, vedere [aggiungere e richiedere le ricevute di lettura e le notifiche di recapito](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
+Non è possibile richiedere una conferma di lettura in Outlook.com, ma è possibile richiedere conferme di lettura per i messaggi Outlook.com inviati utilizzando Outlook per Windows. Per informazioni su come, vedere [Aggiungere e richiedere conferme di lettura e notifiche di recapito.](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)
   
-Per scegliere in che modo Outlook.com risponde alle richieste di conferma di lettura, andare a [lettura delle impostazioni di conferma](https://outlook.live.com/mail/options/mail/handling/readReceipts).
+Per scegliere come Outlook.com risponde alle richieste di conferma di lettura, passare a [Impostazioni conferma di lettura](https://outlook.live.com/mail/options/mail/handling/readReceipts).
