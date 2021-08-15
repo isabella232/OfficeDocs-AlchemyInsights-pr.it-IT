@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813188"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029808"
 ---
 # <a name="file-open-read-only"></a>Apertura file di sola lettura
 
@@ -36,13 +36,13 @@ Alcuni programmi antivirus potrebbero proteggere l'utente da file potenzialmente
   
 I file provenienti da Internet e da altri percorsi potenzialmente non sicuri possono contenere virus, worm o altri tipi di malware che possono danneggiare il computer. Questo è in genere anche il caso degli allegati di posta elettronica o dei file scaricati. Per proteggere il computer, i file da questi percorsi potenzialmente non sicuri vengono aperti in Visualizzazione protetta. Utilizzando Visualizzazione protetta, è possibile leggere un file e visualizzarne il contenuto riducendo al contempo i rischi. Per ulteriori informazioni su Visualizzazione protetta e su come modificare le impostazioni, vedere questo articolo: [Che cos'è Visualizzazione protetta?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **OneDrive è pieno?**
+ **È OneDrive completo?**
   
-Se il file è archiviato in OneDrive e lo spazio di archiviazione di OneDrive è pieno, non sarà possibile salvare il documento finché non si è sotto lo spazio assegnato. È possibile controllare lo spazio disponibile in OneDrive facendo clic sull'icona OneDrive nel centro notifiche e scegliendo Gestisci spazio di archiviazione oppure è possibile passare a , accedere e prendere nota della quantità di spazio usato in basso a sinistra dello [https://onedrive.live.com](https://onedrive.live.com) schermo.
+Se il file è archiviato OneDrive e lo spazio di archiviazione OneDrive è pieno, non sarà possibile salvare il documento finché non si è sotto lo spazio assegnato. Puoi controllare lo spazio libero su OneDrive facendo clic sull'icona OneDrive nel centro notifiche e scegliendo Gestisci spazio di archiviazione oppure puoi accedere a , accedere e prendere nota della quantità di spazio usato nella parte inferiore sinistra [https://onedrive.live.com](https://onedrive.live.com) dello schermo.
   
- **Office è attivato?**
+ **È Office attivato?**
   
-Se Office non è attivato o se l'abbonamento è scaduto, è possibile che si sia attivata la modalità a funzionalità ridotte di sola lettura. Per informazioni su come attivare Office, vedere: Errori di attivazione e prodotti senza [licenza in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Se Office non è attivato o se l'abbonamento è scaduto, è possibile che tu sia in modalità funzionalità ridotta di sola lettura. Per informazioni su come attivare Office, vedere: Errori di attivazione e prodotto [senza licenza in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Se tutto il resto ha esito negativo...**
   
