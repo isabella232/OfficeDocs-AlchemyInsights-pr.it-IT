@@ -1,5 +1,5 @@
 ---
-title: Sottoscrizione annullata-legacy-limite di spesa
+title: Sottoscrizione annullata - Legacy - Limite di spesa
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6848"
-ms.openlocfilehash: da4f7456359b04619a505d3c9fd378387c255a24
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 31480f84c8eed63163b1436246eaf1812f15f6d7c2dad29653b2019f8a15f1af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560725"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999028"
 ---
-# <a name="subscription-cancelled---legacy---spending-limit"></a>Sottoscrizione annullata-legacy-limite di spesa
+# <a name="subscription-cancelled---legacy---spending-limit"></a>Sottoscrizione annullata - Legacy - Limite di spesa
 
-I record indicano che si dispone di un limite di spesa impostato per l'abbonamento e che l'utilizzo ha superato il limite di spesa. Pertanto, l'abbonamento è disabilitato.
+I nostri record indicano che hai impostato un limite di spesa per la sottoscrizione e che l'utilizzo ha superato il limite di spesa. Di conseguenza, l'abbonamento è disabilitato.
 
-**È stato raggiunto il limite di spesa per l'abbonamento**
+**Limite di spesa per la sottoscrizione raggiunto**
 
-Gli abbonamenti di Azure con crediti hanno dei limiti di spesa. Questo significa che è possibile utilizzare solo i servizi fino al credito incluso. Quando l'utilizzo raggiunge il limite di spesa, Azure disattiva l'abbonamento per il resto del periodo di fatturazione. La sottoscrizione è disattivata per proteggere l'utente da spese accidentali per l'utilizzo oltre il credito incluso nell'abbonamento. Per rimuovere il limite di spesa, vedere [rimuovere il limite di spesa nel centro account](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove).
+Le sottoscrizioni di Azure con crediti hanno limiti di spesa. Ciò significa che è possibile utilizzare solo servizi fino al credito incluso. Quando l'utilizzo raggiunge il limite di spesa, Azure disabilita la sottoscrizione per il resto del periodo di fatturazione. L'abbonamento è disabilitato per evitare addebiti accidentali per l'utilizzo oltre il credito incluso nell'abbonamento. Per rimuovere il limite di spesa, vedi [Rimuovere il limite di spesa nel Centro account.](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove)
 
 Eseguire la procedura seguente per rimuovere il limite di spesa e riattivare l'abbonamento:
 
-1. Accedere al portale di [Azure](https://portal.azure.com/) come amministratore dell'account.
-2. Ricerca per la **gestione dei costi + fatturazione**.
-3. Nell'elenco **abbonamenti personali** selezionare la sottoscrizione di valutazione/account gratuito.
-4. Nella panoramica della sottoscrizione, fare clic sul banner arancione per rimuovere il limite di spesa.
+1. Accedere al portale [di Azure come](https://portal.azure.com/) Amministratore account.
+2. Cercare **Gestione costi e fatturazione**.
+3. **Nell'elenco Sottoscrizioni personali** selezionare la sottoscrizione di valutazione/account gratuita.
+4. Nella panoramica della sottoscrizione fai clic sul banner arancione per rimuovere il limite di spesa.
 5. Scegliere se si desidera rimuovere il limite di spesa a tempo indeterminato o solo per il periodo di fatturazione corrente.
-6. Fare clic su **Seleziona metodo di pagamento** per scegliere un metodo di pagamento per l'abbonamento. Questo diventerà il metodo di pagamento attivo per l'abbonamento.
+6. Fai **clic su Seleziona modalità di** pagamento per scegliere una modalità di pagamento per l'abbonamento. Questo diventerà il metodo di pagamento attivo per l'abbonamento.
 7. Fare clic su **Fine**.
