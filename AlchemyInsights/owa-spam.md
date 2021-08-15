@@ -1,5 +1,5 @@
 ---
-title: Gestione di posta indesiderata e posta indesiderata in Outlook sul Web
+title: Gestione della posta indesiderata e della posta indesiderata in Outlook sul web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 4a12668ee95aa4dd3c07b0d781a3935f69792211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd05f419fbe0ad8cc5b840d0934934aca34891c01dfb5fd258f9deba3e63ec0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982593"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Contrassegnare i messaggi di posta elettronica come posta indesiderata in Outlook sul Web
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Contrassegnare i messaggi di posta elettronica come posta indesiderata Outlook sul web
 
-Per contrassegnare un messaggio come posta indesiderata o posta indesiderata, seleziona il messaggio nell'elenco dei messaggi **e seleziona posta indesiderata**  >  **Junk**.
+Per contrassegnare un messaggio come posta indesiderata, selezionarlo nell'elenco dei messaggi e selezionare **Posta**  >  **indesiderata.**
 
-Per bloccare tutti i messaggi da un indirizzo di posta elettronica specifico, selezionare il messaggio o i messaggi nell'elenco dei messaggi e quindi selezionare blocco di posta **indesiderata**  >  **Block**.
+Per bloccare tutti i messaggi provenienti da un indirizzo di posta elettronica specifico, selezionare il messaggio o i messaggi nell'elenco dei messaggi e quindi selezionare **Blocco**  >  **posta indesiderata**.
 
-Se si contrassegna accidentalmente un messaggio come posta indesiderata, selezionare il messaggio nella cartella posta indesiderata e selezionare **non**spazzatura  >  **non indesiderata**. (*Nota:* gli elementi presenti nella cartella posta indesiderata vengono eliminati dopo 30 giorni).
+Se si contrassegna accidentalmente un messaggio come posta indesiderata, selezionare il messaggio nella cartella Posta indesiderata e selezionare **Non posta** indesiderata Non  >  **posta indesiderata**. Nota:*gli* elementi nella cartella Posta indesiderata vengono eliminati dopo 30 giorni.
 
-Ulteriori informazioni su come aiutare a mantenere la posta indesiderata [e l'indesiderata fuori dalla posta in arrivo di Outlook sul Web.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Ulteriori informazioni su come mantenere posta indesiderata e posta indesiderata fuori dalla posta [Outlook sul web posta in arrivo.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)

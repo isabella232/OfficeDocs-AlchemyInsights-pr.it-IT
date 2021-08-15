@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994869"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Impostare ClientAccessServerEnabled su True
 
@@ -27,9 +27,9 @@ Se non è possibile aprire un messaggio di posta elettronica crittografato e vis
 1. Connettersi a PowerShell di Exchange Online.
 
 > [!NOTE]
-> Per connettersi a PowerShell di Exchange Online, è necessario accedere utilizzando un account di amministratore globale o di amministratore di Exchange.
+> Per connettersi a Exchange Online PowerShell, è necessario accedere utilizzando un account amministratore globale o Exchange amministratore.
 
-   a. Aprire Windows PowerShell ed eseguire il comando seguente: `$UserCredential = Get-Credential`
+   a. Aprire Windows PowerShell ed eseguire il comando seguente:`$UserCredential = Get-Credential`
 b. Nella finestra **Windows PowerShell richiesta credenziali** immettere l'account aziendale o dell'istituto di istruzione e la password, c. Fare clic su **OK**. 
 
 2. Eseguire il comando seguente per creare una nuova sessione:
@@ -49,5 +49,5 @@ b. Nella finestra **Windows PowerShell richiesta credenziali** immettere l'accou
 > [!TIP]
 > Chiudi sempre la sessione di PowerShell con il comando seguente: `Remove-PSSession $Session`
 
-Per ulteriori informazioni, vedere [PowerShell di Exchange Online.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
+Per ulteriori informazioni, vedere [Exchange Online PowerShell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 
