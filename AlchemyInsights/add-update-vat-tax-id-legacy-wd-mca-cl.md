@@ -1,5 +1,5 @@
 ---
-title: Add or Update IVA/Tax ID-legacy WD + MCA CL _ procedure consigliate
+title: Aggiungere o aggiornare l'IVA/PARTITA IVA - Legacy WD + MCA CL _ Passaggi consigliati
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7291"
-ms.openlocfilehash: ba97ec48492b1777a12bf2b27a68d411690eab76
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 172453664d2e950634c46977b8c543a054afbf6dfbed1356b7b13416ecf80b22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953693"
 ---
-# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Aggiungere o aggiornare l'IVA/ID fiscale-legacy WD + MCA CL-procedura consigliata
+# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Aggiungere o aggiornare l'IVA/PARTITA IVA - Legacy WD + MCA CL - Passaggi consigliati
 
-L'ID fiscale viene utilizzato per il calcolo dell'esenzione fiscale e viene visualizzato nella fattura.
+L'ID imposta viene utilizzato per il calcolo dell'esenzione fiscale e viene visualizzato nella fattura.
 
-1. Passare alla pagina [Gestione costi + fatturazione](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) . 
-2. Fare clic su **Proprietà** dal lato sinistro. 
-3. Fare clic su **Gestisci ID fiscali** dal riquadro **ID fiscali** e quindi immettere il nuovo ID IVA.
+1. Passare alla [pagina Gestione costi e](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) fatturazione. 
+2. Fai **clic** su Proprietà sul lato sinistro. 
+3. Fai **clic su Gestisci ID imposta** nel **riquadro** ID imposta e quindi immetti il nuovo ID fiscale.
 4. Fare clic su **Aggiorna**. 
 
-Se il riquadro **ID IVA** non è visualizzato, significa che gli ID fiscali non sono stati ancora raccolti per la propria area geografica o che l'aggiornamento degli ID fiscali nel portale non è supportato per l'account.
+Se il riquadro ID  fiscali non è visualizzato, significa che gli ID fiscali non sono ancora stati raccolti per la tua area geografica oppure l'aggiornamento degli ID fiscali nel portale non è supportato per il tuo account.
 
 **Documenti consigliati**
 
-[Paesi/aree geografiche e valute supportate](https://azure.microsoft.com/pricing/faq/)
+[Paesi/aree geografiche e valute supportati](https://azure.microsoft.com/pricing/faq/)
 

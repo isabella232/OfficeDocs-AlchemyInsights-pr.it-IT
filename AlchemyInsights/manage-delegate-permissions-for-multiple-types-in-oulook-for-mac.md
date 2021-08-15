@@ -1,5 +1,5 @@
 ---
-title: Gestire le autorizzazioni di delega per più tipi di elementi in Outlook per Mac
+title: Gestire le autorizzazioni delegate per più tipi di elementi in Outlook per Mac
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 4c965ba7909fa78dea38bdd78907dcfdd9152ef7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560606"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962891"
 ---
-# <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Gestire le autorizzazioni di delega per più tipi di elementi in Outlook per Mac
+# <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Gestire le autorizzazioni delegate per più tipi di elementi in Outlook per Mac
 
-1. Scegliere **account** dal menu **strumenti** e selezionare l'account per il quale si desidera modificare le autorizzazioni.
-2. Fare clic su **Avanzate** e quindi su **delegati**.
-3. In **delegati**, in cui viene visualizzato un elenco di delegati che possono agire per conto di, selezionare il delegato.
-4. Fare clic sul pulsante **azione** , fare clic su **Imposta autorizzazioni** e quindi apportare le modifiche desiderate.
+1. Scegliere **Account** dal menu Strumenti **e** selezionare l'account per cui si desidera modificare le autorizzazioni.
+2. Fare **clic su** Avanzate e quindi su **Delegati.**
+3. In **Delegati**, che visualizza un elenco di delegati che possono agire per conto di , selezionare il delegato.
+4. Fare clic **sul** pulsante Azione, **scegliere Imposta** autorizzazioni e quindi apportare le modifiche desiderate.
 
 > [!NOTE]
-> Se si imposta il livello di autorizzazione su **None**, il delegato rimarrà nell'elenco, che consentirà di ripristinare le autorizzazioni in un secondo momento.
+> Se si imposta il livello di autorizzazione su **None**, il delegato rimane nell'elenco, che consente di ripristinare le autorizzazioni in un secondo momento.
