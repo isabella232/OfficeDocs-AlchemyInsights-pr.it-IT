@@ -1,5 +1,5 @@
 ---
-title: Aggiornare l'indirizzo di vendita e di fatturazione associato ai passaggi consigliati di MCA
+title: Aggiornare l'indirizzo di destinazione della vendita e della fattura associato all'mca - passaggi consigliati
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49652186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001512"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Aggiornare l'indirizzo di vendita e di fatturazione associato ai passaggi consigliati di MCA
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Aggiornare l'indirizzo di destinazione della vendita e della fattura associato all'mca - passaggi consigliati
 
-È possibile aggiornare l'indirizzo di vendita e di fatturazione associato al contratto di Microsoft Customer Agreement (MCA). 
+È possibile aggiornare l'indirizzo di destinazione della vendita e della fattura associato al Contratto per i clienti Microsoft. 
 
 > [!NOTE]
-> Solo un amministratore utente può apportare modifiche alle informazioni sul profilo utente di Azure Active Directory. Se non è stato assegnato il ruolo di amministratore utente, rivolgersi all'amministratore dell'utente. Per ulteriori informazioni sulla modifica del profilo di un utente, vedere [aggiungere o aggiornare le informazioni sul profilo di un utente utilizzando Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+> Solo un amministratore utente può apportare modifiche alle Azure Active Directory del profilo utente. Se non si è assegnati al ruolo di amministratore utente, contattare l'amministratore dell'utente. Per ulteriori informazioni sulla modifica del profilo di un utente, vedere [Add or update a user's profile information using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
-**Venduto** all'indirizzo: l'indirizzo venduto a è l'indirizzo e le informazioni di contatto dell'organizzazione o dell'individuo responsabile di un account di fatturazione. Viene visualizzato in tutte le fatture generate per l'account di fatturazione.
+**Indirizzo di vendita** - L'indirizzo di destinazione della vendita è l'indirizzo e le informazioni di contatto dell'organizzazione o della persona, responsabile di un account di fatturazione. Viene visualizzato in tutte le fatture generate per l'account di fatturazione.
 
-**Indirizzo** di fatturazione: l'indirizzo per la fattura è l'indirizzo e le informazioni di contatto dell'organizzazione o dell'individuo, che è responsabile delle fatture generate per un account. Per un account di fatturazione per un MCA, è presente un indirizzo di fatturazione per ogni profilo di fattura e viene visualizzato nella fattura generata per il profilo di fatturazione.
+**Indirizzo di** fatturazione - L'indirizzo di fatturazione è l'indirizzo e le informazioni di contatto dell'organizzazione o dell'individuo, responsabili delle fatture generate per un account di fatturazione. Per un account di fatturazione per un mca, esiste un indirizzo di fatturazione per ogni profilo di fatturazione e viene visualizzato nella fattura generata per il profilo di fatturazione.
 
-**Per aggiornare un account di fatturazione MCA venduto all'indirizzo**:
+**Per aggiornare un indirizzo di vendita di un account di fatturazione MCA:**
 
-1. Accedere al portale di Azure utilizzando l'indirizzo di posta elettronica, che ha un proprietario o un ruolo di collaboratore nell'account di fatturazione per un MCA.
-1. Cercare la fatturazione per la **gestione dei costi**  +  .
-1. Fare clic su **Proprietà**  >  **aggiornamento venduto a**.
-1. Immettere il nuovo indirizzo e fare clic su **Salva**.
+1. Accedi al portale di Azure usando l'indirizzo di posta elettronica, che dispone di un proprietario o di un ruolo di collaboratore nell'account di fatturazione per un amministratore di sistema.
+1. Cercare Fatturazione **gestione**  +  **costi**.
+1. Fare **clic su Proprietà**  >  **Aggiorna-a**.
+1. Immettere il nuovo indirizzo e fare clic su **Salva.**
 
-Alcuni account richiedono un'ulteriore verifica prima che l'indirizzo di cui è stato venduto possa essere aggiornato. Se il tuo account richiede l'approvazione manuale, ti verrà richiesto di contattare il supporto di Azure.
+Alcuni account richiedono un'ulteriore verifica prima di poter aggiornare l'indirizzo di destinazione della vendita. Se l'account richiede l'approvazione manuale, ti verrà richiesto di contattare il supporto di Azure.
 
-**Per aggiornare l'indirizzo di un account di fatturazione MCA**: 
+**Per aggiornare l'indirizzo di un account di fatturazione MCA:** 
 
-1. Accedere al portale di Azure utilizzando l'indirizzo di posta elettronica, che ha un proprietario o un ruolo di collaboratore su un account di fatturazione o un profilo di fatturazione per un MCA.
-1. Cercare la fatturazione per la **gestione dei costi**  +  .
-1. Fare clic su **profili di fatturazione** e selezionare un profilo di fatturazione per aggiornare l'indirizzo di fatturazione.
-1. Fare clic su  >  **indirizzo di aggiornamento** proprietà.
-1. Immettere il nuovo indirizzo e quindi fare clic su **Salva**.
+1. Accedi al portale di Azure usando l'indirizzo di posta elettronica, che ha un proprietario o un ruolo di collaboratore in un account di fatturazione o un profilo di fatturazione per un amministratore di sistema.
+1. Cercare Fatturazione **gestione**  +  **costi**.
+1. Fare **clic su Profili di** fatturazione e selezionare un profilo di fatturazione per aggiornare l'indirizzo di fatturazione.
+1. Fare clic **su Proprietà**  >  **Aggiorna indirizzo.**
+1. Immettere il nuovo indirizzo e quindi fare clic su **Salva.**
 
 **Documenti consigliati**
 
 [Modificare le informazioni di contatto per un account di fatturazione di Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
 [Aggiornare le impostazioni dell'account di fatturazione](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
-[Informazioni sui ruoli amministrativi di Microsoft Customer Agreement in Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+[Informazioni sui ruoli amministrativi del Contratto con i clienti Microsoft in Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
