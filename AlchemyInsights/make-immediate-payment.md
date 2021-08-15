@@ -1,5 +1,5 @@
 ---
-title: Eseguire il pagamento immediato-passaggi consigliati
+title: Effettuare il pagamento immediato - Passaggi consigliati
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,36 +13,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 7c25bf8f783ca067112d0d4e5d53970324376d7c435bfc22987508edc03f9e02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755803"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976761"
 ---
-# <a name="make-immediate-payment---recommended-steps"></a>Eseguire il pagamento immediato-passaggi consigliati
+# <a name="make-immediate-payment---recommended-steps"></a>Effettuare il pagamento immediato - Passaggi consigliati
 
-In base alla descrizione del problema, è stata trovata una soluzione per l'utente. La maggior parte dei clienti è stata in grado di risolvere il problema da solo dopo aver seguito la nostra documentazione.
+In base alla descrizione del problema, è stata trovata una soluzione. La maggior parte dei clienti è riuscita a risolvere il problema da sola dopo aver seguito la documentazione.
 
-Per effettuare un pagamento immediato, accertarsi di risolvere i saldi di scadenza precedenti. Se il pagamento non è stato ricevuto o se non è possibile elaborare il pagamento, è possibile ottenere un messaggio di posta elettronica o un avviso di notifica del saldo scaduto nel centro account o nel portale di Azure. 
+Per effettuare un pagamento immediato, assicurati di risolvere i saldi scaduti. Se il pagamento non viene ricevuto o se non è possibile elaborare il pagamento, potresti ricevere un'e-mail o visualizzare un avviso di notifica del saldo scaduto nel Centro account o nel portale di Azure. 
 
-Il pagamento potrebbe non essere stato elaborato se la carta di credito su file è scaduta o se la tariffa è stata rifiutata dalla banca. L'amministratore dell'account può rivedere e aggiornare la carta di credito nel centro account. 
+Il pagamento potrebbe non essere stato elaborato se la carta di credito nel file è scaduta o se l'addebito è stato rifiutato dalla tua banca. L'amministratore dell'account può esaminare e aggiornare la carta di credito nel Centro account. 
 
-La sottoscrizione di Azure potrebbe essere disattivata perché il credito è scaduto, è stato raggiunto il limite di spesa, ha una fattura scaduta, ha superato il limite della carta di credito o perché l'abbonamento è stato annullato dall'amministratore dell'account.  
+La sottoscrizione di Azure potrebbe essere disabilitata perché il credito è scaduto, hai raggiunto il limite di spesa, hai una fattura scaduta, hai raggiunto il limite della carta di credito o perché la sottoscrizione è stata annullata dall'amministratore dell'account.  
 
-Se è presente un pagamento in sospeso sulla carta poiché la scheda è stata negata dall'istituto finanziario, contattare il proprio istituto finanziario per risolvere il problema.  
+Se sulla carta è presente un pagamento in sospeso dal momento che la carta è stata rifiutata dall'istituto finanziario, contattare l'istituto finanziario per risolvere il problema.  
 
-Potrebbe essere necessario controllare con la banca per vedere:
+Potrebbe essere necessario rivolgersi alla banca per visualizzare:
 
-- Se la transazione internazionale viene posizionata sulla scheda. 
-- Se la scheda ha un limite di credito per risolvere il saldo 
-- Se il pagamento ricorrente è abilitato sulla scheda 
+- Se la transazione internazionale viene inserita nella carta. 
+- Se la carta ha un limite di credito per liquidare il saldo 
+- Se la fatturazione ricorrente è abilitata sulla carta 
 
-Se il pagamento è stato rifiutato, verificare quali strumenti di pagamento (PI) sono diminuiti nel caso in cui siano presenti più PIs associati a un abbonamento. Se necessario, modificare o rimuovere il PI dall'abbonamento. 
+Se il pagamento viene rifiutato, verificare quale strumento di pagamento (PI) viene rifiutato nel caso in cui a un abbonamento siano associati più indirizzi I/O. Se necessario, modificare o rimuovere i dati personali dall'abbonamento. 
 
 **Documenti consigliati** 
 
 - [Gestire l'accesso alle informazioni di fatturazione per Azure](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Scaricare la fattura o i dati di utilizzo da Azure account Center](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Scaricare i dati di fatturazione o utilizzo dal Centro account di Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Riattivare l'abbonamento](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Paga in base alla fattura per Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Pagare tramite fattura per Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
