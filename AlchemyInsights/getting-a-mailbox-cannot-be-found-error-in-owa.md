@@ -14,20 +14,20 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 6bab821aaa3b50c365ef5d25a61bca195c76d7ce
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056494"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Ottenere un errore di cassetta postale non trovato in Outlook sul Web?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Si sta ricevendo l'errore "Non è stato possibile trovare una cassetta postale per" in Outlook sul web?
 
-Se si utilizza Outlook sul Web e non è possibile trovare una cassetta postale per errore, **l'account** utilizzato per connettersi a Outlook sul Web non dispone di una licenza di Exchange Online e pertanto nessuna cassetta postale è associata all'account. L'amministratore può assegnare una licenza al tuo account seguendo questi passaggi:
+Se si utilizza Outlook sul web e non è possibile trovare una cassetta postale per errore, **l'account** utilizzato per connettersi a Outlook sul web non dispone di una licenza Exchange Online e pertanto non è associata alcuna cassetta postale all'account. L'amministratore può assegnare una licenza all'account seguendo questa procedura:
 
-1. Aprire [l'interfaccia di amministrazione di Microsoft 365](https://portal.office.com/adminportal/home#/homepage) e passare **a** Utenti attivi nella sezione Utenti e selezionare l'utente che sta visualizzato l'errore. 
+1. Aprire il [interfaccia di amministrazione di Microsoft 365](https://portal.office.com/adminportal/home#/homepage) e passare a **Utenti attivi** nella **sezione Utenti** e selezionare l'utente che sta visualizzato l'errore.
 
-2. Nella pagina utente visualizzata passare  alla sezione Licenze e  app, selezionare il valore percorso appropriato e assegnare una licenza contenente Exchange Online (espandere la licenza per visualizzarne i dettagli). Al termine, fai clic su **salvare le modifiche**.
+2. Nella pagina utente visualizzata passare  alla sezione Licenze e  app, selezionare il valore percorso appropriato e assegnare una licenza che contiene Exchange Online (espandere la licenza per visualizzarne i dettagli). Al termine, fai clic su **salvare le modifiche**.
 
 In alcuni casi, se la licenza è già assegnata a un account utente, la rimozione e la riassegnazione della licenza consentono di risolvere il problema e di eseguirne il provisioning nel sistema: 
 

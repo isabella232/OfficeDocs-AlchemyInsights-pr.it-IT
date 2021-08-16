@@ -1,5 +1,5 @@
 ---
-title: Ottenere una chiave ibrida
+title: Recupero di una chiave ibrida
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706851"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056530"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Ottenere una chiave ibrida di Exchange
+# <a name="getting-an-exchange-hybrid-key"></a>Recupero di una Exchange ibrida
 
-Per connettere l'organizzazione locale a Exchange online in Microsoft 365, è necessario configurare almeno un server Exchange nell'organizzazione locale. Questo server viene utilizzato per creare una distribuzione ibrida che connette l'organizzazione di Exchange locale a Exchange Online. Per ottenere una chiave ibrida per questo server, eseguire la procedura seguente in [Exchange Hybrid Product Key Distribution Wizard](https://aka.ms/hybridkey).
+Per connettere l'organizzazione locale a Exchange Online in Microsoft 365, è necessario configurare almeno un server Exchange nell'organizzazione locale. Questo server viene utilizzato per creare una distribuzione ibrida che connette l'organizzazione locale Exchange a Exchange Online. Per ottenere un codice ibrido per questo server, seguire la procedura descritta Exchange distribuzione guidata del codice Product [Key ibrido.](https://aka.ms/hybridkey)
   

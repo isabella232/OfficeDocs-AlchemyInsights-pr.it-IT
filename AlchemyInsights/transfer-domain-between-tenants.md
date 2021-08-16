@@ -1,5 +1,5 @@
 ---
-title: Trasferire il dominio tra i tenant
+title: Trasferire il dominio tra tenant
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7305"
-ms.openlocfilehash: d696c9d095fb6b2b374d8c5872e94cc7e32dceb8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 942ca306951fdd8e971ea27da88af5601325185b7c169b4df3dfd9e43e1650c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048628"
 ---
-# <a name="transfer-domain-between-tenants"></a>Trasferire il dominio tra i tenant
+# <a name="transfer-domain-between-tenants"></a>Trasferire il dominio tra tenant
 
-Un dominio personalizzato, ad esempio forthcoffee.com, può essere rimosso manualmente da un tenant e quindi verificato in un nuovo tenant.
+Un dominio personalizzato come forthcoffee.com può essere rimosso manualmente da un tenant e quindi verificato in un nuovo tenant.
 
-Eseguire la procedura seguente per [rimuovere un dominio](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain). Poi nel nuovo tenant Vai a **Impostazioni**  >  **domini**  >  **Aggiungi dominio**.
+Seguire questa procedura per [Rimuovere un dominio](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain). Quindi nel nuovo tenant passare a **Impostazioni**  >  **Domini**  >  **Aggiungi dominio**.
 
-Per scenari più complessi, vedere [migrazioni tenant-to-tenant di Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
+Per scenari più complessi, [vedere Microsoft 365 migrazioni da tenant a tenant](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
 
-**Tenere inoltre presente** che:
-- Il dominio onmicrosoft.com iniziale non può essere eliminato o spostato tra i tenant.
-- Un dominio personalizzato acquistato da Microsoft non può essere spostato tra i tenant.
+**Nota anche:**
+- Il dominio onmicrosoft.com non può essere eliminato o spostato tra tenant.
+- Un dominio personalizzato acquistato da Microsoft non può essere spostato tra tenant.

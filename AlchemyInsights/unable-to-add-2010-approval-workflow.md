@@ -9,37 +9,37 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: aa61f1615b60d27cffad15f02f6ce5dbac1b607f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e74c842f8b4be321664f8c2f1f58c570d0724d80edb1264add0647bf313bc82f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020340"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>Impossibile aggiungere il flusso di lavoro di approvazione 2010
 
-In una raccolta siti di Microsoft SharePoint non è possibile aggiungere un flusso di lavoro riutilizzabile a livello globale, ad esempio "approvazione-SharePoint 2010", a un elenco o una raccolta.
+In una raccolta siti di Microsoft SharePoint, non è possibile aggiungere un flusso di lavoro riutilizzabile a livello globale (ad esempio "Approvazione - SharePoint 2010") a un elenco o a una raccolta.
   
 Per risolvere il problema, attenersi alla seguente procedura: 
   
 1. Aprire il sito Web radice della raccolta siti in SharePoint Designer 2013.
   
-2. In **oggetti sito**selezionare **flussi di lavoro**. 
+2. In **Oggetti sito** selezionare Flussi di **lavoro.** 
   
-3. Nella **nuova** sezione della barra multifunzione **flussi di lavoro** , selezionare **flusso di lavoro riutilizzabile**. 
+3. Nella sezione **Nuovo** della barra multifunzione **Flussi di** lavoro selezionare Flusso di **lavoro riutilizzabile.** 
   
-4. Nel modulo **Crea flusso di lavoro riutilizzabile** , immettere il nome * * *Repair2010* * *. Per il **tipo di piattaforma**, fare clic su flusso di lavoro di **SharePoint 2010**e quindi fare clic su **OK**. 
+4. Nel modulo **Crea flusso di lavoro riutilizzabile** immettere il nome ** *Repair2010* **. In **Tipo di piattaforma** fare clic SharePoint flusso di lavoro **2010** e quindi fare clic su **OK.** 
   
-1. Nella sezione **Salva** della barra multifunzione del **flusso di lavoro** Selezionare **pubblica**. 
+1. Nella sezione **Salva** della barra **multifunzione flusso di** lavoro selezionare **Pubblica.** 
   
-2. Nella sezione **Gestisci** della barra multifunzione del **flusso di lavoro** Selezionare **pubblica globalmente**. Nella finestra di dialogo di conferma che viene visualizzata, selezionare **OK**. 
+2. Nella sezione **Gestisci** della barra **multifunzione flusso di** lavoro selezionare Pubblica **globalmente.** Nella finestra di dialogo di conferma visualizzata selezionare **OK.** 
   
-3. In un Web browser individuare il sito Web radice della raccolta siti e quindi accedere alle **Site Settings** \> **funzionalità di raccolta siti**delle impostazioni del sito. Attiva/disattiva la caratteristica **flussi di lavoro** : 
+3. In un Web browser individuare il sito Web radice della raccolta siti e quindi accedere a Caratteristiche raccolta **siti** Impostazioni \> **sito**. **Attiva/disattiva la funzionalità Flussi di** lavoro: 
   
-· Se la funzionalità è  *attivata*  , fare clic su Disattiva **e quindi** su **attiva**. 
+· Se la funzionalità è *attivata,* fare clic **su Disattiva e** quindi su **Attiva.** 
   
-· Se la funzionalità è  *disattivata*  , fare clic su **attiva**. 
+· Se la funzionalità è *disattivata, fare* clic su **Attiva.** 
   
-Per ulteriori informazioni, vedere l' [articolo](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)seguente.
+Per ulteriori informazioni, fare riferimento all'articolo [seguente.](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)
   
 

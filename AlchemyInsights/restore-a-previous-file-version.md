@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 5fead002ffe2089835f9419e9fe0ce0353c9dd03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e2a728b80d7c175682f17117cc1e61c109f56eb987483be12187d048467a4c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039574"
 ---
 # <a name="restore-a-previous-file-version"></a>Ripristinare una versione precedente del file
 
-Con la cronologia delle versioni online, è possibile visualizzare e ripristinare le versioni precedenti dei file in OneDrive o SharePoint. La cronologia delle versioni è compatibile con tutti i tipi di file, tra cui PDF, file CAD, foto e video. Per ripristinare una versione precedente del file:
+Con la cronologia delle versioni online, è possibile visualizzare e ripristinare versioni precedenti dei file in OneDrive o SharePoint. La cronologia delle versioni funziona con tutti i tipi di file, inclusi PDF, file CAD, foto e video. Per ripristinare una versione precedente del file:
   
-1. Aprire la raccolta documenti di SharePoint o la posizione OneDrive.
+1. Aprire la SharePoint o il percorso OneDrive documento.
     
-2. Fare clic a sinistra del file per selezionarlo e quindi fare clic su **Cronologia versioni**. Se nella barra dei comandi non è visualizzata la cronologia delle versioni, fare clic su altro ( **...** ). 
+2. Fare clic a sinistra del file per selezionarlo e quindi fare clic su **Cronologia versioni.** Se sulla barra dei comandi non è visualizzata la cronologia delle versioni, fare clic su Altro ( **...** ). 
     
-3. Fare clic sulla versione che si desidera visualizzare oppure fare clic su altro ( **...** ) a destra di una versione e quindi su **Ripristina**.
+3. Fare clic sulla versione che si desidera visualizzare oppure fare clic su Altro ( **...** ) a destra di una versione e quindi su **Ripristina**.
     
 
