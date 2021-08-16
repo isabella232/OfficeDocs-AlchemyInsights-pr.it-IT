@@ -1,5 +1,5 @@
 ---
-title: Posticipare l'invio in Outlook.com
+title: Invio posticipato in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752075"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041410"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Posticipare o pianificare l'invio di messaggi di posta elettronica
+# <a name="delay-or-schedule-sending-email-messages"></a>Ritardare o pianificare l'invio di messaggi di posta elettronica
 
-Tuttavia, non è possibile posticipare o programmare l'invio di messaggi di posta elettronica in un'app per dispositivi mobili o in un Web browser. A tale scopo, utilizzare [Outlook per Windows o Outlook per Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+Spiacenti, ma non è possibile rinviare o pianificare l'invio di messaggi di posta elettronica in un'app per dispositivi mobili o in un Web browser. A tale scopo, utilizzare [Outlook per Windows o Outlook per Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
 
 **Annulla invio**
 
-È possibile modificare le impostazioni di Outlook.com per ritardare l'invio di un messaggio per un massimo di 10 secondi. È possibile annullare l'invio del messaggio durante questo periodo. Per abilitare questa funzionalità, aprire le impostazioni di [annullamento dell'invio](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
+È possibile modificare le impostazioni Outlook.com per ritardare l'invio di un messaggio per un massimo di 10 secondi. È possibile annullare l'invio del messaggio durante questo periodo. Per attivare questa funzionalità, apri le impostazioni [Annulla](https://outlook.live.com/mail/options/mail/messageContent/undoSend) invio.
 
-Ulteriori informazioni su come [richiamare la posta elettronica in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Altre informazioni sul [richiamo della posta elettronica in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).

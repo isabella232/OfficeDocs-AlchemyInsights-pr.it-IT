@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38f1e314b2e492e02c2ea6eea37ea775c67e354e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737068"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967985"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Licenze per Microsoft 365 Defender
 
-Le licenze seguenti forniscono l'accesso gratuito alle funzionalità di Microsoft 365 Defender nel Centro sicurezza Microsoft 365:
+Le licenze seguenti forniscono l'accesso gratuito Microsoft 365 Defender funzionalità nel centro sicurezza Microsoft 365 sicurezza:
 
 - Microsoft 365 E5 o A5
 - Microsoft 365 E5 Security o A5 Security
@@ -29,13 +29,13 @@ Le licenze seguenti forniscono l'accesso gratuito alle funzionalità di Microsof
 - Enterprise Mobility + Security (EMS) E5 o A5
 - Office 365 E5 o A5
 - Microsoft Defender per endpoint
-- Che cosa è Microsoft Defender per identità?
+- Microsoft Defender per identità
 - Microsoft Cloud App Security
 - Microsoft Defender per Office 365 (Piano 2)
 
     > [!NOTE]
-    > Al momento, le licenze di valutazione per Office 365 non forniscono l'accesso a Microsoft 365 Defender.
+    > Al momento, le licenze di valutazione Office 365 non forniscono l'accesso a Microsoft 365 Defender.
 
-Per ulteriori informazioni, vedere confronto [dei piani di Microsoft 365 Enterprise.](https://go.microsoft.com/fwlink/?linkid=2143458)
+Per ulteriori informazioni, vedere confronto [Microsoft 365 Enterprise piani.](https://go.microsoft.com/fwlink/?linkid=2143458)
 
-Non hai ancora una licenza? [Provare o acquistare un abbonamento a Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2143625)
+Non hai ancora una licenza? [Prova o acquista un abbonamento Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2143625)
