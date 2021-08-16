@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8a26f93f89d6aba5ed889cdfb862bfdc7ae520faffbdc7efc6778a38c8ba12af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968597"
 ---
 # <a name="change-the-account-type-that-you-sign-in-with"></a>Modificare il tipo di account con cui si accede
 
 Ecco come modificare il tipo di account che usi per accedere a Windows 10:
 
-1. Seleziona **Impostazioni**  >  **Start**  >  **Account**  >  **Le tue info.**
+1. Seleziona **Avvia Impostazioni** account  >    >  **Le** tue  >  **info**.
 2. Se si utilizza un account locale che non è collegato a un indirizzo di posta elettronica ma che si desidera utilizzare un account Microsoft, selezionare Accedi con un **account Microsoft.**
 3. Se usi un account Microsoft collegato a un indirizzo di posta elettronica ma vuoi usare un account locale, seleziona Accedi con **un account locale.**
 4. Se necessario, immettere la password e selezionare **Avanti**.

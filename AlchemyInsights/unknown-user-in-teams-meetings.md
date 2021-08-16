@@ -1,5 +1,5 @@
 ---
-title: "\"Utente sconosciuto\" viene visualizzato nelle riunioni o nelle chat di Teams"
+title: "\"Utente sconosciuto\" viene visualizzato Teams riunioni o chat"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6655"
 - "9003574"
-ms.openlocfilehash: 22d5fa0087791a9f0139917cd7532fc4a90644e5
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 1074075ede97250888927fe064a6faea456cef1dad7bb35726b2874032ba86b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019836"
 ---
-# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>"Utente sconosciuto" viene visualizzato nelle riunioni o nelle chat di Teams
+# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>"Utente sconosciuto" viene visualizzato Teams riunioni o chat
 
-È possibile che l'utente sia stato eliminato da Microsoft 365. In questo caso, provare a eliminare l'utente dai team.  
+L'utente potrebbe essere stato eliminato da Microsoft 365. In questo caso, provare a eliminare l'utente da Teams.  
 
-Provare a cancellare la cache seguente quando i team sono chiusi, quindi riavviare i team: `C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
+Prova a cancellare la cache seguente quando Teams viene chiuso, quindi riavvia Teams:`C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
 
-Per gli aggiornamenti su questo problema, vedere l'  [utente rimosso viene visualizzato come "utente sconosciuto" in Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown).
+Per gli aggiornamenti su questo problema, vedere [L'utente rimosso viene visualizzato come "Utente sconosciuto" in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown).
