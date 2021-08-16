@@ -1,5 +1,5 @@
 ---
-title: Cartelle di Outlook Mobile in un nuovo ordine
+title: Outlook Cartelle per dispositivi mobili in un nuovo ordine
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56c90f989f6ce918f935610b907d0cc87410dcc015a558751c9065928eb17386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000252"
 ---
-# <a name="my-folders-are-in-a-new-order"></a>Le cartelle personali sono in un nuovo ordine
+# <a name="my-folders-are-in-a-new-order"></a>Le cartelle sono in un nuovo ordine
 
-Con l'aggiunta di cartelle e gruppi preferiti a Outlook per iOS e Android, è possibile notare che le cartelle sono in un nuovo ordine. Se si dispone di preferiti, nella parte superiore della barra laterale viene visualizzata una sezione Preferiti. È possibile aggiungere Preferiti utilizzando l'icona a matita vicino alla parte superiore della barra laterale. In questo modo, le cartelle e i gruppi più importanti vengono mantenuta nella parte superiore, in cui è possibile accedervi facilmente.
+Con l'aggiunta di cartelle e gruppi preferiti Outlook per iOS e Android, potresti notare che le cartelle sono in un nuovo ordine. Se hai preferiti, vedrai una sezione preferiti nella parte superiore della barra laterale. Puoi aggiungere preferiti usando l'icona a forma di matita nella parte superiore della barra laterale. In questo modo verranno conservate tutte le cartelle e i gruppi più importanti nella parte superiore, dove è possibile accedervi facilmente.

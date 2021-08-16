@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11109"
-ms.openlocfilehash: 5afae22d7327a5d841964c12c73d70904ae72132b82810af74d32fc15ef30d6f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3bb3e7756cade296671d679b0ad7babe3051d418
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963971"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295875"
 ---
 # <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Usare i criteri di gruppo correlati all'aggiornamento disponibili in Microsoft Edge
 
-Usa i criteri disponibili in Microsoft Edge (versione 77 o successiva) per controllare come e quando Microsoft Edge viene aggiornato. Per ulteriori informazioni, vedere [Microsoft Edge - Criteri di aggiornamento.](/DeployEdge/microsoft-edge-update-policies#available-policies)
+Usa i criteri disponibili in Microsoft Edge (versione 77 o successiva) per controllare come e quando Microsoft Edge aggiornamento. Per ulteriori informazioni, vedere [Microsoft Edge - Aggiornare i criteri.](https://docs.microsoft.com/DeployEdge/microsoft-edge-update-policies#available-policies)

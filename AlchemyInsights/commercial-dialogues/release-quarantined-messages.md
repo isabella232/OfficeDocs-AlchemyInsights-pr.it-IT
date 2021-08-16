@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966977"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296055"
 ---
 # <a name="release-quarantined-messages"></a>Rilasciare i messaggi in quarantena
 
-È possibile rilasciare un messaggio in quarantena (o un insieme di messaggi) a tutti i destinatari oppure rilasciare il messaggio solo a persone specifiche selezionate nell'elenco di tutti i destinatari.
+È possibile rilasciare un messaggio in quarantena (o un insieme di messaggi) a tutti i destinatari oppure rilasciare il messaggio solo a persone specifiche selezionate nell'elenco di tutti i destinatari. Ecco come:
 
-1. Passare al [Centro sicurezza & conformità](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Passare a **Gestione delle minacce**  >  **Rivedere**  >  **la quarantena**.
-3. Scegliere i messaggi che si desidera rilasciare.
-4. Dopo aver rilasciato un messaggio, scegliere **Aggiorna** per aggiornare i dati e quindi fare doppio clic sul messaggio. Si dovrebbe vedere che il messaggio è stato rilasciato ai destinatari previsti.
+1. Nel portale di Microsoft 365 Defender <https://security.microsoft.com> all'indirizzo , passare a **Posta elettronica & Quarantena revisione** \>  \> **collaborazione**.
+
+   Per passare direttamente alla **pagina Quarantena,** utilizzare <https://security.microsoft.com/quarantine> .
+
+2. Nella pagina **Quarantena** verificare che la scheda **Posta** elettronica sia selezionata e quindi eseguire una delle operazioni seguenti:
+   - **Messaggio singolo:** selezionare il messaggio. Nel riquadro a comparsa dei dettagli visualizzato selezionare **Rilascia** posta elettronica , configurare le opzioni desiderate e quindi fare clic su **Rilascia messaggio**.
+   - **Più messaggi:** selezionare fino a 100 messaggi per rilasciare il messaggio a tutti i destinatari (non è possibile specificare singoli destinatari originali). **Nell'elenco a** discesa Azioni in blocco visualizzato selezionare **Rilascia messaggi**, configurare le opzioni desiderate e quindi fare clic su **Rilascia messaggio**.
+
+Per altre informazioni, vedere gli articoli seguenti:
+
+- [Individuare e rilasciare i messaggi in quarantena come utente](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Gestire i messaggi e i file in quarantena come amministratore](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

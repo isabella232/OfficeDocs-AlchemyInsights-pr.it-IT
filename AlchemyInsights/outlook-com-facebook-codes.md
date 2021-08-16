@@ -1,5 +1,5 @@
 ---
-title: Codici di Facebook di Outlook.com
+title: Outlook.com Codici Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4e17b68de85fa3b7d446523380e0a2780802bfe01d4c3df133f4b7231a0d16c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672060"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063956"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Non ricevere codici di Facebook usando Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Non ricevendo codici di Facebook con Outlook.com
 
-Se è stata richiesta una nuova password da Facebook ma non è stata ricevuta la reimpostazione della password:
+Se hai richiesto una nuova password da Facebook ma non hai ricevuto l'e-mail di reimpostazione della password:
 
-- Controllare la cartella di posta indesiderata [o di indesiderata](https://outlook.live.com/mail/junkemail).
-- Provare a [reimpostare di nuovo la password di Facebook](https://aka.ms/facebook-password-reset).
+- Controllare la cartella della posta indesiderata o [della posta indesiderata.](https://outlook.live.com/mail/junkemail)
+- Prova a [reimpostare di nuovo la password di Facebook.](https://aka.ms/facebook-password-reset)
 
-Se non è possibile reimpostare la password perché non è possibile accedere alla posta elettronica o al numero di cellulare sul proprio account, provare a eseguire la [reimpostazione della password di Facebook](https://aka.ms/facebook-password-help).
+Se non è possibile reimpostare la password perché non è possibile accedere al messaggio di posta elettronica o al numero di cellulare nel proprio account, provare la pagina Reimpostazione [password di Facebook Suggerimenti](https://aka.ms/facebook-password-help).

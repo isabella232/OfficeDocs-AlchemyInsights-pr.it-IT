@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9439"
-ms.openlocfilehash: 5cd58303b0629e55b0ed67157f9fcf01668fda1e
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: 5481d1d63e6cf1f2fdbe1c17420dd041e5fe8b4f5be17a891b9e0bf871d27baf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50586512"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002088"
 ---
 # <a name="how-to-manage-an-app"></a>Come gestire un'app
 
 Per gestire un'app:
 
-- Iniziare con [Gestire le app](https://admin.teams.microsoft.com/policies/manage-apps) nell'interfaccia di amministrazione di Microsoft Teams per aggiungere un'app per l'organizzazione.
-- È possibile usare i [criteri di autorizzazione delle app](https://admin.teams.microsoft.com/policies/app-permission) nell'interfaccia di amministrazione di Microsoft Teams per consentire o bloccare un'app e assegnarla agli utenti.
-- Per modificare l'ordine di presentazione di un'app agli utenti o per aggiungere [un'app,](https://admin.teams.microsoft.com/policies/app-setup) usare i criteri di configurazione dell'app nell'interfaccia di amministrazione di Microsoft Teams.
+- Inizia con [Gestisci app nell'Microsoft Teams](https://admin.teams.microsoft.com/policies/manage-apps) di amministrazione per aggiungere un'app per la tua organizzazione.
+- Puoi usare i [criteri di autorizzazione dell'app](https://admin.teams.microsoft.com/policies/app-permission) nell'interfaccia Microsoft Teams di amministrazione per consentire o bloccare un'app e assegnarla agli utenti.
+- Per modificare l'ordine in cui un'app viene presentata agli utenti o per aggiungere [un'app,](https://admin.teams.microsoft.com/policies/app-setup) usa i criteri di configurazione dell'app nell'Microsoft Teams di amministrazione.
 
-Per altre informazioni sulla creazione di criteri per le app per l'organizzazione, vedi:
+Per altre informazioni sulla creazione di criteri app per la tua organizzazione, vedi:
 
-- [Gestire le app nell'interfaccia di amministrazione di Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Gestire le app nell'Microsoft Teams di amministrazione](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
 - [Gestire i criteri di autorizzazione delle app in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
 - [Gestire i criteri di configurazione delle app in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)

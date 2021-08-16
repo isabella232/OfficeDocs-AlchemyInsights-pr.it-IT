@@ -1,5 +1,5 @@
 ---
-title: Outlook Mobile non vedendo i calendari quando si sceglie la disponibilità
+title: Outlook Mobile not seeing calendars when choosing availability
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3070"
 - "9001109"
-ms.openlocfilehash: e0523100caead474b63ef8ddfcd4622ccbd3669c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 150d0f470571a5e78124634f190ea61f2c5debbd13925af133c83b351bb6c6f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721811"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000324"
 ---
-# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Non vengono visualizzati i calendari che si prevedono quando si sceglie la disponibilità
+# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>I calendari previsti non vengono visualizzati quando si sceglie la disponibilità
 
-Se non si vedono i calendari previsti, passare al calendario, toccare il pulsante menu nell'angolo in alto a sinistra dello schermo e verificare che i calendari che si prevede di visualizzare siano selezionati. Solo i calendari abilitati in questo menu verranno visualizzati quando si scelgono i tempi per la disponibilità dell'invio.
+Se i calendari previsti non sono visualizzati, passare a Calendario, toccare il pulsante di menu nell'angolo superiore sinistro dello schermo e verificare che i calendari che si prevede di visualizzare siano selezionati. Solo i calendari abilitati in questo menu verranno visualizzati quando si sceglie l'ora per Invia disponibilità.

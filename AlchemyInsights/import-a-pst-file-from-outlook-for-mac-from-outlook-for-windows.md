@@ -1,5 +1,5 @@
 ---
-title: Importare un file pst in Outlook per Mac da Outlook per Windows
+title: Importare un file PST in Outlook per Mac da Outlook per Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987399"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295911"
 ---
 # <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Importare un file pst da Outlook per Windows a Outlook per Mac 
 
 Per trasferire i messaggi e altri elementi da un computer basato su Windows a un Mac, Outlook per Mac può importare file di dati Outlook (pst) creati in Outlook per Windows.
 
-**Nelle versioni più recenti- importare un file pst da Windows a Mac**
+**Nelle versioni più recenti- importare un file PST da Windows a Mac**
 
 1. Scegliere Importa Outlook per Mac dal menu **File.** 
 
@@ -53,12 +53,11 @@ Per trasferire i messaggi e altri elementi da un computer basato su Windows a un
 
    Gli elementi importati vengono visualizzati nel riquadro di spostamento in **Risorse del computer.**
 
-> [!NOTE]
-> Outlook per Mac è possibile importare solo file pst basati su Unicode, che sono il formato standard per i file delle cartelle personali per Outlook (per Windows) 2003 e versioni successive. I file PST in formato ANSI, noti anche come file delle cartelle personali di Outlook 97-2002, erano il formato di cartelle personali standard per il salvataggio dei dati in Outlook per Windows nelle versioni 97-2002. Questo formato di file non può essere importato in Outlook per Mac. Se si dispone della versione precedente del file PST in formato ANSI, non esiste una procedura automatica per convertire il file nel formato di file più recente. È tuttavia possibile creare un nuovo file di dati di Outlook (con estensione pst) in Microsoft Outlook per Windows 2003 o versioni successive e quindi importare gli elementi dal file precedente nel nuovo file. È quindi possibile importare il nuovo file pst in Outlook per Mac. Per ulteriori informazioni su come creare file .pst e importare elementi, vedere la Guida per la versione di Outlook per Windows. 
+**Nota:** Outlook per Mac può importare solo file pst basati su Unicode, che sono il formato standard per i file delle cartelle personali per Outlook (per Windows) 2003 e versioni successive. I file PST in formato ANSI, noti anche come file delle cartelle personali di Outlook 97-2002, erano il formato di cartelle personali standard per il salvataggio dei dati in Outlook per Windows nelle versioni 97-2002. Questo formato di file non può essere importato in Outlook per Mac. Se si dispone della versione precedente del file PST in formato ANSI, non esiste una procedura automatica per convertire il file nel formato di file più recente. È tuttavia possibile creare un nuovo file di dati di Outlook (con estensione pst) in Microsoft Outlook per Windows 2003 o versioni successive e quindi importare gli elementi dal file precedente nel nuovo file. È quindi possibile importare il nuovo file pst in Outlook per Mac. Per ulteriori informazioni su come creare file .pst e importare elementi, vedere la Guida per la versione di Outlook per Windows. 
 
 **Aprire un Outlook file di dati (con estensione pst o olm)**
 
-È possibile importare un Outlook per Windows file di dati (pst) o Outlook per Mac file di dati (con estensione olm). Questi file di dati possono contenere grandi quantità di dati di più tipi di elementi. Outlook I file di dati vengono spesso utilizzati come archivio o per trasferire dati tra computer.
+È possibile importare un Outlook per Windows file di dati (con estensione pst) o un file di dati Outlook per Mac (con estensione olm). Questi file di dati possono contenere grandi quantità di dati di più tipi di elementi. Outlook I file di dati vengono spesso utilizzati come archivio o per trasferire dati tra computer.
 
 1. Scegliere Importa Outlook per Mac dal menu **File.**
 
@@ -72,8 +71,7 @@ Per trasferire i messaggi e altri elementi da un computer basato su Windows a un
 
 Gli elementi importati vengono visualizzati nel riquadro di spostamento in **Risorse del computer.**
 
-> [!NOTE]
-> Outlook per Mac importare solo file pst basati su Unicode che sono il formato standard per i file delle cartelle personali per Outlook (per Windows) 2003 e versioni successive. I file pst in formato ANSI, noti anche come file delle cartelle personali di Outlook 97-2002, non possono essere importati in Outlook per Mac. Se si dispone della versione precedente del file PST in formato ANSI, non esiste una procedura automatica per convertire il file nel formato di file più recente. È tuttavia possibile creare un nuovo file di dati di Outlook (con estensione pst) in Microsoft Outlook per Windows 2003 o versioni successive e quindi importare gli elementi dal file precedente nel nuovo file. È quindi possibile importare il nuovo file pst in Outlook per Mac. Per ulteriori informazioni su come creare file .pst e importare elementi, vedere la Guida per la versione di Outlook per Windows. 
+**Nota:** Outlook per Mac può importare solo file pst basati su Unicode che sono il formato standard per i file delle cartelle personali per Outlook (per Windows) 2003 e versioni successive. I file pst in formato ANSI, noti anche come file delle cartelle personali di Outlook 97-2002, non possono essere importati in Outlook per Mac. Se si dispone della versione precedente del file PST in formato ANSI, non esiste una procedura automatica per convertire il file nel formato di file più recente. È tuttavia possibile creare un nuovo file di dati di Outlook (con estensione pst) in Microsoft Outlook per Windows 2003 o versioni successive e quindi importare gli elementi dal file precedente nel nuovo file. È quindi possibile importare il nuovo file pst in Outlook per Mac. Per ulteriori informazioni su come creare file .pst e importare elementi, vedere la Guida per la versione di Outlook per Windows. 
 
 **Aprire elementi dell'entourage da un archivio o da una versione precedente**
 
@@ -83,14 +81,14 @@ Gli elementi importati vengono visualizzati nel riquadro di spostamento in **Ris
 
 2. Fare **clic su Informazioni di Entourage da un** archivio o versione precedente, fare clic sulla freccia destra e quindi seguire le istruzioni.
 
-> [!NOTE]
-- Se è stato utilizzato un account microsoft Exchange con Entourage, tutti gli elementi nell'account Exchange vengono scaricati dal server di Exchange al termine del processo di importazione. Tutte le regole o le pianificazioni correlate all Exchange account dovranno essere riconfigurate in Outlook.
+**Nota**:
+- Se è stato utilizzato un account microsoft Exchange con Entourage, tutti gli elementi nell'account Exchange vengono scaricati dal server Exchange al termine del processo di importazione. Tutte le regole o le pianificazioni correlate all'account Exchange dovranno essere riconfigurate in Outlook.
 
 - Se si importano elementi da Entourage 2004 o Entourage 2008, le informazioni sulle categorie per gli elementi in un account Exchange non vengono importate in Outlook. Tuttavia, con Entourage 2008, Web Services Edition, le informazioni sulle categorie verranno scaricate dal server Exchange server.
 
-- Outlook non include Project Center. Se è stato utilizzato Project Center in Entourage e quindi si importano le informazioni di Entourage in Outlook, le associazioni Project Center vengono convertite in categorie. Ad esempio, se sono stati aggiunti elementi a un progetto denominato "Research Paper" in Entourage, a questi elementi viene assegnata una categoria denominata "Research Paper" in Outlook.
+- Outlook non include Project Center. Se è stato utilizzato Project Center in Entourage e quindi si importano le informazioni di Entourage in Outlook, le associazioni Project Center vengono convertite in categorie. Ad esempio, se sono stati aggiunti elementi a un progetto intitolato "Research Paper" in Entourage, a questi elementi viene assegnata una categoria denominata "Research Paper" in Outlook.
 
-- Le visualizzazioni personalizzate, le impostazioni di ricerca e le informazioni sui tempi di viaggio degli eventi di Entourage non vengono importate Outlook. Outlook eventi non includono informazioni sul tempo di viaggio.
+- Le visualizzazioni personalizzate, le impostazioni di ricerca e le informazioni sui tempi di viaggio degli eventi di Entourage non vengono importate in Outlook. Outlook eventi non includono informazioni sul tempo di viaggio.
 
 **Spostare un elemento da una cartella di archiviazione a un'altra cartella in Outlook**
 
@@ -100,8 +98,7 @@ Gli elementi importati vengono visualizzati nel riquadro di spostamento in **Ris
 
 3. Nella casella di ricerca immettere il nome della cartella che si desidera spostare e fare clic su **Sposta.**
 
-> [!TIP]
-> Per copiare un elemento da una cartella di archiviazione in un'altra cartella di Outlook, è sufficiente trascinare l'elemento nella cartella in cui si desidera inserire la copia.
+   **Suggerimento:** per copiare un elemento da una cartella di archiviazione in un'altra cartella in Outlook, è sufficiente trascinare l'elemento nella cartella in cui si desidera inserire la copia.
 
 **Vedere anche**
 

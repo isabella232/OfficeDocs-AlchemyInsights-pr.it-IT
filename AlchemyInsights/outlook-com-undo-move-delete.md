@@ -1,5 +1,5 @@
 ---
-title: Annulla spostamento o eliminazione in Outlook.com
+title: Annullare lo spostamento o l'eliminazione in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1752"
 - "9000193"
-ms.openlocfilehash: ba733325365febb273769869108cc18d360a9fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ea6d37c856ed2a4f12b8e65e204a5d24f4d6c998706a66e412806af5d103b2e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000288"
 ---
-# <a name="action-confirmations"></a>Conferme d'azione
+# <a name="action-confirmations"></a>Conferme di azione
 
-Se si è spostato o eliminato accidentalmente un messaggio in Outlook.com, è possibile annullare l'azione. La finestra di dialogo Annulla viene visualizzata nella parte inferiore dello schermo per circa 5 secondi. Fare clic su **Annulla** per annullare l'azione di spostamento o di eliminazione.
+Se hai accidentalmente spostato o eliminato un messaggio in Outlook.com, puoi annullare l'azione. La finestra di dialogo di annullamento viene visualizzata nella parte inferiore dello schermo per circa 5 secondi. Selezionare **Annulla** per annullare l'azione di spostamento o eliminazione.
 
-Questa funzionalità può essere disattivata nelle [conferme di azione](https://outlook.live.com/mail/options/general/notifications) (<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **Impostazioni**  >  di **Visualizzazione di tutte le impostazioni**  >  di Outlook **Informazioni generali**  >  **Notifiche**).
+È possibile disattivare questa funzionalità in [Conferme azione](https://outlook.live.com/mail/options/general/notifications) (<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **Impostazioni**  >  **Visualizzare tutte le Outlook predefinite**  >  **Generale**  >  **Notifiche**).
 
-Nota: dopo che è stato inviato un messaggio, non è possibile annullare l'azione. Per ulteriori informazioni, vedere [desidero richiamare un messaggio in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Nota: dopo l'invio di un messaggio, non è possibile annullare l'azione. Per ulteriori informazioni, vedere [Voglio richiamare un messaggio in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
