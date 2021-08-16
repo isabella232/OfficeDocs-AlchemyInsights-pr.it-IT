@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 0d54a9c17f52b2e8a99f181822c0989fe1af72e7
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: f2025f66adfe5ed4ed5093fb5768bc4826cfdeeeddb17a6276c56f633eea77c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801483"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026802"
 ---
 # <a name="microsoft-365-defender"></a>Microsoft 365 Defender
 
-- [Informazioni generali su MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
+- [Panoramica di MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
 - [Prerequisiti](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 - [Requisiti di licenza](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [Come abilitare MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
-- [Risoluzione dei problemi di MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
+- [How-to Enable MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [Risoluzione dei problemi relativi a MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Informazioni su come controllare le licenze: è necessario che sia assegnato il ruolo di amministratore di fatturazione o lettore globale in Azure AD per visualizzare la licenza. Accedere all'interfaccia di [Amministrazione](https://admin.microsoft.com/) e passare a **Billing**  >  **licenze** di fatturazione per visualizzare le licenze esistenti.
+Come controllare le licenze: per visualizzare la licenza, devi essere assegnato al ruolo Amministratore fatturazione o Lettore globale in Azure AD. Passare [all'interfaccia di amministrazione](https://admin.microsoft.com/) e passare a Licenze **di**  >  **fatturazione** per visualizzare le licenze esistenti.

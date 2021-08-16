@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c2f2a0c3888920a969a6fc70af7ef7bfd8435bdcf975e0f31452b5da85e3a208
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968885"
 ---
 # <a name="blocking-legacy-authentication"></a>Blocco dell'autenticazione legacy
 
 Con il termine autenticazione legacy si fa riferimento a una richiesta di autenticazione effettuata da:
 
-- Client di Office meno recenti che non utilizzano l'autenticazione moderna (ad esempio, client di Office 2010).
+- I Office precedenti che non utilizzano l'autenticazione moderna (ad esempio, Office client 2010).
 
 - Qualsiasi client che usi protocolli di posta elettronica legacy come IMAP/SMTP/POP3.
 

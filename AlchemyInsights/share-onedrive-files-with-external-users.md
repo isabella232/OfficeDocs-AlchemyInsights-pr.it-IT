@@ -1,5 +1,5 @@
 ---
-title: Condivisione di file di OneDrive con utenti esterni
+title: Condividere OneDrive file con utenti esterni
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,31 +12,31 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ac5cbebaa350a004e5e85de928d2eb23bcd3086ba304c3c3afdfa9c13e42188
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051598"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Condivisione di file in OneDrive con utenti esterni all'organizzazione
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Condividere file in OneDrive con persone esterne all'organizzazione
 
-1. Utilizzare l'icona di avvio delle app per accedere a OneDrive nel Web browser. 
+1. Usa l'icona di avvio delle app per accedere OneDrive nel browser Web. 
     
-2. Selezionare il file o la cartella che si desidera condividere e quindi fare clic su **Condividi**. 
+2. Selezionare il file o la cartella che si desidera condividere e quindi selezionare **Condividi**. 
     
-3. Se il tipo di collegamento è impostato su "persone in" \<your organization\> , fare clic sulla freccia in giù e selezionare una delle opzioni seguenti: 
+3. Se il tipo di collegamento è impostato su "Persone in", fare clic sulla freccia \<your organization\> in giù e selezionare una delle opzioni seguenti: 
     
-  - **Chiunque** dà accesso a tutti coloro che ricevono questo collegamento, sia che lo ricevano direttamente da voi o inoltrati da un altro utente. Ciò può includere persone esterne all'organizzazione. 
+  - **Chiunque** consente l'accesso a chiunque riceva questo collegamento, sia che lo riceva direttamente da te o inoltrato da un altro utente. Ciò può includere persone esterne all'organizzazione. 
     
-  - Le **persone specifiche** consentono l'accesso solo alle persone specificate, anche se altre persone possono già avere accesso. Se la gente inoltra l'invito alla condivisione, solo gli utenti che hanno già accesso all'elemento saranno in grado di utilizzare il collegamento. 
+  - **Persone specifiche** consente l'accesso solo alle persone specificate, anche se altre persone potrebbero già avere accesso. Se gli utenti inoltrano l'invito alla condivisione, solo gli utenti che hanno già accesso all'elemento potranno utilizzare il collegamento. 
     
     > [!NOTE]
-    > Se una di queste opzioni non è disponibile o se si desidera che un tipo di collegamento diverso venga visualizzato per impostazione predefinita, è possibile modificare le impostazioni a livello di organizzazione accedendo all'interfaccia di amministrazione di OneDrive e facendo clic su **condivisione** nel riquadro sinistro. [Altre informazioni](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Se una di queste opzioni non è disponibile o se si desidera che venga visualizzato un tipo di collegamento diverso per  impostazione predefinita, è possibile modificare le impostazioni a livello di organizzazione andando nell'interfaccia di amministrazione di OneDrive e facendo clic su Condivisione nel riquadro sinistro. [Altre informazioni](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Per impostazione predefinita, **Consenti modifica** è attivata. Se si desidera che gli utenti visualizzano solo i file, deselezionare la casella di controllo. 
+4. Per impostazione predefinita, **l'opzione Consenti** modifica è attivata. Se si desidera che gli utenti visualizzano solo i file, deselezionare la casella di controllo. 
     
-5. Se lo si desidera, immettere i nomi delle persone con cui si desidera condividerlo e un messaggio.
+5. Immettere i nomi delle persone con cui si desidera condividere il messaggio e, se si desidera, un messaggio.
     
 6. Quando si è pronti per inviare il collegamento, fare clic su **Invia**. 
     
