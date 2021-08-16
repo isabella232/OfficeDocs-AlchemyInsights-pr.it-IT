@@ -1,5 +1,5 @@
 ---
-title: Fixing Microsoft 365 apps Sorry, we are having temporary server issues message
+title: Correzione di Microsoft 365 app Spiacenti, stiamo avendo un messaggio di problemi temporanei del server
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aa0d625856df1027146de5af57845224e3056d8c21d9ac4cefbd4a9c329f487c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021600"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Correzione del messaggio "Ci sono problemi temporanei del server" per le app di Microsoft 365
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Correzione del messaggio Microsoft 365 app "Spiacenti, si verificano problemi temporanei del server"
 
 Se viene visualizzato questo messaggio, provare a eseguire le operazioni seguenti:
 
-1. Controllare le impostazioni del firewall, del software antivirus e del proxy per verificare che non blocchino l'accesso a Internet alle app di Microsoft 365. Vedere [URL e intervalli di indirizzi IP.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+1. Controlla le impostazioni del firewall, del software antivirus e del proxy per verificare che non blocchino l'accesso a Internet Microsoft 365 app. Vedere [URL e intervalli di indirizzi IP.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
 2. Go to **Start**  >  **Run**, and then type **services.msc**. Verificare che tutti i servizi seguenti siano in esecuzione:
     - Configurazione automatica dei dispositivi connessi in rete
