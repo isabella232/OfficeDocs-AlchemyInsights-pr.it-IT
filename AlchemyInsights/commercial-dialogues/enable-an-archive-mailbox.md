@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: df7c97232417175178031213c1050d224fcb86e9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6ff41f9f5b890c968483718544c5b4961397b37b144bb14ea1451d7aac24ebb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017316"
 ---
 # <a name="create-an-archive-mailbox"></a>Creare una cassetta postale di archiviazione
 
@@ -27,5 +27,5 @@ Le cassette postali di archiviazione forniscono agli utenti ulteriore spazio di 
 2. Scegliere **Archivio governance**  >  **dati**.
 3. Selezionare l'utente di cui si desidera abilitare la cassetta postale di archiviazione, quindi nel riquadro dei dettagli a destra fare clic su **Abilita** e quindi su **Sì** nella finestra di messaggio di avviso.
 4. È inoltre possibile abilitare in blocco le cassette postali di archiviazione selezionando più utenti (utilizzando i tasti **MAIUSC** o **CTRL)** e quindi facendo clic su **Abilita** nel riquadro dei dettagli.
-5. Dopo alcuni minuti, nell'app Outlook dell'utente verrà visualizzata una nuova cartella denominata *Archivio online - <`name` >*. In Outlook sul Web è denominato *Archivio sul posto.*
+5. Dopo alcuni minuti, verrà visualizzata una nuova cartella nell'app Outlook dell'utente denominata *Archivio online - <`name` >*. In Outlook sul web è denominato *Archivio sul posto.*
 6. Indicare all'utente di trascinare la posta elettronica nell'archivio.
