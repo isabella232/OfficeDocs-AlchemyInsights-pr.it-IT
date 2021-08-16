@@ -1,5 +1,5 @@
 ---
-title: Incolla copia di Outlook.com
+title: Outlook.com copia incolla
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4dc1944b85da3367947ce01ec45b004abda045e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b70b1b7d2ac743fbd80639546ef9494de8e524071833dc276403391c560bb6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011088"
 ---
-# <a name="copy-and-paste-in-outlookcom"></a>Copia e incolla in Outlook.com
+# <a name="copy-and-paste-in-outlookcom"></a>Copiare e incollare in Outlook.com
 
-Non ci sono pulsanti copia o incolla in Outlook.com, ma è possibile utilizzare i tasti di scelta rapida:
+Non ci sono pulsanti copia o Incolla in Outlook.com, ma puoi usare i tasti di scelta rapida:
 
-**Su un PC:** Premere CTRL + C per copiare, premere CTRL + X per tagliare e premere CTRL + V per incollare.
+**In un PC:** CTRL+C per copiare, CTRL+X per tagliare e CTRL+V per incollare.
 
-**Su un Mac:** CMD + C to copy, CMD + X to Cut e CMD + V to paste.
+**In un Mac:** CMD+C da copiare, CMD+X da tagliare e CMD+V da incollare.

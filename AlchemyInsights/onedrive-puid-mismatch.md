@@ -1,5 +1,5 @@
 ---
-title: Mancata corrispondenza di OneDrive PUID
+title: OneDrive PuID non corrispondente
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653264"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096734"
 ---
-# <a name="onedrive-puid-mismatch"></a>Mancata corrispondenza di OneDrive PUID
+# <a name="onedrive-puid-mismatch"></a>OneDrive PuID non corrispondente
 
-Sembra che si verifichi una [mancata corrispondenza di ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) in OneDrive for business. Per aiutarti al più presto, procedi come segue:
+Sembra che si sia verificata una [mancata corrispondenza di ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) OneDrive for Business. Per consentirci di assisterti al più presto, procedere come segue:
 
-1. Fare clic su supporto per i  **contatti** e quindi su  **nuova richiesta di servizio**.
-2. Lasciare il titolo e la descrizione come  **mancata corrispondenza dell'ID utente del sito OneDrive**.
-3. Dopo aver inviato il ticket, aggiornarlo con le seguenti informazioni:
-    - URL del sito di OneDrive influenzato.
-    - Nome dell'entità utente (UPN) dell'utente in questione.
+1. Fare **clic su Contatta** il supporto e quindi su Nuova richiesta di **servizio.**
+2. Lasciare il titolo e la descrizione **come OneDrive ID utente del sito non corrispondente.**
+3. Una volta inviato il ticket, aggiornarlo con le informazioni seguenti:
+    - OneDrive l'URL del sito interessato.
+    - Nome dell'entità utente (UPN) dell'utente interessato.
