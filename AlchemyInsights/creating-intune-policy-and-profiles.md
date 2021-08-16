@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39725243636eb16a76078afe0165cc4c3bcd9c4fdc61358a1c75b6b310956c41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704646"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994185"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Creazione di criteri e profili di Intune
 
@@ -26,18 +26,18 @@ In Intune, è possibile creare criteri e profili che eservitino operazioni diver
 
 - **Profili di registrazione:** preconfigurare i dispositivi in base alla piattaforma, abilitare l'affinità utente, usare l'autenticazione a più fattori e altro ancora.
 
-  [Che cos'è la registrazione](https://docs.microsoft.com/intune/device-enrollment)dei dispositivi e creare profili di registrazione per [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)e [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) sono buone risorse.
+  [Che cos'è la](https://docs.microsoft.com/intune/device-enrollment)registrazione dei dispositivi e creare profili di registrazione per [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll) [e](https://docs.microsoft.com/intune/windows-enrollment-methods) Windows sono buone risorse.
 
-- **Criteri di conformità:** definire le regole e le impostazioni che i dispositivi devono seguire per garantire la conformità. È inoltre possibile utilizzare i criteri di conformità per monitorare i dispositivi e notificare agli utenti la mancata conformità.
+- **Criteri di conformità:** definire le regole e le impostazioni che i dispositivi devono seguire per essere conformi. Puoi anche usare i criteri di conformità per monitorare i dispositivi e notificare agli utenti la mancata conformità.
 
-  Introduzione ai criteri [di conformità dei dispositivi.](https://docs.microsoft.com/intune/device-compliance-get-started)
-- **Criteri di accesso condizionale:** consentono di proteggere le risorse dell'organizzazione, a seconda delle condizioni immesse. Ad esempio, per i dispositivi non conformi, utilizzare l'accesso condizionale per limitare l'accesso alla posta elettronica e a SharePoint.
+  Introduzione ai criteri [di conformità dei dispositivi](https://docs.microsoft.com/intune/device-compliance-get-started).
+- **Criteri di accesso condizionale:** consentono di proteggere le risorse dell'organizzazione, a seconda delle condizioni immesse. Ad esempio, per i dispositivi non conformi, usa l'accesso condizionale per limitare l'accesso alla posta elettronica e SharePoint.
 
-  [Quali sono l'accesso condizionale](https://docs.microsoft.com/intune/conditional-access) [e i modi comuni per usare l'accesso condizionale](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) sono buone risorse per iniziare.
+  [Quali sono l'accesso condizionale](https://docs.microsoft.com/intune/conditional-access) e i modi comuni per usare l'accesso [condizionale](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) sono buone risorse per iniziare.
 
 - **Profili di** configurazione: gestire le funzionalità e le impostazioni nei dispositivi, incluse le impostazioni di posta elettronica, aggiungere una rete WiFi, usare modelli predefiniti, controllare le funzionalità dei dispositivi iOS e macOS e altro ancora.
 
-  Introduzione ai profili [di configurazione dei dispositivi.](https://docs.microsoft.com/intune/device-profiles)
+  Introduzione ai [profili di configurazione dei dispositivi](https://docs.microsoft.com/intune/device-profiles).
 
 Collegamenti utili:
 

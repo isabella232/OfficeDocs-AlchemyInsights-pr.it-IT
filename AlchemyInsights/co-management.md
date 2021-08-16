@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b8a2806a6d828b8ef7ee4e6dff05dcc496857b8ca8f76c777c39ff3155809668
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006390"
 ---
 # <a name="co-management"></a>Co-gestione
 
@@ -31,7 +31,7 @@ Un'esperienza guidata di configurazione della co-gestione dettagliata è disponi
 
 **Come installare il client di Config Manager nei dispositivi gestiti da Intune**
 
-Vedi [Dispositivi Windows gestiti da MDM di Intune.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
+Vedi [Dispositivi Windows MDM di Intune.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
 **Cosa succede se si desidera solo modificare l'autorità MDM?**
 
