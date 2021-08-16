@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996634"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook non è in grado di connettersi alle cartelle pubbliche
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook non è possibile connettersi alle cartelle pubbliche
 
 Se l'accesso alle cartelle pubbliche non funziona per alcuni utenti, provare a eseguire le operazioni seguenti:
 
-Connettersi a EXO PowerShell e configurare il parametro DefaultPublicFolderMailbox nell'account utente problematico in modo che corrisponda al parametro in un account utente funzionante.
+Connessione a EXO PowerShell e configurare il parametro DefaultPublicFolderMailbox nell'account utente problematico in modo che corrisponda al parametro in un account utente funzionante.
 
 Esempio:
 
@@ -33,9 +33,9 @@ Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous comman
 
 Attendere almeno un'ora per l'applicazione della modifica.
 
-Se il problema persiste, seguire [questa procedura per](https://aka.ms/pfcte) risolvere i problemi di accesso alle cartelle pubbliche tramite Outlook.
+Se il problema persiste, seguire [questa procedura per](https://aka.ms/pfcte) risolvere i problemi di accesso alle cartelle pubbliche Outlook.
  
-**Per controllare quali utenti possono accedere alle cartelle pubbliche tramite Outlook:**
+**Per controllare quali utenti possono accedere alle cartelle pubbliche utilizzando Outlook:**
 
 1.  Utilizzare Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true o $false  
       
@@ -45,6 +45,6 @@ Se il problema persiste, seguire [questa procedura per](https://aka.ms/pfcte) ri
         
 2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Nota** Questa procedura consente di controllare le connessioni solo con il desktop di Outlook per i client Windows. Un utente può continuare ad accedere alle cartelle pubbliche OWA o Outlook per Mac.
+**Nota** Questa procedura può controllare le connessioni solo con Outlook desktop per Windows client. Un utente può continuare ad accedere alle cartelle pubbliche OWA o Outlook per Mac.
  
-Per ulteriori informazioni, vedere Annuncio del supporto per le [connessioni controllate alle cartelle pubbliche in Outlook.](https://aka.ms/controlpf)
+Per altre info, vedi Annuncio del supporto per le [connessioni controllate alle cartelle](https://aka.ms/controlpf)pubbliche in Outlook .
