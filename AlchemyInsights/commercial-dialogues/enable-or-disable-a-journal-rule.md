@@ -1,5 +1,5 @@
 ---
-title: Abilitare o disabilitare una regola del journal
+title: Abilitazione o disabilitazione una regola di journal
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 8cbb675b8a290dae5a0a161296a7be95b5259711
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e877abb3ea5c6b1b578af3f1a7bfcbab7665ce20c71987eeb44d2c7e3a1b2c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737188"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058834"
 ---
-# <a name="enable-or-disable-a-journal-rule"></a>Abilitare o disabilitare una regola del journal
+# <a name="enable-or-disable-a-journal-rule"></a>Abilitazione o disabilitazione una regola di journal
 
 Ecco come:
 
-1. [Nell'interfaccia di amministrazione di Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104)passare a Regole del journal di **gestione**  >  **della conformità**.
+1. [Nell'Exchange di amministrazione,](https://go.microsoft.com/fwlink/p/?linkid=2059104)passare a Regole del journal **di gestione**  >  **della conformità**.
 2. Nella colonna ON accanto  al nome della regola nella visualizzazione elenco selezionare la casella di controllo per abilitare le regole o deselezionarla per disabilitarla.

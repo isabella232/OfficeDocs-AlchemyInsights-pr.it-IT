@@ -13,14 +13,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: a8bf778640798397067263fa0fca49dc0e70402d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0d28cad4da38f111592ab64faa3bf338352ef43efd8b1745ede3498efffb9a4f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051814"
 ---
 # <a name="setting-up-a-hybrid-environment"></a>Configurazione di un ambiente ibrido
 
-Per consentire agli utenti di lavorare insieme senza problemi, indipendentemente dal fatto che i dati siano archiviati nei server locali o in Microsoft 365, potrebbe essere necessario configurare un ambiente ibrido. Per ottenere una panoramica delle opzioni, vedere integrazione di [Microsoft 365 con ambienti locali](https://docs.microsoft.com/office365/enterprise/office-365-integration).
+Per consentire agli utenti di collaborare senza problemi, indipendentemente dal fatto che i dati siano archiviati in server locali o in Microsoft 365, potrebbe essere necessario configurare un ambiente ibrido. Per una panoramica delle opzioni, vedere Integrazione Microsoft 365 [con gli ambienti locali.](https://docs.microsoft.com/office365/enterprise/office-365-integration)
   

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0bf4ae49aee6b1ccfcd1c7a55daef92f6f1eb6375017f24f715264235460c3ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835527"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051778"
 ---
 # <a name="set-up-one-monitor"></a>Configurare un monitor
 
 **Controllare le impostazioni del progetto del PC**
 
-1. Apri le impostazioni del progetto premendo i tasti seguenti contemporaneamente: tasto Windows (pulsante Start logo Windows) + P.
+1. Apri le impostazioni del progetto premendo contemporaneamente i tasti seguenti: Windows (Windows logo Start) + P.
 2. Scegli **Duplica,** **Estendi** **o Solo seconda schermata,** a seconda delle tue preferenze.
 
 **Nota:** Se il PC ha una sola porta di visualizzazione (ad esempio HDMI o VGA), per configurare più monitor è necessaria un'alloggiamento di espansione o una scheda USB.
