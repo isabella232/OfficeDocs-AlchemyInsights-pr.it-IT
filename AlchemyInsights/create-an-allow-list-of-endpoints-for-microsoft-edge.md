@@ -1,5 +1,5 @@
 ---
-title: Creare un elenco Consenti di endpoint per Microsoft Edge
+title: Creare un elenco consenti di endpoint per Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003932"
 - "6987"
-ms.openlocfilehash: d29364e683893e21d5d0a47ecdcc619f102e5bb3
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: cabea25a316a22c9eb3b63daf74c6ac213d24f35be5319276cff641b1d9a27b9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49600157"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032094"
 ---
-# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Creare un elenco Consenti di endpoint per Microsoft Edge
+# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Creare un elenco consenti di endpoint per Microsoft Edge
 
-Per disporre dell'intera gamma di funzionalità di Microsoft Edge a disposizione, è necessario averlo connesso a Internet. Inoltre, per consentire al browser di comunicare tramite firewall e altri meccanismi di sicurezza su Internet, è necessario aggiungere un insieme di URL di dominio all' [elenco Consenti degli endpoint](https://go.microsoft.com/fwlink/?linkid=2135054).
+Per avere a disposizione l'Microsoft Edge completa delle funzionalità di Microsoft Edge, è necessario che sia connessa a Internet. Inoltre, per consentire al browser di comunicare tramite firewall e altri meccanismi di sicurezza su Internet, è necessario aggiungere un set di URL di dominio al relativo elenco consenti [di endpoint.](https://go.microsoft.com/fwlink/?linkid=2135054)
