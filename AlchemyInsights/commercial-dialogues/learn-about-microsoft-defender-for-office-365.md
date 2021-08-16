@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9eac6f1b666f7b8031fe3ff7b439c5c5ddf9e998
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d384b1d0aaba2faca60870dd04727985f9e13cda43687bc6f7bc53da90db4b9e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737080"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016956"
 ---
 # <a name="learn-about-microsoft-defender-for-office-365"></a>Informazioni su Microsoft Defender per Office 365
 
 Ecco alcune info su Microsoft Defender per Office 365:
 
 - **Che cos'è Microsoft Defender per Office 365?**  
-    Defender per Office 365 è un servizio di filtro della posta elettronica basato su cloud che consente di proteggere le organizzazioni da malware e virus sconosciuti fornendo una protezione zero-day affidabile. Include funzionalità per proteggere le organizzazioni da collegamenti dannosi in tempo reale.
+    Defender for Office 365 è un servizio di filtro della posta elettronica basato su cloud che consente di proteggere le organizzazioni da malware e virus sconosciuti fornendo una protezione zero-day affidabile. Include funzionalità per proteggere le organizzazioni da collegamenti dannosi in tempo reale.
 - **Come si attiva Microsoft Defender per Office 365?**  
-    Allegati sicuri, collegamenti sicuri e anti-phishing fanno parte di Defender per Office 365. Enterprise E5, Education A5 e Microsoft 365 Business includono le funzionalità integrate di Defender per Office 365. Tutti gli altri piani richiedono un abbonamento a Defender per Office 365. È necessario assegnare le licenze appropriate agli utenti per essere protetti da Defender per Office 365. È necessario disporre *delle autorizzazioni di amministratore globale* o amministratore *della* sicurezza per accedere a Defender per Office 365. Per ulteriori informazioni su come applicare licenze in blocco agli utenti, vedere Assegnare licenze agli utenti [in Office 365 per le aziende.](https://go.microsoft.com/fwlink/?linkid=2093435)
-- **Come è possibile gestire Defender per Office 365 o altre informazioni?**  
+    Cassaforte Allegati, Cassaforte e anti-phishing fanno parte di Defender per Office 365. Enterprise E5, Education A5 e Microsoft 365 Business includono le funzionalità defender Office 365 integrate. Tutti gli altri piani richiedono un componente aggiuntivo Defender per Office 365 abbonamento. Devi assegnare le licenze appropriate agli utenti per essere protetti da Defender per Office 365. Devi disporre delle *autorizzazioni di amministratore globale* o amministratore *della* sicurezza per accedere a Defender per Office 365. Per ulteriori informazioni su come applicare licenze in blocco agli utenti, vedere Assegnare licenze agli utenti [in Office 365 per le aziende.](https://go.microsoft.com/fwlink/?linkid=2093435)
+- **Come posso gestire Defender per Office 365 o altre informazioni su di esso?**  
   - Passare a [Installazione](https://go.microsoft.com/fwlink/p/?linkid=2075721).  
   - In **Accesso e sicurezza trovare** Aumenta la protezione dalle minacce **avanzate** e quindi selezionare [Visualizza](https://go.microsoft.com/fwlink/?linkid=2109302).

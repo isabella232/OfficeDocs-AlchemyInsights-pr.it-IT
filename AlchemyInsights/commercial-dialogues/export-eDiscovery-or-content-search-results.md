@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: b93377a33eebc7899041b684449e46caedb04415
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: de5d6f2bbf32ca1b7a0bbb9dd416fb19186d2e72ad57fbf25d9b55bd733fdc21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50465010"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988110"
 ---
 # <a name="export-ediscoverycontent-search-results"></a>Esportare i risultati di eDiscovery/Ricerca contenuto
 
-Potrebbe essere necessario esportare i risultati della ricerca in un file PST (da posta elettronica) o in documenti di Office nativi (dai siti di SharePoint e OneDrive for Business). Se sì, procedere come segue:
+Potrebbe essere necessario esportare i risultati della ricerca in un file PST (dalla posta elettronica) o in documenti Office nativi (da SharePoint e OneDrive for Business siti). Se sì, procedere come segue:
 
-- Assicurati che all'account siano assegnate le autorizzazioni appropriate per l'esportazione. Per altre informazioni, vedere [Assegnare l'autorizzazione di eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2102406)
-- Verificare che il computer abbia soddisfatto [tutti i prerequisiti.](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin) Non tutti i browser sono supportati, ad esempio Chrome.
-- Per eseguire l'esportazione da una ricerca di contenuto: a. Accedere al [Centro sicurezza & conformità](https://protection.office.com/contentsearch) e fare clic su **Ricerca** e quindi selezionare **Ricerca contenuto.** Nella pagina **Ricerca contenuto** selezionare una ricerca salvata.
-    b. Nel riquadro Dei dettagli, in **Esporta risultati in un computer,** selezionare Avvia **esportazione.** Se si esportano più di 100.000 cassette postali, è necessario utilizzare PowerShell per scaricare i risultati dell'esportazione. Per ulteriori informazioni, vedere [Esportazione dei risultati da più di 100.000 cassette postali.](https://go.microsoft.com/fwlink/?linkid=2143861)
+- Assicurati che all'account siano assegnate le autorizzazioni appropriate per l'esportazione. Per altre info, vedi [Assegnare l'autorizzazione di eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2102406)
+- Verificare che il computer abbia soddisfatto tutti [i prerequisiti](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin). Non tutti i browser sono supportati, ad esempio Chrome.
+- Per esportare da una ricerca contenuto: a. Passare al [Centro sicurezza & conformità](https://protection.office.com/contentsearch) e fare clic su **Ricerca** e quindi selezionare Ricerca **contenuto**. Nella pagina **Ricerca contenuto** selezionare una ricerca salvata.
+    b. Nel riquadro Dettagli, in **Esporta risultati in un computer,** selezionare Avvia **esportazione.** Se si esportano più di 100.000 cassette postali, sarà necessario utilizzare PowerShell per scaricare i risultati dell'esportazione. Per altre info, vedi [Esportazione di risultati da più di 100.000 cassette postali.](https://go.microsoft.com/fwlink/?linkid=2143861)
 
 Per ulteriori informazioni, vedere [Export Content Search Results.](https://go.microsoft.com/fwlink/?linkid=2102118)

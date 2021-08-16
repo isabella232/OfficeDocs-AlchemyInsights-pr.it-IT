@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796292"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046684"
 ---
 # <a name="your-mdm-authority-is-not-set"></a>L'autorità MDM non è impostata
 
-L'autorità di gestione dei dispositivi mobili (MDM) del tenant non è impostata. È necessario impostare un'autorità MDM prima di eseguire la registrazione e la gestione dei dispositivi tramite Intune MDM. Senza impostare l'autorità MDM, non sarà possibile utilizzare le funzionalità MDM di Intune. L'impostazione dell'autorità MDM determina la modalità di gestione dei dispositivi.
+L'autorità di gestione dei dispositivi mobili (MDM) di questo tenant non è impostata. Devi impostare un'autorità MDM prima di registrare e gestire i dispositivi tramite MDM di Intune. Senza impostare l'autorità MDM, non potrai usare le funzionalità MDM di Intune. L'impostazione dell'autorità MDM determina la modalità di gestione dei dispositivi.
 
 Passaggi consigliati:
-1. Passare alla lama Panoramica della registrazione di Intune per impostare l'autorità MDM.
-2. Scegliere l'autorità appropriata in base alle proprie esigenze amministrative. Per ulteriori informazioni, vedere [impostare l'articolo sull'autorità di gestione dei dispositivi mobili](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Passare al pannello Panoramica della registrazione di Intune per impostare l'autorità MDM.
+2. Scegliere l'autorità appropriata in base alle esigenze amministrative. Per altre informazioni, vedi [l'articolo Impostare l'autorità di gestione dei dispositivi mobili.](https://docs.microsoft.com/intune/mdm-authority-set)

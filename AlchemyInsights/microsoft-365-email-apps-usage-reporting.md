@@ -1,5 +1,5 @@
 ---
-title: Acquisire informazioni sull'utilizzo delle app di posta elettronica nell'organizzazione
+title: Acquisire informazioni dettagliate sull'uso delle app di posta elettronica nell'organizzazione
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003962"
 - "7018"
-ms.openlocfilehash: 37a1c97793558c3842f62e43616a022d194611fb
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 67c2cbbb8b66cd4d1f6bce908569cc6a42a860e09f4b17f2d564aba724d0fc41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706977"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000576"
 ---
-# <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Acquisire informazioni sull'utilizzo delle app di posta elettronica nell'organizzazione
+# <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Acquisire informazioni dettagliate sull'uso delle app di posta elettronica nell'organizzazione
 
-Il Dashboard Microsoft 365 Reports illustra una panoramica dell'attività tra i prodotti nell'organizzazione. È possibile analizzare i singoli report a livello di prodotto per ottenere informazioni sulle attività eseguite all'interno di ogni prodotto. Ad esempio, è possibile utilizzare il dashboard per controllare in che modo le app Microsoft 365 vengono utilizzate tra le diverse piattaforme. Per visualizzare i report, è necessario essere un amministratore globale, un lettore globale o un lettore di report in Microsoft 365 oppure un amministratore per Microsoft Exchange, SharePoint, il servizio Team, le comunicazioni di team o Skype for business.
+Il dashboard Microsoft 365 report mostra una panoramica dell'attività tra i prodotti dell'organizzazione. È possibile eseguire il drill-in di singoli report a livello di prodotto per ottenere informazioni dettagliate sulle attività eseguite all'interno di ogni prodotto. Ad esempio, puoi usare il dashboard per controllare come Microsoft 365 le app su più piattaforme. Per visualizzare i report, è necessario essere un amministratore globale, un lettore globale o un lettore di report in Microsoft 365 o un amministratore di Microsoft Exchange, SharePoint, Teams Service, Teams Communications o Skype for Business.
 
-Il report di *utilizzo delle app di posta elettronica* è parte del dashboard e visualizza il numero di app di posta elettronica connesse a Microsoft Exchange Online. Vengono inoltre visualizzate le informazioni sulla versione delle app di Microsoft Outlook in uso, pertanto è possibile richiedere agli utenti di passare da versioni non supportate a quelle di Outlook.
+Il *report Utilizzo app di posta* elettronica fa parte del dashboard e mostra il numero di app di posta elettronica connesse a Microsoft Exchange Online. Vengono inoltre mostrate le informazioni sulla versione delle app di Microsoft Outlook in uso, in modo da poter richiedere agli utenti di passare dalle versioni non supportate alle versioni supportate di Outlook.
 
-Per accedere al report sull'utilizzo delle app di posta elettronica, eseguire la procedura seguente:
+Per accedere al report Utilizzo app di posta elettronica, eseguire la procedura seguente:
 
-1. Nell'interfaccia di amministrazione di Microsoft 365, selezionare  >  [utilizzo](https://go.microsoft.com/fwlink/?linkid=2140342)rapporti.
-2. Dal menu **a discesa selezionare un report** , selezionare **Exchange**  >  **email app Usage**.
+1. Nell'interfaccia di amministrazione di Microsoft 365 selezionare Report   >  [Utilizzo.](https://go.microsoft.com/fwlink/?linkid=2140342)
+2. Dal menu **a discesa Seleziona un report,** selezionare Exchange utilizzo   >  **dell'app e-mail.**
 
-Per ulteriori informazioni, vedere [interpretare il report delle app di posta elettronica](https://go.microsoft.com/fwlink/?linkid=2140508).
+Per altre informazioni, vedi [Interpretare il report delle app di posta elettronica.](https://go.microsoft.com/fwlink/?linkid=2140508)

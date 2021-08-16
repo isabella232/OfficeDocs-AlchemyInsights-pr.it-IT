@@ -1,5 +1,5 @@
 ---
-title: Informazioni su come Microsoft Edge supporta Windows Information Protection (WIP)
+title: Informazioni su Microsoft Edge supporta Windows Information Protection (WIP)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608011"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054322"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Informazioni su come Microsoft Edge supporta Windows Information Protection (WIP)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Informazioni su Microsoft Edge supporta Windows Information Protection (WIP)
 
-Man mano che aumenta il numero di dipendenti remoti, il numero di attività personali e di lavoro si verifica sui dispositivi aziendali. Questo, a sua incirca, aumenta il rischio che i dati aziendali possano essere condivisi al di fuori del posto di lavoro. Per attenuare questo rischio, Microsoft Edge (versione 81 o successiva) supporta Windows Information Protection (WIP): funzionalità di Windows 10 che consente di proteggere i dati dell'organizzazione da divulgazioni non autorizzate e accidentali.
+Con l'aumentare del numero di lavoratori remoti, aumenta anche il numero di attività personali e lavorative che si verificano nei dispositivi aziendali. Questo, a sua volta, aumenta il rischio che i dati aziendali potrebbero essere condivisi all'esterno del luogo di lavoro. Per ridurre questo rischio, Microsoft Edge (versione 81 o successiva) supporta Windows Information Protection (WIP): una funzionalità di Windows-10 che consente di proteggere i dati aziendali da divulgazioni non autorizzate e accidentali.

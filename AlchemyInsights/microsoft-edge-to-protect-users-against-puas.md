@@ -1,5 +1,5 @@
 ---
-title: Utilizzare Microsoft Edge per proteggere gli utenti da PUA
+title: Utilizzare Microsoft Edge per proteggere gli utenti dalle CA
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49652171"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000504"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Utilizzare Microsoft Edge per proteggere gli utenti da PUA
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Utilizzare Microsoft Edge per proteggere gli utenti dalle CA
 
-Microsoft Edge Versions 80.0.361.50 e versioni successive bloccano il download di applicazioni potenzialmente indesiderate (PUA) e degli URL associati. Per abilitare questa funzionalità, procedere come segue:
+Microsoft Edge versioni 80.0.361.50 e successive bloccano i download di applicazioni potenzialmente indesiderate (PUA) e URL associati. Per attivare questa funzionalità, eseguire le operazioni seguenti:
 
-1. Passare a **Impostazioni**  >  **privacy e servizi** nel browser.
+1. Vai a **Impostazioni**  >  **Privacy e servizi** nel browser.
 
-2. Scorrere verso il basso fino alla sezione **Servizi** e verificare che **Microsoft Defender SmartScreen** e **bloccare le app potenzialmente indesiderate** siano attivate.
+2. Scorri verso il basso **fino alla sezione** Servizi e assicurati che le Microsoft Defender SmartScreen e Blocca app potenzialmente **indesiderate** siano attivate. 
 
-    La volta successiva che Microsoft Defender SmartScreen rileva una PUA, la bloccherà e la notificherà di conseguenza.
+    La volta successiva Microsoft Defender SmartScreen rileva un puA, lo blocleverà e ti informerà di conseguenza.
 
-    Per ulteriori informazioni, vedere [How to Block against PUA-Associated URLs](https://go.microsoft.com/fwlink/?linkid=2133024).
+    Per altre informazioni, vedi come bloccare gli URL associati alla [PUA.](https://go.microsoft.com/fwlink/?linkid=2133024)
