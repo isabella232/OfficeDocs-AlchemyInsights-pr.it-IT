@@ -1,5 +1,5 @@
 ---
-title: Risolvere in remoto i problemi relativi all'onboarding di dispositivi Windows 10 in Microsoft Defender Advanced Threat Protection
+title: Risolvere in remoto i problemi relativi all'onboarding Windows 10 dispositivi a Microsoft Defender Advanced Threat Protection
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5473d090f6d4680f9a62f34f943ac6cea53b2079
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 44969436c99b182cb4202fa60e2deb7d6ea3f460e48ee4649de1cfb646970f34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737009"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034038"
 ---
-# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Risolvere in remoto i problemi relativi all'onboarding di dispositivi Windows 10 in Microsoft Defender Advanced Threat Protection
+# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Risolvere in remoto i problemi relativi all'onboarding Windows 10 dispositivi a Microsoft Defender Advanced Threat Protection
 
 Se è possibile accedere al computer remoto, attenersi alla seguente procedura:
 

@@ -1,5 +1,5 @@
 ---
-title: Informazioni su Progressive Web Apps (istanze) in Microsoft Edge (Chromium)
+title: Informazioni sulle app Web progressive in Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617293"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101450"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Informazioni su Progressive Web Apps (istanze) in Microsoft Edge (Chromium)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Informazioni sulle app Web progressive in Microsoft Edge (Chromium)
 
-I siti Web di istanze sono progressivamente migliorati per funzionare come le app native su piattaforme che le supportano. Istanze combinare le migliori qualità delle app Web e native.
+Gli app web sono siti Web progressivamente migliorati per funzionare come app native su piattaforme che li supportano. Le app web progressive combinano le migliori combinano le migliori qualità delle app web e native.
 
-Dal punto di vista di una piattaforma Web, [istanze su Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) si basa su standard. Consentono agli utenti di installare le app direttamente dall'interno del browser e non richiedono la distribuzione o la registrazione basata su Microsoft Store. Le istanze desktop sono supportate su qualsiasi piattaforma in cui è disponibile Microsoft Edge (Chromium).
+Dalla prospettiva di una piattaforma online, le [app web progressive in Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) sono basate su standard. Consentono agli utenti di installare app direttamente all'interno del browser, e non richiedono l'installazione o la registrazione tramite Microsoft Store. Le app web progressive sono supportate su tutte le piattaforme i cui Microsoft Edge (Chromium) è disponibile.
