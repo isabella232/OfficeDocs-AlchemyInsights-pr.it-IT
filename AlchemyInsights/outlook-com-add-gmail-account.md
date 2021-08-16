@@ -1,5 +1,5 @@
 ---
-title: Aggiungere l'account di Gmail a Outlook.com
+title: Aggiungere un account Gmail a Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: ad2ab70e9f2b34e1921b75122b85162ea70a521a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55f06a9f19d30526b2d5218223087749d29ff784a492c82858aaeacbd6166391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672564"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096590"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Aggiungere il proprio account Gmail a Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>Aggiungere l'account Gmail a Outlook.com
 
-1. Aprire le [impostazioni della posta elettronica di sincronizzazione](https://go.microsoft.com/fwlink/?linkid=875264).
-2. In **account connessi**selezionare **gmail**.
-3. Immettere un nome visualizzato (i destinatari del nome vedranno quando ricevono un messaggio di posta elettronica da parte dell'utente).
-4. Scegliere se Outlook.com deve importare la posta elettronica da Gmail e dove verrà memorizzato il messaggio di posta elettronica importato.
-5. Selezionare **OK** per andare alla pagina di accesso di Google.
+1. Apri le impostazioni [di sincronizzazione della posta elettronica.](https://go.microsoft.com/fwlink/?linkid=875264)
+2. In **Account connessi** selezionare **Gmail.**
+3. Immettere un nome visualizzato (i destinatari del nome verranno visualizzati quando riceveranno un messaggio di posta elettronica dall'utente).
+4. Scegli se Outlook.com deve importare la posta elettronica da Gmail e dove verrà archiviata la posta elettronica importata.
+5. Seleziona **OK** per passare alla pagina di accesso a Google.
 
-La sincronizzazione da un account connesso all'account di Outlook.com è unidirezionale. Il messaggio di posta elettronica inviato dall'account Gmail tramite Outlook.com non verrà visualizzato negli elementi inviati in Gmail.
+La sincronizzazione da un account connesso all'account Outlook.com è solo unidirezione. I messaggi di posta elettronica inviati dall'account Gmail Outlook.com non verranno visualizzati in Posta inviata in Gmail.
 
-È possibile inviare messaggi di posta elettronica in Outlook.com dall'account Gmail connesso. Quando si compone un messaggio di posta elettronica, selezionare **da** e scegliere l'indirizzo Gmail oppure [aggiornare l'indirizzo predefinito](https://go.microsoft.com/fwlink/?linkid=875264).
+Puoi inviare posta elettronica in Outlook.com dal tuo account Gmail connesso. Quando si compone un messaggio di posta elettronica, selezionare **Da** e scegliere l'indirizzo Gmail oppure [aggiornare l'indirizzo mittente predefinito.](https://go.microsoft.com/fwlink/?linkid=875264)
 
-Per ulteriori informazioni, vedere [aggiungere gli altri account di posta elettronica a Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Per ulteriori informazioni, vedere [Add your other email accounts to Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

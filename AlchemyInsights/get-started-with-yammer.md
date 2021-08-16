@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002298"
 ---
 # <a name="get-started-with-yammer"></a>Iniziare a usare Yammer
 
-Yammer è un social network aziendale efficace, sicuro e privato. Yammer offre un'esperienza accattivante e facile da usare sul Web e nell'app Yammer per i dispositivi Android e iOS. Yammer può essere integrato con Microsoft teams e Outlook. Yammer offre inoltre un'esperienza di integrazione aggiornata in SharePoint Online.
+Yammer è un social network aziendale efficace, sicuro e privato. Yammer offre un'esperienza coinvolgente e facile da usare sul Web e nell'app Yammer per dispositivi Android e iOS. Yammer possono essere integrati con Microsoft Teams e Outlook. Yammer offre anche un'esperienza di integrazione aggiornata in SharePoint Online.
 
-Utilizzare Yammer Deployment Advisor per preparare la rete di Yammer aggiungendo domini, definendo gli amministratori e combinando le reti di Yammer. Distribuire Yammer e quindi personalizzare l'aspetto, configurare la sicurezza e la conformità e perfezionare le impostazioni.
+Utilizzare l Yammer advisor per la distribuzione per preparare la rete Yammer aggiungendo domini, definendo gli amministratori e combinando Yammer reti. Distribuisci Yammer e quindi personalizza l'aspetto, configura sicurezza e conformità e affina le impostazioni.

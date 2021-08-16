@@ -1,5 +1,5 @@
 ---
-title: Outlook.com cambiare l'aspetto della cassetta postale
+title: Outlook.com modificare l'aspetto della cassetta postale
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096482"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Modificare l'aspetto della cassetta postale di Outlook.com
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Modificare l'aspetto della cassetta postale Outlook.com
 
 È possibile modificare l'aspetto dell'elenco dei messaggi e del riquadro di lettura in Outlook.com.
 
-- Per modificare il layout della finestra del messaggio, aprire le opzioni del [riquadro di lettura](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Per modificare la modalità di ordinamento del messaggio di posta elettronica, nella parte superiore dell'elenco dei messaggi selezionare **Filtra**  >  **ordinamento in base** a e scegli come ordinare la posta elettronica.
-- Per raggruppare i messaggi in base alla conversazione, aprire le opzioni dell' [organizzazione del messaggio](https://outlook.live.com/mail/options/mail/layout/conversations) .
-- Per abilitare o disabilitare la posta in arrivo evidenziata, aprire le opzioni di [layout](https://outlook.live.com/mail/options/mail/layout/focused) .
+- Per modificare il layout della finestra del messaggio, aprire le [opzioni del riquadro di](https://outlook.live.com/mail/options/mail/layout/readingPane) lettura.
+- Per modificare la modalità di ordinamento della posta elettronica, nella parte superiore dell'elenco dei messaggi selezionare Filtra ordinamento per e scegliere la modalità di ordinamento della posta  >   elettronica.
+- Per raggruppare i messaggi per conversazione, aprire le [opzioni dell'organizzazione dei](https://outlook.live.com/mail/options/mail/layout/conversations) messaggi.
+- Per attivare o disattivare Posta in arrivo con stato attivo, apri le opzioni [layout.](https://outlook.live.com/mail/options/mail/layout/focused)
