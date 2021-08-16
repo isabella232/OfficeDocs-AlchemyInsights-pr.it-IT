@@ -14,15 +14,15 @@ ms.custom:
 - "259"
 - "8000010"
 ms.assetid: fa795da0-f04b-4032-bd27-177ecdd488f9
-ms.openlocfilehash: ef2ed382c187e899bf20295a7aa9fe0b8f619a75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 820730e9a1cf52e979818f52045b5dfc4ff2fc8e6f43adf695182ff5d148f4b3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984537"
 ---
 # <a name="change-your-email-address"></a>Modificare l'indirizzo di posta elettronica
 
-Per modificare l'indirizzo di posta elettronica di Outlook.com, è necessario aggiungerne un altro e impostarlo come alias di posta elettronica principale.
+Per modificare l'indirizzo di posta elettronica Outlook.com, è necessario aggiungerne un altro e renderlo l'alias di posta elettronica principale.
   
-Seguire le istruzioni riportate in [aggiungere o rimuovere un alias di posta elettronica in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Seguire le istruzioni in [Aggiungere o rimuovere un alias di posta elettronica in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
