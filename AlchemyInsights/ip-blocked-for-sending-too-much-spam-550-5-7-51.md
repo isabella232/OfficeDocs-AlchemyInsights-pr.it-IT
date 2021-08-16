@@ -1,5 +1,5 @@
 ---
-title: 1264 IP bloccato per l'invio di troppi messaggi di posta indesiderata (550 5.7.51)
+title: 1264 IP bloccato per l'invio di troppa posta indesiderata (550 5.7.51)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 1a80c9faf463f4bd2e96d9b7f7cc62fdd4b4fad3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64d8d9588b8ed7d394e6e359d48bf941cbff26e93e0f8ea284bf3b6688400b3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695833"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099254"
 ---
-# <a name="access-denied-banned-sender"></a>Accesso negato, mittente vietato
+# <a name="access-denied-banned-sender"></a>Accesso negato, mittente escluso
 
- **Errore**: SMTP error from remote server for RCPT to Command, host: *xxxx*-com.mail.Protection.Outlook.com (*xxx.xxx.xxx.xxx*) Reason: 550 5.7.511 Access denied, Banned sender [*XX.xxx.x.xxx*]. 
+ **Errore:** errore SMTP dal server remoto per il comando RCPT TO, host: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) motivo: 550 5.7.511 Accesso negato, mittente escluso [*xx.xxx.x.xxx*]. 
 
-Se viene visualizzato questo errore quando si invia un messaggio di posta elettronica a un destinatario Microsoft 365, rimuovere l'account danneggiato dall'elenco Mittenti bloccati all'indirizzo [https://sender.office.com](https://sender.office.com) .
+Se si riceve questo errore quando si invia un messaggio di posta elettronica a Microsoft 365 destinatario, rimuovere l'account interessato dall'elenco dei mittenti bloccati all'indirizzo [https://sender.office.com](https://sender.office.com) .
