@@ -1,5 +1,5 @@
 ---
-title: 'Regole di posta in arrivo: operazione non riuscita'
+title: 'Regole posta in arrivo: operazione non riuscita'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1544"
 - "1800021"
-ms.openlocfilehash: d0c95acd2587460d281474ebdba87683d336036d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af465979d881e98cbffaaa9fa20729dc6d0cd0d607c0d075311b19c8960b2f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099686"
 ---
-# <a name="rules-and-alerts-error-the-operation-failed"></a>Errore di regole e avvisi: "l'operazione ha avuto esito negativo"
+# <a name="rules-and-alerts-error-the-operation-failed"></a>Errore regole e avvisi: "Operazione non riuscita"
 
-Dopo l'installazione dei seguenti aggiornamenti, è possibile che venga visualizzato un errore delle regole di posta in arrivo:
+È possibile che venga visualizzato un errore delle regole di Posta in arrivo dopo l'installazione degli aggiornamenti seguenti:
 
-- [Outlook 2016: KB aggiornamento della sicurezza di novembre](https://support.microsoft.com/help/4461506)
-- [Outlook 2013: KB aggiornamento della sicurezza di novembre](https://support.microsoft.com/help/4461486)
-- [Outlook 2010: KB aggiornamento della sicurezza di novembre](https://support.microsoft.com/help/4461585)
+- [Outlook 2016: Aggiornamento della sicurezza di novembre KB](https://support.microsoft.com/help/4461506)
+- [Outlook 2013: Aggiornamento della sicurezza di novembre KB](https://support.microsoft.com/help/4461486)
+- [Outlook 2010: Aggiornamento della sicurezza di novembre KB](https://support.microsoft.com/help/4461585)
 
-È possibile visualizzare lo stato più recente di questo problema noto visitando [il messaggio di errore di Outlook: "operazione non riuscita"... Quando si seleziona Gestisci regole & avvisi](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).
+È possibile visualizzare lo stato più recente di questo problema noto visitando Outlook [errore: "Operazione non riuscita..." quando si seleziona Gestisci regole & avvisi](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).
