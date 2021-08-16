@@ -1,5 +1,5 @@
 ---
-title: 1800014 risoluzione dei problemi relativi all'installazione di Outlook Mobile per una cassetta postale condivisa
+title: 1800014 risoluzione dei Outlook configurazione per dispositivi mobili per una cassetta postale condivisa
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800014
 ms.assetid: 598e6a5b-daca-45b8-a1e4-99ce018aa64c
-ms.openlocfilehash: 856560dbe7e66460fd2c6690aed1f32174d5dd7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78e015918f7b1ebfea3898a7ede5518b847c7be19971d5ef59854da8b005667f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735959"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020700"
 ---
-# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>Risoluzione dei problemi relativi all'installazione di Outlook Mobile per una cassetta postale condivisa
+# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>Risoluzione dei Outlook configurazione per dispositivi mobili per una cassetta postale condivisa
 
-Non è possibile accedere alla cassetta postale condivisa dall'app Outlook installata nel dispositivo mobile. Questa funzionalità è utile? Informare il team di progettazione di Outlook. [Votare qui](https://go.microsoft.com/fwlink/?linked=862116)!
+Non è possibile accedere alla cassetta postale condivisa dall'app Outlook installata nel dispositivo mobile. Questa funzionalità è utile? Far sapere Outlook team di progettazione. [Vota qui](https://go.microsoft.com/fwlink/?linked=862116)!
   
-È possibile utilizzare una cassetta postale condivisa solo su un dispositivo mobile aprendo il browser, accedendo e quindi accedendo a Outlook sul Web. Per istruzioni, vedere [aggiungere una cassetta postale condivisa in Outlook sul Web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207). Da Outlook sul web sarà possibile accedere alla cassetta postale condivisa.
+È possibile utilizzare una cassetta postale condivisa solo su un dispositivo mobile aprendo il browser, accedendo e quindi andando a Outlook sul web. Per istruzioni, vedere [Add a shared mailbox in Outlook sul web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207). Da Outlook sul web sarà possibile accedere alla cassetta postale condivisa.
   
-Per ulteriori informazioni, [vedere la Guida in-app per Outlook per iOS e Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Altre informazioni: [Ottenere assistenza in-app per Outlook per iOS e Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
 
