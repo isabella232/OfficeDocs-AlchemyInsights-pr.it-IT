@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: b00170a44afe8d3f2a28bb63df46c646a29f787b844b904bec3b3006fefba300
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571741"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100838"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Modificare il profilo di fatturazione per le app
 
 **Modificare i profili di fatturazione**
 
-1. Passare alla pagina **Billing**  >  **[fatture & pagamenti](https://go.microsoft.com/fwlink/p/?linkid=848039)** e quindi fare clic su **profili di fatturazione**.
+1. Vai alla pagina **Fatturazione**  >  **[& pagamenti,](https://go.microsoft.com/fwlink/p/?linkid=848039)** quindi fai clic su **Profili di fatturazione.**
 
-2. Nell'elenco dei profili di fatturazione, scegliere il profilo di fatturazione che si desidera modificare.
+2. Nell'elenco dei profili di fatturazione scegliere il profilo di fatturazione che si desidera modificare.
 
 **Per modificare il profilo di fatturazione nelle app**
 
-1. Passare alla pagina **fatturazione** dei  >  **[prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)** , quindi fare clic sulla scheda **Apps** .
+1. Vai alla pagina **Fatturazione**  >  **[i tuoi prodotti,](https://go.microsoft.com/fwlink/p/?linkid=842054)** quindi fai clic sulla **scheda** App.
 
-2. Individuare e selezionare l'app che si desidera gestire.  
+2. Trova e seleziona l'app che vuoi gestire.  
 
-3. Accanto a **profilo di fatturazione**, fare clic su **modifica** e selezionare il profilo di fatturazione che si desidera associare all'app.
+3. Accanto a **Profilo di fatturazione** fai clic su **Modifica** e seleziona il profilo di fatturazione che vuoi associare all'app.

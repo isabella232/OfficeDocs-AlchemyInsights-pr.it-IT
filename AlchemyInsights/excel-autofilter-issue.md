@@ -1,5 +1,5 @@
 ---
-title: Problema del filtro automatico di Excel
+title: Excel Problema del filtro automatico
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: c7d6bee548a8b7feeb5c9103c594d71754c4fc4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b50a0c2bcc72674c55938608f09de324a18433879b4126fb0e9c3314480dc180
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783375"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100550"
 ---
-# <a name="excel-autofilter-issue"></a>Problema del filtro automatico di Excel
+# <a name="excel-autofilter-issue"></a>Excel Problema del filtro automatico
 
-Se si utilizza Excel 2016, se l'elenco a discesa Filtro automatico non Visualizza tutte le caselle di controllo disponibili oppure se le caselle di controllo non sono selezionabili, potrebbe essere dovuto a un problema noto nelle versioni precedenti di Excel. 
+Quando si utilizza Excel 2016, se l'elenco a discesa Filtro automatico non mostra tutte le caselle di controllo disponibili o se le caselle di controllo non sono selezionabili, potrebbe essere dovuto a un problema noto nelle build precedenti di Excel. 
   
-Questo problema è stato risolto nella **versione 1707 (8326,2073)** o versioni successive. Per ottenere immediatamente l'aggiornamento, aprire Excel e scegliere **File** \> **Account** \> Aggiorna le **Opzioni di aggiornamento** dell'account file \> **Update Now**.
+This issue is now fixed in **Version 1707 (8326.2073)** or later. Per ottenere immediatamente l'aggiornamento, apri Excel e scegli **File** \> **Account Update** \> **Options** \> **Update Now**.
   
 
