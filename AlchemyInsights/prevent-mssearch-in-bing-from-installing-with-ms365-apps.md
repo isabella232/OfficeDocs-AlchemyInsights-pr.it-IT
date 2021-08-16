@@ -1,5 +1,5 @@
 ---
-title: Impedire l'installazione di Microsoft Search in Bing con Microsoft 365 Apps
+title: Impedire Microsoft Search'Bing'installazione con Microsoft 365 Apps
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50753968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040114"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Impedire l'installazione di Microsoft Search in Bing con Microsoft 365 Apps
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Impedire Microsoft Search'Bing'installazione con Microsoft 365 Apps
 
-Per impedire l'installazione del servizio in background per Microsoft Search in Bing con Microsoft 365 Apps for enterprise, utilizzare una delle opzioni seguenti:
+Per impedire l'installazione del servizio in background Microsoft Search in Bing con Microsoft 365 Apps for enterprise, utilizzare una delle opzioni seguenti:
 
-- Strumento di distribuzione di Office o Criteri di gruppo
-- Microsoft Endpoint Configuration Manager (current branch) o Microsoft Intune
+- Strumento Office o Criteri di gruppo
+- Microsoft Endpoint Configuration Manager (ramo corrente) o Microsoft Intune
 
-Per ulteriori informazioni, vedere Come impedire l'installazione del servizio in background per [Microsoft Search in Bing con Microsoft 365 Apps for enterprise.](https://go.microsoft.com/fwlink/?linkid=2151946)
+Per ulteriori informazioni, vedere Come impedire l'installazione del servizio in background Microsoft Search [in Bing con Microsoft 365 Apps for enterprise](https://go.microsoft.com/fwlink/?linkid=2151946).

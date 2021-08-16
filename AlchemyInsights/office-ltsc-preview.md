@@ -1,5 +1,5 @@
 ---
-title: Office LTSC Preview
+title: Office Anteprima LTSC
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -23,25 +23,25 @@ ms.custom:
 - "2000021"
 - "2000020"
 - "9002483"
-ms.openlocfilehash: a27662455e8b962d825ed5c44af146c8231b5b9e
-ms.sourcegitcommit: 55ec3deb7154985f0537d1c3eaab56c418deec70
+ms.openlocfilehash: 9102102ffc4a260aed74f11ad343afddd7872f1a3bcfb061f1961aef49e6e841
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51996168"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076421"
 ---
-# <a name="office-ltsc-preview"></a>Office LTSC Preview
+# <a name="office-ltsc-preview"></a>Office Anteprima LTSC
 
 Microsoft Office Long Term Servicing Channel (LTSC) per Windows e Office 2021 per Mac sono attualmente disponibili in anteprima pubblica. Per altre informazioni, vedere:
 
-- [Panoramica di Office LTSC Preview](https://docs.microsoft.com/deployoffice/office2021/overview-ltsc-preview)
+- [Panoramica di Office ANTEPRIMA LTSC](https://docs.microsoft.com/deployoffice/office2021/overview-ltsc-preview)
 
-- [Installare Office LTSC Preview](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview)
+- [Installare Office ANTEPRIMA LTSC](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview)
 
 - [Panoramica di Office 2021 Standard per Mac (anteprima)](https://docs.microsoft.com/deployoffice/office2021/overview-mac-preview)
 
-- [Domande frequenti su Office LTSC Commercial Preview](https://answers.microsoft.com/msoffice/forum/all/office-ltsc-commercial-preview-faq/0fcf5976-f87f-4be1-81af-9f6d6141bc3a)  
+- [Office Domande frequenti sull'anteprima commerciale LTSC](https://answers.microsoft.com/msoffice/forum/all/office-ltsc-commercial-preview-faq/0fcf5976-f87f-4be1-81af-9f6d6141bc3a)  
 
 **Nota:** Se attualmente si esegue Microsoft 365 Apps for enterprise o Microsoft 365 Apps for business, le funzionalità sono già disponibili in Office LTSC 2021 o Office 2021 per Mac e non è necessario partecipare all'anteprima.
 
-Per assistenza con Office LTSC durante l'anteprima, vedere [Ottenere supporto e fornire commenti e suggerimenti.](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview#getting-support-and-providing-feedback)
+Se hai bisogno di assistenza per Office LTSC durante l'anteprima, vedi [Ottenere supporto e fornire feedback.](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview#getting-support-and-providing-feedback)
