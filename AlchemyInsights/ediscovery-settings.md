@@ -1,5 +1,5 @@
 ---
-title: Impostazioni di eDiscovery
+title: Impostazioni di Ediscovery
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710991"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101234"
 ---
-# <a name="ediscovery-settings"></a>Impostazioni di eDiscovery
+# <a name="ediscovery-settings"></a>Impostazioni di Ediscovery
 
-le ricerche di eDiscovery/content consentono di cercare, conservare ed esportare contenuti dalle cassette postali di Exchange Online, siti di SharePoint Online e OneDrive for business, conversazioni di Skype for business, Microsoft teams e gruppi Microsoft 365.
+Le ricerche eDiscovery/Contenuto consentono di cercare, contenere ed esportare contenuto da cassette postali di Exchange Online, siti SharePoint Online e OneDrive for Business, conversazioni Skype for Business, Microsoft Teams e gruppi Microsoft 365.
 
-- Se si cercano le opzioni di menu di ricerca di eDiscovery o di contenuto, vedere [eDiscovery issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Informazioni sulle autorizzazioni necessarie per eseguire le ricerche di eDiscovery dalle [autorizzazioni necessarie per le ricerche di eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
+- Se si cercano le opzioni del menu eDiscovery o Ricerca contenuto, vedere [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Informazioni sulle autorizzazioni necessarie per eseguire ricerche eDiscovery da [Autorizzazioni necessarie per le ricerche di eDiscovery.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
 - Se la ricerca non restituisce i risultati previsti, vedere [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Per ulteriori informazioni su eDiscovery, vedere [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+Per ulteriori informazioni su ediscovery, vedere [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

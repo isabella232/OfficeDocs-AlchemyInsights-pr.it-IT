@@ -1,5 +1,5 @@
 ---
-title: Nessun risultato restituito durante la ricerca di contenuto/esportazione
+title: Nessun risultato restituito durante ricerca/esportazione contenuto
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727227"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101270"
 ---
-# <a name="no-results-returned-during-content-searchexport"></a>Nessun risultato restituito durante la ricerca di contenuto/esportazione
+# <a name="no-results-returned-during-content-searchexport"></a>Nessun risultato restituito durante ricerca/esportazione contenuto
 
-Se si verificano problemi con gli scenari di eDiscovery seguenti:
+Se si verificano problemi con i seguenti scenari di eDiscovery:
 
-- Ricerca contenuto/Esporta non restituisce dati o dati imprevisti
-- errore di ricerca o esportazione di eDiscovery
+- Ricerca/esportazione contenuto non restituisce dati o dati imprevisti
+- Ricerca o esportazione di eDiscovery non riesce
 
-Questo può essere dovuto a determinati filtri di sicurezza di conformità che sono stati impostati da un amministratore specifico e non sono stati comunicati a tutti gli amministratori.
+Ciò può essere dovuto a determinati filtri di sicurezza della conformità che sono stati configurazione da un amministratore specifico e non sono stati comunicati a tutti gli amministratori.
 
-Per risolvere il problema, controllare se sono presenti filtri di sicurezza per la conformità che potrebbero causare questi problemi:
+Per risolvere il problema, verificare se sono presenti filtri di sicurezza di conformità che potrebbero causare questi problemi:
 
-1. Connettersi a PowerShell per Centro sicurezza e conformità
-2. Eseguire le seguenti commandlets:
+1. Connessione powershell per centro sicurezza e conformità
+2. Eseguire i seguenti commandlet:
 
     `$org = “yourdomain.com”`
 
     `Get-ComplianceSecurityFilter -Organization $org`
 
-Per ulteriori informazioni sui filtri di sicurezza di conformità, vedere [filtro delle autorizzazioni per la ricerca di contenuto](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
+Per ulteriori informazioni sui filtri di sicurezza di conformità, vedere [Permissions Filtering for Content Search](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
