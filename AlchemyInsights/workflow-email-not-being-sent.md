@@ -1,5 +1,5 @@
 ---
-title: La posta elettronica del flusso di lavoro non viene inviata
+title: I messaggi di posta elettronica del flusso di lavoro non vengono inviati
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 7efb8895ac7e2816a2c6055ec3c08d6f7029d39d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2caf8e0878da0049667d9a19f4488eaec4b9327fbf36be7d29dbf4b7a9c89158
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748993"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072524"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>La posta elettronica del flusso di lavoro non viene inviata per un elenco o una raccolta di SharePoint
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>La posta elettronica del flusso di lavoro non viene inviata per un SharePoint o una raccolta
 
-1. La posta elettronica proveniente dai flussi di lavoro non viene inviata a tutti gli utenti o solo a utenti specifici oppure viene visualizzato l'errore che **il messaggio di posta elettronica non è in grado di inviare. Verificare che la posta elettronica abbia un destinatario valido**.
+1. I messaggi di posta elettronica provenienti dai flussi di lavoro non vengono inviati a tutti gli utenti o solo a utenti specifici oppure viene visualizzato l'errore Impossibile inviare il messaggio di posta elettronica. Verificare che il messaggio di posta elettronica abbia un **destinatario valido.**
 
-    Controllare se l'utente è presente nel gruppo di autorizzazioni **tutti** gli utenti (elenco informazioni utente) per la raccolta siti.  URL diretto di esempio: https:// <tenant> . SharePoint.com/sites/ <sitename> /_layouts/15/people.aspx? MembershipGroupId = 0
+    Verificare se l'utente è presente nel **gruppo di** autorizzazioni Tutti gli utenti (elenco di informazioni utente) per la raccolta siti.  URL diretto di esempio: https:// <tenant> .sharepoint.com/sites/ <sitename> /_layouts/15/people.aspx? MembershipGroupId=0
 
     - Se l'utente non esiste, verificare che l'utente sia connesso alla pagina. 
-    - Se si tratta di un utente esterno, verificare che l'invito sia stato accettato.
-    - Se l'utente esiste nel gruppo autorizzazioni, verificare che l'indirizzo di posta elettronica sia corretto.
-    - Se l'indirizzo di posta elettronica degli utenti non è impostato qui, creare un avviso di esempio per l'utente che forza la sincronizzazione dell'account utente da profili utente di SharePoint a questa raccolta siti.
+    - Se si tratta di un utente esterno, assicurarsi che l'invito sia stato accettato.
+    - Se l'utente esiste nel gruppo di autorizzazioni, verificare che l'indirizzo di posta elettronica sia corretto.
+    - Se l'indirizzo di posta elettronica degli utenti non è impostato qui, creare un avviso di esempio per tale utente che forza la sincronizzazione dell'account utente dai profili utente di SharePoint a questa raccolta siti.
  
-2. I messaggi di posta elettronica provenienti dai flussi di lavoro vengono inviati agli amministratori della raccolta siti, ma non ad altri utenti e visualizzano il messaggio **di errore http Forbidden to <span>https:</span>//URL/_vti_bin/client.xvc.sp.Utilities.Utility.SendEmail**.
+2. I messaggi di posta elettronica provenienti dai flussi di lavoro vengono inviati agli amministratori della raccolta siti ma non ad altri utenti e viene visualizzato l'errore HTTP Accesso negato a **<span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Vedere [accesso negato quando si invia un messaggio di posta elettronica a un gruppo di SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Vedere [Accesso negato quando si invia un messaggio](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)di posta elettronica a SharePoint gruppo .
 
-    Verificare inoltre che la caratteristica di raccolta siti per la **modalità di blocco delle autorizzazioni utente con accesso limitato** non sia attiva.
+    Verificare inoltre che la **caratteristica Della raccolta** siti in modalità di blocco delle autorizzazioni utente con accesso limitato non sia attiva.
 
 
 ## <a name="related-topics"></a>Argomenti correlati
-Si desidera provare Microsoft Flow in SharePoint Online?
-- [Crea flusso](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint e flusso](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Vuoi provare a Microsoft Flow in SharePoint Online?
+- [Creare Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint e Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

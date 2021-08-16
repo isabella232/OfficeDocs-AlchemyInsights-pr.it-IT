@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3e3e350f74b19420155c29cb282f065e7db6d4d7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fa38d893a8bd543e87c0239f1a88d9c1caa33153ced6e33ef31c309be8989e95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736413"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035190"
 ---
 # <a name="configure-quarantine-notifications-sent-to-users"></a>Configurare le notifiche di quarantena inviate agli utenti
 
 Per inviare notifiche agli utenti sugli elementi in quarantena:
 
-1. Nell'interfaccia di amministrazione, accedere a **Interfaccia di** amministrazione Filtro posta indesiderata  >  **di Exchange**  >    >  **Protection.**
+1. Nell'interfaccia di amministrazione passare a **Interfaccia di** amministrazione  >  **Exchange**  >  **protezione da** posta  >  **indesiderata**.
 2. Selezionare il criterio di filtro della posta indesiderata per cui si desidera attivare le notifiche.
 3. Nel riquadro destro scegliere il collegamento **Configura notifiche di posta indesiderata dell'utente** finale.
 4. Nella finestra di dialogo successiva scegliere **Abilita notifiche di posta indesiderata dell'utente finale.** Scegliere di abilitare le notifiche di posta indesiderata per questo criterio.

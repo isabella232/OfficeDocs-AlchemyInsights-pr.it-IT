@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 22c2468b7639680b447b6464431a79b69f7198c3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 59360a040fe413e92cd880b1225b9006384a823f6e8abeb7ef922949b9a874fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736416"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035226"
 ---
 # <a name="configure-message-encryption-for-a-hybrid-environment"></a>Configurare la crittografia dei messaggi per un ambiente ibrido
 
-Per gli ambienti ibridi di Exchange, gli utenti locali possono inviare messaggi di posta elettronica crittografati utilizzando Office Message Encryption (OME) solo se la posta elettronica viene instradata tramite Exchange Online.
+Per gli ambienti Exchange ibridi, gli utenti locali possono inviare messaggi di posta elettronica crittografati utilizzando Office Message Encryption (OME) solo se la posta elettronica viene instradata tramite Exchange Online.
 
 Per crittografare i messaggi di posta elettronica tramite OME, eseguire la procedura seguente:
 

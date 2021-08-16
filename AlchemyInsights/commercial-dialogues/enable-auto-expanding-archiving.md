@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: cbc856a76d811c09aefcada962376ae4e9469c3b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 85a494918d65cc026a85bdfd6348d5c3c190ef919fa88a15ffcd4e7e790b8737
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035154"
 ---
 # <a name="enable-auto-expanding-archiving"></a>Abilitare l'archiviazione con espansione automatica
 
@@ -29,5 +29,5 @@ Se la cassetta postale di archiviazione è piena (viene raggiunta la quota) o si
 > [!TIP]
 >
 > - Dopo l'attivazione dell'espansione automatica, il provisioning di spazio di archiviazione aggiuntivo può richiedere fino a 30 giorni.
-> - Se una cassetta postale è in attesa o assegnata a un criterio di conservazione di Office 365, la quota di archiviazione della cassetta postale di archiviazione aumenta a un totale di **110 GB** quando sono abilitati archivi illimitati.
+> - Se una cassetta postale è in attesa o assegnata a un criterio di conservazione Office 365, la quota di archiviazione della cassetta postale di archiviazione aumenta fino a un totale di **110 GB** quando sono abilitati archivi illimitati.
 > - Per liberare spazio nella cassetta postale di archiviazione, se non sono presenti blocchi, gli utenti possono esportare gli elementi della cassetta postale di archiviazione in un [file PST](https://support.office.com/article/Export-or-backup-email-contacts-and-calendar-to-an-Outlook-pst-file-14252b52-3075-4e9b-be4e-ff9ef1068f91) utilizzando Outlook oppure eliminare gli elementi non necessari nella cassetta postale di archiviazione.
