@@ -12,16 +12,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 255fd52e0bd63f282613f3fb07240a5530738506
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58394b854877aaf2f537c33195193d23cc3891524cb2f867246ba4bf5f9e73a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099002"
 ---
 # <a name="managed-metadata-service-error-message"></a>Messaggio di errore del servizio metadati gestiti
 
-Quando si apre l'archivio termini, è possibile che venga visualizzato un messaggio di errore: "il servizio metadati gestiti o la connessione non è attualmente disponibile. Il pool di applicazioni o il servizio Web metadati gestiti potrebbe non essere stato avviato. Contattare l'amministratore. "
+Quando si apre l'archivio termini, potrebbe essere visualizzato un messaggio di errore: "Il servizio metadati gestiti o la connessione non è attualmente disponibile. Il pool di applicazioni o il servizio Web metadati gestiti potrebbe non essere stato avviato. Contattare l'amministratore."
   
-Se sono passate più di 24 ore dalla prima volta che si è visto questo problema, è necessario registrare un caso di supporto. Ci rendiamo conto che 24 ore può sembrare molto. In molti casi, stiamo già lavorando a una soluzione, quindi per favore dacci almeno 24 ore.
+Se sono trascorse più di 24 ore dalla prima volta che hai visto questo problema, registra un caso di supporto. Ci rendiamo conto che 24 ore può sembrare molto. In molti casi, stiamo già lavorando a una soluzione, quindi si prega di darci almeno 24 ore.
   

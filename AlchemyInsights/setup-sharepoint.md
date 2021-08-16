@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576543"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023454"
 ---
 # <a name="set-up-sharepoint"></a>Configurare SharePoint
 
-La [Guida all'installazione di SharePoint](https://go.microsoft.com/fwlink/?linkid=2071425) consente di configurare l'archiviazione dei documenti di SharePoint e la gestione del contenuto, creare siti, configurare la condivisione esterna, eseguire la migrazione dei dati e configurare le impostazioni avanzate e guidare l'impegno e la comunicazione dell'utente all'interno dell'organizzazione.
+La [guida alla configurazione](https://go.microsoft.com/fwlink/?linkid=2071425) di SharePoint consente di configurare l'archiviazione dei documenti e la gestione del contenuto di SharePoint, creare siti, configurare la condivisione esterna, eseguire la migrazione dei dati e configurare impostazioni avanzate e guidare il coinvolgimento degli utenti e le comunicazioni all'interno dell'organizzazione.
 
-Seguire i passaggi per la configurazione dei criteri di autorizzazione di condivisione del contenuto, scegliere gli strumenti di sincronizzazione della migrazione, nonché abilitare le impostazioni di sicurezza per l'ambiente di SharePoint.
+Seguirai la procedura per configurare i criteri di autorizzazione per la condivisione del contenuto, scegliere gli strumenti di sincronizzazione della migrazione e abilitare le impostazioni di sicurezza per l'ambiente SharePoint locale.

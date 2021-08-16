@@ -1,5 +1,5 @@
 ---
-title: Gestire un gruppo senza una licenza di Exchange
+title: Gestire un gruppo senza una Exchange licenza
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: 8a02362eb716e7e879deae7392d86ccc9f10ce5c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 949c37b035a85dd9996a741da73eb2e8a0dbfdcfc7dcef3905aa78e5759404e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099074"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Gestire un gruppo senza una licenza di Exchange
+# <a name="manage-a-group-without-an-exchange-license"></a>Gestire un gruppo senza una Exchange licenza
 
-Se l'account amministratore non dispone di una cassetta postale, è possibile che venga visualizzato un messaggio di errore relativo a una licenza del prodotto mancante quando si tenta di modificare un gruppo di Microsoft 365.
+Se l'account amministratore non dispone di una cassetta postale, è possibile che venga visualizzato un errore su una licenza di prodotto mancante quando si tenta di modificare un Microsoft 365 gruppo.
   
-Poiché si è l'amministratore del tenant, è possibile modificare un gruppo anche se non si dispone di una licenza di Exchange. Basta andare ai [Exchange Admin Center](https://outlook.office365.com/ecp.aspx) \> **gruppi** dell'interfaccia di amministrazione di Exchange per gestire il gruppo Microsoft 365.
+Poiché sei l'amministratore tenant, è possibile modificare un gruppo anche se non hai una licenza Exchange licenza. Basta andare a [Exchange Gruppi dell'interfaccia](https://outlook.office365.com/ecp.aspx) \> **di** amministrazione per gestire il Microsoft 365 gruppo.
   
-Se si desidera modificare i gruppi nell'interfaccia di amministrazione, aggiungere una licenza di Exchange all'account di amministratore. Prima di poter modificare un gruppo, è necessario attendere che la cassetta postale sia stata creata completamente.
+Se vuoi modificare i gruppi nell'interfaccia di amministrazione, aggiungi una Exchange licenza all'account amministratore. È necessario attendere la creazione completa della cassetta postale prima di poter modificare un gruppo.
   
