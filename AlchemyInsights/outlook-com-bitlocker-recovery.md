@@ -1,5 +1,5 @@
 ---
-title: Ripristino di BitLocker di Outlook.com
+title: Outlook.com Ripristino BitLocker
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: b41797fbae6972bc0a9e0fa2252fec36f9b02ace
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 802a37239467624a856393b9909170c3f3b2233cfa238508fd0515749a71d1a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753767"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025110"
 ---
 # <a name="bitlocker-recovery"></a>Ripristino di BitLocker
 
-Passare a [dispositivi](https://account.microsoft.com/devices/recoverykey) per visualizzare le chiavi di ripristino di BitLocker.
+Vai a [Dispositivi per](https://account.microsoft.com/devices/recoverykey) visualizzare le chiavi di ripristino di BitLocker.
 
-Per ulteriori informazioni, vedere [Find My BitLocker Recovery Key](https://support.microsoft.com/help/4026181)   .
+Per altre informazioni, vedi Trovare la chiave di ripristino di [BitLocker.](https://support.microsoft.com/help/4026181)
