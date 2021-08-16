@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023994"
 ---
 # <a name="remote-work-setup-guide"></a>Guida alla configurazione del lavoro remoto
 
-Si sta facendo sempre più lavoro in remoto. L'organizzazione deve essere attrezzata per gestire la maggiore domanda di lavoro a distanza.
+Sempre più lavoro viene eseguito in remoto. L'organizzazione deve essere dotata di strumenti per gestire l'aumento della domanda di lavoro remoto.
 
-Utilizzare la [Guida all'installazione del lavoro remoto](https://go.microsoft.com/fwlink/?linkid=2142062) per abilitare le funzionalità di sicurezza essenziali e rivedere ulteriori suggerimenti per la sicurezza. Si otterrà una guida per ridurre la pressione sull'infrastruttura VPN e, facoltativamente, configurare l'accesso remoto per desktop e app. Verranno quindi esaminate le opzioni per la distribuzione di Microsoft teams e le app di Office.
+Usare la [guida alla configurazione del lavoro remoto](https://go.microsoft.com/fwlink/?linkid=2142062) per abilitare le funzionalità di sicurezza essenziali ed esaminare ulteriori suggerimenti sulla sicurezza. Avrai indicazioni per ridurre l'affaticamento dell'infrastruttura VPN e, facoltativamente, configurare l'accesso remoto per desktop e app. Rivedrai quindi le opzioni per la distribuzione Microsoft Teams e Office app.

@@ -11,20 +11,20 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: ebd9b894d27e9278cda69d4a93c163e285f556f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e16d56681825ab469f4dc9c142fc0fc22bdce62ba6a4bedce0ad8f488acf71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023958"
 ---
 # <a name="remove-a-hub-site"></a>Rimuovere un sito hub
 
-Per annullare la registrazione di un sito hub nella nuova interfaccia di amministrazione di SharePoint:
+Per annullare la registrazione di un sito hub nella nuova SharePoint di amministrazione:
   
-1. Nella nuova interfaccia di amministrazione di SharePoint, in **siti**, fare clic su **siti attivi**.
+1. Nella nuova interfaccia di SharePoint, in **Siti** fare clic su **Siti attivi.**
 
-2. Selezionare il sito, fare clic su **sito hub**e quindi fare clic su **Annulla registrazione come sito hub**.
+2. Selezionare il sito, fare clic su **Sito hub** e quindi su **Annulla registrazione come sito hub.**
 
 3. Fare clic su **OK**.
 

@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 0c2473b8682ba12d3d15e24dc0f2485a7ab8789f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 78fd77c27a3ec62b16325cdb3be469e45514f8cf0b5de4f4264f080b23627eef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988335"
 ---
 # <a name="create-an-alert-policy"></a>Creare un criterio di avviso
 
 Ecco come eseguire questa operazione:
 
-1. Passare al Centro [sicurezza e conformità di Office 365 & conformità](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Passare al Centro [Office 365 sicurezza & conformità](https://go.microsoft.com/fwlink/p/?linkid=2077143).
 1. Selezionare **Avvisi**  >  [Criteri avvisi](https://go.microsoft.com/fwlink/?linkid=2103208).
 1. Selezionare **+ Nuovo criterio di avviso.** Viene visualizzato un riquadro a comparsa.
 1. Impostare i **campi Nome,** **Descrizione,** Gravità e Categoria in base alle proprie esigenze.  Selezionare **Avanti**.
