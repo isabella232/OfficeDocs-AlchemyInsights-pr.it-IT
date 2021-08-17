@@ -1,5 +1,5 @@
 ---
-title: 2637 bypassare il filtro per la posta indesiderata per consentire messaggi specifici?
+title: 2637 Ignorare il filtro posta indesiderata per consentire messaggi specifici?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa9ee7cd7710517dfcc441cd931b9f427474869ad49ed0fa0a91a06e06682ed7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059564"
 ---
 # <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Ignorare il filtro posta indesiderata per consentire messaggi specifici?
 
-Quando si crea un elenco di indirizzi consentiti, è consigliabile [prestare attenzione](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) . Ad esempio, se si consente il proprio dominio, i mittenti dannosi saranno in grado di eseguire lo spoofing e l'invio come dominio.  Al contrario, è consigliabile questa [Guida alla risoluzione dei problemi relativi ai falsi positivi](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), che consentirà di determinare il motivo per cui un messaggio legittimo è stato contrassegnato come posta indesiderata e cosa è possibile fare per consentire il recapito del messaggio in modo sicuro.
+È [consigliabile prestare attenzione](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) quando si crea un elenco consenti. Ad esempio, se si consente il proprio dominio, i mittenti malintenzionati saranno in grado di effettuare lo spoofing e l'invio come dominio.  Consigliamo invece questa guida alla risoluzione dei problemi relativi ai falsi [positivi,](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)che consente di determinare il motivo per cui un messaggio legittimo è stato contrassegnato come posta indesiderata e cosa è possibile fare per consentire in modo sicuro il recapito del messaggio.

@@ -1,5 +1,5 @@
 ---
-title: Informazioni sul mapping tra i criteri legacy di Microsoft Edge e i criteri Microsoft Edge
+title: Informazioni sul mapping tra i Versione legacy di Microsoft Edge e Microsoft Edge criteri
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571921"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087392"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Informazioni sul mapping tra i criteri legacy di Microsoft Edge e i criteri Microsoft Edge
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Informazioni sul mapping tra i Versione legacy di Microsoft Edge e Microsoft Edge criteri
 
-I criteri di gruppo di Microsoft Edge Legacy (versioni 45 e precedenti) e le impostazioni di gestione dei dispositivi mobili (MDM) vengono mappati ai criteri rilevanti di Microsoft Edge versione 80. Per ulteriori informazioni, vedere [Microsoft Edge legacy to Microsoft Edge Policy mapping](https://go.microsoft.com/fwlink/?linkid=2141665).
+I Criteri di gruppo di Versione legacy di Microsoft Edge (versioni 45 e precedenti) e le impostazioni di Gestione dispositivi mobili (MDM) sono mappati ai criteri rilevanti di Microsoft Edge versione 80. Per ulteriori informazioni, vedere [Versione legacy di Microsoft Edge to Microsoft Edge policy mapping](https://go.microsoft.com/fwlink/?linkid=2141665).

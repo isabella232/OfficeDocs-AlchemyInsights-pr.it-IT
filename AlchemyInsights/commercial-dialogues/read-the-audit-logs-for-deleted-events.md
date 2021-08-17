@@ -13,26 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967337"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896019"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Leggere i registri di controllo per gli eventi eliminati
 
 Ecco come eseguire questa operazione:
 
-1. Passare al Centro [Office 365 sicurezza & conformità](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Selezionare **Ricerca**  >  [**log di controllo ricerca**](https://go.microsoft.com/fwlink/?linkid=2103759).
+1. Eseguire una delle operazioni seguenti:
+   - Nell'Centro conformità Microsoft 365 <https://compliance.microsoft.com> in , passare a **Soluzioni** \> **Controllo**. In caso contrario, per passare direttamente alla **pagina Controllo,** utilizzare <https://compliance.microsoft.com/auditlogsearch> .
+   - Nel portale di Microsoft 365 Defender <https://security.microsoft.com> all'indirizzo , passare a **Controlla**. In caso contrario, per passare direttamente alla **pagina Controllo,** utilizzare <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Se viene visualizzato un avviso che indica che è necessario attivare la funzionalità, procedere e attivarla ora. Se la funzionalità non è attivata, i risultati della ricerca non saranno in grado di estrarre i dati dalle date precedenti.
-1. Selezionare **Attività** e quindi individuare le attività **Exchange cassetta postale.** Selezionare le **opzioni Messaggi eliminati dalla cartella Posta** eliminata e Messaggi **spostati nella cartella Posta** eliminata. Al termine, fare clic all'esterno del riquadro per ridurre a icona **il riquadro** Attività.
-1. Specificare l'intervallo di date e quindi nella **casella Utenti** selezionare il nome utente dell'utente che si desidera analizzare. È possibile selezionare più di un utente alla volta.
-1. Selezionare **Cerca**. Le attività vengono visualizzate in **Risultati**.
-1. Per visualizzare i dettagli, selezionare un'attività e quindi **selezionare Altre informazioni.** Ulteriori informazioni sull'elemento eliminato, ad esempio la riga dell'oggetto e la posizione dell'elemento al momento dell'eliminazione, vengono visualizzate nel **campo AffectedItems.**
-    > [!NOTE]
-    > Non è possibile ripristinare gli elementi eliminati utilizzando la funzionalità del log di controllo. Per ripristinare gli elementi eliminati, vedere [Recover deleted items or email in Outlook Web App](https://go.microsoft.com/fwlink/?linkid=2103759).
 
-Per ulteriori informazioni, vedere [Search the Office 365 audit log to troubleshoot common scenarios.](https://go.microsoft.com/fwlink/?linkid=2103944)
+2. Nella scheda **Ricerca** della pagina **Controllo** configurare le impostazioni seguenti:
+   - **Intervallo di data e ora**: selezionare l'intervallo di data/ora nelle **caselle Inizio** **e** Fine.
+   - **Attività**: immettere **Exchange attività della cassetta postale** e quindi selezionare i valori seguenti:
+     - **Messaggi eliminati dalla cartella Posta eliminata**
+     - **Messaggi spostati nella cartella Posta eliminata**
+
+       Al termine, fare clic all'esterno del riquadro per ridurre a icona **il riquadro** Attività.
+
+   - **Utenti**: accettare il valore predefinito vuoto per restituire i risultati per tutti gli utenti oppure immettere uno o più utenti.
+
+3. Al termine, fare clic su **Cerca**. Le attività vengono visualizzate nella nuova **pagina Di ricerca di** controllo.
+
+4. Selezionare un'attività nei risultati per aprire il riquadro a comparsa dei dettagli. Ulteriori informazioni sull'elemento eliminato, ad esempio la riga dell'oggetto e la posizione dell'elemento al momento dell'eliminazione, vengono visualizzate nel **campo AffectedItems.**
+
+   > [!NOTE]
+   > Non è possibile ripristinare gli elementi eliminati utilizzando la funzionalità del log di controllo. Per ripristinare gli elementi eliminati, vedere [Recover deleted email messages in Outlook sul web](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11).
+
+Per ulteriori informazioni, vedere [Search the audit log to investigate common support issues](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios).

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
-ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
+ms.openlocfilehash: a292e160abcfc26ffebc454d32ee489a319a23f4bb81e70fe5dbe72bfd0b8b81
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53187725"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890342"
 ---
 # <a name="teams-client-crashing"></a>Il client di Teams si arresta in modo anomalo
 
@@ -25,9 +25,9 @@ Se il client di Teams si arresta in modo anomalo, provare le operazioni seguenti
 
 - Se si usa l'applicazione desktop di Teams, [verificare che l'app sia completamente aggiornata](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Assicurarsi che tutti gli [intervalli di indirizzi e gli URL di Microsoft 365](/microsoftteams/connectivity-issues) siano accessibili.
+- Assicurarsi che tutti gli [intervalli di indirizzi e gli URL di Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) siano accessibili.
 
-- Eseguire l'accesso con l'account amministratore del tenant e controllare il [Dashboard di integrità dei servizi](/office365/enterprise/view-service-health) per verificare che non siano presenti interruzioni o riduzioni delle prestazioni del servizio.
+- Eseguire l'accesso con l'account amministratore del tenant e controllare il [Dashboard di integrità dei servizi](https://docs.microsoft.com/office365/enterprise/view-service-health) per verificare che non siano presenti interruzioni o riduzioni delle prestazioni del servizio.
 
 - Disinstallare e reinstallare l'applicazione Teams
     - Passare alla cartella %appdata%\Microsoft\Teams\ sul computer ed eliminare tutti i file di quella directory.
@@ -38,7 +38,7 @@ Se il client di Teams si arresta ancora in modo anomalo, provare a riprodurre il
 1. Usare la Registrazione azioni utente per acquisire la procedura.
     - Chiudere TUTTE le applicazioni inutili o riservate.
     - Avviare la Registrazione azioni utente e riprodurre il problema durante l'accesso con l'account utente interessato.
-    - [Recuperare i log di Teams relativi ai passaggi di riproduzione registrati](/microsoftteams/log-files). **Nota**: assicurarsi di acquisire l'indirizzo di autenticazione dell'utente interessato.
+    - [Recuperare i log di Teams relativi ai passaggi di riproduzione registrati](https://docs.microsoft.com/microsoftteams/log-files). **Nota**: assicurarsi di acquisire l'indirizzo di autenticazione dell'utente interessato.
     - Recuperare le informazioni di dump e/o del fault bucket (Windows). Avviare Windows PowerShell sul computer in cui si verifica l'arresto anomalo, ed eseguire questi comandi (dopo ogni comando, premere INVIO):
 
     `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`

@@ -1,5 +1,5 @@
 ---
-title: Bloccare gli annunci in Microsoft Edge in un dispositivo Adroid o iOS
+title: Bloccare gli annunci in Microsoft Edge su un dispositivo Adroid o iOS
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003856"
 - "6906"
-ms.openlocfilehash: 8ad1e8dd59712de0be46c90bee24b0e8d290906f
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 513ef21d7629ac0598e5446f61edf0b26d69ca389735638df54f32dffbe3059b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059924"
 ---
-# <a name="block-ads-in-microsoft-edge-on-an-adroid-or-ios-device"></a>Bloccare gli annunci in Microsoft Edge in un dispositivo Adroid o iOS
+# <a name="block-ads-in-microsoft-edge-on-an-adroid-or-ios-device"></a>Bloccare gli annunci in Microsoft Edge su un dispositivo Adroid o iOS
 
 Per bloccare tutti gli annunci ad eccezione di quelli ritenuti accettabili da AdBlock Plus:
-1. Seleziona **...** > **Impostazioni**  >  di **Blocchi di contenuto**.
-2. Attiva blocca annunci.
+1. Selezionare **…** > **Impostazioni**  >  **Blocchi del contenuto**.
+2. Attivare Block ads (Blocca annunci).
 
 Per bloccare tutti gli annunci:
-1. Seleziona **...** > **Impostazioni**  >  di **Blocchi di contenuto**.
-2. Attiva blocca annunci.
+1. Selezionare **…** > **Impostazioni**  >  **Blocchi del contenuto**.
+2. Attivare Block ads (Blocca annunci).
 3. Selezionare **Impostazioni avanzate**.
-4. Disattiva Consenti annunci accettabili.
+4. Disattivare Allow acceptable ads (Consenti annunci accettabili).

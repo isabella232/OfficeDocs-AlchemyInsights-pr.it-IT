@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 3b81bab22c9deb6498827b01f54fac0be2f7c35b6f912d729b44ddc4f45598cd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8935f461aaf24cb100516311203ef642f5dbed931e472df944c1cd7e72a8cf4e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919031"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890270"
 ---
 # <a name="401-unauthorized-error-in-sharepoint"></a>Errore 401 Non autorizzato in SharePoint
 
 Se viene visualizzato l'errore "(401) Non autorizzato" in SharePoint, tale problema potrebbe essere correlato alla deprecazione di TLS 1.0/1.1. Per altre informazioni, vedere:
 
-- [Preparazione per TLS 1.2 in Office 365 e Office 365 GCC](/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
+- [Preparazione per TLS 1.2 in Office 365 e Office 365 GCC](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
 
-- [Si verificano errori di autenticazione se il client non dispone del supporto TLS 1.2](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
+- [Si verificano errori di autenticazione se il client non dispone del supporto TLS 1.2](https://docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
 
 - [Aggiornamento per abilitare TLS 1.1 e TLS 1.2 come protocolli sicuri predefiniti in WinHTTP in Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
 
-Se gli utenti hanno Windows 7, verificare che selezionino i [pacchetti di crittografia TLS in Windows 7](/windows/win32/secauthn/tls-cipher-suites-in-windows-7).
+Se gli utenti hanno Windows 7, verificare che selezionino i [pacchetti di crittografia TLS in Windows 7](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7).

@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c0b88c1ca2120acccd9cd75eb918a81bde52ec3919f6148922f077f07899da7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034938"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896079"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Correggere i criteri tenant (override dell'azione)
 
-Questo messaggio è stato influenzato da un criterio di protezione da posta indesiderata nel tenant. Per esaminare il criterio, eseguire le operazioni seguenti:
+Uno dei criteri di protezione da posta indesiderata ha interessato questo messaggio. Per esaminare i criteri, eseguire la procedura seguente:
 
-1. Passare al Centro [Office 365 sicurezza &](https://go.microsoft.com/fwlink/p/?linkid=2077143)e quindi passare a Criteri di gestione delle minacce Protezione da posta  >    >  [indesiderata.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Verificare se **l'origine dei criteri** indica quanto  **segue: Add-Xheader/ModifySubject/Redirect/Delete/No action/BCC message**
+1. Nel portale Microsoft 365 Defender posta elettronica all'indirizzo , passare a Email <https://security.microsoft.com/> **& Collaboration** Policies & \> **Rules Threat** \> **policies** \> **Anti-spam** nella **sezione Criteri.**
 
-    In tal caso, nella **scheda Personalizzata** controllare le impostazioni del criterio che ha interessato il messaggio. È possibile che le impostazioni **Standard applicate** a tutti i clienti Exchange Online Protection interessati dal messaggio.
+   Per passare direttamente alla pagina **Criteri di protezione dalla posta indesiderata**, usare <https://security.microsoft.com/antispam>.
 
-Per ulteriori informazioni sulla configurazione dei criteri di filtro della posta indesiderata, vedere [Configure your spam filter policies](https://go.microsoft.com/fwlink/?linkid=2101431).
+2. Nella pagina Criteri di protezione da posta indesiderata selezionare il criterio facendo clic sul nome del criterio **(** Type is Custom **anti-spam** **policy** o **Name** is **Anti-Spam inbound policy (Default)**.
+3. Nel riquadro a comparsa dei dettagli visualizzato selezionare **Modifica azioni** nella **sezione** Azioni.
+4. Nella sezione **Azioni messaggio** esaminare i verdetti relativi a **Spam,** High **confidence spam,** **Phishing** e High **confidence phishing** per verificare se è selezionato uno dei valori seguenti:
+   - **Aggiungi X-header**
+   - **Anteponi oggetto al testo**
+   - **Reindirizza messaggio a indirizzo di posta elettronica**
+   - **Elimina messaggio**
+   - **Nessuna azione**
+
+   È possibile che le impostazioni **Standard** applicate a tutti i clienti Exchange Online Protection interessati dal messaggio.
+
+Per altre informazioni, vedere [Configurare i criteri di protezione dalla posta indesiderata in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

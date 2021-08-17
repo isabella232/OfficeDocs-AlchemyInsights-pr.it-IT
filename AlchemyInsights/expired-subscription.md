@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029736"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895891"
 ---
 # <a name="expired-subscription"></a>Sottoscrizione scaduta
 
@@ -35,7 +35,7 @@ Sembra che tu abbia una o più sottoscrizioni scadute. Se si desidera continuare
 3. Nel riquadro **Riattiva l’abbonamento**, selezionare una modalità di pagamento nell'elenco a discesa oppure selezionare **Aggiungi modalità di pagamento**.
 4. Selezionare **Salva**.
 
-Per altre informazioni, vedere [Riattiva l'abbonamento](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Per altre informazioni, vedere [Riattiva l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Effettuare un nuovo acquisto**
   
@@ -44,4 +44,4 @@ Per altre informazioni, vedere [Riattiva l'abbonamento](/microsoft-365/commerce/
 3. Immetti il numero di licenze necessarie e scegli se pagare ogni mese o per l'intero anno. Scegliere se assegnare automaticamente le licenze a tutti gli utenti che attualmente non dispongono di una licenza. Quindi scegliere **Estrai ora**.
 4. Seguire i passaggi rimanenti per completare l'estrazione.
 
-Per ulteriori informazioni, vedere [Acquistare un altro abbonamento.](/microsoft-365/commerce/buy-another-subscription)
+Per ulteriori informazioni, vedere [Acquistare un altro abbonamento.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)

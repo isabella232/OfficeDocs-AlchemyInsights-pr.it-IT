@@ -15,16 +15,16 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500020"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895495"
 ---
 # <a name="change-payment-method"></a>Cambiare la modalità di pagamento
 
-È possibile modificare la modalità di pagamento dal **interfaccia di amministrazione di Microsoft 365**.
+È possibile modificare la modalità di pagamento dal **interfaccia di amministrazione di Microsoft 365.**
   
 1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** > **Fatture e pagamenti** > [Modalità di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 2. Selezionare la riga della modalità di pagamento da sostituire. Nel riquadro destro sono elencati tutti i profili di fatturazione e i singoli abbonamenti che usano la modalità di pagamento selezionata.
@@ -36,6 +36,6 @@ ms.locfileid: "54500020"
 6. Nel riquadro **Aggiungi un metodo di pagamento** immetti le informazioni sull'account e scegli **Salva**. È necessario usare una modalità di pagamento dello stesso paese/area geografica del tenant.
 7. La nuova modalità di pagamento è già selezionata nell'elenco a discesa. Selezionare **Sostituisci**.
 
-Per informazioni su come aggiungere, aggiornare, sostituire o eliminare metodi di pagamento, vedere [Gestire i metodi di pagamento.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Per informazioni su come aggiungere, aggiornare, sostituire o eliminare metodi di pagamento, vedere [Gestire i metodi di pagamento.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Per informazioni su come passare da un metodo di pagamento all'altro, vedere [Come pagare l'abbonamento.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Per informazioni su come passare da un metodo di pagamento all'altro, vedere [Come pagare l'abbonamento.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
