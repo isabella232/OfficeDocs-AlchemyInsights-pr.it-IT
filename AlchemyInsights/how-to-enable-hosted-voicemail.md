@@ -1,5 +1,5 @@
 ---
-title: Come abilitare la segreteria telefonica ospitata
+title: Come abilitare La segreteria telefonica ospitata
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608848"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055558"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Come abilitare la segreteria telefonica ospitata
+# <a name="how-to-enable-hosted-voicemail"></a>Come abilitare La segreteria telefonica ospitata
 
-Per abilitare la segreteria telefonica, è necessario impostare **HostedVoicemail** su $true.
+Per abilitare la segreteria telefonica, **HostedVoicemail** deve essere impostato su $true.
 
-La proprietà **HostedVoicemail** dell'utente che utilizza Remote PowerShell (RPS).
+La **proprietà HostedVoicemail** nell'utente che usa Remote PowerShell (RPS).
 
-Per ulteriori informazioni sulla connessione a RPS, vedere [Microsoft teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) per ulteriori informazioni sulla connessione a RPS.
+Per ulteriori informazioni sulla connessione a RPS, vedere Microsoft Teams Panoramica di [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) per altre informazioni sulla connessione a RPS.
 
-1. È necessario che l'amministratore dei team sia connesso a Remote PowerShell per i team.
-1. Dal prompt di PowerShell l'amministratore dei team può eseguire **set-csuser user@contoso.com-HostedVoiceMail $true** in cui l'URI SIP è dell'utente in questione.
+1. L Teams Admin deve essere connesso a Remote PowerShell per Teams.
+1. Dal prompt di PowerShell l'amministratore Teams può eseguire **set-csuser user@contoso.com -HostedVoiceMail $true** in cui l'URI sip è dell'utente in questione.
 
 > [!NOTE]
-> Le modifiche apportate ai criteri possono richiedere fino a 24 ore per la replica.
+> La replica delle modifiche ai criteri può richiedere fino a 24 ore.

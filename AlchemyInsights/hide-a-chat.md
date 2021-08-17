@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003309"
 - "6203"
-ms.openlocfilehash: df17f479856689249209ffac491af894cf7c2771
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 3786dc516866c461fd904146c3c92e33d35c35a426b407d6b93d97fd11446ce9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49936238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055594"
 ---
 # <a name="hide-a-chat"></a>Nascondere una chat
 
-Non è possibile eliminare un'intera chat (o una conversazione), ma può essere nascosta. È inoltre possibile [eliminare un messaggio che è](https://support.office.com/client/delete-a-message-you-have-sent-67bd76a5-04e7-46ea-9ef0-5800865cb8f3) stato inviato.
+Non è possibile eliminare un'intera chat (o conversazione), ma è possibile nasconderne una. È inoltre [possibile eliminare un messaggio](https://support.office.com/client/delete-a-message-you-have-sent-67bd76a5-04e7-46ea-9ef0-5800865cb8f3) inviato.
 
 Per nascondere una chat:
 
-- Seleziona **chat** dal menu a sinistra.
-- Selezionare la chat che si desidera nascondere.
-- Selezionare i tre punti (**...**) accanto alla chat e quindi selezionare **Nascondi**.
+- Seleziona **Chat** dal menu a sinistra.
+- Seleziona la chat che vuoi nascondere.
+- Seleziona i tre puntini (**...**) accanto alla chat e quindi seleziona **Nascondi**.

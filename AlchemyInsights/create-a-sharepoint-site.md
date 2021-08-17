@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 5ebaa342ca9864bc31a9ef26eebcf42d96523871
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf9380727fff415357884a5122e633f2254337d3db50e2b8656d94938f76d394
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806943"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080894"
 ---
 # <a name="create-a-sharepoint-site"></a>Creare un sito di SharePoint
 
-Creare o gestire siti da [siti attivi](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) nell'interfaccia di amministrazione di SharePoint. Per altre informazioni, vedere [gestire i siti nella nuova interfaccia di amministrazione di SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation). 
+Creare o gestire siti [da Siti attivi](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) nell'SharePoint di amministrazione. Per altre info, vedi [Gestire i siti nella nuova SharePoint di amministrazione.](https://docs.microsoft.com/sharepoint/manage-site-creation) 
 
-## <a name="tips"></a>Consigli
+## <a name="tips"></a>Suggerimenti:
 
-- **Non è possibile** creare un sito con lo stesso URL di un sito esistente. Se si è eliminato un sito e si desidera riutilizzare l'URL, è possibile che il sito eliminato esista ancora in [siti eliminati](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Il sito dovrà essere eliminato definitivamente per riutilizzare l'URL. Per rimuovere completamente un sito con PowerShell, vedere l'esempio relativo al cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-- Alcuni utenti potrebbero non essere in grado di creare un sito. [Vedere gestire la creazione di siti in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- È possibile che il sito venga visualizzato bloccato durante la **creazione** di un periodo di tempo superiore a quello previsto. Se sono passate più di 24 ore da quando hai visto questo problema, registra un ticket di supporto. In molti casi, stiamo già lavorando a una soluzione. Per completare una soluzione, è possibile fornirci almeno 24 ore.
+- Non **è** possibile creare un sito con lo stesso URL di un sito esistente. Se è stato eliminato un sito e si desidera utilizzare di nuovo l'URL, è possibile che il sito eliminato esista ancora in [Siti eliminati](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Il sito dovrà essere eliminato definitivamente per utilizzare di nuovo l'URL. Per rimuovere completamente un sito con PowerShell, vedere l'esempio di cmdlet [Remove-SPSite.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Alcuni utenti potrebbero non essere in grado di creare un sito. [Vedere Gestire la creazione di siti in SharePoint Online.](https://docs.microsoft.com/sharepoint/manage-site-creation)
+- È possibile che il sito sia bloccato in Creazione **più** a lungo del previsto. Se sono trascorse più di 24 ore dalla prima volta che hai visto questo problema, registra un ticket di supporto. In molti casi, stiamo già lavorando a una soluzione. Fornire almeno 24 ore per completare una soluzione.
