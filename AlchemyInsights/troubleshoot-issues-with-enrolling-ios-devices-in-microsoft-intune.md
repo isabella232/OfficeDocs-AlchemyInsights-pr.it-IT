@@ -1,5 +1,5 @@
 ---
-title: Risolvere i problemi relativi alla registrazione dei dispositivi iOS in Microsoft Intune
+title: Risolvere i problemi relativi alla registrazione di dispositivi iOS in Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,14 +10,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047980"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Risolvere i problemi relativi alla registrazione dei dispositivi iOS in Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Risolvere i problemi relativi alla registrazione di dispositivi iOS in Microsoft Intune
 
 Esaminare le risorse elencate di seguito per risolvere il problema. 
   
@@ -27,7 +27,7 @@ Alcuni messaggi di errore comuni e passaggi di risoluzione:
     
 - **Questo servizio non è supportato. Nessun criterio di registrazione:** apple push notification service (APNS) deve essere configurato o rinnovato. Leggere [questo documento](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) per istruzioni su come eseguire questa operazione. 
     
-- **Tipo di licenza utente Non valido o Nome utente non riconosciuto:** All'utente deve essere assegnata una licenza di Intune o EMS. Esaminare questi documenti per assegnare una licenza tramite: [Interfaccia di amministrazione di Office](https://docs.microsoft.com/intune/licenses-assign) o portale di [Azure.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
+- **Tipo di licenza utente Non valido o Nome utente non riconosciuto:** All'utente deve essere assegnata una licenza di Intune o EMS. Esaminare questi documenti per assegnare una licenza tramite: [Office'interfaccia di amministrazione o](https://docs.microsoft.com/intune/licenses-assign) il [portale di Azure.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
 Risorse aggiuntive per risolvere il problema:
   
@@ -35,6 +35,6 @@ Risorse aggiuntive per risolvere il problema:
     
 2. Leggere questi documenti per un elenco di errori comuni che impediscono la registrazione e le risoluzioni: [Guida alla risoluzione dei problemi](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) e [Documento di risoluzione dei problemi](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
     
-3. [Scopri come registrare i dispositivi iOS in Microsoft Intune.](https://docs.microsoft.com/intune/ios-enroll)
+3. [Scopri come registrare i dispositivi iOS in Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
     
 
