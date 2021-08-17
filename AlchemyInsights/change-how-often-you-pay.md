@@ -17,16 +17,16 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 9b819fdb9ec80f6bbe9e329280de239a0517038c52ab157867f3065505acca90
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 888bac8b4ff8cf5c0ad7616cf4e87c0003e922ae89f9faf7872b94aba76f7027
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503800"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891571"
 ---
 # <a name="change-how-often-you-pay"></a>Modificare la frequenza di pagamento
 
-Per modificare la frequenza di fatturazione e pagamento di un abbonamento, completare la procedura seguente nella interfaccia di amministrazione di Microsoft 365.
+Per modificare la frequenza di fatturazione e pagamento di un abbonamento, eseguire la procedura seguente nella interfaccia di amministrazione di Microsoft 365.
 
 1. Vai alla **pagina Fatturazione** i  >  [tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054) prodotti.
 2. Nella scheda **Prodotti**, selezionare l'abbonamento che si vuole cambiare.
@@ -36,4 +36,4 @@ Per modificare la frequenza di fatturazione e pagamento di un abbonamento, compl
 > [!NOTE]
 > Le uniche opzioni sono la fatturazione mensile o annuale.
 
-Per altre informazioni, vedere [Cambiare la frequenza di fatturazione](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+Per altre informazioni, vedere [Cambiare la frequenza di fatturazione](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

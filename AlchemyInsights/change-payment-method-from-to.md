@@ -14,18 +14,18 @@ ms.custom:
 - commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: c793ed6b7281a558a7a4ce0aa1a3fa432ba4863c7c473e3ec47d980d67c28b7b
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0a160b0caba0098ce678872ae54df7b6ad69e78cba4eac85ac15567f2e75a8c7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503944"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891535"
 ---
 # <a name="change-payment-method-fromto"></a>Cambiare la modalità di pagamento da/a
 
 1. **Passare da fattura a carta di credito o conto corrente bancario**
 
-    - Non è possibile passare automaticamente dal pagamento tramite fattura a un metodo di pagamento diverso. È necessario invece [acquistare un altro abbonamento](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) con una carta di credito o debito o un conto corrente bancario, [spostare tutti gli utenti nel nuovo abbonamento](/microsoft-365/commerce/subscriptions/move-users-different-subscription), e infine [cancellare il vecchio abbonamento](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+    - Non è possibile passare automaticamente dal pagamento tramite fattura a un metodo di pagamento diverso. È necessario invece [acquistare un altro abbonamento](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) con una carta di credito o debito o un conto corrente bancario, [spostare tutti gli utenti nel nuovo abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription), e infine [cancellare il vecchio abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Passare da carta di credito o conto corrente bancario a fattura**
 
@@ -35,4 +35,4 @@ ms.locfileid: "54503944"
 
     - Seguire la procedura [Come si passa dalla carta di credito alla fattura per i pagamenti?](how-do-i-change-from-credit-card-payments-to-invoice.md) per completare la modifica manuale.
 
-Per altre informazioni, vedere [Come pagare l'abbonamento](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Per altre informazioni, vedere [Come pagare l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

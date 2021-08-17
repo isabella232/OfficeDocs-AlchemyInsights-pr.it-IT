@@ -1,5 +1,5 @@
 ---
-title: Ricerca di messaggi di posta elettronica nella cassetta postale di archiviazione
+title: Cercare la posta elettronica nella cassetta postale di archiviazione
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,16 +13,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 2c1284472c147d29f5d09fb7e7541bdcec9e8520
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f88aa25642ba29dbf0673cafe4efb66678a873974cad844ae12fc35287915f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727355"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109136"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Ricerca di messaggi di posta elettronica nella cassetta postale di archiviazione
+# <a name="search-for-email-in-the-archive-mailbox"></a>Cercare la posta elettronica nella cassetta postale di archiviazione
 
-Quando una cassetta postale di archiviazione è abilitata per Microsoft 365, è possibile utilizzare **eDiscovery Search and Export** per individuare il contenuto sia nella cassetta postale principale che in quella di archiviazione. Per informazioni sull'utilizzo di **eDiscovery Search Export** per trovare il contenuto, seguire la procedura descritta di [seguito](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Quando una cassetta postale di archiviazione è abilitata per Microsoft 365, è possibile utilizzare ricerca ed esportazione **di eDiscovery** per individuare il contenuto sia nella cassetta postale principale che nella cassetta postale di archiviazione. Per informazioni sull'utilizzo di **eDiscovery Search Export** per trovare tale contenuto, seguire la procedura descritta [qui.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
   
-È inoltre possibile conservare il contenuto aggiungendo la cassetta postale a un criterio di conservazione. In questo modo il contenuto verrà posizionato sia nella cassetta postale principale che in quella di archiviazione. Per ulteriori informazioni sulla creazione di criteri di conservazione per mantenere la posta elettronica, vedere la procedura descritta di [seguito](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+È inoltre possibile conservare tale contenuto aggiungendo la cassetta postale a un criterio di conservazione. Ciò inserirà il contenuto sia nella cassetta postale principale che nella cassetta postale di archiviazione in un blocco. Per ulteriori informazioni sulla creazione di criteri di conservazione per conservare la posta elettronica, vedere la procedura descritta [qui.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
   
