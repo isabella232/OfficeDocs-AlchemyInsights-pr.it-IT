@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 0f7ce9cb8054c6e0960aab334ad47123320a0cde
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 1aa60a3be051194e3816e909ba25a32e98463a2179e94844869cd97a564548a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49665577"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052642"
 ---
 # <a name="send-an-email-message-based-on-a-template"></a>Inviare un messaggio di posta elettronica basato su un modello
 
-Per utilizzare un modello di messaggio di posta elettronica in Outlook desktop, eseguire le operazioni seguenti:
+Per utilizzare un modello di messaggio di posta elettronica in Outlook Desktop, eseguire la procedura seguente:
 
-1. Seleziona **nuovi elementi**  >  **altri elementi**  >  **scegliere modulo**.
-2. Nella finestra di dialogo **Scegli modulo** , in **Cerca in** fare clic su **modelli utente in file System**.
-3. La cartella dei modelli predefinita è aperta. Il percorso della cartella (in Windows 7 e versioni successive) è **c:\users\username\appdata\roaming\microsoft\templates**. Se il modello viene salvato in una cartella diversa, fare clic su **Sfoglia** e quindi selezionare il modello.
-4. Selezionare il modello e quindi fare clic su **Apri**.
-5. Apportare le aggiunte o le revisioni ai destinatari nelle caselle **a**, **CC** o **Ccn** e le eventuali modifiche apportate all'oggetto e al corpo del messaggio.
+1. Selezionare **Nuovi elementi** Altri  >  **elementi** Scegliere  >  **modulo**.
+2. In **Cerca** **in** della finestra di dialogo Scegli modulo fare clic su **Modelli utente nel file system.**
+3. Viene aperta la cartella dei modelli predefiniti. Il percorso della cartella (in Windows 7 e sistemi operativi successivi) è **c:\users\username\appdata\roaming\microsoft\templates**. Se il modello viene salvato in una cartella diversa, fare clic **su Sfoglia** e quindi selezionare il modello.
+4. Selezionare il modello e quindi fare clic su **Apri.**
+5. Apportare eventuali aggiunte o revisioni ai destinatari nelle caselle **A**, **Cc** o **Ccn** e alle eventuali modifiche apportate all'oggetto e al corpo del messaggio.
     > [!NOTE]
-    > Le modifiche apportate non vengono salvate nel modello. Se si utilizza il comando **Save** , viene creata una bozza del messaggio, ma non si aggiorna il modello. Per aggiornare il modello, seguire la procedura per salvare un nuovo modello in [Crea un modello di messaggio di posta elettronica](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1).
+    > Le modifiche apportate non vengono salvate nel modello. Se si utilizza il **comando Salva,** verrà creata una bozza del messaggio, ma il modello non verrà aggiornato. Per aggiornare il modello, seguire i passaggi per il salvataggio di un nuovo modello in [Creare un modello di messaggio di posta elettronica](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1).
 6. Fare clic su **Invia**.

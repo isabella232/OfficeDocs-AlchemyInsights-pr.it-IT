@@ -1,5 +1,5 @@
 ---
-title: Modernizzare i siti di SharePoint
+title: Modernizzare i siti SharePoint siti
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 42b36e13af59c2323ab0db6107174f4b9d652e28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f0fdc6988ea693f6c0e012af719cdaca2f6fa13c888a5fb39e35387e1a820e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107840"
 ---
-# <a name="modernize-your-sharepoint-sites"></a>Modernizzare i siti di SharePoint
+# <a name="modernize-your-sharepoint-sites"></a>Modernizzare i siti SharePoint siti
 
-Per una panoramica dettagliata della modernizzazione dei siti di SharePoint classici all'esperienza moderna, vedere [modernizzare i siti di SharePoint classici](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Per una panoramica dettagliata della modernizzazione dei siti SharePoint classici all'esperienza moderna, vedere Modernizzare i siti SharePoint [classici.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
 
-* Per massimizzare l'utilizzo dell'interfaccia utente moderna per le pagine del sito e le pagine di elenchi e raccolte, vedere [modernizzare l'interfaccia utente](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
-* Per ulteriori informazioni su come sbloccare gli elenchi e le raccolte quando si utilizza l'interfaccia utente moderna, vedere [massimizzare l'utilizzo di elenchi e raccolte moderni](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-* Per ulteriori informazioni sulla connessione a un gruppo di Microsoft 365 e sull'esecuzione di una connessione a un gruppo, vedere [Connect to a microsoft 365 Group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* Per ottimizzare l'utilizzo dell'interfaccia utente moderna per le pagine del sito e le pagine elenco e raccolta, vedere [Modernizzare l'interfaccia utente.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)
+* Per ulteriori informazioni su come sbloccare elenchi e raccolte quando si utilizza l'interfaccia utente moderna, vedere Ottimizzare l'utilizzo di [elenchi e raccolte moderni.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+* Per ulteriori informazioni sulla connessione a un Microsoft 365 ed esecuzione di una connessione di gruppo, vedere Connessione [a un Microsoft 365 gruppo](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
 
-**Importante**: se si ritiene che la pagina sia già visualizzata nella visualizzazione moderna e non lo sia, consultare la pagina in questione, copiare l'URL e fornire l'URL come parte dei dettagli del ticket di supporto.
+**Importante:** se ritieni che la pagina sia già visualizzata in visualizzazione moderna e non lo è, passa alla pagina in questione, copia l'URL e fornisci l'URL come parte dei dettagli del ticket di supporto.

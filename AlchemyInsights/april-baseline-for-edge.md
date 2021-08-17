@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11139"
-ms.openlocfilehash: c578db2ccba7c6831d39b02d10afc50f00904755204866e45aa4eb2ec313a8e3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 74eb78786c45614679b97b0808f8f16171c6554ea94ab22c34f2c45766123662
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53980145"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57885983"
 ---
 # <a name="view-the-april-2020-baseline-for-microsoft-edge-versions-80-and-later"></a>Visualizzare la previsione di aprile 2020 per Microsoft Edge versioni 80 e successive
 
@@ -26,4 +26,4 @@ Microsoft Intune supporta le impostazioni di base per Microsoft Edge. I valori p
 
 Per informazioni sulle modifiche della previsione di aprile 2020, utilizzare la funzionalità Confronta previsioni, disponibile nel riquadro Versioni.
 
-Per ulteriori informazioni, [vedere Microsoft Edge baseline for April 2020 (Edge versions 80 and later)](/mem/intune/protect/security-baseline-settings-edge?pivots=edge-april-2020).
+Per ulteriori informazioni, vedere [Microsoft Edge baseline for April 2020 (Edge versions 80 and later)](https://docs.microsoft.com/mem/intune/protect/security-baseline-settings-edge?pivots=edge-april-2020).

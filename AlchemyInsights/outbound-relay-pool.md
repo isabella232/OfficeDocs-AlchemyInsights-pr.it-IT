@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041590"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883135"
 ---
 # <a name="outbound-relay-pool"></a>Pool di inoltro in uscita
 
-Microsoft sta apportando alcune modifiche alla configurazione per l'inoltro o l'inoltro della posta elettronica tramite Microsoft 365. I messaggi in determinati scenari vengono inoltrati o inoltrati tramite Microsoft 365 utilizzando uno speciale pool di inoltro. I messaggi inviati utilizzando il pool di inoltro potrebbero finire nella cartella posta indesiderata del destinatario. Per ulteriori informazioni, vedere [Outbound delivery pools](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+Microsoft apporta alcune modifiche alla configurazione per l'inoltro o l'inoltro della posta elettronica tramite Microsoft 365. I messaggi in determinati scenari vengono inoltrati o inoltrati tramite Microsoft 365 utilizzando uno speciale pool di inoltro. I messaggi inviati utilizzando il pool di inoltro potrebbero finire nella cartella posta indesiderata del destinatario. Per ulteriori informazioni, vedere [Outbound delivery pools](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
-Per evitare uno scenario che utilizza il pool di inoltro, verificare che i messaggi inoltrati/inoltrati soddisfino uno dei criteri seguenti:
+Per evitare uno scenario che utilizza il pool di inoltro, assicurarsi che i messaggi inoltrati/inoltrati soddisfino uno dei criteri seguenti:
 
 - Il mittente in uscita è un dominio accettato del tenant.
 - Sender Policy Framework (SPF) passa quando il messaggio Microsoft 365.
