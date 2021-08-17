@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: 8479c4af8833fc4f1dbc66ef3c59a4e24290b83c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 92930fb94da4280a1a5e8b3b7f77f42171a812ac99092f355df0f5481e3f3909
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813836"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079418"
 ---
 # <a name="enter-imap-port-numbers"></a>Immettere i numeri di porta IMAP
 
 Accedi tramite la schermata di configurazione avanzata e aggiungi i dettagli della porta dietro i due punti in linea con gli indirizzi del server in ingresso e in uscita. È possibile ottenere questi dettagli dal provider di servizi di posta elettronica. 
 
-Go to **Settings**  >  **Add Account**  >  **IMAP** > and click Show **advanced settings**; then enter your details. 
+Vai **a** Impostazioni Aggiungi account Imap > e fai clic  >    >   **su Mostra impostazioni avanzate** e quindi immetti i tuoi dettagli. 
 
 *Server posta in arrivo*: imap.servername.com:000 (in genere 993 o 143) 
 

@@ -1,5 +1,5 @@
 ---
-title: Non forzare l'aggiornamento. Come è possibile tornare alla versione precedente di Office?
+title: Non forzare l'aggiornamento. Come si torna alla versione Office precedente?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,17 +14,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: cc8084e08930f7ecea9676996419112106d42bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3ff997f7241ac5b266391f2b9f84b7edd691dc84ed641e77b091d33c5a3dbf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812011"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079598"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Non forzare l'aggiornamento. Come è possibile tornare alla versione precedente di Office?
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Non forzare l'aggiornamento. Come si torna alla versione Office precedente?
 
-Quando si apre un file di Office, è possibile che la versione di valutazione di un'app di Office venga aperta invece che in un'altra versione. Ciò avverrà se si ha la versione di valutazione di Microsoft 365.
+Quando si apre un file Office, potrebbe essere aperta la versione di valutazione di un app Office invece di un'altra versione. Ciò si verifica se si dispone della Microsoft 365 di valutazione.
   
-Quando si installa la versione di valutazione di Microsoft 365, vengono installate le versioni di valutazione 2016 delle app. Queste versioni di valutazione diventano l'impostazione predefinita per l'apertura dei file di Word, Excel e PowerPoint. Ad esempio, se si dispone di Excel 2013 installato ed è stata installata anche la versione di valutazione di Microsoft 365, la cartella di lavoro verrà aperta nella versioni di valutazione di Excel 2016.
+Quando installi la versione Microsoft 365 versione di valutazione, viene installata la versione di valutazione 2016 delle app. Queste versioni di valutazione diventano l'impostazione predefinita per l'apertura di file di Word, Excel e PowerPoint word. Se ad esempio è stata Excel 2013 e è stata installata anche la versione di valutazione di Microsoft 365, le cartelle di lavoro verranno aperte nella versione di valutazione di Excel 2016.
   
-In caso di problemi, è possibile [disinstallare](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) le app 2016 e utilizzare le versioni precedenti delle app già installate. In alternativa, è possibile [disinstallare](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) le versioni precedenti delle app e l'aggiornamento alle versioni più recenti incluse in Microsoft 365.
+Se si verifica questo [](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) problema, è possibile disinstallare le app 2016 e usare le versioni precedenti delle app già installate. In caso contrario, [puoi disinstallare](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) le versioni precedenti delle app e eseguire l'aggiornamento alle versioni più recenti incluse in Microsoft 365.
