@@ -1,5 +1,5 @@
 ---
-title: Ripristinare il OneDrive
+title: Ripristinare la OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801296"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109352"
 ---
-# <a name="restore-your-onedrive"></a>Ripristinare il OneDrive
+# <a name="restore-your-onedrive"></a>Ripristinare la OneDrive
 
-Se un numero elevato di file di OneDrive vengono eliminati, overwritted, danneggiati o infetti da malware, è possibile ripristinare l'intera OneDrive in una data precedente negli ultimi 30 giorni.
+Se molti dei file OneDrive vengono eliminati, sovrascritti, danneggiati o infettati da malware, è possibile ripristinare l'intero OneDrive a una data precedente negli ultimi 30 giorni.
   
-1. Accedere a OneDrive nel browser Web.
+1. Passare alla propria OneDrive nel Web browser.
     
-2. Fare clic sull'icona delle impostazioni in alto a destra, quindi selezionare **Ripristina il OneDrive**.
+2. Fare clic Impostazioni'icona a forma di OneDrive in alto a destra e **quindi selezionare Ripristina OneDrive**.
     
-3. Selezionare una data dall'elenco oppure scegliere **data e ora personalizzate**.
+3. Selezionare una data dall'elenco oppure scegliere **Data e ora personalizzate.**
     
-4. Fare clic su **Ripristina** per annullare tutte le attività dopo la data selezionata. 
+4. Fare **clic su** Ripristina per annullare tutte le attività dopo la data selezionata. 
     
-[Ulteriori informazioni sull'utilizzo dei file di ripristino](https://go.microsoft.com/fwlink/?linkid=872874)
+[Altre informazioni sull'uso di Ripristino file](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

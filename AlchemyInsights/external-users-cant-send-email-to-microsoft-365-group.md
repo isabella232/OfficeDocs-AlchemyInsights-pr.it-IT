@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6115"
 - "9003200"
-ms.openlocfilehash: 51fd4f0abb3b9842085d0de02267037f6782c605eef9fcd64580ab8ccb18b4d3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88890b757c7fc7b44d3f474cce5b8c79f7e78e07fb9e1572e1a27f8f17e36274
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53977481"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892655"
 ---
 # <a name="external-users-cant-send-email-to-microsoft-365-group"></a>Gli utenti esterni non possono inviare messaggi di posta elettronica al gruppo di Microsoft 365
 
@@ -30,4 +30,4 @@ Eseguire questa procedura per consentire agli utenti esterni di inviare messaggi
 4. Seleziona **Salva**.</br>
     L’aggiornamento delle impostazioni sarà visibile entro un’ora. 
 
-Se si stanno ancora riscontrando problemi nell'invio di e-mail a un gruppo di Microsoft 365, vedere [Individuare e risolvere i problemi di recapito della posta elettronica in quanto amministratore di Microsoft 365 for Business](/exchange/troubleshoot/email-delivery/email-delivery-issues).
+Se si stanno ancora riscontrando problemi nell'invio di e-mail a un gruppo di Microsoft 365, vedere [Individuare e risolvere i problemi di recapito della posta elettronica in quanto amministratore di Microsoft 365 for Business](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/email-delivery-issues).

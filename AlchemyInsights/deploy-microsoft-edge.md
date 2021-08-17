@@ -15,12 +15,12 @@ ms.custom:
 - "11088"
 - "9005291"
 - "9006490"
-ms.openlocfilehash: 1340a86087612ae052ad549dae2a2a2ddfea6df274190ed18cd37aeb7af2de54
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2324f120964695f7f641b8ecd701c3c1bef6bc4f62b82800d88f79cc54b945d5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948131"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893475"
 ---
 # <a name="deploy-microsoft-edge"></a>Distribuzione di Microsoft Edge
 
@@ -28,8 +28,8 @@ Dopo aver definito i criteri e aver terminato i test di compatibilità delle app
 
 Per la distribuzione di Microsoft Edge, sono disponibili gli strumenti seguenti:
 
-- [Microsoft Intune per Windows](/mem/intune/apps/apps-windows-edge) o [Microsoft Intune per macOS](/mem/intune/apps/apps-edge-macos)
-- [Configuration Manager](/DeployEdge/deploy-edge-with-configuration-manager)
+- [Microsoft Intune per Windows](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge) o [Microsoft Intune per macOS](https://docs.microsoft.com/mem/intune/apps/apps-edge-macos)
+- [Configuration Manager](https://docs.microsoft.com/DeployEdge/deploy-edge-with-configuration-manager)
 - Un altro strumento che usa il [file MSI per Microsoft Edge](https://www.microsoft.com/edge/business/download)
 
 **Convalidare la distribuzione**
