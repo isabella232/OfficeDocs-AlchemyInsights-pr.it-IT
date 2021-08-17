@@ -1,5 +1,5 @@
 ---
-title: Criteri di conservazione nell'interfaccia di amministrazione di Exchange non funzionanti
+title: Criteri di conservazione in Exchange'interfaccia di amministrazione non funziona
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074936"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Criteri di conservazione nell'interfaccia di amministrazione di Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Criteri di conservazione nell'Exchange di amministrazione
 
 Se si desidera eseguire controlli automatizzati per le impostazioni indicate di seguito, selezionare il pulsante Indietro <, nella parte superiore di questa pagina, quindi immettere l'indirizzo di posta elettronica dell'utente che ha problemi con i criteri di conservazione.
 
@@ -38,7 +38,7 @@ Se si verificano problemi con i criteri di conservazione nell'interfaccia di amm
  
 **Nota:** Se una cassetta postale è inferiore a 10 MB, l'Assistente cartelle gestite non eelaborare automaticamente la cassetta postale.
  
-Per altre info sui criteri di conservazione nell'interfaccia di amministrazione di Exchange, vedi:
+Per altre info sui criteri di conservazione nell'Exchange di amministrazione, vedi:
 
 - [Tag di conservazione e criteri di conservazione](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 

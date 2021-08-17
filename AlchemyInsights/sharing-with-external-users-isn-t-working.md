@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 53f6fd009d3dab3cd66d33d9cd248201219caa1605c7a4e7758a5a8d720f68c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 02d79c1b1e112eb41e8c60ffa2ef28e429f76ada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910370"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304373"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Risolvere i problemi di condivisione SharePoint contenuto con utenti esterni
 
@@ -37,7 +37,6 @@ Per un sito del team appartenente a un Microsoft 365 o a un sito di comunicazion
   
 - Questi nuovi tipi di siti hanno la stessa impostazione di condivisione dell'organizzazione, a meno che l'impostazione a livello di organizzazione non consenta la condivisione di file utilizzando collegamenti che non richiedono l'accesso. In questo caso, i siti consentono la condivisione con utenti esterni nuovi ed esistenti che effettuano l'accesso. Per modificare l'impostazione per siti specifici, usare la nuova interfaccia SharePoint o PowerShell. [Altre informazioni](https://go.microsoft.com/fwlink/?linkid=871863).
     
-> [!NOTE]
-> L'impostazione di condivisione esterna per qualsiasi sito può essere più restrittiva rispetto all'impostazione a livello di organizzazione, ma non più permissiva rispetto all'impostazione a livello di organizzazione. 
+**Nota:** l'impostazione di condivisione esterna per qualsiasi sito può essere più restrittiva rispetto all'impostazione a livello di organizzazione, ma non più permissiva rispetto all'impostazione a livello di organizzazione. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Archiviazione OneDrive
+title: OneDrive archiviazione
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,17 +15,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: a47d53ea985ca3809396bcd741d20cb8ed639b26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ef5fe2dfa6f223b3b87ba5018ece36e9f673566b840bb8b7a0ed700f7bc94a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754091"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075738"
 ---
-# <a name="manage-your-onedrive-storage"></a>Gestire lo spazio di archiviazione di OneDrive
+# <a name="manage-your-onedrive-storage"></a>Gestire l'OneDrive archiviazione
 
-È possibile gestire il OneDrive for business per vedere quanto spazio si sta utilizzando e liberare spazio.  Per ulteriori informazioni, visitare i collegamenti riportati di seguito.
+Puoi gestire il tuo OneDrive for Business per vedere quanto spazio stai usando e liberare spazio.  Per ulteriori informazioni, vedere i collegamenti seguenti.
 
-- [Gestire lo spazio di archiviazione di OneDrive for business](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
-- [Modificare lo spazio di archiviazione di OneDrive di un utente specifico](https://docs.microsoft.com/onedrive/change-user-storage)
+- [Gestire l'OneDrive for Business archiviazione](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Modificare lo spazio di archiviazione per il sito OneDrive di un utente specifico](https://docs.microsoft.com/onedrive/change-user-storage)
 - [Impostare lo spazio di archiviazione predefinito per gli utenti di OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space)

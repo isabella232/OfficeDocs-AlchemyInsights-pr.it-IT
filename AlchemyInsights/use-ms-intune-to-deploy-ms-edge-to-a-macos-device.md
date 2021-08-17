@@ -1,5 +1,5 @@
 ---
-title: Utilizzo di Microsoft Intune per distribuire Microsoft Edge in un dispositivo macOS
+title: Usare Microsoft Intune per distribuire Microsoft Edge in un dispositivo macOS
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003874"
 - "6927"
-ms.openlocfilehash: 4f367df110168260b0607e7747853767437adc37
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 5a1ddaf841111f4be79ee0e2235c54ced4b0d49efad0110cc609441db5b20800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104384"
 ---
-# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>Utilizzo di Microsoft Intune per distribuire Microsoft Edge in un dispositivo macOS
+# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>Usare Microsoft Intune per distribuire Microsoft Edge in un dispositivo macOS
 
-Per distribuire, configurare, monitorare e proteggere un'app in un dispositivo macOS, è necessario aggiungere l'app a Microsoft Intune. L'app deve essere di un tipo supportato da Intune e le opzioni di gestione disponibili in Intune dipendono dal tipo di app. L'utilizzo di Intune significa anche che non è necessario utilizzare lo strumento di spostamento dell'app macOS.
+Per distribuire, configurare, monitorare e proteggere un'app in un dispositivo macOS, devi aggiungere l'app a Microsoft Intune. L'app deve essere di un tipo supportato da Intune e le opzioni di gestione disponibili in Intune dipendono dal tipo dell'app. L'uso di Intune significa anche che non dovrai usare lo strumento di wrapping delle app macOS.
 
-Intune supporta Microsoft Edge. Per ulteriori informazioni, vedere [Add Microsoft Edge to MacOS devices using Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2134949).
+Intune supporta Microsoft Edge. Per altre informazioni, vedi [Aggiungere Microsoft Edge dispositivi macOS usando Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2134949).

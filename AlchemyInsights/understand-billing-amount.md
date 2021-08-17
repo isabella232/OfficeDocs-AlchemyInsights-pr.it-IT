@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919643"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304337"
 ---
 # <a name="understand-billing-amount"></a>Informazioni sugli importi della fatturazione
 
@@ -67,7 +67,9 @@ Confrontare l'importo totale di Azure Marketplace su Report > Riepilogo utilizzo
 - Accedere al **Portale Enterprise**. Selezionare **Report**
 - Nell'angolo superiore destro della scheda cambiare la visualizzazione da **M** a **C** e controllare la corrispondenza del periodo nella fattura
 - L'importo totale di **Azure Marketplace** deve corrispondere al **Totale vendita** nella fattura Marketplace
-- Per altre informazioni sugli addebiti in base all'utilizzo, passare a **Scarica utilizzo**. In **Addebiti Marketplace**, selezionare **Scarica** **Nota**: questo report non include le imposte o l'acquisto di una copia unica
+- Per altre informazioni sugli addebiti in base all'utilizzo, passare a **Scarica utilizzo**. In **Addebiti Marketplace** selezionare **Scarica** 
+
+**Nota**: questo report non include le imposte o l'acquisto di una copia unica
 
 **Microsoft Cloud Solution Provider (CSP)**
 
