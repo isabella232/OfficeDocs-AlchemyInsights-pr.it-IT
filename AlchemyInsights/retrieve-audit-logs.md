@@ -13,23 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "10964"
 - "3100005"
-ms.openlocfilehash: 0a7be6ca17ff9c1934cf09d7e660da295179553b30494c409c345c5e3b5c5fd8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6ca61775d18fb5501911fb3334ef499ff1f06a6b42634367eaf546fc322f822c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54074504"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889650"
 ---
 # <a name="retrieve-the-audit-logs"></a>Ottenere i log di controllo
 
 Quando si apre per la prima volta un log di controllo, questo è vuoto. È necessario effettuare una ricerca per analizzare il contenuto. Ecco come eseguire una ricerca generale per tutte le attività:
 
-1. Andare alla pagina di Ricerca log di audit (o Interfacce di amministrazione > **Centro conformità Microsoft 365** > **Ricerca e indagine** > **Ricerca log di audit**).
+1. Eseguire uno dei seguenti passaggi:
+   - Nel Centro conformità Microsoft 365 in <https://compliance.microsoft.com>, passare a **Soluzioni** \> **Audit**. In alternativa, per passare direttamente alla pagina **Audit**, usare <https://compliance.microsoft.com/auditlogsearch>.
+   - Nel portale di Microsoft 365 Defender in <https://security.microsoft.com>, passare ad **Audit**. In alternativa, per passare direttamente alla pagina **Audit**, usare <https://sip.security.microsoft.com/auditlogsearch>.
 
-1. Nella casella **Attività**, accettare **Mostra risultati per tutte le attività**, l'impostazione predefinita.
+2. Alla pagina **Audit**, verificare che la scheda **Cerca** sia selezionata e configurare le seguenti impostazioni:
+   - **Intervallo di data e ora**: selezionare l'intervallo di data/ora nelle caselle **Inizio** e **Fine**.
+   - **Attività**: verificare che **Mostra risultati per tutte le attività** sia selezionato.
+   - **Utenti**: accettare il valore predefinito vuoto per restituire i risultati di tutti gli utenti, oppure immettere uno o più utenti.
 
-1. Specificare l'intervallo di date e, nella casella **Utenti**, accettare l'impostazione predefinita per tornare ai risultati per tutti gli utenti, o scegliere il nome utente per l'utente su cui si desidera eseguire l'indagine.
+3. Una volta terminato, fare clic su **Cerca**. Le attività vengono visualizzate nella nuova pagina **Ricerca audit**.
 
-1. Selezionare **Cerca**. Le attività vengono visualizzate in **Risultati**.
+4. Nei risultati, fare clic su **Filtra risultati** e digitare **Set-Mailbox** nella casella filtro attività.
 
-1. Per visualizzare i dettagli, selezionare un'attività, quindi scegliere **Altre informazioni** per visualizzare altre informazioni quali Client, Utente che ha eseguito l'azione, ecc.
+5. Selezionare un record di audit nei risultati. Nel menu a comparsa **Dettagli**, fare clic su **Altre informazioni** per visualizzare altre informazioni quali Client, Utente che ha eseguito l'azione, ecc.
