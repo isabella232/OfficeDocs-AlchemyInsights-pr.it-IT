@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545272"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038809"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Risoluzione dei problemi di Microsoft Defender per Office 365
 
-- **Si nota un ritardo nel recapito dei messaggi?** Usa [l'opzione Recapito](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) dinamico in Microsoft Defender per Office 365 allegati sicuri. Ciò consente di evitare ritardi nei messaggi proteggendo i destinatari da file dannosi.
+- **Si nota un ritardo nel recapito dei messaggi?** Usa [l'opzione Recapito](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) dinamico nel criterio Microsoft Defender per Office 365 Cassaforte allegati. Ciò consente di evitare ritardi nei messaggi proteggendo i destinatari da file dannosi.
 
 - **Si desidera segnalare falsi positivi o falsi negativi a Microsoft?** Usa [Esplora invii](https://protection.office.com/reportsubmission).
 
--** Si è verificato che è possibile abilitare la protezione dei collegamenti sicuri per la posta elettronica interna inviata tra destinatari all'interno dell'organizzazione?** Eseguire la procedura seguente:
+-** Si è verificato che è possibile abilitare la protezione dei collegamenti Cassaforte per la posta elettronica interna inviata tra i destinatari all'interno dell'organizzazione?** Attenersi alla seguente procedura:
 
   1. Accedere a [https://protection.office.com](https://protection.office.com) e accedere con un account amministratore globale o amministratore della sicurezza.
 
-  2. Nel riquadro di spostamento a sinistra in **Gestione delle minacce** scegliere Collegamenti **sicuri** per i \> **criteri.**
+  2. Nel riquadro di spostamento sinistro in **Gestione delle minacce** scegliere Criteri Cassaforte  \> **collegamenti**.
 
   3. Nella sezione **Criteri applicabili all'intera organizzazione** selezionare il criterio e fare clic su **Modifica.**
 

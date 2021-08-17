@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103556"
 ---
 # <a name="block-user-made-email-signatures"></a>Bloccare le firme di posta elettronica effettuate dall'utente
 
-La soluzione seguente si applica solo alle firme di posta elettronica create in Outlook sul Web. È possibile bloccare le firme nell'app Outlook solo se si dispone di un Exchange Server locale.
+La soluzione seguente si applica solo alle firme di posta elettronica create in Outlook sul web. Puoi bloccare le firme nell'app Outlook solo se hai un'app locale Exchange Server.
 
-1. Nell'interfaccia di amministrazione scegliere **Interfaccia di amministrazione di**  >  **Exchange.**
-2. Fare clic **su Autorizzazioni** criteri di Outlook  >  **Web App.**
-3. Selezionare il criterio e quindi fare clic sull'icona della matita per modificarlo.
+1. Nell'interfaccia di amministrazione scegliere **Interfaccia di amministrazione**  >  **Exchange**.
+2. Fare **clic su** autorizzazioni Outlook Web App  >  **criteri.**
+3. Selezionare il criterio e quindi fare clic sull'icona a forma di matita per modificarlo.
 4. Fare clic **su funzionalità**  >  **Altre opzioni.**
 5. In **Esperienza utente** deselezionare la casella di controllo Firma **di** posta elettronica e quindi fare clic su **Salva.**
 
-**Importante:** Se una firma è stata aggiunta prima di deselezionare questa casella di controllo, l'utente potrà comunque utilizzarla. Chiedere loro di rimuoverlo.
+**Importante:** Se è stata aggiunta una firma prima di deselezionare questa casella di controllo, l'utente potrà comunque utilizzarla. Chiedere loro di rimuoverlo.

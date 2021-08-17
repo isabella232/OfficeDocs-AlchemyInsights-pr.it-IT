@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2693"
-ms.openlocfilehash: 6febce6559b697261c1a8dc3d72a39df2fb80652
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8e1c292a415794c65cf6efa1f5f335be627759db64a6aa7b4918f05436502fd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827328"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073568"
 ---
 # <a name="upgrade-from-skype-for-business-online-to-teams"></a>Passare da Skype for Business Online a Teams  
 
-Segui le indicazioni nell'articolo seguente se hai distribuito Skype for Business online e vuoi aggiornare gli utenti da Skype for Business a Teams. È possibile aggiornare gli utenti in fasi o tutti contemporaneamente, in base al percorso di aggiornamento scelto dall'organizzazione, assegnando agli utenti la modalità di coesistenza e aggiornamento appropriata.
+Seguire le indicazioni dell'articolo seguente se è stato distribuito Skype for Business Online e si desidera aggiornare gli utenti da Skype for Business a Teams. È possibile aggiornare gli utenti in fasi o tutti contemporaneamente, in base al percorso di aggiornamento scelto dall'organizzazione, assegnando agli utenti la modalità di coesistenza e aggiornamento appropriata.
 
 [Eseguire l'aggiornamento da Skype for Business Online a Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 

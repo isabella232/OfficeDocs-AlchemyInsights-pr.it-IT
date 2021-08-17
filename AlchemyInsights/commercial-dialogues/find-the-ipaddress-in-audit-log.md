@@ -13,24 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017136"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303581"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Trovare l'indirizzo IP nel registro di controllo
 
-1. L'indirizzo IP corrispondente a un'attività eseguita da un utente o da un amministratore viene visualizzato nei registri di controllo. Vengono registrate anche le informazioni sul client. Ecco come identificare l'indirizzo IP:
+L'indirizzo IP corrispondente a un'attività eseguita da un utente o da un amministratore viene visualizzato nei registri di controllo. Vengono registrate anche le informazioni sul client. Ecco come identificare l'indirizzo IP:
 
-1. Passare al Centro [Office 365 sicurezza & conformità](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Selezionare **Ricerca**  >  **[log di controllo ricerca](https://go.microsoft.com/fwlink/?linkid=2103759)**.
-    > [!NOTE]
-    > Se viene visualizzato un avviso che indica che è necessario attivare il controllo, procedere e attivarlo ora. Se questa funzionalità non è abilitata, i risultati della ricerca non saranno in grado di estrarre i dati dalle date precedenti.
-1. Se si è interessati a un'attività specifica, selezionarla **nell'elenco** Attività. in caso contrario, per impostazione predefinita, verranno restituite tutte le attività per l'utente selezionato. Si noti che alcune attività potrebbero non essere disponibili per la selezione **dal** menu Attività. Tuttavia, tali elementi di controllo verranno restituiti se **è selezionata l'opzione** Mostra risultati per tutte le attività (impostazione predefinita).
-1. Specificare l'intervallo di date e nel **campo Utenti** selezionare il nome utente dell'utente che si desidera analizzare.
-1. Selezionare **Cerca**. Le attività vengono visualizzate in **Risultati**. È possibile visualizzare l'indirizzo IP per ogni attività.
-1. Per visualizzare i dettagli, selezionare un'attività e quindi **selezionare Altre informazioni.**
+1. Eseguire una delle operazioni seguenti:
+   - Nel Centro conformità Microsoft 365 in <https://compliance.microsoft.com>, passare a **Soluzioni** \> **Audit**. In alternativa, per passare direttamente alla pagina **Audit**, usare <https://compliance.microsoft.com/auditlogsearch>.
+   - Nel portale di Microsoft 365 Defender in <https://security.microsoft.com>, passare ad **Audit**. In alternativa, per passare direttamente alla pagina **Audit**, usare <https://security.microsoft.com/auditlogsearch>.
 
-Per ulteriori informazioni, vedere Search the [Office 365 audit log to troubleshoot common scenarios.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    **Nota:** se viene visualizzato un avviso che indica che è necessario attivare il controllo, procedere e attivarlo ora. Se questa funzionalità non è abilitata, i risultati della ricerca non saranno in grado di estrarre i dati dalle date precedenti.
+
+2. Alla pagina **Audit**, verificare che la scheda **Cerca** sia selezionata e configurare le seguenti impostazioni:
+   - **Intervallo di data e ora**: selezionare l'intervallo di data/ora nelle caselle **Inizio** e **Fine**.
+   - **Attività:** se si è interessati a un'attività specifica, selezionarla nell'elenco. in caso contrario, verrà **restituito il valore** predefinito Mostra risultati per tutte le attività. Si noti che alcune attività potrebbero non essere disponibili per la selezione. Tuttavia, tali elementi di controllo verranno restituiti se **è selezionata l'opzione** Mostra risultati per tutte le attività.
+   - **Utenti**: accettare il valore predefinito vuoto per restituire i risultati di tutti gli utenti, oppure immettere uno o più utenti.
+
+3. Una volta terminato, fare clic su **Cerca**. Le attività vengono visualizzate nella nuova pagina **Ricerca audit**.
+
+4. Nei risultati, fare clic su **Filtra risultati** e digitare **Set-Mailbox** nella casella filtro attività.
+
+5. Selezionare un record di controllo nei risultati per aprire il **riquadro a comparsa** Dettagli.
+
+Per ulteriori informazioni, vedere [Search the audit log to investigate common support issues](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios).
