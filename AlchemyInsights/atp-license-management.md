@@ -15,16 +15,16 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5782"
-ms.openlocfilehash: 3ade6182d814f99625978c7e14678e67e6b57260
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 515263d56b147f0f0e0f47b779394f5bec50df89ab1ea93fc1042384270a2ba3
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313892"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894599"
 ---
 # <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender per la Office 365 licenze
 
-Microsoft Defender per Office 365 gestione delle licenze può essere completata nella interfaccia di amministrazione di Microsoft 365.
+Microsoft Defender per Office 365 la gestione delle licenze può essere completata nella interfaccia di amministrazione di Microsoft 365.
 
 - Per acquistare Microsoft Defender per Office 365:
     1. Vai a **Fatturazione**  >  [Acquisto servizi](https://go.microsoft.com/fwlink/p/?linkid=868433).
