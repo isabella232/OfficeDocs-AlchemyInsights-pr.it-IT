@@ -8,15 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: f30b2f7d237158ae58d6a76676ca4c40d95ef3b3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 05fb353dd7bda97b88d4ccfdf2ae708b4401ab862a8e8f4e4d0246b75011cad0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544546"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894279"
 ---
 # <a name="fix-0x8004de40-error-in-onedrive"></a>Correggere 0x8004de40 errore in OneDrive
 
 Codice di 0x8004de40 potrebbe significare OneDrive problemi di connessione al cloud. 
 
-Per ulteriori informazioni, vedere [Error Code: 0x8004de40 when signing in to OneDrive](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)
+Per ulteriori informazioni, vedere [Error Code: 0x8004de40 when signing in to OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)

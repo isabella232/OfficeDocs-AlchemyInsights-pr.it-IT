@@ -13,20 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f07fa4a64fb64233f88cfbf0a681d6f2ab586c88
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53951677"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313928"
 ---
 # <a name="app-permission-policies"></a>Criteri di autorizzazione app
 
-Con [i criteri di autorizzazione dell'app](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)puoi eseguire le operazioni seguenti:
+Con [i criteri di autorizzazione app](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)puoi eseguire le operazioni seguenti:
 - Gli amministratori possono gestire i criteri di configurazione delle app [nell'Microsoft Teams di amministrazione.](https://admin.teams.microsoft.com/policies/app-permission)
 - Controlla quali app sono disponibili per Microsoft Teams utenti dell'organizzazione usando criteri globali o crea e assegna criteri personalizzati per personalizzare e controllare l'accesso degli utenti alle app. [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) 
-> [!NOTE]
-> Le impostazioni dell'app a livello di organizzazione sostituiscono i criteri globali e gli eventuali criteri personalizzati creati e assegnati agli utenti.
+**Nota:** le impostazioni dell'app a livello di organizzazione sostituiscono i criteri globali e gli eventuali criteri personalizzati creati e assegnati agli utenti.
 - Puoi usare i [criteri di configurazione delle app](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) per personalizzare Microsoft Teams per evidenziare le app più importanti per gli utenti. 
 
 

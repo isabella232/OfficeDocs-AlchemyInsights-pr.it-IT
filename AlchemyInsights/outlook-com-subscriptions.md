@@ -1,5 +1,5 @@
 ---
-title: 9000215 Outlook.com abbonamenti
+title: 9000215 Outlook.com Subscriptions
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 758359c9c5907f2167666e9755a59dedee764a95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 584138b667f56053254b9aa5cdea764c041ecc4584aaaee683107f21b14d61e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111296"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Abbonamenti e annullamento della sottoscrizione
+# <a name="subscriptions-and-unsubscribing"></a>Sottoscrizioni e annullamento della sottoscrizione
 
-Se si desidera interrompere la ricezione di newsletter o promozioni, è possibile annullare la sottoscrizione a Outlook.com:
+Se vuoi interrompere la ricezione di newsletter o promozioni, puoi annullare la sottoscrizione in Outlook.com in due modi:
 
-1. Nella posta in arrivo, seleziona una newsletter o un messaggio di posta elettronica promozionale. Nella parte superiore del riquadro di lettura selezionare **Annulla sottoscrizione**.
-2. Aprire le [impostazioni delle sottoscrizioni di Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Impostazioni**  >  **Visualizza tutte**le  >  sottoscrizioni di**posta elettronica**delle impostazioni di Outlook  >  **Subscriptions**) e selezionare **Annulla sottoscrizione**.
+1. Nella posta in arrivo seleziona una newsletter o un messaggio di posta elettronica promozionale. Nella parte superiore del riquadro di lettura selezionare **Annulla sottoscrizione.**
+2. Apri le impostazioni [delle sottoscrizioni Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Impostazioni** Visualizza tutte le Outlook  >    >  **e-mail**  >  **sottoscrizioni**) e seleziona Annulla sottoscrizione .
 
 Note:
 
-- Non tutti i clienti possono usufruire di questa funzionalità al momento.
-- Questa funzionalità viene visualizzata solo se è stato ricevuto un messaggio di posta elettronica dalla società che invia la posta elettronica sottoscritta.
+- Non tutti i clienti possono trarre vantaggio da questa funzionalità al momento.
+- Questa funzionalità verrà visualizzata solo se si riceve un messaggio di posta elettronica dalla società che invia un messaggio di posta elettronica sottoscritto.

@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948959"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894399"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Analizzare phishing, posta indesiderata o posta elettronica filtrata in modo errato
 
 Usa Esplora invio per inviare il messaggio a Microsoft. Si otterrà un feedback immediato sul filtro messaggi e sul motivo per cui si è verificato il problema. Ecco un riepilogo dei passaggi:
 
-1. Vai al Centro [Office 365 sicurezza &](https://go.microsoft.com/fwlink/p/?linkid=2077143)conformità, seleziona **Invii** di gestione delle minacce e quindi  >   **seleziona +Nuovo invio.**
-2. Specifica i dettagli nel riquadro a **comparsa Nuovo** invio.
-3. Informare gli utenti che devono segnalare messaggi [](https://go.microsoft.com/fwlink/?linkid=2092385) di posta elettronica sospetti a Microsoft e che il componente aggiuntivo Segnala messaggio è lo strumento che devono utilizzare per questo scopo.
+1. Nel portale Microsoft 365 Defender, passare a Invia tramite posta <https://security.microsoft.com> **elettronica &** \> **collaborazione Invii.**
+
+   Per passare direttamente alla **pagina Invii,** usa <https://security.microsoft.com/reportsubmission> .
+
+2. Nella pagina **Invii** verificare che la scheda **Inviato per** l'analisi sia selezionata e quindi fare clic su **+ Invia a Microsoft per l'analisi.**
+
+3. Verrà visualizzato un riquadro a comparsa con l'opzione per inviare un messaggio di posta elettronica, un URL o un file. Per ulteriori informazioni, vedere [Use Admin Submission to submit suspected spam, phish, URLs, and files to Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission).
+
+4. Informare gli utenti che devono segnalare eventuali messaggi sospetti nella posta in arrivo utilizzando il componente aggiuntivo Segnala messaggio o Segnala [phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).

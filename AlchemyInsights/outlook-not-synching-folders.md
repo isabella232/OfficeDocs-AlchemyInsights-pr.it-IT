@@ -1,5 +1,5 @@
 ---
-title: Cartelle di sincronizzazione di Outlook
+title: Outlook cartelle non sincronizzate
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: cc4d109ae4b6b579284aa5b3876d17d38f0230fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ac814286496a946866fbd36268ec63b7904e8f15124e2909a134805fc615a7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111224"
 ---
-# <a name="outlook-not-synching-folders"></a>Cartelle di sincronizzazione di Outlook
+# <a name="outlook-not-synching-folders"></a>Outlook cartelle non sincronizzate
 
-Se Outlook non esegue la sincronizzazione delle cartelle come previsto, è possibile provare a risolvere il problema.
+Se Outlook cartelle non vengono sincronizzate come previsto, è possibile provare a correggerlo.
 
-1. Ridurre il numero di cartelle nella cassetta postale principale o condivisa. [Vedere problemi delle prestazioni di Outlook quando sono presenti troppi elementi o cartelle in una cartella di file con estensione ost o PST in modalità cache](https://support.microsoft.com/help/2768656).
+1. Ridurre il numero di cartelle nella cassetta postale principale o condivisa. Vedere Outlook problemi di prestazioni quando sono presenti troppi elementi o cartelle in una cartella di file ost o [pst in modalità cache.](https://support.microsoft.com/help/2768656)
 2. Disabilitare la memorizzazione nella cache di tutte le cartelle condivise.
-3. Modificare la configurazione della cassetta postale di Exchange secondaria in un secondo account di Exchange nel profilo.
+3. Modificare la configurazione della cassetta postale Exchange secondario in un secondo account Exchange nel profilo.
 
-Per ulteriori informazioni, vedere [problemi relativi alle prestazioni e alla sincronizzazione quando si lavora con le cartelle in una cassetta postale secondaria in Outlook](https://support.microsoft.com/help/3115602).
+Per ulteriori informazioni, vedere Problemi relativi alle prestazioni e alla [sincronizzazione](https://support.microsoft.com/help/3115602)quando si lavora con le cartelle in una cassetta postale secondaria in Outlook .

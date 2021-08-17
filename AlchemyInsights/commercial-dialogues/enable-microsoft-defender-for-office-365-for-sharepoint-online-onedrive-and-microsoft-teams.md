@@ -1,5 +1,5 @@
 ---
-title: Abilitare Microsoft Defender per Office 365 per SharePoint Online, OneDrive e Microsoft Teams
+title: Abilitare Cassaforte allegati per SharePoint Online, OneDrive e Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058870"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894467"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Abilitare Microsoft Defender per Office 365 per SharePoint Online, OneDrive e Microsoft Teams
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Abilitare Cassaforte allegati per SharePoint Online, OneDrive e Microsoft Teams
 
-1. Usando le credenziali di amministratore globale o amministratore della sicurezza, accedere al Centro sicurezza e conformità Office 365 sicurezza e [conformità.](https://protection.office.com/)
-2. Selezionare **Gestione delle minacce** nel riquadro sinistro e quindi selezionare Criteri Cassaforte   >  [allegati](https://protection.office.com/safeattachment).
-3. Seleziona **Attiva Microsoft Defender per Office 365 per SharePoint, OneDrive e Microsoft Teams** e quindi seleziona **Salva.**
+1. Usando le credenziali di amministratore globale o amministratore della sicurezza, aprire il portale di Microsoft 365 Defender all'indirizzo e quindi passare a Criteri & regole Criteri di Cassaforte Allegati nella sezione <https://security.microsoft.com>  \>  \>  Criteri 
+
+   Per passare direttamente alla pagina **Cassaforte allegati,** utilizzare <https://security.microsoft.com/safeattachmentv2> .
+
+2. Nella pagina **Cassaforte allegati** fare clic su **Impostazioni globali.**
+3. Nel riquadro a comparsa visualizzato seleziona Attiva **Microsoft Defender per Office 365 per SharePoint, OneDrive** e Microsoft Teams e quindi seleziona **Salva.**
+
     > [!TIP]
     >
-    > - Come amministratore globale o amministratore di SharePoint Online, eseguire il cmdlet PowerShell seguente con il parametro **DisallowInfectedFileDownload** impostato su *true*: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [Configurare gli avvisi per i file rilevati](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > Eseguire la procedura seguente per migliorare la protezione degli Cassaforte allegati per SharePoint, OneDrive e Microsoft Teams:
+    >
+    > - Per impedire agli utenti di scaricare file dannosi, utilizzare il valore del parametro `$true` *DisallowInfectedFileDownload* nel cmdlet **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** in SharePoint PowerShell online. Per ulteriori informazioni, vedere [Use SharePoint Online PowerShell to prevent users from downloading malicious files](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files).
+    > - [Creare un criterio di avviso per i file rilevati](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-Per altre informazioni, vedi [Microsoft Defender per Office 365 per SharePoint, OneDrive e Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041).
+Per ulteriori informazioni, vedere [Cassaforte allegati per Office 365 per SharePoint, OneDrive e Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041).

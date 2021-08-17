@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889386"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314316"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Attivare o riattivare una sottoscrizione
 
@@ -36,8 +36,9 @@ Se l'abbonamento scade, è stato disabilitato da Microsoft o è stato annullato 
 1. Nell'interfaccia di amministrazione, passare alla pagina **Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Nella scheda **Prodotti** trovare l'abbonamento da riattivare.
 3. Selezionare i tre puntini (Altre azioni) e quindi selezionare **Riattiva l'abbonamento**.
-    > [!IMPORTANT]
-    > Se l'opzione **Riattiva** questa sottoscrizione non è disponibile, chiamare il [supporto](https://go.microsoft.com/fwlink/p/?linkid=518322) per riattivare l'abbonamento.
+
+    **Importante:** se l'azione **Riattiva** questa sottoscrizione non è disponibile, chiamare il [supporto](https://go.microsoft.com/fwlink/p/?linkid=518322) per riattivare l'abbonamento.
+
 4. Nel riquadro **Riattiva questa sottoscrizione** selezionare una modalità di pagamento esistente o selezionare **Aggiungi metodo di pagamento.**
 5. Selezionare **Riattiva**.
 

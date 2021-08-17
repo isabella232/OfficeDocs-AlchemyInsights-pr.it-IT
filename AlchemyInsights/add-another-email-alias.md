@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 3009984f0582453cd9d37ee8240efcf71f93383c0cee7b7a26a629a963ba0091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b50f9c8d64a77865f03357fd3442c8d367b6e96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53936349"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314072"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Creare o aggiungere un alias di posta elettronica per un utente
 
 Si deve creare un alias di posta elettronica per un utente o aggiungere un indirizzo di posta elettronica supplementare? Seguire questa procedura.
   
-1. Nella finestra interfaccia di amministrazione di Microsoft 365 passare alla [pagina Utenti](https://go.microsoft.com/fwlink/p/?linkid=834822) o scegliere **Utenti**  >  **utenti attivi**.
+1. Nel interfaccia di amministrazione di Microsoft 365 passare alla pagina [Utenti](https://go.microsoft.com/fwlink/p/?linkid=834822) o scegliere **Utenti**  >  **utenti attivi**.
     
 2. Nella pagina **Utenti attivi** selezionare il nome della persona da modificare. 
     
@@ -31,7 +31,7 @@ Si deve creare un alias di posta elettronica per un utente o aggiungere un indir
     
 4. Nella casella **Alias** digitare un nuovo indirizzo di posta elettronica e quindi scegliere **Aggiungi**. Se l'abbonamento è stato acquistato presso GoDaddy o un altro partner, per impostare il nuovo alias come principale è necessario accedere alla console di gestione di GoDaddy o del partner. 
     
-    **IMPORTANTE:** se viene visualizzato il messaggio di errore " Non è possibile trovare un parametro corrispondente al nome del parametro **"EmailAddresses",** significa che Microsoft sta richiedendo un po' di più per completare la configurazione del tenant o del dominio personalizzato se ne è stato aggiunto uno di recente. Per completare la configurazione possono essere necessarie fino a 4 ore. Attendere il tempo necessario per il completamento della procedura e quindi riprovare. Se il problema persiste, contattare il supporto, che provvederà a eseguire una sincronizzazione completa.
+    **Importante:** se viene visualizzato il messaggio di errore " Non è possibile trovare un parametro corrispondente al nome del parametro **"EmailAddresses",** significa che Microsoft sta richiedendo un po' di più per completare la configurazione del tenant o del dominio personalizzato se ne è stato aggiunto uno di recente. Per completare la configurazione possono essere necessarie fino a 4 ore. Attendere il tempo necessario per il completamento della procedura e quindi riprovare. Se il problema persiste, contattare il supporto, che provvederà a eseguire una sincronizzazione completa.
     
     In genere l'applicazione del nuovo alias richiede circa 30 minuti.
     
