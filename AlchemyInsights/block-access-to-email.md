@@ -1,5 +1,5 @@
 ---
-title: Blocca l'accesso alla posta elettronica
+title: Bloccare l'accesso alla posta elettronica
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003890"
 - "6944"
-ms.openlocfilehash: 06079800fee6ce3fb47a1e56c9f4429805d061e2
-ms.sourcegitcommit: 72536a4cf4b84235d3a16ffdd428a92f38dd5e87
+ms.openlocfilehash: 851fc0dea7adf9d5befcf29c3d0e34943e322fcdd35d32c22fd7d2c49a7eed0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49676566"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060032"
 ---
-# <a name="block-access-to-email"></a>Blocca l'accesso alla posta elettronica
+# <a name="block-access-to-email"></a>Bloccare l'accesso alla posta elettronica
 
-Per bloccare gli ex dipendenti dall'accesso ai propri account di posta elettronica in Microsoft 365, attenersi alla seguente procedura:
+Per impedire agli ex dipendenti di accedere ai propri account di posta elettronica Microsoft 365, attenersi alla seguente procedura:
 
 1. Accedere all'[interfaccia di amministrazione di Exchange](https://go.microsoft.com/fwlink/?linkid=2138629).
-1. In **destinatari** fare clic su **cassette postali**.
-1. Fare doppio clic sul nome visualizzato dell'utente e quindi fare clic su **funzionalità cassette postali**.
-1. In **dispositivi mobili**, selezionare **Disattiva Exchange ActiveSync** e rispondere **Sì**, quindi selezionare **Disabilita OWA per i dispositivi** e Rispondi **Sì**.
-1. In **connettività posta elettronica**, selezionare **Disattiva** e Rispondi **Sì**.
+1. In **Destinatari** fare clic su **Cassette postali.**
+1. Fare doppio clic sul nome visualizzato dell'utente e quindi su Funzionalità **cassetta postale**.
+1. In **Dispositivi mobili** seleziona **Disabilita** Exchange ActiveSync e rispondi **Sì,** quindi seleziona Disabilita OWA **dispositivi** e rispondi **Sì.**
+1. In **Connettività posta** elettronica selezionare **Disabilita** e rispondi **Sì.**
 1. Fare clic su **Salva**.

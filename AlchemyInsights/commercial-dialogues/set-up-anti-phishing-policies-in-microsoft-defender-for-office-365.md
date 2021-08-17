@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966797"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313431"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Configurare i criteri anti-phishing in Microsoft Defender per Office 365
 
-1. Passare al Centro [Office 365 sicurezza & conformità](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Selezionare **Criteri di gestione delle**  >  **minacce**. Nella pagina **Criteri** selezionare [Microsoft Defender per Office 365 anti-phishing](https://go.microsoft.com/fwlink/?linkid=2101369).
-3. Nella pagina **Anti-phishing** eseguire una delle operazioni seguenti:
-    1. Per aggiungere un nuovo criterio, selezionare **+ Crea**.
-    1. Per modificare un criterio esistente, selezionare il nome del criterio nell'elenco visualizzato nella **pagina Anti-phishing.** Nella pagina visualizzata selezionare **Modifica** accanto all'impostazione che si desidera modificare. Verrà avviata una procedura guidata per definire i criteri anti-phishing.
-4. Se si sta creando un nuovo criterio, specificare il nome, la descrizione e le impostazioni per il criterio.
-5. Dopo aver esaminato le impostazioni, selezionare **Crea questo criterio** o **Salva**, come appropriato.
+1. Nel portale Microsoft 365 Defender posta elettronica all'indirizzo , passare a Criteri di collaborazione & posta elettronica & regole Criteri di minaccia <https://security.microsoft.com/>  \>  \>  \> **Anti-phishing** nella **sezione** Criteri.
+
+   Per passare direttamente alla pagina **Anti-phishing,** utilizzare <https://security.microsoft.com/antiphishing> .
+
+2. Nella pagina **Anti-phishing** eseguire una delle operazioni seguenti:
+   - Per aggiungere un nuovo criterio, selezionare **+ Crea**. Verrà avviata una procedura guidata per definire le impostazioni dei criteri.
+   - Per modificare un criterio esistente, selezionarlo facendo clic sul nome del criterio. Nel riquadro a comparsa dei dettagli visualizzato selezionare **Modifica** nella sezione contenente le impostazioni che si desidera configurare.
+
+3. Dopo aver esaminato le impostazioni, selezionare **Invia** (nuovo) o **Salva** (modifica).
+
+Per ulteriori informazioni, vedere [Configure anti-phishing policies in Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies).

@@ -13,12 +13,12 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891683"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312691"
 ---
 # <a name="alert-policies"></a>Criteri di avviso
 
@@ -31,9 +31,9 @@ Microsoft 365 contiene i [](https://docs.microsoft.com/microsoft-365/compliance/
 
 Per esaminare e agire su un avviso:
 
-1. Esegui uno dei seguenti passaggi:
+1. Eseguire uno dei seguenti passaggi:
    - Nell'Centro conformità Microsoft 365 <https://compliance.microsoft.com> in , passare a **Avvisi**. In caso contrario, per passare direttamente alla **pagina Avvisi,** utilizzare <https://compliance.microsoft.com/compliancealerts> .
-   - Nel portale Microsoft 365 Defender <https://security.microsoft.com> , passare a Eventi **imprevisti &** \> **avvisi**. In caso contrario, per passare direttamente alla **pagina Avvisi,** utilizzare <https://security.microsoft.com/alerts> .
+   - Nel portale Microsoft 365 Defender , passare a Eventi imprevisti <https://security.microsoft.com> **&** \> **avvisi**. In caso contrario, per passare direttamente alla **pagina Avvisi,** utilizzare <https://security.microsoft.com/alerts> .
 2. Fare clic su un avviso per visualizzare una pagina a comparsa con informazioni sull'avviso.
 
 È possibile eseguire un'azione su un avviso, ad esempio rimuovere una regola di posta in arrivo [sospetta.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Oppure puoi semplicemente chiudere l'avviso facendo clic **su Risolvi** nella pagina a comparsa dell'avviso.

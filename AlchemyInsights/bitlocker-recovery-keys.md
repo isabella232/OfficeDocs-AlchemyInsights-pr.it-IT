@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820290"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060068"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Accesso alle chiavi di ripristino di Bitlocker
 
-Quando si configurano le impostazioni di Bitlocker Intune Endpoint Protection Policy, è possibile definire se le informazioni di ripristino di Bitlocker devono essere archiviate in Azure Active Directory.
+Quando si configurano le impostazioni di Bitlocker Intune Endpoint Protection Criteri, è possibile definire se le informazioni di ripristino di Bitlocker devono essere archiviate in Azure Active Directory.
 
 Se questa impostazione è configurata, i dati di ripristino archiviati devono essere visibili a un amministratore di Intune come parte dei dati del record del dispositivo nel pannello Dispositivi intune in due modi:
 
@@ -47,5 +47,5 @@ Se il dispositivo è stato crittografato prima della registrazione in Intune, la
  
 Se il dispositivo è stato crittografato a seguito della configurazione tramite criteri di gruppo basati su dominio, le informazioni di ripristino possono essere archiviate in Active Directory locale.
 
-Se sono stati configurati criteri di Endpoint protection per archiviare la chiave di ripristino in Azure Active Directory ma la chiave per un dispositivo specifico non è stata caricata, è possibile attivare il caricamento ruotando la chiave di ripristino per tale dispositivo dalla console MEM. Per informazioni dettagliate, vedere [Rotate BitLocker recovery keys](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
+Se hai configurato i criteri di Endpoint protection per archiviare la chiave di ripristino in Azure Active Directory ma la chiave per un dispositivo specifico non è stata caricata, puoi attivare il caricamento ruotando la chiave di ripristino per tale dispositivo dalla console MEM. Per informazioni dettagliate, vedere [Rotate BitLocker recovery keys](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
 
