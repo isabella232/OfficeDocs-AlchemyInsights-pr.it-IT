@@ -1,5 +1,5 @@
 ---
-title: Single-Sign per i dispositivi aggiunti ad Azure Active Directory
+title: Single-Sign per i dispositivi Azure Active Directory aggiunti
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9891"
-ms.openlocfilehash: f6426a3fb4addc24c5041196fe837134bf0d296b
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 365225926296677feb7853481651a634792fd8bfa9abd9dc9359ffaae50b60eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050014"
 ---
-# <a name="single-sign-on-for-azure-active-directory-joined-devices"></a>Single #A0 per i dispositivi aggiunti ad Azure Active Directory
+# <a name="single-sign-on-for-azure-active-directory-joined-devices"></a>Single #A0 per Azure Active Directory aggiunti
 
-Se si dispone di un ambiente Active Directory (AD) locale e si desidera aggiungere i computer aggiunti al dominio DI AD ad Azure AD, è possibile eseguire questa operazione eseguendo l'aggiunta ibrida di Azure AD. [Procedura: Pianificare l'implementazione ibrida](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) dell'aggiunta ad Azure Active Directory fornisce i passaggi correlati per implementare un'aggiunta ibrida di Azure AD nell'ambiente.
+Se si dispone di un ambiente Active Directory (AD) locale e si desidera aggiungere i computer aggiunti al dominio DI AD ad Azure AD, è possibile eseguire questa operazione eseguendo l'aggiunta ibrida di Azure AD. [Procedura: Pianificare l'implementazione](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) Azure Active Directory join ibrido fornisce i passaggi correlati per implementare un'aggiunta ibrida di Azure AD nell'ambiente.
 
-[Configurare i dispositivi aggiunti ad Azure AD per i dispositivi locali Single-Sign l'uso di Windows Hello for Business](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) 
+[Configurare i dispositivi aggiunti ad Azure AD per i dispositivi locali Single-Sign on using Windows Hello for Business](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) 
 
-**Problemi relativi al token di aggiornamento primario** Un token di aggiornamento primario (PRT) è un elemento chiave dell'autenticazione di Azure AD nei dispositivi Windows 10, Windows Server 2016 e versioni successive, iOS e Android. Si tratta di un token Web JSON (JWT) rilasciato appositamente ai broker di token di prima parte Microsoft per abilitare single sign-on (SSO) tra le applicazioni usate in tali dispositivi. [In Che cos'è un token](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)di aggiornamento primario? , forniremo informazioni dettagliate su come viene emesso, usato e protetto un PRT nei dispositivi Windows 10.
+**Problemi relativi al token di aggiornamento primario** Un token di aggiornamento primario (PRT) è un elemento chiave dell'autenticazione di Azure AD nei dispositivi Windows 10, Windows Server 2016 e versioni successive, iOS e Android. Si tratta di un token Web JSON (JWT) rilasciato appositamente ai broker di token di prima parte Microsoft per abilitare single sign-on (SSO) tra le applicazioni usate in tali dispositivi. [In Che cos'è un token](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)di aggiornamento primario? verranno fornite informazioni dettagliate su come viene emesso, usato e protetto un PRT Windows 10 dispositivi.
 
 **WamDefaultSet: SÌ e AzureADPrt: SÌ** Questi campi indicano se l'utente ha eseguito correttamente l'autenticazione in Azure AD durante l'accesso al dispositivo. Se i valori sono **NO,** potrebbe essere dovuto:
 

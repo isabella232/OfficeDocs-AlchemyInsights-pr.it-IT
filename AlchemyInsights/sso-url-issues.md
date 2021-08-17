@@ -1,5 +1,5 @@
 ---
-title: Problemi relativi agli URL SSO
+title: Problemi relativi all'URL SSO
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7812"
-ms.openlocfilehash: 7ab8c9f64e376218ca6c76056952f8f835f699ac
-ms.sourcegitcommit: 688642f4ebc0f1c335e954e780bb9ec8893e2f3f
+ms.openlocfilehash: 2ebad785eb966e822d7dfedbaaa0e37c6d6acb2e4aff12e1c4f85c5cc481bd65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049978"
 ---
-# <a name="sso-url-issues"></a>Problemi relativi agli URL SSO
+# <a name="sso-url-issues"></a>Problemi relativi all'URL SSO
 
-1. [User-generate SSO URL](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) : consente di recuperare un URL di reindirizzamento contenente un token di autenticazione per la firma di un determinato utente nel portale per sviluppatori.
-2. Fare riferimento a [problemi quando si fa clic su collegamento ipertestuale al sito Web SSO in un documento](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) se viene reindirizzato a una pagina di accesso o a una pagina di errore oppure vengono richieste le informazioni di autenticazione quando si fa clic su un collegamento ipertestuale a un sito Web SSO in un documento di Office.
-3. Fare riferimento a [questo articolo](https://docs.microsoft.com/azure/active-directory/develop/reply-url) per un elenco delle limitazioni e delle limitazioni di URI di reindirizzamento (URL di risposta).
+1. [User - Generate SSO Url](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) - Recupera un URL di reindirizzamento contenente un token di autenticazione per la firma di un determinato utente nel portale per sviluppatori.
+2. Fare riferimento a Problemi quando si fa clic su collegamento ipertestuale a un sito [Web SSO in](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) un documento se si viene reindirizzati a una pagina di accesso o a una pagina di errore oppure se vengono richieste informazioni di autenticazione quando si fa clic su un collegamento ipertestuale a un sito Web SSO in un documento di Office.
+3. Fare [riferimento a questo articolo](https://docs.microsoft.com/azure/active-directory/develop/reply-url) per un elenco di limitazioni e limitazioni relative all'URI di reindirizzamento (URL di risposta).
