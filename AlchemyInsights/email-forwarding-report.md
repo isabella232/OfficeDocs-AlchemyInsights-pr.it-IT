@@ -1,5 +1,5 @@
 ---
-title: Report sull’inoltro della posta elettronica
+title: Report dei messaggi inoltrati automaticamente
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,14 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 6ec48c625ad183b34cb9dd665e5275c0c6c23b075233fcee4712404ab8f37284
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f501b9c74b7480a706def72dd60fa9012c98318b1ef590a5c4c9c17d707d5240
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030132"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891455"
 ---
-# <a name="email-forwarding-report"></a>Report sull’inoltro della posta elettronica
+# <a name="auto-forwarded-messages-report"></a>Report dei messaggi inoltrati automaticamente
 
-Per visualizzare un report sul numero di messaggi di posta elettronica inoltrati automaticamente nell'organizzazione, vedi [Analisi dei messaggi inoltrati automaticamente nel Centro sicurezza e conformità](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) nel Centro conformità di [Microsoft 365 Security&amp;](https://protection.office.com/#/homepage).
-  
-Nota: se è la prima volta che si accede al Centro sicurezza e conformità, potrebbe essere necessario aggiornare il browser dopo alcuni minuti per visualizzare tutte le opzioni disponibili.
+Per visualizzare un report su quanti messaggi inoltrati automaticamente sono presenti nell'organizzazione, controllare il [Report dei messaggi inoltrati automaticamente](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) nell'Interfaccia di amministrazione di Exchange qui <https://admin.exchange.microsoft.com/> \> **Report** \> **Flusso di posta**. Oppure, per passare direttamente alla pagina **Messaggi inoltrati automaticamente**, usare <https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages>.
   

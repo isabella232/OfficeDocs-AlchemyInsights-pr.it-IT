@@ -1,5 +1,5 @@
 ---
-title: 8000038 GDPR di verifica degli account figlio
+title: 8000038 verifica dell'account figlio GDPR
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,16 +14,16 @@ ms.custom:
 - "788"
 - "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: 6ad5de2c3595c775d7b5080c2ac116dd002e6777
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 844679cba6b109a2c552c38e1884040cd545cd260930eb7aabed6ed0911c8a50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707967"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056998"
 ---
-# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>La data di nascita visualizzata nel tuo account Microsoft non è corretta
+# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>La data di nascita visualizzata nell'account Microsoft non è corretta
 
-Microsoft accetta molto sul serio la sicurezza dell'account. Potrebbe essere stato recentemente chiesto di fornire il consenso dei genitori per l'account Microsoft di un bambino. Se si ha bisogno di assistenza per fornire il consenso dei genitori o aggiornare la data di nascita in un account Microsoft, vedere [Age Verification per il consenso dei genitori](https://go.microsoft.com/fwlink/p/?linkid=874364).
+Microsoft prende molto sul serio la sicurezza dell'account. Di recente potrebbe essere stato richiesto di fornire il consenso dei genitori per l'account Microsoft di un bambino. Se hai bisogno di assistenza per fornire il consenso dei genitori o aggiornare la data di nascita in un account Microsoft, vedi [Verifica dell'età per il consenso dei genitori.](https://go.microsoft.com/fwlink/p/?linkid=874364)
   
-Per ulteriori informazioni [, vedere consenso dei genitori e account di Microsoft Child](https://go.microsoft.com/fwlink/p/?linkid=874365).
+Altre informazioni sul [consenso dei genitori e sugli account per bambini Microsoft.](https://go.microsoft.com/fwlink/p/?linkid=874365)
   

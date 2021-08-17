@@ -13,27 +13,30 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976869"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891299"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificare l'attività delle regole di Posta in arrivo nei log di controllo
 
-È possibile utilizzare la ricerca nei log di controllo nel Centro sicurezza & e conformità di Microsoft 365 per visualizzare gli eventi delle regole di posta in arrivo (creazione, modifica ed eliminazione di regole di Posta in arrivo).
+È possibile utilizzare la ricerca nei log di controllo nel Centro conformità Microsoft 365 per visualizzare gli eventi delle regole di Posta in arrivo (creazione, modifica ed eliminazione di regole di Posta in arrivo).
 
-1. Accedere al Centro [Microsoft 365 conformità](https://protection.office.com/).
+1. Esegui uno dei seguenti passaggi:
+   - Nell'Centro conformità Microsoft 365 <https://compliance.microsoft.com> in , passare a **Soluzioni** \> **Controllo**. In caso contrario, per passare direttamente alla **pagina Controllo,** utilizzare <https://compliance.microsoft.com/auditlogsearch> .
+   - Nel portale di Microsoft 365 Defender <https://security.microsoft.com> all'indirizzo , passare a **Controlla**. In caso contrario, per passare direttamente alla **pagina Controllo,** utilizzare <https://security.microsoft.com/auditlogsearch> .
 
-2. Passare alla pagina **ricerca log** di  >  **controllo della** ricerca.
+2. Nella scheda **Ricerca** della pagina **Controllo** configurare le impostazioni seguenti:
+   - **Intervallo di data e ora**: selezionare l'intervallo di data/ora nelle **caselle Inizio** **e** Fine.
+   - **Attività**: selezionare uno o più dei valori seguenti:
+     - **New-InboxRule Crea regola di posta in arrivo da Outlook Web App**
+     - **Set-InboxRule Modifica la regola da Outlook Web App**.
+     - **Aggiornare le regole della posta in arrivo Outlook client**
 
-3. Selezionare l'intervallo di date nei **campi Data inizio** e Data **fine.**
+3. Al termine, fare clic su **Cerca**. Le attività vengono visualizzate nella nuova **pagina Di ricerca di** controllo.
 
-4. In **Exchange cassette postali,** verificare che il **campo** Attività sia impostato su **New-InboxRule Creare/modificare/abilitare/disabilitare la regola di posta in arrivo.**
+4. Selezionare un'attività nei risultati per aprire il riquadro a comparsa dei dettagli. Le informazioni sulle impostazioni delle regole di Posta in arrivo vengono visualizzate nel **campo** Parametri.
 
-5. Fare clic su **Cerca**.
-
-Nei risultati selezionare un record di controllo. Nel riquadro a comparsa dei dettagli fare clic **su Altre informazioni.** Le informazioni sulle impostazioni delle regole di Posta in arrivo vengono visualizzate nel **campo** Parametri.
-
-Per ulteriori informazioni, vedere [Determining if a user created an Inbox rule](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Per ulteriori informazioni, vedere [Determining if a user created an Inbox rule](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-created-an-inbox-rule).

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11513"
 - "9006672"
-ms.openlocfilehash: a56abdaae182b840a1a96466e0581ef49b2b0075
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: e0c2b4fd09282cba72361372045ef0074ca9bd95e33b7447ae59c5fa8f489062
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688978"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891419"
 ---
 # <a name="enable-teams-webinars"></a>Abilitare i webinar di Teams
 
@@ -38,6 +38,6 @@ Quando la registrazione alla riunione è impostata su **Attivato**, è anche pos
 
 3. In **Generale**, passare all'impostazione **Chi può registrare** e selezionare **Tutti** o **Tutti nell’azienda**. 
 
-**Nota**: se nelle impostazioni di riunione è stata disattivata la partecipazione di utenti anonimi, tali utenti non potranno partecipare ai webinar. Per altre informazioni su come abilitare questa impostazione, vedere  [Gestire le impostazioni di riunione in Microsoft Teams](/microsoftteams/meeting-settings-in-teams). 
+**Nota**: se nelle impostazioni di riunione è stata disattivata la partecipazione di utenti anonimi, tali utenti non potranno partecipare ai webinar. Per altre informazioni su come abilitare questa impostazione, vedere  [Gestire le impostazioni di riunione in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams). 
 
-Per altre informazioni sulla configurazione di chi può registrarsi per i webinar e su come gestire questi criteri con PowerShell di Teams, vedere [Configurare chi può registrarsi per i webinar](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Per altre informazioni sulle impostazioni per Elenchi Microsoft, vedere  [Controllare le impostazioni per Elenchi Microsoft](/sharepoint/control-lists). 
+Per altre informazioni sulla configurazione di chi può registrarsi per i webinar e su come gestire questi criteri con PowerShell di Teams, vedere [Configurare chi può registrarsi per i webinar](https://docs.microsoft.com/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Per altre informazioni sulle impostazioni per Elenchi Microsoft, vedere  [Controllare le impostazioni per Elenchi Microsoft](https://docs.microsoft.com/sharepoint/control-lists). 
