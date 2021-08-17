@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9406"
 - "9004341"
-ms.openlocfilehash: 290e740ccd7f3beac5b77e63c32c5b18c295070e6002dcdde44ce4a93f4330f6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fb043122edf5f99325f0403810eb0dc119d254e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105680"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314424"
 ---
 # <a name="troubleshoot-saml-signing-certificate-issues"></a>Risoluzione dei problemi relativi al certificato di firma SAML
 
@@ -31,13 +31,11 @@ Al termine, l'applicazione considererà attendibile questo certificato e accette
 
 3. Alla scadenza del certificato, creare un nuovo certificato, aggiornarlo tramite il fornitore dell'applicazione e quindi renderlo attivo sul lato Azure. Per altre informazioni, vedere [Rinnovare un certificato con scadenza imminente](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
 
-> [!NOTE]
-> In caso di scadenza del certificato, l'utente non verrà bloccato.
+**Nota**: in caso di scadenza del certificato, l'utente non verrà bloccato.
 
 4. [Aggiungere un indirizzo di posta elettronica per le notifiche](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#add-email-notification-addresses-for-certificate-expiration) da ricevere prima della scadenza del certificato corrente.
 
-> [!NOTE]
-> Il passaggio 4 è facoltativo.
+**Nota**: Il passaggio 4 è facoltativo.
 
 5. Modificare le opzioni di firma del certificato SAML di un'applicazione e l'algoritmo di firma del certificato. Per altre informazioni, vedere [Modificare le opzioni di firma del certificato e l'algoritmo di firma](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).
 

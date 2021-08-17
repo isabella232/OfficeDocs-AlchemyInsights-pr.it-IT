@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502396"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314920"
 ---
 # <a name="billing-and-payment"></a>Fatturazione e pagamento
 
@@ -46,8 +46,7 @@ Se hai aggiunto una nuova carta e stai ancora ricevendo un avviso di rifiuto sul
 
 4. Per usare una modalità di pagamento esistente, sceglierne una nell'elenco a discesa, quindi selezionare **Sostituisci**.
 
-    > [!NOTE]
-    > Se si hanno abbonamenti associati a un profilo di fatturazione, si può usare solo una carta di credito o di debito per il pagamento. Se nella pagina **Modalità di pagamento** sono elencati conti bancari, non sono disponibili per la selezione nell'elenco a discesa.
+    **Nota:** se hai abbonamenti associati a un profilo di fatturazione, puoi usare solo una carta di credito o di debito per pagarli. Se nella pagina **Modalità di pagamento** sono elencati conti bancari, non sono disponibili per la selezione nell'elenco a discesa.
 
 5. Per aggiungere una nuova modalità di pagamento, selezionare **Aggiungi modalità di pagamento**.
 
@@ -55,10 +54,10 @@ Se hai aggiunto una nuova carta e stai ancora ricevendo un avviso di rifiuto sul
 
 7. La nuova modalità di pagamento è già selezionata nell'elenco a discesa. Selezionare **Sostituisci**.
 
-Per altre informazioni, vedere [Gestire i metodi di pagamento](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Per altre informazioni, vedere [Gestire i metodi di pagamento](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frequenza di fatturazione**
 
 Le fatture vengono generate mensilmente o annualmente a seconda della frequenza di fatturazione scelta al momento del pagamento.  
 
-**Nota:** gli ordini con fatturazione annuale potrebbero ricevere una fattura a medio termine se sono state apportate modifiche, ad esempio l'aggiunta o la rimozione di licenze. [Modificare la frequenza di fatturazione](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Nota:** gli ordini con fatturazione annuale potrebbero ricevere una fattura a metà termine se sono state apportate modifiche, ad esempio l'aggiunta o la rimozione di licenze. [Modificare la frequenza di fatturazione](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

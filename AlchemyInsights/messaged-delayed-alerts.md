@@ -1,5 +1,5 @@
 ---
-title: Avvisi "I messaggi sono stati ritardati" nel Centro sicurezza e conformità
+title: Avvisi "I messaggi sono stati ritardati"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "12450"
 - "3100012"
-ms.openlocfilehash: 0317fa4976dd34e9e978e086312d041c88bd600e9a41632be55736bbfa2b527c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62df1d6bcbc142d81d2c05fe142d6a6421cf7904
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54027519"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314740"
 ---
-# <a name="messages-have-been-delayed-alerts-in-the-security--compliance-center"></a>Avvisi "I messaggi sono stati ritardati" nel Centro sicurezza e conformità
+# <a name="messages-have-been-delayed-alerts"></a>Avvisi "I messaggi sono stati ritardati"
 
-Gli avvisi "I messaggi sono stati ritardati" indicano che Microsoft 365 non è in grado di recapitare la posta ai server di posta elettronica locali o partner. L'origine di questi problemi è in genere all'esterno di Microsoft 365. 
+Gli avvisi "I messaggi sono stati ritardati" nel portale di Microsoft 365 Defender indicano che Microsoft 365 non è in grado di recapitare la posta ai server di posta elettronica locali o partner. L'origine di questi problemi è in genere esterna a Microsoft 365.
 
-È consigliabile verificare la presenza di modifiche recenti negli ambienti locali o dei partner. Per altre informazioni, vedere [Dati analitici sulle code nel Centro sicurezza e conformità](/microsoft-365/security/office-365-security/mfi-queue-alerts-and-queues).
-
+È consigliabile verificare la presenza di modifiche recenti negli ambienti locali o dei partner. Per altre informazioni, vedere [Report dei messaggi in coda nell'Interfaccia di amministrazione di Exchange](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-queued-messages-report).

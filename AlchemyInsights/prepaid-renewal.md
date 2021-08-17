@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: 5b1a2e169d6613d71ef52bcdf6bec2b5206dee2e486fddb150dd288d402a855f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502864"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314532"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Rinnovo Microsoft 365 prepagato
 
@@ -29,8 +29,7 @@ ms.locfileid: "54502864"
 3. Nella sezione Impostazioni sottoscrizione  e pagamento della pagina dei dettagli dell'abbonamento selezionare **Estendi data di fine.**
 4. Nella pagina **rinnova o aggiungi licenze utente** seleziona Usa un codice Product Key nuovo e **inutilizzato,** quindi seleziona **Avanti.**
 5. Immetti il codice Product Key, quindi seleziona **Avanti.**
-    > [!NOTE]
-    > Se si hanno più codici Product Key, è possibile selezionare **Aggiungi un altro codice Product Key** per immetterli.
+    **Nota:** se si dispone di più codici Product Key, è possibile selezionare **Aggiungi un altro codice Product Key** per immetterli.
 6. Rivedi i dettagli dell'ordine, quindi seleziona **Riscatta**.
 
-Per altre informazioni, vedi Aggiungere licenze o [estendere un abbonamento a pagamento per l'uso di un codice Product Key.](/microsoft-365/commerce/licenses/add-licenses-using-product-key)
+Per altre informazioni, vedi Aggiungere licenze o [estendere un abbonamento a pagamento per l'uso di un codice Product Key.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

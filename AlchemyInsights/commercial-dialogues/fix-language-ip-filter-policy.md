@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 16aa12120034e1f848e62bab151d8e30b251a29e5727f085300d74ca7b49ca52
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017100"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896159"
 ---
 # <a name="fix-languageip-filter-policy"></a>Correggere i criteri di filtro lingua/IP
 
-Questo messaggio è stato influenzato da un criterio di protezione da posta indesiderata personalizzato nel tenant. Per esaminare il criterio, eseguire le operazioni seguenti:
+Uno dei criteri di protezione da posta indesiderata ha interessato questo messaggio. Per esaminare i criteri, eseguire la procedura seguente:
 
-1. Passare al Centro [Office 365 sicurezza &](https://go.microsoft.com/fwlink/p/?linkid=2077143)e quindi passare a Criteri di gestione delle minacce Protezione da posta  >    >  [indesiderata.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Nella scheda **Personalizzato,** selezionare **il** criterio di filtro della posta indesiderata predefinito o qualsiasi altro criterio personalizzato creato, quindi selezionare Modifica **criterio.**
-3. Espandere **l'opzione Posta indesiderata** internazionale ed esaminare le impostazioni.
+1. Nel portale Microsoft 365 Defender posta elettronica all'indirizzo , passare a Email <https://security.microsoft.com/> **& Collaboration** Policies & \> **Rules Threat** \> **policies** \> **Anti-spam** nella **sezione Criteri.**
 
-Per ulteriori informazioni sulla configurazione dei criteri di filtro della posta indesiderata, vedere [Configure custom spam filter policy settings](https://go.microsoft.com/fwlink/?linkid=2101054).
+   Per passare direttamente alla pagina **Criteri di protezione dalla posta indesiderata**, usare <https://security.microsoft.com/antispam>.
+
+2. Nella pagina Criteri di protezione da posta indesiderata selezionare il criterio facendo clic sul nome del criterio **(** Type is Custom **anti-spam** **policy** o **Name** is **Anti-Spam inbound policy (Default)**.
+3. Nel riquadro a comparsa dei dettagli visualizzato selezionare Modifica **la** soglia e le proprietà della posta indesiderata nella sezione Soglia di posta elettronica in blocco & proprietà della **posta indesiderata.**
+4. Nella sezione **Contrassegna come posta** indesiderata esaminare le **impostazioni Contiene lingue specifiche** e Da **questi** paesi.
+
+Per altre informazioni, vedere [Configurare i criteri di protezione dalla posta indesiderata in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

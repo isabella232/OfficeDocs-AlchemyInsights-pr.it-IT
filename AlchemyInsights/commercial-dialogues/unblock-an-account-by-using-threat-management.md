@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 742870fc586daa1f44c88f16405c7b14b5bd2f5000f7e13d396ad6d43829acbd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081434"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895011"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>Sbloccare un account tramite la gestione delle minacce
 
-Ecco come eseguire questa operazione: 
+Ecco come eseguire questa operazione:
 
-1. Passare al Centro [Office 365 sicurezza & conformità](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Selezionare **Verifica gestione** delle  >  **minacce**. Nella pagina **Revisione** selezionare **[Utenti con restrizioni](https://go.microsoft.com/fwlink/?linkid=2103514)**.
-1. Se l'account compromesso viene visualizzato nell'elenco, fai clic **su Sblocca account.** L'account dovrebbe essere in grado di inviare di nuovo i messaggi, in genere entro un'ora.
+1. Passare al portale di Microsoft 365 Defender posta elettronica all'indirizzo <https://security.microsoft.com> \> **Email & Collaboration** \> **Review** \> **Restricted users**.
+
+   Per passare direttamente alla **pagina Utenti con** restrizioni, utilizzare <https://security.microsoft.com/restrictedusers> .
+
+2. Se l'utente è nell'elenco, selezionare l'utente e quindi selezionare **Sblocca**. Seguire i passaggi nel riquadro a comparsa e quindi selezionare **Sì per** confermare.
+
+   L'account dovrebbe essere in grado di inviare di nuovo i messaggi, in genere entro un'ora.
+
+Per ulteriori informazioni, vedere [Remove blocked users from the Restricted users portal.](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)

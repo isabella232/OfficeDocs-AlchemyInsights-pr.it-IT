@@ -1,5 +1,5 @@
 ---
-title: Aprire una raccolta di SharePoint in Esplora file
+title: Aprire una raccolta SharePoint file in Esplora file
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: e7a7e66d80740c946daa614d2733e07bdd093d12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8a6099eea91289ac6b40a54cb1130e039ac5156fef454a9b48299c5a15d6c4ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800504"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085268"
 ---
-# <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-library"></a>Impossibile salvare i documenti di Office in una raccolta documenti di SharePoint o OneDrive
+# <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-library"></a>Impossibile salvare Office documenti in SharePoint o OneDrive raccolta documenti
 
-In caso di problemi durante il salvataggio di documenti di Office in raccolte documenti di SharePoint o OneDrive, Ecco alcune informazioni utili.
+In caso di problemi durante il salvataggio Office documenti in SharePoint o OneDrive raccolte documenti, ecco alcune informazioni utili.
 
 
 - [Salvare un file (copia)](https://support.office.com/article/save-a-file-in-microsoft-office-a7f0a209-ad22-4212-bb53-6cd8e801a6fb)
@@ -33,5 +33,5 @@ In caso di problemi durante il salvataggio di documenti di Office in raccolte do
 
 - [Eseguire un ripristino in Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-Per ulteriori informazioni o dettagli, fare riferimento all'articolo [risolvere i problemi relativi all'apertura o al salvataggio dei documenti nelle raccolte di SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
+Per ulteriori informazioni o dettagli, fare riferimento all'articolo Risolvere i problemi di apertura o salvataggio di documenti [in SharePoint raccolte](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
 
