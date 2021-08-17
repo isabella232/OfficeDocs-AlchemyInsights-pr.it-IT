@@ -1,5 +1,5 @@
 ---
-title: Codice di errore 550 5.7.705 accesso negato, il tenant ha superato la soglia
+title: Codice di errore 550 5.7.705 Accesso negato, il tenant ha superato la soglia
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -13,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f35aaccb0bc80ddcb46e37533ee36c35b8cf520421786a809b28cfa70e16391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784023"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044200"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 accesso negato, il tenant ha superato la soglia
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Accesso negato, il tenant ha superato la soglia
 
-Questo messaggio si verifica quando troppa posta indesiderata o messaggi in blocco sono stati inviati dall'organizzazione e viene posizionato un blocco sulla posta in uscita.
+Questo messaggio si verifica quando la posta indesiderata o la posta in blocco è stata inviata dall'organizzazione e viene posto un blocco sulla posta in uscita.
 Le cause più comuni sono server locali compromessi o account amministratore compromessi usati per creare connettori. Entrambe le condizioni consentono il transito di posta indesiderata attraverso l'organizzazione.
 
 Per rimuovere questo blocco, è necessario comprendere e spiegare la causa dell'errore a un operatore del supporto e correggere il problema sottostante.
-Fare clic su **Contattaci** in basso quando si è pronti.
+Fai **clic su Contattaci** di seguito quando sei pronto.

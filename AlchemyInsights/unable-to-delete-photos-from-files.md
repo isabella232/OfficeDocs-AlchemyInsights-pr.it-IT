@@ -1,5 +1,5 @@
 ---
-title: 8000031 Impossibile eliminare le foto dai file
+title: 8000031 impossibile eliminare le foto dai file
 ms.author: daeite
 author: daeite
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 2735d7117969ceab23476f58cdcc3210ee912950799cc1082e151bff6bf692d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653364"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104960"
 ---
 # <a name="unable-to-delete-photos-from-files"></a>Impossibile eliminare le foto dai file
 
-Per eliminare le foto dai file in Outlook.com:
+Per eliminare le foto da File in Outlook.com:
   
-1. Passare alla cartella **posta in arrivo** o ai messaggi **inviati** ed eliminare il messaggio di posta elettronica a cui sono associati.
+1. Passare alla **cartella Posta in** arrivo o **Posta** inviata ed eliminare il messaggio di posta elettronica a cui sono allegati.
 
-2. Rimuovere gli **elementi dagli articoli eliminati**.
+2. Rimuovere gli elementi dagli elementi **eliminati**.
 
-Per ulteriori informazioni, vedere [come eliminare i file o le foto in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Per ulteriori informazioni, vedere Come eliminare file o [foto in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
   

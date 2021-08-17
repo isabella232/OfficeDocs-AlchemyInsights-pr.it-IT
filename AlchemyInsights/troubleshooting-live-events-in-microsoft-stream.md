@@ -13,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9001511"
 - "5097"
-ms.openlocfilehash: bd5ffb00d8db527edcb2e8848fb87f79a12f22a0
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2dae9ed6ec8f1b3c6302a042364db6e5509e02c64b45b9ffd4bdf567fdd97298
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58295634"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105068"
 ---
 # <a name="troubleshooting-live-events-in-microsoft-stream"></a>Risoluzione dei problemi relativi agli eventi live in Microsoft Stream
 
-Esistono diverse aree da controllare per garantire che gli eventi live di Microsoft Stream funzionino senza problemi. Per altre informazioni, vedi [Risoluzione dei problemi relativi agli eventi live in Microsoft Stream.](https://docs.microsoft.com/stream/live-event-troubleshooting)
+Esistono diverse aree da controllare per garantire che gli eventi live di Microsoft Stream funzionino senza problemi. Per altre informazioni, vedi [Risoluzione dei problemi relativi agli eventi live in Microsoft Stream.](/stream/live-event-troubleshooting)
