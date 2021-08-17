@@ -1,5 +1,5 @@
 ---
-title: 8000035 lasciare la versione beta di Outlook.com
+title: 8000035 lasciare la versione beta Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -19,18 +19,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 1ff3fb4bd0397682aac7825383c53e02f94b7e2d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b481f343a0a25e740a09b387fcdf685fc4f719e9d08d0af2c885f7441ff1b23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042850"
 ---
 # <a name="the-new-outlookcom"></a>Il nuovo Outlook.com
 
-Non è più possibile lasciare la beta di Outlook.com e tornare alla versione classica di Outlook.com.
+Non è più possibile lasciare la versione beta di Outlook.com e tornare alla versione classica di Outlook.com.
   
-Se si desidera inviare commenti e suggerimenti sul nuovo Outlook.com, visitare il [UserVoice Forum](https://go.microsoft.com/fwlink/p/?linkid=851599). È possibile votare le idee o i problemi che si desidera visualizzare e rispondere direttamente ai commenti e suggerimenti principali.
+Per inviare commenti e suggerimenti sul nuovo Outlook.com, passare al [forum uservoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Puoi votare le idee o i problemi che vuoi vedere risolti e risponderemo direttamente ai commenti e ai suggerimenti principali.
   
-[Per ulteriori informazioni, vedere il nuovo Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[Altre informazioni sul nuovo Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

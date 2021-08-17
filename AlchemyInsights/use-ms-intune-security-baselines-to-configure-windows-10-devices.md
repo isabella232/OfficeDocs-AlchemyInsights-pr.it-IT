@@ -1,5 +1,5 @@
 ---
-title: Utilizzare le linee di sicurezza di Microsoft Intune per configurare i dispositivi Windows 10
+title: Usare Microsoft Intune di sicurezza per configurare Windows 10 dispositivi
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004135"
 - "7211"
-ms.openlocfilehash: 24257f1ac5752df1598d08fcfdb95ee2642adfea
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: a94c6b72df3874ee80413adac86d60306175734b6ff28b2e015e05eec6f3838b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104348"
 ---
-# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Utilizzare le linee di sicurezza di Microsoft Intune per configurare i dispositivi Windows 10
+# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Usare Microsoft Intune di sicurezza per configurare Windows 10 dispositivi
 
-Le previsioni di sicurezza di Intune consentono di proteggere utenti e dispositivi. Le linee di base per la sicurezza sono gruppi preconfigurati delle impostazioni di Windows utilizzati per applicare un gruppo conosciuto di impostazioni e valori predefiniti consigliati dai team di sicurezza rilevanti. Creando un profilo di base di sicurezza in Intune, è possibile creare un modello costituito da più profili di configurazione dei dispositivi.
+Le baseline di sicurezza di Intune consentono di proteggere utenti e servizi Le baseline di sicurezza sono gruppi di impostazioni preconfigurate di Windows usate per l'applicazione di un gruppo noto di impostazioni e valori predefiniti consigliati dai team di sicurezza pertinenti. Creando un profilo della baseline di sicurezza in Intune, è possibile dare vita a un modello formato da più profili di configurazione dei dispositivi.
 
-Quando si distribuiscono le linee di base di sicurezza ai gruppi di utenti o dispositivi, le impostazioni vengono applicate ai dispositivi eseguiti in Windows 10 o versioni successive. Ad esempio, la linea di base di sicurezza MDM automaticamente (1) Abilita BitLocker per le unità rimovibili, (2) richiede la password per sbloccare un dispositivo e (3) disattiva l'autenticazione di base. Quando un valore predefinito non funziona per l'ambiente in uso, personalizzare la linea di base per applicare le impostazioni necessarie.
+Quando distribuisci linee di base di sicurezza a gruppi di utenti o dispositivi, le impostazioni vengono applicate ai dispositivi eseguiti Windows 10 o versioni successive. Ad esempio, MDM Security Baseline automaticamente (1) abilita BitLocker per le unità rimovibili, (2) richiede la password per sbloccare un dispositivo e (3) disabilita l'autenticazione di base. Quando un valore predefinito non funziona per l'ambiente, personalizza la linea di base per applicare le impostazioni necessarie.
 
-Le linee di base per la sicurezza consentono inoltre di stabilire un flusso di lavoro sicuro end-to-end in Microsoft 365. Di seguito sono riportati alcuni vantaggi:
+Le baseline di sicurezza consentono inoltre di stabilire un flusso di lavoro end-to-end in Microsoft 365. Di seguito sono riportati alcuni vantaggi:
 
-- Una previsione di sicurezza include le procedure consigliate e consigli per le impostazioni che influiscono sulla sicurezza. Poiché Intune è partner del team di sicurezza di Windows che crea linee di base per i criteri di gruppo, questi suggerimenti si basano su una guida solida e un'esperienza estensiva.
-- Se si è nuovi di Intune e non si è sicuri di dove iniziare, quindi le linee di sicurezza di protezione consentiranno di creare e distribuire rapidamente un profilo sicuro.
-- Se attualmente si utilizza un criterio di gruppo, la migrazione a Intune per scopi di gestione è molto più semplice con le linee di base di sicurezza, perché sono integrate in Intune e comprendono funzionalità all'avanguardia per la gestione.
+- Una baseline di sicurezza include procedure ottimali e suggerimenti per le impostazioni che riguardano la sicurezza. Dato che Intune lavora in partnership con il team di sicurezza di Windows che crea le baseline per i criteri di gruppo, questi suggerimenti si basano su linee guida solide e una comprovata esperienza.
+- Se non conosci bene Intune e non sai da dove cominciare, le baseline di sicurezza ti aiuteranno a creare e implementare rapidamente un profilo sicuro.
+- Se attualmente si usano criteri di gruppo, la migrazione a Intune per scopi di gestione è molto più semplice con le linee di base della sicurezza, perché sono integrate in Intune e includono funzionalità all'avanguardia per la gestione.
 
-Per ulteriori informazioni, vedere [previsioni di sicurezza di Windows](https://go.microsoft.com/fwlink/?linkid=2141503) e [gestione dei dispositivi mobili](https://go.microsoft.com/fwlink/?linkid=2141701).
+Per altre informazioni, vedi le [Windows di sicurezza](https://go.microsoft.com/fwlink/?linkid=2141503) e Gestione dei dispositivi [mobili.](https://go.microsoft.com/fwlink/?linkid=2141701)

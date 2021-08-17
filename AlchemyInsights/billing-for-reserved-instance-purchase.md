@@ -1,5 +1,5 @@
 ---
-title: Fatturazione per l'acquisto di istanze riservate
+title: Fatturazione per l’acquisto dell’istanza riservata
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,64 +12,64 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 00565470de388165e64c45879c22fd5064b4adc695151edaf58878f38a481ff2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820326"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104024"
 ---
-# <a name="billing-for-reserved-instance-purchase"></a>Fatturazione per l'acquisto di istanze riservate
+# <a name="billing-for-reserved-instance-purchase"></a>Fatturazione per l’acquisto dell’istanza riservata
 
-L'acquisto dell'istanza riservata viene addebitato sulla modalità di pagamento associata alla sottoscrizione selezionata al momento dell'acquisto. Il tipo di sottoscrizione deve essere un contratto enterprise (numero dell'offerta: MS-AZR-0017P), Pay-As-You-Go (numero dell'offerta: MS-AZR-0003P), Contratto per i clienti Microsoft o CSP.
+L'acquisto dell’istanza riservata viene addebitato sulla modalità di pagamento associata all'abbonamento selezionato al momento dell'acquisto. Il tipo di abbonamento deve essere un contratto Enterprise (numero offerta: MS-AZR-0017P), con pagamento in base al consumo (numero offerta: MS-AZR-0003P), un Contratto del cliente Microsoft o Microsoft Cloud Solution Provider.
 
-- Per una sottoscrizione enterprise, gli addebiti vengono detratti dal saldo dell'impegno monetario della registrazione o addebitati come in evaso
-- Per la sottoscrizione con pagamento in base al consumo, gli addebiti vengono fatturati alla carta di credito o al metodo di pagamento della fattura nell'abbonamento
+- Per gli abbonamenti Enterprise, gli addebiti vengono detratti dal saldo dell’impegno monetario al momento della registrazione o addebitati come eccedenza
+- Per gli abbonamenti con pagamento in base al consumo, gli addebiti vengono intestati alla carta di credito o alla modalità di pagamento delle fatture dell'abbonamento
 
-**Annullamento della prenotazione**
+**Annullamento delle prenotazioni**
 
-- **Self-service:** Puoi annullare o scambiare manualmente un'istanza riservata usando [il portale di Azure.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Seleziona la prenotazione e fai clic su rimborso o cambio. Tieni presente che devi disporre dell'accesso proprietario nell'ordine di prenotazione per lo scambio o il rimborso. L'accesso solo alla prenotazione non consente di procedere con il rimborso o lo scambio. Chiedere al proprietario dell'ordine di prenotazione di fornire al proprietario l'accesso all'ordine di prenotazione
-- **Criteri di Exchange:** È possibile scambiare una prenotazione per un'altra prenotazione dello stesso tipo: non sono previste **sanzioni per** lo scambio di prenotazioni. L'impegno totale con una nuova prenotazione deve essere maggiore della somma dell'importo del rimborso della prenotazione scambiata e dei futuri pagamenti mensili (se applicabile)
-- **Criteri di rimborso:** La somma del rimborso e dei pagamenti futuri annullati non può superare i $50.000 USD in una finestra di rotolamento di 12 mesi. Al momento **non viene addebitata alcuna penalità** per i rimborsi, ma potrebbe essere addebitata sui rimborsi futuri
+- **Modalità self-service:** è possibile annullare o cambiare un'istanza prenotata usando il [portale di Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Selezionare la prenotazione e fare clic su Rimborso o Cambio. Tenere presente che è necessario avere accesso come proprietario all'Ordine di prenotazione per chiederne il cambio o il rimborso. Se si dispone solo dell'accesso alla prenotazione non è possibile procedere con il rimborso o il cambio. Rivolgersi al proprietario dell'Ordine di prenotazione per chiedere l'assegnazione dell'accesso come proprietario della prenotazione.
+- **Criteri di cambio:** è possibile cambiare la prenotazione con un'altra dello stesso tipo. Non verranno applicate **penali** per il cambio. L'impegno complessivo per una nuova prenotazione deve essere maggiore della somma dell'ammontare del rimborso della prenotazione cambiata e dei pagamenti mensili futuri, se applicabili.
+- **Politica di rimborso:** la somma dei rimborsi e dei pagamenti futuri annullati non può essere superiore a 50.000 USD in una finestra di fatturazione di 12 mesi. **Al momento non viene addebitata alcuna penalità** sui rimborsi, ma potrebbe cambiare in futuro.
 
-**Eccezioni:** La funzionalità di scambio e annullamento self-service non è disponibile per i Contratto Enterprise statunitensi
+**Eccezioni:** le funzionalità di cambio e annullamento in modalità self-service non sono disponibili per i clienti con Contratto Enterprise US Government.
 
-- **Il supporto API/PS/CLI** non è disponibile per l'annullamento e i rimborsi per gli scambi [self-service](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) e i rimborsi per prenotazioni di Azure
-- La funzionalità di scambio e annullamento self-service non è disponibile per i Contratto Enterprise statunitensi. Sono supportati altri tipi di abbonamento us government, tra cui Pay-As-You-Go e CSP
+- Il supporto **API/PS/CLI** non è disponibile per gli [annullamenti e rimborsi in modalità self service per le prenotazioni di Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support).
+- Le funzionalità di cambio e annullamento in modalità self-service non sono disponibili per i clienti con Contratto Enterprise US Government. Altri tipi di sottoscrizione US Government, tra cui Pagamento a consumo e CSP, sono supportati
 
-Ulteriori informazioni : [Come vengono elaborate le](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) transazioni di restituzione e cambio Ulteriori informazioni : Criteri di Exchange e [rimborso](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) Altre domande: [Visitare i documenti di istanza riservati](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Ulteriori informazioni : [Come vengono elaborate le](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) transazioni di restituzione e cambio Ulteriori informazioni : criteri di Exchange e rimborso Altre domande: Visitare documenti di istanza [riservati](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) [](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)
 
-**Exchange un'istanza riservata esistente (self-service)**
+**Cambio di un'istanza riservata esistente (in modalità self-service)**
 
-È possibile scambiare una prenotazione per un'altra prenotazione dello stesso tipo. Puoi anche rimborsare una prenotazione, fino a $50.000 USD all'anno, se non è più necessaria. La funzionalità di scambio e annullamento self-service non è disponibile per i Contratto Enterprise statunitensi. Sono supportati altri tipi di sottoscrizione per enti pubblici statunitensi, tra cui Pay-As-You-Go e CSP. Devi disporre dell'accesso proprietario nell'ordine di prenotazione per scambiare o rimborsare una prenotazione esistente.
+È possibile cambiare la prenotazione in un'altra dello stesso tipo. Se non è più necessaria, è anche possibile ottenere il rimborso di una prenotazione fino a un massimo di 50.000 USD all'anno. Le funzionalità di cambio e annullamento in modalità self-service non sono disponibili per i clienti con Contratto Enterprise US Government. Altri tipi di sottoscrizione US Government, tra cui Pagamento a consumo e CSP, sono supportati. È necessario avere l'accesso come proprietario all'Ordine di prenotazione per chiedere il cambio o il rimborso di una prenotazione esistente.
 
-I passaggi seguenti illustrano la procedura per completare la transazione
+La procedura seguente illustra come completare la transazione.
 
 1.Accedere al portale [di Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Selezionare le prenotazioni che si desidera rimborsare e fare clic su **Exchange** 2.Selezionare il prodotto vm che si desidera acquistare e digitare una quantità. Assicurati che il nuovo totale acquisti sia superiore al totale restituito [Determinare le dimensioni giuste prima di acquistare](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
 3.Rivedere e completare la transazione
 
-**Rimborso per un'istanza riservata**
+**Rimborso di un'istanza riservata**
 
-Per rimborsare una prenotazione, vai a **Dettagli prenotazione e** fai clic su **Rimborso**
+Per ottenere il rimborso di una prenotazione, passare a **Dettagli della prenotazione** e quindi fare clic su **Rimborso**
 
-**Rimborso con tariffa pro:**
+**Rimborso proporzionale:**
 
-**Esempi di razione e requisito minimo per il rimborso e lo scambio** Esempio di prenotazione anticipata:
+**Pro esempi di requisiti minimi e di rimborso** per rimborso e scambio Esempio di prenotazione anticipata:
 
-- Si acquista un periodo di un anno ri per $120 il 1 gennaio
-- Il 7 aprile vuoi rimborsare o scambiare questa prenotazione
-- Dal momento che la prenotazione è stata live per 97 giorni, si otterrà (1-97/365) * $120 indietro. (ad esempio $ 88,1). Al momento non è prevista alcuna penalità per i rimborsi
-- In caso di scambio, il nuovo acquisto deve essere maggiore di $88,1
-- Al momento non è prevista alcuna penalità per i rimborsi
+- Si acquista un'istanza riservata di un anno per $120 il 1° gennaio
+- Il 7 aprile si vuole ottenere il rimborso o cambiare la prenotazione
+- Poiché si è usufruito della prenotazione per 97 giorni, si otterrà un rimborso di: (1-97/365) x $120. (ossia $88,1). Al momento non si applicano penalità sui rimborsi
+- In caso di cambio, il nuovo acquisto deve essere maggiore di $88,1
+- Al momento non si applicano penalità sui rimborsi
 
-**Esempio di prenotazione del piano di fatturazione:**
+**Esempio di prenotazione di un piano di fatturazione:**
 
-- Si acquista un periodo di un anno ri per $10 al mese
-- Il 7 aprile vuoi rimborsare o scambiare questa prenotazione
-- Poiché l'ultimo pagamento è avvenuto 7 giorni, si otterrà (1-7/31) * $10 indietro. (ad esempio $ 7,74)
-- I pagamenti futuri annullati sono $ 80. Al momento non è prevista alcuna penalità per i rimborsi
-- Questo annullamento detrarrà $ 87,74 dal limite di rimborso di $ 50.000
-- In caso di scambio, il valore totale del nuovo acquisto deve essere maggiore di $87,74
+- Si acquista un'istanza riservata di un anno per $10 al mese
+- Il 7 aprile si vuole ottenere il rimborso o cambiare la prenotazione
+- Poiché l'ultimo pagamento è stato effettuato 7 giorni prima, si otterrà un rimborso di: (1-7/31) x $10. (ossia $7,74).
+- I pagamenti futuri annullati ammontano a $80. Al momento non si applicano penalità sui rimborsi
+- Questo annullamento detrae $87,74 dal limite di rimborso annuale di $50.000
+- In caso di cambio, il valore totale del nuovo acquisto deve essere superiore a $87,74
 
 **Impossibile visualizzare la fattura per l'ultimo periodo di fatturazione**
 
@@ -84,7 +84,7 @@ Alcuni dei possibili motivi per cui potrebbe non essere visualizzata una fattura
 
 - Selezionare la sottoscrizione dalla pagina [Abbonamenti](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) nel portale di Azure [come utente con accesso alle fatture](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Seleziona **fatture**
-- Fare clic su **Scarica fattura** per visualizzare una copia della fattura in formato PDF. Se viene visualizzato **Non disponibile,** vedere Perché non viene visualizzata [una fattura per l'ultimo periodo di fatturazione?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- Fare clic su **Scarica fattura** per visualizzare una copia della fattura in formato PDF. Se è presente il messaggio **Non disponibile**, vedere [Perché non visualizzo la fattura per l'ultimo periodo di fatturazione?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 
 **Ricevere la fattura tramite posta elettronica (.pdf)**
 
@@ -101,7 +101,7 @@ Nota: se non ricevi un messaggio di posta elettronica dopo aver seguito la proce
 - Selezionare **Visualizza estratto conto** corrente per visualizzare una stima degli addebiti al momento della generazione della stima
 - Selezionare **Scarica utilizzo** per scaricare i dati di utilizzo giornalieri come file CSV. Se sono disponibili due versioni, scaricare la versione 2
 
-Altre domande: [Visitare i documenti delle istanze riservate](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Per altre domande: [consultare i documenti sulle istanze riservate](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Documenti consigliati**
 
@@ -110,6 +110,6 @@ Altre domande: [Visitare i documenti delle istanze riservate](https://docs.micro
 - [Scaricare o visualizzare la fattura di fatturazione di Azure e i dati di utilizzo giornalieri](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Comprendere come viene applicato lo sconto istanza riservata](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Informazioni sull'utilizzo dell'istanza riservata per la sottoscrizione con pagamento in base al consumo](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Informazioni sull'utilizzo dell'istanza riservata per la registrazione enterprise](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Costi software Windows non inclusi nelle istanze riservate](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Informazioni sull'utilizzo dell'istanza riservata per la Enterprise registrazione](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Windows costi software non inclusi nelle istanze riservate](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Istanze riservate nel programma CSP (Partner Central Cloud Solution Provider)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
