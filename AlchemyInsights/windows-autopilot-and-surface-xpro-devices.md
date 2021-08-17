@@ -1,5 +1,5 @@
 ---
-title: Dispositivi di Windows Autopilot e Surface X Pro
+title: Windows Dispositivi Pro Surface X e Autopilot
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003909"
 - "6964"
-ms.openlocfilehash: 4124d16aa16a8a4bd24e3ae0af6a1d6237a497fe
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 7f6825d99fcfee0ca4cc60cced2be9e4f0f9e75381e9595501072eb7dfad1698
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49681490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047404"
 ---
-# <a name="windows-autopilot-and-surface-x-pro-devices"></a>Dispositivi di Windows Autopilot e Surface X Pro
+# <a name="windows-autopilot-and-surface-x-pro-devices"></a>Windows Dispositivi Pro Surface X e Autopilot
 
-Windows Autopilot è una tecnologia di distribuzione basata su cloud in Windows 10. È possibile usare Windows Autopilot per distribuire e configurare i dispositivi in remoto direttamente dalla casella. Windows Autopilot-i dispositivi registrati vengono identificati tramite Internet al primo avvio tramite una firma del dispositivo univoca denominata hash hardware. Sono state configurate utilizzando soluzioni di gestione moderne, come Azure Active Directory (Azure AD) e Microsoft Intune.
+Windows Autopilot è una tecnologia di distribuzione basata su cloud in Windows 10. Puoi usare Windows Autopilot per distribuire e configurare i dispositivi in remoto. Windows I dispositivi registrati automaticamente vengono identificati tramite Internet al primo avvio tramite una firma univoca del dispositivo denominata hash hardware. Vengono configurati usando soluzioni di gestione moderne, ad esempio Azure Active Directory (Azure AD) e Microsoft Intune.
 
-I dispositivi possono essere spediti direttamente agli utenti. Questo processo Elimina la ricreazione durante la distribuzione, che consente di implementare nuovi metodi Agile di gestione e distribuzione dei dispositivi.
+I dispositivi possono essere spediti direttamente agli utenti. Questo processo elimina la fase di ricreazione dell'immagine, consentendo di implementare metodi innovativi e agili per gestire e distribuire i dispositivi.
 
-Per ulteriori informazioni, vedere [Windows Autopilot e Surface Devices](https://go.microsoft.com/fwlink/?linkid=2135712).
+Per altre informazioni, vedi Windows [Autopilot e dispositivi Surface.](https://go.microsoft.com/fwlink/?linkid=2135712)

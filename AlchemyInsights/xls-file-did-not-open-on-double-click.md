@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4c17329db92eb08b7bec43fd7b0d0191e7bce2b8ae030c210b46baf6b76e9bbf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047152"
 ---
-# <a name="excel-file-doesnt-open"></a>Il file di Excel non si apre
+# <a name="excel-file-doesnt-open"></a>Excel file non si apre
 
 Prova uno di questi suggerimenti:
 
-**Scegliere Excel come predefinito**
+**Scegliere Excel predefinito**
 
-* Fare clic con il pulsante destro del mouse sul foglio di lavoro, scegliere Apri **con** e quindi **Excel**
+* Fare clic con il pulsante destro del mouse sul **foglio** di lavoro, scegliere Apri con e quindi scegliere **Excel**
 
 **Eseguire un ripristino rapido**
 
 1. Accedere a **Pannello di controllo > Programmi > Programmi e funzionalità**.
 
-2. Selezionare il prodotto Office che si desidera ripristinare e quindi scegliere **Cambia**.
+2. Selezionare il Office prodotto che si desidera ripristinare e quindi scegliere **Cambia**.
 
 3. Scegliere **l'opzione Ripristino** rapido e quindi **Ripristina**.
 
-**Disinstallare le versioni di Office non utilizzate**
+**Disinstallare le Office non usate**
 
-1. Passare a **Pannello di controllo > Disinstallare un programma** e quindi selezionare la versione di Office che si desidera rimuovere.
+1. Vai a **Pannello di controllo > Disinstalla un** programma e quindi seleziona la versione Office che vuoi rimuovere.
 
 2. Fare clic su **Disinstalla**.
 
 3. Restart your computer.
 
-**Eseguire questo strumento di risoluzione dei problemi per impostare le estensioni di file di Office per l'apertura in Office**
+**Eseguire questo strumento di risoluzione dei problemi per impostare Office di file per l'apertura in Office**
 
 1. Eseguire lo strumento di risoluzione dei problemi: https://aka.ms/diag_officefile .
 
