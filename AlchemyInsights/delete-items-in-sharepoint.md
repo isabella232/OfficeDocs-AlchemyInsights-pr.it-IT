@@ -1,5 +1,5 @@
 ---
-title: Eliminare gli elementi in SharePoint
+title: Eliminare elementi in SharePoint
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
-ms.openlocfilehash: 5899ba06d0da6141502c09fee1ce0d9c7aad38d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8318327bd9bea5de4e9e90709ce0f6ce9b060d6f88692f6e25921d863931c2e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745971"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102647"
 ---
-# <a name="delete-items-in-sharepoint"></a>Eliminare gli elementi in SharePoint
+# <a name="delete-items-in-sharepoint"></a>Eliminare elementi in SharePoint
 
-[Eliminazione di un elenco](https://go.microsoft.com/fwlink/?linkid=869393)
+[Eliminare un elenco](https://go.microsoft.com/fwlink/?linkid=869393)
   
 [Eliminare una raccolta documenti](https://go.microsoft.com/fwlink/?linkid=869392)
   
-[Eliminare gli elementi da un elenco](https://go.microsoft.com/fwlink/?linkid=869397)
+[Eliminare elementi da un elenco](https://go.microsoft.com/fwlink/?linkid=869397)
   
-[Eliminare gli elementi da una raccolta documenti](https://go.microsoft.com/fwlink/?linkid=869399)
+[Eliminare elementi da una raccolta documenti](https://go.microsoft.com/fwlink/?linkid=869399)
   
 [Eliminare una colonna in una pagina](https://go.microsoft.com/fwlink/?linkid=869394)
   

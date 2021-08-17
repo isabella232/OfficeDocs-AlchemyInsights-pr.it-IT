@@ -1,5 +1,5 @@
 ---
-title: I servizi di Office 365 rimarranno in linea?
+title: I Office 365 resteranno online?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49666656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036856"
 ---
-# <a name="will-office-365-services-stay-online"></a>I servizi di Office 365 rimarranno in linea?
+# <a name="will-office-365-services-stay-online"></a>I Office 365 resteranno online?
 
-Sì. Questi servizi sono stati sviluppati con una resilienza in mente. Ogni servizio esegue contemporaneamente più istanze, quindi anche se un'istanza ha problemi, i clienti non sono coinvolti. Ogni servizio è anche contenuto, quindi se un problema viene fornito con un solo servizio, non si diffonderà con gli altri. Infine, le misure di salvaguardia sono state integrate nel codice di ogni servizio per evitare che i problemi vengano a cascata tramite il servizio.
+Sì. Questi servizi sono stati sviluppati con resilienza in mente. Ognuno dei servizi esegue più istanze contemporaneamente, quindi, anche se un'istanza presenta problemi, i clienti non ne sono interessati. Ogni servizio è anche contenuto, quindi se un problema viene risolto con un servizio non verrà distribuito al resto di essi. Infine, sono state integrate misure di sicurezza nel codice di ogni servizio per evitare che i problemi si esercitino a catena attraverso il servizio.
 
-Per ulteriori informazioni sugli sforzi per mantenere stabile i servizi, vedere [Enterprise Business Continuity Management (EBCM) con i servizi cloud](https://go.microsoft.com/fwlink/?linkid=2124377).
+Per ulteriori informazioni sui nostri sforzi per mantenere i nostri servizi stabili, vedere [Enterprise business continuity management (EBCM) with cloud services](https://go.microsoft.com/fwlink/?linkid=2124377).
 
-È possibile apprezzare i commenti e suggerimenti, quindi selezionare **Sì** / **No** alla domanda che viene visualizzata, quindi valutare la propria esperienza.
+Apprezziamo il tuo feedback, quindi seleziona **Sì** No alla domanda visualizzata e quindi /  valuta la tua esperienza.
