@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 49fedc0d829d4972f15e9266e7a5519acfbd3eda78bd7f022477060523b9afd3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5b524fa0731d499bdea831b7f5363996b2f165f58e40717c3ca8a22dc264397
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53979497"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890710"
 ---
 # <a name="cant-find-the-teams-meeting-recording"></a>Impossibile trovare la registrazione Teams riunione
 
-Se non è possibile individuare o trovare una registrazione di una riunione Teams, eseguire prima l'esecuzione di Diagnostica registrazione riunione mancante digitando **Diag: Missing Recording** nella casella precedente. 
+Se non è possibile individuare o trovare una registrazione di una riunione Teams, eseguire prima l'esecuzione di Diagnostica registrazione riunione mancante digitando **Diag: Missing Recording** nella casella sopra. 
 
 Le registrazioni si trovano in Stream, OneDrive o SharePoint a seconda di come è configurato il tenant e se la registrazione era per una riunione del Canale. Per istruzioni su come trovare manualmente la registrazione della riunione, vedere: 
 
-[Problema 2: Il collegamento di registrazione della riunione non è visibile in una finestra di chat](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
+[Problema 2: Il collegamento di registrazione della riunione non è visibile in una finestra di chat](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Per ulteriori informazioni, vedere [Issues with meeting recordings](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).
+Per ulteriori informazioni, vedere [Issues with meeting recordings](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).
