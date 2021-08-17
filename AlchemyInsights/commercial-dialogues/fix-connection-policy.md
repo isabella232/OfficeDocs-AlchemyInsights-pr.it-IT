@@ -12,20 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7eae77358b0305582f53c411a092e3d2f1dbe17fd58ceac1ac00d5c07b3dd202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988113"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888410"
 ---
 # <a name="fix-connection-policy"></a>Correggere i criteri di connessione
 
-Il messaggio di posta elettronica è stato contrassegnato come sicuro e recapitato nella posta in arrivo dell'utente perché l'indirizzo IP di invio è stato contrassegnato come sicuro nel criterio Filtro connessioni. Per esaminare il criterio, eseguire le operazioni seguenti:
+Il messaggio di posta elettronica è stato contrassegnato come sicuro e recapitato nella cartella Posta in arrivo dell'utente perché l'indirizzo IP di origine è stato contrassegnato come sicuro nel criterio filtro connessioni predefinito. Per esaminare il criterio, eseguire la procedura seguente:
 
-1. Passare al Centro [Office 365 sicurezza &](https://go.microsoft.com/fwlink/p/?linkid=2077143)e quindi passare a Criteri di gestione delle minacce Protezione da posta  >    >  [indesiderata.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Nella scheda **Personalizzata** selezionare il criterio Filtro **connessioni** e quindi **selezionare Modifica criterio.**
-3. Esaminare **l'elenco indirizzi IP** consentiti. Verificare se **Cassaforte elenco** è abilitato.
+1. Nel portale Microsoft 365 Defender posta elettronica all'indirizzo , passare a Email <https://security.microsoft.com/> **& Collaboration** Policies & \> **Rules Threat** \> **policies** \> **Anti-spam** nella **sezione Criteri.**
 
-    > [!NOTE]
-    > Microsoft sottoscrive origini di terze parti di mittenti attendibili. Se **Cassaforte è abilitato,** questi mittenti attendibili non vengono erroneamente contrassegnati come posta indesiderata. È consigliabile selezionare questa opzione perché ridurrà il numero di falsi positivi (buona posta classificata come posta indesiderata) ricevuti.
+   Per passare direttamente alla pagina **Criteri di protezione dalla posta indesiderata**, usare <https://security.microsoft.com/antispam>.
+
+2. Nella pagina **Criteri di protezione** da posta indesiderata selezionare il criterio denominato Criterio filtro connessioni **(impostazione predefinita)** facendo clic sul nome del criterio.
+
+3. Nel riquadro a comparsa dei dettagli visualizzato fare clic **su Modifica** criterio filtro connessioni nella **sezione Filtro** connessioni.
+
+4. Esaminare le voci nella sezione **Consenti** sempre messaggi dai seguenti indirizzi IP o intervalli di indirizzi e verificare se l'opzione Attiva elenco **indirizzi** attendibili è selezionata.
+
+   > [!NOTE]
+   > Microsoft sottoscrive origini di terze parti di mittenti attendibili. Se l'elenco indirizzi attendibili è abilitato, questi mittenti attendibili non vengono erroneamente contrassegnati come posta indesiderata. È consigliabile selezionare questa opzione perché ridurrà il numero di falsi positivi (buona posta classificata come posta indesiderata) ricevuti.
+
+Per ulteriori informazioni, vedere [Configurare il filtraggio delle connessioni](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy).

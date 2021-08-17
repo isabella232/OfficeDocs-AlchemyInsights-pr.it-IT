@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: c602b76b82190c981273bfd2473304c20f18cfb94c925e27b6b777cba4a52c40
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2871c0d78721eb5c544fe5583ccfd7264b3af853a7184da292dff47289700d8e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952325"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889014"
 ---
 # <a name="advanced-hunting-query-best-practices"></a>Procedure consigliate per query in Ricerca avanzata
 
-Vedere l'articolo completo Procedure consigliate [per la ricerca avanzata di query](/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) per suggerimenti dettagliati e indicazioni su:
+Vedere l'articolo completo Procedure consigliate [per la ricerca avanzata di query](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) per suggerimenti dettagliati e indicazioni su:
 - Ottimizzazione delle prestazioni delle query.
 - Suggerimenti e insidie per le query.
 - Query con righe di comando.
