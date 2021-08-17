@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 416dfbf8607976cdf27736c057cecac652484b19848d6c9b9680e265394819b3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 859042d068da6410b6b46a90a14887949825567794361d262c190149530d708b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54086564"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898472"
 ---
 # <a name="reset-or-change-passwords"></a>Reimpostare o modificare le password
 
-Un utente può modificare la propria password selezionando la foto o le iniziali dell'utente > **account Visualizza.**
+Un utente può modificare la propria password selezionando la foto o le iniziali dell'utente > **visualizza account**.
   
 Se l'utente ha dimenticato la password, un amministratore può reimpostarla andando su **Utenti** Utenti utenti attivi, selezionare gli utenti e fare clic  >  [](https://portal.office.com/adminportal/home#/users)su **Reimposta password.**
   
-Per ulteriori informazioni sulle password e per consentire agli utenti di reimpostare le proprie password, vedere [Reimpostare le password.](/microsoft-365/admin/add-users/reset-passwords)
+Per ulteriori informazioni sulle password e per consentire agli utenti di reimpostare le proprie password, vedere [Reimpostare le password.](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)

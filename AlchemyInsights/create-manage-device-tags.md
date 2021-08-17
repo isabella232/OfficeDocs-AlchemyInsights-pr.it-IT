@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11446"
 - "9003537"
-ms.openlocfilehash: 752d08ce7583580ac9896bd4390152df493d7148c8e8d4a1f39d86fc87785a7f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c06fbd377159e55cf34c79ef0aa1e34f0412a908e8d4e3dec5ad088c9b8b818a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54069536"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898204"
 ---
 # <a name="create-and-manage-device-tags-or-groups"></a>Creare e gestire i tag dei dispositivi
 
-Aggiungere tag nei dispositivi per creare un'affiliazione a un gruppo logico. I tag del dispositivo supportano la mappatura corretta della rete, consentendo di collegare tag diversi per acquisire il contesto e consentire la creazione di elenchi dinamici come parte di un incidente. I tag possono essere usati come filtro nella visualizzazione Elenco dispositivi o per raggruppare i dispositivi. Per altre informazioni sul raggruppamento dei dispositivi, vedere [Creare e gestire i tag dei dispositivi](/microsoft-365/security/defender-endpoint/machine-tags).
+Aggiungere tag nei dispositivi per creare un'affiliazione a un gruppo logico. I tag del dispositivo supportano la mappatura corretta della rete, consentendo di collegare tag diversi per acquisire il contesto e consentire la creazione di elenchi dinamici come parte di un incidente. I tag possono essere usati come filtro nella visualizzazione Elenco dispositivi o per raggruppare i dispositivi. Per altre informazioni sul raggruppamento dei dispositivi, vedere [Creare e gestire i tag dei dispositivi](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags).
 
 È possibile aggiungere tag nei dispositivi:
 
@@ -32,7 +32,7 @@ Aggiungere tag nei dispositivi per creare un'affiliazione a un gruppo logico. I 
  
 **Nota:** potrebbe esserci latenza tra il momento in cui un tag viene aggiunto a un dispositivo e la sua disponibilità nell'elenco dei dispositivi e nella pagina del dispositivo.
 
-Per aggiungere tag del dispositivo usando l'API, vedere [Aggiungere o rimuovere l'API dei tag del dispositivo](/microsoft-365/security/defender-endpoint/add-or-remove-machine-tags).
+Per aggiungere tag del dispositivo usando l'API, vedere [Aggiungere o rimuovere l'API dei tag del dispositivo](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/add-or-remove-machine-tags).
 
 ## <a name="add-and-manage-device-tags-using-the-portal"></a>Aggiungere e gestire i tag per i dispositivi tramite il portale
 
@@ -51,4 +51,4 @@ Per aggiungere tag del dispositivo usando l'API, vedere [Aggiungere o rimuovere 
 
 I tag vengono aggiunti alla visualizzazione del dispositivo e si riflettono nella visualizzazione Elenco dispositivi. È quindi possibile usare il filtro dei tag per visualizzare l'elenco di dispositivi pertinente.
 
-Per altre informazioni, vedere [Creare e gestire i tag dei dispositivi](/microsoft-365/security/defender-endpoint/machine-tags).
+Per altre informazioni, vedere [Creare e gestire i tag dei dispositivi](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags).
