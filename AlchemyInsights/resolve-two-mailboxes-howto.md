@@ -1,5 +1,5 @@
 ---
-title: 1374 risolvere due cassette postali HOWTO
+title: 1374 Risolvere due cassette postali come
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110072"
 ---
-# <a name="a-user-has-two-mailboxes"></a>Un utente dispone di due cassette postali
+# <a name="a-user-has-two-mailboxes"></a>Un utente ha due cassette postali
 
-Gli ambienti ibridi che utilizzano Azure Active Directory Connect (AAD Connect) o DirSync possono accidentalmente causare l'utilizzo di due cassette postali da parte di un utente: una in locale e una nel cloud. È possibile creare una cassetta postale duplicata in entrambi i casi.
+Gli ambienti ibridi che usano Azure Active Directory Connessione (AAD Connessione) o DirSync potrebbero accidentalmente causare a un utente due cassette postali: una locale e una nel cloud. È possibile creare una cassetta postale duplicata in entrambi i luogo.
 
-Per risolvere il problema, vedere [come eseguire il ripristino quando una cassetta postale esiste sia in Exchange Online che in locale](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Per ulteriori informazioni su come evitare che ciò accada in futuro, vedere l' [utente dispone di una cassetta postale sia in locale che in Exchange Online. Aiuto!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Per risolvere questo problema, vedere Come ripristinare quando una cassetta postale è [presente Exchange Online locale](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises)e locale. Per ulteriori informazioni su come evitare che ciò accada in futuro, vedere L'utente ha una cassetta postale sia in locale che [in Exchange Online. Guida!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

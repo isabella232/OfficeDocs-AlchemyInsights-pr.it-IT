@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116912"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Ottenere una copia della fattura o dell'utilizzo
 
-**Scaricare la fattura di Azure (.pdf)**
+**Scaricare la fattura di Azure (*. PDF)**
 
-1. Seleziona l'abbonamento dalla [pagina Abbonamenti](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) nel portale di Azure come utente con accesso [alle fatture,](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) quindi seleziona **Fatture**
-2. Fare clic su **Scarica fattura** per visualizzare una copia della fattura in formato PDF. Se viene visualizzato **Non disponibile,** vedere Perché non viene visualizzata [una fattura per l'ultimo periodo di fatturazione?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. È inoltre possibile visualizzare l'utilizzo giornaliero facendo clic sul periodo di fatturazione Per ottenere un PDF della fattura e una copia del file di utilizzo giornaliero dettagliato (. CSV: [recuperare i dati di fatturazione e utilizzo](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. Selezionare l'abbonamento nella [Pagina abbonamenti](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) nel portale di Azure come [utente con accesso alle fatture](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) poi selezionare **Fatture**
+2. Fare clic su **Scarica fattura** per visualizzare una copia della fattura in formato PDF. Se è presente il messaggio **Non disponibile**, vedere [Perché non visualizzo la fattura per l'ultimo periodo di fatturazione?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. È possibile anche visualizzare il proprio uso giornaliero facendo clic sul periodo di fatturazione. Per ottenere la fattura in formato PDF e una copia del file relativo all'utilizzo giornaliero dettagliato in formato CSV vedere [Ottenere la fattura e i dati di utilizzo](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Ricevere la fattura tramite posta elettronica (.pdf)**
 
@@ -34,7 +34,7 @@ ms.locfileid: "51812396"
 3. [Fatture di Azure e-mail direttamente nella posta in arrivo](https://azure.microsoft.com/blog/azure-email-invoices/)
 
 **Comprendere l'utilizzo giornaliero:**  
- [Informazioni sulla fattura per Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
+ [Comprendere la fattura per Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
 **Gestire i costi: evitare** [costi imprevisti con la fatturazione e la gestione dei costi di Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
@@ -52,7 +52,7 @@ Se si dispone di un Contratto per i clienti Microsoft, è possibile acconsentire
 
 **Contratto Enterprise (EA)**
 
-Per visualizzare e scaricare i dati di utilizzo come cliente EA, devi essere un amministratore dell'organizzazione, un proprietario dell'account o un amministratore del reparto con il criterio dei costi di visualizzazione abilitato.
+Per visualizzare e scaricare i dati di utilizzo come cliente EA, devi essere un amministratore di Enterprise, il proprietario dell'account o l'amministratore del reparto con il criterio di visualizzazione degli addebiti abilitato.
 
 - Accedere al portale di Azure. Cercare **Gestione costi e fatturazione**. Selezionare un profilo di fatturazione
 - Seleziona Utilizzo e addebiti. Per il mese che vuoi scaricare, seleziona Scarica

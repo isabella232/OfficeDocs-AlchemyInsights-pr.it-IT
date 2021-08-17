@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: a53a0109c3b974806d04135dd2c102de81ec560f
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: cefebe63e45caab176ba84a35280378ace7e6b3115c48694ed043a39b4d93c1e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52627244"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890058"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Controllo dello stato del sensore di Defender per endpoint
 
@@ -40,6 +40,6 @@ Facendo clic su uno dei gruppi, si viene indirizzati all'elenco Dispositivi, fil
 
 È possibile scaricare l'intero elenco in formato CSV usando la funzionalità Esporta.
 
-Per altre informazioni, vedere [Controllare lo stato di integrità del sensore in Microsoft Defender per endpoint](/microsoft-365/security/defender-endpoint/check-sensor-status).
+Per altre informazioni, vedere [Controllare lo stato di integrità del sensore in Microsoft Defender per endpoint](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/check-sensor-status).
 
-Per altre informazioni su ciò che ha causato l'inattività o la configurazione non corretta di un dispositivo, vedere [Correggere i sensori non integri in Microsoft Defender per endpoint](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors).
+Per altre informazioni su ciò che ha causato l'inattività o la configurazione non corretta di un dispositivo, vedere [Correggere i sensori non integri in Microsoft Defender per endpoint](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors).

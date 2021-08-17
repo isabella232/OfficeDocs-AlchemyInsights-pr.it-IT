@@ -1,5 +1,5 @@
 ---
-title: Seguire o deselezionare un sito di SharePoint
+title: Seguire o annullare un'SharePoint sito
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 077a72c56e8adc4617efe2d98e11069684c2f4227e2590144017be30fb19548e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744429"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116984"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Seguire o deselezionare un sito di SharePoint
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Seguire o annullare un'SharePoint sito
 
-Se gli utenti riscontrano problemi in seguito o dopo aver inseguito le risorse di SharePoint, eseguire la procedura seguente:
+Se si verificano problemi di seguito o annullamento della SharePoint risorse, completare questi passaggi:
 
-* Chiedere all'utente di disconnettersi e accedere di nuovo a SharePoint e provare gli stessi passaggi per seguire/unfollow la risorsa di SharePoint.
-* Determinare se il problema è relativo a un sito specifico o a tutti i siti. Se il problema si verifica con siti specifici, verificare che la caratteristica "contenuto seguente" sia attiva per il sito accedendo alle impostazioni del sito **> gestire le caratteristiche del sito > seguente contenuto**. Se la funzionalità è impostata su attivo, provare a disattivare e attivare di nuovo la funzionalità per il sito.
-* Chiedere all'utente di provare un altro browser Internet per verificare se il problema è specifico per il browser dell'utente.
-* Se tutti gli utenti e tutti i siti riscontrano lo stesso problema, controllare il [Dashboard dell'integrità del servizio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) per verificare se l'organizzazione ha un impatto.
+* Chiedere all'utente di disconnettersi ed eseguire di nuovo l'accesso SharePoint e provare la stessa procedura per seguire/non seguire la SharePoint risorsa.
+* Determinare se il problema riguarda un sito specifico o tutti i siti. Se il problema si verifica con siti specifici, verificare che la caratteristica "Contenuto seguente" sia attiva per il sito andando **a Sito Impostazioni > Gestisci** caratteristiche sito > Contenuto seguente . Se la caratteristica è impostata su Attiva, provare a disattivare e attivare di nuovo la caratteristica per il sito.
+* Chiedere all'utente di provare un browser Internet diverso per verificare se il problema è specifico del browser dell'utente.
+* Se tutti gli utenti e tutti i siti riscontrano lo stesso problema, controllare il [dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) di integrità del servizio per verificare se l'organizzazione è influenzata.
