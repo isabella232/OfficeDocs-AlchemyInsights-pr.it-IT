@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058546"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888374"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Configurare i Cassaforte allegati in Microsoft Defender per Office 365
 
-1. Passare al Centro [Office 365 sicurezza & e](https://go.microsoft.com/fwlink/p/?linkid=2077143) selezionare **Criteri** di gestione  >  **delle** minacce  >  **Cassaforte allegati**.
-2. Per abilitare questa funzionalità per altri carichi di lavoro, selezionare Attiva **Microsoft Defender per Office 365 per SharePoint Online, OneDrive e Microsoft Teams**.
-3. Per creare un nuovo criterio, selezionare **l'icona Nuovo** ( **+** ).
-4. Specificare il nome, la descrizione e le impostazioni per il criterio.
-5. Selezionare **Salva**.
+1. Nel portale Microsoft 365 Defender , passare a Criteri di collaborazione & posta elettronica & regole Criteri di Cassaforte <https://security.microsoft.com/>  \>  \>  \> **allegati nella** **sezione** Criteri.
+
+   Per passare direttamente alla pagina **Cassaforte allegati,** utilizzare <https://security.microsoft.com/safeattachmentv2> .
+
+2. Nella pagina **Cassaforte allegati** eseguire una delle operazioni seguenti:
+   - Per aggiungere un nuovo criterio, selezionare **+ Crea**. Verrà avviata una procedura guidata per definire le impostazioni dei criteri.
+   - Per modificare un criterio esistente, selezionarlo facendo clic sul nome del criterio. Nel riquadro a comparsa dei dettagli visualizzato selezionare **Modifica** nella sezione contenente le impostazioni che si desidera configurare.
+   - Per attivare o disattivare Cassaforte allegati per SharePoint, OneDrive e Microsoft Teams, fare clic su **Impostazioni** globali, attivare o disattivare l'impostazione e quindi fare clic su **Salva.**
+
+3. Dopo aver esaminato le impostazioni, selezionare **Invia** (nuovo) o **Salva** (modifica).
+
+Per altre informazioni, vedere gli articoli seguenti:
+
+- [Configurare i Cassaforte allegati in Microsoft Defender per Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Attivare allegati sicuri per SharePoint, OneDrive e Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

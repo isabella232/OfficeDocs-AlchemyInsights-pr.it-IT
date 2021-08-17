@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: 4094371ee0a3b3ec8d29454fd66f3e9e7c3f35a91b9ea05f308325bc447ce11c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926321"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887444"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Gli indicatori non funzionano con il browser Microsoft Edge
 
-Dopo la creazione, l'indicatore non viene rispettato da Microsoft Edge (SmartScreen). Per altre informazioni, vedere [Creare indicatori per IP e URL/domini](/microsoft-365/security/defender-endpoint/indicator-ip-domain).
+Dopo la creazione, l'indicatore non viene rispettato da Microsoft Edge (SmartScreen). Per altre informazioni, vedere [Creare indicatori per IP e URL/domini](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain).
 
 ## <a name="step-1-ensure-the-following"></a>Passaggio 1: verificare quanto segue
 
@@ -34,7 +34,7 @@ Dopo la creazione, l'indicatore non viene rispettato da Microsoft Edge (SmartScr
 
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>Passaggio 2: risolvere il problema potenziale
 
-- Verificare che il client soddisfi i requisiti. Per informazioni dettagliate, vedere [Creare indicatori per IP e URL/domini](/microsoft-365/security/defender-endpoint/indicator-ip-domain).
+- Verificare che il client soddisfi i requisiti. Per informazioni dettagliate, vedere [Creare indicatori per IP e URL/domini](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain).
 - Verificare di eseguire la versione più recente del Web browser Microsoft Edge. Per informazioni sulla versione più recente, vedere [Scopri quale versione di Microsoft Edge possiedi](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb).
 - Riavviare il Web browser Microsoft Edge.
 - Passare al sito per cui è stato configurato un indicatore. Se il sito non viene visualizzato come previsto, procedere al passaggio 3. 

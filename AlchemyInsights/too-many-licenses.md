@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499552"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886295"
 ---
 # <a name="too-many-licenses"></a>Troppe licenze?
 
@@ -36,4 +36,4 @@ Se ritieni di essere stato fatturato per troppe licenze, questo è in genere dov
 4. Nel riquadro **Rimuovi licenze,** in **Nuova** quantità nella casella **Totale** licenze immettere il numero totale di licenze desiderate per la sottoscrizione. Ad esempio, se si dispone di 100 licenze e si desidera rimuoverle 25, immettere 75.
 5. Selezionare **Salva**.
 
-Per altre informazioni, vedi [Acquistare o rimuovere licenze.](/microsoft-365/commerce/licenses/buy-licenses)
+Per altre informazioni, vedi [Acquistare o rimuovere licenze.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

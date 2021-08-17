@@ -13,12 +13,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: fcad71bcc5ea6036bc8fa25a9be38caabc4d0889ee01ea86e23065333d5fce0a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014904"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887504"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificare l'indirizzo IP e il client nei log di controllo
 
@@ -36,4 +36,4 @@ L'indirizzo IP corrispondente a un'attività di un Microsoft 365 utente o ammini
 
 Nei risultati è possibile visualizzare l'indirizzo IP dell'attività nel riquadro dei risultati. Selezionare il record di controllo per  visualizzare informazioni dettagliate nel riquadro a comparsa Dettagli, ad esempio Client, Utente che ha eseguito l'azione e così via.
 
-Per ulteriori informazioni, vedere [Individuazione dell'indirizzo IP del computer utilizzato per accedere a un account compromesso.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)
+Per ulteriori informazioni, vedere [Individuazione dell'indirizzo IP del computer utilizzato per accedere a un account compromesso.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)
