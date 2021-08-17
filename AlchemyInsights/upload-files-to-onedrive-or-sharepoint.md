@@ -1,5 +1,5 @@
 ---
-title: Caricare file in OneDrive o SharePoint
+title: Upload file da OneDrive o SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 03e2962a12fca12850441d03b43d6cfde9e60bad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90767dbcbac08f109b33bfed474cf53829f1e553e5973477796b951acf5c8d28
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073280"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Caricare file in OneDrive o SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Upload file da OneDrive o SharePoint
 
-1. Nel Web browser, passare al percorso in cui si desidera caricare i file.
+1. Nel Web browser passare al percorso in cui si desidera caricare i file.
     
-2. Aprire Esplora file e passare ai file che si desidera caricare.
+2. Apri Esplora file e individua i file che vuoi caricare.
     
-3. Selezionare i file e trascinarli nel percorso in OneDrive o SharePoint. Nota: se si usa Microsoft Edge, Mozilla FireFox o Google Chrome, è anche possibile caricare una cartella e tutti i file in essa contenuti.
+3. Selezionare i file e trascinarli nel percorso OneDrive o SharePoint. Nota: se usi Microsoft Edge, Mozilla FireFox o Google Chrome, puoi anche caricare una cartella e tutti i file in essa contenuti.
     
 **Note:**
-- È possibile caricare file di dimensioni fino a 15 GB. 
-- Il percorso completo di un file (incluso il nome del file) non può essere maggiore di 400 caratteri. 
-- Se è necessario caricare più di 100 file, [utilizzare il client di sincronizzazione di OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+- È possibile caricare file di dimensioni massime di 15 GB. 
+- Il percorso completo di un file (incluso il nome del file) non può contenere più di 400 caratteri. 
+- Se è necessario caricare più di 100 file, [utilizzare il client sincronizzazione OneDrive .](https://go.microsoft.com/fwlink/?linkid=866427) 
   
 
