@@ -1,5 +1,5 @@
 ---
-title: Accedere a Windows 10 senza usare una password
+title: Accedere a un Windows 10 senza usare una password
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fbf190d433eabfee5b45348d05d918222a385314a431812aa5f5926aacf11560
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830550"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107523"
 ---
-# <a name="sign-in-to-windows-10-without-using-a-password"></a>Accedere a Windows 10 senza usare una password
+# <a name="sign-in-to-windows-10-without-using-a-password"></a>Accedere a un Windows 10 senza usare una password
 
-Per evitare di dover digitare una password all'avvio di Windows, ti consigliamo di usare una delle opzioni di accesso sicuro di Windows Hello, ad esempio un PIN, un riconoscimento facciale o un'impronta digitale, se disponibile. Se vuoi veramente disabilitare l'accesso sicuro, vedi le istruzioni "Accedi automaticamente a Windows 10" di seguito.
+Per evitare di dover digitare una password all'avvio di Windows, ti consigliamo di usare una delle opzioni di accesso sicuro di Windows Hello, ad esempio un PIN, un riconoscimento del volto o un'impronta digitale, se disponibile. Se vuoi veramente disabilitare l'accesso sicuro, vedi le istruzioni "Accedi automaticamente a Windows 10" di seguito.
 
-**Proteggere le alternative di Windows Hello alla password dell'account**
+**Proteggere Windows Hello alternative alla password dell'account**
 
-Vai a **Impostazioni > account > opzioni di** accesso (o fai clic [qui](ms-settings:signinoptions?activationSource=GetHelp)). Verranno elencate le opzioni di accesso disponibili. Ad esempio:
+Vai a **Impostazioni > account > opzioni di accesso** (o fai clic [qui](ms-settings:signinoptions?activationSource=GetHelp)). Verranno elencate le opzioni di accesso disponibili. Ad esempio:
 
 ![Opzioni di accesso.](media/sign-in-options.png)
 
-Tocca o fai clic su una delle opzioni per configurarlo. Al successivo avvio o sblocco di Windows, potrai usare la nuova opzione anziché una password. 
+Tocca o fai clic su una delle opzioni per configurarlo. Al successivo avvio o sblocco Windows, sarà possibile utilizzare la nuova opzione anziché una password. 
 
 **Accedi automaticamente a Windows 10**
 
@@ -39,10 +39,10 @@ Tocca o fai clic su una delle opzioni per configurarlo. Al successivo avvio o sb
 
 2. Digitare **netplwiz** e premere INVIO per aprire la finestra Account utente.
 
-3. In **Account utente** fare clic sull'account a cui si desidera accedere automaticamente all'avvio di Windows.
+3. In **Account utente** fare clic sull'account a cui si desidera accedere automaticamente all'Windows avvio.
 
 4. Deseleziona la casella di controllo "Gli utenti devono immettere un nome utente e una password per usare questo computer".
 
     ![Gli utenti devono immettere un nome utente e una password.](media/users-must-enter-username.png)
 
-5. Fare clic su **OK**. Verrà richiesto di immettere e confermare la password per l'account selezionato. Fare clic su **OK** per terminare. Al successivo avvio di Windows 10, accederà automaticamente all'account selezionato.
+5. Fare clic su **OK**. Verrà richiesto di immettere e confermare la password per l'account selezionato. Fare clic su **OK** per terminare. Al successivo Windows 10, accederà automaticamente all'account selezionato.

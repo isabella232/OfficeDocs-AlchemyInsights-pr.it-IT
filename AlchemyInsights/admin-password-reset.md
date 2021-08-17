@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 9465ee400b8043cf0adb9638819e26b9cc5fe15c0d4c73d13a1f4fc237b2e6ea
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952505"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883055"
 ---
 # <a name="admin-password-reset"></a>Reimpostazione della password dell'amministratore
 
@@ -29,4 +29,4 @@ ms.locfileid: "53952505"
 
 - Un altro amministratore può reimpostare la password da **Utenti > [Utenti attivi](https://portal.office.com/adminportal/home#/users)**. Selezionare l'account, quindi fare clic sull'icona della chiave.  In alternativa, se le credenziali sono memorizzate nella cache, è possibile [creare un nuovo account di amministratore](https://portal.office.com/adminportal/home#/users), accedere con tale account e quindi reimpostare la propria password di amministratore.
 
-Per altri scenari di reimpostazione della password, provare [Reimpostare le password di Office 365 Business](/microsoft-365/admin/add-users/reset-passwords) o aprire un caso di supporto per assistenza.
+Per altri scenari di reimpostazione della password, provare [Reimpostare le password di Office 365 Business](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) o aprire un caso di supporto per assistenza.
