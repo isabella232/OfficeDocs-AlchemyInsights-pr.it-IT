@@ -14,23 +14,23 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53996598"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901740"
 ---
 # <a name="canceling-your-subscription"></a>Annullare l'abbonamento?
 
 Siamo spiacenti di vederti andare, ma se vuoi annullare l'abbonamento, ecco le opzioni disponibili:
   
 - Se hai meno di 25 licenze assegnate, puoi annullare l'abbonamento online. Vai alla **pagina Fatturazione** i \> **[tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054)** prodotti e trova l'abbonamento che vuoi annullare. Selezionare i tre puntini (Altre azioni) e quindi **Annulla abbonamento**.
-- Se agli utenti sono assegnate più di 25 licenze, ridurlo a meno di 25 per annullare o chiamare il supporto tecnico [per annullare l'abbonamento.](/microsoft-365/business-video/get-help-support)
+- Se agli utenti sono assegnate più di 25 licenze, ridurlo a meno di 25 per annullare o chiamare il supporto tecnico [per annullare l'abbonamento.](https://docs.microsoft.com/microsoft-365/business-video/get-help-support)
   
 **Rimborso: qualsiasi credito rievato verrà restituito all'utente entro il ciclo di fatturazione successivo.**
 
 > [!NOTE]
 > Se l'opzione di annullamento non è disponibile, selezionare la sottoscrizione per visualizzare la pagina dei dettagli. Nella sezione **Impostazioni sottoscrizione e pagamento** selezionare Annulla **sottoscrizione.**
 
-Per ulteriori informazioni, vedere [Annullare l'abbonamento.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Per ulteriori informazioni, vedere [Annullare l'abbonamento.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

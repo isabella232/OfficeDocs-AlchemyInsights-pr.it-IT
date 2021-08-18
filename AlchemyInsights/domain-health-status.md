@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11443"
 - "100001"
-ms.openlocfilehash: e92d27ff163910185c6df862e1e35085c4ff8d10c655524e3974b0d9145e3395
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 874233d44c1151e4449d7735a9e4b30ded16ab772e9435f27684e640d1a8c263
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53965141"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902108"
 ---
 # <a name="domain-health-status"></a>Stato di integrità del dominio
 
@@ -29,5 +29,5 @@ ms.locfileid: "53965141"
 
 Per ulteriore assistenza sulla correzione dei problemi DNS, vedere:
 
-- [Creare record DNS presso un provider di hosting DNS](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
-- [Aggiungere un dominio e modificare i record DNS personalizzati](/microsoft-365/admin/setup/add-domain)
+- [Creare record DNS presso un provider di hosting DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [Aggiungere un dominio e modificare i record DNS personalizzati](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)

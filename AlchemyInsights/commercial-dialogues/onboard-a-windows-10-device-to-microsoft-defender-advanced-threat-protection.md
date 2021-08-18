@@ -1,5 +1,5 @@
 ---
-title: Onboard di un dispositivo Windows 10 a Microsoft Defender Advanced Threat Protection (MDATP)
+title: Eseguire l'onboard Windows 10 dispositivo a Microsoft Defender Advanced Threat Protection (MDATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 51e6e2c1504002af5408d678399fdd1d691ae096
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 133ff4256c007600857d16d60bf494ea314c8d874c02d3afcbc3ff1a29b9c802
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736530"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091088"
 ---
-# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Onboard di un dispositivo Windows 10 a Microsoft Defender Advanced Threat Protection (MDATP)
+# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Eseguire l'onboard Windows 10 dispositivo a Microsoft Defender Advanced Threat Protection (MDATP)
 
 MDATP supporta gli strumenti e i metodi di distribuzione seguenti per Windows 10:
 
 - Criteri di gruppo
 - Microsoft Endpoint Configuration Manager
-- Gestione dei dispositivi mobili, incluso Microsoft Intune
+- Gestione dei dispositivi mobili, Microsoft Intune
 - Script locali
 
-Per altre informazioni, vedi Strumenti e metodi [di onboarding per i dispositivi Windows 10.](https://go.microsoft.com/fwlink/?linkid=2143460)
+Per altre informazioni, vedi Strumenti e metodi [di onboarding per Windows 10 dispositivi](https://go.microsoft.com/fwlink/?linkid=2143460).

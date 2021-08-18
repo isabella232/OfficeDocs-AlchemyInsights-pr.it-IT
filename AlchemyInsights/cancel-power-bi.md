@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045888"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318954"
 ---
 # <a name="cancel-power-bi"></a>Annulla Power BI
 
@@ -33,7 +33,6 @@ Power BI può essere annullato nella interfaccia di amministrazione di Microsoft
 
 **Rimborso: qualsiasi credito rievato verrà restituito all'utente entro il ciclo di fatturazione successivo.**
 
-> [!NOTE]
-> Se l'opzione di annullamento non è disponibile, selezionare la sottoscrizione per visualizzare la pagina dei dettagli. Nella sezione **Impostazioni sottoscrizione e pagamento** selezionare Annulla **sottoscrizione.**
+**Nota:** se l'opzione di annullamento non è disponibile, selezionare l'abbonamento per visualizzare la pagina dei dettagli. Nella sezione **Impostazioni sottoscrizione e pagamento** selezionare Annulla **sottoscrizione.**
 
-Per ulteriori informazioni, vedere [Annullare l'abbonamento.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Per ulteriori informazioni, vedere [Annullare l'abbonamento.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
