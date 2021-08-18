@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: 47a27269ca4a3e92723b79fbe306c28a4a43838e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 07c6acf1457964ab9b8f26007b25a23621dfc433e1a062122bd67039d793e350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118958"
 ---
-# <a name="create-a-microsoft-365-group-connected-team-site"></a>Creare un sito del team di Microsoft 365 connesso al gruppo
+# <a name="create-a-microsoft-365-group-connected-team-site"></a>Creare un Microsoft 365 del team connesso a un gruppo
 
-1. Fare clic sull'icona di avvio delle app nell'angolo in alto a sinistra e selezionare **SharePoint**. Se il riquadro di SharePoint non è visualizzato, fare clic su **tutte le app**.
+1. Fai clic sull'icona di avvio delle app nell'angolo superiore sinistro **e seleziona SharePoint**. Se non vedi il riquadro SharePoint, fai clic su **Tutte le app.**
     
-2. Nella parte superiore della Home page di SharePoint fare clic su **Crea sito** e scegliere l'opzione **sito del team** . 
+2. Nella parte superiore della home page SharePoint fare clic su **Crea sito** e scegliere l'opzione **Sito del** team. 
     
     > [!NOTE]
-    > Se il comando Crea sito non è visualizzato, la creazione del sito potrebbe non essere abilitata nell'organizzazione. Per abilitarlo, vedere [Manage Site Creation](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Se il comando Crea sito non è visualizzato, la creazione di siti potrebbe non essere abilitata nell'organizzazione. Per abilitarlo, vedere [Manage site creation.](https://go.microsoft.com/fwlink/?linkid=2009644) 
   
-3. Seguire le istruzioni visualizzate sullo schermo per assegnare un nome al sito e creare un indirizzo di posta elettronica per il gruppo Microsoft 365, quindi fare clic su **Avanti**. È inoltre possibile aggiungere altri proprietari e membri del gruppo. Fare clic su **Fine**.
+3. Seguire i passaggi sullo schermo per assegnare un nome al sito e creare un indirizzo di posta elettronica per il gruppo Microsoft 365 e quindi fare clic su **Avanti.** È inoltre possibile aggiungere altri proprietari e membri del gruppo. Fare clic su **Fine**.
   
- **Nota:** Per creare un sito del team senza un gruppo connesso, seguire la procedura descritta in alto, ma invece di selezionare sito del team nel passaggio 2. selezionare altre opzioni. In questo modo è possibile creare un sito del team senza un gruppo. 
+ **Nota:** Per creare un sito del team senza un gruppo connesso, seguire i passaggi precedenti, ma invece di selezionare Sito del team nel passaggio 2. selezionare Altre opzioni. Verrà illustrata la creazione di un sito del team senza un gruppo. 
     
 

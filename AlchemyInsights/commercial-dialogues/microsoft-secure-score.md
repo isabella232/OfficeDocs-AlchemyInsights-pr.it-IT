@@ -13,27 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 9300f9981ea98548f32d908cb6b06a1490793ebc2ba38e774dac45f5e341a869
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119216"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Secure Score
 
 Puoi rendere l'ambiente più sicuro usando Microsoft Secure Score. Pensalo come un punteggio di credito per la sicurezza. Indica le azioni che è possibile eseguire per migliorare la sicurezza dell'organizzazione.
 
-1. Nel portale Microsoft 365 Defender <https://security.microsoft.com> in , passare a Punteggio **sicuro**.
+1. Passare al Centro [Office 365 sicurezza & conformità](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Seleziona la scheda Microsoft Secure Score o vai a [Microsoft Secure Score.](https://go.microsoft.com/fwlink/?linkid=2099589)
+    > [!TIP]
+    >  Nella pagina Microsoft Secure Score Overview seleziona Improvement actions for recommendations on securing your org. È possibile selezionare Filtra o Raggruppa in base alla tabella per identificare rapidamente le azioni che potrebbero risultare migliori se vengono completate nell'ordine indicato.
+1. Selezionare un'azione di miglioramento dall'elenco. Viene visualizzato un riquadro a comparsa che fornisce una breve descrizione dell'azione.
+1. Fare **clic su** Visualizza impostazioni e quindi seguire le indicazioni fornite nei passaggi **successivi.**
+    > [!NOTE]
+    > Sono stati dati punti per la configurazione delle funzionalità di sicurezza consigliate, ma tenere presente che alcune azioni sono etichettate come **[Non assegnato]**. Ciò significa che, anche se implementi tale azione di miglioramento, non ti verranno assegnati punti per il tuo punteggio. In caso *contrario, l'aggiornamento del* punteggio può richiedere fino a 24 ore.
 
-   Per passare direttamente alla **pagina Punteggio** sicuro, utilizzare <https://security.microsoft.com/securescore>
-
-2. Nella scheda **Panoramica** delle sezioni **Azioni da esaminare** e **Azioni** di miglioramento principali prendere nota di eventuali suggerimenti per la protezione dell'organizzazione.
-
-3. Nella scheda Azioni di  **miglioramento,** tenere presente che le voci di azione Classificazione del miglioramento tht hanno i valori **Stato** **indirizzo** a o **Regresso.**  È possibile utilizzare **Filtro** **o Raggruppa** per nella tabella per identificare rapidamente le azioni che potrebbero risultare migliori se vengono completate in ordine.
-
-4. Selezionare un **elemento A indirizzo** o **Regresso** nell'elenco nella **scheda Azioni di** miglioramento. Verrà aperta una nuova pagina con una descrizione completa e un **pulsante** Gestisci per risolvere il problema.
-
-    **Nota:** ti vengono dati punti per la configurazione delle funzionalità di sicurezza consigliate, ma tieni presente che alcune azioni sono etichettate come **[Non assegnato]**. Ciò significa che, anche se implementi tale azione di miglioramento, non ti verranno assegnati punti per il tuo punteggio. In caso *contrario, l'aggiornamento del* punteggio può richiedere fino a 24 ore.
-
-Per ulteriori informazioni su Microsoft Secure Score, vedere [Microsoft Secure Score.](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)
+Per ulteriori informazioni su Microsoft Secure Score, vedere [Microsoft Secure Score.](https://go.microsoft.com/fwlink/?linkid=2103077)

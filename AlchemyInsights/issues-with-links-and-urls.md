@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707886"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321911"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemi relativi a collegamenti e URL
 
-Gli URI di reindirizzamento o URL di risposta (le espressioni sono intercambiabili) sono gli URL usati da Microsoft Identity Platform per restituire i token richiesti dalle app. Per informazioni sugli URL, vedere gli articoli seguenti:
+Gli URI di reindirizzamento o URL di risposta (le espressioni sono intercambiabili) sono gli URL usati da Microsoft Identity Platform per restituire i token richiesti dalle app. Per informazioni su questi URL, vedere gli articoli seguenti:
 
 - [Flussi di autenticazione e scenari di applicazione](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios): informazioni sugli URI di reindirizzamento nella pagina **Registrazione app** per ogni scenario.
 - [Limitazioni e restrizioni relative agli URI di reindirizzamento/URL di risposta](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
@@ -42,15 +42,13 @@ Per aggiungere un URL di risposta, passare alla scheda **Autenticazione** nella 
     - La piattaforma (iOS/Android/UWP)
     - Le informazioni usate per creare l'app, ad esempio l'ID bundle in iOS e il nome del pacchetto e l'hash della firma in Android. La registrazione dell'app del portale di Azure è di aiuto. Per informazioni dettagliate, vedere [Configurazione della piattaforma e URI di reindirizzamento](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Le API Web e alcuni modi invisibili all’utente per acquisire token, IWA e nome utente/password, non richiedono un URI di reindirizzamento.
+**Nota**: le API Web e alcuni modi invisibili all'utente di acquisizione dei token (IWA e nome utente/password) non richiedono un URL di reindirizzamento.
 
 **Se è stata distribuita un'applicazione Web e viene visualizzato un messaggio di mancata risposta dell'URL di risposta quando si testa l'app distribuita**
 
 Aggiungere gli URI di reindirizzamento per tutte le posizioni in cui si sta distribuendo l'applicazione Web. Per altre informazioni, vedere [Registrazione di un'app Web tramite il portale di Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Aggiungere l'URI di reindirizzamento per una posizione immediatamente dopo la distribuzione dell'applicazione in tale posizione.
+**Nota**: aggiungere l'URI di reindirizzamento per una posizione immediatamente dopo la distribuzione dell'applicazione in tale posizione.
 
 **Non è possibile registrare un numero sufficiente di URL di risposta**
 

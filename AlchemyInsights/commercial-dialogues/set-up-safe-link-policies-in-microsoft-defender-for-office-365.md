@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 353571996403d1ddd133d5ef1705d86e7dc38d02
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070364"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322217"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Configurare i Cassaforte link in Microsoft Defender per Office 365
 
-Un criterio predefinito per Cassaforte collegamenti in Microsoft Defender per Office 365 è già stato creato automaticamente. Per modificare le configurazioni:
+1. Nel portale Microsoft 365 Defender posta elettronica all'indirizzo , passare a Criteri di collaborazione & posta elettronica & regole Criteri di Cassaforte <https://security.microsoft.com/>  \>  \>  \> **collegamenti nella** **sezione** Criteri.
 
-1. Passare al Centro [Office 365 sicurezza & conformità](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Selezionare **Criteri di gestione** delle  >  **minacce**. Nella pagina **Criteri** seleziona [Microsoft Defender per Office 365 Cassaforte collegamenti.](https://go.microsoft.com/fwlink/?linkid=2101058)
-3. Nella sezione **Criteri applicabili all'intera organizzazione** selezionare **Predefinito** e quindi selezionare **l'icona** Modifica.
-4. Nella sezione **Blocca gli URL** seguenti specificare uno o più URL che si desidera impedire agli utenti dell'organizzazione di visitare. Per ulteriori informazioni, vedere [l'elenco "Bloccare gli URL seguenti" per Cassaforte collegamenti.](https://go.microsoft.com/fwlink/?linkid=2092123)
-5. Nella sezione **Impostazioni che si applicano al** contenuto ad eccezione della posta elettronica, selezionare (o deselezionare) le opzioni che si desidera utilizzare. È consigliabile selezionare tutte le opzioni.
-6. Selezionare **Salva**.
+   Per passare direttamente alla **pagina Cassaforte collegamenti,** utilizzare <https://security.microsoft.com/safelinksv2> .
+
+2. Nella pagina **Cassaforte collegamenti,** eseguire una delle operazioni seguenti:
+   - Per aggiungere un nuovo criterio, selezionare **+ Crea**. Verrà avviata una procedura guidata per definire le impostazioni dei criteri.
+   - Per modificare un criterio esistente, selezionarlo facendo clic sul nome del criterio. Nel riquadro a comparsa dei dettagli visualizzato selezionare **Modifica** nella sezione contenente le impostazioni che si desidera configurare.
+   - Per bloccare gli URL dalla protezione dei collegamenti Cassaforte o configurare le impostazioni per i collegamenti Cassaforte nelle app Office 365 supportate, fare clic su **Impostazioni** globali, configurare le impostazioni desiderate e quindi fare clic su **Salva.**
+
+3. Dopo aver esaminato le impostazioni, selezionare **Invia** (nuovo) o **Salva** (modifica).
+
+Per altre informazioni, vedere gli articoli seguenti:
+
+- [Configurare i Cassaforte dei collegamenti in Microsoft Defender per Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Configurare le impostazioni globali per Cassaforte collegamenti in Microsoft Defender per Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

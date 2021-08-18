@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9834"
 - "9003257"
-ms.openlocfilehash: 052311ffe71bcb65de2b5c2a964932b1fb99c373
-ms.sourcegitcommit: c34ba92e19419dcb2d251b8a1afe4d180a939617
+ms.openlocfilehash: d71bb376615191f507d39b99d9e51ca77d929b90
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "50965465"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323442"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-domain-joined-device"></a>L'accesso condizionale con un dispositivo aggiunto a un dominio viene bloccato
 
@@ -52,8 +52,7 @@ Se non è possibile eseguire il push dell'estensione da remoto, avvisare gli ute
 
 Per risolvere il problema, eseguire `dsregcmd/leave` nei dispositivi interessati e consentire loro di aggiungersi di nuovo ad Azure AD. Per altre informazioni, consultare questo [documento](https://docs.microsoft.com/azure/active-directory/devices/faq#q-why-do-my-users-see-an-error-message-saying-your-organization-has-deleted-the-device-or-your-organization-has-disabled-the-device-on-their-windows-10-devices).
 
-> [!NOTE]
-> Se i dispositivi sono in esecuzione con l'aggiornamento 1809 di Windows 10, con proxy VPN/Cloud e si verificano problemi con lo stato di "AzureAdPrt" o con un'app con problemi di SSO (Outlook non si connette alla cassetta postale anche se è presente un PRT), verificare di disporre della patch [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) o dell'aggiornamento cumulativo di aprile [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6) per evitare errori di PRT in tali computer.
+**Nota**: se i dispositivi sono in esecuzione con l'aggiornamento 1809 di Windows 10, con proxy VPN/Cloud e si verificano problemi con lo stato di "AzureAdPrt" o con un'app con problemi di SSO (Outlook non si connette alla cassetta postale anche se è presente un PRT), verificare di disporre della patch [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) o dell'aggiornamento cumulativo di aprile [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6) per evitare errori di PRT in tali computer.
 
 
 

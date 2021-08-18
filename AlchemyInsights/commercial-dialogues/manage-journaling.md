@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 2fcd0f386d2da8cad19fcc9872482bb75fe00dd2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c104f77f0f0f20fa4b029e5e0b515b6418326e4b7fab304f005fb67a18e2202a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119288"
 ---
 # <a name="manage-journaling"></a>Gestione dell'inserimento nel journal
 
-La creazione del journal consente alle organizzazioni di soddisfare i requisiti di conformità legale, normativa e organizzativa registrando le comunicazioni di posta elettronica in entrata e in uscita. Tenere presente:
+La creazione del journal consente alle organizzazioni di soddisfare i requisiti di conformità legale, normativa e organizzativa registrando le comunicazioni di posta elettronica in entrata e in uscita. È importante ricordare quanto segue:
 
 * Per poter gestire [l'inserimento](https://go.microsoft.com/fwlink/?linkid=2115259) nel journal, è necessario disporre delle autorizzazioni Gestione organizzazione e Gestione record. [](https://go.microsoft.com/fwlink/?linkid=2115469)
 * È necessario disporre di una cassetta del journal e, facoltativamente, di una cassetta del journaling alternativa configurata. Per ulteriori informazioni, vedere [Configure Journaling in Exchange Online](https://go.microsoft.com/fwlink/?linkid=2115260).
