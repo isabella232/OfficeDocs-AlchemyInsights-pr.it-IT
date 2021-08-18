@@ -15,19 +15,18 @@ ms.custom:
 - "9002903"
 - "5582"
 - "5583"
-ms.openlocfilehash: 0a6d169a0fdff9fe7dec9d7175f80d092a0251839f2c4d29f42f1b884c6a6f44
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3624a8f4f7ca00d5a133e25361b33861aa05592c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53986742"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316454"
 ---
 # <a name="license-or-subscription-faq"></a>Domande frequenti sull'abbonamento e licenze
 
 - Per trovare gli abbonamenti o le licenze di proprietà dell'organizzazione, passare a **Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
 - [Aggiungere o rimuovere licenze](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) da un abbonamento.
-    > [!NOTE]
-    > Il costo delle licenze non assegnate agli utenti viene comunque addebitato. Per evitare addebiti non necessari, rimuovere le licenze per ridurne il numero.
+    **Nota**: Il costo delle licenze non assegnate agli utenti viene comunque addebitato. Per evitare addebiti non necessari, rimuovere le licenze per ridurne il numero.
 . [Trasferire licenze tra account](https://docs.microsoft.com/alchemyinsights/transfer-licenses-between-tenants).
 - [Riattivare un abbonamento scaduto o disabilitato](https://go.microsoft.com/fwlink/p/?linkid=2117519).
 - [Modificare la modalità di pagamento usata per pagare l'abbonamento](https://go.microsoft.com/fwlink/p/?linkid=2117167).

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883359"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316980"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Secure Score
 
@@ -34,7 +34,6 @@ Puoi rendere l'ambiente più sicuro usando Microsoft Secure Score. Pensalo come 
 
 4. Selezionare un **elemento A indirizzo** o **Regresso** nell'elenco nella **scheda Azioni di** miglioramento. Verrà aperta una nuova pagina con una descrizione completa e un **pulsante** Gestisci per risolvere il problema.
 
-    > [!NOTE]
-    > Sono stati dati punti per la configurazione delle funzionalità di sicurezza consigliate, ma tenere presente che alcune azioni sono etichettate come **[Non assegnato]**. Ciò significa che, anche se implementi tale azione di miglioramento, non ti verranno assegnati punti per il tuo punteggio. In caso *contrario, l'aggiornamento del* punteggio può richiedere fino a 24 ore.
+    **Nota:** ti vengono dati punti per la configurazione delle funzionalità di sicurezza consigliate, ma tieni presente che alcune azioni sono etichettate come **[Non assegnato]**. Ciò significa che, anche se implementi tale azione di miglioramento, non ti verranno assegnati punti per il tuo punteggio. In caso *contrario, l'aggiornamento del* punteggio può richiedere fino a 24 ore.
 
 Per ulteriori informazioni su Microsoft Secure Score, vedere [Microsoft Secure Score.](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)

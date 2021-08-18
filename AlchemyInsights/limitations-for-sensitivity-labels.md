@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12451"
 - "9000181"
-ms.openlocfilehash: c3a0695dc2aa5f6e56be2235f08c81dbbe7fcea2
-ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
+ms.openlocfilehash: e2fc8fcf27eb916f64e4235cd116d9a7096e6078391e72363421ac3de721f5ee
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53533000"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899768"
 ---
 # <a name="limitations-for-sensitivity-labels-for-office-files-in-sharepoint-and-onedrive"></a>Limitazioni per le etichette di riservatezza per i file di Office in SharePoint e OneDrive
 
@@ -30,4 +30,4 @@ Quando si abilitano le etichette di riservatezza per i file di Office in SharePo
     - Scaricare i file etichettati, quindi caricarli nel percorso originale di SharePoint o OneDrive.
 - Per i documenti crittografati, la stampa non è supportata.
 
-Per altre informazioni sulle limitazioni, vedere [Abilitare le etichette di riservatezza per i file di Office in SharePoint e OneDrive](/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files#limitations).
+Per altre informazioni sulle limitazioni, vedere [Abilitare le etichette di riservatezza per i file di Office in SharePoint e OneDrive](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files#limitations).
