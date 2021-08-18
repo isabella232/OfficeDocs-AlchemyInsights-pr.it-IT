@@ -15,16 +15,16 @@ ms.custom:
 - commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 31b2069e02aff949adcbe703675cd85ed2c87256fda2e73e96742542d1971b1f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3e6ab7cdc92294a5902bd98c8c39cd3187b0aace
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502504"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321421"
 ---
 # <a name="change-app-license-quantity"></a>Modificare la quantità di licenze dell'app
 
-È possibile visualizzare o modificare il numero di licenze di cui si dispone e assegnarle agli utenti nel interfaccia di amministrazione di Microsoft 365.
+È possibile visualizzare o modificare il numero di licenze di cui si dispone e assegnarle agli utenti nella interfaccia di amministrazione di Microsoft 365.
 
 ## <a name="to-change-license-quantity"></a>Per modificare la quantità di licenze
 
@@ -32,7 +32,7 @@ ms.locfileid: "54502504"
 
 1. Vai alla **pagina Fatturazione** i  >  **[tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054)** prodotti.
 2. Nella **sezione** App della  scheda Prodotti individuare l'app che si desidera gestire. Seleziona i tre punti (altre azioni), quindi seleziona **Acquista licenze.**
-3. Se si desidera ridurre il numero di licenze, nella parte superiore del riquadro **Acquista licenze** selezionare **Rimuovi licenze**.
+3. Se si desidera ridurre il numero di licenze, nella parte superiore del riquadro **Acquista** licenze selezionare **Rimuovi licenze**.
 4. Per acquistare o rimuovere licenze, in **Nuova** quantità nella **casella Totale** licenze immettere il numero totale di licenze desiderate per l'abbonamento. Ad esempio, se si dispone di 100 licenze e si desidera aggiungervi altre cinque, immettere 105. Se si desidera rimuoverli cinque, immettere 95.
 5. Selezionare **Salva**.
 

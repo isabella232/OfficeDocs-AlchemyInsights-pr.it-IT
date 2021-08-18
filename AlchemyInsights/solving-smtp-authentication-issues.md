@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: d16389ca577970deaf743255f75dc86134e79dcab2fff8c33987532fc7ee1105
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890438"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321757"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Abilitare l'autenticazione SMTP e la risoluzione dei problemi
 
@@ -27,16 +27,16 @@ Se si vuole abilitare l'autenticazione SMTP per una cassetta postale o si riceve
 
     a. Accedere al portale di Azure come Amministratore della sicurezza, Amministratore dell'accesso condizionale o Amministratore globale.<BR/>
     b. Passare ad Azure Active Directory> **Proprietà**.<BR/>
-    c. Selezionare **Gestire le impostazioni predefinite per la sicurezza**.<BR/>
+    c. Selezionare **Gestisci le impostazioni predefinite per la sicurezza**.<BR/>
     d. Impostare **Abilita le impostazioni predefinite per la sicurezza** su **No**.<BR/>
     e. Selezionare **Salva**.
 
 2. [Abilitare l'invio del protocollo SMTP del client](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) nella cassetta postale con licenza.
 
     a. Nell'interfaccia di amministrazione di Microsoft 365 passare a **Utenti attivi** e selezionare l’utente.<BR/>
-    b. Passare alla scheda Posta e in **App di posta elettronica** selezionare **Gestire le applicazioni di posta elettronica**.<BR/>
-    d. Verificare che l’opzione **SMTP autenticato** sia selezionata (abilitata).<BR/>
-    e. Selezionare **Salva modifiche**.<BR/>
+    b. Passare alla scheda Posta e in **App di posta elettronica** selezionare **Gestisci le impostazioni delle app di posta elettronica**.<BR/>
+    c. Verificare che l’opzione **SMTP autenticato** sia selezionata (abilitata).<BR/>
+    d. Selezionare **Salva modifiche**.<BR/>
 
 3. [Disabilitare l'autenticazione a più fattori (MFA)](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) nella cassetta postale con licenza.
 

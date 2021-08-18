@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fc953813a94c9ed3226f81f776d6085e12a6cafc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994869"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320360"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Impostare ClientAccessServerEnabled su True
 
@@ -26,17 +26,16 @@ Se non è possibile aprire un messaggio di posta elettronica crittografato e vis
 
 1. Connettersi a PowerShell di Exchange Online.
 
-> [!NOTE]
-> Per connettersi a Exchange Online PowerShell, è necessario accedere utilizzando un account amministratore globale o Exchange amministratore.
+    **Nota:** per connettersi a Exchange Online PowerShell, è necessario accedere utilizzando un account amministratore globale o Exchange amministratore.
 
    a. Aprire Windows PowerShell ed eseguire il comando seguente:`$UserCredential = Get-Credential`
-b. Nella finestra **Windows PowerShell richiesta credenziali** immettere l'account aziendale o dell'istituto di istruzione e la password, c. Fare clic su **OK**. 
+   b. Nella finestra **Windows PowerShell richiesta credenziali** immettere l'account aziendale o dell'istituto di istruzione e la password, c. Fare clic su **OK**. 
 
 2. Eseguire il comando seguente per creare una nuova sessione:
 
     `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
-    a. Eseguire il comando seguente:
+    a. Eseguire il comando riportato di seguito:
     
     `Import-PSSession $Session -DisableNameChecking`
 
@@ -46,8 +45,7 @@ b. Nella finestra **Windows PowerShell richiesta credenziali** immettere l'accou
 
     a. Se **l'impostazione ClientAccessServerEnabled** è impostata su **False,** eseguire il cmdlet seguente: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
-> [!TIP]
-> Chiudi sempre la sessione di PowerShell con il comando seguente: `Remove-PSSession $Session`
+**Suggerimento:** chiudi sempre la sessione powershell con il comando seguente: `Remove-PSSession $Session`
 
 Per ulteriori informazioni, vedere [Exchange Online PowerShell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 

@@ -1,5 +1,5 @@
 ---
-title: Condivisione di file in rete in Windows 10
+title: Condivisione di file in una rete in Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 0503eb2e213054cb3528617e0e9b1eff7f0e4733
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 52b398388410eb63c05ae7cdd8d2ca6f16d74a69a44f25a5c38e95bf163e9e02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117292"
 ---
-# <a name="file-sharing-over-a-network-in-windows-10"></a>Condivisione di file in rete in Windows 10
+# <a name="file-sharing-over-a-network-in-windows-10"></a>Condivisione di file in una rete in Windows 10
 
-**Nota:** se in precedenza hai usato HomeGroup per la condivisione di file, tieni presente che HomeGroup è stato rimosso da Windows 10 (versione 1803). Ora puoi condividere stampanti e file usando le funzionalità incorporate in Windows 10.
+**Nota:** se in precedenza è stato utilizzato HomeGroup per la condivisione di file, tenere presente che Il gruppo Home è stato rimosso da Windows 10 (versione 1803). È ora possibile condividere stampanti e file utilizzando le funzionalità incorporate in Windows 10.
 
 **Per condividere file o cartelle in rete**
 

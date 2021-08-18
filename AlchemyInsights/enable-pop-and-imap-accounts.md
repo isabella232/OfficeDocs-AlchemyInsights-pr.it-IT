@@ -1,5 +1,5 @@
 ---
-title: 934 abilitare gli account POP e IMAP
+title: 934 Abilitare gli account POP e IMAP
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 934
 ms.assetid: 2e07bd5a-5aad-41a9-aaba-6b2bedaf92f9
-ms.openlocfilehash: bc0ffa7f014e3a329deb8b56ca73148922c18d72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b0339fec72c9c94f89fa332eee4603963f33229411c59f78282b24e0c7f586
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118028"
 ---
 # <a name="pop-and-imap4-settings"></a>Impostazioni POP e IMAP4
 
-Per trovare le impostazioni del server POP3 e IMAP4 per la propria cassetta postale, vedere [pop and IMAP mail Settings for Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
+Per trovare le impostazioni del server POP3 e IMAP4 per la propria cassetta postale, vedere Impostazioni di posta elettronica POP e [IMAP per Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
 
-Gli amministratori possono abilitare e configurare POP3 e IMAP4 nelle organizzazioni Exchange locali. Per ulteriori informazioni, vedere [Enable and Configure POP3 on Exchange Servers](https://technet.microsoft.com/library/bb124934.aspx) e [Enable and Configure IMAP4 on Exchange Servers](https://technet.microsoft.com/library/bb124489.aspx).
+Gli amministratori possono abilitare e configurare POP3 e IMAP4 nelle organizzazioni Exchange locali. Per ulteriori informazioni, vedere [Enable and configure POP3 on Exchange servers](https://technet.microsoft.com/library/bb124934.aspx) e Enable and configure [IMAP4 on Exchange servers](https://technet.microsoft.com/library/bb124489.aspx).
