@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4698a2eaaca196673dcf227405dcca1bfa441ea7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030240"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326545"
 ---
 # <a name="eligible-services-and-plans-for-fasttrack"></a>Servizi e piani idonei per FastTrack
 
@@ -25,8 +25,7 @@ Con FastTrack Center Benefit for Office 365, si lavora in remoto con gli special
 
 Per ottenere assistenza tramite il portale FastTrack, accedere al portale [di FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) e seguire i passaggi per completare il modulo Richiesta di assistenza **con** Microsoft 365.
 
-> [!NOTE]
-> In caso di problemi di accesso o di ulteriore assistenza, inviare un messaggio di posta [elettronica a ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
+**Nota:** in caso di problemi di accesso o di ulteriore assistenza, inviare un messaggio di posta [elettronica a ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
 
 Esistono diversi piani idonei FastTrack diversi settori, dalle aziende agli istituti di istruzione.
 

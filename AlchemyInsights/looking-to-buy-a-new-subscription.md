@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: commerce_purchasing
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 00f01df15069ec779187655500812d7ba06d8e567093f9d6b89f96fe8e57a2dc
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 9a58e263201ae272f51e75bdb0a3826ae236f59e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500452"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326229"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Si desidera acquistare un nuovo abbonamento?
 
-Se si dispone già di un abbonamento Microsoft 365 per le aziende e si desidera acquistare un altro abbonamento per l'organizzazione, passare alla pagina **Servizi** di acquisto fatturazione per visualizzare un elenco delle sottoscrizioni disponibili per \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) l'organizzazione.
+Se si dispone già di un abbonamento Microsoft 365 per le aziende e si desidera acquistare un altro abbonamento per l'organizzazione, passare alla pagina **Servizi** di acquisto fatturazione per visualizzare un elenco di sottoscrizioni disponibili per \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) l'organizzazione.
  
 1. Selezionare l'abbonamento desiderato e quindi scegliere **Acquista**.
 
@@ -33,8 +33,8 @@ Se si dispone già di un abbonamento Microsoft 365 per le aziende e si desidera 
 
  **Risorse aggiuntive:**
   
-- [Assegnare licenze agli utenti in Microsoft 365 per le aziende](/microsoft-365/admin/add-users/add-users)
+- [Assegnare licenze agli utenti in Microsoft 365 per le aziende](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [Annullare l'abbonamento](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Annullare l'abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Se si è interessati a cambiare abbonamento, vedere Passare a un piano Microsoft 365 [per le aziende.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- Se si è interessati a cambiare abbonamento, vedere Passare a un piano Microsoft 365 [per le aziende.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

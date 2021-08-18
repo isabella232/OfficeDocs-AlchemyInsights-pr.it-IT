@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "1500008"
 - "2443"
-ms.openlocfilehash: ac05aa634f3c96cd90c657254c16503805ab21c8bac0e97b94d2e3021a4a62c4
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7695d0f4bbea4f81146135b800fd2525decb625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501964"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326183"
 ---
 # <a name="manage-app-licenses"></a>Gestire le licenze delle app
 
@@ -30,7 +30,7 @@ ms.locfileid: "54501964"
 
 1. Vai alla **pagina Fatturazione** i  >  **[tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054)** prodotti.
 2. Nella **sezione** App della  scheda Prodotti individuare l'app che si desidera gestire. Seleziona i tre punti (altre azioni), quindi seleziona **Acquista licenze.**
-3. Se si desidera ridurre il numero di licenze, nella parte superiore del riquadro **Acquista licenze** selezionare **Rimuovi licenze**.
+3. Se si desidera ridurre il numero di licenze, nella parte superiore del riquadro **Acquista** licenze selezionare **Rimuovi licenze**.
 4. Per acquistare o rimuovere licenze, in **Nuova** quantità nella **casella Totale** licenze immettere il numero totale di licenze desiderate per l'abbonamento. Ad esempio, se si dispone di 100 licenze e si desidera aggiungervi altre cinque, immettere 105. Se si desidera rimuoverli cinque, immettere 95.
 5. Selezionare **Salva**.
 
