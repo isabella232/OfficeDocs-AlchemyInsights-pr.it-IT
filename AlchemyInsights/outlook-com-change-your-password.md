@@ -14,19 +14,19 @@ ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: f69fcd8330bbb86cbda67156e69abb6450ea160d
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 909d97011d581641589cbc8245aeb9afa462734d53e208dda84657cd306d6fb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452304"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112196"
 ---
 # <a name="change-your-password"></a>Modificare la password
 
-La password di Outlook.com è identica alla password dell'account Microsoft.
+La password Outlook.com corrisponde alla password dell'account Microsoft.
   
-Per modificare la password, passare alla [sicurezza degli account Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) e selezionare **sicurezza password**.
+Per modificare la password, passare a [Sicurezza dell'account Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) e selezionare **Protezione password**.
   
-Se hai dimenticato la password, vai alla pagina [Ripristina il tuo account](https://go.microsoft.com/fwlink/p/?linkid=841909) .
+Se hai dimenticato la password, vai alla [pagina Recupera il tuo account.](https://go.microsoft.com/fwlink/p/?linkid=841909)
   
 Per ulteriori informazioni, vedere [Change your password in Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).

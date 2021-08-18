@@ -16,12 +16,12 @@ ms.custom:
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.date: 04/21/2020
-ms.openlocfilehash: 373d517c29a98bb035e8b0785f9d9889b37734d80fa6113de34544d49f08cdf1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4fd484d890f08e4a85a23993655f46a0fea26926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937717"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315372"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Attivazione di una sottoscrizione con contratti multilicenza Microsoft
 
@@ -31,5 +31,5 @@ ms.locfileid: "53937717"
 4. Il messaggio di posta elettronica di attivazione offre due **opzioni:** Iscriviti o **Accedi.** Se in precedenza hai creato una versione di valutazione, scegli **Accedi.** Se non si dispone ancora di un tenant Microsoft 365, scegliere **Iscriviti.**
 5. Accedere al interfaccia di amministrazione di Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) utilizzando le credenziali di amministratore esistenti. Dopo aver eseguito correttamente l'accesso, riceverai un altro messaggio di posta elettronica che conferma l'acquisto.
 6. Dopo aver effettuato l'accesso, vai alla pagina **Fatturazione** i tuoi prodotti per verificare che le sottoscrizioni acquistate \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) siano ora attive. 
-    > [!NOTE]
-    > È inoltre possibile scegliere la **scheda** Sottoscrizione in VLSC per visualizzare i dettagli che verificano che l'abbonamento sia stato attivato.
+
+    **Nota:** è anche possibile scegliere **la** scheda Sottoscrizione in VLSC per visualizzare i dettagli che verificano che l'abbonamento sia stato attivato.

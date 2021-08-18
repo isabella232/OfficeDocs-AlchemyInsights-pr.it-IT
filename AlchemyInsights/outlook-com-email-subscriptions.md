@@ -1,5 +1,5 @@
 ---
-title: Abbonamenti alla posta elettronica di Outlook.com
+title: Outlook.com sottoscrizioni di posta elettronica
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672420"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111908"
 ---
-# <a name="email-subscriptions"></a>Abbonamenti di posta elettronica
+# <a name="email-subscriptions"></a>Sottoscrizioni di posta elettronica
 
-Perché sono visualizzati messaggi di posta elettronica negli elenchi abbonamenti?
+Perché vengono visualizzati messaggi di posta elettronica negli elenchi delle sottoscrizioni?
 
-Outlook.com ha rilevato che il messaggio di posta elettronica contiene informazioni di sottoscrizione, tra cui "Annulla sottoscrizione" nel messaggio. Outlook.com non si è sottoscritto automaticamente a nessuna newsletter.
+Outlook.com ha rilevato che il messaggio di posta elettronica contiene informazioni sulla sottoscrizione, tra cui "Annulla sottoscrizione" nel messaggio. Outlook.com non ha sottoscritto automaticamente le newsletter.
 
-Se si desidera interrompere la ricezione di newsletter o promozioni, è possibile annullare la sottoscrizione utilizzando Outlook.com:
-1. Nella posta in arrivo, seleziona una newsletter o un messaggio di posta elettronica promozionale. Nella parte superiore del riquadro di lettura selezionare **Annulla sottoscrizione**.
-2. Aprire le impostazioni delle [sottoscrizioni di Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) e selezionare **Annulla sottoscrizione**.
+Se vuoi interrompere la ricezione di newsletter o promozioni, puoi annullare la sottoscrizione usando Outlook.com:
+1. Nella cartella Posta in arrivo selezionare una newsletter o un messaggio di posta elettronica promozionale. Nella parte superiore del riquadro di lettura selezionare **Annulla sottoscrizione.**
+2. Apri le impostazioni [Outlook.com Abbonamenti e](https://go.microsoft.com/fwlink/?linkid=2110887) seleziona **Annulla sottoscrizione.**
 
-Note: questa funzionalità viene visualizzata solo se si è ricevuto un messaggio di posta elettronica da parte dell'azienda che invia messaggi di posta elettronica sottoscritti.
-Se la query riguarda gli abbonamenti a pagamento di Microsoft 365, visitare [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   o [ottenere ulteriori informazioni su Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Note: questa funzionalità verrà visualizzata solo se hai ricevuto un messaggio di posta elettronica dall'azienda che invia messaggi di posta elettronica sottoscritti.
+Se la query riguarda Microsoft 365 a pagamento, passare a o Ulteriori informazioni [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) [su Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   

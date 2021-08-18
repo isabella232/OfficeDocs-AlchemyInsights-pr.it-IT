@@ -13,27 +13,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 17c75293103a924dd76fdaf171ad04f5b3252b23
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64b9cd0d61d07aeeb69c83f7f35086ec23fa917b2c90665c567245fe4915abe1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798272"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112520"
 ---
-# <a name="change-your-email-name"></a>Modificare il nome della posta elettronica
+# <a name="change-your-email-name"></a>Modificare il nome di posta elettronica
 
-Se si dispone di un indirizzo di posta elettronica di Outlook.com e si desidera modificare il nome, i destinatari vedranno nei messaggi:
+Se si dispone di un indirizzo Outlook.com e si desidera modificare il nome che i destinatari visualizzano nei messaggi:
   
-1. Selezionare l'immagine dell'account nell'angolo in alto a destra della pagina.
-2. Selezionare il **profilo personale**.
-3. Selezionare **modifica nome** per apportare modifiche e selezionare **Salva**.
+1. Seleziona l'immagine dell'account nell'angolo in alto a destra della pagina.
+2. Selezionare **Profilo personale.**
+3. Selezionare **Modifica nome** per apportare modifiche e selezionare **Salva.**
 
-Per rendere effettive le modifiche apportate al nome del profilo, attendere fino a 24 ore.
+Attendere fino a 24 ore per l'applicazione delle modifiche apportate al nome del profilo.
   
-Se si dispone di più di un alias di posta elettronica o di un indirizzo connesso all'account Outlook.com, è possibile scegliere di inviare messaggi di posta elettronica da uno qualsiasi degli indirizzi.
+Se all'account Outlook.com sono connessi più alias di posta elettronica o indirizzi, è possibile scegliere di inviare messaggi di posta elettronica da qualsiasi indirizzo.
   
 1. Quando si compone un messaggio, selezionare "..." nella parte inferiore della finestra di composizione.
-1. Selezionare **Mostra da** per visualizzare la riga da.
-1. Sopra la riga a, selezionare **da** e scegliere l'indirizzo di posta elettronica che si desidera utilizzare.
+1. Selezionare **Mostra da** per visualizzare la riga Da.
+1. Sopra la riga A, selezionare **Da** e scegliere l'indirizzo di posta elettronica che si desidera utilizzare.
 
-Per ulteriori informazioni, vedere [inviare messaggi di posta elettronica da un indirizzo diverso in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Per ulteriori informazioni, vedere [Send email from a different address in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
