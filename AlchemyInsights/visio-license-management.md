@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002419"
 - "5116"
-ms.openlocfilehash: c0066a325ebea3173fc2d4b76e6494c2fb05e2bf2af941e7e48ee78461063021
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: eb67351db52f33f1f023b4c9163167416e8d36f1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892319"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330554"
 ---
 # <a name="visio-license-management"></a>Gestione delle licenze di Visio
 

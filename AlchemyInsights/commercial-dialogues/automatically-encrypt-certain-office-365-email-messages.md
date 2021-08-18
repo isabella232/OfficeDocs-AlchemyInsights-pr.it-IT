@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b15a72ced4921b3df1b7105837592781188a2a25
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949571"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327978"
 ---
 # <a name="automatically-encrypt-certain-office-365-email-messages"></a>Crittografare automaticamente alcuni Office 365 di posta elettronica
 
@@ -35,8 +35,7 @@ ms.locfileid: "53949571"
 9. Scegliere qualsiasi selezione facoltativa (da un elenco di selezioni facoltative che è possibile effettuare a questo punto, molte delle quali possono essere lasciati con l'impostazione predefinita per semplicità).
 10. Fare clic su **Salva**.
 
-> [!IMPORTANT]
-> È sempre possibile tornare e modificare questa regola in un secondo momento.
+**Importante:** è sempre possibile tornare e modificare questa regola in un secondo momento.
 
 Per ulteriori informazioni sulla creazione di regole per la crittografia, vedere [Define mail flow rules to encrypt email messages in Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
 

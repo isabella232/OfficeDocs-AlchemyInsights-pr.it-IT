@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11250"
 - "9000037"
-ms.openlocfilehash: f6fb1eb94d42133e6d39fbd1dc0ea4161a956a66d8fa41b63fd72bf6e1dadce3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 691697ea22fa0579e2edfc83681a0c6b335c9f0a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088648"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327814"
 ---
 # <a name="microsoft-365-groups-not-synching-in-outlook"></a>Mancata sincronizzazione di Gruppi di Microsoft 365 in Outlook
 
 Per risolvere i problemi di sincronizzazione della posta elettronica di Gruppi di Microsoft 365 è necessario abilitare OAuth (autenticazione moderna). 
 
-Per la procedura relativa all'abilitazione di OAuth, vedere [Abilitare o disabilitare l'autenticazione moderna per Outlook in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+Per la procedura relativa all'abilitazione di OAuth, vedere [Abilitare o disabilitare l'autenticazione moderna per Outlook in Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).

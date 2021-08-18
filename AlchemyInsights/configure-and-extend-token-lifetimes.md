@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7778"
 - "9004351"
-ms.openlocfilehash: 97e89feda45439dae59acca5817fdf359623d647997d08a5cbe4a6314fa6db3a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ce100fcc2c62d62477f78e10b3cc9233fc2f5c5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54044920"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329090"
 ---
 # <a name="configure-and-extend-token-lifetimes"></a>Configurare ed estendere la durata dei token
 
@@ -34,8 +34,7 @@ L'articolo [Configurare il comportamento della sessione in Azure Active Director
 
 La durata di un token è di 1 ora, la durata di una sessione è di 24 ore. Ciò significa che se non vengono inviate richieste entro 24 ore, sarà necessario accedere di nuovo prima di richiedere un nuovo token.
 
-> [!NOTE]
-> A partire dal 30 maggio 2020, nessun nuovo tenant può usare i criteri di durata dei token configurabile per impostare i token della sessione e di aggiornamento. La deprecazione avverrà in diversi mesi, ciò significa che non verranno più rispettati i criteri dei token di sessione e di aggiornamento esistenti. È comunque possibile configurare la durata del token di accesso dopo la deprecazione.
+**Nota**: a partire dal 30 maggio 2020, nessun nuovo tenant può usare i criteri di durata dei token configurabile per impostare i token della sessione e di aggiornamento. La deprecazione avverrà in diversi mesi, ciò significa che non verranno più rispettati i criteri dei token di sessione e di aggiornamento esistenti. È comunque possibile configurare la durata del token di accesso dopo la deprecazione.
 
 
 

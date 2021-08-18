@@ -1,5 +1,5 @@
 ---
-title: Read-Only per il messaggio manutenzione quando si tenta di utilizzare SharePoint o OneDrive
+title: Read-Only per il messaggio di manutenzione quando si tenta di utilizzare SharePoint o OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,14 +13,14 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 376b653b18857103586e25edd0ad6801a7bbe0a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910550"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329452"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only per il messaggio manutenzione quando si tenta di utilizzare SharePoint o OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only per il messaggio di manutenzione quando si tenta di utilizzare SharePoint o OneDrive
 
 Gli utenti potrebbero ricevere **un messaggio** di sola lettura per manutenzione quando tentano di utilizzare SharePoint o OneDrive per uno degli scenari seguenti. 
 
@@ -28,18 +28,16 @@ Gli utenti potrebbero ricevere **un messaggio** di sola lettura per manutenzione
 -   Un evento imprevisto di servizio attivo ad alta priorità che potrebbe verificarsi. Controllare eventuali avvisi/eventi imprevisti accedendo a [Integrità servizio](https://portal.office.com/adminportal/home#/servicehealth).
 -   Uno scenario di ripristino con correzione automatica secondario che potrebbe verificarsi a causa di eventi imprevisti nei server che potrebbero durare meno di 30 minuti o meno. 
     
-    Non ci sono post del Centro messaggi o integrità del servizio per questi recuperti minori, ma dovresti tornare alla normalità molto presto.
+    Non ci sono post di integrità del servizio o del Centro messaggi per questi recuperti secondari, ma dovresti tornare alla normalità molto presto.
 
-In pochissime occasioni è stato rilevato che uno dei tre scenari sopra elencati è stato la causa e che il servizio è stato ripristinato, ma la cache del browser degli utenti non è stata cancellata.
+In pochissime occasioni è stato rilevato che uno dei tre scenari sopra elencati è la causa e che il servizio è stato ripristinato, ma la cache del browser degli utenti non è stata cancellata.
 
 Tentare di cancellare la cache del browser prima di passare al sito.
 
-1. Nel browser Microsoft Edge, selezionare **Impostazioni** e quindi **selezionare Privacy e sicurezza.**
+1. Nel browser Microsoft Edge, selezionare **Impostazioni** e quindi selezionare **Privacy e sicurezza.**
 2. In **Cancella esplorazione** selezionare Scegli cosa **cancellare.**
 3. Selezionare **Cookie e dati del sito Web salvati** e selezionare **Cancella.**
 
->[!Note] 
-> Questi passaggi possono essere diversi quando si utilizzano altri browser, ad esempio Mozilla Firefox o Google Chrome.
+**Nota:** questi passaggi possono essere diversi quando si utilizzano altri browser, ad esempio Mozilla Firefox o Google Chrome.
 
->[!Note] 
-> Un'altra opzione potrebbe essere aprire il SharePoint o OneDrive in una nuova finestra inPrivate.
+**Nota:** un'altra opzione potrebbe essere aprire il SharePoint o OneDrive in una nuova finestra di InPrivate.

@@ -13,17 +13,17 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085844"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328376"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Controllo delle versioni in SharePoint e OneDrive 
 
 
-Quando il controllo delle versioni è abilitato nell'SharePoint o nella raccolta, è possibile archiviare, tenere traccia e ripristinare gli elementi in un elenco e i file in una raccolta ogni volta che cambiano. Il controllo delle versioni, combinato con altre impostazioni, ad esempio l'estrazione, offre un gran controllo del contenuto pubblicato nel sito e può fornire un valore reale se si ha la necessità di esaminare o ripristinare una versione precedente di un elemento o di un file.
+Quando il controllo delle versioni è abilitato nell'SharePoint o nella raccolta, è possibile archiviare, tenere traccia e ripristinare gli elementi in un elenco e i file in una raccolta ogni volta che cambiano. Il controllo delle versioni, combinato con altre impostazioni, ad esempio l'estrazione, consente di controllare molto il contenuto pubblicato nel sito e può fornire un valore reale se si ha la necessità di esaminare o ripristinare una versione precedente di un elemento o di un file.
 
 Per ulteriori informazioni sul controllo delle versioni, vedere gli articoli seguenti.
 
@@ -39,7 +39,6 @@ Per ulteriori informazioni sul controllo delle versioni, vedere gli articoli seg
 
 - [Limiti relativi al controllo delle versioni](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->Se si è un cliente Microsoft 365, il controllo delle versioni è ora attivato per impostazione predefinita quando si creano nuove raccolte OneDrive for Business e vengono salvate automaticamente le ultime 500 versioni di un documento. Ciò consente di evitare la perdita di documenti o dati importanti. Se nel sito di OneDrive for Business o nel sito del team sono presenti raccolte esistenti in cui non è abilitato il controllo delle versioni, è possibile attivare il controllo delle versioni in qualsiasi momento.
+**Nota:** se sei un cliente di Microsoft 365, il controllo delle versioni è ora attivato per impostazione predefinita quando crei nuove raccolte OneDrive for Business e salva automaticamente le ultime 500 versioni di un documento. Ciò consente di evitare la perdita di documenti o dati importanti. Se nel sito di OneDrive for Business o nel sito del team sono presenti raccolte esistenti in cui non è abilitato il controllo delle versioni, è possibile attivare il controllo delle versioni in qualsiasi momento.
 
 

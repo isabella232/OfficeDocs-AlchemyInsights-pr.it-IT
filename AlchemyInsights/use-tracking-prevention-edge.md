@@ -15,12 +15,12 @@ ms.custom:
 - "10979"
 - "9004625"
 - "9006450"
-ms.openlocfilehash: 4f1a006b24fe77438bc0d54d72bec440128740ac417d7a9dfc93c90d8f0d49ad
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ae8fc8dc329bb631db313cd576a0f121e7a7179a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889506"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330636"
 ---
 # <a name="use-tracking-prevention-in-microsoft-edge-chromium"></a>Usare la prevenzione del rilevamento in Microsoft Edge (Chromium)
 
@@ -28,6 +28,6 @@ Alcuni siti Web usano i tracker per raccogliere le informazioni del browser. Son
 
 - **Di base**. È il livello meno restrittivo e progettato per gli utenti che amano gli annunci pubblicitari personalizzati e non si preoccupano di essere tracciati sul Web. Il livello minimo protegge gli utenti da tracker dannosi, come fingerprinter e cryptominer.
 - **Bilanciato**. È il livello predefinito e progettato per gli utenti che vogliono vedere meno annunci pubblicitari che li seguono sul Web. Un livello bilanciato blocca non solo i tracker dai siti con cui gli utenti non interagiscono mai ma anche riduce al minimo il rischio di problemi di compatibilità.
-- **Restrittivo**. È il livello più restrittivo e progettato per gli utenti che non si preoccupano di sacrificare la compatibilità del sito Web per la massima privacy.
+- **Modalità Strict**. È il livello più restrittivo e è progettato per gli utenti che non si preoccupano di sacrificare la compatibilità del sito Web per la massima privacy.
 
 Se vuoi aggiornare le impostazioni di privacy, nel browser Edge vai a **Impostazioni** > **Privacy, ricerca e servizi**. È possibile aggiornare le impostazioni di prevenzione del rilevamento, bloccare i tracker, cancellare i dati di esplorazione ed esplorare altre opzioni di privacy e sicurezza per proteggere i dati. Per ulteriori informazioni, vedere [Prevenzione del rilevamento in Microsoft Edge](https://docs.microsoft.com/microsoft-edge/web-platform/tracking-prevention). 
