@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082406"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332439"
 ---
 # <a name="change-a-users-email-address"></a>Cambiare l'indirizzo di posta elettronica di un utente
 
 Cambiare l'indirizzo di posta elettronica di un utente è facile. Seguire questa procedura:
   
-1. Nella finestra interfaccia di amministrazione di Microsoft 365 passare alla [pagina Utenti](https://go.microsoft.com/fwlink/p/?linkid=834822) o scegliere **Utenti** \> **utenti attivi**.
+1. Nel interfaccia di amministrazione di Microsoft 365 passare alla pagina [Utenti](https://go.microsoft.com/fwlink/p/?linkid=834822) o scegliere **Utenti** \> **utenti attivi**.
     
 2. Selezionare l'utente.
     
@@ -31,7 +31,7 @@ Cambiare l'indirizzo di posta elettronica di un utente è facile. Seguire questa
     
 4. Nella casella **Alias** digitare un nuovo messaggio di posta elettronica, quindi scegliere **Aggiungi**.
     
-    **IMPORTANTE:** se viene visualizzato il messaggio di errore " Non è possibile trovare un parametro corrispondente al nome del parametro **"EmailAddresses",** significa che Microsoft sta richiedendo un po' di più per completare la configurazione del tenant o del dominio personalizzato se ne è stato aggiunto uno di recente. Per completare la configurazione possono essere necessarie fino a 4 ore. Attendere il tempo necessario per il completamento della procedura e quindi riprovare. Se il problema persiste, contattare il supporto, che provvederà a eseguire una sincronizzazione completa.
+    **Importante:** se viene visualizzato il messaggio di errore " Non è possibile trovare un parametro corrispondente al nome del parametro **"EmailAddresses",** significa che Microsoft sta richiedendo un po' di più per completare la configurazione del tenant o del dominio personalizzato se ne è stato aggiunto uno di recente. Per completare la configurazione possono essere necessarie fino a 4 ore. Attendere il tempo necessario per il completamento della procedura e quindi riprovare. Se il problema persiste, contattare il supporto, che provvederà a eseguire una sincronizzazione completa.
     
     Se viene visualizzato il messaggio di errore " **Siamo spiacenti, l'utente non può essere modificato. Esaminare le informazioni utente e riprovare**" significa che non si è un amministratore globale e non si dispone delle autorizzazioni per modificare il nome dell'utente.
     

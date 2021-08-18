@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088868"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333163"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Introduzione agli eventi live di Teams
 
@@ -27,7 +27,9 @@ Per creare un evento live è necessario quanto segue:
 
 - Verificare prima di tutto che gli eventi live di Teams siano [disponibili nel proprio paese e area geografica](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability). Gli eventi live non sono ancora supportati in alcuni paesi.  Se sono state assegnate licenze e impostato criteri, ma non si riesce comunque a creare eventi live di Teams, è probabile che ci si trovi in un paese o un'area geografica in cui gli eventi live non sono ancora disponibili.
 
-- Una [licenza di Office 365 Enterprise E1, E3 o E5 o una licenza di Office 365 A3 o A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Nota**: a causa di un recente aumento dell'utilizzo di Teams, quando si assegna una licenza di Teams a un utente, potrebbe essere necessario attendere circa 24 ore prima che la configurazione venga completata. Fino a quel momento, non sarà possibile assegnare criteri di Teams a tale utente, che potrebbe non avere accesso ad alcune funzionalità di Teams come chiamate e audioconferenze.
+- Una [licenza di Office 365 Enterprise E1, E3 o E5 o una licenza di Office 365 A3 o A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Nota**: a causa di un recente aumento dell'utilizzo di Teams, quando si assegna una licenza di Teams a un utente, potrebbe essere necessario attendere circa 24 ore prima che la configurazione venga completata. Fino a quel momento, non sarà possibile assegnare criteri di Teams a tale utente, che potrebbe non avere accesso ad alcune funzionalità di Teams come chiamate e audioconferenze.
 
 - Autorizzazioni per la [creazione di eventi live nell'interfaccia di amministrazione di Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 

@@ -13,30 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 016f4b1caa05cb26d1e6795551b64737d4cb64a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898800"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332347"
 ---
 # <a name="investigate-all-the-users-activities"></a>Analizzare tutte le attività degli utenti
 
 Ecco come eseguire questa operazione:
 
 1. Eseguire una delle operazioni seguenti:
-   - Nella finestra Centro conformità Microsoft 365 <https://compliance.microsoft.com> , passare a **Soluzioni** \> **Controllo**. In caso contrario, per passare direttamente alla **pagina Controllo,** utilizzare <https://compliance.microsoft.com/auditlogsearch> .
-   - Nel portale Microsoft 365 Defender <https://security.microsoft.com> all'indirizzo , passare a **Controlla**. In caso contrario, per passare direttamente alla **pagina Controllo,** utilizzare <https://security.microsoft.com/auditlogsearch> .
+   - Nel Centro conformità Microsoft 365 in <https://compliance.microsoft.com>, passare a **Soluzioni** \> **Audit**. In alternativa, per passare direttamente alla pagina **Audit**, usare <https://compliance.microsoft.com/auditlogsearch>.
+   - Nel portale di Microsoft 365 Defender in <https://security.microsoft.com>, passare ad **Audit**. In alternativa, per passare direttamente alla pagina **Audit**, usare <https://security.microsoft.com/auditlogsearch>.
 
-    > [!NOTE]
-    > Se viene visualizzato un avviso che indica che è necessario attivare la funzionalità, procedere e attivarla ora. Se la funzionalità non è attivata, i risultati della ricerca non saranno in grado di estrarre i dati dalle date precedenti.
+    **Nota:** se viene visualizzato un avviso che indica che è necessario attivare la funzionalità, procedere e attivarla ora. Se la funzionalità non è attivata, i risultati della ricerca non saranno in grado di estrarre i dati dalle date precedenti.
 
 2. Nella scheda **Ricerca** della pagina **Controllo** configurare le impostazioni seguenti:
-   - **Intervallo di data e ora**: selezionare l'intervallo di data/ora nelle **caselle Inizio** **e** Fine.
+   - **Intervallo di data e ora**: selezionare l'intervallo di data/ora nelle caselle **Inizio** e **Fine**.
    - **Attività:** se si è interessati a un'attività specifica, selezionarla nell'elenco. in caso contrario, il valore predefinito **Mostra risultati per tutte le attività** restituisce tutte le attività.
-   - **Utenti**: accettare il valore predefinito vuoto per restituire i risultati per tutti gli utenti oppure immettere uno o più utenti.
+   - **Utenti**: accettare il valore predefinito vuoto per restituire i risultati di tutti gli utenti, oppure immettere uno o più utenti.
 
-3. Al termine, fare clic su **Cerca**. Le attività vengono visualizzate nella nuova **pagina Di ricerca di** controllo. Verranno visualizzati **l'indirizzo IP,** **l'utente** e il **nome dell'attività.**
+3. Una volta terminato, fare clic su **Cerca**. Le attività vengono visualizzate nella nuova pagina **Ricerca audit**. Verranno visualizzati **l'indirizzo IP,** **l'utente** e il **nome dell'attività.**
 
 4. Per scaricare i risultati, selezionare **Esporta** \> **Scarica tutti i risultati**.
 

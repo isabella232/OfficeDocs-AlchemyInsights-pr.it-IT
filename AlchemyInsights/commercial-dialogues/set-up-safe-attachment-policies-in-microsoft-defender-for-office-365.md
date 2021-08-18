@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b76b3f2f96a1c086c7eb7de830908965d7207c0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888374"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333387"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Configurare i Cassaforte allegati in Microsoft Defender per Office 365
 
-1. Nel portale Microsoft 365 Defender , passare a Criteri di collaborazione & posta elettronica & regole Criteri di Cassaforte <https://security.microsoft.com/>  \>  \>  \> **allegati nella** **sezione** Criteri.
+1. Nel portale Microsoft 365 Defender posta elettronica all'indirizzo , passare a Criteri di collaborazione & di posta elettronica & regole Criteri di Cassaforte <https://security.microsoft.com/>  \>  \>  \> **allegati nella** **sezione** Criteri.
 
    Per passare direttamente alla pagina **Cassaforte allegati,** utilizzare <https://security.microsoft.com/safeattachmentv2> .
 
@@ -34,5 +34,5 @@ ms.locfileid: "57888374"
 
 Per altre informazioni, vedere gli articoli seguenti:
 
-- [Configurare i Cassaforte allegati in Microsoft Defender per Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Configurare i criteri Cassaforte allegati in Microsoft Defender per Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
 - [Attivare allegati sicuri per SharePoint, OneDrive e Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

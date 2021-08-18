@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973845"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338964"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Autorizzazioni necessarie per le ricerche eDiscovery
 
-Per eseguire ricerche di contenuto nel Centro sicurezza e conformità &, un utente deve essere almeno membro del gruppo di ruoli Manager eDiscovery, che consente di eseguire ricerche e di inserire blocchi nelle cassette postali, nei siti di SharePoint e nelle posizioni OneDrive. I membri possono anche creare e gestire casi di eDiscovery, aggiungere e rimuovere membri a un caso, creare e modificare ricerche contenuto e accedere ai dati dei casi in Advanced eDiscovery.
+Per eseguire xearches del contenuto nel Centro sicurezza & conformità, un utente deve almeno essere membro del gruppo di ruoli Manager eDiscovery.
 
-Per eseguire In-Place ricerche eDiscovery nell'interfaccia di amministrazione di Exchange (EAC), l'utente deve essere membro del gruppo di ruoli Gestione individuazione in Exchange Online.
+Per eseguire ricerche di contenuto nel Centro conformità Microsoft 365, un utente deve almeno essere membro del gruppo di ruoli Manager eDiscovery.  
 
-Per ulteriori informazioni sulle autorizzazioni di eDiscovery, vedere: 
+Per assegnare le autorizzazioni:
 
-- [Assegnare le autorizzazioni di eDiscovery nel Centro sicurezza e conformità](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [Assegnare le autorizzazioni di eDiscovery di Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. Vai a [Centro conformità Microsoft 365](https://compliance.microsoft.com/)  >  **autorizzazioni**.
+1. In **Centro conformità** selezionare **Ruoli** e quindi **Gestione eDiscovery.**
+1. Nel riquadro a comparsa, aggiungere l'utente al ruolo desiderato selezionando Modifica **accanto** al ruolo di responsabile di eDiscovery o amministratore di eDiscovery.
 
 **Nota:** dopo aver assegnato le autorizzazioni di eDiscovery, potrebbe essere necessario attendere alcuni minuti per la propagazione delle autorizzazioni.
+
+Per ulteriori informazioni sulle autorizzazioni di eDiscovery, vedere [Assign eDiscovery permissions in the Centro conformità Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).

@@ -13,30 +13,30 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899888"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331163"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificare quando l'inoltro di posta elettronica esterno è configurato sulle cassette postali
 
 Quando un Microsoft 365 utente configura l'inoltro esterno della posta elettronica su una cassetta postale, l'attività viene verificata come parte del cmdlet **Set-Mailbox.** È possibile visualizzare l'attività utilizzando la ricerca nei log di controllo. Ecco come farlo.
 
-1. Esegui uno dei seguenti passaggi:
-   - Nella finestra Centro conformità Microsoft 365 <https://compliance.microsoft.com> , passare a **Soluzioni** \> **Controllo**. In caso contrario, per passare direttamente alla **pagina Controllo,** utilizzare <https://compliance.microsoft.com/auditlogsearch> .
-   - Nel portale Microsoft 365 Defender <https://security.microsoft.com> all'indirizzo , passare a **Controlla**. In caso contrario, per passare direttamente alla **pagina Controllo,** utilizzare <https://sip.security.microsoft.com/auditlogsearch> .
+1. Eseguire uno dei seguenti passaggi:
+   - Nel Centro conformità Microsoft 365 in <https://compliance.microsoft.com>, passare a **Soluzioni** \> **Audit**. In alternativa, per passare direttamente alla pagina **Audit**, usare <https://compliance.microsoft.com/auditlogsearch>.
+   - Nel portale di Microsoft 365 Defender in <https://security.microsoft.com>, passare ad **Audit**. In alternativa, per passare direttamente alla pagina **Audit**, usare <https://sip.security.microsoft.com/auditlogsearch>.
 
-2. Nella pagina **Controllo** verificare che la scheda **Ricerca** sia selezionata e quindi configurare le impostazioni seguenti:
+2. Alla pagina **Audit**, verificare che la scheda **Cerca** sia selezionata e configurare le seguenti impostazioni:
    - Selezionare l'intervallo di data/ora nelle **caselle Inizio** **e** Fine.
    - Verificare che **la casella** Attività contenga Mostra risultati per tutte **le attività.**
 
-3. Al termine, fare clic su **Cerca**. Le attività vengono visualizzate nella nuova **pagina Di ricerca di** controllo.
+3. Una volta terminato, fare clic su **Cerca**. Le attività vengono visualizzate nella nuova pagina **Ricerca audit**.
 
-4. Nei risultati, fare clic **su Filtra risultati** e digitare **Set-Mailbox** nella casella filtro attività.
+4. Nei risultati, fare clic su **Filtra risultati** e digitare **Set-Mailbox** nella casella filtro attività.
 
-5. Selezionare un record di controllo nei risultati. Nel riquadro **a comparsa** Dettagli fare clic su **Altre informazioni.** È necessario esaminare i dettagli di ogni record di controllo per determinare se l'attività è correlata all'inoltro della posta elettronica.
+5. Selezionare un record di audit nei risultati. Nel riquadro **a comparsa** Dettagli fare clic su **Altre informazioni.** È necessario esaminare i dettagli di ogni record di controllo per determinare se l'attività è correlata all'inoltro della posta elettronica.
 
    - **ObjectId**: Valore alias della cassetta postale modificata.
    - **Parametri**: _ForwardingSmtpAddress_ indica l'indirizzo di posta elettronica di destinazione.
