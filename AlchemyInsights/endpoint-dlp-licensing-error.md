@@ -1,5 +1,5 @@
 ---
-title: Errore di licenza DLP di endpoint
+title: Endpoint DLP licensing error
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477672"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090148"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>Errore di licenza DLP di endpoint
+# <a name="endpoint-dlp-licensing-error"></a>Endpoint DLP Licensing error
 
-Quando si tenta di configurare l'endpoint DLP, se viene visualizzato un errore seguente:
+Quando si tenta di configurare Endpoint DLP, se viene visualizzato il seguente errore:
 
 `Your organization is missing the licenses required to manage these devices`.
 
@@ -36,6 +36,6 @@ Verificare di disporre di una delle sottoscrizioni o dei componenti aggiuntivi s
 - Microsoft 365 A5 Information Protection and Governance
 
 > [!NOTE]
-> Questa operazione non funzionerà per le combinazioni di licenze quali: Win E5 + O365 E5 + EMS E5. Per impostare questa funzionalità, è necessario disporre di una licenza pura di M365 E5.
+> Questo non funziona per combinazioni di licenze come: Win E5 + O365 E5 + EMS E5. Per configurare questa funzionalità, è necessario disporre di una licenza M365 E5 pura.
 
-Per ulteriori informazioni sulle licenze DLP di endpoint, vedere [Endpoint DLP Licensing.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
+Per altre informazioni sulle licenze di Endpoint DLP, vedi [Endpoint DLP Licensing.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)

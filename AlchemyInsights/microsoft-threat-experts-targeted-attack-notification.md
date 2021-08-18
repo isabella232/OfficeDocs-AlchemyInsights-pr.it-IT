@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012132"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901472"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft Threat Experts - Notifica di attacco mirato
 
-Notifica di attacco mirato è una delle due funzionalità Microsoft Threat Experts sicurezza. Si tratta di un servizio di ricerca proattiva delle minacce che fornisce informazioni e analisi speciali che consentono di identificare e rispondere alle minacce più critiche in modo rapido e accurato.
+Notifica di attacco mirato è una delle due funzionalità Microsoft Threat Experts mirate. Si tratta di un servizio di ricerca proattiva delle minacce che fornisce informazioni e analisi speciali che consentono di identificare e rispondere alle minacce più critiche in modo rapido e accurato.
 
-Se sei un cliente di Microsoft Defender for Endpoint, devi richiedere Microsoft Threat Experts - Notifiche di attacco mirato per ottenere informazioni e analisi speciali che consentono di identificare le minacce più critiche in modo da poterle rispondere rapidamente.
+Se sei un cliente di Microsoft Defender for Endpoint, devi richiedere Microsoft Threat Experts - Notifiche di attacco mirate per ottenere informazioni e analisi speciali che consentono di identificare le minacce più critiche in modo da poterle rispondere rapidamente.
 
-Per iscriverti a Microsoft Threat Experts - Vantaggi delle notifiche di **attacco** mirate, vai a Impostazioni Funzionalità avanzate Microsoft Threat Experts - Notifiche di attacco  >    >    >   mirate da applicare. Una volta accettato, si otterrà i vantaggi delle notifiche di attacco mirato.
+Per iscriverti a Microsoft Threat Experts - Vantaggi delle notifiche di attacco mirate, vai a Impostazioni Funzionalità avanzate generali Microsoft Threat Experts - Notifiche di attacco  >    >    >  **mirate** da applicare. Una volta accettato, si otterrà i vantaggi delle notifiche di attacco mirato.
 
 È possibile ricevere una notifica di attacco mirato Microsoft Threat Experts tramite il supporto seguente:
 
@@ -38,4 +38,4 @@ Per iscriverti a Microsoft Threat Experts - Vantaggi delle notifiche di **attacc
 
 Per ricevere notifiche di attacco mirate tramite posta elettronica, creare una regola di notifica tramite posta elettronica. 
 
-Per [informazioni dettagliate, vedere Configure and manage Microsoft Threat Experts capabilities.](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)
+Per [informazioni dettagliate, vedere Configure and manage Microsoft Threat Experts capabilities.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)

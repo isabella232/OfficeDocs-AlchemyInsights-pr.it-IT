@@ -1,5 +1,5 @@
 ---
-title: Come aggiornare le impostazioni di posta elettronica in Outlook pc
+title: Come aggiornare le impostazioni di posta elettronica in Outlook per PC
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 538c79344fc9a10b3400a79c2d2aa1b0e6d99fe2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976977"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318384"
 ---
-# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Come aggiornare le impostazioni di posta elettronica in Outlook pc
+# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Come aggiornare le impostazioni di posta elettronica in Outlook per PC
 
 1. Apri Outlook e seleziona **File > Account Impostazioni > Account Impostazioni**.
 
@@ -31,8 +31,7 @@ ms.locfileid: "53976977"
 
 5. Se è necessario aggiornare le porte del server in ingresso o in uscita o le impostazioni SSL, passare alla **scheda** Avanzate e apportare le modifiche desiderate.
 
-> [!NOTE]
-> Per i clienti AOL e **Verizon**: selezionando **SSL/TLS** dalla casella di riepilogo a discesa in Connessioni crittografate server in arrivo e in uscita garantisce che sia ancora possibile inviare e ricevere posta elettronica dopo il 7 novembre 2017. 
+    **Nota:** per i clienti di AOL e **Verizon:** la  selezione di **SSL/TLS** dalla casella di riepilogo a discesa in Connessioni crittografate server in ingresso e in uscita garantisce che sia ancora possibile inviare e ricevere posta elettronica dopo il 7 novembre 2017.
 
 6. Al termine dell'aggiornamento delle impostazioni, fare clic su **OK,** su **Avanti** e quindi su **Fine.**
 
