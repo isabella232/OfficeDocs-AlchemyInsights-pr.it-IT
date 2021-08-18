@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 008c46718fed2704bb03972e44f2b7b1933c44da729fa4473841939cc5caed51
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501316"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900113"
 ---
 # <a name="suspend-or-pause-licenses"></a>Sospendere o congelare le licenze
 
@@ -28,10 +28,10 @@ ms.locfileid: "54501316"
 
 Per sospendere temporaneamente l'utilizzo della licenza, è possibile rimuovere le licenze dall'interfaccia di amministrazione di Microsoft 365 e aggiungerle nuovamente in un secondo momento.
 
-1. È necessario innanzitutto [rimuovere le licenze dagli utenti](/microsoft-365/admin/manage/remove-licenses-from-users), prima di rimuoverle dal proprio abbonamento. 
+1. È necessario innanzitutto [rimuovere le licenze dagli utenti](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users), prima di rimuoverle dal proprio abbonamento. 
 2. Quindi, passare alla pagina **Fatturazione**  >  [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
 3. Nella scheda **Prodotti**, selezionare l'abbonamento che si vuole aggiornare.
 4. Nella pagina dei dettagli dell’abbonamento selezionare **Rimuovi licenze**.
 5. Nel riquadro **Rimuovi licenze**, nella casella **Licenze totali**, inserire il numero totale di licenze necessarie per l’abbonamento e quindi selezionare **Salva**. Ad esempio, se si hanno 100 licenze e se ne vogliono sospendere 25, immettere 75 come totale delle licenze per l'abbonamento.
 
-Per altre informazioni, vedere [Acquistare o rimuovere licenze](/microsoft-365/commerce/licenses/buy-licenses).
+Per altre informazioni, vedere [Acquistare o rimuovere licenze](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

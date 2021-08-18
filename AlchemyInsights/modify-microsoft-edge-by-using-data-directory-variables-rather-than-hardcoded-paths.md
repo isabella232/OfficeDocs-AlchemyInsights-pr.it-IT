@@ -1,5 +1,5 @@
 ---
-title: Modificare Microsoft Edge utilizzando le variabili di directory dati anziché i percorsi hardcoded
+title: Modificare Microsoft Edge utilizzando variabili di directory dati anziché percorsi hardcoded
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: ''
 ms.custom:
 - "9003873"
 - "6926"
-ms.openlocfilehash: 5c40aa1d7f61fbd2842839a5839899af8ab439f2
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 235696d17711726da57d9a09c23b5b13140a28d7645299ef120a4b2c7b395c5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608845"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113420"
 ---
-# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Modificare Microsoft Edge utilizzando le variabili di directory dati anziché i percorsi hardcoded
+# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Modificare Microsoft Edge utilizzando variabili di directory dati anziché percorsi hardcoded
 
-Ad esempio, in Windows, per archiviare i dati dei profili nell'ambito dei dati dell'applicazione locale dell'utente anziché nel percorso predefinito, impostare i criteri di **UserDataDir** su **$ {local_app_data} \Edge\Profile**. 
+Ad esempio, in Windows, per archiviare i dati del profilo nei dati dell’applicazione locale di un utente anziché nella posizione predefinita, impostare il criterio **UserDataDir** su **${local_app_data}\Edge\Profile**. 
 
-Per ulteriori informazioni, vedere [create Microsoft Edge User Directory Data Variables](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).
+Per ulteriori informazioni, vedere [Create Microsoft Edge user data directory variables](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).

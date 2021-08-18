@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005404"
 - "9935"
-ms.openlocfilehash: d640ae3ba9956fc161a017b0ed1c4ca3205cec9e
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 6d7fc6ec34fb7daacc6a07de31851630a10d75f06f0ed4a91565330e9eb9ff4e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123086"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088697"
 ---
 # <a name="help-with-windows-themes"></a>Informazioni sui Temi Windows
 
@@ -33,9 +33,9 @@ Quando si passa alla modalità scura, le app o l'interfaccia di Windows vengono 
 
 È anche possibile personalizzare le impostazioni della modalità chiara e scura selezionando **Personalizzato** nell'elenco a discesa.
 
-**Scegli la modalità predefinita di Windows** imposta la combinazione di colori per la barra delle applicazioni, il menu Start, il Centro notifiche, la tastiera virtuale e altri elementi dell'interfaccia di Windows.  
+**Scegliere la modalità predefinita di Windows** impostare la combinazione di colori per la barra delle applicazioni, il menu Start, il Centro notifiche, la tastiera virtuale e altri elementi dell'interfaccia di Windows.  
 
-**Scegli la modalità predefinita dell'app** imposta la combinazione di colori delle app come Posta, Calendario e Windows Store.
+**Scegliere la modalità predefinita dell'app** impostare la combinazione di colori delle app come Posta, Calendario e Windows Store.
  
 **Per ripristinare le impostazioni predefinite di Windows 10:**
 
