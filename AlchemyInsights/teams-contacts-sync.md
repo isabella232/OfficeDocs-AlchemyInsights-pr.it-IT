@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004610"
 - "11540"
-ms.openlocfilehash: 0ffa91f0e31a4904db87f0df6d9b4c51b05ae2758a5ce0d96c77ef4456f6d033
-ms.sourcegitcommit: 71501cde5bcb73f4dcf23944d400a4db10f37033
+ms.openlocfilehash: 36273e998bbf97e261dbaa49b3b57aab17216e9f0e9bd29c5d2b9f6c0d9803e4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/09/2021
-ms.locfileid: "57807193"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900768"
 ---
 # <a name="teams-contacts-sync"></a>Sincronizzazione dei contatti di Teams
 
@@ -31,6 +31,6 @@ Teams usa i contatti presenti in Active Directory dell'organizzazione e i contat
     1. Elimina i contenuti della cartella.
     1. Riavvia il computer e avvia Teams.
 1. Se il contatto è in Outlook, assicurati di aggiungerlo nell'elenco contatti. In Outlook, dalla barra degli indirizzo, seleziona **File**, quindi **Aggiungi a contatti**.
-1. Verifica che la cassetta postale di Exchange dell'utente sia ospitata online (non in locale). Per altre informazioni, vedere [Interazione tra Exchange e Microsoft Teams](/microsoftteams/exchange-teams-interact).
+1. Verifica che la cassetta postale di Exchange dell'utente sia ospitata online (non in locale). Per altre informazioni, vedere [Interazione tra Exchange e Microsoft Teams](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
 1. Assicurati che il numero di telefono del contatto sia aggiunto alle informazioni di contatto.
 1. Cerca il messaggio di posta elettronica del contatto nella barra di ricerca. I contatti recuperati vengono sincronizzati con l'elenco Contatti.

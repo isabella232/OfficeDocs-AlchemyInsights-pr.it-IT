@@ -1,5 +1,5 @@
 ---
-title: 125 ottenere un errore di licenza non valido in Outlook sul Web?
+title: 125 Errore di licenza non valido in Outlook sul web?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,19 +14,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: 825d91cd81646767b100e6fc964d7a94b8bc6879
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 357e57d20e3b6f56d3058bc1c782c3da7598520c29c5c29bfba6eec614fc5248
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089264"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Ottenere un errore di licenza non valido in Outlook sul Web?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Ottenere un errore di licenza non valido in Outlook sul web?
 
-Se si utilizza Outlook sul Web e viene **visualizzato un errore** non corretto che contiene **X-OWA-Error: Microsoft. Exchange. Data. storage. InvalidLicenseException**, la licenza di Exchange Online non è stata assegnata correttamente o è stata scaduta di recente. L'amministratore può assegnare una licenza all'utente attenendosi alla procedura seguente:
+Se si usa Outlook sul web e viene visualizzato  un errore Di errore che contiene **X-OWA-Error: Microsoft.Exchange. Dati. Archiviazione. InvalidLicenseException**, la licenza Exchange Online non è stata assegnata correttamente o è scaduta di recente. L'amministratore può assegnare una licenza seguendo questa procedura:
   
-1. Aprire l'interfaccia di [amministrazione di Microsoft 365](https://portal.office.com/adminportal/home#/homepage) e in **utenti attivi**Selezionare **modifica un utente**.
+1. Aprire il [interfaccia di amministrazione di Microsoft 365](https://portal.office.com/adminportal/home#/homepage) e in **Utenti attivi** selezionare **Modifica utente.**
 
-2. Nella pagina **modifica utente** che viene visualizzata, selezionare l'utente. Nella pagina delle proprietà dell'utente visualizzata, fare clic su **modifica** per **licenze di prodotto**.
+2. Nella pagina **Modifica utente** visualizzata selezionare l'utente. Nella pagina delle proprietà dell'utente visualizzata fare clic **su Modifica** per **Licenze prodotto.**
 
-3. Nella pagina **licenze di prodotto** che viene visualizzata, selezionare il valore del **percorso** appropriato e assegnare una licenza che contenga Exchange Online (espandere la licenza per visualizzarne i dettagli). Al termine, scegliere **Salva**.
+3. Nella pagina **Licenze prodotto** visualizzata selezionare  il valore percorso appropriato e assegnare una licenza che contiene Exchange Online (espandere la licenza per visualizzarne i dettagli). Al termine, scegliere **Salva**.

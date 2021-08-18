@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: fb944ae8dac7a8a222d2946025d8009216d6ca02efa750977bc9037bf578c8a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea5000a06f86c0bc33cb057b67f6001fd1a4d5bddd39ac3324cd3b5c74ecdae7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972612"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900692"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>Risoluzione dei problemi relativi all'accesso a OneDrive
 
@@ -29,7 +29,7 @@ In questo articolo vengono descritti gli scenari seguenti:
 
 **Risoluzione dei problemi relativi all'accesso al client di sincronizzazione di OneDrive**
 
-- Per la procedura da eseguire per risolvere il codice di errore 0x004de40, vedere [Codice di errore 0x8004de40 durante l'accesso a OneDrive](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive).
+- Per la procedura da eseguire per risolvere il codice di errore 0x004de40, vedere [Codice di errore 0x8004de40 durante l'accesso a OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive).
 - Per accedere al sito di OneDrive o SharePoint, visitare il sito e fare clic sul pulsante **Sincronizza** nella parte superiore della barra dei menu nel sito.
 - Assicurarsi di eseguire l'accesso a OneDrive for Business e non a OneDrive.com. Se l'URL visitato inizia con onedrive.live.com, non corrisponde al percorso corretto di OneDrive for Business. Un modo semplice per assicurarsi di accedere a OneDrive for Business consiste nell'usare il collegamento https://portal.office.com/onedrive e quindi usare l'account aziendale o dell'istituto di istruzione per eseguire l'accesso.
 - Se si hanno ancora problemi, provare a [reimpostare OneDrive](https://support.microsoft.com/office/reset-onedrive-34701e00-bf7b-42db-b960-84905399050c).
@@ -48,5 +48,5 @@ Se viene visualizzato uno dei messaggi di errore **Caricamento bloccato**, **Acc
 
 **Altri suggerimenti per la risoluzione dei problemi**
 
-Se si è un amministratore globale, delle licenze o degli utenti, [assegnare la licenza corretta all'utente interessato](/microsoft-365/admin/manage/assign-licenses-to-users).
+Se si è un amministratore globale, delle licenze o degli utenti, [assegnare la licenza corretta all'utente interessato](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 

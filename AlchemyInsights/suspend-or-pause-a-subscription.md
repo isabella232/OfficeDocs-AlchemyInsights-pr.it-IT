@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 565578622249269604c8dcb1ec10b1f1036e17673e26bd0eb15a38d323aa28bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107021"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317348"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Sospendere o congelare un abbonamento
 
@@ -27,6 +27,6 @@ Per sospendere o congelare temporaneamente l'abbonamento, è possibile annullare
 
 1. Nell'interfaccia di amministrazione passare alla pagina di **Fatturazione** > **[I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Nella scheda **Prodotti** trovare l'abbonamento che si vuole cancellare, selezionare i tre puntini (Altre azioni), quindi selezionare **Annulla abbonamento**.
-3. Lo stato dell'abbonamento viene visualizzato come **Disattivato** e indica la data di annullamento dell'abbonamento. L'abbonamento rimarrà in stato disabilitato per 90 giorni e le sue funzionalità saranno limitate fino a quando non verrà eliminato o [riattivato](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+3. Lo stato dell'abbonamento viene visualizzato come **Disattivato** e indica la data di annullamento dell'abbonamento. L'abbonamento rimarrà in stato disabilitato per 90 giorni e le sue funzionalità saranno limitate fino a quando non verrà eliminato o [riattivato](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-Per ulteriori informazioni, vedere [Cosa accade quando si annulla un abbonamento](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription)e si [salvano i dati](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
+Per ulteriori informazioni, vedere [Cosa accade quando si annulla un abbonamento](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription)e si [salvano i dati](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
