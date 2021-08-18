@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11382"
 - "9001470"
-ms.openlocfilehash: 191d6ae772dc1b1c6b15071da9c4aca14429cf2db17be6ee0db6b23ea0d29e2d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f26fab92d0159c06eb600cf9ec4161892561a719e8d113d15bfbac133301e793
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54084647"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897600"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Inventario software mancante o non corretto
 
@@ -32,8 +32,8 @@ Se è stata apportata una modifica al software e la modifica non è rispecchiata
 
 1. Consultare la sezione delle prove software per capire come è stato rilevato il software.
 1. Assicurarsi che il software sia supportato. Il software può essere visibile solo a livello di dispositivo, anche se attualmente non è supportato dalla gestione di minacce e vulnerabilità. Tuttavia, sono disponibili solo dati limitati.
-1. Per la procedura da seguire per segnalare l'imprecisione del portale, vedere [Imprecisione dei report](/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy).
+1. Per la procedura da seguire per segnalare l'imprecisione del portale, vedere [Imprecisione dei report](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy).
    
     **Nota**: la segnalazione di un'inesattezza dal portale MDE è un canale di comunicazione con i tecnici unidirezionale. Se il problema è urgente, aprire un ticket di supporto.
 
-Per ulteriori informazioni, vedere [Inventario software: gestione di minacce e vulnerabilità](/microsoft-365/security/defender-endpoint/tvm-software-inventory).
+Per ulteriori informazioni, vedere [Inventario software: gestione di minacce e vulnerabilità](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory).

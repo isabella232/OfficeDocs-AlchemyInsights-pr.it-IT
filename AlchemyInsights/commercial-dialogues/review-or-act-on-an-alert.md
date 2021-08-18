@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: d6d8f87c9c1ba76c6d0c83a7cac6f259028771e3b1f8d8755729381f79f5b342
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016452"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897047"
 ---
 # <a name="review-or-act-on-an-alert"></a>Rivedere o agire su un avviso
 
 Eseguire la procedura seguente:
 
-1. Passare al [Centro sicurezza & conformità](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Fare **clic su Avvisi** Visualizza  >  **[avvisi](https://go.microsoft.com/fwlink/?linkid=2103301)**.
-1. Fare clic su un avviso. Nel riquadro dei dettagli visualizzare gli elementi che hanno attivato l'avviso.
-1. Fare clic sul collegamento fornito accanto ai dettagli, se si desidera eseguire un'azione sull'avviso.
-1. Fare **clic su** Risolvi se si desidera chiudere l'avviso.
+1. Eseguire una delle operazioni seguenti:
+   - Nell'Centro conformità Microsoft 365 <https://compliance.microsoft.com> in , passare a **Avvisi**. In caso contrario, aprire la pagina direttamente in <https://compliance.microsoft.com/compliancealerts> .
+   - Nel portale Microsoft 365 Defender in <https://security.microsoft.com> , passare a **Avvisi**. In caso contrario, aprire la pagina direttamente in <https://security.microsoft.com/alerts> .
+2. Selezionare un avviso. Nel riquadro a comparsa dei dettagli visualizzato, visualizzare l'elemento che ha attivato l'avviso.
+3. Fare clic sul collegamento fornito se si desidera eseguire un'azione sull'avviso.
+4. Fare **clic su** Risolvi se si desidera chiudere l'avviso.
 
-Per ulteriori informazioni sulla gestione degli avvisi, vedere [Criteri di avviso nel Centro sicurezza e conformità.](https://go.microsoft.com/fwlink/?linkid=2103211)
-
+Per ulteriori informazioni sulla gestione degli avvisi, vedere Criteri di avviso [in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).

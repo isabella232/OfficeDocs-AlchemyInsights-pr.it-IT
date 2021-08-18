@@ -1,5 +1,5 @@
 ---
-title: 726 Blocking email forwarding
+title: Bloccare o sbloccare l'inoltro automatico esterno della posta elettronica
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059636"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897472"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Blocco o sblocco dell'inoltro della posta elettronica
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Bloccare o sbloccare l'inoltro automatico della posta elettronica
 
 Per abilitare o disabilitare l'inoltro della posta elettronica per una cassetta postale specifica, vedere [Configure email forwarding](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-A livello di tenant, il controllo dell'inoltro esterno viene eseguito utilizzando i criteri di posta indesiderata in uscita. È possibile controllare i criteri di filtro [](https://protection.office.com/antispam) della posta indesiderata in uscita dal Centro sicurezza e conformità qui o utilizzando il [comando Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Gli amministratori possono controllare l'inoltro esterno per l'organizzazione utilizzando i [criteri di posta indesiderata in uscita.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) È possibile gestire i criteri di posta indesiderata in uscita nel portale Microsoft 365 Defender o utilizzando il <https://security.microsoft.com/antispam> cmdlet [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) in Exchange Online PowerShell.
 
-Se viene visualizzato l'errore seguente: **"550 5.7.520** Accesso negato, l'organizzazione non consente l'inoltro esterno", assicurarsi che il criterio sia configurato per abilitare l'inoltro automatico esterno.
+Se viene visualizzato il seguente errore: **"550 5.7.520** Accesso negato, l'organizzazione non consente l'inoltro esterno", verificare che il criterio sia configurato per abilitare i messaggi inoltrati automaticamente esterni.
 
-**Nota:** È consigliabile mantenere il criterio di filtro della posta indesiderata esterno disabilitato nel criterio di filtro della posta indesiderata in uscita predefinito e abilitarlo solo per gli utenti che necessitano dell'inoltro esterno creando un criterio personalizzato per tali utenti. Per ulteriori informazioni, vedere [Configuring external email forwarding in Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Nota:** è consigliabile il valore predefinito  **Automatico -** Sistema controllato per l'impostazione Regole di inoltro automatico nel criterio di filtro della posta indesiderata in uscita predefinito (l'inoltro esterno automatico è bloccato; l'inoltro automatico interno funziona ancora). È consigliabile creare criteri di filtro della posta indesiderata in uscita personalizzati e utilizzare il valore **Attivato -** L'inoltro è abilitato solo per gli utenti che necessitano dell'inoltro automatico esterno della posta elettronica. Per ulteriori informazioni, vedere [Configuring external email forwarding in Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

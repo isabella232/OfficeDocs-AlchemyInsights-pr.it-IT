@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "2643"
 ms.assetid: ''
-ms.openlocfilehash: 182cec016346dbc32d807a2d43ef0bd29209dcca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fb48fd972fd0b5f4f273f1134c8122ee9a5260cef56f7520f0da066cb230012
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769259"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112808"
 ---
 # <a name="outbound-spam"></a>Posta indesiderata in uscita
 
-Se si vedono falsi positivi per la posta indesiderata in uscita (i buoni messaggi in uscita vengono contrassegnati come posta indesiderata), aprire un ticket di supporto con i messaggi di esempio.
+Se vengono visualizzati falsi positivi per la posta indesiderata in uscita (buoni messaggi in uscita contrassegnati come posta indesiderata), aprire un ticket di supporto con messaggi di esempio.

@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899336"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316362"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Messaggi di posta elettronica di avviso dal criterio "Phish Delivered due to tenant or user override"
 
@@ -35,4 +35,4 @@ Il messaggio di phishing è stato recapitato a causa di una sostituzione configu
 
 Se si ritiene che il messaggio sia stato erroneamente contrassegnato come phishing, utilizzare l'invio [dell'amministratore](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) per segnalare il messaggio a Microsoft.
 
-Gli utenti possono utilizzare il [componente](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) aggiuntivo Segnala messaggio o il componente aggiuntivo Segnala phishing Outlook inviare esempi di messaggi a Microsoft.
+Gli utenti possono utilizzare il componente aggiuntivo Segnala messaggio o il componente aggiuntivo Segnala [phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) Outlook inviare esempi di messaggi a Microsoft.

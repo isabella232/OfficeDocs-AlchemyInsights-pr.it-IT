@@ -1,5 +1,5 @@
 ---
-title: AADSTS50011 d'Error d'OneDrive login
+title: OneDrive errore di accesso AADSTS50011
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003820"
 - "6840"
-ms.openlocfilehash: 1f906f82e99c322ed953800d54fba5a073eacd10
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 80aafa2aee7213e1b77d274509a7eb9741c20b525ed97f473093ac8c6514f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112916"
 ---
-# <a name="onedrive-login-error-aadsts50011"></a>AADSTS50011 d'Error d'OneDrive login
+# <a name="onedrive-login-error-aadsts50011"></a>OneDrive errore di accesso AADSTS50011
 
-Se viene visualizzato un messaggio di errore "AADSTS50011: l'URL di risposta specificato nella richiesta non corrisponde alla risposta" quando si accede all'app OneDrive, verificare quanto segue:
+Se viene visualizzato un errore "AADSTS50011: L'URL di risposta specificato nella richiesta non corrisponde alla risposta" quando si accede all'app OneDrive, verificare quanto segue:
 
-La versione di OneDrive deve essere uguale o superiore alla versione 20.052. XXXX. XXXX. Per controllare la versione, fare clic sull'icona blu di OneDrive nell'area di notifica, selezionare la **guida & impostazioni > impostazioni >**.
+La OneDrive deve essere uguale o maggiore della versione 20.052.XXXX.XXXX. Per verificare la versione, fare clic sull'icona OneDrive blu nell'area di notifica, **selezionare Guida & Impostazioni > Impostazioni > Informazioni** su .
 
-La rete potrebbe bloccare il traffico a **g.Live.com** e **oneclient.SFX.ms**. Se il traffico è bloccato, OneDrive non è in grado di eseguire l'aggiornamento. Collaborare con l'amministratore di rete per assicurarsi di avere accesso a tali URL. [Tali endpoint](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) devono essere raggiungibili per i clienti che utilizzano i piani di Microsoft 365.
+La rete potrebbe bloccare il traffico verso **g.live.com** e **oneclient.sfx.ms**. Se il traffico è bloccato, OneDrive non può aggiornarsi. Contattare l'amministratore di rete per assicurarsi di avere accesso a tali URL. [Questi endpoint devono](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) essere raggiungibili per i clienti che usano Microsoft 365 piani.
 
 Se è necessario ottenere manualmente una versione corrente di OneDrive, visitare [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
