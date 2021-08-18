@@ -12,17 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002921"
 - "5673"
-ms.openlocfilehash: 7058b6419e52fce94f3359d0bd8e1d67c5aa5ef6743abf4ed39f45bad49e1d07
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc865a7b91036bd2d982e21dce059a87e109e3e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025614"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319952"
 ---
 # <a name="need-to-mark-a-domain-or-email-sender-safe"></a>Contrassegnare un dominio o un mittente di posta elettronica come attendibile
 
 - L'uso degli **elenchi di mittenti attendibili non è consigliabile** poiché espone la propria organizzazione alla posta indesiderata, al phishing e agli attacchi di spoofing.
-- Tuttavia, se è presente un requisito aziendale, **è consigliabile** usare le **[Regole dei flussi di posta](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide#recommended-use-mail-flow-rules)** a tale scopo. La nostra guida garantisce l'autenticazione del mittente: verifica che il dominio di invio non venga contraffatto. **Nota**: non è consigliabile gestire i falsi positivi tramite gli elenchi di mittenti attendibili, perché le eccezioni al filtro della posta indesiderata possono esporre l'organizzazione agli attacchi di sicurezza. Se gli utenti ricevono messaggi non contrassegnati correttamente come posta indesiderata **[segnalare i messaggi e i file a Microsoft](https://protection.office.com/reportsubmission)**.
+- Tuttavia, se è presente un requisito aziendale, **è consigliabile** usare le **[Regole dei flussi di posta](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide#recommended-use-mail-flow-rules)** a tale scopo. La nostra guida garantisce l'autenticazione del mittente: verifica che il dominio di invio non venga contraffatto. 
+    **Nota**: non è consigliabile gestire i falsi positivi tramite gli elenchi di mittenti attendibili, perché le eccezioni al filtro della posta indesiderata possono esporre l'organizzazione agli attacchi di sicurezza. Se gli utenti ricevono messaggi contrassegnati erroneamente come posta indesiderata **[segnalare i messaggi e i file a Microsoft](https://protection.office.com/reportsubmission)**.
 - I mittenti attendibili in Outlook, l'elenco dei mittenti consentiti o l'elenco dei domini consentiti nei criteri antispam **devono essere evitati** perché i mittenti ignorano tutte le protezioni per la posta indesiderata, lo spoofing, il phishing e l'autenticazione del mittente (SPF, DKIM, DMARC). Questo metodo è usato solo per i test temporanei.
 - Per convalidare se un determinato messaggio di posta elettronica ha ignorato la valutazione antispam è possibile controllare l'intestazione del messaggio "X-Forefront-Antispam-Report" (SFV: SFE, SFV: SKA, SFV: SKN), vedere **[Intestazioni dei messaggi della protezione da posta indesiderata in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-message-headers)**.
 - Poiché Microsoft vuole garantire ai clienti la [protezione per impostazione predefinita](https://docs.microsoft.com/microsoft-365/security/office-365-security/secure-by-default#exceptions), alcuni criteri di override del tenant non vengono applicati ai malware e ai phishing ad alta probabilità. Questi override includono: o   Elenchi di mittenti o di domini consentiti (criteri contro la posta indesiderata) o   Mittenti attendibili di Outlook o   Elenco di indirizzi IP consentiti (filtro connessioni) 

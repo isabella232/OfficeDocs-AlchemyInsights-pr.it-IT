@@ -13,29 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001512"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320034"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Aggiornare l'indirizzo di destinazione della vendita e della fattura associato all'mca - passaggi consigliati
 
 È possibile aggiornare l'indirizzo di destinazione della vendita e della fattura associato al Contratto per i clienti Microsoft. 
 
-> [!NOTE]
-> Solo un amministratore utente può apportare modifiche alle Azure Active Directory del profilo utente. Se non si è assegnati al ruolo di amministratore utente, contattare l'amministratore dell'utente. Per ulteriori informazioni sulla modifica del profilo di un utente, vedere [Add or update a user's profile information using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+**Nota:** solo un amministratore utente può apportare modifiche alle Azure Active Directory del profilo utente. Se non si è assegnati al ruolo di amministratore utente, contattare l'amministratore dell'utente. Per ulteriori informazioni sulla modifica del profilo di un utente, vedere [Add or update a user's profile information using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
 **Indirizzo di vendita** - L'indirizzo di destinazione della vendita è l'indirizzo e le informazioni di contatto dell'organizzazione o della persona, responsabile di un account di fatturazione. Viene visualizzato in tutte le fatture generate per l'account di fatturazione.
 
 **Indirizzo di** fatturazione - L'indirizzo di fatturazione è l'indirizzo e le informazioni di contatto dell'organizzazione o dell'individuo, responsabili delle fatture generate per un account di fatturazione. Per un account di fatturazione per un mca, esiste un indirizzo di fatturazione per ogni profilo di fatturazione e viene visualizzato nella fattura generata per il profilo di fatturazione.
 
-**Per aggiornare un indirizzo di vendita di un account di fatturazione MCA:**
+Per aggiornare un indirizzo di vendita di un account di **fatturazione MCA:**
 
 1. Accedi al portale di Azure usando l'indirizzo di posta elettronica, che dispone di un proprietario o di un ruolo di collaboratore nell'account di fatturazione per un amministratore di sistema.
 1. Cercare Fatturazione **gestione**  +  **costi**.
-1. Fare **clic su Proprietà**  >  **Aggiorna-a**.
+1. Fare **clic su** Proprietà Aggiorna  >  **-a**.
 1. Immettere il nuovo indirizzo e fare clic su **Salva.**
 
 Alcuni account richiedono un'ulteriore verifica prima di poter aggiornare l'indirizzo di destinazione della vendita. Se l'account richiede l'approvazione manuale, ti verrà richiesto di contattare il supporto di Azure.

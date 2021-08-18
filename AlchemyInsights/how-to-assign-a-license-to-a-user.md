@@ -17,12 +17,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 987eb106a7d8858cba04151b9f8953d847aafec92b4f05281c2bbde4edaf91e6
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 1a70fe2b468251f48eb3399e75dd414d3aa0fe02
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503692"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319458"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Assegnare o annullare l'assegnazione delle licenze agli utenti
 
@@ -33,4 +33,4 @@ Un utente ha bisogno di una licenza per avere accesso ai servizi. Ecco i passagg
 3. Nel riquadro destro selezionare **Licenze e app**.
 4. Espandere la **sezione** Licenze, selezionare o deselezionare le caselle relative alle licenze che si desidera assegnare o annullare l'assegnazione, quindi selezionare **Salva modifiche.**
 
-Per ulteriori informazioni, vedere [Assegnare licenze agli utenti](/microsoft-365/admin/manage/assign-licenses-to-users)e [Annullare l'assegnazione delle licenze dagli utenti.](/microsoft-365/admin/manage/remove-licenses-from-users)
+Per ulteriori informazioni, vedere [Assegnare licenze agli utenti](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)e [Annullare l'assegnazione delle licenze dagli utenti.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
