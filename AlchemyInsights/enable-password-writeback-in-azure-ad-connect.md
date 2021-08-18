@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 63304667cce67c48fd8bbeee52ff6d61d033ea38fd8d4c4d96c240847dab2cab
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 607e27c883f83b4b29347e764b8f2273cf0f117e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118208"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325391"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Abilitare il writeback delle password in Azure AD Connect
 
@@ -42,5 +42,4 @@ Dopo l’abilitazione dell’opzione writeback delle password in Azure AD Connec
 
 Per altre informazioni, vedere [Abilitare il writeback della reimpostazione della password in modalità self-service di Azure Active Directory in ambiente locale](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
-> [!NOTE]
->  Quando un amministratore ripristina la password di un utente nel portale di Azure, se l'utente è federato o l’hash delle password è sincronizzato, la password viene scritta di nuovo in locale. Questa funzionalità richiede Azure Premium License (P1 or P2) e attualmente non è supportata nel portale Amministrazione di Office.
+**Nota**: quando un amministratore ripristina la password di un utente nel portale di Azure, se l'utente è federato o l'hash delle password è sincronizzato, la password viene scritta di nuovo in locale. Questa funzionalità richiede Azure Premium License (P1 or P2) e attualmente non è supportata nel portale Amministrazione di Office.

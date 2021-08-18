@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 13865acb75b60a824c1dde9427c11471e980ea9e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076656"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324448"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Problemi con la rimozione di un dispositivo disattivato o rimosso dall'inventario dei dispositivi
 
@@ -32,11 +32,11 @@ Se ancora non vuoi visualizzare determinati dispositivi nella visualizzazione In
 
 Per altre informazioni, vedere:
 
-[Dispositivi offboard dal servizio Microsoft Defender for Endpoint](/microsoft-365/security/defender-endpoint/offboard-machines.md)
+[Dispositivi offboard dal servizio Microsoft Defender for Endpoint](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[Punteggio di esposizione in gestione di minacce e vulnerabilità](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[Punteggio di esposizione in gestione di minacce e vulnerabilità](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
-[Risolvere i sensori non integri in Microsoft Defender for Endpoint](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
+[Risolvere i sensori non integri in Microsoft Defender for Endpoint](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 
 [Come usare il tagging in modo efficace (parte 1)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-1/ba-p/1964058)
 

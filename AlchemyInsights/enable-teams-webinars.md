@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11513"
 - "9006672"
-ms.openlocfilehash: e0c2b4fd09282cba72361372045ef0074ca9bd95e33b7447ae59c5fa8f489062
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5efb8ffad0ad2c7d32a2ac334b960484b6fa5545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891419"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325345"
 ---
 # <a name="enable-teams-webinars"></a>Abilitare i webinar di Teams
 

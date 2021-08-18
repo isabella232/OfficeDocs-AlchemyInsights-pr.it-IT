@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868682"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323790"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Come posso passare dai pagamenti con carta di credito alla fattura?
 
-> [!NOTE]
-> Il pagamento tramite fattura può essere modificato solo se il costo dell'abbonamento è superiore a un determinato importo. Prima di passare al pagamento tramite fattura, è necessario innanzitutto pagare gli eventuali saldi in sospeso sulla carta di credito o di debito o sul conto corrente bancario.
+**Nota:** puoi passare al pagamento tramite fattura solo se l'abbonamento costa al di sopra di un determinato importo. Prima di passare al pagamento tramite fattura, è necessario innanzitutto pagare gli eventuali saldi in sospeso sulla carta di credito o di debito o sul conto corrente bancario.
 
 1. Nell'interfaccia di amministrazione, passare alla pagina **Fatturazione** > [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Nella scheda **Prodotti** trovare l'abbonamento che si vuole pagare con la modalità di pagamento alternativo.

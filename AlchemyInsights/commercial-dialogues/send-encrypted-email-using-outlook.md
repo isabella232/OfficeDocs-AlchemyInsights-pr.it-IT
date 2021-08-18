@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 577c09436700e2bde9a2c8457414a4ec64ade7b57adac4f5fc51ca7cffe73656
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f419187662050ba68b5c0bb8d416be5908732561
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081543"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324691"
 ---
 # <a name="send-encrypted-email-using-outlook"></a>Inviare messaggi di posta elettronica crittografati Outlook
 
@@ -30,8 +30,7 @@ Gli utenti possono crittografare i messaggi di posta elettronica caso per caso u
 2. In Outlook sul web: a. Creare un messaggio di posta elettronica e scegliere **> Crittografa**.
     b. Fare clic **su Crittografa** **o Non inoltrare**.
 
-> [!TIP]
-> I formati di file noti sono protetti. Tuttavia, i file inviati come allegati da OneDrive for Business non vengono crittografati. Per un elenco di tutti i tipi di file supportati, vedere [Tipi di file supportati dal client Azure Information Protection.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)
+**Suggerimento:** i formati di file noti sono protetti. Tuttavia, i file inviati come allegati da OneDrive for Business non vengono crittografati. Per un elenco di tutti i tipi di file supportati, vedere [Tipi di file supportati dal client Azure Information Protection.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)
 
 Per ulteriori informazioni, vedere [Send, view, and reply to encrypted messages in Outlook for PC](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980).
 

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895891"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325299"
 ---
 # <a name="expired-subscription"></a>Sottoscrizione scaduta
 
@@ -29,9 +29,8 @@ Sembra che tu abbia una o più sottoscrizioni scadute. Se si desidera continuare
 **Riattivare**
   
 1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** \> [I tuoi prodotti](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Nella scheda **Prodotti** trovare l'abbonamento che si vuole riattivare. Selezionare i tre puntini (Altre azioni), quindi selezionare **Riattiva l'abbonamento**.
-    > [!NOTE]
-    > Se l'opzione Riattiva **questa sottoscrizione** non è visualizzata, chiamare il supporto tecnico.
+2. Nella scheda **Prodotti** trovare l'abbonamento da riattivare. Selezionare i tre puntini (Altre azioni) e quindi selezionare **Riattiva l'abbonamento**.
+    **Nota:** se non vedi Riattivare questa **sottoscrizione,** chiama il supporto.
 3. Nel riquadro **Riattiva l’abbonamento**, selezionare una modalità di pagamento nell'elenco a discesa oppure selezionare **Aggiungi modalità di pagamento**.
 4. Selezionare **Salva**.
 

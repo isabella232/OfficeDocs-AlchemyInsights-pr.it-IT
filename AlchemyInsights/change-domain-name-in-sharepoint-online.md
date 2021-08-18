@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: c45ee866ea5972199ed2539d61013a4f55c493eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f33ee5530d15fb32f74e6c41149ae1abedfb60396287113c59c6b4dc3af24017
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119828"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Modificare il nome di dominio in SharePoint Online
 
-Purtroppo, non è possibile modificare il nome di dominio di SharePoint Online per la propria organizzazione. Ad esempio, se il nome dell'organizzazione cambia da "contoso" a "Fourth Coffee", non è possibile modificare contoso.sharepoint.com in fourthcoffee.sharepoint.com.
+Purtroppo, non è possibile modificare il nome di SharePoint online per l'organizzazione. Ad esempio, se il nome dell'organizzazione cambia da "Contoso" a "Quarto caffè", non è possibile modificare contoso.sharepoint.com in fourthcoffee.sharepoint.com.
   
-Per utilizzare il nome di dominio fourthcoffee.sharepoint.com, è necessario acquistare un nuovo abbonamento e spostare tutti i messaggi di posta elettronica, i file e tutti gli altri dati che si desidera mantenere per il nuovo abbonamento.
+Per usare il nome di dominio fourthcoffee.sharepoint.com, è necessario acquistare un nuovo abbonamento e spostare tutti i messaggi di posta elettronica, i file e tutti gli altri dati che si desidera mantenere nel nuovo abbonamento.
   
- **Nota**: ad esempio, per modificare il nome di un sito da https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 , seguire le istruzioni riportate in [questo articolo](https://docs.microsoft.com/sharepoint/change-site-address). 
+ **Nota:** ad esempio, per modificare il nome di un sito da a https://contoso.sharepoint.com/sites/sample1 , seguire le istruzioni in questo https://contoso.sharepoint.com/sites/sample2 [articolo.](https://docs.microsoft.com/sharepoint/change-site-address) 
   
-Per informazioni sullo spostamento di elementi nelle raccolte documenti, vedere [spostare o copiare elementi da una raccolta documenti di SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
+Per informazioni sullo spostamento di elementi nelle raccolte documenti, vedere Spostare o copiare elementi da SharePoint [raccolta documenti.](https://go.microsoft.com/fwlink/?linkid=2025831)
   

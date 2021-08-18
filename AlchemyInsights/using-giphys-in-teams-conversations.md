@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 296c2f80d35f1c93ab3c60e0be65fd96c953ca81
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54104312"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323524"
 ---
 # <a name="using-giphys-in-teams-conversations"></a>Uso di Giphys nelle Teams conversazioni
 
-Giphys access in Teams chat è abilitato per impostazione predefinita. In qualità di amministratore, puoi controllare se Giphys è disponibile per gli utenti impostando un criterio di messaggistica e verificando che **l'opzione Usa Giphys nelle** conversazioni sia [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) **attivata.**
+Giphys access in Teams chat è abilitato per impostazione predefinita. L'amministratore può controllare se Giphys è [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) disponibile per gli utenti impostando un criterio di messaggistica e verificando che **l'opzione Usa Giphys nelle** conversazioni sia **attivata.**
 
-Se le GIF non funzionano come previsto nelle Teams, verificare:
+Se le GIF non funzionano come previsto nelle Teams conversazioni, verificare:
 
 Il [criterio di messaggistica](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) deve consentire Giphys. Per verificare tramite i cmdlet di PowerShell:
 
@@ -33,5 +33,4 @@ Il [criterio di messaggistica](https://docs.microsoft.com/microsoftteams/messagi
 
 [Le esperienze connesse](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) facoltative devono essere abilitate per consentire l'accesso all'URL Giphy.
 
-> [!NOTE]
-> Se per il tenant sono configurati più criteri di messaggistica Teams, è possibile determinare l'identità del criterio assegnato all'utente in impatto con il comando PowerShell [Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Selezionare TeamsMessagingPolicy.
+**Nota:** se sono configurati più criteri di messaggistica Teams per il tenant, è possibile determinare l'identità del criterio assegnato all'utente in impatto con il comando PowerShell [Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Selezionare TeamsMessagingPolicy.

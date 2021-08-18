@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 679dea6d488cf74f51baee2b3b498dc64b95530e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999748"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324927"
 ---
 # <a name="password-writeback-is-not-working"></a>Il writeback delle password non funziona
 
@@ -31,12 +31,11 @@ ms.locfileid: "53999748"
     - Per altre informazioni sui requisiti di licenza, vedere [Requisiti di licenza per la reimpostazione della password in modalità self-service](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing) di Azure AD
 - Si dispone di almeno un account amministratore e di un account utente di prova con una delle licenze appropriate.
 - È necessario connettere Azure AD Connessione al controller di dominio primario Emulator per il funzionamento del writeback delle password. È possibile configurare Azure AD Connessione per l'utilizzo di  un controller di dominio primario facendo clic con il pulsante destro del mouse sulle proprietà del connettore di sincronizzazione di Active Directory, quindi selezionando **configura partizioni di directory.** Da qui, cercare la sezione impostazioni di connessione **del controller** di dominio e selezionare la casella intitolato Utilizzare solo i controller di **dominio preferiti**.
-  > [!NOTE]
-  > Se il controller di dominio preferito non è un emulatore PDC, Azure AD Connessione raggiungerà comunque il PDC per il writeback delle password.
+    **Nota:** se il controller di dominio preferito non è un emulatore PDC, Azure AD Connessione continuerà a contattare il PDC per il writeback delle password.
 - La reimpostazione della password è stata configurata e abilitata nel tenant. Per ulteriori informazioni, vedere [Consentire agli utenti di reimpostare le password di Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)
-- Verificare che l'account amministratore utilizzato per abilitare il writeback delle password sia un account di amministratore cloud (creato in Azure AD non locale)
+- Verificare che l'account amministratore utilizzato per abilitare il writeback delle password sia un account amministratore cloud (creato in Azure AD non in locale ad Active Directory)
 - Si dispone di una distribuzione locale di Active Directory a foresta singola o a più foreste che esegue Windows Server 2008 R2, Windows Server 2012 o Windows Server 2012 R2 con i Service Pack più recenti installati
-- È installato lo strumento azure AD Connessione ed è stato preparato l'ambiente AD per la sincronizzazione con il cloud. Prima di testare il writeback delle password, assicurarsi di completare innanzitutto l'importazione completa e la sincronizzazione completa da AD e Azure AD in Azure AD Connessione.
+- È installato lo strumento azure AD Connessione ed è stato preparato l'ambiente AD per la sincronizzazione con il cloud. Prima di testare il writeback delle password, assicurati di completare l'importazione completa e la sincronizzazione completa sia da AD che da Azure AD in Azure AD Connessione.
 - Per altre informazioni, vedere come eseguire una sincronizzazione completa [e un'importazione completa in Azure AD Connessione](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
 
 **Si è verificato un problema con la connettività di writeback delle password**
@@ -49,5 +48,5 @@ ms.locfileid: "53999748"
 
 **I'm still having problems with password writeback**
 
-- In caso di problemi, provare a disabilitare e ri-abilitare il servizio writeback delle password nello strumento di Connessione Azure AD
+- Se si verificano ancora problemi, provare a disabilitare e ri-abilitare il servizio writeback delle password nello strumento di Connessione Azure AD
 - Per ulteriori informazioni, vedere come disabilitare [e riattivare](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot) il writeback delle password

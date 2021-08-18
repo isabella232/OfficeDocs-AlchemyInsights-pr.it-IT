@@ -15,23 +15,22 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895495"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324040"
 ---
 # <a name="change-payment-method"></a>Cambiare la modalità di pagamento
 
-È possibile modificare la modalità di pagamento dal **interfaccia di amministrazione di Microsoft 365.**
+È possibile modificare la modalità di pagamento dal **interfaccia di amministrazione di Microsoft 365**.
   
 1. Nell'interfaccia di amministrazione passare alla pagina **Fatturazione** > **Fatture e pagamenti** > [Modalità di pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 2. Selezionare la riga della modalità di pagamento da sostituire. Nel riquadro destro sono elencati tutti i profili di fatturazione e i singoli abbonamenti che usano la modalità di pagamento selezionata.
 3. Nel riquadro destro selezionare **Sostituisci metodo di pagamento per tutti gli articoli**.
 4. Per usare una modalità di pagamento esistente, sceglierne una nell'elenco a discesa, quindi selezionare **Sostituisci**.
-    > [!NOTE]
-    > Se si hanno abbonamenti associati a un profilo di fatturazione, si può usare solo una carta di credito o di debito per il pagamento. Se nella pagina **Modalità di pagamento** sono elencati conti bancari, non sono disponibili per la selezione nell'elenco a discesa.
+    **Nota:** se hai abbonamenti associati a un profilo di fatturazione, puoi usare solo una carta di credito o di debito per pagarli. Se nella pagina **Modalità di pagamento** sono elencati conti bancari, non sono disponibili per la selezione nell'elenco a discesa.
 5. Per aggiungere una nuova modalità di pagamento, selezionare **Aggiungi modalità di pagamento**.
 6. Nel riquadro **Aggiungi un metodo di pagamento** immetti le informazioni sull'account e scegli **Salva**. È necessario usare una modalità di pagamento dello stesso paese/area geografica del tenant.
 7. La nuova modalità di pagamento è già selezionata nell'elenco a discesa. Selezionare **Sostituisci**.

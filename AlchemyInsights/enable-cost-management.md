@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003573"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325467"
 ---
 # <a name="enable-cost-management"></a>Abilitare la gestione dei costi
 
 **Cosa significa "i costi sono disabilitati per l'organizzazione"?**
 
-Le organizzazioni che utilizzano Enterprise Agreement (EA) o microsoft customer agreement (MCA) possono disabilitare l'accesso alle informazioni sui costi e alle informazioni sui prezzi.
+Le organizzazioni che utilizzano Enterprise Agreement (EA) o microsoft customer agreement (MCA) possono disabilitare l'accesso alle informazioni sui costi e ai prezzi.
 
 Dopo l'accesso al portale di Azure, possono usare le API di fatturazione per ottenere a livello di programmazione le fatture (una volta acconsentito esplicitamente) e i dettagli sull'utilizzo.
 
@@ -34,8 +34,7 @@ Dopo l'accesso al portale di Azure, possono usare le API di fatturazione per ott
 2. Selezionare **Fatture** e quindi **Accesso alle fatture**.
 3. Attivare l'accesso, seguito dal salvataggio delle modifiche, per consentire agli utenti con ruoli con ambito di sottoscrizione di scaricare le fatture.
 
-> [!NOTE]
-> L'amministratore dell'account può anche configurare l'invio delle fatture tramite posta elettronica. Per ulteriori informazioni, vedere [Ottenere la fattura tramite posta elettronica.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+**Nota:** l'amministratore dell'account può anche configurare l'invio delle fatture tramite posta elettronica. Per ulteriori informazioni, vedere [Ottenere la fattura tramite posta elettronica.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
 
 **Come aggiungere utenti al ruolo Lettore fatturazione**
 

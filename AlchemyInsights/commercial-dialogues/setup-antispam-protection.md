@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: be7fde5892c5e5dee09ece2ff4fdce07e6b5b9ba
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058510"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324575"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Configurare una protezione da posta indesiderata
 
-Ecco come eseguire questa operazione:
+1. Nel portale Microsoft 365 Defender posta elettronica all'indirizzo , passare a Email <https://security.microsoft.com/> **& Collaboration** Policies & \> **Rules Threat** \> **policies** \> **Anti-spam** nella **sezione Criteri.**
 
-1. Passare al Centro [Office 365 sicurezza & conformità](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Passare a **Criteri di gestione** delle  >  **minacce** e fare clic su Protezione da posta **[indesiderata.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
-1. Nella scheda **Personalizzata** attiva **Impostazioni** personalizzate.
-1. Espandere il **criterio predefinito per il filtro della posta indesiderata,** fare clic su Modifica **criterio** e quindi specificare le impostazioni seguenti:
-    1. Nella sezione **Azioni di posta indesiderata e in** blocco imposta la soglia su un valore pari a 5 o 6.
-1. Fare clic su **Salva**.
+   Per passare direttamente alla pagina **Criteri di protezione dalla posta indesiderata**, usare <https://security.microsoft.com/antispam>.
 
-Per ulteriori informazioni sulle opzioni dei criteri di protezione da posta indesiderata, vedere [Configure the anti-spam policies](https://go.microsoft.com/fwlink/?linkid=2092051).
+2. Nella pagina **Criteri di protezione** da posta indesiderata eseguire una delle operazioni seguenti:
+   - Per aggiungere un nuovo criterio, selezionare **+ Crea** \> **in ingresso.** Verrà avviata una procedura guidata per definire le impostazioni dei criteri.
+   - Per modificare un criterio esistente, selezionarlo facendo clic sul nome del criterio **(** Type is **Custom anti-spam policy** o **Name** is **Anti-Spam inbound policy (Default)**). Nel riquadro a comparsa dei dettagli visualizzato selezionare **Modifica** nella sezione contenente le impostazioni che si desidera configurare.
+
+3. Dopo aver esaminato le impostazioni, selezionare **Invia** (nuovo) o **Salva** (modifica).
+
+Per altre informazioni, vedere [Configurare i criteri di protezione dalla posta indesiderata in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

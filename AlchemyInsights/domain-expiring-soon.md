@@ -1,5 +1,5 @@
 ---
-title: Dominio in scadenza
+title: Scadenza registrazione dominio
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "10933"
+- "9006437"
 - "5300030"
-ms.openlocfilehash: 277285bfd0d52f3bcdbb7b0d0702f8032f6b9dce
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9462deefe62f2fb6fffd1703d4cca84a83c84eef
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814905"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325551"
 ---
-# <a name="domain-expiring-soon"></a>Dominio in scadenza
+# <a name="domain-registration-expiration"></a>Scadenza registrazione dominio
 
-Il messaggio di avviso relativo alla scadenza del dominio di Office 365 potrebbe non essere corretto. Stiamo lavorando per correggere questo problema.
+Scadenza dominio: 
 
 - Per verificare la scadenza del dominio contatta il registrar.
 
