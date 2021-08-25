@@ -14,23 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056494"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522358"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Si sta ricevendo l'errore "Non è stato possibile trovare una cassetta postale per" in Outlook sul web?
 
-Se si utilizza Outlook sul web e non è possibile trovare una cassetta postale per errore, **l'account** utilizzato per connettersi a Outlook sul web non dispone di una licenza Exchange Online e pertanto non è associata alcuna cassetta postale all'account. L'amministratore può assegnare una licenza all'account seguendo questa procedura:
+Se viene visualizzato un errore Outlook Web App (OWA): "Impossibile trovare una cassetta postale per l'utente .", significa che l'utente connesso non dispone di una licenza Exchange Onlince e sp, nessuna cassetta postale di Exchange Online è associata a questo account utente. 
 
-1. Aprire il [interfaccia di amministrazione di Microsoft 365](https://portal.office.com/adminportal/home#/homepage) e passare a **Utenti attivi** nella **sezione Utenti** e selezionare l'utente che sta visualizzato l'errore.
+Un amministratore dell'organizzazione può assegnare una licenza Exchange all'utente tramite il interfaccia di amministrazione di Microsoft 365 seguendo questi passaggi:
 
-2. Nella pagina utente visualizzata passare  alla sezione Licenze e  app, selezionare il valore percorso appropriato e assegnare una licenza che contiene Exchange Online (espandere la licenza per visualizzarne i dettagli). Al termine, fai clic su **salvare le modifiche**.
-
-In alcuni casi, se la licenza è già assegnata a un account utente, la rimozione e la riassegnazione della licenza consentono di risolvere il problema e di eseguirne il provisioning nel sistema: 
-
-- Verificare se le sottoscrizioni M365 Exchange Online (e altre, se disponibili) sono correnti e non sono scadute di recente.
-
-Dopo aver verificato che l'abbonamento non è scaduto e che all'account utente sia stata assegnata una licenza valida, il provisioning della licenza può richiedere fino a 24 ore, quindi potrebbe essere necessario attendere la risoluzione del problema. Per altre info, vedi [Assegnare e gestire le licenze.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
+1. Vai a [Utenti attivi,](https://portal.office.com/adminportal/home#/users)seleziona l'utente e seleziona **Licenze prodotto**  >  **Modifica.** 
+1. Impostare la posizione richiesta.
+1. Assegnare una licenza con un piano Exchange Online servizio.
