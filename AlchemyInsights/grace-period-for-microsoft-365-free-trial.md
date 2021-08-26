@@ -1,5 +1,5 @@
 ---
-title: Grace period for Microsoft 365 free trial
+title: Periodo di tolleranza per la versione di valutazione gratuita di Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -21,10 +21,10 @@ ms.contentlocale: it-IT
 ms.lasthandoff: 08/21/2021
 ms.locfileid: "58452286"
 ---
-# <a name="grace-period-for-microsoft-365-free-trial"></a>Grace period for Microsoft 365 free trial
+# <a name="grace-period-for-microsoft-365-free-trial"></a>Periodo di tolleranza per la versione di valutazione gratuita di Microsoft 365
 
-Dopo la prova gratuita di 30 giorni, l'account entra in un periodo di tolleranza per altri **30 giorni** nella maggior parte dei paesi e delle aree geografiche. During this grace period, you can purchase Microsoft 365. If you decide not to buy Microsoft 365, you can either [cancel your trial](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide) or let the grace period expire, and your trial account information and data is deleted.
+Dopo la prova gratuita di 30 giorni, l'account entra in un periodo di tolleranza per altri **30 giorni** nella maggior parte dei paesi e delle aree geografiche. Durante questo periodo di tolleranza è possibile acquistare Microsoft 365. Se si decide di non acquistare Microsoft 365, è possibile [annullare la versione di valutazione](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide) o lasciar scadere il periodo di tolleranza e le informazioni sull'account di valutazione e i relativi dati verranno eliminati.
 
-You can choose to [extend your trial](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial) for an additional 30 days if you haven't extended already.
+È possibile scegliere di [prolungare il periodo di valutazione](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial) per altri 30 giorni, se non lo si è già fatto.
 
-If you're a **Volume License** customer, please use the [Microsoft Volume Licensing Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center) for additional questions about the trial grace period.
+Se si ha un **contratto multilicenza**, usare il [Centro servizi per contratti multilicenza](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center) per altre domande sul periodo di tolleranza per la versione di valutazione.
