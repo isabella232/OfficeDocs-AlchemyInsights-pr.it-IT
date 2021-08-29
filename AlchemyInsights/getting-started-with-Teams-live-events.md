@@ -25,7 +25,7 @@ Gli eventi live di Microsoft Teams sono un'estensione delle riunioni di Teams. P
 
 Per creare un evento live è necessario quanto segue:
 
-- Verificare prima di tutto che gli eventi live di Teams siano [disponibili nel proprio paese e area geografica](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability). Gli eventi live non sono ancora supportati in alcuni paesi.  Se sono state assegnate licenze e impostato criteri, ma non si riesce comunque a creare eventi live di Teams, è probabile che ci si trovi in un paese o un'area geografica in cui gli eventi live non sono ancora disponibili.
+- Innanzitutto, conferma che gli eventi live di Teams siano [disponibili nel tuo Paese e nella tua regione](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Gli eventi live non sono ancora supportati in alcuni paesi.  Se hai assegnato licenze e impostato criteri, ma non riesci ancora a creare un evento live di Teams, è probabile che ti trovi in ​​un Paese o in una regione in cui gli eventi live non sono ancora disponibili.
 
 - Una [licenza di Office 365 Enterprise E1, E3 o E5 o una licenza di Office 365 A3 o A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
 

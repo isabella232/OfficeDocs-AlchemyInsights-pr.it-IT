@@ -42,6 +42,6 @@ Per informazioni su come **impedire o consentire** agli studenti di registrare r
 
 Se si vuole gestire solo la possibilità di registrare le riunioni, vedere [attivare o disattivare la registrazione cloud](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
 
-**Nota** Se non si è ancora acconsentito esplicitamente a usare lo spazio di archiviazione di OneDrive e SharePoint per la registrazione delle riunioni di Teams, queste funzionalità si basano sulla disponibilità di Stream nel paese e nell'area geografica dell'utente. Se non riesci a registrare una riunione, vedere [Quali sono le aree geografiche in cui Microsoft Stream può ospitare i dati?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
+**Nota** Se non si è ancora optato per l’archiviazione di OneDrive e SharePoint per la registrazione delle riunioni di Teams, queste funzionalità si basano sulla disponibilità di Stream a livello regionale e nazionale. Se non riesci a registrare una riunione, vedere [Quali sono le aree geografiche in cui Microsoft Stream può ospitare i dati?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
 
 Per maggiori informazioni, vedere [Funzionalità aggiornata: controllo dello spazio di archiviazione regionale per le registrazioni cloud di Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).
