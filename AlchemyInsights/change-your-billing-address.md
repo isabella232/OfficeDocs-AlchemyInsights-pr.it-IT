@@ -3,7 +3,6 @@ title: Modificare l'indirizzo di fatturazione
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -17,12 +16,13 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: f5320762aa8327dc7aa94cf46226b70462c9d9ec
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330412"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843310"
 ---
 # <a name="change-your-billing-address"></a>Modificare l'indirizzo di fatturazione
 
@@ -30,7 +30,7 @@ La fattura contiene tre indirizzi.
 
 **Modificare l'indirizzo di fatturazione per una modalità di pagamento**
 
-1. Nell'interfaccia di amministrazione passare a **Fatturazione > Metodi di [pagamento](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+1. Nell'interfaccia di amministrazione passare a **Fatturazione > Metodi di [pagamento.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 2. Selezionare la carta di credito o il conto corrente bancario che si desidera modificare.
 3. Nella pagina **Dettagli metodo di pagamento** fare clic su **Modifica.**
 4. Aggiorna l'indirizzo di fatturazione, quindi fai clic su **Salva > fatto**.

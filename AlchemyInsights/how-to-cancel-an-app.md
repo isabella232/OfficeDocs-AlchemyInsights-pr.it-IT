@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_subscriptions
 - "9000566"
 - "2424"
-ms.openlocfilehash: 504d0af989d93130bca0d91183cbfe608b76fd95d88f46af465e87cff1f052df
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: 1005828c1dda92ff310f7f2d956e64954f65d673
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926465"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843274"
 ---
 # <a name="how-to-cancel-software-as-a-service-apps"></a>Come annullare le app software-as-a-service
 
-1. Nell'interfaccia di amministrazione, alla **pagina Fatturazione**  >  [prodotti.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. Nell'interfaccia di amministrazione, alla **pagina Fatturazione**  >  [i tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054) prodotti.
 2. Nella pagina **Prodotti** scorri verso il basso fino alla **sezione App** e trova l'abbonamento che vuoi annullare. 
 3. Selezionare i tre puntini (Altre azioni) e quindi **Annulla abbonamento**.
 4. Nel riquadro **Annulla abbonamento** scegliere un motivo per cui si vuole annullare l'abbonamento. Se si vuole, inviare un feedback.

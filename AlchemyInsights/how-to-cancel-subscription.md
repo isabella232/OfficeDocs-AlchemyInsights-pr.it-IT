@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9003797"
 - "6836"
-ms.openlocfilehash: 7c25c2b782bdffadd5239aeeb7e0aba5386aeef42a7b5236c7d282ac3ba26a55
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: 7c3d346826f6ab0385fde20b97e36f1ef6febdc6
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029340"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843670"
 ---
 # <a name="how-to-cancel-a-subscription"></a>Come annullare una sottoscrizione
 
@@ -31,7 +32,7 @@ ms.locfileid: "54029340"
 
 **Cosa succede dopo l'annullamento dell'abbonamento?**
 
-Dopo l'annullamento dell'abbonamento, la fatturazione viene interrotta immediatamente. Tuttavia, possono essere necessari fino a 10 minuti prima che l'annullamento venga visualizzato nel portale. Se annulli l'abbonamento a metà di un periodo di fatturazione, microsoft invia la fattura finale alla data della fattura tipica al termine del periodo.
+Dopo l'annullamento dell'abbonamento, la fatturazione viene interrotta immediatamente. Tuttavia, possono essere necessari fino a 10 minuti prima che l'annullamento venga visualizzato nel portale. Se annulli l'abbonamento a metà di un periodo di fatturazione, microsoft invia la fattura finale alla data di fatturazione tipica al termine del periodo.
 
 Dopo l'annullamento, i servizi sono disabilitati. Ciò significa che verrà rimossa l’allocazione delle macchine virtuali, gli indirizzi IP temporanei verranno liberati e lo spazio di archiviazione sarà di sola lettura.
 
