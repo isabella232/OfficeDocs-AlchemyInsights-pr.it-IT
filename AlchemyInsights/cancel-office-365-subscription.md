@@ -12,13 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
+ms.date: 08/11/2021
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b55130a5e3ddc42c32658115809035ce792fa3868ff62b16a94c80d91572568a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ca706a13805ba837128664de1dcf3794e1875380
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900476"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845434"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Annullare l'Microsoft 365 abbonamento?
 
@@ -30,7 +31,6 @@ Siamo spiacenti di vederti andare, ma se vuoi annullare l'abbonamento, ecco le o
 
 **Rimborso: qualsiasi credito rievato verrà restituito all'utente entro il ciclo di fatturazione successivo.**
 
-> [!NOTE]
-> Se l'opzione di annullamento non è disponibile, selezionare la sottoscrizione per visualizzare la pagina dei dettagli. Nella sezione **Impostazioni sottoscrizione e pagamento** selezionare Annulla **sottoscrizione.**
+**Nota:** se l'opzione di annullamento non è disponibile, selezionare l'abbonamento per visualizzare la pagina dei dettagli. Nella sezione **Impostazioni sottoscrizione e pagamento** selezionare Annulla **sottoscrizione.**
 
 Per ulteriori informazioni, vedere [Annullare l'abbonamento.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

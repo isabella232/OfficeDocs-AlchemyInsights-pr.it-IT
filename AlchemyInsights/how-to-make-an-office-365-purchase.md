@@ -3,7 +3,6 @@ title: Come effettuare un Microsoft 365 acquisto
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 3eb518dbdd71985fe06044925dd52bfbca98defc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 61070576e6961a40f275dbb76493d8dc93192bb7
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318566"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842410"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Come effettuare un Microsoft 365 acquisto
 
-È possibile acquistare una sottoscrizione Microsoft 365 nell'interfaccia di amministrazione.
+È possibile acquistare un abbonamento Microsoft 365 nell'interfaccia di amministrazione.
   
 - Per acquistare un piano, passare alla **pagina Fatturazione** \> **[Acquisto servizi.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
 - Per acquistare licenze aggiuntive, vai alla **pagina Fatturazione** \> **[i tuoi](https://go.microsoft.com/fwlink/p/?linkid=842054)** prodotti. Seleziona l'abbonamento che vuoi modificare, quindi seleziona **Acquista licenze**.\
@@ -39,4 +39,4 @@ Se si verificano problemi durante il caricamento delle pagine, provare ad aprire
 **Risorse aggiuntive**
   
 - [Assegnare licenze agli utenti in Microsoft 365 per le aziende](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [Annulla Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Annullare Microsoft 365 per le aziende](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
