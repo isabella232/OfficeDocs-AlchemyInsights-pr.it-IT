@@ -13,28 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9808"
 - "9005728"
-ms.openlocfilehash: 2c284e38e36658dde8d28214908865a4cb8ed3065bf571eb450ce540b9207cd2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8a1f8d0b1bb0ab38c3facf63c01a5c2ed68ca96d
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016344"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923774"
 ---
 # <a name="create-an-email-signature-in-outlook-for-windows"></a>Creare una firma di posta elettronica in Outlook per Windows
 
-Per creare una firma di posta elettronica per le versioni più recenti di Outlook, ad esempio Outlook 2019, 2016 o 2013, eseguire le operazioni seguenti:
+Per creare una firma di posta elettronica in Outlook 2019, 2016 o 2013 per Windows, eseguire le operazioni seguenti:
 
-1. In Outlook, nella scheda **Home** selezionare **Nuovo messaggio di posta elettronica** e quindi selezionare la scheda **Messaggio**.
+1. Aprire Outlook e selezionare **Opzioni** > **file.**
+1. Selezionare **Firme**  >  **di posta...**.
+1. Selezionare **Nuovo,** digitare un nome e selezionare **OK.**
+1. Nella casella **Modifica firma** comporre la firma e selezionare **Salva.**
+1. Per includere la nuova firma nei nuovi messaggi o risposte/in avanti, selezionare la casella di riepilogo a discesa accanto a **Scegli firma predefinita** e quindi selezionare la nuova firma.
+1. Selezionare **OK**.
 
-1. Nel gruppo **Includi** selezionare **Firma** e quindi scegliere **Firme**.
-
-1. In **Seleziona la firma da modificare** scegliere **Nuova**, quindi nella finestra di dialogo **Nuova firma** digitare un nome per la firma.
-
-1. In **Scegli la firma predefinita** nell’elenco **Account di posta elettronica** selezionare un account di posta elettronica da associare alla firma nell'elenco.
-
-1. In **Selezionare la firma da modificare** seleziona **Nuova** e digita un nome per la firma.
-
-1. In **Modifica firma** digitare la firma che si desidera usare e fare clic su **OK**.
-
-Per informazioni su come creare una firma di posta elettronica in versioni precedenti di Outlook, ad esempio Outlook 2010 o 2007, vedere [Creare e aggiungere una firma ai messaggi](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010).
-
+Per informazioni su come creare una firma di posta elettronica in versioni precedenti di Outlook, ad esempio Outlook 2010, vedere [Creare e aggiungere una firma ai messaggi](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010).

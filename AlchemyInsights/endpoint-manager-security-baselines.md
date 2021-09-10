@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978165"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923558"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPoint Manager - Baseline di sicurezza
 
@@ -37,6 +37,8 @@ Ognuna delle baseline viene aggiornata periodicamente e rilasciata in versioni i
 Per indicazioni su come modificare in modo più efficace la versione della baseline distribuita, vedere [Gestire i profili della baseline di sicurezza in Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Dopo aver distribuito una baseline di sicurezza, è possibile monitorare lo stato della distribuzione ed esaminare le impostazioni a seconda dei dispositivi.
+
+Poiché le baseline di sicurezza contengono molte impostazioni, è importante esaminare le modifiche alla configurazione ed eseguire test per assicurarsi che tutte le impostazioni siano appropriate per i dispositivi e le esigenze aziendali.
 
 **Nota:** la visualizzazione dei dati dei report per le baseline può richiedere fino a 24 ore dalla distribuzione iniziale in un dispositivo e fino a 6 ore per ulteriori aggiornamenti. 
 
