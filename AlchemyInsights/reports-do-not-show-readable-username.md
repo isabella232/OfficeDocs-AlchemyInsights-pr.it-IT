@@ -15,12 +15,12 @@ ms.custom:
 - "13810"
 - "13812"
 - "9008619"
-ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
-ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
+ms.openlocfilehash: ff8eac6487ef544277c5ce2c0c0b7068c9d400ca
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "58896348"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327818"
 ---
 # <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Il nome utente non è leggibile nei report nell'interfaccia di amministrazione di Microsoft 365
 
@@ -30,5 +30,5 @@ Questo comportamento è previsto ed è stato comunicato nel Centro messaggi (MC2
 
 Gli amministratori globali possono ripristinare questa modifica per il tenant e mostrare informazioni personali dell'utente, se le procedure di privacy dell'organizzazione lo consentono. Per ripristinare la modifica per il tenant:
 
-1. Nell'interfaccia di amministrazione, passare a **Impostazioni** > **Impostazioni organizzazione** > [**Servizi**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services) e selezionare **Report**. 
+1. Nell'interfaccia di amministrazione, passare a **Impostazioni** > **Impostazioni organizzazione** > [**Servizi**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services ) e selezionare **Report**. 
 1. In **Scegliere come mostrare le informazioni utente**, selezionare **Mostra informazioni personali dell'utente nei report** ed eseguire di nuovo il report.
