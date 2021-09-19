@@ -12,27 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4003faac9294725283786fd865217fdc7fcdcef
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060860"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446659"
 ---
 # <a name="set-up-insider-risk-management"></a>Configurare la gestione dei rischi Insider
 
-Per accedere a e usare la gestione dei rischi Insider, **è necessario** che l'organizzazione abbia uno degli abbonamenti seguenti:
+Per accedere a e usare la gestione dei rischi Insider, è necessario che l'organizzazione abbia uno degli abbonamenti seguenti:
 
-- Abbonamento a **Microsoft 365 E5**.
+- Abbonamento a Microsoft 365 G5 (versione di valutazione gratuita o a pagamento)
+- Abbonamento a Microsoft 365 G3 + componente aggiuntivo Microsoft 365 G5 Compliance
+- Abbonamento a Microsoft 365 G3 + componente aggiuntivo di gestione dei rischi Insider Microsoft 365 G5
+- Abbonamento a Office 365 E3 + Enterprise Mobility and Security E3 + componente aggiuntivo Microsoft 365 E5 Compliance
 
-- Abbonamento a **Microsoft 365 E3** con il componente aggiuntivo Microsoft E5 Compliance.
+Se non si ha un piano Microsoft 365 E5 esistente e si vuole provare la gestione dei rischi Insider, è possibile aggiungere Microsoft 365 all'abbonamento esistente o iscriversi per ricevere una versione di valutazione di Microsoft 365 Enterprise E5.
 
-Se non si ha un piano **Microsoft 365 E5** esistente e si vuole provare la gestione dei rischi Insider, è possibile aggiungere Microsoft 365 all'abbonamento esistente o iscriversi a una versione di valutazione di Microsoft 365 Enterprise E5.
+**Suggerimenti**:
 
-> SUGGERIMENTI
-- > Utilizzo del modello "Perdite di dati": assicurarsi di aver configurato almeno un criterio DLP.
-- > L'amministratore non vede gli avvisi: assicurati che l'utente sia assegnato a uno dei seguenti gruppi:
-    - >**Analisti gestione dei rischi Insider**
-    - >**Investigatori gestione dei rischi Insider**
+- Usando il modello Perdite di dati, assicurarsi di avere configurato almeno un criterio di prevenzione della perdita dei dati (DLP). Tuttavia, esiste una nuova opzione trigger che non richiede la configurazione di un criterio DLP.
 
-Per altre informazioni sul modo in cui i criteri dei rischi Insider possono aiutare a gestire i rischi nell'organizzazione, vedere [Gestione dei rischi Insider in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
+- Gli amministratori globali non hanno accesso al portale di gestione dei rischi Insider per impostazione predefinita. È necessario assegnare loro uno dei ruoli di gestione dei rischi Insider.
+
+- Se un amministratore non vede avvisi, assicurarsi che l'utente sia assegnato a uno dei gruppi seguenti:
+
+    Analisti gestione dei rischi Insider
+
+    Investigatori gestione dei rischi Insider
+
+Per altre informazioni su come i criteri di rischio insider possono aiutare a gestire i rischi nell'organizzazione, vedere [Informazioni sulla gestione dei rischi insider in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management).
