@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: eb584743a717246f761b9d9c3d40dd546e4b9630b852c70b45165edcc29e5859
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7078f3d1604fa34533b8eb0c0b9430ba3637ed
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54032526"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475257"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Come creare un'etichetta di riservatezza
 
@@ -35,3 +35,5 @@ ms.locfileid: "54032526"
 1. Dopo aver creato tutte le etichette desiderate, esaminarne l'ordine e, se necessario, spostarle verso l'alto o verso il basso. 
     
     Per modificare l'ordine di un'etichetta, selezionare i tre puntini (Altre azioni) e quindi selezionare **Sposta su** o **Sposta giù**.
+
+Per ulteriori informazioni, vedi [Crea e configura le etichette di riservatezza e i relativi criteri](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
