@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105572"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481794"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Risolvere gli errori di Ricerca contenuto
 
 Si verificano problemi con Ricerca contenuto o si verificano errori durante l'esportazione dei risultati della ricerca?
+Ad esempio, si riceve quanto segue quando si eseguono le ricerche?
 
-Ad esempio, si riceve quanto segue quando si eseguono ricerche?
-
-- Errori CS008 o CS012
+- Errori CS007, CS008 o CS012
 
 - Errori di timeout/occupato del server
 
 - Si è verificato un errore dell'applicazione
 
-Oppure durante la ricerca o l'esportazione dei risultati da un numero elevato di cassette postali (oltre 100.000 cassette postali), si verificano errori di esportazione?
+In caso contrario, si verificano errori di esportazione quando si esportino risultati da un numero elevato (oltre 100.000) di cassette postali?
 
-Per questi tipi di errori, ritentare la ricerca dei percorsi di contenuto non riusciti. Per  [ulteriori informazioni,](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) vedere questo articolo.
+Per questi errori, ritentare la ricerca per i percorsi di contenuto che hanno avuto esito negativo o aggiornare la ricerca riducendo la complessità della query di ricerca. Ad esempio, una ricerca con caratteri jolly potrebbe restituire troppi risultati per l'elaborazione da parte del sistema, causando un errore CS007.   
 
-Se si esportano più di 100.000 cassette postali, è necessario utilizzare powershell seguente per scaricare i risultati di esportazione: Esportazione dei risultati da più di  [100.000](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)cassette postali .
+Per ulteriori informazioni, vedere [Retry a Content Search to resolve a content location error](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) oppure [Investigate, troubleshoot, and resolve common eDiscovery issues](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues).
+
+Se si esportano più di 100.000 cassette postali, è necessario scaricare i risultati dell'esportazione. Per informazioni dettagliate, vedere [Export Content search results](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
