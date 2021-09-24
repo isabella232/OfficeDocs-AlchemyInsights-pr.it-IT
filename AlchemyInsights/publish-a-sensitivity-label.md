@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062876"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475221"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Come pubblicare un'etichetta di riservatezza
 
@@ -39,3 +39,5 @@ ms.locfileid: "54062876"
 1. Se si creano più criteri di etichetta che potrebbero comportare un conflitto per un utente o un percorso, rivedere l'ordine dei criteri e, se necessario, spostarli verso l'alto o verso il basso. Per modificare l'ordine di un criterio di etichetta, selezionare i tre puntini (Altre azioni) e quindi selezionare **Sposta su** o **Sposta giù**.
 
 Quando si completa la procedura guidata, il criterio dell'etichetta viene pubblicato automaticamente.
+
+Per ulteriori informazioni, vedi [Crea e configura le etichette di riservatezza e i relativi criteri](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
