@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 782d79d7a67515ff02f9cef61176b9bea9017f1ad490090e748a10005c3c8bf3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092308"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60077218"
 ---
 # <a name="uk-domain-transfers"></a>Trasferimenti di dominio .uk
 
-Contattare il supporto Tecnico Microsoft e richiedere una **modifica del tag IPS** in modo che corrisponda al registrar che si desidera gestire il dominio in futuro. Una volta modificato il tag, il dominio si trasferisce immediatamente al nuovo registrar. Dovrai quindi collaborare con il nuovo registrar per completare il trasferimento, probabilmente pagando le tariffe di trasferimento e aggiungendo il dominio trasferito al tuo account con il nuovo registrar.
+I trasferimenti di dominio nel Regno Unito richiedono il tag IPS del nuovo registrar. Il tag IPS può essere immesso nel Trasferimento guidato dominio nel portale di amministrazione di Microsoft:
 
-Per ulteriori informazioni sui trasferimenti di dominio, vedere [Trasferire un dominio da Microsoft a un altro host.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+- Vai a **Impostazioni** domini , fai doppio clic sul dominio e  >  scegli **Trasferisci dominio** per avviare il trasferimento guidato.
 
-Prepararsi a fornire il tag IPS del nuovo registrar, disponibile all'indirizzo https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
+Una volta modificato il tag, il dominio si trasferisce immediatamente al nuovo registrar. Dovrai quindi collaborare con il nuovo registrar per completare il trasferimento, probabilmente pagando le tariffe di trasferimento e aggiungendo il dominio trasferito al tuo account con il nuovo registrar.
+
+Per ulteriori informazioni sui trasferimenti di dominio, vedere [Trasferire un dominio da Microsoft a un altro host.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
