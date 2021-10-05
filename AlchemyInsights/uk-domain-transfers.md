@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
-ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
+ms.openlocfilehash: 70c7e57f75e80703c82835ad64fb3ea23443012c
+ms.sourcegitcommit: 6332962732a3616605237b0a8ec1cf198d409985
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60077218"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60102369"
 ---
 # <a name="uk-domain-transfers"></a>Trasferimenti di dominio .uk
 
 I trasferimenti di dominio nel Regno Unito richiedono il tag IPS del nuovo registrar. Il tag IPS può essere immesso nel Trasferimento guidato dominio nel portale di amministrazione di Microsoft:
 
-- Vai a **Impostazioni** domini , fai doppio clic sul dominio e  >  scegli **Trasferisci dominio** per avviare il trasferimento guidato.
+- Vai a **Impostazioni** domini , fai doppio clic sul dominio e  >  [](https://admin.microsoft.com/#/Domains)scegli **Trasferisci dominio** per avviare il trasferimento guidato.
 
 Una volta modificato il tag, il dominio si trasferisce immediatamente al nuovo registrar. Dovrai quindi collaborare con il nuovo registrar per completare il trasferimento, probabilmente pagando le tariffe di trasferimento e aggiungendo il dominio trasferito al tuo account con il nuovo registrar.
 
